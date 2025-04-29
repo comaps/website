@@ -1,8 +1,8 @@
-# Organic Maps Website
+# CoMaps Website
 
-This static website is built with [Zola](https://www.getzola.org/) and Cloudflare Pages.
+This static website is built with [Zola](https://www.getzola.org/).
 
-![Main Website](./static/images/website-main.png)
+<!-- ![Main Website](./static/images/website-main.png) -->
 
 ## Development
 
@@ -13,18 +13,17 @@ Run `zola serve` for a local preview or `zola build` to generate static site in 
 Run `npm i && npm run format` when you want to pretty-format the Markdown and SCSS files.
 
 Upgrade npm dependencies with `npm run upgrade`, make sure that you have installed `npm-check-updates` package.
-
+<!-- 
+TODO
 ## Deployment
-
 Every PR deploys a preview version of the site at unique url.
 
 Every merge into the _master_ branch deploys changes into the production at https://organicmaps.app
 
 ### Updating News
-
 Run `npm run news` to automatically download news from our [Telegram channel](https://t.me/OrganicMapsApp),
 then create a git commit and push it.
-
+-->
 ## Contribution
 
 Any good ideas and help with web site improvement are appreciated. And it's always better to discuss
@@ -32,4 +31,4 @@ any improvement before implementing it to sync with our vision and plans.
 
 ## Translations
 
-Please help us with translating this web-site in your language. See [TRANSLATIONS.md](TRANSLATIONS.md) file for detailed instructions.
+We need your help to translate this site to your language. See [TRANSLATIONS.md](TRANSLATIONS.md) file for detailed instructions.
