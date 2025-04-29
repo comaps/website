@@ -1,0 +1,45 @@
+/// Variables ///
+@import "./variables/media";
+@import "./variables/color-theme";
+@import "./variables/fonts";
+@import "./variables/spasing";
+@import "./variables/images";
+
+/// Global Style ///
+@import "./global/reset";
+@import "./global";
+
+// Common Style
+@import "./common/header";
+@import "./common/footer";
+@import "./common/bred-crum";
+@import "./common/involved";
+@import "./common/showcase";
+@import "./common/support-block";
+@import "./common/search";
+@import "./common/section-social";
+@import "./common/solo-donate";
+
+// Component Style
+@import "./component/lang-switcher";
+@import "./component/buttons";
+@import "./component/switch-theme";
+@import "./component/animation";
+@import "./component/header-sub";
+@import "./component/icons";
+@import "./component/post-min";
+@import "./component/pagination";
+@import "./component/tables";
+
+// Pages Style
+@import "./pages/home";
+@import "./pages/community";
+@import "./pages/support";
+@import "./pages/volunteering";
+@import "./pages/new-support";
+@import "./pages/faq-page";
+@import "./pages/about-us";
+@import "./pages/crowdfunding";
+@import "./pages/download";
+@import "./pages/news";
+@import "./pages/single-news";
