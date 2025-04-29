@@ -1,11 +1,10 @@
-name: Publish to Cloudflare Pages
+name: Publish to Codeberg Pages
 
 env:
   ZOLA_VERSION: 0.17.2
 
 on:
-  workflow_dispatch:  # keep manual Github Action trigger in case of any issues with CF pages
-#  push:
+  workflow_dispatch:  # keep manual Action trigger in case of any issues with pages push:
 
 jobs:
   publish:
@@ -14,7 +13,7 @@ jobs:
     permissions:
       contents: read
       deployments: write
-    name: Publish to Cloudflare Pages
+    name: Publish to Codeberg Pages
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -25,7 +24,8 @@ jobs:
           tar -zxvf zola.tar.gz
           ./zola build
 
-      - name: Publish to Cloudflare Pages
+      - name: Publish to Codeberg Pages
+      #TODO make it push to comaps/pages
         uses: cloudflare/pages-action@v1
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
