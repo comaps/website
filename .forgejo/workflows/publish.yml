@@ -8,28 +8,31 @@ on:
 
 jobs:
   publish:
-    runs-on: ubuntu-latest
+    runs-on: codeberg-tiny
     environment: production
     permissions:
       contents: read
       deployments: write
     name: Publish to Codeberg Pages
     steps:
-      - name: Checkout
+      - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Build with Zola
+      - name: Setup Zola
         run: |
           wget -O zola.tar.gz -c https://github.com/getzola/zola/releases/download/v${ZOLA_VERSION}/zola-v${ZOLA_VERSION}-x86_64-unknown-linux-gnu.tar.gz
           tar -zxvf zola.tar.gz
+
+      - name: Setup Go
+        uses: actions/setup-go@v3
+        with:
+          go-version: "1.21"
+
+      - name: Build Site
+        run: | 
           ./zola build
 
-      - name: Publish to Codeberg Pages
-      #TODO make it push to comaps/pages
-        uses: cloudflare/pages-action@v1
+      - name: Deploy to Codeberg Pages
+        uses: https://itsblue.dev/actions/codeberg-pages-deploy@v1
         with:
-          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          projectName: organicmaps
-          directory: public
-          gitHubToken: ${{ secrets.GITHUB_TOKEN }}
+          folder: ./public

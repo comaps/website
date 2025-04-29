@@ -8,7 +8,7 @@ on:
 
 jobs:
   check:
-    runs-on: ubuntu-latest
+    runs-on: codeberg-tiny
     environment: production
     name: Check Zola build
     steps:
