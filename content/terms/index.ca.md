@@ -1,8 +1,8 @@
 ---
-description: "Condicions d’ús de l’aplicació Organic Maps"
+description: "Condicions d’ús de l’aplicació CoMaps"
 extra:
   menu_title: Condicions
-title: "Organic Maps: condicions"
+title: "CoMaps: condicions"
 weight: 1000
 ---
 
@@ -29,7 +29,7 @@ Consulteu les seves LLICÈNCIES, CÒPIES o AVISOS per a conèixer les
 condicions d'ús.
 
 Consulteu també el fitxer [data/copyright.html][copyright] per a una llista
-completa d’avisos de drets d’autor per a l’aplicació Organic Maps.
+completa d’avisos de drets d’autor per a l’aplicació CoMaps.
 
 Si teniu cap dubte o suggeriment, contacteu (en anglès) amb nosaltres a
 [legal@organicmaps.app](mailto:legal@organicmaps.app).

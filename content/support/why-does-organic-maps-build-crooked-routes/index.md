@@ -1,6 +1,6 @@
 ---
-title: "Why does Organic Maps build crooked routes?"
-description: "Frequently asked questions for Organic Maps application"
+title: "Why does CoMaps build crooked routes?"
+description: "Frequently asked questions for CoMaps application"
 taxonomies:
   support: ["Route Planning & Navigation"]
 extra:

@@ -1,6 +1,6 @@
 ---
-title: "What gestures does Organic Maps support?"
-description: "Frequently asked questions for Organic Maps application"
+title: "What gestures does CoMaps support?"
+description: "Frequently asked questions for CoMaps application"
 taxonomies:
   support: ["Operating The Map"]
 extra:

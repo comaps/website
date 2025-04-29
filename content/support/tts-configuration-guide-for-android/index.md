@@ -1,6 +1,6 @@
 ---
 title: "TTS Configuration Guide for Android"
-description: "Frequently asked questions for Organic Maps application"
+description: "Frequently asked questions for CoMaps application"
 taxonomies:
   support: ["Text-To-Speech (TTS)"]
 extra:
@@ -8,9 +8,9 @@ extra:
   order: 30
 ---
 
-Organic Maps uses the system Text-To-Speech (TTS) engine for voice instructions. The default engines vary by device. The choices can include Google Text-To-Speech, device manufacturer's engine or a third-party one.
+CoMaps uses the system Text-To-Speech (TTS) engine for voice instructions. The default engines vary by device. The choices can include Google Text-To-Speech, device manufacturer's engine or a third-party one.
 
-The official recommendation from Organic Maps is [RHVoice](https://rhvoice.org/), which is a free and open source speech engine that can be downloaded from [Google Play](https://play.google.com/store/apps/details?id=com.github.olga_yakovleva.rhvoice.android) and [F-Droid](https://f-droid.org/en/packages/com.github.olga_yakovleva.rhvoice.android/).
+The official recommendation from CoMaps is [RHVoice](https://rhvoice.org/), which is a free and open source speech engine that can be downloaded from [Google Play](https://play.google.com/store/apps/details?id=com.github.olga_yakovleva.rhvoice.android) and [F-Droid](https://f-droid.org/en/packages/com.github.olga_yakovleva.rhvoice.android/).
 
 Instructions
 
@@ -161,5 +161,5 @@ If you’re having trouble initializing the RHVoice TTS engine on LineageOS or o
 * Now, you should be able to use RHVoice without any problems
 
 Testing  
-In order to test the voice instructions, you can tap on "Test Voice Directions (TTS, Text-To-Speech)" in the OM "Settings → Voice Instructions" menu or you can actually start a navigation to receive any voice output. Organic Maps will not give you any voice instructions while you're standing still.  
+In order to test the voice instructions, you can tap on "Test Voice Directions (TTS, Text-To-Speech)" in the OM "Settings → Voice Instructions" menu or you can actually start a navigation to receive any voice output. CoMaps will not give you any voice instructions while you're standing still.  
 ![](image17.png)

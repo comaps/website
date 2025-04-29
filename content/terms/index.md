@@ -1,6 +1,6 @@
 ---
 title: "Terms"
-# description: "Terms of use for Organic Maps application"
+# description: "Terms of use for CoMaps application"
 weight: 1000
 extra:
   menu_title: Terms
@@ -19,7 +19,7 @@ Most libraries in the following directories on [GitHub][github] made by other pe
 
 Please refer to their LICENSE, COPYING or NOTICE files for terms of use.
 
-See [data/copyright.html][copyright] file for a full list of copyright notices for Organic Maps application.
+See [data/copyright.html][copyright] file for a full list of copyright notices for CoMaps application.
 
 If you have any questions or suggestions, please contact us at [legal@organicmaps.app](mailto:legal@organicmaps.app).
 

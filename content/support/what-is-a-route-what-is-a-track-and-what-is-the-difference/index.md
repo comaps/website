@@ -1,6 +1,6 @@
 ---
 title: "What is a route, what is a track, and what is the difference?"
-description: "Frequently asked questions for Organic Maps application"
+description: "Frequently asked questions for CoMaps application"
 taxonomies:
   support: ["Favorites: Places & Tracks"]
 extra:

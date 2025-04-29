@@ -1,6 +1,6 @@
 ---
 title: "Why is there a shaded circle instead of an arrow indicating my position?"
-description: "Frequently asked questions for Organic Maps application"
+description: "Frequently asked questions for CoMaps application"
 taxonomies:
   support: ["GPS & Compass"]
 extra:

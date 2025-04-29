@@ -1,6 +1,6 @@
 ---
 title: "What is the purpose of the little blue arrow in the place page?"
-description: "Frequently asked questions for Organic Maps application"
+description: "Frequently asked questions for CoMaps application"
 taxonomies:
   support: ["Operating The Map"]
 extra:

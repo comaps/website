@@ -1,8 +1,8 @@
 ---
-description: "Gebruiksvoorwaardes vir die Organic Maps-toepassing"
+description: "Gebruiksvoorwaardes vir die CoMaps-toepassing"
 extra:
   menu_title: Voorwaardes
-title: "Organic Maps: voorwaardes"
+title: "CoMaps: voorwaardes"
 weight: 1000
 ---
 
@@ -29,7 +29,7 @@ Sien asseblief die LISENSIE-, KOPIËRING- of KENNISGEWINGLÊERS vir die
 gebruiksvoorwaardes.
 
 Sien ook die lêer [data/copyright.html][copyright] vir ’n volledige lys van
-kopieregkennisgewings vir die Organic Maps-toepassing.
+kopieregkennisgewings vir die CoMaps-toepassing.
 
 Indien u vrae of opmerkings het, kontak ons asb. by
 [legal@organicmaps.app](mailto:legal@organicmaps.app).

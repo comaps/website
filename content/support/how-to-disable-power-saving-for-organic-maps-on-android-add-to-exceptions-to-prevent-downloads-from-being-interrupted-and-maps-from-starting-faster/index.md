@@ -1,6 +1,6 @@
 ---
-title: "How to disable Power Saving for Organic Maps on Android (add to exceptions) to prevent downloads from being interrupted and maps from starting faster?"
-description: "Frequently asked questions for Organic Maps application"
+title: "How to disable Power Saving for CoMaps on Android (add to exceptions) to prevent downloads from being interrupted and maps from starting faster?"
+description: "Frequently asked questions for CoMaps application"
 taxonomies:
   support: ["Features"]
 extra:

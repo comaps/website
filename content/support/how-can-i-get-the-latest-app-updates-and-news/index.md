@@ -1,6 +1,6 @@
 ---
 title: "How can I get the latest app updates and news?"
-description: "Frequently asked questions for Organic Maps application"
+description: "Frequently asked questions for CoMaps application"
 taxonomies:
   support: ["Community Collaboration"]
 extra:

@@ -1,6 +1,6 @@
 ---
 title: "How can I get my current coordinates, speed, and altitude?"
-description: "Frequently asked questions for Organic Maps application"
+description: "Frequently asked questions for CoMaps application"
 taxonomies:
   support: ["Operating The Map"]
 extra:

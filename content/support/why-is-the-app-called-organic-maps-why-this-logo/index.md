@@ -1,8 +1,8 @@
 ---
-title: "Why is the app called Organic Maps? Why this logo?"
-description: "Frequently asked questions for Organic Maps application"
+title: "Why is the app called CoMaps? Why this logo?"
+description: "Frequently asked questions for CoMaps application"
 taxonomies:
-  support: ["About Organic Maps"]
+  support: ["About CoMaps"]
 extra:
   tags: ["Android", "iPhone & iPad"]
   order: 60

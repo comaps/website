@@ -2,15 +2,15 @@
 description: "Tanpa pelacakan, tanpa iklan, tanpa pengumpulan data, tanpa pengumpulan statistik, tanpa perangkat lunak pengintai"
 extra:
   menu_title: Privasi
-title: "Organic Maps: Kebijakan Privasi"
+title: "CoMaps: Kebijakan Privasi"
 weight: 900
 ---
 
-Organic Maps menghormati privasi Anda dan TIDAK MELACAK ANDA.
+CoMaps menghormati privasi Anda dan TIDAK MELACAK ANDA.
 
 Tidak seperti kebanyakan aplikasi lain, ini tidak memiliki pelacakan, tanpa
 iklan, tanpa perangkat lunak pengintai, tanpa pengumpulan data dan statistik
-di Organic Maps.
+di CoMaps.
 
 Tolak pengawasan — rangkul kebebasan Anda.
 

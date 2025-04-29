@@ -1,12 +1,12 @@
 ---
-title: "Organic Maps: Gizlilik Politikası"
+title: "CoMaps: Gizlilik Politikası"
 description: "Takip yok, reklam yok, veri toplama yok, casusluk yok"
 weight: 900
 extra:
   menu_title: Gizlilik
 ---
 
-Organic Maps gizliliğinize saygı duyar ve SİZİ TAKİP ETMEZ.
+CoMaps gizliliğinize saygı duyar ve SİZİ TAKİP ETMEZ.
 
 Takip yok, reklam yok, veri toplama yok, casusluk yok.
 

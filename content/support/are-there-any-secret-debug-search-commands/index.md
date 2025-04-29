@@ -1,6 +1,6 @@
 ---
 title: "Are there any “secret” debug search commands?"
-description: "Frequently asked questions for Organic Maps application"
+description: "Frequently asked questions for CoMaps application"
 taxonomies:
   support: ["Search"]
 extra:
@@ -8,7 +8,7 @@ extra:
   order: 20
 ---
 
-Yes, Organic Maps exposes different “debug commands” to help you control the native components (engine, editor, navigation, ...). These commands are not intended for regular users and are only used for debug purposes. Please only use these commands if you are working on Organic Maps.  
+Yes, CoMaps exposes different “debug commands” to help you control the native components (engine, editor, navigation, ...). These commands are not intended for regular users and are only used for debug purposes. Please only use these commands if you are working on CoMaps.  
 Each command is entered in the search input field (Android and iOS) and is activated as soon as the full search keyword is entered. Unless specified, the effects triggered are discarded after a restart.  
 Here are a few examples of debug commands:
 

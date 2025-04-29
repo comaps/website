@@ -1,6 +1,6 @@
 ---
-title: "Edits are not uploading from Organic Maps to OSM. What should I do?"
-description: "Frequently asked questions for Organic Maps application"
+title: "Edits are not uploading from CoMaps to OSM. What should I do?"
+description: "Frequently asked questions for CoMaps application"
 taxonomies:
   support: ["Map Data"]
 extra:

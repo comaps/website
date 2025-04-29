@@ -1,6 +1,6 @@
 ---
 title: "The app is very slow, and maps are stored on an SD card"
-description: "Frequently asked questions for Organic Maps application"
+description: "Frequently asked questions for CoMaps application"
 taxonomies:
   support: ["Troubleshooting"]
 extra:

@@ -1,6 +1,6 @@
 ---
 title: "How can I sort/rearrange the different stops of a route?"
-description: "Frequently asked questions for Organic Maps application"
+description: "Frequently asked questions for CoMaps application"
 taxonomies:
   support: ["Route Planning & Navigation"]
 extra:

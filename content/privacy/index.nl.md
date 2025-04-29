@@ -2,13 +2,13 @@
 description: "Geen tracking, geen advertenties, geen dataverzameling, geen statistiekenverzameling, geen spyware"
 extra:
   menu_title: Privacy
-title: "Organic Maps: pricavyovereenkomst"
+title: "CoMaps: pricavyovereenkomst"
 weight: 900
 ---
 
-Organic Maps respecteert uw privacy en TRACKT U NIET.
+CoMaps respecteert uw privacy en TRACKT U NIET.
 
-In tegenstelling tot andere applicaties zijn er in Organic Maps geen
+In tegenstelling tot andere applicaties zijn er in CoMaps geen
 tracking, geen advertenties, geen spyware geen data- en
 statistiekverzameling.
 

@@ -1,8 +1,8 @@
 ---
 title: "What are your plans for the project's development?"
-description: "Frequently asked questions for Organic Maps application"
+description: "Frequently asked questions for CoMaps application"
 taxonomies:
-  support: ["About Organic Maps"]
+  support: ["About CoMaps"]
 extra:
   tags: ["Android", "iPhone & iPad"]
   order: 20

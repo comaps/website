@@ -2,15 +2,15 @@
 description: "Geen nasporing, geen advertensies, geen dataversameling, geen statistiekversameling, geen spioenware"
 extra:
   menu_title: Privaatheid
-title: "Organic Maps: Privaatheidsbeleid"
+title: "CoMaps: Privaatheidsbeleid"
 weight: 900
 ---
 
-Organic Maps eerbiedig u privaatheid en SPOOR U NIE NA NIE.
+CoMaps eerbiedig u privaatheid en SPOOR U NIE NA NIE.
 
 In teenstelling met ander toepassings is daar geen nasporing, geen
 advertensies, geen spioenware, geen data- en statistiekversameling in
-Organic Maps nie.
+CoMaps nie.
 
 Weier waarneming – omarm u vryheid.
 

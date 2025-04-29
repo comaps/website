@@ -2,13 +2,13 @@
 description: "Kein Tracking, keine Werbung, keine Datensammlung, keine Statistiksammlung, keine Spyware"
 extra:
   menu_title: Datenschutz
-title: "Organic Maps: Datenschutz"
+title: "CoMaps: Datenschutz"
 weight: 900
 ---
 
-Organic Maps respektiert deine Privatsphäre und spürt dich nicht auf.
+CoMaps respektiert deine Privatsphäre und spürt dich nicht auf.
 
-Im Gegensatz zu den meisten anderen Anwendungen gibt es in Organic Maps kein
+Im Gegensatz zu den meisten anderen Anwendungen gibt es in CoMaps kein
 Tracking, keine Werbung, keine Spyware, keine Daten- und Statistiksammlung.
 
 Lehne Überwachung ab - lebe deine Freiheit.

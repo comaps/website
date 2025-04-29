@@ -2,11 +2,11 @@
 description: "Sem rastreamento, sem anúncios, sem coleta de dados, sem coleta de estatísticas, sem spyware"
 extra:
   menu_title: "Política de Privacidade"
-title: "Organic Maps: Política de Privacidade"
+title: "CoMaps: Política de Privacidade"
 weight: 900
 ---
 
-O Organic Maps respeita sua privacidade e NÃO TE RASTREIA.
+O CoMaps respeita sua privacidade e NÃO TE RASTREIA.
 
 Ao contrário da maioria dos outros apps, não há nenhum rastreamento, nenhum
 anúncio, nenhum spyware, nenhuma coleta de dados e estatísticas no Organic

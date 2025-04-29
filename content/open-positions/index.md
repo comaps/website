@@ -15,7 +15,7 @@ extra:
     section_marketing_title_1: Marketing Specialist
     section_marketing_title_2: Social Media Specialist
     section_marketing_description_1: As the Social Media Specialist you will be responsible for developing and implementing strategies on various social media platforms. The primary goals of this role are to drive brand awareness, engagement, and conversions through social media posting. This role involves managing special media campaigns, analyzing performance data, and making data-driven recommendations to achieve marketing objectives.  You’ll help shape our social channels and bring the brand to life online in a fun, creative and educational way.
-    marketing_section_list_item_1: Develop a highly engaging social media strategy including designing, building, and maintaining social media presence on Instagram, Facebook, X (Twitter), TikTok, LinkedIn, Reddit, Telegram. Manage internet presence including the Organic Maps website and app stores (Google Play, Apple App Store, F-Droid, and Huawei AppGallery).
+    marketing_section_list_item_1: Develop a highly engaging social media strategy including designing, building, and maintaining social media presence on Instagram, Facebook, X (Twitter), TikTok, LinkedIn, Reddit, Telegram. Manage internet presence including the CoMaps website and app stores (Google Play, Apple App Store, F-Droid, and Huawei AppGallery).
     marketing_section_list_item_2: Create graphics, digital assets, video and text content, including managing user generated content to share on social media.
     marketing_section_list_item_3: Manage the monthly content calendar, including managing all content scheduling and publishing across all social media channels.
     marketing_section_list_item_4: Measure and report performance of all digital marketing campaigns and assess against goals (ROI and KPIs), and continually refine and improve content based on feedback and analytics.
@@ -74,7 +74,7 @@ extra:
                 -
                     title: Community Support Engineer
                     text: |
-                        As a Community Support Engineer you will be working directly with people in the community who use Organic Maps, to provide technical support and assistance with the application and website.  The community ranges from tech savvy engineers, to novice technology users. Support involves maintaining high satisfaction, resolving technical challenges, and enhancing the support experience, to ensure people have a better overall navigation experience.
+                        As a Community Support Engineer you will be working directly with people in the community who use CoMaps, to provide technical support and assistance with the application and website.  The community ranges from tech savvy engineers, to novice technology users. Support involves maintaining high satisfaction, resolving technical challenges, and enhancing the support experience, to ensure people have a better overall navigation experience.
                     action:
                         text: Apply
                         link: "#"
@@ -91,7 +91,7 @@ extra:
                 -
                     title: Social Media Specialist
                     text: |
-                        -Develop a highly engaging social media strategy including designing, building, and maintaining social media presence on Instagram, Facebook, X (Twitter), TikTok, LinkedIn, Reddit, Telegram. Manage internet presence including the Organic Maps website and app stores (Google Play, Apple App Store, F-Droid, and Huawei AppGallery).
+                        -Develop a highly engaging social media strategy including designing, building, and maintaining social media presence on Instagram, Facebook, X (Twitter), TikTok, LinkedIn, Reddit, Telegram. Manage internet presence including the CoMaps website and app stores (Google Play, Apple App Store, F-Droid, and Huawei AppGallery).
 
                         -Create graphics, digital assets, video and text content, including managing user generated content to share on social media.
 

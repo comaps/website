@@ -1,8 +1,8 @@
 ---
-description: "Умови використання застосунку Organic Maps"
+description: "Умови використання застосунку CoMaps"
 extra:
   menu_title: Терміни
-title: "Organic Maps: терміни"
+title: "CoMaps: терміни"
 weight: 1000
 ---
 
@@ -29,7 +29,7 @@ weight: 1000
 отримання інформації про умови використання.
 
 Дивіться також файл [data/copyright.html][copyright], щоб отримати повний
-список повідомлень про авторські права для застосунку Organic Maps.
+список повідомлень про авторські права для застосунку CoMaps.
 
 Якщо у вас є запитання або пропозиції, будь ласка, зв'яжіться з нами за
 адресою [legal@organicmaps.app](mailto:legal@organicmaps.app).

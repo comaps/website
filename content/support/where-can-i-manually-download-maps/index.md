@@ -1,6 +1,6 @@
 ---
 title: "Where can I manually download maps?"
-description: "Frequently asked questions for Organic Maps application"
+description: "Frequently asked questions for CoMaps application"
 taxonomies:
   support: ["Map Data"]
 extra:

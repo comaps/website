@@ -1,6 +1,6 @@
 ---
 title: "The app crashes randomly"
-description: "Frequently asked questions for Organic Maps application"
+description: "Frequently asked questions for CoMaps application"
 taxonomies:
   support: ["Troubleshooting"]
 extra:

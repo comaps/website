@@ -1,6 +1,6 @@
 ---
 title: "ID Editor"
-description: "Frequently asked questions for Organic Maps application"
+description: "Frequently asked questions for CoMaps application"
 taxonomies:
   support: ["OSM (OpenStreetMap)"]
 extra:
@@ -18,4 +18,4 @@ For editing OpenStreetMap with ID follow these steps:
 4. Edit the map  
 5. Upload your changes
 
-That's it, you are now part of the OSM community. Wait for the next Organic Maps update to see the changes in your favorite map app.
+That's it, you are now part of the OSM community. Wait for the next CoMaps update to see the changes in your favorite map app.

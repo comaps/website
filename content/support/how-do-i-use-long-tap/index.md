@@ -1,6 +1,6 @@
 ---
 title: "How do I use Long Tap?"
-description: "Frequently asked questions for Organic Maps application"
+description: "Frequently asked questions for CoMaps application"
 taxonomies:
   support: ["Operating The Map"]
 extra:
@@ -16,4 +16,4 @@ You can do a lot of things in the app using long tap:
 * Add bookmarks on empty spaces.  
 * Get detailed information of lines or areas on the map.
 
-Try to long tap in Organic Maps to discover hidden features.
+Try to long tap in CoMaps to discover hidden features.

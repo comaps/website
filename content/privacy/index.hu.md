@@ -2,13 +2,13 @@
 description: "Nincs nyomkövetés, nincsenek hirdetések, nincs adatgyűjtés, nincs statisztikai adatgyűjtés, nincs kémprogram."
 extra:
   menu_title: Adatvédelem
-title: "Organic Maps: Adatvédelmi irányelvek"
+title: "CoMaps: Adatvédelmi irányelvek"
 weight: 900
 ---
 
-Az Organic Maps tiszteletben tartja az Ön magánéletét, és NEM KÖVETI Önt.
+Az CoMaps tiszteletben tartja az Ön magánéletét, és NEM KÖVETI Önt.
 
-A legtöbb más alkalmazással ellentétben az Organic Maps-ben nincs
+A legtöbb más alkalmazással ellentétben az CoMaps-ben nincs
 nyomkövetés, nincsenek hirdetések, nincsenek kémprogramok, nincs
 statisztikai vagy más adat gyűjtése.
 

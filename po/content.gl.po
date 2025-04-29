@@ -1,10 +1,10 @@
 # SOME DESCRIPTIVE TITLE
-# Copyright (C) YEAR Organic Maps
-# This file is distributed under the same license as the Organic Maps Website package.
+# Copyright (C) YEAR CoMaps
+# This file is distributed under the same license as the CoMaps Website package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: Organic Maps Website 1.0\nPO-Revision-Date: 2023-09-05 10:57+0000\nLast-Translator: Angela Bennett <cahedral@gmail.com>\nLanguage-Team: Galician <https://hosted.weblate.org/projects/organicmaps/website/gl/>\nLanguage: gl\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.0.1-dev\n"
+msgstr "Project-Id-Version: CoMaps Website 1.0\nPO-Revision-Date: 2023-09-05 10:57+0000\nLast-Translator: Angela Bennett <cahedral@gmail.com>\nLanguage-Team: Galician <https://hosted.weblate.org/projects/organicmaps/website/gl/>\nLanguage: gl\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.0.1-dev\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -21,26 +21,26 @@ msgstr "Casa"
 #. type: Yaml Front Matter Hash Value: title
 #: content/_index.md
 #, no-wrap
-msgid "Organic Maps: Offline Hike, Bike, Trails and Navigation"
-msgstr "Organic Maps: camiñadas sen conexión, bicicletas, rutas e navegación"
+msgid "CoMaps: Offline Hike, Bike, Trails and Navigation"
+msgstr "CoMaps: camiñadas sen conexión, bicicletas, rutas e navegación"
 
 #. type: Plain text
 #: content/_index.md
 #, markdown-text, no-wrap
-msgid "**Organic Maps** is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists based on top of crowd-sourced **[OpenStreetMap][openstreetmap]** data. It is a privacy-focused, open-source [fork][fork] of **Maps.me** app (previously known as [**MapsWithMe**][mapswithme]), maintained by the same people who created **MapsWithMe** in 2011.\n"
-msgstr "**Organic Maps** é unha aplicación gratuíta de mapas sen conexión para Android e iOS para viaxeiros, turistas, sendeiristas e ciclistas baseada nos datos **[OpenStreetMap][openstreetmap]** de fontes abertas. É unha aplicación de código aberto e centrada na privacidade [fork][fork] da aplicación **Maps.me** (anteriormente coñecida como [**MapsWithMe**][mapswithme]), mantida polas mesmas persoas que crearon ** MapsWithMe** en 2011.\n"
+msgid "**CoMaps** is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists based on top of crowd-sourced **[OpenStreetMap][openstreetmap]** data. It is a privacy-focused, open-source [fork][fork] of **Maps.me** app (previously known as [**MapsWithMe**][mapswithme]), maintained by the same people who created **MapsWithMe** in 2011.\n"
+msgstr "**CoMaps** é unha aplicación gratuíta de mapas sen conexión para Android e iOS para viaxeiros, turistas, sendeiristas e ciclistas baseada nos datos **[OpenStreetMap][openstreetmap]** de fontes abertas. É unha aplicación de código aberto e centrada na privacidade [fork][fork] da aplicación **Maps.me** (anteriormente coñecida como [**MapsWithMe**][mapswithme]), mantida polas mesmas persoas que crearon ** MapsWithMe** en 2011.\n"
 
 #. type: Plain text
 #: content/_index.md
 #, markdown-text, no-wrap
-msgid "**Organic Maps** is one of the only applications nowadays that supports 100% of features without an active Internet connection. Install Organic Maps, download maps, throw away your SIM card (by the way, your operator constantly tracks you), and go for a weeklong trip on a single battery charge without any byte sent to the network.\n"
-msgstr "@**Organic Maps** é unha das poucas aplicacións de hoxe en día que admite o 100 % das funcións sen unha conexión activa a Internet. Instala Organic Maps, descarga mapas, tira a tarxeta SIM (por certo, o teu operador rastrexache constantemente) e fai unha viaxe dunha semana cunha soa carga de batería sen que se envíe ningún byte á rede.\n"
+msgid "**CoMaps** is one of the only applications nowadays that supports 100% of features without an active Internet connection. Install CoMaps, download maps, throw away your SIM card (by the way, your operator constantly tracks you), and go for a weeklong trip on a single battery charge without any byte sent to the network.\n"
+msgstr "@**CoMaps** é unha das poucas aplicacións de hoxe en día que admite o 100 % das funcións sen unha conexión activa a Internet. Instala CoMaps, descarga mapas, tira a tarxeta SIM (por certo, o teu operador rastrexache constantemente) e fai unha viaxe dunha semana cunha soa carga de batería sen que se envíe ningún byte á rede.\n"
 
 #. type: Title ###
 #: content/_index.md
 #, markdown-text, no-wrap
-msgid "Download and install Organic Maps from [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] {#install}"
-msgstr "Descarga e instala Organic Maps desde [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] {#install}"
+msgid "Download and install CoMaps from [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] {#install}"
+msgstr "Descarga e instala CoMaps desde [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] {#install}"
 
 #. type: Plain text
 #: content/_index.md
@@ -81,8 +81,8 @@ msgstr "Características"
 #. type: Plain text
 #: content/_index.md
 #, markdown-text
-msgid "Organic Maps is the ultimate companion app for travelers, tourists, hikers, and cyclists:"
-msgstr "Organic Maps é a aplicación complementaria definitiva para viaxeiros, turistas, sendeiristas e ciclistas:"
+msgid "CoMaps is the ultimate companion app for travelers, tourists, hikers, and cyclists:"
+msgstr "CoMaps é a aplicación complementaria definitiva para viaxeiros, turistas, sendeiristas e ciclistas:"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -147,8 +147,8 @@ msgstr "¿Por qué Organic?"
 #. type: Plain text
 #: content/_index.md
 #, markdown-text
-msgid "Organic Maps is pure and organic, made with love:"
-msgstr "Organic Maps e puro e orgánico, e feito con amor:"
+msgid "CoMaps is pure and organic, made with love:"
+msgstr "CoMaps e puro e orgánico, e feito con amor:"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -171,8 +171,8 @@ msgstr "Non hai cargos inesperados de datos móbiles"
 #. type: Plain text
 #: content/_index.md
 #, markdown-text
-msgid "Organic Maps app is free from trackers and other bad stuff:"
-msgstr "Organic Maps está libre de rastreadores e outras cousas malas:"
+msgid "CoMaps app is free from trackers and other bad stuff:"
+msgstr "CoMaps está libre de rastreadores e outras cousas malas:"
 
 #. type: Bullet: '- '
 #: content/_index.md content/donate/index.md
@@ -261,8 +261,8 @@ msgstr "@{{ trackercontrol_screenshot() }}"
 #. type: Plain text
 #: content/_index.md
 #, markdown-text
-msgid "Organic Maps doesn't request excessive permissions to spy on you:"
-msgstr "Organic Maps non solicita permisos excesivos para espiarche:"
+msgid "CoMaps doesn't request excessive permissions to spy on you:"
+msgstr "CoMaps non solicita permisos excesivos para espiarche:"
 
 #. type: Plain text
 #: content/_index.md
@@ -273,14 +273,14 @@ msgstr "@{{ privacy_screenshots() }}"
 #. type: Plain text
 #: content/_index.md
 #, markdown-text
-msgid "At Organic Maps, we believe that privacy is a fundamental human right:"
-msgstr "En Organic Maps, cremos que a privacidade é un dereito humano fundamental:"
+msgid "At CoMaps, we believe that privacy is a fundamental human right:"
+msgstr "En CoMaps, cremos que a privacidade é un dereito humano fundamental:"
 
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
-msgid "Organic Maps is an indie community-driven open-source project"
-msgstr "Organic Maps é un proxecto indie de código aberto impulsado pola comunidade"
+msgid "CoMaps is an indie community-driven open-source project"
+msgstr "CoMaps é un proxecto indie de código aberto impulsado pola comunidade"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -303,8 +303,8 @@ msgstr "Rexeita a vixilancia - abraza a túa liberdade."
 #. type: Plain text
 #: content/_index.md
 #, markdown-text, no-wrap
-msgid "**[Give Organic Maps a try!](#install)**\n"
-msgstr "**[Proba Organic Maps!](#install)**\n"
+msgid "**[Give CoMaps a try!](#install)**\n"
+msgstr "**[Proba CoMaps!](#install)**\n"
 
 #. type: Title ##
 #: content/_index.md
@@ -351,8 +351,8 @@ msgstr "Comunidade"
 #. type: Plain text
 #: content/_index.md
 #, markdown-text
-msgid "Organic Maps is an [open-source software][github] licensed under the Apache License 2.0."
-msgstr "Organic Maps é un [open-source software][github] licenciado baixo a licenza Apache 2.0."
+msgid "CoMaps is an [open-source software][github] licensed under the Apache License 2.0."
+msgstr "CoMaps é un [open-source software][github] licenciado baixo a licenza Apache 2.0."
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -435,8 +435,8 @@ msgstr "{{references()}}"
 #. type: Yaml Front Matter Hash Value: description
 #: content/donate/index.md
 #, no-wrap
-msgid "Your money pays for all project-related expenses and motivates us to improve Organic Maps."
-msgstr "O teu diñeiro paga todos os gastos relacionados co proxecto e motívanos a mellorar Organic Maps."
+msgid "Your money pays for all project-related expenses and motivates us to improve CoMaps."
+msgstr "O teu diñeiro paga todos os gastos relacionados co proxecto e motívanos a mellorar CoMaps."
 
 #. type: Yaml Front Matter Hash Value: extra menu_title
 #: content/donate/index.md
@@ -447,14 +447,14 @@ msgstr "Doa"
 #. type: Yaml Front Matter Hash Value: title
 #: content/donate/index.md
 #, no-wrap
-msgid "Donate to support the development of Organic Maps"
-msgstr "Doa para apoiar o desenvolvemento de Organic Maps"
+msgid "Donate to support the development of CoMaps"
+msgstr "Doa para apoiar o desenvolvemento de CoMaps"
 
 #. type: Plain text
 #: content/donate/index.md
 #, markdown-text
-msgid "Organic Maps app is _free for everyone_ thanks to your **[donations][stripe]**:"
-msgstr "A aplicación Organic Maps é _gratuíta para todos_ grazas ás túas **[doazóns][stripe]**:"
+msgid "CoMaps app is _free for everyone_ thanks to your **[donations][stripe]**:"
+msgstr "A aplicación CoMaps é _gratuíta para todos_ grazas ás túas **[doazóns][stripe]**:"
 
 #. type: Bullet: '- '
 #: content/donate/index.md
@@ -483,14 +483,14 @@ msgstr "Fai clic no icono do método de pago preferido a continuación:"
 #. type: Title ##
 #: content/donate/index.md
 #, markdown-text, no-wrap
-msgid "Why donate to Organic Maps?"
-msgstr "¿Por qué doar a Organic Maps?"
+msgid "Why donate to CoMaps?"
+msgstr "¿Por qué doar a CoMaps?"
 
 #. type: Bullet: '1. '
 #: content/donate/index.md
 #, markdown-text
-msgid "We rely on your donations to carry out our mission to keep Organic Maps open and free.  And free from ads."
-msgstr "Confiamos nas túas doazóns para levar a cabo a nosa misión de manter aberto e gratuíta Organic Maps. E libre de anuncios."
+msgid "We rely on your donations to carry out our mission to keep CoMaps open and free.  And free from ads."
+msgstr "Confiamos nas túas doazóns para levar a cabo a nosa misión de manter aberto e gratuíta CoMaps. E libre de anuncios."
 
 #. type: Bullet: '2. '
 #: content/donate/index.md
@@ -639,7 +639,7 @@ msgstr "¿Podes axudarnos doutra maneira?"
 #. type: Plain text
 #: content/donate/index.md
 #, markdown-text
-msgid "Yes! There are many ways to support Organic Maps. Please see [Support Us](@/support-us/index.md) page for more details."
+msgid "Yes! There are many ways to support CoMaps. Please see [Support Us](@/support-us/index.md) page for more details."
 msgstr "Si! Hai moitas formas de admitir os mapas orgánicos. Consulte a páxina [Support Us](@/support-us/index.md) para obter máis detalles."
 
 #. type: Plain text
@@ -653,8 +653,8 @@ msgstr "[stripe]: https://donate.organicmaps.app/ \"Donación por Stripe\"\n[git
 #. type: Yaml Front Matter Hash Value: description
 #: content/news/_index.md
 #, no-wrap
-msgid "Stay in touch with the latest Organic Maps releases, news and updates from our team"
-msgstr "Mantéñase en contacto coas últimas novidades, novas e actualizacións de Organic Maps do noso equipo"
+msgid "Stay in touch with the latest CoMaps releases, news and updates from our team"
+msgstr "Mantéñase en contacto coas últimas novidades, novas e actualizacións de CoMaps do noso equipo"
 
 #. type: Yaml Front Matter Hash Value: extra menu_title
 #: content/news/_index.md
@@ -665,8 +665,8 @@ msgstr "Novidades"
 #. type: Yaml Front Matter Hash Value: title
 #: content/news/_index.md
 #, no-wrap
-msgid "Organic Maps: Latest news and updates from our team"
-msgstr "Organic Maps: últimas noticias e actualizacións do noso equipo"
+msgid "CoMaps: Latest news and updates from our team"
+msgstr "CoMaps: últimas noticias e actualizacións do noso equipo"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/privacy/index.md
@@ -683,20 +683,20 @@ msgstr "Privacidade"
 #. type: Yaml Front Matter Hash Value: title
 #: content/privacy/index.md
 #, no-wrap
-msgid "Organic Maps: Privacy Policy"
-msgstr "Organic Maps: Política de privacidade"
+msgid "CoMaps: Privacy Policy"
+msgstr "CoMaps: Política de privacidade"
 
 #. type: Plain text
 #: content/privacy/index.md
 #, markdown-text
-msgid "Organic Maps respects your privacy and DOES NOT TRACK YOU."
-msgstr "Organic Maps respecta a túa privacidade e NON TE RASTREXA."
+msgid "CoMaps respects your privacy and DOES NOT TRACK YOU."
+msgstr "CoMaps respecta a túa privacidade e NON TE RASTREXA."
 
 #. type: Plain text
 #: content/privacy/index.md
 #, markdown-text
-msgid "Unlike most other applications, there is no tracking, no ads, no spyware, no data and statistics collection in Organic Maps."
-msgstr "A diferencia da maioría das outras aplicacións, non hai seguimento, anuncios, programas espía, recollida de datos e estatísticas en Organic Maps."
+msgid "Unlike most other applications, there is no tracking, no ads, no spyware, no data and statistics collection in CoMaps."
+msgstr "A diferencia da maioría das outras aplicacións, non hai seguimento, anuncios, programas espía, recollida de datos e estatísticas en CoMaps."
 
 #. type: Plain text
 #: content/privacy/index.md
@@ -731,14 +731,14 @@ msgstr "Apoianos"
 #. type: Yaml Front Matter Hash Value: title
 #: content/support-us/index.md
 #, no-wrap
-msgid "Support the development of Organic Maps"
-msgstr "Apoiar o desenvolvemento de Organic Maps"
+msgid "Support the development of CoMaps"
+msgstr "Apoiar o desenvolvemento de CoMaps"
 
 #. type: Plain text
 #: content/support-us/index.md
 #, markdown-text
-msgid "Organic Maps is a free, open-source app. It is free from ads, it does not collect your personal information, and it is developed by a few enthusiasts with the help of the community."
-msgstr "Organic Maps é unha aplicación gratuíta de código aberto. Está libre de anuncios, non recolle a túa información persoal e é desenvolvido por algúns entusiastas coa axuda da comunidade."
+msgid "CoMaps is a free, open-source app. It is free from ads, it does not collect your personal information, and it is developed by a few enthusiasts with the help of the community."
+msgstr "CoMaps é unha aplicación gratuíta de código aberto. Está libre de anuncios, non recolle a túa información persoal e é desenvolvido por algúns entusiastas coa axuda da comunidade."
 
 #. type: Plain text
 #: content/support-us/index.md
@@ -803,8 +803,8 @@ msgstr "Soporte a outros usuarios en [GitHub][issues], [Telegram][telegram_chat]
 #. type: Bullet: '- '
 #: content/support-us/index.md
 #, markdown-text
-msgid "Tell everyone about Organic Maps. A bigger community is a stronger community."
-msgstr "Fala a todos sobre os Organic Maps. Unha comunidade máis grande é unha comunidade máis forte."
+msgid "Tell everyone about CoMaps. A bigger community is a stronger community."
+msgstr "Fala a todos sobre os CoMaps. Unha comunidade máis grande é unha comunidade máis forte."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
@@ -821,14 +821,14 @@ msgstr "Calquera axuda é benvida!"
 #. type: Plain text
 #: content/support-us/index.md
 #, markdown-text
-msgid "Our small team is very grateful for your feedback and support. Organic Maps would not be possible without our users ❤️."
+msgid "Our small team is very grateful for your feedback and support. CoMaps would not be possible without our users ❤️."
 msgstr "O noso pequeno equipo está moi agradecido polos teus comentarios e apoio. Os mapas orgánicos non serían posibles sen os nosos usuarios ❤️."
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/terms/index.md
 #, no-wrap
-msgid "Terms of use for Organic Maps application"
-msgstr "Condicións de uso da aplicación Organic Maps"
+msgid "Terms of use for CoMaps application"
+msgstr "Condicións de uso da aplicación CoMaps"
 
 #. type: Yaml Front Matter Hash Value: extra menu_title
 #: content/terms/index.md
@@ -839,8 +839,8 @@ msgstr "Termos"
 #. type: Yaml Front Matter Hash Value: title
 #: content/terms/index.md
 #, no-wrap
-msgid "Organic Maps: terms"
-msgstr "Organic Maps: termoss"
+msgid "CoMaps: terms"
+msgstr "CoMaps: termoss"
 
 #. type: Plain text
 #: content/terms/index.md
@@ -887,8 +887,8 @@ msgstr "Consulte os seus ficheiros de LICENZA, COPIA ou AVISO para coñecer os t
 #. type: Plain text
 #: content/terms/index.md
 #, markdown-text
-msgid "See also [data/copyright.html][copyright] file for a full list of copyright notices for Organic Maps application."
-msgstr "Consulte tamén o ficheiro [data/copyright.html][copyright] para obter unha lista completa de avisos de copyright para a aplicación Organic Maps."
+msgid "See also [data/copyright.html][copyright] file for a full list of copyright notices for CoMaps application."
+msgstr "Consulte tamén o ficheiro [data/copyright.html][copyright] para obter unha lista completa de avisos de copyright para a aplicación CoMaps."
 
 #. type: Plain text
 #: content/terms/index.md
@@ -920,26 +920,26 @@ msgstr "Contacta connosco"
 #. type: Hash Value: install-appgallery
 #: translations.yaml
 #, no-wrap
-msgid "Install Organic Maps from Huawei AppGallery"
+msgid "Install CoMaps from Huawei AppGallery"
 msgstr "Instalar mapas orgánicos desde Huawei AppGallery"
 
 #. type: Hash Value: install-appstore
 #: translations.yaml
 #, no-wrap
-msgid "Install Organic Maps from the AppStore"
-msgstr "Instala Organic Maps desde a AppStore"
+msgid "Install CoMaps from the AppStore"
+msgstr "Instala CoMaps desde a AppStore"
 
 #. type: Hash Value: install-fdroid
 #: translations.yaml
 #, no-wrap
-msgid "Install Organic Maps from F-Droid"
-msgstr "Instala Organic Maps desde F-Droid"
+msgid "Install CoMaps from F-Droid"
+msgstr "Instala CoMaps desde F-Droid"
 
 #. type: Hash Value: install-googleplay
 #: translations.yaml
 #, no-wrap
-msgid "Install Organic Maps from Google Play"
-msgstr "Instala Organic Maps desde Google Play"
+msgid "Install CoMaps from Google Play"
+msgstr "Instala CoMaps desde Google Play"
 
 #. type: Hash Value: language
 #: translations.yaml

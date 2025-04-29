@@ -1,6 +1,6 @@
 ---
 title: "Who verifies or moderates the map edit changes?"
-description: "Frequently asked questions for Organic Maps application"
+description: "Frequently asked questions for CoMaps application"
 taxonomies:
   support: ["Map Data"]
 extra:

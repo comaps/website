@@ -1,8 +1,8 @@
 ---
-description: "Ketentuan penggunaan untuk aplikasi Organic Maps"
+description: "Ketentuan penggunaan untuk aplikasi CoMaps"
 extra:
   menu_title: Persyaratan
-title: "Organic Maps: persyaratan"
+title: "CoMaps: persyaratan"
 weight: 1000
 ---
 
@@ -28,7 +28,7 @@ Silakan merujuk ke berkas LISENSI, COPYING, atau NOTICE mereka untuk
 ketentuan penggunaan.
 
 Lihat juga berkas [data/copyright.html][copyright] untuk daftar lengkap
-pemberitahuan hak cipta untuk aplikasi Organic Maps.
+pemberitahuan hak cipta untuk aplikasi CoMaps.
 
 Jika Anda memiliki pertanyaan atau saran, silakan hubungi kami di
 [legal@organicmaps.app](mailto:legal@organicmaps.app).

@@ -1,6 +1,6 @@
 ---
 title: "How to deal with map download errors?"
-description: "Frequently asked questions for Organic Maps application"
+description: "Frequently asked questions for CoMaps application"
 taxonomies:
   support: ["Troubleshooting"]
 extra:

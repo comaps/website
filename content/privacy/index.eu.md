@@ -2,15 +2,15 @@
 description: "Ez jarraipen, publizitate, datu bilketa, estatistika edo spywarerik"
 extra:
   menu_title: Pribatutasuna
-title: "Organic Maps: Pribatutasun politika"
+title: "CoMaps: Pribatutasun politika"
 weight: 900
 ---
 
-Organic Maps-ek zure pribatutasuna errespetatzen du eta EZ DIZU JARRAIPENIK
+CoMaps-ek zure pribatutasuna errespetatzen du eta EZ DIZU JARRAIPENIK
 EGITEN.
 
 Beste aplikazio gehienek ez bezala, ez dago datu jarraipenik,
-publizitaterik, spywarerik, datu edo estatistika bilketarik Organic Maps-en.
+publizitaterik, spywarerik, datu edo estatistika bilketarik CoMaps-en.
 
 Errefusatu jarraipena - besarkatu zure askatasuna.
 

@@ -1,8 +1,8 @@
 ---
-description: "Organic Maps aplikazioaren erabilera baldintzak"
+description: "CoMaps aplikazioaren erabilera baldintzak"
 extra:
   menu_title: Baldintzak
-title: "Organic Maps: baldintzak"
+title: "CoMaps: baldintzak"
 weight: 1000
 ---
 
@@ -27,7 +27,7 @@ modutan:
 Mesedez, irakurri beraien LICENSE, COPYING edo NOTICE fitxategiak erabilera
 baldintzak jakiteko.
 
-Irakurri baita ere [data/copyright.html][copyright] fitxategia, Organic Maps
+Irakurri baita ere [data/copyright.html][copyright] fitxategia, CoMaps
 app-aren copyright zerrenda oso bat lortzeko.
 
 Galdera edo iradokizunik baduzu, mesedez jarri gurekin harremanetan helbide

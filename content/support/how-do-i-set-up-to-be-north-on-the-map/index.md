@@ -1,6 +1,6 @@
 ---
 title: "How do I set up to be north on the map?"
-description: "Frequently asked questions for Organic Maps application"
+description: "Frequently asked questions for CoMaps application"
 taxonomies:
   support: ["Operating The Map"]
 extra:

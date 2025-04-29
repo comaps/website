@@ -11,7 +11,7 @@ extra:
     menu_title_pre: Home
     about:
         title: Free and open navigation with privacy, built by the community
-        text: Organic Maps is a community-focused privacy navigation app for travelers - drivers, hikers, and cyclists. It uses the crowd-sourced OpenStreetMap data with contributors from all over the globe. It offers navigation with privacy - no identifying people and no data collection. Organic Maps features can operate without an active internet connection for offline navigation at urban or distant locations, where cellular service is not available. Organic Maps is an open-source project, and prioritizes community development.
+        text: CoMaps is a community-focused privacy navigation app for travelers - drivers, hikers, and cyclists. It uses the crowd-sourced OpenStreetMap data with contributors from all over the globe. It offers navigation with privacy - no identifying people and no data collection. CoMaps features can operate without an active internet connection for offline navigation at urban or distant locations, where cellular service is not available. CoMaps is an open-source project, and prioritizes community development.
         media: /images/about-us/about.png
     vm:
         items:
@@ -36,7 +36,7 @@ extra:
                 text: Maps.me opened the source code under Apache 2.0 license.
             -
                 year: 2021
-                text: Organic Maps was founded based on open-source Maps.me code. A public release was available in the app stores in August.
+                text: CoMaps was founded based on open-source Maps.me code. A public release was available in the app stores in August.
                 highlight: true
             -
                 year: 2022
@@ -51,7 +51,7 @@ extra:
                 text: The app hit a milestone of **3 million users** around the world.
                 highlight: true
     info:
-        - © 2025 Organic Maps OÜ
+        - © 2025 CoMaps OÜ
         - reg. code 16225385
         - Harju maakond, Tallinn, Kesklinna, innaosa, Rävala pst 8-810, 10143, Estoni
 ---

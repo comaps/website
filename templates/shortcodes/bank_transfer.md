@@ -1,6 +1,6 @@
 |   |   |
 |---|---|
-Account holder for all currencies: | Organic Maps OÜ
+Account holder for all currencies: | CoMaps OÜ
 Payment description:               | Donation
 
 #### EUR, Euro €
@@ -44,5 +44,5 @@ SWIFT/BIC:      | TRWIGB2L
 |   |   |
 |---|---|
 IBAN:     | TR740010300000000047306089
-Ad Soyad: | Organic Maps OÜ (Birleşik Ödeme Hizmetleri ve Elektronik Para A.Ş)
+Ad Soyad: | CoMaps OÜ (Birleşik Ödeme Hizmetleri ve Elektronik Para A.Ş)
 Açıklama: | Donation

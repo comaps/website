@@ -1,8 +1,8 @@
 ---
-description: "Nutzungsbedingungen für die Organic Maps Anwendung"
+description: "Nutzungsbedingungen für die CoMaps Anwendung"
 extra:
   menu_title: Nutzungsbedingungen
-title: "Organic Maps: Nutzungsbedingungen"
+title: "CoMaps: Nutzungsbedingungen"
 weight: 1000
 ---
 
@@ -30,7 +30,7 @@ Die Nutzungsbedingungen entnimmst du bitte den LICENSE, COPYING oder NOTICE
 Dateien.
 
 In der Datei [data/copyright.html][copyright] findest du die vollständige
-Liste der Copyright-Hinweise für die Organic Maps App.
+Liste der Copyright-Hinweise für die CoMaps App.
 
 Wenn du Fragen oder Anregungen hast, kontaktiere uns bitte unter
 [legal@organicmaps.app](mailto:legal@organicmaps.app).

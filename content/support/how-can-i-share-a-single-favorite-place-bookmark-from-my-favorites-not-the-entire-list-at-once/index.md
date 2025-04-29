@@ -1,6 +1,6 @@
 ---
 title: "How can I share a single Favorite Place (bookmark) from my Favorites, not the entire list at once?"
-description: "Frequently asked questions for Organic Maps application"
+description: "Frequently asked questions for CoMaps application"
 taxonomies:
   support: ["Favorites: Places & Tracks"]
 extra:

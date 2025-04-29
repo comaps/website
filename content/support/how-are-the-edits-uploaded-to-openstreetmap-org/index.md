@@ -1,6 +1,6 @@
 ---
 title: "How are the edits uploaded to OpenStreetMap.org?"
-description: "Frequently asked questions for Organic Maps application"
+description: "Frequently asked questions for CoMaps application"
 taxonomies:
   support: ["Map Data"]
 extra:
@@ -8,5 +8,5 @@ extra:
   order: 140
 ---
 
-Organic Maps application stores POI (Point Of Interest) changes locally till internet connection is available. You can make changes while offline. Edits are uploaded to [OpenStreetMap.org](https://osm.org) in the background, once the internet connection is available.  
+CoMaps application stores POI (Point Of Interest) changes locally till internet connection is available. You can make changes while offline. Edits are uploaded to [OpenStreetMap.org](https://osm.org) in the background, once the internet connection is available.  
 OM merges the new changes with the existing ones in OSM. You can confirm the correct upload of the edits by using the `?edits` command in the search field.

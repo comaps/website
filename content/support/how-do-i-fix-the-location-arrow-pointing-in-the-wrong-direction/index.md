@@ -1,6 +1,6 @@
 ---
 title: "How do I fix the location arrow pointing in the wrong direction?"
-description: "Frequently asked questions for Organic Maps application"
+description: "Frequently asked questions for CoMaps application"
 taxonomies:
   support: ["GPS & Compass"]
 extra:

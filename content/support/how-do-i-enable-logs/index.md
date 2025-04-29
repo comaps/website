@@ -1,6 +1,6 @@
 ---
 title: "How do I enable logs?"
-description: "Frequently asked questions for Organic Maps application"
+description: "Frequently asked questions for CoMaps application"
 taxonomies:
   support: ["Troubleshooting"]
 extra:
@@ -12,5 +12,5 @@ If you want to report a bug, then providing app logs in your report could help l
 
 ![](image38.png)
 
-Finally tap on the button with the Organic Maps icon on the main screen and press the "Report a bug" button. Don't forget to disable logging after reporting.  
+Finally tap on the button with the CoMaps icon on the main screen and press the "Report a bug" button. Don't forget to disable logging after reporting.  
 ![](image5.png)

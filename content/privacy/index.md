@@ -6,9 +6,9 @@ extra:
   menu_title: Privacy
 ---
 
-Organic Maps respects your privacy and DOES NOT TRACK YOU.
+CoMaps respects your privacy and DOES NOT TRACK YOU.
 
-Unlike most other applications, there is no tracking, no ads, no spyware, no data and statistics collection in Organic Maps.
+Unlike most other applications, there is no tracking, no ads, no spyware, no data and statistics collection in CoMaps.
 
 Reject surveillance - embrace your freedom.  
 Stay away from Big Tech's prying eyes!

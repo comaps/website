@@ -1,6 +1,6 @@
 ---
 title: "I have Android 4.0, and I can't install the app."
-description: "Frequently asked questions for Organic Maps application"
+description: "Frequently asked questions for CoMaps application"
 taxonomies:
   support: ["App"]
 extra:

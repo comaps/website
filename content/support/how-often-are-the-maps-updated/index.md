@@ -1,6 +1,6 @@
 ---
 title: "How often are the maps updated?"
-description: "Frequently asked questions for Organic Maps application"
+description: "Frequently asked questions for CoMaps application"
 taxonomies:
   support: ["Map Data"]
 extra:

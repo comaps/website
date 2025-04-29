@@ -2,13 +2,13 @@
 description: "Žádné sledování, žádné reklamy, žádné shromažďování dat, žádné shromažďování statistik, žádný spyware"
 extra:
   menu_title: Soukromí
-title: "Organic Maps: Zásady ochrany osobních údajů"
+title: "CoMaps: Zásady ochrany osobních údajů"
 weight: 900
 ---
 
-Organic Maps respektuje vaše soukromí a NESLEDUJE VÁS.
+CoMaps respektuje vaše soukromí a NESLEDUJE VÁS.
 
-Na rozdíl od většiny ostatních aplikací neobsahuje aplikace Organic Maps
+Na rozdíl od většiny ostatních aplikací neobsahuje aplikace CoMaps
 žádné sledování, reklamy, spyware ani sběr dat a statistik.
 
 Odmítněte dohled - přijměte svou svobodu.

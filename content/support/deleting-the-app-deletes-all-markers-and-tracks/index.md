@@ -1,6 +1,6 @@
 ---
 title: "Deleting the app deletes ALL markers and tracks!"
-description: "Frequently asked questions for Organic Maps application"
+description: "Frequently asked questions for CoMaps application"
 taxonomies:
   support: ["Features"]
 extra:

@@ -1,6 +1,6 @@
 ---
 title: "How to maximize the map (Hide the UI - User Interface)?"
-description: "Frequently asked questions for Organic Maps application"
+description: "Frequently asked questions for CoMaps application"
 taxonomies:
   support: ["Operating The Map"]
 extra:

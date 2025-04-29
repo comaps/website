@@ -1,6 +1,6 @@
 ---
 title: "How do I remove a Favorite Place (bookmark) or a Track?"
-description: "Frequently asked questions for Organic Maps application"
+description: "Frequently asked questions for CoMaps application"
 taxonomies:
   support: ["Favorites: Places & Tracks"]
 extra:

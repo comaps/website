@@ -1,8 +1,8 @@
 ---
-description: "Organic Maps使用条款"
+description: "CoMaps使用条款"
 extra:
   menu_title: 条款
-title: "Organic Maps：条款"
+title: "CoMaps：条款"
 weight: 1000
 ---
 
@@ -19,7 +19,7 @@ weight: 1000
 
 请参考其许可协议、版权信息和提示文件，了解使用条款。
 
-参见[data/copyright.html][copyright]文件，了解Organic Maps应用程序的全部版权声明。
+参见[data/copyright.html][copyright]文件，了解CoMaps应用程序的全部版权声明。
 
 如有任何意见建议，欢迎通过[legal@organicmaps.app](mailto:legal@organicmaps.app)联系我们。
 

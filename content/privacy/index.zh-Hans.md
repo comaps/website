@@ -2,13 +2,13 @@
 description: 无跟踪、无广告、无数据收集、无统计收集、无间谍软件
 extra:
   menu_title: 隐私
-title: "Organic Maps：隐私政策"
+title: "CoMaps：隐私政策"
 weight: 900
 ---
 
-Organic Maps尊重您的隐私，拒绝跟踪。
+CoMaps尊重您的隐私，拒绝跟踪。
 
-与大多数其他应用程序不同，Organic Maps中没有跟踪，没有广告，没有间谍软件，不收集或统计数据。
+与大多数其他应用程序不同，CoMaps中没有跟踪，没有广告，没有间谍软件，不收集或统计数据。
 
 拒绝监视 - 拥抱自由。
 

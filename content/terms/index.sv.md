@@ -1,8 +1,8 @@
 ---
-description: "Användarvillkor för Organic Maps-appen"
+description: "Användarvillkor för CoMaps-appen"
 extra:
   menu_title: Användarvillkor
-title: "Organic Maps: Användarvillkor"
+title: "CoMaps: Användarvillkor"
 weight: 1000
 ---
 
@@ -29,7 +29,7 @@ Se filerna i respektive katalog med namnen LICENSE, COPYING eller NOTICE för
 deras användarvillkor.
 
 Se även filen [data/copyright.html][copyright] för en fullständig lista över
-upphovsrättsliga meddelanden för Organic Maps-appen.
+upphovsrättsliga meddelanden för CoMaps-appen.
 
 Om du har några frågor eller förslag kan du kontakta oss på
 [legal@organicmaps.app](mailto:legal@organicmaps.app).

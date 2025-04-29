@@ -1,6 +1,6 @@
 ---
 title: "Voice instructions (TTS, Text-To-Speech) do not work"
-description: "Frequently asked questions for Organic Maps application"
+description: "Frequently asked questions for CoMaps application"
 taxonomies:
   support: ["Text-To-Speech (TTS)"]
 extra:

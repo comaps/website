@@ -1,8 +1,8 @@
 ---
-description: "شروط استخدام تطبيق Organic Maps"
+description: "شروط استخدام تطبيق CoMaps"
 extra:
   menu_title: شروط
-title: "Organic Maps: الشروط"
+title: "CoMaps: الشروط"
 weight: 1000
 ---
 
@@ -26,7 +26,7 @@ weight: 1000
 يرجى الرجوع إلى ملفات الترخيص أو النسخ أو الإشعار لشروط الاستخدام.
 
 راجع أيضًا ملف [data / copyright.html][copyright] للحصول على قائمة كاملة
-بإشعارات حقوق النشر الخاصة بتطبيق Organic Maps.
+بإشعارات حقوق النشر الخاصة بتطبيق CoMaps.
 
 إذا كانت لديك أي أسئلة أو اقتراحات، يرجى التواصل معنا على
 [legal@organicmaps.app (mailto:legal@organicmaps.app).

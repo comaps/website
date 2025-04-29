@@ -1,6 +1,6 @@
 ---
 title: "Where can I share my suggestions for new features?"
-description: "Frequently asked questions for Organic Maps application"
+description: "Frequently asked questions for CoMaps application"
 taxonomies:
   support: ["Community Collaboration"]
 extra:

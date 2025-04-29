@@ -1,6 +1,6 @@
 ---
 title: "What happened to traffic data? Hotels from booking.com? Will they return?"
-description: "Frequently asked questions for Organic Maps application"
+description: "Frequently asked questions for CoMaps application"
 taxonomies:
   support: ["Map Data"]
 extra:

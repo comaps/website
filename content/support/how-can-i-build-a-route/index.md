@@ -1,6 +1,6 @@
 ---
 title: "How can I build a route?"
-description: "Frequently asked questions for Organic Maps application"
+description: "Frequently asked questions for CoMaps application"
 taxonomies:
   support: ["Route Planning & Navigation"]
 extra:
@@ -8,7 +8,7 @@ extra:
   order: 10
 ---
 
-Organic Maps can build a route for a car trip, bicycle ride, metro or foot walk.
+CoMaps can build a route for a car trip, bicycle ride, metro or foot walk.
 
 Pick a destination point by tapping on a POI or address or by long tapping on any place. At the place information panel, click on the "Route to" button to start route planning.
 

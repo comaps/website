@@ -1,6 +1,6 @@
 ---
 title: "I found a bug. Where should I report it?"
-description: "Frequently asked questions for Organic Maps application"
+description: "Frequently asked questions for CoMaps application"
 taxonomies:
   support: ["Community Collaboration"]
 extra:

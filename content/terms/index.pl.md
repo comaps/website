@@ -1,8 +1,8 @@
 ---
-description: "Warunki korzystania z aplikacji Organic Maps"
+description: "Warunki korzystania z aplikacji CoMaps"
 extra:
   menu_title: Warunki
-title: "Organic Maps: warunki"
+title: "CoMaps: warunki"
 weight: 1000
 ---
 
@@ -28,7 +28,7 @@ przez inne osoby i organizacje i licencjonowanych na różne sposoby:
 Warunki użytkowania można znaleźć w plikach LICENCJA, KOPIOWANIE i UWAGA.
 
 Zobacz również plik [data/copyright.html][copyright], aby zapoznać się z
-pełną listą informacji o prawach autorskich dla aplikacji Organic Maps.
+pełną listą informacji o prawach autorskich dla aplikacji CoMaps.
 
 Jeśli masz jakiekolwiek pytania lub sugestie, skontaktuj się z nami pod
 adresem [legal@organicmaps.app](mailto:legal@organicmaps.app).

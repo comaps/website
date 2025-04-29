@@ -5,7 +5,7 @@ weight: 10
 extra:
   donate_title: Donate
   enter_amount_title: Enter amount 
-  donate_description: Your money pays for all project-related expenses and motivates us to improve Organic Maps.
+  donate_description: Your money pays for all project-related expenses and motivates us to improve CoMaps.
   form_title: Contact information
   form_email: Email
   form_payment_method: Payment method

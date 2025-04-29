@@ -1,12 +1,12 @@
 ---
-title: "Organic Maps: Informativa sulla Privacy"
+title: "CoMaps: Informativa sulla Privacy"
 description: "Nessun tracciamento, nessuna pubblicità, nessuna raccolta di dati, nessuno spyware"
 weight: 900
 extra:
   menu_title: Privacy
 ---
 
-Organic Maps rispetta la vostra privacy e NON VI TRACCIA.
+CoMaps rispetta la vostra privacy e NON VI TRACCIA.
 
 Nessun tracciamento, nessuna pubblicità, nessuna raccolta di dati, nessun spyware.
 

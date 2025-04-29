@@ -1,6 +1,6 @@
 ---
 title: "How to hide all buttons and display just the map?"
-description: "Frequently asked questions for Organic Maps application"
+description: "Frequently asked questions for CoMaps application"
 taxonomies:
   support: ["Operating The Map"]
 extra:

@@ -1,6 +1,6 @@
 ---
 title: "Maps are not downloading for me. What should I do?"
-description: "Frequently asked questions for Organic Maps application"
+description: "Frequently asked questions for CoMaps application"
 taxonomies:
   support: ["Map Data"]
 extra:

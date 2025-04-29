@@ -1,12 +1,12 @@
 ---
 title: Community - Created and maintained by people like you
-description: Discover the Organic Maps community, share ideas, propose new features, contribute code, provide support, translate, do marketing, design, and shape the product.
+description: Discover the CoMaps community, share ideas, propose new features, contribute code, provide support, translate, do marketing, design, and shape the product.
 template: community.html
 weight: 10
 extra:
   menu_title: Community
   menu_title_pre: Home
-  community_hero_description: Organic Maps is created and maintained by people like you
+  community_hero_description: CoMaps is created and maintained by people like you
   hero_image: /community/community-bg.png
   preview_image: donate/donate.png
   community_card_title_1: Join the

@@ -1,6 +1,6 @@
 ---
 title: "How to use Android Auto?"
-description: "Frequently asked questions for Organic Maps application"
+description: "Frequently asked questions for CoMaps application"
 taxonomies:
   support: ["App"]
 extra:

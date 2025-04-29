@@ -1,6 +1,6 @@
 ---
 title: "How do I ensure that I have the latest app version and map data?"
-description: "Frequently asked questions for Organic Maps application"
+description: "Frequently asked questions for CoMaps application"
 taxonomies:
   support: ["App"]
 extra:

@@ -1,12 +1,12 @@
 ---
-title: "Organic Maps: Условия использования"
-description: "Условия использования приложения Organic Maps"
+title: "CoMaps: Условия использования"
+description: "Условия использования приложения CoMaps"
 weight: 1000
 extra:
   menu_title: Условия использования
 ---
 
-Приложение Organic Maps лицензировано в соответствии с лицензией Apache License, версия 2.0 ("Лицензия");
+Приложение CoMaps лицензировано в соответствии с лицензией Apache License, версия 2.0 ("Лицензия");
 вы не можете использовать это приложение иначе как в соответствии с Лицензией.
 
 Вы можете получить копию Лицензии по адресу [http://www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0).
@@ -22,6 +22,6 @@ extra:
 Пожалуйста, обратитесь к их файлам LICENCE, COPYING или NOTICE для получения информации об условиях использования.
 
 См. также [data/copyright.html](https://github.com/organicmaps/organicmaps/blob/master/data/copyright.html)
-файл для полного списка уведомлений об авторских правах для приложения Organic Maps.
+файл для полного списка уведомлений об авторских правах для приложения CoMaps.
 
 Если у вас есть вопросы или предложения, пожалуйста, свяжитесь с нами по адресу [legal@organicmaps.app](mailto:legal@organicmaps.app).

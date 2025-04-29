@@ -2,13 +2,13 @@
 description: "Sense rastrejament, anuncis, recopilació de dades i estadístiques o programari espia"
 extra:
   menu_title: Privadesa
-title: "Organic Maps: Política de Privadesa"
+title: "CoMaps: Política de Privadesa"
 weight: 900
 ---
 
-Organic Maps respecta la vostra privadesa i NO US RASTREJA.
+CoMaps respecta la vostra privadesa i NO US RASTREJA.
 
-A diferència d'altres aplicacions, a l'Organic Maps no hi ha rastrejadors,
+A diferència d'altres aplicacions, a l'CoMaps no hi ha rastrejadors,
 anuncis o programes espia, ni recol·lecció de dades o estadístiques.
 
 Rebutgeu la vigilància. Assumiu la vostra llibertat.

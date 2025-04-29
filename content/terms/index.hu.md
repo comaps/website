@@ -1,8 +1,8 @@
 ---
-description: "Az Organic Maps alkalmazás használati feltételei"
+description: "Az CoMaps alkalmazás használati feltételei"
 extra:
   menu_title: Feltételek
-title: "Organic Maps: feltételek"
+title: "CoMaps: feltételek"
 weight: 1000
 ---
 
@@ -26,7 +26,7 @@ emberek és szervezetek által készített és különböző módon engedélyeze
 
 A felhasználási feltételeket lásd a LICENSE, COPYING vagy NOTICE fájlokban.
 
-Lásd még a [data/copyright.html][copyright] fájlt az Organic Maps alkalmazás
+Lásd még a [data/copyright.html][copyright] fájlt az CoMaps alkalmazás
 szerzői jogi közleményeinek teljes listájáért.
 
 Ha bármilyen kérdése vagy javaslata van, kérjük, lépjen kapcsolatba velünk a

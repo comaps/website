@@ -1,6 +1,6 @@
 ---
 title: "OSM Notes - I don't have time for editing"
-description: "Frequently asked questions for Organic Maps application"
+description: "Frequently asked questions for CoMaps application"
 taxonomies:
   support: ["OSM (OpenStreetMap)"]
 extra:

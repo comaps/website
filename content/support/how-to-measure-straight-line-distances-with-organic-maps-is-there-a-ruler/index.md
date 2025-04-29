@@ -1,6 +1,6 @@
 ---
-title: "How to measure straight-line distances with Organic Maps? Is there a ruler?"
-description: "Frequently asked questions for Organic Maps application"
+title: "How to measure straight-line distances with CoMaps? Is there a ruler?"
+description: "Frequently asked questions for CoMaps application"
 taxonomies:
   support: ["Route Planning & Navigation"]
 extra:

@@ -1,6 +1,6 @@
 ---
 title: "Tags - How the OSM datamodel works"
-description: "Frequently asked questions for Organic Maps application"
+description: "Frequently asked questions for CoMaps application"
 taxonomies:
   support: ["OSM (OpenStreetMap)"]
 extra:

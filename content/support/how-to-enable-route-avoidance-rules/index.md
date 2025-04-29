@@ -1,6 +1,6 @@
 ---
 title: "How to enable route avoidance rules?"
-description: "Frequently asked questions for Organic Maps application"
+description: "Frequently asked questions for CoMaps application"
 taxonomies:
   support: ["Route Planning & Navigation"]
 extra:
@@ -8,7 +8,7 @@ extra:
   order: 60
 ---
 
-Organic Maps allows you to define certain types of roads to avoid during routing. Go to “Settings → Routing options” menu and select the types of roads that you want to avoid:  
+CoMaps allows you to define certain types of roads to avoid during routing. Go to “Settings → Routing options” menu and select the types of roads that you want to avoid:  
 {{ image(src="image45.jpg" classes="max-w-50") }}  
 For example, if you want to avoid toll and unpaved roads in your routes, choose the matching options as shown in the previous screenshot.
 

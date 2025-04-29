@@ -1,8 +1,8 @@
 ---
-description: "Podmínky používání aplikace Organic Maps"
+description: "Podmínky používání aplikace CoMaps"
 extra:
   menu_title: Podmínky
-title: "Organic Maps: Podmínky"
+title: "CoMaps: Podmínky"
 weight: 1000
 ---
 
@@ -27,7 +27,7 @@ vytvořených jinými lidmi a organizacemi a licencovaných různými způsoby:
 Podmínky použití naleznete v jejich souborech LICENCE, KOPÍROVÁNÍ nebo
 UPOZORNĚNÍ.
 
-Úplný seznam upozornění na autorská práva pro aplikaci Organic Maps najdete
+Úplný seznam upozornění na autorská práva pro aplikaci CoMaps najdete
 také v souboru [data/copyright.html][copyright].
 
 Máte-li jakékoli dotazy nebo návrhy, kontaktujte nás prosím na adrese

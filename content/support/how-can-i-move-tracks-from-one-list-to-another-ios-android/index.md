@@ -1,6 +1,6 @@
 ---
 title: "How can I move tracks from one list to another (iOS, Android)?"
-description: "Frequently asked questions for Organic Maps application"
+description: "Frequently asked questions for CoMaps application"
 taxonomies:
   support: ["Favorites: Places & Tracks"]
 extra:

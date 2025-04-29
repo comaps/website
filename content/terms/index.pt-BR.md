@@ -1,8 +1,8 @@
 ---
-description: "Termos de uso para o app Organic Maps"
+description: "Termos de uso para o app CoMaps"
 extra:
   menu_title: "Termos de Uso"
-title: "Organic Maps: termos"
+title: "CoMaps: termos"
 weight: 1000
 ---
 
@@ -29,7 +29,7 @@ Favor consultar seus arquivos de LICENÇA, CÓPIA ou AVISO para os termos de
 uso.
 
 Veja também o arquivo [data/copyright.html][copyright] para uma lista
-completa de avisos de copyright para o app Organic Maps.
+completa de avisos de copyright para o app CoMaps.
 
 Se você tiver alguma dúvida ou sugestão, por favor entre em contato conosco
 em [legal@organicmaps.app](mailto:legal@organicmaps.app).

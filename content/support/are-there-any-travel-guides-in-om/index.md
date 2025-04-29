@@ -1,6 +1,6 @@
 ---
 title: "Are there any travel guides in OM?"
-description: "Frequently asked questions for Organic Maps application"
+description: "Frequently asked questions for CoMaps application"
 taxonomies:
   support: ["Favorites: Places & Tracks"]
 extra:

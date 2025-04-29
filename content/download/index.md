@@ -1,11 +1,11 @@
 ---
-title: Download Organic Maps
+title: Download CoMaps
 description: Unlock the potential of navigation! Discover offline maps, privacy-centric features, and a community-driven app
 template: download.html
 weight: 10
 extra:
-    hero_title: Download Organic Maps
-    hero_description: Organic Maps 
+    hero_title: Download CoMaps
+    hero_description: CoMaps 
     hero_image: /download/bg.png
     menu_title_pre: Home
     mobile_payment_title: Mobile

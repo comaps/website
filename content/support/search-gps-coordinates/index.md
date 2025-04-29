@@ -1,6 +1,6 @@
 ---
 title: "Search GPS Coordinates"
-description: "Frequently asked questions for Organic Maps application"
+description: "Frequently asked questions for CoMaps application"
 taxonomies:
   support: ["Search"]
 extra:
@@ -10,7 +10,7 @@ extra:
 
 In order to search a location using its GPS coordinates, enter them in the search field.
 
-Organic Maps can search by coordinates in different formats:
+CoMaps can search by coordinates in different formats:
 
 * DD (Decimal degrees): `41.9142, 12.4849`  
 * DMS (Degrees, Minutes, Seconds): `N 41° 54' 51.12" E 12° 29' 5.639"`  

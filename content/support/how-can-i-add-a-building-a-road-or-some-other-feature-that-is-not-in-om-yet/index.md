@@ -1,6 +1,6 @@
 ---
 title: "How can I add a building, a road, or some other feature that is not in OM yet?"
-description: "Frequently asked questions for Organic Maps application"
+description: "Frequently asked questions for CoMaps application"
 taxonomies:
   support: ["Map Data"]
 extra:

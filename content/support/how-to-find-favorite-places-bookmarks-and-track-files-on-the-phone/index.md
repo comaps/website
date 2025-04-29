@@ -1,6 +1,6 @@
 ---
 title: "How to find Favorite Places (bookmarks) and track files on the phone?"
-description: "Frequently asked questions for Organic Maps application"
+description: "Frequently asked questions for CoMaps application"
 taxonomies:
   support: ["Favorites: Places & Tracks"]
 extra:

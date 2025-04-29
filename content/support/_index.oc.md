@@ -15,7 +15,7 @@ extra:
     support_card_description_2: This is a Paragraph. Click on "Edit Text" or double click on the text box to start editing the content and make sure to add any relevant details or information that you want to share with your visitors.
     support_card_description_3: This is a Paragraph. Click on "Edit Text" or double click on the text box to start editing the content and make sure to add any relevant details or information that you want to share with your visitors.
     hero_buttons:
-        hero_button_1: About Organic Maps
+        hero_button_1: About CoMaps
         hero_button_2: App
         hero_button_3: Operating the Map
         hero_button_4: Search

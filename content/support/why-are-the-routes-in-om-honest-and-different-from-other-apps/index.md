@@ -1,6 +1,6 @@
 ---
 title: "Why are the routes in OM “honest” and different from other apps?"
-description: "Frequently asked questions for Organic Maps application"
+description: "Frequently asked questions for CoMaps application"
 taxonomies:
   support: ["Route Planning & Navigation"]
 extra:
