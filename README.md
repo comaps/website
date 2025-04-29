@@ -1,25 +1,22 @@
 # CoMaps Website
 
-This static website is built with [Zola](https://www.getzola.org/).
+This static website is built with [Zola](https://www.getzola.org/) and deployed on [Codeberg Pages](https://codeberg.page).
 
 <!-- ![Main Website](./static/images/website-main.png) -->
 
 ## Development
 
-Download the latest zola (version 0.17.2 at the time of writing) for your operating system and set up the necessary path variable.
+Download the latest zola for your operating system and set up the necessary path variable.
 
 Run `zola serve` for a local preview or `zola build` to generate static site in the `public` folder.
 
 Run `npm i && npm run format` when you want to pretty-format the Markdown and SCSS files.
 
 Upgrade npm dependencies with `npm run upgrade`, make sure that you have installed `npm-check-updates` package.
-<!-- 
-TODO
+
 ## Deployment
-Every PR deploys a preview version of the site at unique url.
-
-Every merge into the _master_ branch deploys changes into the production at https://organicmaps.app
-
+To deploy master to prod, run the "Publish to Codeberg Pages" action.
+<!--
 ### Updating News
 Run `npm run news` to automatically download news from our [Telegram channel](https://t.me/OrganicMapsApp),
 then create a git commit and push it.
