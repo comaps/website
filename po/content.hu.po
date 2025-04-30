@@ -1,19 +1,21 @@
-# SOME DESCRIPTIVE TITLE
-# Copyright (C) YEAR CoMaps
+# CoMaps Website Hungarian translation
+# Copyright (C) 2025 CoMaps
 # This file is distributed under the same license as the CoMaps Website package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# Meskó Balázs <mesko.balazs@fsf.hu>, 2025.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Meskó Balázs <mesko.balazs@fsf.hu>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/organicmaps/website/hu/>\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.16.2-dev\n"
+"X-Generator: Poedit 3.5\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -37,19 +39,19 @@ msgstr "CoMaps: Offline túra, kerékpár, nyomvonalak és navigáció"
 #: content/_index.md
 #, no-wrap
 msgid "**CoMaps** is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists based on top of crowd-sourced **[OpenStreetMap][openstreetmap]** data. It is a privacy-focused, open-source [fork][fork] of **Maps.me** app (previously known as [**MapsWithMe**][mapswithme]), maintained by the same people who created **MapsWithMe** in 2011.\n"
-msgstr "Az **CoMaps** egy ingyenes Android és iOS offline térképalkalmazás utazók, turisták, túrázók és kerékpárosok számára, amely az ingyenes **[OpenStreetMap][openstreetmap]** adatokon alapul. Ez egy adatvédelmi fókuszú, nyílt forráskódú [fork][fork] a **Maps.me** alkalmazásból (korábban [**MapsWithMe**][mapswithme] néven volt ismert), amelyet ugyanazok az emberek tartanak fenn, akik 2011-ben létrehozták a **MapsWithMe** alkalmazást.\n"
+msgstr "A **CoMaps** egy ingyenes androidos és iOS-es offline térképalkalmazás utazók, turisták, túrázók és kerékpárosok számára, amely az **[OpenStreetMap][openstreetmap]** közösségi adatain alapul. Ez a **Maps.me** alkalmazás (korábban [**MapsWithMe**][mapswithme]) egy adatvédelmi fókuszú, nyílt forráskódú [forkja][fork], amelyet ugyanazok az emberek tarják fenn, akik 2011-ben létrehozták a **MapsWithMe** alkalmazást.\n"
 
 #. type: Plain text
 #: content/_index.md
 #, no-wrap
 msgid "**CoMaps** is one of the only applications nowadays that supports 100% of features without an active Internet connection. Install CoMaps, download maps, throw away your SIM card (by the way, your operator constantly tracks you), and go for a weeklong trip on a single battery charge without any byte sent to the network.\n"
-msgstr "**Az CoMaps** egyike azon kevés alkalmazásoknak, amelyek manapság 100%-ban támogatják a funkciókat aktív internetkapcsolat nélkül. Telepítse az CoMaps-et, töltse le a térképeket, dobja el a SIM-kártyáját (máskülönben a szolgáltatója folyamatosan nyomon követi Önt), és egyetlen akkumulátortöltéssel, a hálózatra küldött egyetlen byte nélkül induljon el egy egyhetes útra.\n"
+msgstr "**A CoMaps** egyike azon kevés alkalmazásoknak, amelyek manapság 100%-ban támogatják a funkciókat aktív internetkapcsolat nélkül. Telepítse z CoMapset, töltse le a térképeket, dobja el a SIM-kártyáját (máskülönben a szolgáltatója folyamatosan nyomon követi Önt), és egyetlen akkumulátortöltéssel, a hálózatra küldött egyetlen byte nélkül induljon el egy egyhetes útra.\n"
 
 #. type: Title ###
 #: content/_index.md
 #, no-wrap
 msgid "Download and install CoMaps from [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] {#install}"
-msgstr "Töltse le és telepítse az CoMaps-et az [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] {#install}"
+msgstr "Töltse le és telepítse a CoMapset az [AppStore-ból][appstore], a [Google Playből][googleplay], az [F-Droidból][fdroid] vagy a [Huawei AppGalleryből][appgallery] {#install}"
 
 #. type: Plain text
 #: content/_index.md
@@ -85,7 +87,7 @@ msgstr "Funkciók"
 #. type: Plain text
 #: content/_index.md
 msgid "CoMaps is the ultimate companion app for travelers, tourists, hikers, and cyclists:"
-msgstr "Az CoMaps az utazók, turisták, túrázók és kerékpárosok tökéletes társa:"
+msgstr "A CoMaps az utazók, turisták, túrázók és kerékpárosok tökéletes társa:"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -115,7 +117,7 @@ msgstr "Gyors offline keresés a térképen"
 #. type: Bullet: '- '
 #: content/_index.md
 msgid "Bookmarks and tracks in KML, KMZ, GPX formats"
-msgstr "Könyvjelzők exportálása és importálása KML/KMZ formátumba/ból (GPX [tervezett][gpx_issue])"
+msgstr "Könyvjelzők és útvonalak KML, KMZ és GPX formátumokban"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -125,23 +127,23 @@ msgstr "Sötét mód a szem védelme érdekében"
 #. type: Bullet: '- '
 #: content/_index.md
 msgid "Countries and regions don't take a lot of space"
-msgstr "Az országok és régiók adatai nem foglalnak el sok helyet"
+msgstr "Az országok és régiók adatai nem foglalnak sok helyet"
 
 #. type: Bullet: '- '
 #: content/_index.md
 msgid "Free and open-source"
-msgstr "Ingyenes és nyílt forráskódú"
+msgstr "Szabad és nyílt forráskódú"
 
 #. type: Title ##
 #: content/_index.md
 #, no-wrap
 msgid "Why Organic?"
-msgstr "Miért az Organic?"
+msgstr "Miért a CoMaps?"
 
 #. type: Plain text
 #: content/_index.md
 msgid "CoMaps is pure and organic, made with love:"
-msgstr "Az CoMaps tiszta és organikus, szeretettel készült:"
+msgstr "A CoMaps tiszta és organikus, szeretettel készült:"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -161,7 +163,7 @@ msgstr "Nincsenek váratlan mobil adatforgalmi díjak"
 #. type: Plain text
 #: content/_index.md
 msgid "CoMaps app is free from trackers and other bad stuff:"
-msgstr "Az CoMaps alkalmazás mentes a nyomkövetőktől és egyéb rossz dolgoktól:"
+msgstr "A CoMaps alkalmazás mentes a nyomkövetőktől és egyéb rossz dolgoktól:"
 
 #. type: Bullet: '- '
 #: content/_index.md content/donate/index.md
@@ -196,7 +198,7 @@ msgstr "Nincsenek kötelező oktatóprogramok"
 #. type: Bullet: '- '
 #: content/_index.md
 msgid "No noisy email spam"
-msgstr "Nincs e-mail spam"
+msgstr "Nincs levélszemét"
 
 #. type: Bullet: '- '
 #: content/_index.md content/donate/index.md
@@ -216,7 +218,7 @@ msgstr "~~Nincsenek növényvédő szerek~~ Tisztán bio!"
 #. type: Plain text
 #: content/_index.md
 msgid "The application is verified by [Exodus Privacy Project][exodus]:"
-msgstr "Az alkalmazás az [Exodus Privacy Project][exodus] által ellenőrzött:"
+msgstr "Az alkalmazást az [Exodus Privacy Project][exodus] ellenőrizte:"
 
 #. type: Plain text
 #: content/_index.md
@@ -225,20 +227,18 @@ msgstr "{{ exodus_screenshot() }}"
 
 #. type: Plain text
 #: content/_index.md
-#, markdown-text
 msgid "The iOS application is verified by [TrackerControl for iOS][trackercontrol]:"
-msgstr ""
+msgstr "Az iOS-es alkalmazást a [TrackerControl for iOS][trackercontrol] ellenőrizte:"
 
 #. type: Plain text
 #: content/_index.md
-#, markdown-text
 msgid "{{ trackercontrol_screenshot() }}"
-msgstr ""
+msgstr "{{ trackercontrol_screenshot() }}"
 
 #. type: Plain text
 #: content/_index.md
 msgid "CoMaps doesn't request excessive permissions to spy on you:"
-msgstr "Az CoMaps nem kér rengeteg engedélyt, hogy kémkedjen Ön után:"
+msgstr "A CoMaps nem kér rengeteg engedélyt, hogy kémkedjen Ön után:"
 
 #. type: Plain text
 #: content/_index.md
@@ -248,17 +248,17 @@ msgstr "{{ privacy_screenshots() }}"
 #. type: Plain text
 #: content/_index.md
 msgid "At CoMaps, we believe that privacy is a fundamental human right:"
-msgstr "Az CoMapsnél hiszünk abban, hogy a magánélet alapvető emberi jog:"
+msgstr "A CoMapsnél hiszünk abban, hogy a magánélet alapvető emberi jog:"
 
 #. type: Bullet: '- '
 #: content/_index.md
 msgid "CoMaps is an indie community-driven open-source project"
-msgstr "Az CoMaps egy független közösség által irányított nyílt forráskódú projekt"
+msgstr "A CoMaps egy független közösség által irányított nyílt forráskódú projekt"
 
 #. type: Bullet: '- '
 #: content/_index.md
 msgid "We protect your privacy from Big Tech's prying eyes"
-msgstr "Megvédjük a magánéletét a nagy techcégek kíváncsi szemeitől"
+msgstr "Megvédjük a magánszféráját a nagy technológiai vállalatok kíváncsi szemeitől"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -268,13 +268,13 @@ msgstr "Maradjon biztonságban, bárhol is van"
 #. type: Plain text
 #: content/_index.md content/privacy/index.md
 msgid "Reject surveillance - embrace your freedom."
-msgstr "Utasítsd el a megfigyelést - gyakorold a szabadságodat."
+msgstr "Utasítsa el a megfigyelést – gyakorolja a szabadságát."
 
 #. type: Plain text
 #: content/_index.md
 #, no-wrap
 msgid "**[Give CoMaps a try!](#install)**\n"
-msgstr "**[Próbálja ki az CoMaps-et!](#install)**\n"
+msgstr "**[Próbálja ki a CoMapset!](#install)**\n"
 
 #. type: Title ##
 #: content/_index.md
@@ -285,12 +285,12 @@ msgstr "Ki fizet az ingyenes alkalmazásért?"
 #. type: Plain text
 #: content/_index.md
 msgid "The app is free for everyone. Please [donate](@/donate/index.md) to support us!"
-msgstr "Az alkalmazás mindenki számára ingyenes. Kérjük, [adományozzon](@/donate/index.hu.md), hogy támogasson minket!"
+msgstr "Az alkalmazás mindenki számára ingyenes. [Adományozzon](@/donate/index.hu.md), hogy támogasson minket!"
 
 #. type: Plain text
 #: content/_index.md
 msgid "To donate conveniently, click on your preferred payment method icon below:"
-msgstr ""
+msgstr "A kényelmes adományozáshoz kattintson alább az előnyben részesített fizetési mód ikonjára:"
 
 #. type: Plain text
 #: content/_index.md content/donate/index.md
@@ -306,7 +306,7 @@ msgstr "Szponzoraink:"
 #. type: Plain text
 #: content/_index.md
 msgid "[Mythic Beasts](https://www.mythic-beasts.com/) ISP [provides us][mythic_beasts_donation] two virtual servers with 400 TB/month of free bandwidth to help our users with maps downloads and updates."
-msgstr "[Mythic Beasts](https://www.mythic-beasts.com/) ISP [biztosít nekünk][mythic_beasts_donation] két virtuális szervert 400 TB/hó ingyenes sávszélességgel, hogy segítse felhasználóinkat a térképek letöltésében és frissítésében."
+msgstr "A [Mythic Beasts](https://www.mythic-beasts.com/) internetszolgáltató [biztosít nekünk][mythic_beasts_donation] két virtuális szervert 400 TB/hó ingyenes sávszélességgel, hogy segítse felhasználóinkat a térképek letöltésében és frissítésében."
 
 #. type: Title ##
 #: content/_index.md
@@ -317,52 +317,52 @@ msgstr "Közösség"
 #. type: Plain text
 #: content/_index.md
 msgid "CoMaps is an [open-source software][github] licensed under the Apache License 2.0."
-msgstr "Az CoMaps egy [nyílt forráskódú szoftver][github], amely az Apache License 2.0-t használja."
+msgstr "A CoMaps Apache License 2.0 alatt licencelt [nyílt forráskódú szoftver][github]."
 
 #. type: Bullet: '- '
 #: content/_index.md
 msgid "Please join our beta program, suggest your features, and report bugs:"
-msgstr "Kérjük, csatlakozzon a béta programunkhoz, javasoljon funkciókat, és jelezze a hibákat:"
+msgstr "Csatlakozzon a béta programunkhoz, javasoljon funkciókat, és jelezze a hibákat:"
 
 #. type: Bullet: '  * '
 #: content/_index.md
 msgid "[iOS Beta (TestFlight)][testflight]"
-msgstr "[iOS Béta (TestFlight)][testflight]"
+msgstr "[iOS béta (TestFlight)][testflight]"
 
 #. type: Bullet: '  * '
 #: content/_index.md
 msgid "[Android Beta (Firebase)][firebase]"
-msgstr "[Android Béta (Firebase)][firebase]"
+msgstr "[Android béta (Firebase)][firebase]"
 
 #. type: Bullet: '  * '
 #: content/_index.md
 msgid "[Linux Desktop Beta (Flatpak)][flatpak]"
-msgstr "[Asztali Linux Béta (Flatpak)][flatpak][flatpak]"
+msgstr "[Asztali Linux béta (flatpak)][flatpak]"
 
 #. type: Bullet: '  * '
 #: content/_index.md
 msgid "[Linux Desktop Beta (packages)][repology]"
-msgstr "[Asztali Linux Béta (csomagok)][repology]"
+msgstr "[Asztali Linux béta (csomagok)][repology]"
 
 #. type: Bullet: '- '
 #: content/_index.md
 msgid "Report bugs or issues to [the issue tracker][issues] or [email us][email]."
-msgstr "Jelentsd a hibákat vagy problémákat [a hibakövetőnkbe][issues] vagy [küldj számunkra egy e-mailt][email]."
+msgstr "Jelentse a hibákat vagy problémákat [a hibakövetőnkben][issues] vagy [küldjön nekünk e-mailt][email]."
 
 #. type: Bullet: '- '
 #: content/_index.md
 msgid "[Discuss][ideas] ideas or propose feature requests."
-msgstr "[Vita][ideas] ötletek vagy funkciókérések."
+msgstr "[Vitasson][ideas] meg ötleteket vagy javasoljon új funkciókat."
 
 #. type: Bullet: '- '
 #: content/_index.md
 msgid "Subscribe to our [Telegram Channel][telegram] or to the [matrix space][matrix] for updates."
-msgstr "Iratkozz fel a [Telegram csatornánkra][telegram] vagy a [matrix terünkre][matrix] az újdonságokért."
+msgstr "Iratkozzon fel a [Telegram csatornánkra][telegram] vagy a [Matrix-terünkre][matrix] az újdonságokért."
 
 #. type: Bullet: '- '
 #: content/_index.md
 msgid "Join our [Telegram Group][telegram_chat] to discuss with other users."
-msgstr "Csatlakozz a [Telegram csoportunkhoz][telegram_chat], hogy beszélgethess a többi felhasználóval."
+msgstr "Csatlakozzon a [Telegram csoportunkhoz][telegram_chat], hogy beszélgessen a többi felhasználóval."
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -372,7 +372,7 @@ msgstr "Látogasson el a [GitHub oldalunkra][github]."
 #. type: Bullet: '- '
 #: content/_index.md
 msgid "Follow our updates in [Mastodon][mastodon], [Facebook][facebook], [Twitter][twitter], [Instagram][instagram], [Reddit][reddit], [LinkedIn][LinkedIn]."
-msgstr "Kövesse frissítéseinket, újdonságainkat a [Mastodon][mastodon], [Facebook][facebook], [Twitter][twitter], [Instagram][instagram], [Reddit][reddit] és [LinkedIn][LinkedIn] szolgáltatásokon."
+msgstr "Kövesse frissítéseinket, újdonságainkat a [Mastodonon][mastodon], a [Facebookon][facebook], a [Twitteren][twitter], az [Instagramon][instagram], a [Redditen][reddit] és a [LinkedInen][LinkedIn]."
 
 #. type: Plain text
 #: content/_index.md
@@ -389,7 +389,7 @@ msgstr "{{ references() }}"
 #: content/donate/index.md
 #, no-wrap
 msgid "Your money pays for all project-related expenses and motivates us to improve CoMaps."
-msgstr "Az Ön pénze fedezi a projekttel kapcsolatos összes kiadást, és motivál minket az CoMaps jobbá tételéhez."
+msgstr "Az Ön pénze fedezi a projekttel kapcsolatos összes kiadást, és motivál minket a CoMaps jobbá tételéhez."
 
 #. type: Yaml Front Matter Hash Value: extra menu_title
 #: content/donate/index.md
@@ -401,12 +401,12 @@ msgstr "Adományozás"
 #: content/donate/index.md
 #, no-wrap
 msgid "Donate to support the development of CoMaps"
-msgstr "Adományozzon az CoMaps fejlesztésének támogatására"
+msgstr "Adományozzon a CoMaps fejlesztésének támogatására"
 
 #. type: Plain text
 #: content/donate/index.md
 msgid "CoMaps app is _free for everyone_ thanks to your **[donations][stripe]**:"
-msgstr "Az CoMaps alkalmazás _mindenki számára ingyenes_ az **[adományoknak][stripe]** köszönhetően :"
+msgstr "A CoMaps alkalmazás _mindenki számára ingyenes_, köszönhetően az **[adományoknak][stripe]**:"
 
 #. type: Bullet: '- '
 #: content/donate/index.md
@@ -426,23 +426,23 @@ msgstr "Nyílt forráskód"
 #. type: Plain text
 #: content/donate/index.md
 msgid "Click on your preferred payment method icon below:"
-msgstr ""
+msgstr "Kattintson alább az előnyben részesített fizetési mód ikonjára:"
 
 #. type: Title ##
 #: content/donate/index.md
 #, no-wrap
 msgid "Why donate to CoMaps?"
-msgstr "Miért adományozzon az CoMaps-nek?"
+msgstr "Miért adományozzon a CoMapsnek?"
 
 #. type: Bullet: '1. '
 #: content/donate/index.md
 msgid "We rely on your donations to carry out our mission to keep CoMaps open and free.  And free from ads."
-msgstr "Az Ön adományaira támaszkodunk, hogy teljesíteni tudjuk küldetésünket, hogy az CoMaps nyitott és szabad maradjon.  MIndezt hirdetések nélkül."
+msgstr "Az adományaira támaszkodunk, hogy teljesíteni tudjuk küldetésünket, hogy a CoMaps nyílt és szabad maradjon. Mindezt hirdetések nélkül."
 
 #. type: Bullet: '2. '
 #: content/donate/index.md
 msgid "We are a few enthusiasts contributing in our free time, and spending our families' money on the project.  We love what we do, and we love our users ❤️."
-msgstr "Maroknyian vagyunk, akik a szabadidőnkben hozzájárulunk a projekthez és a családunk pénzét költjük rá.  Szeretjük, amit csinálunk, és szeretjük a felhasználóinkat ❤️."
+msgstr "Maroknyian vagyunk, akik a szabadidőnkben közreműködünk a projektben, és a családunk pénzét költjük rá. Szeretjük, amit csinálunk, és szeretjük a felhasználóinkat ❤️."
 
 #. type: Bullet: '3. '
 #: content/donate/index.md
@@ -458,12 +458,12 @@ msgstr "Mire lesz felhasználva a pénz?"
 #. type: Bullet: '1. '
 #: content/donate/index.md
 msgid "We pay for fast servers, so anyone in the World can download free map data updates without delays.  It's hundreds of terabytes monthly, and the amount is growing."
-msgstr "Gyors szerverekért fizetünk, így a világon bárki késedelem nélkül letöltheti az ingyenes térképadat-frissítéseket.  Ez havonta több száz terabájt, és a mennyiség folyamatosan növekszik."
+msgstr "Gyors kiszolgálókért fizetünk, így a világon bárki késedelem nélkül letöltheti az ingyenes térképadat-frissítéseket. Ez havonta több száz terabájt, és a mennyiség folyamatosan növekszik."
 
 #. type: Bullet: '2. '
 #: content/donate/index.md
 msgid "User support, bugfixing, and improving the stability of the app are at the top of our priorities.  There are [1800+ issues on GitHub][github issues], and this number is growing every day.  AppStore, Google Play, and support emails are overflooded with comments and bugs. We want to deliver a high-quality product."
-msgstr "A felhasználói segítség, a hibajavítás és az alkalmazás stabilitásának javítása a prioritások között az első helyen áll.   GitHubon [1800+ hibanapló van megnyitva][github issues], és ez a szám napról napra nő.  Az AppStore, a Google Play és a támogatási e-maileket elárasztják a megjegyzések és a hibák. Minőségi terméket akarunk előállítani."
+msgstr "A felhasználói támogatás, a hibajavítás és az alkalmazás stabilitásának javítása a prioritások között az első helyen áll. A GitHubon [1800+ jegy van megnyitva][github issues], és ez a szám napról napra nő. Az AppStore, a Google Play és a támogatási e-maileket elárasztják a megjegyzések és a hibák. Minőségi terméket akarunk előállítani."
 
 #. type: Bullet: '3. '
 #: content/donate/index.md
@@ -473,7 +473,7 @@ msgstr "Elegendő pénzzel például gyorsabban tudunk új funkciókat fejleszte
 #. type: Bullet: '   - '
 #: content/donate/index.md
 msgid "Weekly and automated map data updates"
-msgstr "Heti és automatikus térképadat-frissítések"
+msgstr "Heti és automatizált térképadat-frissítések"
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
@@ -488,7 +488,7 @@ msgstr "Android Auto"
 #. type: Bullet: '   - '
 #: content/donate/index.md
 msgid "GPS track recorder with GPX support"
-msgstr "GPS nyomvonal felvevő GPX támogatással"
+msgstr "GPS nyomvonal-felvevő GPX támogatással"
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
@@ -503,7 +503,7 @@ msgstr "Magassági árnyékolás és 3D terep"
 #. type: Bullet: '   - '
 #: content/donate/index.md
 msgid "Improve the OpenStreetMap editor"
-msgstr "Az OpenStreetMap szerkesztő javítása"
+msgstr "Az OpenStreetMap szerkesztő tökéletesítése"
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
@@ -518,18 +518,18 @@ msgstr "Tömegközlekedés"
 #. type: Bullet: '   - '
 #: content/donate/index.md
 msgid "… and [many other][github issues] features you want and love"
-msgstr "... és [sok más][github issues] funkciót, amit szeretnél és imádsz"
+msgstr "… és [sok más][github issues] funkciót, melyet akar és imád"
 
 #. type: Title ##
 #: content/donate/index.md
 #, no-wrap
 msgid "How to donate?"
-msgstr "Hogyan adományozhatok?"
+msgstr "Hogyan adományozhat?"
 
 #. type: Plain text
 #: content/donate/index.md
 msgid "Recurring donations are the best way to ensure a relatively stable income for the project and motivate us for long-term tasks and goals. But you can also donate one time."
-msgstr "Az ismétlődő adományok a legjobb módja annak, hogy viszonylag stabil bevételt biztosítsunk a projekt számára és motiváljanak minket a hosszú távú feladatok és célok megvalósításában. De egyszeri adományozásra is van lehetőség."
+msgstr "Az ismétlődő adományok a legjobb módja annak, hogy viszonylag stabil bevételt biztosítsunk a projekt számára, és motiváljon minket a hosszú távú feladatok és célok megvalósításában. De egyszeri adományozásra is van lehetőség."
 
 #. type: Title ###
 #: content/donate/index.md
@@ -551,7 +551,7 @@ msgstr "Kriptovaluta"
 #. type: Plain text
 #: content/donate/index.md
 msgid "Please consider donating annually to reduce total fees."
-msgstr "Kérjük, fontolja meg az éves adományozást, hogy csökkentse a teljes díjat."
+msgstr "Fontolja meg az éves adományozást, hogy csökkentse a díjakat."
 
 #. type: Plain text
 #: content/donate/index.md
@@ -567,7 +567,7 @@ msgstr "Tud más módon is segíteni nekünk?"
 #. type: Plain text
 #: content/donate/index.md
 msgid "Yes! There are many ways to support CoMaps. Please see [Support Us](@/support-us/index.md) page for more details."
-msgstr "Igen! Sokféleképpen lehet támogatni az CoMaps-et. További részletekért lásd a [Support Us](@/support-us/index.hu.md) oldalt."
+msgstr "Igen! Sokféleképpen lehet támogatni a CoMapset. További részletekért lásd a [Támogatás](@/support-us/index.hu.md) oldalt."
 
 #. type: Plain text
 #: content/donate/index.md
@@ -618,28 +618,28 @@ msgstr "CoMaps: Adatvédelmi irányelvek"
 #. type: Plain text
 #: content/privacy/index.md
 msgid "CoMaps respects your privacy and DOES NOT TRACK YOU."
-msgstr "Az CoMaps tiszteletben tartja az Ön magánéletét, és NEM KÖVETI Önt."
+msgstr "A CoMaps tiszteletben tartja az adatvédelmét, és NEM KÖVETI."
 
 #. type: Plain text
 #: content/privacy/index.md
 msgid "Unlike most other applications, there is no tracking, no ads, no spyware, no data and statistics collection in CoMaps."
-msgstr "A legtöbb más alkalmazással ellentétben az CoMaps-ben nincs nyomkövetés, nincsenek hirdetések, nincsenek kémprogramok, nincs statisztikai vagy más adat gyűjtése."
+msgstr "A legtöbb más alkalmazással ellentétben a CoMapsben nincs nyomkövetés, nincsenek hirdetések, nincsenek kémprogramok, nincs statisztikai vagy más adat gyűjtése."
 
 #. type: Plain text
 #: content/privacy/index.md
 msgid "Stay away from Big Tech's prying eyes!"
-msgstr "Maradj rejtve a nagy techcégek kíváncsi szemei elől!"
+msgstr "Maradjon rejtve a nagy technológiai vállalatok kíváncsi szemei elől!"
 
 #. type: Plain text
 #: content/privacy/index.md content/terms/index.md
 msgid "If you have any questions or suggestions, please contact us at [legal@organicmaps.app](mailto:legal@organicmaps.app)."
-msgstr "Ha bármilyen kérdése vagy javaslata van, kérjük, lépjen kapcsolatba velünk a [legal@organicmaps.app](mailto:legal@organicmaps.app) címen."
+msgstr "Ha bármilyen kérdése vagy javaslata van, lépjen kapcsolatba velünk a [legal@organicmaps.app](mailto:legal@organicmaps.app) címen."
 
 #. type: Plain text
 #: content/privacy/index.md
 #, no-wrap
 msgid "<sub>This policy is effective as of 2021-04-24.</sub>\n"
-msgstr "<sub>Ez a szabályzat 2021-04-24-től hatályos.</sub>\n"
+msgstr "<sub>Ez a szabályzat 2021. 04. 24-től hatályos.</sub>\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/support-us/index.md
@@ -657,12 +657,12 @@ msgstr "Támogasson minket"
 #: content/support-us/index.md
 #, no-wrap
 msgid "Support the development of CoMaps"
-msgstr "Támogassa az CoMaps fejlesztését"
+msgstr "Támogassa a CoMaps fejlesztését"
 
 #. type: Plain text
 #: content/support-us/index.md
 msgid "CoMaps is a free, open-source app. It is free from ads, it does not collect your personal information, and it is developed by a few enthusiasts with the help of the community."
-msgstr "Az CoMaps egy ingyenes, nyílt forráskódú alkalmazás. Nem tartalmaz hirdetéseket, nem gyűjti az Ön személyes adatait, és néhány lelkes rajongó fejlesztette a közösség segítségével."
+msgstr "A CoMaps szabad és nyílt forráskódú alkalmazás. Nem tartalmaz hirdetéseket, nem gyűjti a személyes adatait, és néhány lelkes rajongó fejlesztette a közösség segítségével."
 
 #. type: Plain text
 #: content/support-us/index.md
@@ -672,57 +672,57 @@ msgstr "A fejlesztést különböző módokon lehet támogatni:"
 #. type: Bullet: '- '
 #: content/support-us/index.md
 msgid "[Donate](@/donate/index.md)! Every dollar or euro counts and helps us to pay for servers and scale."
-msgstr "[Adományozni](@/donate/index.hu.md)! Minden dollár vagy euró számít, és segít nekünk a szerverek kifizetésében és a kapacitásuk növelésében."
+msgstr "[Adományozzon](@/donate/index.hu.md)! Minden dollár vagy euró számít, és segít nekünk a kiszolgálók kifizetésében és a kapacitásuk növelésében."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
 msgid "Report bugs and share ideas on our [GitHub][github] or via [email][email]."
-msgstr "Jelentsd a hibákat és oszd meg ötleteidet [GitHub][github]-on vagy [email][email]-en keresztül."
+msgstr "Jelentse a hibákat és ossza meg ötleteit a [GitHub-on][github] vagy [emailben][email]."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
 msgid "Help us to [fix bugs][contributing] and do code reviews if you are a developer. Every fixed small issue makes someone happier."
-msgstr "Segíts nekünk [hibák kijavításában][contributing]-ben és kódellenőrzésben, ha fejlesztő vagy. Minden kijavított kis probléma valakit boldogabbá tesz."
+msgstr "Segítsen nekünk a [hibák kijavításában][contributing], és kódellenőrzésben, ha fejlesztő. Minden javított apró probléma boldogabbá tesz valakit."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
 msgid "[Translate][translations] missing strings in the app's interface."
-msgstr "[Fordítás][translations] hiányzó karakterláncok az alkalmazás felületén."
+msgstr "[Fordítsa le][translations] az alkalmazás felületén hiányzó karakterláncokat."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
 msgid "Translate [App Store][translations_appstore] and [Android][translations_googleplay] descriptions into your language."
-msgstr "Fordítsa le az [App Store][translations_appstore] és [Android][translations_googleplay] leírásokat az Ön nyelvére."
+msgstr "Fordítsa le az [App Store-os][translations_appstore] és az [androidos][translations_googleplay] leírásokat a saját nyelvére."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
 msgid "[Translate][translations_website] our web site into your language."
-msgstr "[Fordítsa le][translations_website] weboldalunkat az Ön nyelvére."
+msgstr "[Fordítsa le][translations_website] weboldalunkat a saját nyelvére."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
 msgid "Join the [OpenStreetMap][openstreetmap] community and contribute to the maps data."
-msgstr "Csatlakozzon az [OpenStreetMap][openstreetmap] közösséghez, és járuljon hozzá a térkép adataihoz."
+msgstr "Csatlakozzon az [OpenStreetMap][openstreetmap] közösséghez, és járuljon hozzá a térképadatokhoz."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
 msgid "Fix red cities found by our [public transport validator][public_transport_validator], for subways and light rails to work in the app."
-msgstr "A [tömegközlekedési validátor][public_transport_validator] által talált piros városok javítása, hogy a metrók és a kisvasutak működjenek az alkalmazásban."
+msgstr "Javítsa ki a [tömegközlekedési ellenőrző][public_transport_validator] által talált piros városokat, hogy a metrók és a HÉV-ek is működjenek az alkalmazásban."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
 msgid "Support other users on [GitHub][issues], [Telegram][telegram_chat], [Matrix][matrix], [Twitter][twitter], [Facebook][facebook], [Instagram][instagram]."
-msgstr "Támogasd a többi felhasználót a [GitHub]-[issues], [Telegram][telegram_chat], [Matrix][matrix], [Twitter][twitter], [Facebook][facebook], [Instagram][instagram] szolgáltatásokon."
+msgstr "Támogassa a többi felhasználót a [GitHubon][issues], a [Telegramon][telegram_chat], a [Matrixon][matrix], a [Twitteren][twitter], a [Facebookon][facebook] és az [Instagramon][instagram]."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
 msgid "Tell everyone about CoMaps. A bigger community is a stronger community."
-msgstr "Meséljen mindenkinek az CoMaps-ről. Egy nagyobb közösség, az egy erősebb közösség."
+msgstr "Meséljen mindenkinek a CoMapsről. Egy nagyobb közösség, az egy erősebb közösség."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
 msgid "Rate us in [Google Play][googleplay_review], [Apple Store][appstore_review], [Huawei Appgallery][appgallery_review]."
-msgstr "Értékeljen minket a [Google Play][googleplay_review], [App Store][appstore_review], [Huawei Appgallery][appgallery_review] felületeken."
+msgstr "Értékeljen minket a [Google Playen][googleplay_review], az [App Store-ban][appstore_review] és a [Huawei Appgalleryben][appgallery_review]."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
@@ -732,13 +732,13 @@ msgstr "Bármilyen segítséget szívesen fogadunk!"
 #. type: Plain text
 #: content/support-us/index.md
 msgid "Our small team is very grateful for your feedback and support. CoMaps would not be possible without our users ❤️."
-msgstr "Kis csapatunk nagyon hálás a visszajelzésekért és a támogatásért. Az CoMaps nem lenne lehetséges a felhasználóink nélkül ❤️."
+msgstr "Kis csapatunk nagyon hálás a visszajelzésekért és a támogatásért. A CoMaps nem lenne lehetséges a felhasználóink nélkül ❤️."
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/terms/index.md
 #, no-wrap
 msgid "Terms of use for CoMaps application"
-msgstr "Az CoMaps alkalmazás használati feltételei"
+msgstr "A CoMaps alkalmazás használati feltételei"
 
 #. type: Yaml Front Matter Hash Value: extra menu_title
 #: content/terms/index.md
@@ -755,7 +755,7 @@ msgstr "CoMaps: feltételek"
 #. type: Plain text
 #: content/terms/index.md
 msgid "This app is licensed under the Apache License, Version 2.0 (the \"License\"); you may not use this application except in compliance with the License."
-msgstr "Ezt az alkalmazást az Apache License, Version 2.0 (a \"License\") licenc alá helyezték; ezt az alkalmazást csak a Licencnek megfelelően használhatja."
+msgstr "Ez az alkalmazás Apache License, Version 2.0 (a „Licenc”) alatt licencelt; az alkalmazást csak a Licencnek megfelelően használhatja."
 
 #. type: Plain text
 #: content/terms/index.md
@@ -765,12 +765,12 @@ msgstr "A Licenc egy példányát a [http://www.apache.org/licenses/LICENSE-2.0]
 #. type: Plain text
 #: content/terms/index.md
 msgid "Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License."
-msgstr "Hacsak a vonatkozó törvények nem írják elő, vagy hacsak írásban nem állapodtak meg, a Licenc alapján terjesztett szoftver \"AZONOS\" ALAPON kerül terjesztésre, MINDEN KIFEJEZETT, vagy hallgatólagos JÓTÁMOGATÁS ÉS FELTÉTELEK NÉLKÜL. A Licenc szerinti engedélyekre és korlátozásokra vonatkozó konkrét nyelvezetet lásd a Licencben."
+msgstr "Hacsak a vonatkozó törvények nem írják elő, vagy hacsak írásban nem állapodtak meg, a Licenc alapján terjesztett szoftver „JELENLEGI ÁLLAPOTÁBAN” kerül közreadásra, MINDEN KIFEJEZETT, vagy hallgatólagos JÓTÁLLÁS ÉS FELTÉTELEK NÉLKÜL. A Licenc szerinti engedélyekre és korlátozásokra vonatkozó konkrét nyelvezetet lásd a Licencben."
 
 #. type: Plain text
 #: content/terms/index.md
 msgid "Most libraries in the following directories on [GitHub][github] made by other people and organizations and licensed in different ways:"
-msgstr "A [GitHub][github] következő könyvtáraiban található könyvtárak többsége más emberek és szervezetek által készített és különböző módon engedélyezett:"
+msgstr "A [GitHub][github] következő könyvtáraiban található könyvtárak többsége más emberek és szervezetek által készült, és különböző módon vannak licencelve:"
 
 #. type: Bullet: '- '
 #: content/terms/index.md
@@ -785,12 +785,12 @@ msgstr "tools"
 #. type: Plain text
 #: content/terms/index.md
 msgid "Please refer to their LICENSE, COPYING or NOTICE files for terms of use."
-msgstr "A felhasználási feltételeket lásd a LICENSE, COPYING vagy NOTICE fájlokban."
+msgstr "A felhasználási feltételekért lásd a LICENSE, COPYING vagy NOTICE fájlokat."
 
 #. type: Plain text
 #: content/terms/index.md
 msgid "See also [data/copyright.html][copyright] file for a full list of copyright notices for CoMaps application."
-msgstr "Lásd még a [data/copyright.html][copyright] fájlt az CoMaps alkalmazás szerzői jogi közleményeinek teljes listájáért."
+msgstr "Lásd még a [data/copyright.html][copyright] fájlt a CoMaps alkalmazás szerzői jogi közleményeinek teljes listájáért."
 
 #. type: Plain text
 #: content/terms/index.md
@@ -826,25 +826,25 @@ msgstr "Kapcsolat"
 #: translations.yaml
 #, no-wrap
 msgid "Install CoMaps from Huawei AppGallery"
-msgstr "Telepítse az CoMaps-et a Huawei AppGalériából"
+msgstr "A CoMaps telepítése a Huawei AppGalleryből"
 
 #. type: Hash Value: install-appstore
 #: translations.yaml
 #, no-wrap
 msgid "Install CoMaps from the AppStore"
-msgstr "Telepítse az CoMaps-et az AppStore-ból"
+msgstr "A CoMaps telepítése az AppStore-ból"
 
 #. type: Hash Value: install-fdroid
 #: translations.yaml
 #, no-wrap
 msgid "Install CoMaps from F-Droid"
-msgstr "Telepítse az CoMaps-et az F-Droidról"
+msgstr "A CoMaps telepítése az F-Droidból"
 
 #. type: Hash Value: install-googleplay
 #: translations.yaml
 #, no-wrap
 msgid "Install CoMaps from Google Play"
-msgstr "Telepítse az CoMaps-et a Google Play-ről"
+msgstr "A CoMaps telepítése a Google Play-ből"
 
 #. type: Hash Value: language
 #: translations.yaml
@@ -863,7 +863,3 @@ msgstr "Név"
 #, no-wrap
 msgid "Token"
 msgstr "Token"
-
-#, no-wrap
-#~ msgid "There are different ways to donate:"
-#~ msgstr "Az adományozásnak különböző módjai vannak:"
