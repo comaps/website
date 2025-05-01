@@ -1,5 +1,5 @@
 #
-# Copyright (C) 2021 CoMaps OÜ
+# Copyright (C) 2021 CoMaps
 # This file is distributed under the same license as the CoMaps Website.
 #
 msgid ""

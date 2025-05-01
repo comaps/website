@@ -51,7 +51,5 @@ extra:
                 text: The app hit a milestone of **3 million users** around the world.
                 highlight: true
     info:
-        - © 2025 CoMaps OÜ
-        - reg. code 16225385
-        - Harju maakond, Tallinn, Kesklinna, innaosa, Rävala pst 8-810, 10143, Estoni
+        - © 2025 CoMaps
 ---
