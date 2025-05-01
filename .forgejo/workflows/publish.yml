@@ -3,9 +3,7 @@ name: Publish to Codeberg Pages
 env:
   ZOLA_VERSION: 0.17.2
 
-on:
-  workflow_dispatch:  # keep manual Action trigger in case of any issues with pages push:
-
+on: [push]
 jobs:
   publish:
     runs-on: codeberg-tiny
