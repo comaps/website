@@ -7,7 +7,7 @@
     --common-white: #ffffff;
     --common-green: #588157;
     --common-green-02: #344533;
-    --common-green-primery: #cce1d0;
+    --common-green-primary: #cce1d0;
     --common-green-btn: #006016;
     --common-green-hover: #3b7b3b;
     --common-grey: #D9DBDA;
@@ -41,7 +41,7 @@
     --link-map-section: var(--common-white);
     --cart-bg: var(--common-grey-v4);
     --card-box-shadow: 0px 4px 20px 0px rgba(0, 0, 0, 0.15);
-    --icon-check-color: var(--common-green-primery);
+    --icon-check-color: var(--common-green-primary);
     --acordion-green: #F2F8F5;
     --acordion-green-bg: var(--common-grey-v4);;
     --dots-color: var(--common-grey-v4);;
@@ -71,7 +71,7 @@
     // donate
     --text-card-support: var(--common-grey-v2);
     // about
-    --bg-history-line: var(--common-green-primery);
+    --bg-history-line: var(--common-green-primary);
     // donwload
     --bg-device-content: #{rgba(#fff, 0.3)};
     // showcase
@@ -87,7 +87,7 @@
     //social
     --white-bgbody: var(--common-white);
 
-    --circle-check-bg: var(--common-green-primery);
+    --circle-check-bg: var(--common-green-primary);
     --circle-check-color: var(--common-black-sub);
 }
 
@@ -95,11 +95,11 @@
     --data-text-color: var(--common-white);
     --text-com-color: var(--common-white);
     --map-grey-text: var(--common-white);
-    --point-color: var(--common-green-primery);
+    --point-color: var(--common-green-primary);
     --link-map-section: var(--common-grey-v6);
     --cart-bg: var(--common-green-02);
     --card-box-shadow: none;
-    --icon-check-color: var(--common-green-primery);
+    --icon-check-color: var(--common-green-primary);
     --acordion-green: var(--common-green-02);
     --acordion-green-bg: var(--common-grey-v3);
     --body-bg: #2C2C2C;
