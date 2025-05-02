@@ -1,7 +1,7 @@
 {
   "name": "CoMaps: Offline Hike Bike Trails and Navigation",
   "short_name": "CoMaps",
-  "description": "Fast detailed offline maps for travelers, tourists, hikers and cyclists, based on OpenStreetMap and curated with love by MapsWithMe founders.",
+  "description": "Fast detailed offline maps for travelers, tourists, hikers and cyclists, based on OpenStreetMap and curated with love by the community.",
   "icons": [
     {
       "src": "/images/android-chrome-192x192.png",
@@ -40,12 +40,12 @@
   "related_applications": [
     {
       "platform": "play",
-      "url": "https://play.google.com/store/apps/details?id=app.organicmaps",
-      "id": "app.organicmaps"
+      "url": "https://play.google.com/store/apps/details?id=app.comaps",
+      "id": "app.comaps"
     },
     {
       "platform": "itunes",
-      "url": "https://itunes.apple.com/app/id1567437057"
+      "url": "TODO:fixme"
     }
   ]
 }
