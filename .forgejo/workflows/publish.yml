@@ -3,7 +3,11 @@ name: Publish to Codeberg Pages
 env:
   ZOLA_VERSION: 0.17.2
 
-on: [push]
+on:
+  push:
+    branches:
+      - main
+      - master
 jobs:
   publish:
     runs-on: codeberg-tiny
