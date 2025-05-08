@@ -9,6 +9,6 @@ extra:
 ---
 
 The main plans are outlined on the donation page:  
-[https://organicmaps.app/donate](https://organicmaps.app/donate)  
+[https://comaps.app/donate](https://comaps.app/donate)  
 You can check the status for development of features on GitHub:  
-[https://github.com/organicmaps/organicmaps/issues](https://github.com/organicmaps/organicmaps/issues)
+[https://codeberg.org/comaps/comaps/issues](https://codeberg.org/comaps/comaps/issues)

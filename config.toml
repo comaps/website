@@ -58,7 +58,7 @@ paths = "safe"
 taxonomies = "on"
 
 # [extra]
-# stripe = "https://donate.organicmaps.app/"
+# stripe = "https://donate.comaps.app/"
 
 [[extra.social]]
 title = "Bluesky"

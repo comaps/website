@@ -1,5 +1,5 @@
 {
-  "name": "organicmaps.github.io",
+  "name": "comaps.app",
   "version": "1.0.0",
   "description": "Tools and utils",
   "main": " ",
@@ -24,12 +24,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/organicmaps/organicmaps.github.io.git"
+    "url": "git+https://codeberg.org/comaps/website.git"
   },
-  "author": "Organic Maps OU",
+  "author": "CoMaps",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/organicmaps/organicmaps.github.io/issues"
+    "url": "https://codeberg.org/comaps/website/issues"
   },
-  "homepage": "https://github.com/organicmaps/organicmaps.github.io#readme"
+  "homepage": "https://codeberg.org/comaps/website#readme"
 }

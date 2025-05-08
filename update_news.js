@@ -6,7 +6,7 @@
 // /news/2022-01-30/title-text-slug
 
 'use strict';
-const channelPreviewUrl = 'https://t.me/s/OrganicMapsApp';
+const channelPreviewUrl = 'https://t.me/CoMapsApp';
 const newsPath = `${__dirname}/content/news/`;
 
 const https = require('https');

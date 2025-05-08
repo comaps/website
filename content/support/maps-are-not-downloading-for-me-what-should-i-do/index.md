@@ -8,4 +8,4 @@ extra:
   order: 60
 ---
 
-Most likely, this issue is related to an active firewall on your phone, router, or internet provider. Make sure that servers *.organicmaps.app are not blocked anywhere. If it still doesn't work, please contact us, and we'll help you figure it out.
+Most likely, this issue is related to an active firewall on your phone, router, or internet provider. Make sure that servers *.comaps.app are not blocked anywhere. If it still doesn't work, please contact us, and we'll help you figure it out.

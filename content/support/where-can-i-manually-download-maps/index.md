@@ -8,4 +8,4 @@ extra:
   order: 70
 ---
 
-You can manually download OM maps from the mirrors listed [here](https://cdn.organicmaps.app/mirrors/).
+You can manually download OM maps from the mirrors listed [here](https://cdn.comaps.app/mirrors/).

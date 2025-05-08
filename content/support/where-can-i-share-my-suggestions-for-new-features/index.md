@@ -8,4 +8,4 @@ extra:
   order: 30
 ---
 
-You can share your suggestions [here](https://github.com/orgs/organicmaps/discussions/categories/ideas), or you can discuss these features with developers and other users in the [Telegram chat](https://t.me/OrganicMapsApp). We also welcome pull requests [here](https://github.com/organicmaps/organicmaps/pulls) from other developers.
+You can share your suggestions and discuss these features with developers and other users in the [Telegram chat](https://t.me/CoMaps_EN). We also welcome pull requests [here](https://codeberg.org/comaps/comaps/pulls) from other developers.

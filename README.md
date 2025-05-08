@@ -18,7 +18,7 @@ Upgrade npm dependencies with `npm run upgrade`, make sure that you have install
 To deploy master to prod, run the "Publish to Codeberg Pages" action.
 <!--
 ### Updating News
-Run `npm run news` to automatically download news from our [Telegram channel](https://t.me/OrganicMapsApp),
+Run `npm run news` to automatically download news from our [Telegram channel](https://t.me/CoMapsApp),
 then create a git commit and push it.
 -->
 ## Contribution

@@ -17,4 +17,4 @@ Here are a few examples of debug commands:
 * `?gl` - Forces the OpenGL renderer. OpenGL renderer is supported on all platforms and is used by default on older Android devices and on the desktop.  
 * `?edits` - Shows the changes that you’ve made lately and their status. You can see if changes are already uploaded to [OpenStreetMap.org](https://osm.org) or if there were any problems.
 
-See this [documentation](https://github.com/organicmaps/organicmaps/blob/master/docs/DEBUG_COMMANDS.md) for the full list of available “secret” debug commands.
+See this [documentation](https://codeberg.org/comaps/comaps/src/branch/main/docs/DEBUG_COMMANDS.md) for the full list of available “secret” debug commands.

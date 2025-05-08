@@ -7,7 +7,7 @@ This section applies only to the following languages:
 - Turkish
 - Russian
 
-These languages are not part of Weblate pilot evaluation (see below). Please edit Markdowns directly in the repository and synchronize the structure with the English source. Or just [send us](mailto:hello@organicmaps.app) the text, and we'll add translations.
+These languages are not part of Weblate pilot evaluation (see below). Please edit Markdowns directly in the repository and synchronize the structure with the English source. Or just [send us](mailto:hello@comaps.app) the text, and we'll add translations.
 
 # Weblate Translations (EXPERIMENTAL)
 
@@ -81,4 +81,4 @@ brew install po4a
 - New web-site pages and languages should be added to `.po4a.cfg` configuration file manually.
 
 [po4a]: https://po4a.org/index.php.en
-[weblate]: https://hosted.weblate.org/projects/organicmaps/website/
+[weblate]: https://translate.codeberg.org/projects/comaps/website

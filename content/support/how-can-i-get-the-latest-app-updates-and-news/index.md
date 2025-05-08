@@ -8,4 +8,4 @@ extra:
   order: 10
 ---
 
-You can subscribe to the [Telegram chat](https://t.me/OrganicMapsApp) for the latest app updates and news.
+You can subscribe to the [Telegram chat](https://t.me/ComapsApp) for the latest app updates and news.
