@@ -9,4 +9,4 @@ extra:
 ---
 
 Only 55 words long (Tell your friends about the difference)  
-[https://comaps.app/privacy/](https://comaps.app/privacy/)
+[https://www.comaps.app/privacy/](https://www.comaps.app/privacy/)
