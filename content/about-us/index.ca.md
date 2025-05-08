@@ -36,19 +36,13 @@ extra:
                 text: Maps.me opened the source code under Apache 2.0 license.
             -
                 year: 2021
-                text: CoMaps was founded based on open-source Maps.me code. A public release was available in the app stores in August.
-                highlight: true
+                text: The Organic Maps project & company were founded, based on the Maps.Me source code.
             -
-                year: 2022
-                text: The community grew and strengthened, with more people contributing to building the app, releasing new versions monthly.
-                highlight: true
+                year: 2025
+                text: Governance issues and community concerns not addressed by company shareholders stalled the development of Organic Maps for months.
             -
-                year: 2023
-                text: The app hit a milestone of **1 million users** around the world.
-                highlight: true
-            -
-                year: 2024
-                text: The app hit a milestone of **3 million users** around the world.
+                year: 2025
+                text: The **CoMaps** community & non-profit project was founded by former Organic Maps contributors, based on the Organic Maps source code.
                 highlight: true
     info:
         - © 2025 CoMaps
