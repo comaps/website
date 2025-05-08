@@ -6,16 +6,19 @@ This static website is built with [Zola](https://www.getzola.org/) and deployed 
 
 ## Development
 
-Download the latest zola for your operating system and set up the necessary path variable.
+- Download the latest zola for your operating system and set up the necessary path variable.
 
-Run `zola serve` for a local preview or `zola build` to generate static site in the `public` folder.
+- Make sure to switch to the `main` branch (the default is `pages` due to the way Codeberg Pages serves sites)
 
-Run `npm i && npm run format` when you want to pretty-format the Markdown and SCSS files.
+- Run `zola serve` for a local preview or `zola build` to generate static site in the `public` folder.
 
-Upgrade npm dependencies with `npm run upgrade`, make sure that you have installed `npm-check-updates` package.
+- Run `npm i && npm run format` if you want to pretty-format the Markdown and SCSS files.
+
+- Upgrade npm dependencies with `npm run upgrade`, make sure that you have installed `npm-check-updates` package.
 
 ## Deployment
-To deploy master to prod, run the "Publish to Codeberg Pages" action.
+The latest site is automatically deployed from `main` on the merging of a pull request.
+It's also possible to manually deploy in the Actions menu.
 <!--
 ### Updating News
 Run `npm run news` to automatically download news from our [Telegram channel](https://t.me/CoMapsApp),
