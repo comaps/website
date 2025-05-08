@@ -38,6 +38,10 @@ jobs:
         run: |
           cp README.md static/README.md
 
+      - name: Stage all files
+        run: |
+          git add .
+
       - name: Deploy to Codeberg Pages
         uses: https://itsblue.dev/actions/codeberg-pages-deploy@v1
         with:
