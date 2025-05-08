@@ -33,7 +33,7 @@ extra:
                 media: /images/donate/infrastructure.webp
             -
                 title: Support
-                text: User support, bug fixing, and improving the stability of the app are at the top of our priorities. There are 2000+ issues on GitHub and growing every day, with items to address on AppStore, Google Play, and support emails.
+                text: User support, fixing bugs, and improving the stability of the app are our top priority. The list of requests and bug reports grows every day, and there are many support requests to respond to on the App Store, Google Play, and support emails.
                 media: /images/donate/support.webp
     reviews:
         title: People say
