@@ -12,4 +12,4 @@ A route is a way or course defined from a starting and a destination point and (
 
 On the other hand, a track is a trajectory defined by a list of fixed geographical points that has normally been recorded from a GPS device.
 
-The main difference between routes and tracks is that routes are calculated dynamically by the OM routing engine based on data of OSM maps, while the tracks are a list of fixed geo points. Routes can be used for navigation purposes, while tracks are just a visual display on the map.
+The main difference between routes and tracks is that routes are calculated dynamically by the CoMaps routing engine based on data of OSM maps, while the tracks are a list of fixed geo points. Routes can be used for navigation purposes, while tracks are just a visual display on the map.

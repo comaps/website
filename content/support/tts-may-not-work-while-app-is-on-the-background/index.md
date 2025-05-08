@@ -8,4 +8,4 @@ extra:
   order: 20
 ---
 
-In order to enable voice instructions while OM is running in the background, open your device's Settings, tap Accessibility and then “Select to Speak -> Settings”. At the top, turn on the option “Read in the background”.
+In order to enable voice instructions while CoMaps is running in the background, open your device's Settings, tap Accessibility and then “Select to Speak -> Settings”. At the top, turn on the option “Read in the background”.

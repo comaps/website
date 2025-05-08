@@ -23,6 +23,6 @@ You can change route type from the top menu:
 * Ruler
 
 {{ image(src="image15.jpg" classes="max-w-50") }}  
-By default, OM calculates the route starting from your actual position. You can set the start point of the route by selecting a POI, address or any point on the map and clicking on the “Route From” button in the place information panel.
+By default, CoMaps calculates the route starting from your actual position. You can set the start point of the route by selecting a POI, address or any point on the map and clicking on the “Route From” button in the place information panel.
 
 Push the "Start" button to begin the step-by-step routing.

@@ -8,7 +8,7 @@ extra:
   order: 10
 ---
 
-These are the different gestures that OM supports:
+These are the different gestures that CoMaps supports:
 
 * Use double tap to zoom in.  
 * You can rotate, pan and zoom the map with two fingers gestures.  

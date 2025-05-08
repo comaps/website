@@ -10,4 +10,4 @@ extra:
 
 You need at least iOS 12 or Android 5 to run the app. Devices with later versions can run CoMaps.  
 In Android, CoMaps can work on devices with Google Services installed and without Google support.  
-To use OM with Android Auto, please check the requirements [here](@/support/how-to-use-android-auto/index.md).
+To use CoMaps with Android Auto, please check the requirements [here](@/support/how-to-use-android-auto/index.md).

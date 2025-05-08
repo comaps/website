@@ -1,5 +1,5 @@
 ---
-title: "How can I add a building, a road, or some other feature that is not in OM yet?"
+title: "How can I add a building, a road, or some other feature that is not in CoMaps yet?"
 description: "Frequently asked questions for CoMaps application"
 taxonomies:
   support: ["Map Data"]

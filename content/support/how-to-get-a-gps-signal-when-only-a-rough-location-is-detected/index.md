@@ -8,7 +8,7 @@ extra:
   order: 10
 ---
 
-If you’re getting a rough (not precise) location in OM, please try the following:
+If you’re getting a rough (not precise) location in CoMaps, please try the following:
 
 1. Check if fine/precise permissions are given to the app, and are enabled in the system settings.  
 2. Go outdoors to get a good GPS signal.  

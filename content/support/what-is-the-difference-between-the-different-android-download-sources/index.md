@@ -8,9 +8,9 @@ extra:
   order: 30
 ---
 
-You can download and install OM for Android from different sources: Google Play, F-Droid, Huawey AppGallery or [CoMaps website](https://codeberg.org/comaps/comaps/releases/).
+You can download and install CoMaps for Android from different sources: Google Play, F-Droid, Huawey AppGallery or [CoMaps website](https://codeberg.org/comaps/comaps/releases/).
 
-1. Play Store version has built-in world maps and may use Google Location services for faster location detection over WiFi or cellular networks (it can be disabled in OM settings). Note that Location Services setting disappears if your device doesn't have them installed for whatever reason (degoogled device, for example). Releases may be delayed by Google Reviewers or by partial availability to see if there are any regressions.  
+1. Play Store version has built-in world maps and may use Google Location services for faster location detection over WiFi or cellular networks (it can be disabled in CoMaps settings). Note that Location Services setting disappears if your device doesn't have them installed for whatever reason (degoogled device, for example). Releases may be delayed by Google Reviewers or by partial availability to see if there are any regressions.  
 With CoMaps from Google Play, you can disable Google Play Services for location search in the app’s settings menu:  
 ![Google Play Services](image30.png)
 2. Github (Web) version is the same as Play Store except it doesn't have built-in World maps, which should be downloaded separately. You can auto-update it using Obtanium. It has a different ID so it can be installed separately with Google, Huawei, or Fdroid versions. And you can easily migrate your bookmarks. Available instantly. Note that Location Services setting disappears if your device doesn't have them installed.

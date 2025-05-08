@@ -8,7 +8,7 @@ extra:
   order: 70
 ---
 
-If you’re experiencing problems while downloading maps from OM, please try the following:
+If you’re experiencing problems while downloading maps from CoMaps, please try the following:
 
 1. Check that your internet connection is working properly.  
 2. Check if you have any firewall apps on the device or on the router.  

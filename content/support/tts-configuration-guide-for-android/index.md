@@ -161,5 +161,5 @@ If you’re having trouble initializing the RHVoice TTS engine on LineageOS or o
 * Now, you should be able to use RHVoice without any problems
 
 Testing  
-In order to test the voice instructions, you can tap on "Test Voice Directions (TTS, Text-To-Speech)" in the OM "Settings → Voice Instructions" menu or you can actually start a navigation to receive any voice output. CoMaps will not give you any voice instructions while you're standing still.  
+In order to test the voice instructions, you can tap on "Test Voice Directions (TTS, Text-To-Speech)" in the CoMaps "Settings → Voice Instructions" menu or you can actually start a navigation to receive any voice output. CoMaps will not give you any voice instructions while you're standing still.  
 ![](image17.png)
