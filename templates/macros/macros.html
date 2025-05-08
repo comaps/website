@@ -39,7 +39,11 @@
         </div>
         {% if donate %}
             <div class="si-action">
-                <a href="{% if page.path == '/donate/' %}#donate{% else %}/donate/{% endif %}" class="button button--main"> {{ trans(key='donate-title', lang=lang) }}</a>
+                {% if page.path == '/donate/' %}
+                    <a href="https://opencollective.com/comaps/donate" class="button button--main"> {{ trans(key='donate-open-collective', lang=lang) }}</a>
+                {% else %}
+                    <a href="/donate/" class="button button--main"> {{ trans(key='donate-title', lang=lang) }}</a>
+                {% endif %}
             </div>
         {% endif %}
     </div>

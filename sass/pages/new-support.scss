@@ -237,7 +237,10 @@
 }
 
 
-.donate-services {scroll-margin-top: calc(var(--header-height) + 40rem);
+.donate-services {
+  scroll-margin-top: calc(var(--header-height) + 40rem);
+  margin-bottom: 80rem;
+
   &__row {
     box-shadow: var(--common-card-box-shadow);
     padding: 40rem 16rem 30rem;

@@ -17,7 +17,7 @@
             {% endfor %}
         {% endif %}
     </div>
-    <a href="#donate" class="button button--main support-benefit__btn">{{ trans(key='donate-title', lang=lang) }}</a>
+    <a href="https://opencollective.com/comaps/donate" class="button button--main support-benefit__btn">{{ trans(key='donate-open-collective', lang=lang) }}</a>
 </section>
 
 <section class="services-support">
@@ -1087,6 +1087,7 @@
     </div>
 </section>
 
+<!--
 <section class="reviews">
     <h2 class="reviews__title">{{ page.extra.reviews.title | safe }}</h2>
     <div class="line reviews__line"></div>
@@ -1107,6 +1108,7 @@
         </div>
     </div>
 </section>
+-->
 
 {% include 'section/donate.html' %}
 
