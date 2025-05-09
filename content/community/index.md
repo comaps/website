@@ -34,7 +34,7 @@ extra:
     - title: "**Add** Place Info"
       description: "Add info about shops, points of interest, trails, public transport to OpenStreetMap"
       icon: "MapPinLine.svg"
-      link: "#"
+      link: "/support/editing-with-CoMaps"
     - title: "**Help** Support"
       description: "Help people use the app, resolve questions"
       icon: "Headset.svg"
