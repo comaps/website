@@ -9,7 +9,7 @@ description = "Free offline maps app for travellers, tourists, hikers, and cycli
 author = "hello@comaps.app"
 generate_feeds = true
 feed_filenames = ["atom.xml", "rss.xml"]
-
+default_language = "en"
 
 taxonomies = [
     # {name = "faq", feed = false},
@@ -19,7 +19,7 @@ taxonomies = [
 
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = false
-#default_language = "en"
+
 
 
 
