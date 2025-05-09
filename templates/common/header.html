@@ -12,16 +12,16 @@
         get_section(path="api/index.md"), #}
         <ul class="header__ul">
             <li class="header__nav header__link">
-                <a href="/community/">Community</a>
+                <a href="{{ get_url(path="/community/", lang=lang) }}">Community</a>
             </li>
             <li class="header__nav header__link">
-                <a href="/donate/">Donate</a>
+                <a href="{{ get_url(path="/donate/", lang=lang) }}">Donate</a>
             </li>
             <li class="header__nav header__link">
                 <a href="/support/">Help</a>
             </li>
             <li class="header__nav header__link">
-                <a href="/about-us/">About us</a>
+                <a href="{{ get_url(path="/about-us/", lang=lang) }}">About us</a>
             </li>
         </ul>
         <div class="header__mobile">
