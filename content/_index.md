@@ -44,7 +44,7 @@ extra:
             -
                 title: Free and Built by the Community
                 description: |
-                    People like you helped build the app by adding locations to <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-open-street-map"></use></svg> OpenStreetMap</span>, giving feedback on features, and contributing code on <span class="text-icon"><svg viewBox="0 0 19 18"><use href="#icon-github"></use></svg> GitHub</span> in the open-source community.
+                    People like you helped build the app by adding locations to <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-open-street-map"></use></svg> OpenStreetMap</span>, giving feedback on features, and contributing code on Codeberg in the open-source community.
                 highlight:
                     text: |
                         Free for everyone,  
