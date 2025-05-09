@@ -63,74 +63,74 @@ taxonomies = "on"
 [[extra.social]]
 title = "Bluesky"
 icon = "bluesky.svg"
-link = "https://bsky.app/"
+link = "https://bsky.app/profile/comaps.app"
 
 [[extra.social]]
 title = "facebook"
 icon = "fb.svg"
-link = ""
+link = "https://www.facebook.com/CoMapsCommunity/"
 
 [[extra.social]]
 title = "Instagram"
 icon = "insta.svg"
-link = ""
+link = "https://www.instagram.com/comapscommunity/"
 
 [[extra.social]]
 title = "linkedin"
 icon = "linkedin.svg"
-link = ""
+link = "https://www.linkedin.com/company/comaps-community/"
 
 [[extra.social]]
 title = "mastodon"
 icon = "mastodon.svg"
-link = ""
+link = "https://floss.social/@CoMaps"
 
 [[extra.social]]
 title = "matrix"
 icon = "matrix.svg"
-link = ""
+link = "https://matrix.to/#/%23comaps:matrix.org"
 
 [[extra.social]]
 title = "reddit"
 icon = "reddit.svg"
-link = ""
+link = "https://www.reddit.com/r/CoMaps/"
 
 [[extra.social]]
 title = "telegram"
 icon = "telegram.svg"
-link = ""
+link = "https://t.me/CoMapsApp"
 
 [[extra.social]]
 title = "threads"
 icon = "threads.svg"
-link = ""
+link = "https://www.threads.com/@comapscommunity"
 
 [[extra.social]]
 title = "tiktok"
 icon = "tiktok.svg"
-link = ""
+link = "https://www.tiktok.com/@comapscommunity"
 
-[[extra.social]]
-title = "youtube"
-icon = "youtube.svg"
-link = ""
+# [[extra.social]]
+# title = "youtube"
+# icon = "youtube.svg"
+# link = ""
 
-[[extra.social]]
-title = "x"
-icon = "x.svg"
-link = ""
-class= "icon-x"
+# [[extra.social]]
+# title = "x"
+# icon = "x.svg"
+# link = ""
+# class= "icon-x"
 
-[[extra.social]]
-title = "github"
-icon = "github-circle.svg"
-link = ""
-class= "icon-github"
+# [[extra.social]]
+# title = "github"
+# icon = "github-circle.svg"
+# link = ""
+# class= "icon-github"
 
 [[extra.social]]
 title = "email"
 icon = "email.svg"
-link = ""
+link = "mailto:hello@comaps.app"
 
 
 
