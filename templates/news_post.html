@@ -67,7 +67,7 @@
           {% for photo in resource.assets | sort %}
           <img class="post-min__img post-min__img--float" src="{{ resource.path | safe }}{{ photo | split(pat='/') | last }}" />
           {% endfor %}
-          <div class="markdown-styling">
+          <div class="news-content">
             {{ resource.content | safe }}
           </div>
         </div>

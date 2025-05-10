@@ -117,3 +117,19 @@ img.max-w-40 {max-width: 40%;
         max-width: 100%;
     }
 }
+
+.news-content {
+    h1, h2, h3, h4, h5, h6 {
+        margin-top: 2em;
+        margin-bottom: 0.5em;
+    }
+
+    .markdown-styling p {
+        margin-bottom: 1em;
+    }
+
+    hr {
+        margin-top: 2em;
+        margin-bottom: 2em;
+    }
+}
