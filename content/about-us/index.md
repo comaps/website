@@ -44,6 +44,4 @@ extra:
                 year: 2025
                 text: The **CoMaps** community & non-profit project was founded by former Organic Maps contributors, based on the Organic Maps source code.
                 highlight: true
-    info:
-        - © 2025 CoMaps
 ---
