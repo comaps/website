@@ -1,7 +1,7 @@
 name: Publish to Codeberg Pages
 
 env:
-  ZOLA_VERSION: 0.17.2
+  ZOLA_VERSION: 0.20.0
 
 on:
 #  workflow_dispatch:
@@ -25,16 +25,11 @@ jobs:
           wget -O zola.tar.gz -c https://github.com/getzola/zola/releases/download/v${ZOLA_VERSION}/zola-v${ZOLA_VERSION}-x86_64-unknown-linux-gnu.tar.gz
           tar -zxvf zola.tar.gz
 
-      - name: Setup Go
-        uses: actions/setup-go@v3
-        with:
-          go-version: "1.21"
-
       - name: Build Site
         run: | 
           ./zola build
 
-      - name: Update README.md
+      - name: Copy over README.md
         run: |
           cp README.md static/README.md
 
