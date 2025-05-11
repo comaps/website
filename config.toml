@@ -61,26 +61,6 @@ taxonomies = "on"
 # stripe = "https://donate.comaps.app/"
 
 [[extra.social]]
-title = "Bluesky"
-icon = "bluesky.svg"
-link = "https://bsky.app/profile/comaps.app"
-
-[[extra.social]]
-title = "facebook"
-icon = "fb.svg"
-link = "https://www.facebook.com/CoMapsCommunity/"
-
-[[extra.social]]
-title = "Instagram"
-icon = "insta.svg"
-link = "https://www.instagram.com/comapscommunity/"
-
-[[extra.social]]
-title = "linkedin"
-icon = "linkedin.svg"
-link = "https://www.linkedin.com/company/comaps-community/"
-
-[[extra.social]]
 title = "mastodon"
 icon = "mastodon.svg"
 link = "https://floss.social/@CoMaps"
@@ -91,14 +71,34 @@ icon = "matrix.svg"
 link = "https://matrix.to/#/%23comaps:matrix.org"
 
 [[extra.social]]
-title = "reddit"
-icon = "reddit.svg"
-link = "https://www.reddit.com/r/CoMaps/"
+title = "Bluesky"
+icon = "bluesky.svg"
+link = "https://bsky.app/profile/comaps.app"
 
 [[extra.social]]
 title = "telegram"
 icon = "telegram.svg"
 link = "https://t.me/CoMapsApp"
+
+[[extra.social]]
+title = "Instagram"
+icon = "insta.svg"
+link = "https://www.instagram.com/comapscommunity/"
+
+[[extra.social]]
+title = "facebook"
+icon = "fb.svg"
+link = "https://www.facebook.com/CoMapsCommunity/"
+
+[[extra.social]]
+title = "linkedin"
+icon = "linkedin.svg"
+link = "https://www.linkedin.com/company/comaps-community/"
+
+[[extra.social]]
+title = "reddit"
+icon = "reddit.svg"
+link = "https://www.reddit.com/r/CoMaps/"
 
 [[extra.social]]
 title = "threads"
