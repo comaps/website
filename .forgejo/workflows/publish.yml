@@ -46,5 +46,7 @@ jobs:
         uses: https://itsblue.dev/actions/codeberg-pages-deploy@v1
         with:
           folder: ./public
+          token: ${{ secrets.GITHUB_TOKEN }}
+          force: true
           git_remote: https://codeberg.org/comaps/pages.git
           git_branch: main
