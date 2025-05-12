@@ -1,6 +1,6 @@
 # CoMaps Website
 
-This static website is built with [Zola](https://www.getzola.org/), deployed on [Codeberg Pages](https://codeberg.page), and served via [Fastly CDN](https://fastly.com/products/cdn).
+This static website is built with [Zola](https://www.getzola.org/) and deployed on [Codeberg Pages](https://codeberg.page).
 
 <!-- ![Main Website](./static/images/website-main.png) -->
 
