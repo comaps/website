@@ -4,10 +4,10 @@ env:
   ZOLA_VERSION: 0.20.0
 
 on:
-#  workflow_dispatch:
-#  push:
-#    branches:
-#      - main
+  workflow_dispatch:
+  push:
+    branches:
+      - main
 jobs:
   publish:
     runs-on: codeberg-tiny
@@ -41,3 +41,5 @@ jobs:
         uses: https://itsblue.dev/actions/codeberg-pages-deploy@v1
         with:
           folder: ./public
+          git_remote: https://codeberg.org/comaps/pages.git
+          git_branch: main
