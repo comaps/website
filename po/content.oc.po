@@ -226,18 +226,6 @@ msgstr "{{ exodus_screenshot() }}"
 #. type: Plain text
 #: content/_index.md
 #, markdown-text
-msgid "The iOS application is verified by [TrackerControl for iOS][trackercontrol]:"
-msgstr ""
-
-#. type: Plain text
-#: content/_index.md
-#, markdown-text
-msgid "{{ trackercontrol_screenshot() }}"
-msgstr ""
-
-#. type: Plain text
-#: content/_index.md
-#, markdown-text
 msgid "CoMaps doesn't request excessive permissions to spy on you:"
 msgstr "Mapas Organicas demanda pas de permissions excessivas per vos espiar:"
 
@@ -287,11 +275,6 @@ msgstr "Cu paga per l'aplicacion a gratis?"
 #: content/_index.md
 msgid "The app is free for everyone. Please [donate](@/donate/index.md) to support us!"
 msgstr "L'aplicacion es a gratis per totei. Se volètz [donar](@/donate/index.ca.md) per nos ajudar!"
-
-#. type: Plain text
-#: content/_index.md
-msgid "To donate conveniently, click on your preferred payment method icon below:"
-msgstr ""
 
 #. type: Plain text
 #: content/_index.md content/donate/index.md
@@ -424,11 +407,6 @@ msgstr "Sensa enregistrament"
 msgid "Open source"
 msgstr "Còde dobèrt"
 
-#. type: Plain text
-#: content/donate/index.md
-msgid "Click on your preferred payment method icon below:"
-msgstr ""
-
 #. type: Title ##
 #: content/donate/index.md
 #, no-wrap
@@ -532,69 +510,11 @@ msgstr "Coma donar ?"
 msgid "Recurring donations are the best way to ensure a relatively stable income for the project and motivate us for long-term tasks and goals. But you can also donate one time."
 msgstr "Lei dons regulars e automatizats son lo biais melhor d'assegurar un crèis periodic dau projècte e nos motiva per lei tascas e pretzfach de lònga tòca. Aquò vos empacha pas de donar qu'un còp."
 
-#. type: Title ###
-#: content/donate/index.md
-#, no-wrap
-msgid "Bank Transfer"
-msgstr ""
-
-#. type: Plain text
-#: content/donate/index.md
-msgid "{{ bank_transfer() }}"
-msgstr ""
-
-#. type: Title ###
-#: content/donate/index.md
-#, no-wrap
-msgid "Crypto"
-msgstr ""
-
-#. type: Plain text
-#: content/donate/index.md
-msgid "Please consider donating annually to reduce total fees."
-msgstr ""
-
-#. type: Plain text
-#: content/donate/index.md
-msgid "{{ crypto_table() }}"
-msgstr ""
-
-#. type: Title ##
-#: content/donate/index.md
-#, no-wrap
-msgid "Can you help us in any other way?"
-msgstr ""
-
-#. type: Plain text
-#: content/donate/index.md
-msgid "Yes! There are many ways to support CoMaps. Please see [Support Us](@/support-us/index.md) page for more details."
-msgstr ""
-
-#. type: Plain text
-#: content/donate/index.md
-#, no-wrap
-msgid ""
-"[stripe]: https://donate.organicmaps.app/ \"Donate via Stripe\"\n"
-"[github issues]: https://github.com/organicmaps/organicmaps/issues \"GitHub Issues\"\n"
-msgstr ""
-
-#. type: Yaml Front Matter Hash Value: description
-#: content/news/_index.md
-#, no-wrap
-msgid "Stay in touch with the latest CoMaps releases, news and updates from our team"
-msgstr ""
-
 #. type: Yaml Front Matter Hash Value: extra menu_title
 #: content/news/_index.md
 #, no-wrap
 msgid "News"
 msgstr "News"
-
-#. type: Yaml Front Matter Hash Value: title
-#: content/news/_index.md
-#, no-wrap
-msgid "CoMaps: Latest news and updates from our team"
-msgstr ""
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/privacy/index.md
@@ -705,18 +625,8 @@ msgstr "Jonhètz-vos a la comunautat [OpenStreetMap][openstreetmap] e collaborat
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
-msgid "Fix red cities found by our [public transport validator][public_transport_validator], for subways and light rails to work in the app."
-msgstr ""
-
-#. type: Bullet: '- '
-#: content/support-us/index.md
 msgid "Support other users on [GitHub][issues], [Telegram][telegram_chat], [Matrix][matrix], [Twitter][twitter], [Facebook][facebook], [Instagram][instagram]."
 msgstr "Ajudatz leis autreis utilizators dins [GitHub][issues], [Telegram][telegram_chat], [Matrix][matrix], [Twitter][twitter], [Facebook][facebook], [Instagram][instagram]."
-
-#. type: Bullet: '- '
-#: content/support-us/index.md
-msgid "Tell everyone about CoMaps. A bigger community is a stronger community."
-msgstr ""
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
@@ -756,61 +666,16 @@ msgstr "Mapas Organicas : condicions"
 msgid "This app is licensed under the Apache License, Version 2.0 (the \"License\"); you may not use this application except in compliance with the License."
 msgstr "Aquesta aplicacion es sota la Licéncia Apache, Version 2.0 (la \"Licéncia\"); se pòt pas servir d’aquesta aplicacion s’acceptatz pas amb la Licéncia."
 
-#. type: Plain text
-#: content/terms/index.md
-msgid "You may obtain a copy of the License at [http://www.apache.org/licenses/LICENSE-2.0][license]"
-msgstr ""
-
-#. type: Plain text
-#: content/terms/index.md
-msgid "Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License."
-msgstr ""
-
-#. type: Plain text
-#: content/terms/index.md
-msgid "Most libraries in the following directories on [GitHub][github] made by other people and organizations and licensed in different ways:"
-msgstr ""
-
-#. type: Bullet: '- '
-#: content/terms/index.md
-msgid "3party"
-msgstr ""
-
 #. type: Bullet: '- '
 #: content/terms/index.md
 msgid "tools"
 msgstr "Aisinas"
-
-#. type: Plain text
-#: content/terms/index.md
-msgid "Please refer to their LICENSE, COPYING or NOTICE files for terms of use."
-msgstr ""
-
-#. type: Plain text
-#: content/terms/index.md
-msgid "See also [data/copyright.html][copyright] file for a full list of copyright notices for CoMaps application."
-msgstr ""
-
-#. type: Plain text
-#: content/terms/index.md
-#, no-wrap
-msgid ""
-"[github]: https://github.com/organicmaps/organicmaps\n"
-"[license]: http://www.apache.org/licenses/LICENSE-2.0\n"
-"[copyright]: https://github.com/organicmaps/organicmaps/blob/master/data/copyright.html\n"
-msgstr ""
 
 #. type: Hash Value: address
 #: translations.yaml
 #, no-wrap
 msgid "Address"
 msgstr "Address"
-
-#. type: Hash Value: back
-#: translations.yaml
-#, no-wrap
-msgid "Back to News"
-msgstr ""
 
 #. type: Hash Value: contact
 #: translations.yaml

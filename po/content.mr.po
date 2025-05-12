@@ -225,18 +225,6 @@ msgstr "{{ exodus_screenshot() }}"
 
 #. type: Plain text
 #: content/_index.md
-#, markdown-text
-msgid "The iOS application is verified by [TrackerControl for iOS][trackercontrol]:"
-msgstr ""
-
-#. type: Plain text
-#: content/_index.md
-#, markdown-text
-msgid "{{ trackercontrol_screenshot() }}"
-msgstr ""
-
-#. type: Plain text
-#: content/_index.md
 msgid "CoMaps doesn't request excessive permissions to spy on you:"
 msgstr "तुमच्यावर गुप्तहेरी करायला CoMaps अनावश्यक परवानग्या मागत नाही:"
 
@@ -266,11 +254,6 @@ msgid "Stay safe no matter wherever you are"
 msgstr "तुम्ही जिथे कुठे असाल तिथे सुरक्षित रहा"
 
 #. type: Plain text
-#: content/_index.md content/privacy/index.md
-msgid "Reject surveillance - embrace your freedom."
-msgstr ""
-
-#. type: Plain text
 #: content/_index.md
 #, no-wrap
 msgid "**[Give CoMaps a try!](#install)**\n"
@@ -286,11 +269,6 @@ msgstr "ह्या निःशुल्क ऍपचा खर्च को�
 #: content/_index.md
 msgid "The app is free for everyone. Please [donate](@/donate/index.md) to support us!"
 msgstr "हे ऍप सर्वांसाठी विमानुल्य आहे. आम्हाला पाठिंबा द्यायला कृपया [देणगी द्या](@/donate/index.md)!"
-
-#. type: Plain text
-#: content/_index.md
-msgid "To donate conveniently, click on your preferred payment method icon below:"
-msgstr ""
 
 #. type: Plain text
 #: content/_index.md content/donate/index.md
@@ -423,11 +401,6 @@ msgstr "कोणतीही नोदणी नाही"
 msgid "Open source"
 msgstr "मुक्त strot"
 
-#. type: Plain text
-#: content/donate/index.md
-msgid "Click on your preferred payment method icon below:"
-msgstr ""
-
 #. type: Title ##
 #: content/donate/index.md
 #, no-wrap
@@ -455,16 +428,6 @@ msgstr "तुमच्या पाठिंब्याने, आम्ही
 msgid "What will the money be used for?"
 msgstr "देणगीचा तुम्ही काय वापर करणार?"
 
-#. type: Bullet: '1. '
-#: content/donate/index.md
-msgid "We pay for fast servers, so anyone in the World can download free map data updates without delays.  It's hundreds of terabytes monthly, and the amount is growing."
-msgstr ""
-
-#. type: Bullet: '2. '
-#: content/donate/index.md
-msgid "User support, bugfixing, and improving the stability of the app are at the top of our priorities.  There are [1800+ issues on GitHub][github issues], and this number is growing every day.  AppStore, Google Play, and support emails are overflooded with comments and bugs. We want to deliver a high-quality product."
-msgstr ""
-
 #. type: Bullet: '3. '
 #: content/donate/index.md
 msgid "With enough money, new features can be developed faster, for example:"
@@ -477,111 +440,13 @@ msgstr "साप्ताहिक व स्वयंचलित नकाश
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
-msgid "Bookmarks backup and sync"
-msgstr ""
-
-#. type: Bullet: '   - '
-#: content/donate/index.md
-msgid "Android Auto"
-msgstr ""
-
-#. type: Bullet: '   - '
-#: content/donate/index.md
-msgid "GPS track recorder with GPX support"
-msgstr ""
-
-#. type: Bullet: '   - '
-#: content/donate/index.md
-msgid "Better map styles for different activities"
-msgstr ""
-
-#. type: Bullet: '   - '
-#: content/donate/index.md
-msgid "Hill shading and 3D terrain"
-msgstr ""
-
-#. type: Bullet: '   - '
-#: content/donate/index.md
-msgid "Improve the OpenStreetMap editor"
-msgstr ""
-
-#. type: Bullet: '   - '
-#: content/donate/index.md
-msgid "Better offline address search, routing, and navigation"
-msgstr ""
-
-#. type: Bullet: '   - '
-#: content/donate/index.md
 msgid "Public Transport"
 msgstr "सार्वजनिक परिवहन"
-
-#. type: Bullet: '   - '
-#: content/donate/index.md
-msgid "… and [many other][github issues] features you want and love"
-msgstr ""
-
-#. type: Title ##
-#: content/donate/index.md
-#, no-wrap
-msgid "How to donate?"
-msgstr ""
-
-#. type: Plain text
-#: content/donate/index.md
-msgid "Recurring donations are the best way to ensure a relatively stable income for the project and motivate us for long-term tasks and goals. But you can also donate one time."
-msgstr ""
-
-#. type: Title ###
-#: content/donate/index.md
-#, no-wrap
-msgid "Bank Transfer"
-msgstr ""
 
 #. type: Plain text
 #: content/donate/index.md
 msgid "{{ bank_transfer() }}"
 msgstr "{{ bank_transfer() }}"
-
-#. type: Title ###
-#: content/donate/index.md
-#, no-wrap
-msgid "Crypto"
-msgstr ""
-
-#. type: Plain text
-#: content/donate/index.md
-msgid "Please consider donating annually to reduce total fees."
-msgstr ""
-
-#. type: Plain text
-#: content/donate/index.md
-msgid "{{ crypto_table() }}"
-msgstr ""
-
-#. type: Title ##
-#: content/donate/index.md
-#, no-wrap
-msgid "Can you help us in any other way?"
-msgstr ""
-
-#. type: Plain text
-#: content/donate/index.md
-msgid "Yes! There are many ways to support CoMaps. Please see [Support Us](@/support-us/index.md) page for more details."
-msgstr ""
-
-#. type: Plain text
-#: content/donate/index.md
-#, no-wrap
-msgid ""
-"[stripe]: https://donate.organicmaps.app/ \"Donate via Stripe\"\n"
-"[github issues]: https://github.com/organicmaps/organicmaps/issues \"GitHub Issues\"\n"
-msgstr ""
-
-#. type: Yaml Front Matter Hash Value: description
-#: content/news/_index.md
-#, no-wrap
-msgid "Stay in touch with the latest CoMaps releases, news and updates from our team"
-msgstr ""
 
 #. type: Yaml Front Matter Hash Value: extra menu_title
 #: content/news/_index.md
@@ -589,108 +454,11 @@ msgstr ""
 msgid "News"
 msgstr "वृत्त"
 
-#. type: Yaml Front Matter Hash Value: title
-#: content/news/_index.md
-#, no-wrap
-msgid "CoMaps: Latest news and updates from our team"
-msgstr ""
-
-#. type: Yaml Front Matter Hash Value: description
-#: content/privacy/index.md
-#, no-wrap
-msgid "No tracking, no ads, no data collection, no statistics collection, no spyware"
-msgstr ""
-
 #. type: Yaml Front Matter Hash Value: extra menu_title
 #: content/privacy/index.md
 #, no-wrap
 msgid "Privacy"
 msgstr "गोपनीयता"
-
-#. type: Yaml Front Matter Hash Value: title
-#: content/privacy/index.md
-#, no-wrap
-msgid "CoMaps: Privacy Policy"
-msgstr ""
-
-#. type: Plain text
-#: content/privacy/index.md
-msgid "CoMaps respects your privacy and DOES NOT TRACK YOU."
-msgstr ""
-
-#. type: Plain text
-#: content/privacy/index.md
-msgid "Unlike most other applications, there is no tracking, no ads, no spyware, no data and statistics collection in CoMaps."
-msgstr ""
-
-#. type: Plain text
-#: content/privacy/index.md
-msgid "Stay away from Big Tech's prying eyes!"
-msgstr ""
-
-#. type: Plain text
-#: content/privacy/index.md content/terms/index.md
-msgid "If you have any questions or suggestions, please contact us at [legal@organicmaps.app](mailto:legal@organicmaps.app)."
-msgstr ""
-
-#. type: Plain text
-#: content/privacy/index.md
-#, no-wrap
-msgid "<sub>This policy is effective as of 2021-04-24.</sub>\n"
-msgstr ""
-
-#. type: Yaml Front Matter Hash Value: description
-#: content/support-us/index.md
-#, no-wrap
-msgid "Different ways to support the development of our free application"
-msgstr ""
-
-#. type: Yaml Front Matter Hash Value: extra menu_title
-#: content/support-us/index.md
-#, no-wrap
-msgid "Support Us"
-msgstr ""
-
-#. type: Yaml Front Matter Hash Value: title
-#: content/support-us/index.md
-#, no-wrap
-msgid "Support the development of CoMaps"
-msgstr ""
-
-#. type: Plain text
-#: content/support-us/index.md
-msgid "CoMaps is a free, open-source app. It is free from ads, it does not collect your personal information, and it is developed by a few enthusiasts with the help of the community."
-msgstr ""
-
-#. type: Plain text
-#: content/support-us/index.md
-msgid "There are different ways to support the development:"
-msgstr ""
-
-#. type: Bullet: '- '
-#: content/support-us/index.md
-msgid "[Donate](@/donate/index.md)! Every dollar or euro counts and helps us to pay for servers and scale."
-msgstr ""
-
-#. type: Bullet: '- '
-#: content/support-us/index.md
-msgid "Report bugs and share ideas on our [GitHub][github] or via [email][email]."
-msgstr ""
-
-#. type: Bullet: '- '
-#: content/support-us/index.md
-msgid "Help us to [fix bugs][contributing] and do code reviews if you are a developer. Every fixed small issue makes someone happier."
-msgstr ""
-
-#. type: Bullet: '- '
-#: content/support-us/index.md
-msgid "[Translate][translations] missing strings in the app's interface."
-msgstr ""
-
-#. type: Bullet: '- '
-#: content/support-us/index.md
-msgid "Translate [App Store][translations_appstore] and [Android][translations_googleplay] descriptions into your language."
-msgstr ""
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
@@ -701,11 +469,6 @@ msgstr "ह्या संकेतस्थळाचा आपल्या भ
 #: content/support-us/index.md
 msgid "Join the [OpenStreetMap][openstreetmap] community and contribute to the maps data."
 msgstr "[OpenStreetMap][openstreetmap] समुदायात सहभागी व्हा व नकाशा डेटाचे योगदान करा."
-
-#. type: Bullet: '- '
-#: content/support-us/index.md
-msgid "Fix red cities found by our [public transport validator][public_transport_validator], for subways and light rails to work in the app."
-msgstr ""
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
@@ -727,11 +490,6 @@ msgstr "[Google Play][googleplay_review], [Apple Store][appstore_review], [Huawe
 msgid "Any help is welcome!"
 msgstr "कुठल्याही सहकार्याचे स्वागत आहे!"
 
-#. type: Plain text
-#: content/support-us/index.md
-msgid "Our small team is very grateful for your feedback and support. CoMaps would not be possible without our users ❤️."
-msgstr ""
-
 #. type: Yaml Front Matter Hash Value: description
 #: content/terms/index.md
 #, no-wrap
@@ -750,26 +508,6 @@ msgstr "संज्ञा"
 msgid "CoMaps: terms"
 msgstr "CoMaps: अटी"
 
-#. type: Plain text
-#: content/terms/index.md
-msgid "This app is licensed under the Apache License, Version 2.0 (the \"License\"); you may not use this application except in compliance with the License."
-msgstr ""
-
-#. type: Plain text
-#: content/terms/index.md
-msgid "You may obtain a copy of the License at [http://www.apache.org/licenses/LICENSE-2.0][license]"
-msgstr ""
-
-#. type: Plain text
-#: content/terms/index.md
-msgid "Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License."
-msgstr ""
-
-#. type: Plain text
-#: content/terms/index.md
-msgid "Most libraries in the following directories on [GitHub][github] made by other people and organizations and licensed in different ways:"
-msgstr ""
-
 #. type: Bullet: '- '
 #: content/terms/index.md
 msgid "3party"
@@ -784,11 +522,6 @@ msgstr "tools"
 #: content/terms/index.md
 msgid "Please refer to their LICENSE, COPYING or NOTICE files for terms of use."
 msgstr "वापरण्याच्या अटींसाठी LICENSE, COPYING किंवा NOTICE फाईली पहा."
-
-#. type: Plain text
-#: content/terms/index.md
-msgid "See also [data/copyright.html][copyright] file for a full list of copyright notices for CoMaps application."
-msgstr ""
 
 #. type: Plain text
 #: content/terms/index.md
@@ -855,12 +588,6 @@ msgstr "मराठी"
 #, no-wrap
 msgid "Name"
 msgstr "नाव"
-
-#. type: Hash Value: token
-#: translations.yaml
-#, no-wrap
-msgid "Token"
-msgstr ""
 
 #, no-wrap
 #~ msgid "There are different ways to donate:"

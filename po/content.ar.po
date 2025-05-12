@@ -286,11 +286,6 @@ msgid "The app is free for everyone. Please [donate](@/donate/index.md) to suppo
 msgstr "التطبيق مجاني للجميع. من فضلك [تبرع](@/donate/index.md) لدعمنا!"
 
 #. type: Plain text
-#: content/_index.md
-msgid "To donate conveniently, click on your preferred payment method icon below:"
-msgstr ""
-
-#. type: Plain text
 #: content/_index.md content/donate/index.md
 msgid "{{ donate_buttons() }}"
 msgstr "{{ donate_buttons() }}"

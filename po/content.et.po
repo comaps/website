@@ -6,14 +6,16 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"Last-Translator: Priit Jõerüüt <hwlate@joeruut.com>\n"
-"Language-Team: Estonian <https://hosted.weblate.org/projects/organicmaps/website/et/>\n"
+"PO-Revision-Date: 2025-05-11 06:53+0000\n"
+"Last-Translator: Priit Jõerüüt <jrtcdbrg@noreply.codeberg.org>\n"
+"Language-Team: Estonian <https://translate.codeberg.org/projects/comaps/"
+"website/et/>\n"
 "Language: et\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.0-dev\n"
+"X-Generator: Weblate 5.10.2\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -31,19 +33,32 @@ msgstr "Avaleht"
 #: content/_index.md
 #, no-wrap
 msgid "CoMaps: Offline Hike, Bike, Trails and Navigation"
-msgstr "CoMaps Offline Hike, Bike, GPS Navigation"
+msgstr "Võrguvaba matkamine, rattasõit ja GPS-iga tee juhatamine CoMapsiga"
 
 #. type: Plain text
 #: content/_index.md
 #, no-wrap
 msgid "**CoMaps** is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists based on top of crowd-sourced **[OpenStreetMap][openstreetmap]** data. It is a privacy-focused, open-source [fork][fork] of **Maps.me** app (previously known as [**MapsWithMe**][mapswithme]), maintained by the same people who created **MapsWithMe** in 2011.\n"
 msgstr ""
+"**CoMaps** on vaba ja tasuta Androidi ja iOSi võrguvaba kaardirakendus "
+"reisijatele, turistidele, matkajatele, autojuhtidele ja jalgratturitele, mis "
+"põhineb kogukonna poolt loodud **[OpenStreetMapi][openstreetmap]** andmetel. "
+"Tegemist on privaatsuskeskse ja avatud lähtekoodil põhineva [versiooniga]"
+"[fork] **Maps.me** rakendusest (varasema nimega [**MapsWithMe**][mapswithme])"
+" ning seda arendab ja haldab sama seltskond, kes **MapsWithMe** algselt "
+"2011. aastal tegi.\n"
 
 #. type: Plain text
 #: content/_index.md
 #, no-wrap
 msgid "**CoMaps** is one of the only applications nowadays that supports 100% of features without an active Internet connection. Install CoMaps, download maps, throw away your SIM card (by the way, your operator constantly tracks you), and go for a weeklong trip on a single battery charge without any byte sent to the network.\n"
 msgstr ""
+"**CoMaps** on üks väheseid tänapäevaseid suuri rakendusi, mille 100% "
+"funktsionaalsustest toimivad ilma internetiühenduseta. Paigalda "
+"nutiseadmesse CoMaps, laadi alla vajalikud kaardid, jäta SIM-kaart "
+"laualaekasse (mude, ka sinu võrguoperaator jälgib sind) ja mine "
+"nädalapikkusele reisile, mil piisab ühest aku laadimiskorrast ja ühtegi "
+"baiti ei saadeta võrgu suunas.\n"
 
 #. type: Title ###
 #: content/_index.md
@@ -246,7 +261,8 @@ msgstr "{{ privacy_screenshots() }}"
 #. type: Plain text
 #: content/_index.md
 msgid "At CoMaps, we believe that privacy is a fundamental human right:"
-msgstr "CoMaps rakenduse tiimis me eeldame, et privaatsus on põhiline inimõigus:"
+msgstr ""
+"CoMapsi rakenduse tiimis me eeldame, et privaatsus on põhiline inimõigus:"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -272,7 +288,7 @@ msgstr "Keeldu pidevast jälgimisest - võta oma sihiks vabadus."
 #: content/_index.md
 #, no-wrap
 msgid "**[Give CoMaps a try!](#install)**\n"
-msgstr "**[Proovi CoMaps'i kaardirakendust!](#install)**\n"
+msgstr "**[Proovi CoMapsi kaardirakendust!](#install)**\n"
 
 #. type: Title ##
 #: content/_index.md
@@ -288,7 +304,7 @@ msgstr "Meie rakendus on kõigile tasuta. Aga kui soovid [meid rahaliselt toetad
 #. type: Plain text
 #: content/_index.md
 msgid "To donate conveniently, click on your preferred payment method icon below:"
-msgstr ""
+msgstr "Mugavaks annetamiseks vali alljärgnevast endale sobilik makseviis:"
 
 #. type: Plain text
 #: content/_index.md content/donate/index.md
@@ -315,7 +331,9 @@ msgstr "Kogukond"
 #. type: Plain text
 #: content/_index.md
 msgid "CoMaps is an [open-source software][github] licensed under the Apache License 2.0."
-msgstr "CoMaps on [avatud lähtekoodil põhinev tarkvara][github], mida me oleme litsentseerinud Apache License 2.0 alusel."
+msgstr ""
+"CoMaps on [avatud lähtekoodil põhinev tarkvara][github], mille me oleme "
+"avaldanud Apache License 2.0 alusel."
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -376,18 +394,20 @@ msgstr "Jälgi meid sotsiaalmeedias: [Mastodon][mastodon], [Facebook][facebook],
 #: content/_index.md
 #, no-wrap
 msgid "[fork]: https://en.wikipedia.org/wiki/Fork_(software_development)\n"
-msgstr ""
+msgstr "[hargmik]: https://en.wikipedia.org/wiki/Fork_(software_development)\n"
 
 #. type: Plain text
 #: content/_index.md content/support-us/index.md
 msgid "{{ references() }}"
-msgstr ""
+msgstr "{{ references() }}"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/donate/index.md
 #, no-wrap
 msgid "Your money pays for all project-related expenses and motivates us to improve CoMaps."
 msgstr ""
+"Me rahastame sinu rahalise toetusega projekti põhikulusid ja see motiverib "
+"meid CoMapsi parandama ning täiustama."
 
 #. type: Yaml Front Matter Hash Value: extra menu_title
 #: content/donate/index.md
@@ -399,114 +419,134 @@ msgstr "Toeta rahaliselt"
 #: content/donate/index.md
 #, no-wrap
 msgid "Donate to support the development of CoMaps"
-msgstr ""
+msgstr "Toeta CoMapsi arendust rahaliselt"
 
 #. type: Plain text
 #: content/donate/index.md
 msgid "CoMaps app is _free for everyone_ thanks to your **[donations][stripe]**:"
-msgstr ""
+msgstr "Tänu sinu **[toetustele][stripe]** on CoMaps _tasuta kõigi jaoks_:"
 
 #. type: Bullet: '- '
 #: content/donate/index.md
 msgid "No trackers"
-msgstr ""
+msgstr "Pole andmekogumist"
 
 #. type: Bullet: '- '
 #: content/donate/index.md
 msgid "No registration"
-msgstr ""
+msgstr "Pole tüütut registreerimist"
 
 #. type: Bullet: '- '
 #: content/donate/index.md
 msgid "Open source"
-msgstr ""
+msgstr "Avatud lähtekood"
 
 #. type: Plain text
 #: content/donate/index.md
 msgid "Click on your preferred payment method icon below:"
-msgstr ""
+msgstr "Mugavaks annetamiseks vali alljärgnevast endale sobilik makseviis:"
 
 #. type: Title ##
 #: content/donate/index.md
 #, no-wrap
 msgid "Why donate to CoMaps?"
-msgstr ""
+msgstr "Miks peaksid CoMapsi rahaliselt toetama?"
 
 #. type: Bullet: '1. '
 #: content/donate/index.md
 msgid "We rely on your donations to carry out our mission to keep CoMaps open and free.  And free from ads."
 msgstr ""
+"Meie eesmärgiks on hoida CoMaps ilma reklaamideta, vabana ja tasuta saadaval "
+"ning selles osas me sõltume sinu toetustest."
 
 #. type: Bullet: '2. '
 #: content/donate/index.md
 msgid "We are a few enthusiasts contributing in our free time, and spending our families' money on the project.  We love what we do, and we love our users ❤️."
 msgstr ""
+"Me oleme väikene arendajate tiim, kes vabast ajast ja tihti perede arvelt "
+"veab seda projekti edasi. Meile meeldib see, mida me teeme ning loomulikult "
+"armastame oma kasutajaid ❤️."
 
 #. type: Bullet: '3. '
 #: content/donate/index.md
 msgid "With your support, we want to become a better, privacy-focused version of Google Maps."
 msgstr ""
+"Sinu toel soovime saada paremaks ja privaatsuskesksemaks rakenduseks, kui "
+"Google Maps seda on."
 
 #. type: Title ##
 #: content/donate/index.md
 #, no-wrap
 msgid "What will the money be used for?"
-msgstr ""
+msgstr "Mille jaoks me seda raha kasutame?"
 
 #. type: Bullet: '1. '
 #: content/donate/index.md
 msgid "We pay for fast servers, so anyone in the World can download free map data updates without delays.  It's hundreds of terabytes monthly, and the amount is growing."
 msgstr ""
+"Me maksame oma serverite eest, mis jagavad tasuta, kiireid ja sagedasi "
+"kaardiuuendusi kõigile üle maailma. Andmemaht on igas kuus sadu terabaite "
+"ning pidevas tõusujoones."
 
 #. type: Bullet: '2. '
 #: content/donate/index.md
 msgid "User support, bugfixing, and improving the stability of the app are at the top of our priorities.  There are [1800+ issues on GitHub][github issues], and this number is growing every day.  AppStore, Google Play, and support emails are overflooded with comments and bugs. We want to deliver a high-quality product."
 msgstr ""
+"Kasutajatugi, leitud vigade parandamine ning kvaliteetsete rakenduse "
+"uuenduste avaldamine on meie suurimad prioriteedid. "
+"[Githubis on 1800+ veateadet ja arendusideed][github issues] ja see arv "
+"kasvab iga päevaga. AppStore, Google Play ja kasutajatoe e-posti aadressid "
+"on kommentaaridega ja veakirjeldustega üle uputatud. Kõige selle keskel "
+"soovime, et meie toode oleks hea kvaliteediga."
 
 #. type: Bullet: '3. '
 #: content/donate/index.md
 msgid "With enough money, new features can be developed faster, for example:"
 msgstr ""
+"Piisava rahastuse olemasolul suudame uusi funktionaalsusi kiiremini "
+"arendada, näiteks:"
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
 msgid "Weekly and automated map data updates"
-msgstr ""
+msgstr "Iganädalased automatiseeritud kaardiuuendused"
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
 msgid "Bookmarks backup and sync"
-msgstr ""
+msgstr "Järjehoidjate varundus ja sünkroniseerimine"
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
 msgid "Android Auto"
-msgstr ""
+msgstr "Android Auto liidestus"
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
 msgid "GPS track recorder with GPX support"
-msgstr ""
+msgstr "GPS-radade salvestamine koos GPX-vormingu toega"
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
 msgid "Better map styles for different activities"
-msgstr ""
+msgstr "Paremad kaardistiilid eri tegevuste jaoks"
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
 msgid "Hill shading and 3D terrain"
-msgstr ""
+msgstr "Nõlvavarjutus ja kolmemõõtmelised maastikud"
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
 msgid "Improve the OpenStreetMap editor"
-msgstr ""
+msgstr "Parem OpenStreetMapi täiendaja"
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
 msgid "Better offline address search, routing, and navigation"
 msgstr ""
+"Parem aadressiotsing, teekonna koostamine ning tee juhatamine ilma "
+"võrguühedust kasutamata"
 
 #. type: Bullet: '   - '
 #: content/donate/index.md
@@ -516,18 +556,21 @@ msgstr "Ühistransport"
 #. type: Bullet: '   - '
 #: content/donate/index.md
 msgid "… and [many other][github issues] features you want and love"
-msgstr ""
+msgstr "… ja [palju muid][github issues] funktsionaalsusi, mis sulle meeldivad"
 
 #. type: Title ##
 #: content/donate/index.md
 #, no-wrap
 msgid "How to donate?"
-msgstr ""
+msgstr "Kuidas saad annetada?"
 
 #. type: Plain text
 #: content/donate/index.md
 msgid "Recurring donations are the best way to ensure a relatively stable income for the project and motivate us for long-term tasks and goals. But you can also donate one time."
 msgstr ""
+"Korduvad annetused on parim viis projekti jaoks püsiva rahavoo tagamiseks "
+"ning meie motiveerimiseks pikaajaliste eesmärkide täitmise nimel. Ka "
+"ühekordsed annetused on suurepärased."
 
 #. type: Title ###
 #: content/donate/index.md
@@ -538,7 +581,7 @@ msgstr "Pangaülekanne"
 #. type: Plain text
 #: content/donate/index.md
 msgid "{{ bank_transfer() }}"
-msgstr ""
+msgstr "{{ bank_transfer() }}"
 
 #. type: Title ###
 #: content/donate/index.md
@@ -550,22 +593,26 @@ msgstr "Krüptoraha"
 #: content/donate/index.md
 msgid "Please consider donating annually to reduce total fees."
 msgstr ""
+"Teenustasude vähendamiseks tee võimaluse korral krüptorahas annetusi korda "
+"aastas."
 
 #. type: Plain text
 #: content/donate/index.md
 msgid "{{ crypto_table() }}"
-msgstr ""
+msgstr "{{ crypto_table() }}"
 
 #. type: Title ##
 #: content/donate/index.md
 #, no-wrap
 msgid "Can you help us in any other way?"
-msgstr ""
+msgstr "Kas saan ka mõnel muul viisil aidata?"
 
 #. type: Plain text
 #: content/donate/index.md
 msgid "Yes! There are many ways to support CoMaps. Please see [Support Us](@/support-us/index.md) page for more details."
 msgstr ""
+"Jah! On palju viise CoMapsi toetamiseks. Üksikasju leiad lehelt [Toeta meid]"
+"(@/support-us/index.md)."
 
 #. type: Plain text
 #: content/donate/index.md
@@ -574,12 +621,17 @@ msgid ""
 "[stripe]: https://donate.organicmaps.app/ \"Donate via Stripe\"\n"
 "[github issues]: https://github.com/organicmaps/organicmaps/issues \"GitHub Issues\"\n"
 msgstr ""
+"[stripe]: https://donate.organicmaps.app/ \"Donate via Stripe\"\n"
+"[veahaldus githubis]: https://github.com/organicmaps/organicmaps/issues "
+"\"GitHub Issues\"\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/news/_index.md
 #, no-wrap
 msgid "Stay in touch with the latest CoMaps releases, news and updates from our team"
 msgstr ""
+"Jälgi, mis muutused on lisandunud CoMapsi viimase versiooniga, mida on meil "
+"uudist ning millest põnevast teavitab arendustiim"
 
 #. type: Yaml Front Matter Hash Value: extra menu_title
 #: content/news/_index.md
@@ -591,13 +643,13 @@ msgstr "Uudised"
 #: content/news/_index.md
 #, no-wrap
 msgid "CoMaps: Latest news and updates from our team"
-msgstr ""
+msgstr "CoMaps: Viimased uudised ja teated meie arendustiimilt"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/privacy/index.md
 #, no-wrap
 msgid "No tracking, no ads, no data collection, no statistics collection, no spyware"
-msgstr ""
+msgstr "Pole jälgimist, reklaame, andmekogumist, statistikat ega nuhkvara"
 
 #. type: Yaml Front Matter Hash Value: extra menu_title
 #: content/privacy/index.md
@@ -609,39 +661,44 @@ msgstr "Privaatsus"
 #: content/privacy/index.md
 #, no-wrap
 msgid "CoMaps: Privacy Policy"
-msgstr ""
+msgstr "CoMaps: Privaatsusreeglid"
 
 #. type: Plain text
 #: content/privacy/index.md
 msgid "CoMaps respects your privacy and DOES NOT TRACK YOU."
-msgstr ""
+msgstr "CoMaps austab sinu privaatsust ega KASUTA JÄLITAMIST."
 
 #. type: Plain text
 #: content/privacy/index.md
 msgid "Unlike most other applications, there is no tracking, no ads, no spyware, no data and statistics collection in CoMaps."
 msgstr ""
+"Erinevalt enamustest rakendustest, pole CoMapsis ei jälitamist, reklaame, "
+"nuhkvara ega andmete ja statistika kogumist."
 
 #. type: Plain text
 #: content/privacy/index.md
 msgid "Stay away from Big Tech's prying eyes!"
 msgstr ""
+"Püsi eemal suurfirmadele tavapärasest liigsest uudishimust ja nuuskimisest!"
 
 #. type: Plain text
 #: content/privacy/index.md content/terms/index.md
 msgid "If you have any questions or suggestions, please contact us at [legal@organicmaps.app](mailto:legal@organicmaps.app)."
 msgstr ""
+"Kui sul on küsimusi või ettepanekuid, siis palun kirjuta meile e-posti "
+"aadressil [legal@comaps.app](mailto:legal@comaps.app)."
 
 #. type: Plain text
 #: content/privacy/index.md
 #, no-wrap
 msgid "<sub>This policy is effective as of 2021-04-24.</sub>\n"
-msgstr ""
+msgstr "<sub>Need privaatsusreeglid kehtivad alates 2021-04-24.</sub>\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/support-us/index.md
 #, no-wrap
 msgid "Different ways to support the development of our free application"
-msgstr ""
+msgstr "Mitmed viisid meie tasuta rakenduse arenduse toetamiseks"
 
 #. type: Yaml Front Matter Hash Value: extra menu_title
 #: content/support-us/index.md
@@ -653,88 +710,111 @@ msgstr "Toeta meid"
 #: content/support-us/index.md
 #, no-wrap
 msgid "Support the development of CoMaps"
-msgstr ""
+msgstr "Toeta CoMapsi arendust"
 
 #. type: Plain text
 #: content/support-us/index.md
 msgid "CoMaps is a free, open-source app. It is free from ads, it does not collect your personal information, and it is developed by a few enthusiasts with the help of the community."
 msgstr ""
+"CoMaps on tasuta ja avatud lähtekoodil põhinev rakendus, milles ei leidu "
+"reklaame, mis ei kogu sinu isiklikke andmeid ning mida arendab väike "
+"entusiastide tiim kogukonna toel."
 
 #. type: Plain text
 #: content/support-us/index.md
 msgid "There are different ways to support the development:"
-msgstr ""
+msgstr "Arenduses osalemiseks on palju erinevaid võimalust:"
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
 msgid "[Donate](@/donate/index.md)! Every dollar or euro counts and helps us to pay for servers and scale."
 msgstr ""
+"[Toeta rahaliselt](@/donate/index.md)! Iga dollar või euro loeb ning aitab "
+"meil tasuda serverite eest ning kasvada."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
 msgid "Report bugs and share ideas on our [GitHub][github] or via [email][email]."
 msgstr ""
+"Teata vigadest või probleemidest meie [veahalduse liideses][issues] või "
+"[saada meile e-kiri][email]."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
 msgid "Help us to [fix bugs][contributing] and do code reviews if you are a developer. Every fixed small issue makes someone happier."
 msgstr ""
+"Kui oled arendaja, siis aita meid [vigade parandamisel][contributing] või "
+"vaata üle olemasolevat lähtekoodi. Iga pisikenegi parandatud viga teeb "
+"kellegi õnnelikumaks."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
 msgid "[Translate][translations] missing strings in the app's interface."
-msgstr ""
+msgstr "[Tõlgi][translations] rakenduse kasutajaliideses leiduvaid tekste."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
 msgid "Translate [App Store][translations_appstore] and [Android][translations_googleplay] descriptions into your language."
 msgstr ""
+"Tõlgi [App Store'i][translations_appstore] ja [Androidi]"
+"[translations_googleplay] kirjeldused oma keelde."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
 msgid "[Translate][translations_website] our web site into your language."
-msgstr ""
+msgstr "[Tõlgi][translations_website] meie veebisait oma keelde."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
 msgid "Join the [OpenStreetMap][openstreetmap] community and contribute to the maps data."
 msgstr ""
+"Liitu [OpenStreetMapi][openstreetmap] kogukonnaga ja täienda kaardiandmeid."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
 msgid "Fix red cities found by our [public transport validator][public_transport_validator], for subways and light rails to work in the app."
 msgstr ""
+"Et metroo- ja kergraudteeliinid oleks korrektselt kuvatavad, siis paranda „"
+"punaseid linnu“ [ühistranspordi andmete kontrollliideses]"
+"[public_transport_validator]."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
 msgid "Support other users on [GitHub][issues], [Telegram][telegram_chat], [Matrix][matrix], [Twitter][twitter], [Facebook][facebook], [Instagram][instagram]."
 msgstr ""
+"Toeta teisi kasutajaid [GitHubis][issues], [Telegramis][telegram_chat], "
+"[Matrixis][matrix], [Twitteris][twitter], [Facebookis][facebook] ja "
+"[Instagramis][instagram]."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
 msgid "Tell everyone about CoMaps. A bigger community is a stronger community."
-msgstr ""
+msgstr "Räägi CoMapsist kõigile. Suurem kogukond on tugeva kogukond."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
 msgid "Rate us in [Google Play][googleplay_review], [Apple Store][appstore_review], [Huawei Appgallery][appgallery_review]."
 msgstr ""
+"Koosta arvustus rakendustepoodides: [Google Play][googleplay_review], "
+"[Apple Store][appstore_review], [Huawei Appgallery][appgallery_review]."
 
 #. type: Bullet: '- '
 #: content/support-us/index.md
 msgid "Any help is welcome!"
-msgstr ""
+msgstr "Igasugune abi on teretulnud!"
 
 #. type: Plain text
 #: content/support-us/index.md
 msgid "Our small team is very grateful for your feedback and support. CoMaps would not be possible without our users ❤️."
 msgstr ""
+"Meie väikene tiim on väga tänulik sinu tagasiside ja toe eest. Ilma "
+"kasutajateta poleks CoMapsi olemas ❤️."
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/terms/index.md
 #, no-wrap
 msgid "Terms of use for CoMaps application"
-msgstr ""
+msgstr "CoMapsi kasutustingimused"
 
 #. type: Yaml Front Matter Hash Value: extra menu_title
 #: content/terms/index.md
@@ -746,32 +826,44 @@ msgstr "Tingimused"
 #: content/terms/index.md
 #, no-wrap
 msgid "CoMaps: terms"
-msgstr ""
+msgstr "CoMaps: kasutustingimused"
 
 #. type: Plain text
 #: content/terms/index.md
 msgid "This app is licensed under the Apache License, Version 2.0 (the \"License\"); you may not use this application except in compliance with the License."
 msgstr ""
+"Rakendus on avaldatud ja levitatud Apache'i Litsentsi, versioon 2.0 ("
+"edaspidi „Litsents“) alusel. Sa võid seda rakendust kasutada vaid vastavalt "
+"Litsentsi tingimustele."
 
 #. type: Plain text
 #: content/terms/index.md
 msgid "You may obtain a copy of the License at [http://www.apache.org/licenses/LICENSE-2.0][license]"
 msgstr ""
+"Litsentsi kehtiva koopia leiad siit: "
+"[http://www.apache.org/licenses/LICENSE-2.0][license]"
 
 #. type: Plain text
 #: content/terms/index.md
 msgid "Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License."
 msgstr ""
+"Kui just mõni seadus seda ei nõua või pole kirjalikult kokku lepitud, siis "
+"Litsentsi alusel levitatud tarkvara toimib „ON, NAGU ON“ PÕHIMÕTTEL, ILMA "
+"IGASUGUSTE GARANTIIDETA JA TINGIMUSTETA, seda nii otseselt, kui kaudselt. "
+"Litsentsi tekstist leiad täpse kirjelduste õiguste ja piirangute kohta selle "
+"Litsentsi alusel."
 
 #. type: Plain text
 #: content/terms/index.md
 msgid "Most libraries in the following directories on [GitHub][github] made by other people and organizations and licensed in different ways:"
 msgstr ""
+"Enamus teeke järgnevates [GitHubi][github] kaustades on tehtud teiste "
+"arendajate poolt ning on litsentseeritud muude põhimõtete alusel:"
 
 #. type: Bullet: '- '
 #: content/terms/index.md
 msgid "3party"
-msgstr ""
+msgstr "3party"
 
 #. type: Bullet: '- '
 #: content/terms/index.md
@@ -782,11 +874,15 @@ msgstr "Tööriistad"
 #: content/terms/index.md
 msgid "Please refer to their LICENSE, COPYING or NOTICE files for terms of use."
 msgstr ""
+"Nende kasutustingimuste kohta leiad täpsemat teavet vastavates alamkaustades "
+"asuvatest failidest nimega LICENSE, COPYING või NOTICE."
 
 #. type: Plain text
 #: content/terms/index.md
 msgid "See also [data/copyright.html][copyright] file for a full list of copyright notices for CoMaps application."
 msgstr ""
+"CoMapsi rakenduse autoriõiguste teadete täisloendi leiad "
+"[data/copyright.html][copyright] failist."
 
 #. type: Plain text
 #: content/terms/index.md
@@ -796,6 +892,10 @@ msgid ""
 "[license]: http://www.apache.org/licenses/LICENSE-2.0\n"
 "[copyright]: https://github.com/organicmaps/organicmaps/blob/master/data/copyright.html\n"
 msgstr ""
+"[github]: https://github.com/organicmaps/organicmaps\n"
+"[litsents]: http://www.apache.org/licenses/LICENSE-2.0\n"
+"[autoriõigused]: https://github.com/organicmaps/organicmaps/blob/master/data/"
+"copyright.html\n"
 
 #. type: Hash Value: address
 #: translations.yaml
@@ -819,25 +919,25 @@ msgstr "Võta meiega ühendust"
 #: translations.yaml
 #, no-wrap
 msgid "Install CoMaps from Huawei AppGallery"
-msgstr "Paigalda CoMaps Huawei AppGallery'st"
+msgstr "Paigalda CoMaps Huawei AppGalleryst"
 
 #. type: Hash Value: install-appstore
 #: translations.yaml
 #, no-wrap
 msgid "Install CoMaps from the AppStore"
-msgstr "Paigalda CoMaps AppStore'st"
+msgstr "Paigalda CoMaps AppStore'ist"
 
 #. type: Hash Value: install-fdroid
 #: translations.yaml
 #, no-wrap
 msgid "Install CoMaps from F-Droid"
-msgstr "Paigalda CoMaps F-Droid'ist"
+msgstr "Paigalda CoMaps F-Droidist"
 
 #. type: Hash Value: install-googleplay
 #: translations.yaml
 #, no-wrap
 msgid "Install CoMaps from Google Play"
-msgstr "Paigalda CoMaps Google Play'st"
+msgstr "Paigalda CoMaps Google Playst"
 
 #. type: Hash Value: language
 #: translations.yaml

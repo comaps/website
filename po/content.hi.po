@@ -225,18 +225,6 @@ msgstr "{{ exodus_screenshot() }}"
 
 #. type: Plain text
 #: content/_index.md
-#, markdown-text
-msgid "The iOS application is verified by [TrackerControl for iOS][trackercontrol]:"
-msgstr ""
-
-#. type: Plain text
-#: content/_index.md
-#, markdown-text
-msgid "{{ trackercontrol_screenshot() }}"
-msgstr ""
-
-#. type: Plain text
-#: content/_index.md
 msgid "CoMaps doesn't request excessive permissions to spy on you:"
 msgstr "ऑर्गेनिक नक़्शे आपकी जासूसी करने के लिए अत्यधिक अनुमतियों का अनुरोध नहीं करता है:"
 
@@ -286,11 +274,6 @@ msgstr "मुफ्त ऐप के लिए क्यों भुगता�
 #: content/_index.md
 msgid "The app is free for everyone. Please [donate](@/donate/index.md) to support us!"
 msgstr "ऐप सभी के लिए मुफ्त है। हमारा समर्थन करने के लिए कृपया [दान](@/donate/index.hi.md) करें!"
-
-#. type: Plain text
-#: content/_index.md
-msgid "To donate conveniently, click on your preferred payment method icon below:"
-msgstr ""
 
 #. type: Plain text
 #: content/_index.md content/donate/index.md
@@ -422,11 +405,6 @@ msgstr "कोई रजिस्ट्रेशन नहीं"
 #: content/donate/index.md
 msgid "Open source"
 msgstr "ओपन सोर्स"
-
-#. type: Plain text
-#: content/donate/index.md
-msgid "Click on your preferred payment method icon below:"
-msgstr ""
 
 #. type: Title ##
 #: content/donate/index.md
