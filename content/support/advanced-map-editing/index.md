@@ -8,17 +8,14 @@ extra:
   order: 100
 ---
 
-CoMaps includes a simple and easy-to-use editor that you can use to [edit the map](@/support/editing-with-CoMaps/index.md). The editor is, however, limited and only allows to add simple point features, that means no building outlines, roads, lakes, towns, etc. If you want to change something that can not be edited with the build-in editor, this is the right FAQ page to read.
+CoMaps includes a simple and easy-to-use editor that you can use to [edit the map](@/support/editing-with-CoMaps/index.md). The editor is, however, limited and only allows to add simple point features, that means no building outlines, roads, lakes, towns, etc. If you want to change something that can not be edited with the built-in editor, this is the right FAQ page to read.
 
-As all map data used in CoMaps comes from [OpenStreetMap.org (OSM)](https://www.openstreetmap.org), you can directly update the map there. Your modifications will then be included into CoMaps with the next map update.
+As all map data used in CoMaps comes from [OpenStreetMap (OSM)](https://www.openstreetmap.org), you can directly update the map there. Your modifications will then be included into CoMaps with the next map update.
 
 ## OpenStreetMap Editors
 
 For editing OSM, there are several options. If you have a laptop or desktop computer at hand, it's better to use the [ID Editor](https://www.openstreetmap.org/edit) that runs in your browser. The ID Editor is easy for beginners, and a bigger screen, mouse, and keyboard make map editing easier.
 
-For advanced map editing from a mobile device, use [Go Map](https://apps.apple.com/us/app/go-map/id592990211) for iOS or [Vespucci](https://play.google.com/store/apps/details?id=de.blau.android) for Android. Go Map is easy for beginners, while Vespucci targets more advanced users. LearnOSM provides tutorials for [Go Map](https://learnosm.org/en/mobile-mapping/gomap/) and [Vespucci](https://learnosm.org/en/mobile-mapping/vespucci/).
-
-For simpler edits with more fun, you may also try [Every Door app](https://every-door.app/) for iOS and Android and [StreetComplete app](https://streetcomplete.app/) for Android.
 
 #### ID Editor
 
@@ -29,6 +26,10 @@ For editing OpenStreetMap with ID follow these steps:
 3. *Start the Walkthrough* and follow the short tutorial that explains the ID Editor
 4. Edit the map
 5. Upload your changes
+
+For simpler edits on mobile, you can try [StreetComplete](https://streetcomplete.app/) for Android or [Every Door](https://every-door.app/) for iOS and Android.
+
+For advanced map editing from a mobile device, use [Go Map](https://apps.apple.com/us/app/go-map/id592990211) for iOS or [Vespucci](https://play.google.com/store/apps/details?id=de.blau.android) for Android. Go Map is easy for beginners, while Vespucci targets more advanced users. LearnOSM provides tutorials for [Go Map](https://learnosm.org/en/mobile-mapping/gomap/) and [Vespucci](https://learnosm.org/en/mobile-mapping/vespucci/).
 
 That's it, you are now part of the OSM community.
 
