@@ -81,6 +81,11 @@ icon = "telegram.svg"
 link = "https://t.me/CoMapsApp"
 
 [[extra.social]]
+title = "Lemmy"
+icon = "lemmy.svg"
+link = "https://sopuli.xyz/c/CoMaps"
+
+[[extra.social]]
 title = "Instagram"
 icon = "insta.svg"
 link = "https://www.instagram.com/comapscommunity/"
