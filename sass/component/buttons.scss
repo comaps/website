@@ -84,6 +84,19 @@
       color: var(--common-white);
     }
   }
+  
+  &--opencollective {
+    background-color: var(--common-white);
+    color: black;
+    border: 1px solid #9BBAE7;
+    transition: 300ms ease;
+    &:hover {
+      border: 1px solid transparent;
+      color: var(--common-white);
+      background-color: #9BBAE7;
+      transform: scale(1.1);
+    }
+  }
 }
 
 
