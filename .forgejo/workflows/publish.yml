@@ -3,11 +3,11 @@ name: Publish to Codeberg Pages
 env:
   ZOLA_VERSION: 0.20.0
 
-on:
-  workflow_dispatch:
-  push:
-    branches:
-      - main
+#on:
+#  workflow_dispatch:
+#  push:
+#    branches:
+#      - main
 jobs:
   publish:
     runs-on: codeberg-tiny
