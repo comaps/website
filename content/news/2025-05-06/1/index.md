@@ -1,7 +1,7 @@
 ---
 title: "Altus Intel: CoMaps Launches ORGANIC MAPS App Fork Development"
 description: 
-date: 2025-05-06T08:00:00+00:00
+date: 2025-05-06T05:45:00+00:00
 slug: "CoMaps-Launches-ORGANIC-MAPS-App-Fork-Development"
 taxonomies:
     category: ["Media Coverage"]
