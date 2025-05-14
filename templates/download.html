@@ -4,6 +4,13 @@
 {%- block content %}
 {{ macros::showcase_inner(title=page.extra.hero_title) }}
 
+<section class="pure" style="padding-top: 30rem">
+    <div class="container">
+        {{ page.content | safe }}
+    </div>
+</section>
+
+<!--
 <section class="section-device">
     <div class="container section-device__container">
         <div class="section-device__item">
@@ -108,4 +115,5 @@
     </div>
 </section>
 {% include 'section/donate.html' %}
+-->
 {%- endblock content %}

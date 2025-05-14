@@ -28,3 +28,5 @@ extra:
             - No data collection
             - Community-Driven
 ---
+
+We're working on getting the first app releases out soon, please stay tuned!
