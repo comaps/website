@@ -3,6 +3,8 @@ title: "A community-led fork of Organic Maps"
 description: 
 date: 2025-05-12
 slug: 
+taxonomies:
+    category: ["Announcement"]
 ---
 
 *This is a copy of the update to the **Open Letter to Organic Maps Shareholders** from [openletter.earth](https://openletter.earth/open-letter-to-organic-maps-shareholders-a0bf770c):*

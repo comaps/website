@@ -3,6 +3,8 @@ title: "Update: Shareholders' reaction"
 description: 
 date: 2025-04-25
 slug: 
+taxonomies:
+    category: ["Announcement"]
 ---
 *This is a copy of the update to the **Open Letter to Organic Maps Shareholders** from [openletter.earth](https://openletter.earth/open-letter-to-organic-maps-shareholders-a0bf770c):*
 
@@ -14,11 +16,11 @@ We welcome and appreciate the conflict mediation effort by the NLnet foundation 
 
 ---
 
-*Roman Tsisyk @rtsisyk has published his answer in team Zulip chat*, please read a copy https://git.omaps.dev/organicmaps/organicmaps/issues/10555#issuecomment-307106. He proposes to bring Organic Maps under an established non-profit umbrella organization like the Software Freedom Conservancy or Software in the Public Interest. We welcome this move as we made the same suggestion in the Letter, and we've been considering non-profit umbrellas as a "home" for a potential community fork. So we will gladly join a working group Roman has suggested to form as a first step.
+*Roman Tsisyk @rtsisyk has published his answer in team Zulip chat*, please read a copy in [git.omaps.dev/organicmaps/organicmaps/issues/10555...](https://git.omaps.dev/organicmaps/organicmaps/issues/10555#issuecomment-307106). He proposes to bring Organic Maps under an established non-profit umbrella organization like the Software Freedom Conservancy or Software in the Public Interest. We welcome this move as we made the same suggestion in the Letter, and we've been considering non-profit umbrellas as a "home" for a potential community fork. So we will gladly join a working group Roman has suggested to form as a first step.
 
 ---
 
-*Viktor Govako @vng has posted his answer* in the Organic Maps Telegram chat (https://t.me/organicmaps/52328):
+*Viktor Govako @vng has posted his answer* in the Organic Maps Telegram chat ([t.me/organicmaps/52328](https://t.me/organicmaps/52328)):
 
 
 > - Roman took away my access to all key resources of Organic Maps without my consent and refused to return it back. Github blocking in March was also a result of his actions.
@@ -27,10 +29,10 @@ We welcome and appreciate the conflict mediation effort by the NLnet foundation 
 > - The offer to buy out the shares was sent to Roman's lawyer three weeks ago. I have not received any clear response or counter-offer yet.
 > - I had a conversation with NLNet where they offered to help in this situation. I will not refuse the idea of non-profit or some hybrid if it helps to conclude a “divorce” deal with Roman.
 
-In addition Viktor has made some statements in the Russian-speaking OM Telegram chat, some of which we find significant (from https://t.me/OrganicMapsRu/78976 and onwards):
+In addition Viktor has made some statements in the Russian-speaking OM Telegram chat, some of which we find significant (from [t.me/OrganicMapsRu/78976](https://t.me/OrganicMapsRu/78976) and onwards):
 *"Organic Maps now is a commercial company with an open source project" and its been like that since the company's inception and from Viktor's point of view the single mention of the Organic Maps OÜ name in the organicmaps.app website footer is enough information to convey the commercial nature of the project to the contributors.*
 
-Also Viktor has disclosed some more details about donations spending over past years (https://t.me/OrganicMapsRu/78745) and now there is an agreement both from Viktor and Roman to disclose full historic financial details to a few select community contributors. We welcome this first step towards financial transparency!
+Also Viktor has disclosed some more details about donations spending over past years ([t.me/OrganicMapsRu/78745](https://t.me/OrganicMapsRu/78745)) and now there is an agreement both from Viktor and Roman to disclose full historic financial details to a few select community contributors. We welcome this first step towards financial transparency!
 
 Unfortunately, Viktor's answer concerns itself with the state of his conflict with Roman but it doesn't really acknowledge or address concerns and questions raised in the Letter.
 

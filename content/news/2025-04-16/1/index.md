@@ -3,6 +3,8 @@ title: "Open Letter to Organic Maps Shareholders"
 description:
 date: 2025-04-16
 slug:
+taxonomies:
+    category: ["Announcement"]
 ---
 
 *This is a copy of the **Open Letter to Organic Maps Shareholders** from [openletter.earth](https://openletter.earth/open-letter-to-organic-maps-shareholders-a0bf770c). As of May 10th 2025 there were 199 verified signatures.*
