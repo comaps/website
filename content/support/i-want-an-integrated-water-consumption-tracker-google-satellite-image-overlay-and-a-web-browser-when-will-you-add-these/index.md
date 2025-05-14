@@ -8,22 +8,4 @@ extra:
   order: 60
 ---
 
-You can install OSMand for all those features.
-
-**How do I get started with testing the app?**  
-x
-
-**How do I get started on developing new features?**  
-GitHub  
-Zulip
-
-**How can I help people use the app?**  
-Social media
-
-**What is the recommended way to add new places to OpenStreetMap?**  
-X  
-**How do I get started to creating new design for UI and UX?**  
-Penpot, Figma
-
-**How can I help with translations?**  
-Weblate, Crowdin
+You can install [OSMand](https://en.wikipedia.org/wiki/OsmAnd) for all those features.

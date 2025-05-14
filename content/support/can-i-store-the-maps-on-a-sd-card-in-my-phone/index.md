@@ -1,11 +1,11 @@
 ---
-title: "Can I store the maps on a SD card in my phone?"
+title: "Can I store the maps on an SD card?"
 description: "Frequently asked questions for CoMaps application"
 taxonomies:
-  support: ["Features"]
+  support: ["Map Data"]
 extra:
   tags: ["Android", "iPhone & iPad"]
-  order: 30
+  order: 40
 ---
 
 Yes, in the "Settings" menu the “Save maps to” option allows you to choose the location for map storage.  

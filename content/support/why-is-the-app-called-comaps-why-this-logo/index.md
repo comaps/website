@@ -8,4 +8,4 @@ extra:
   order: 60
 ---
 
-CoMaps is short for Community Maps.
+CoMaps is short for Community, Collaborative, Common, Collective, etc. Maps.
