@@ -8,4 +8,4 @@ extra:
   order: 60
 ---
 
-Organic means healthy, made with love and care. Like food that you grow for yourself: without pesticides, herbicides, and other bad stuff. Only pure maps experience, nothing else. No ads, no tracking, no crypto wallets,
+CoMaps is short for Community Maps.
