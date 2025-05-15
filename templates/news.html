@@ -49,11 +49,13 @@
                     {% endif %}
                 {% endfor %}
                 {% if page.assets %}
+                    <a href="{{ page.path | safe }}">
                     {% for photo in page.assets | sort %}
                         <img class="post-min__img post-min__img--one" src="{{ page.path | safe }}{{ photo | split(pat='/') | last }}"/>
                     {% endfor %}
                 {% else %}
                     <img class="post-min__img post-min__img--one" src="/images/post/img2.png"/>
+                    </a>
                 {% endif %}
 
                 {% if page.title %}
