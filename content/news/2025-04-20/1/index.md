@@ -1,6 +1,6 @@
 ---
 title: "Wikibooks: MAPS.ME to Organic Maps/OM Crisis"
-description: "By early 2025, Organic Maps had grown from a small open-source revival into a widely respected navigation app. It had an..."
+description:
 date: 2025-04-20T22:33:00-08:00
 slug: "CoMaps-Launches-ORGANIC-MAPS-App-Fork-Development"
 taxonomies:
