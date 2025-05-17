@@ -1,2 +1,4 @@
 User-agent: *
-Disallow: /
+Disallow:
+Allow: /
+Sitemap: {{ get_url(path="sitemap.xml") }}
