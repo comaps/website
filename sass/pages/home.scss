@@ -375,6 +375,10 @@
     @media (max-width: $media-md) {
         margin-top: 10rem;
     }
+
+    a {
+      color: var(--common-grey-v4);
+    }
   }
 
   &__card {
