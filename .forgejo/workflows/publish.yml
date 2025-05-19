@@ -3,11 +3,11 @@ name: Publish to Codeberg Pages
 env:
   ZOLA_VERSION: 0.20.0
 
-#on:
-#  workflow_dispatch:
-#  push:
-#    branches:
-#      - main
+on:
+ workflow_dispatch:
+ push:
+   branches:
+     - main
 jobs:
   publish:
     runs-on: codeberg-tiny
@@ -19,6 +19,7 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
+        fetch-depth: 0
 
       - name: Setup Zola
         run: |
@@ -34,19 +35,34 @@ jobs:
         run: | 
           ./zola build
 
+      # Probably not needed for SFTP
       - name: Copy over README.md
         run: |
           cp README.md static/README.md
 
+      # Probably not needed for SFTP
       - name: Stage all files
         run: |
           git add .
 
-      - name: Deploy to Codeberg Pages
-        uses: https://itsblue.dev/actions/codeberg-pages-deploy@v1
+      # Needs work on tokens/auth in order to function
+      # - name: Deploy to Codeberg Pages
+      #   uses: https://itsblue.dev/actions/codeberg-pages-deploy@v1
+      #   with:
+      #     folder: ./public
+      #     token: ${{ secrets.GITHUB_TOKEN }}
+      #     force: true
+      #     git_remote: https://codeberg.org/comaps/pages.git
+      #     git_branch: main
+
+      # Current primary web host (DreamHost) backed by Fastly CDN
+      - name: "Deploy to DreamHost SFTP"
+        uses: https://github.com/milanmk/actions-file-deployer@3cf188f493103b5f12f11221186f8fbd07f2be10
         with:
-          folder: ./public
-          token: ${{ secrets.GITHUB_TOKEN }}
-          force: true
-          git_remote: https://codeberg.org/comaps/pages.git
-          git_branch: main
+          remote-protocol: "sftp"
+          remote-host: "${{secrets.SFTP_HOST}}"
+          remote-user: "${{secrets.SFTP_USER}}"
+          remote-password: "${{secrets.SFTP_PASS}}"
+          local-path: "./public"
+          remote-path: "${{vars.SFTP_PATH}}"
+          sync: "delta" # full for initial, delta with fetch-depth: 0 during checkout for future
