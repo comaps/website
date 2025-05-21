@@ -1,5 +1,10 @@
 .switch-theme {
   background-color: var(--body-bg);
+  background-image: url('images/icons/sun.svg'), url('images/icons/moon.svg');
+  background-position-x: 3rem, 43rem;
+  background-position-y: center;
+  background-size: 20rem 20rem;
+  background-repeat: no-repeat;
   width: 70rem;
   height: 30rem;
   padding: 3rem;
@@ -15,8 +20,8 @@
      position: absolute;
      top: 3rem;
      right: 3rem;
-     width: 23rem;
-     height: 23rem;
+     width: 24rem;
+     height: 24rem;
      border-radius: 50rem;
      background-color: var(--common-green);
    }
