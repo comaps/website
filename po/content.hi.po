@@ -419,7 +419,7 @@ msgstr "हम जैविक मानचित्रों को खुल�
 
 #. type: Bullet: '2. '
 #: content/donate/index.md
-msgid "We are a few enthusiasts contributing in our free time, and spending our families' money on the project.  We love what we do, and we love our users ❤️."
+msgid "We are a few enthusiasts contributing in our free time.  We love what we do, and we love our users ❤️."
 msgstr "हम कुछ उत्साही हैं जो अपने खाली समय में योगदान करते हैं, और परियोजना पर अपने परिवारों का पैसा खर्च करते हैं। हम जो करते हैं उससे प्यार करते हैं, और हम अपने उपयोगकर्ताओं से प्यार करते हैं ❤️।"
 
 #. type: Bullet: '3. '

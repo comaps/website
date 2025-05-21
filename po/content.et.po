@@ -461,7 +461,7 @@ msgstr ""
 
 #. type: Bullet: '2. '
 #: content/donate/index.md
-msgid "We are a few enthusiasts contributing in our free time, and spending our families' money on the project.  We love what we do, and we love our users ❤️."
+msgid "We are a few enthusiasts contributing in our free time.  We love what we do, and we love our users ❤️."
 msgstr ""
 "Me oleme väikene arendajate tiim, kes vabast ajast ja tihti perede arvelt "
 "veab seda projekti edasi. Meile meeldib see, mida me teeme ning loomulikult "

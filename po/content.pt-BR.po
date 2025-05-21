@@ -432,7 +432,7 @@ msgstr "Contamos com suas doações para cumprir nossa missão de manter o CoMap
 
 #. type: Bullet: '2. '
 #: content/donate/index.md
-msgid "We are a few enthusiasts contributing in our free time, and spending our families' money on the project.  We love what we do, and we love our users ❤️."
+msgid "We are a few enthusiasts contributing in our free time.  We love what we do, and we love our users ❤️."
 msgstr "Somos alguns entusiastas contribuindo em nosso tempo livre e gastando o dinheiro de nossas famílias no projeto.  Adoramos o que fazemos e nossos usuários ❤️."
 
 #. type: Bullet: '3. '

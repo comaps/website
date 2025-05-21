@@ -419,7 +419,7 @@ msgstr "We zijn op jullie donaties aangewezen om onze missie te volbrengen om Co
 
 #. type: Bullet: '2. '
 #: content/donate/index.md
-msgid "We are a few enthusiasts contributing in our free time, and spending our families' money on the project.  We love what we do, and we love our users ❤️."
+msgid "We are a few enthusiasts contributing in our free time.  We love what we do, and we love our users ❤️."
 msgstr "We zijn een paar enthousiastelingen die in onze vrije tijd een bijdrage leveren, en het geld van onze familie aan het project besteden.  We houden van wat we doen, en we houden van onze gebruikers ❤️."
 
 #. type: Bullet: '3. '

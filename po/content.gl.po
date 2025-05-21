@@ -495,7 +495,7 @@ msgstr "Confiamos nas túas doazóns para levar a cabo a nosa misión de manter 
 #. type: Bullet: '2. '
 #: content/donate/index.md
 #, markdown-text
-msgid "We are a few enthusiasts contributing in our free time, and spending our families' money on the project.  We love what we do, and we love our users ❤️."
+msgid "We are a few enthusiasts contributing in our free time.  We love what we do, and we love our users ❤️."
 msgstr "Somos uns cantos entusiastas contribuíndo no noso tempo libre e gastando o diñeiro das nosas familias no proxecto. Amamos o que facemos e amamos aos nosos usuarios ❤️."
 
 #. type: Bullet: '3. '

@@ -414,7 +414,7 @@ msgstr "CoMaps हे मुक्त व निःशुल्क, तसेच
 
 #. type: Bullet: '2. '
 #: content/donate/index.md
-msgid "We are a few enthusiasts contributing in our free time, and spending our families' money on the project.  We love what we do, and we love our users ❤️."
+msgid "We are a few enthusiasts contributing in our free time.  We love what we do, and we love our users ❤️."
 msgstr "आमच्या रिकाम्या वेळात व आमच्या खिशातले पैसे खर्च करुन हा प्रकल्प चालवणारे आम्ही काही हौशी लोक आहोत. आम्हाला आमच्या कामावर, तसेच आमच्या वापरकर्त्यांवर प्रेम आहे ❤️."
 
 #. type: Bullet: '3. '

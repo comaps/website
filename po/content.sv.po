@@ -433,7 +433,7 @@ msgstr "Vi är beroende av dina donationer för att kunna utföra vårt uppdrag 
 
 #. type: Bullet: '2. '
 #: content/donate/index.md
-msgid "We are a few enthusiasts contributing in our free time, and spending our families' money on the project.  We love what we do, and we love our users ❤️."
+msgid "We are a few enthusiasts contributing in our free time.  We love what we do, and we love our users ❤️."
 msgstr "Vi är ett fåtal entusiaster som bidrar på vår fritid och lägger våra familjers pengar på projektet.  Vi älskar det vi gör och vi älskar våra användare ❤️."
 
 #. type: Bullet: '3. '

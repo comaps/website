@@ -432,7 +432,7 @@ msgstr "Wir sind auf deine Spenden angewiesen, damit wir CoMaps offen und kosten
 
 #. type: Bullet: '2. '
 #: content/donate/index.md
-msgid "We are a few enthusiasts contributing in our free time, and spending our families' money on the project.  We love what we do, and we love our users ❤️."
+msgid "We are a few enthusiasts contributing in our free time.  We love what we do, and we love our users ❤️."
 msgstr "Wir sind ein paar Enthusiasten, die in ihrer Freizeit einen Beitrag leisten und das Geld unserer Familien für das Projekt ausgeben.  Wir lieben, was wir tun, und wir lieben unsere Nutzer ❤️."
 
 #. type: Bullet: '3. '

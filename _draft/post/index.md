@@ -8,7 +8,7 @@ extra:
   menu_title_pre: Home
   hero_description: Donate and create better maps together!
   info_section_card_description_1: We rely on your donations to keep CoMaps open, free, and without ads
-  info_section_card_description_2: We are a few enthusiasts contributing in our free time, and spending our families' money on the project. We love what we do, and we love our users
+  info_section_card_description_2: We are a few enthusiasts contributing in our free time. We love what we do, and we love our users
   info_section_card_description_3: With your support, we are working toward a privacy-focused offering that is the preferred choice on the market
   funding_section_title: How will funding be used?
   funding_section_card_title_1: Developers

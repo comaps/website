@@ -439,7 +439,7 @@ msgstr "Depenem dels vostres donatius per a continuar amb la nostra missió de m
 
 #. type: Bullet: '2. '
 #: content/donate/index.md
-msgid "We are a few enthusiasts contributing in our free time, and spending our families' money on the project.  We love what we do, and we love our users ❤️."
+msgid "We are a few enthusiasts contributing in our free time.  We love what we do, and we love our users ❤️."
 msgstr "Som un grup d'entusiastes contribuint en el nostre temps lliure, i gastant els diners de les nostres famílies en el projecte. Ens encanta el que fem, i estimem als nostres usuaris ❤️."
 
 #. type: Bullet: '3. '

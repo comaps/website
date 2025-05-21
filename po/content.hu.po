@@ -438,7 +438,7 @@ msgstr "Az adományaira támaszkodunk, hogy teljesíteni tudjuk küldetésünket
 
 #. type: Bullet: '2. '
 #: content/donate/index.md
-msgid "We are a few enthusiasts contributing in our free time, and spending our families' money on the project.  We love what we do, and we love our users ❤️."
+msgid "We are a few enthusiasts contributing in our free time.  We love what we do, and we love our users ❤️."
 msgstr "Maroknyian vagyunk, akik a szabadidőnkben közreműködünk a projektben, és a családunk pénzét költjük rá. Szeretjük, amit csinálunk, és szeretjük a felhasználóinkat ❤️."
 
 #. type: Bullet: '3. '

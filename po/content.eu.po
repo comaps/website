@@ -419,7 +419,7 @@ msgstr "Zuen dohaintzak behar ditugu CoMaps-ek irekia eta librea izaten jarrai d
 
 #. type: Bullet: '2. '
 #: content/donate/index.md
-msgid "We are a few enthusiasts contributing in our free time, and spending our families' money on the project.  We love what we do, and we love our users ❤️."
+msgid "We are a few enthusiasts contributing in our free time.  We love what we do, and we love our users ❤️."
 msgstr "Zaletu batzuk gara gure aisian garatzen, eta gure familien dirua proiektuan xahutzen.   Egiten duguna maite dugu eta gure erabiltzaileak maite ditugu ❤️."
 
 #. type: Bullet: '3. '

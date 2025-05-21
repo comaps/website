@@ -432,7 +432,7 @@ msgstr "Polegamy na Twoich darowiznach, aby realizować naszą misję polegając
 
 #. type: Bullet: '2. '
 #: content/donate/index.md
-msgid "We are a few enthusiasts contributing in our free time, and spending our families' money on the project.  We love what we do, and we love our users ❤️."
+msgid "We are a few enthusiasts contributing in our free time.  We love what we do, and we love our users ❤️."
 msgstr "Jesteśmy nielicznymi entuzjastami, którzy w wolnym czasie przyczyniają się do rozwoju projektu i wydają na niego pieniądze naszych rodzin. Kochamy to, co robimy i kochamy naszych użytkowników ❤️."
 
 #. type: Bullet: '3. '

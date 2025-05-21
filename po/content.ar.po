@@ -434,7 +434,7 @@ msgstr "نحن نعتمد على تبرعاتك لتنفيذ مهمتنا لبق
 
 #. type: Bullet: '2. '
 #: content/donate/index.md
-msgid "We are a few enthusiasts contributing in our free time, and spending our families' money on the project.  We love what we do, and we love our users ❤️."
+msgid "We are a few enthusiasts contributing in our free time.  We love what we do, and we love our users ❤️."
 msgstr "نحن عدد قليل من المتحمسين نساهم في وقت فراغنا وننفق أموال عائلاتنا على المشروع.  نحن نحب ما نفعله، ونحب مستخدمينا ❤️."
 
 #. type: Bullet: '3. '

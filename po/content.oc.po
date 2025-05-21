@@ -420,7 +420,7 @@ msgstr "Dependèm dei dons per contunhar la mission de mantenir Mapas Organicas 
 
 #. type: Bullet: '2. '
 #: content/donate/index.md
-msgid "We are a few enthusiasts contributing in our free time, and spending our families' money on the project.  We love what we do, and we love our users ❤️."
+msgid "We are a few enthusiasts contributing in our free time.  We love what we do, and we love our users ❤️."
 msgstr "Siam una còla plena d'estrambòrd qu'òbra dins son temps liure, e pagant de nòstra pòcha lo projècte. Çò que fasèm nos agrada coma aimam nòstreis utilizators ❤️."
 
 #. type: Bullet: '3. '

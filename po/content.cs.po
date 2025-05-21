@@ -432,7 +432,7 @@ msgstr "Při plnění našeho poslání udržovat CoMaps otevřené a svobodné 
 
 #. type: Bullet: '2. '
 #: content/donate/index.md
-msgid "We are a few enthusiasts contributing in our free time, and spending our families' money on the project.  We love what we do, and we love our users ❤️."
+msgid "We are a few enthusiasts contributing in our free time.  We love what we do, and we love our users ❤️."
 msgstr "Jsme několik nadšenců, kteří na projekt přispívají ve svém volném čase a utrácejí peníze svých rodin.  Milujeme to, co děláme, a milujeme naše uživatele ❤️."
 
 #. type: Bullet: '3. '

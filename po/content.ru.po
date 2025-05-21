@@ -427,7 +427,7 @@ msgstr "Мы полагаемся исключительно на ваши по�
 
 #. type: Bullet: '2. '
 #: content/donate/index.md
-msgid "We are a few enthusiasts contributing in our free time, and spending our families' money on the project.  We love what we do, and we love our users ❤️."
+msgid "We are a few enthusiasts contributing in our free time.  We love what we do, and we love our users ❤️."
 msgstr "Мы — энтузиасты, которые в свободное время вносят свой вклад и тратят на проект деньги наших семей. Мы любим то, что делаем, и мы любим наших пользователей ❤️."
 
 #. type: Bullet: '3. '
