@@ -15,17 +15,6 @@
     padding-block: 60rem 40rem;
   }
 
-  &__btn {
-    display: none;
-
-    @media (max-width: $media-sm) {
-      display: flex;
-      font-size: 16rem;
-      height: 52rem;
-      margin: 40rem auto 0;
-    }
-  }
-
   &__container {
     display: flex;
     justify-content: center;
