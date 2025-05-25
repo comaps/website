@@ -12,4 +12,4 @@ Currently, maps are updated 1-2 times a month. This may increase to weekly in th
 
 Map updates are tied to app updates. Therefore, you need to update the app first before you can update the maps.
 
-We planned for te future to separate maps updates and app updates, to push maps updates more often.
+We planned for the future to separate maps updates and app updates, to push maps updates more often.
