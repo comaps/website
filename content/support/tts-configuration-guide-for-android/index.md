@@ -4,7 +4,7 @@ description: "Frequently asked questions for CoMaps application"
 taxonomies:
   support: ["Text-To-Speech (TTS)"]
 extra:
-  tags: ["Android", "iPhone & iPad"]
+  tags: ["Android"]
   order: 30
 ---
 

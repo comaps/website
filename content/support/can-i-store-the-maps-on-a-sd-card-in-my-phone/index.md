@@ -4,7 +4,7 @@ description: "Frequently asked questions for CoMaps application"
 taxonomies:
   support: ["Map Data"]
 extra:
-  tags: ["Android", "iPhone & iPad"]
+  tags: ["Android"]
   order: 40
 ---
 

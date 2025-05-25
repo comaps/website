@@ -8,4 +8,4 @@ extra:
   order: 120
 ---
 
-Currently, there’s no travel guide functionality in CoMaps, but you can import any rich KML/KMZ/GPX file that can provide you with tracks. We’re thinking about implementing a more convenient way to discover and use travel guides.
+Currently, there’s no travel guide functionality in CoMaps, but you can import any rich KML/KMZ/GPX file that can provide you with tracks. We’re thinking about implementing a more convenient way to discover and use travel guides. Our community suggest us to add Wikivoyage, you can follow advancement [here](https://codeberg.org/comaps/comaps/issues/90)
