@@ -8,13 +8,10 @@
 [trackercontrol]: https://ios.trackercontrol.org/analysis/app.comaps
 [facebook]: https://facebook.com/CoMaps
 [fdroid]: https://f-droid.org/{{ lang | truncate(length=2) }}/packages/app.comaps/ "{{ trans(key='install-fdroid', lang=lang) }}"
-[firebase]: https://appdistribution.firebase.dev/i/2f0fee463107b137
 [flatpak]: https://flathub.org/apps/details/app.comaps.desktop
 [github]: https://codeberg.org/comaps/comaps
 [googleplay]: https://play.google.com/store/apps/details?id=app.comaps&hl={{ lang }} "{{ trans(key='install-googleplay', lang=lang) }}"
 [googleplay_review]: market://details?id=app.comaps
-[gpx_issue]: https://github.com/organicmaps/organicmaps/issues/624
-[ideas]: https://github.com/organicmaps/organicmaps/discussions/categories/ideas
 [instagram]: https://instagram.com/comaps.app/
 [issues]: https://codeberg.org/comaps/comaps/issues
 [LinkedIn]:  https://www.linkedin.com/company/comaps/
@@ -35,5 +32,5 @@
 [translations]: https://codeberg.org/comaps/comaps/src/branch/main/docs/TRANSLATIONS.md
 [translations_appstore]: https://translate.codeberg.org/projects/comaps/apple-appstore-metadata/
 [translations_googleplay]: https://translate.codeberg.org/projects/comaps/fdroid-metadata/
-[translations_website]: https://hosted.weblate.org/projects/comaps/website/
+[translations_website]: https://translate.codeberg.org/projects/comaps/website/
 [twitter]: https://twitter.com/CoMaps

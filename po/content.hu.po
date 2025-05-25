@@ -113,11 +113,6 @@ msgstr "Gyors offline keresés a térképen"
 
 #. type: Bullet: '- '
 #: content/_index.md
-msgid "Bookmarks and tracks in KML, KMZ, GPX formats"
-msgstr "Könyvjelzők és útvonalak KML, KMZ és GPX formátumokban"
-
-#. type: Bullet: '- '
-#: content/_index.md
 msgid "Dark Mode to protect your eyes"
 msgstr "Sötét mód a szem védelme érdekében"
 
@@ -328,11 +323,6 @@ msgstr "[iOS béta (TestFlight)][testflight]"
 
 #. type: Bullet: '  * '
 #: content/_index.md
-msgid "[Android Beta (Firebase)][firebase]"
-msgstr "[Android béta (Firebase)][firebase]"
-
-#. type: Bullet: '  * '
-#: content/_index.md
 msgid "[Linux Desktop Beta (Flatpak)][flatpak]"
 msgstr "[Asztali Linux béta (flatpak)][flatpak]"
 
@@ -345,11 +335,6 @@ msgstr "[Asztali Linux béta (csomagok)][repology]"
 #: content/_index.md
 msgid "Report bugs or issues to [the issue tracker][issues] or [email us][email]."
 msgstr "Jelentse a hibákat vagy problémákat [a hibakövetőnkben][issues] vagy [küldjön nekünk e-mailt][email]."
-
-#. type: Bullet: '- '
-#: content/_index.md
-msgid "[Discuss][ideas] ideas or propose feature requests."
-msgstr "[Vitasson][ideas] meg ötleteket vagy javasoljon új funkciókat."
 
 #. type: Bullet: '- '
 #: content/_index.md

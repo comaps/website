@@ -129,11 +129,6 @@ msgstr "Kiire kaardiotsing võrguühendust kasutamata"
 
 #. type: Bullet: '- '
 #: content/_index.md
-msgid "Bookmarks and tracks in KML, KMZ, GPX formats"
-msgstr "Järjehoidjate import ning eksport KML/KMZ vormingutes (GPX on ka [plaanis][gpx_issue])"
-
-#. type: Bullet: '- '
-#: content/_index.md
 msgid "Dark Mode to protect your eyes"
 msgstr "Tavavaate kõrval ka silmadesäästlik tume kaardivaade"
 
@@ -347,11 +342,6 @@ msgstr "[iOS Beta (TestFlight)][testflight]"
 
 #. type: Bullet: '  * '
 #: content/_index.md
-msgid "[Android Beta (Firebase)][firebase]"
-msgstr "[Android Beta (Firebase)][firebase]"
-
-#. type: Bullet: '  * '
-#: content/_index.md
 msgid "[Linux Desktop Beta (Flatpak)][flatpak]"
 msgstr "[Linux'i töölauarakenduse beetaversioon (Flatpak)][flatpak]"
 
@@ -364,11 +354,6 @@ msgstr "[Linux'i töölauarakenduse beetaversioon (pakendatuna)][repology]"
 #: content/_index.md
 msgid "Report bugs or issues to [the issue tracker][issues] or [email us][email]."
 msgstr "Teata vigadest või probleemidest meie [veahalduse liideses][issues] või [saada meile e-kiri][email]."
-
-#. type: Bullet: '- '
-#: content/_index.md
-msgid "[Discuss][ideas] ideas or propose feature requests."
-msgstr "[Kommenteeri][ideas] juba tehtud ettepanekuid või paku mõni asjalik idee omalt poolt."
 
 #. type: Bullet: '- '
 #: content/_index.md

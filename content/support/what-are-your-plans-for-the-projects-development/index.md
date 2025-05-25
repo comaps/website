@@ -10,5 +10,5 @@ extra:
 
 The main plans are outlined on the donation page:  
 [https://www.comaps.app/donate](https://www.comaps.app/donate)  
-You can check the status for development of features on GitHub:  
+You can check the status for development of features on Codeberg:  
 [https://codeberg.org/comaps/comaps/issues](https://codeberg.org/comaps/comaps/issues)

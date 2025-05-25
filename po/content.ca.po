@@ -114,11 +114,6 @@ msgstr "Cerques ràpides al mapa, sense connexió"
 
 #. type: Bullet: '- '
 #: content/_index.md
-msgid "Bookmarks and tracks in KML, KMZ, GPX formats"
-msgstr "Marcadors i rutes en format KML, KMZ i GPX"
-
-#. type: Bullet: '- '
-#: content/_index.md
 msgid "Dark Mode to protect your eyes"
 msgstr "Mode fosc per a protegir els vostres ulls"
 
@@ -329,11 +324,6 @@ msgstr "[Beta d'iOS (TestFlight)][testflight]"
 
 #. type: Bullet: '  * '
 #: content/_index.md
-msgid "[Android Beta (Firebase)][firebase]"
-msgstr "[Beta d'Android (Firebase)][firebase]"
-
-#. type: Bullet: '  * '
-#: content/_index.md
 msgid "[Linux Desktop Beta (Flatpak)][flatpak]"
 msgstr "[Beta de PC Linux (Flatpak)][flatpak]"
 
@@ -346,11 +336,6 @@ msgstr "[Beta de PC Linux (paquets)][repology]"
 #: content/_index.md
 msgid "Report bugs or issues to [the issue tracker][issues] or [email us][email]."
 msgstr "Informeu d'errors o problemes mitjançant el [rastrejador d'errors][issues] o [enviant-nos un correu electrònic][email]."
-
-#. type: Bullet: '- '
-#: content/_index.md
-msgid "[Discuss][ideas] ideas or propose feature requests."
-msgstr "[Debateu][ideas] idees o proposeu característiques."
 
 #. type: Bullet: '- '
 #: content/_index.md

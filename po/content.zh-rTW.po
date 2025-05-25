@@ -117,12 +117,6 @@ msgstr "地圖上快速離線搜尋"
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
-msgid "Bookmarks and tracks in KML, KMZ, GPX formats"
-msgstr "書籤與軌跡以 KML、KMZ 或 GPX 格式輸出"
-
-#. type: Bullet: '- '
-#: content/_index.md
-#, markdown-text
 msgid "Dark Mode to protect your eyes"
 msgstr "保護眼睛的黑暗模式"
 
@@ -275,12 +269,6 @@ msgstr "社群"
 #, markdown-text
 msgid "Report bugs or issues to [the issue tracker][issues] or [email us][email]."
 msgstr "透過[問題追蹤器][issues]或是 [email 我們][email] 回報臭蟲或問題。"
-
-#. type: Bullet: '- '
-#: content/_index.md
-#, markdown-text
-msgid "[Discuss][ideas] ideas or propose feature requests."
-msgstr "[討論][ideas]點子或提出新功能。"
 
 #. type: Bullet: '- '
 #: content/_index.md

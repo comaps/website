@@ -105,11 +105,6 @@ msgstr "Pencarian luring cepat pada peta"
 
 #. type: Bullet: '- '
 #: content/_index.md
-msgid "Bookmarks and tracks in KML, KMZ, GPX formats"
-msgstr "Ekspor dan impor penanda dalam format KML/KMZ (GPX [direncanakan][gpx_issue])"
-
-#. type: Bullet: '- '
-#: content/_index.md
 msgid "Dark Mode to protect your eyes"
 msgstr "Mode Gelap untuk melindungi mata Anda"
 
@@ -322,11 +317,6 @@ msgstr "[Beta iOS (TestFlight)][testflight]"
 
 #. type: Bullet: '  * '
 #: content/_index.md
-msgid "[Android Beta (Firebase)][firebase]"
-msgstr "[Beta Android (Firebase)][firebase]"
-
-#. type: Bullet: '  * '
-#: content/_index.md
 msgid "[Linux Desktop Beta (Flatpak)][flatpak]"
 msgstr "[Beta Desktop Linux (Flatpak)][flatpak]"
 
@@ -339,11 +329,6 @@ msgstr "[Beta Desktop Linux (paket)][repology]"
 #: content/_index.md
 msgid "Report bugs or issues to [the issue tracker][issues] or [email us][email]."
 msgstr "Laporkan kutu atau masalah ke [pelacak masalah][issues] atau [kirim surel kepada kami][email]."
-
-#. type: Bullet: '- '
-#: content/_index.md
-msgid "[Discuss][ideas] ideas or propose feature requests."
-msgstr "[Diskusikan][ideas] ide atau usulkan permintaan fitur."
 
 #. type: Bullet: '- '
 #: content/_index.md

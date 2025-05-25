@@ -105,11 +105,6 @@ msgstr "Snabb offline-sökning på kartan"
 
 #. type: Bullet: '- '
 #: content/_index.md
-msgid "Bookmarks and tracks in KML, KMZ, GPX formats"
-msgstr "Export och import av bokmärken i KML/KMZ-format (GPX är [planerat][gpx_issue])"
-
-#. type: Bullet: '- '
-#: content/_index.md
 msgid "Dark Mode to protect your eyes"
 msgstr "Mörkt läge för att skydda dina ögon"
 
@@ -323,11 +318,6 @@ msgstr "[iOS Beta (TestFlight)][testflight]"
 
 #. type: Bullet: '  * '
 #: content/_index.md
-msgid "[Android Beta (Firebase)][firebase]"
-msgstr "[Android Beta (Firebase)][firebase]"
-
-#. type: Bullet: '  * '
-#: content/_index.md
 msgid "[Linux Desktop Beta (Flatpak)][flatpak]"
 msgstr "[Linux Desktop Beta (Flatpak)][flatpak]"
 
@@ -340,11 +330,6 @@ msgstr "[Linux Desktop Beta (paket)][repology]"
 #: content/_index.md
 msgid "Report bugs or issues to [the issue tracker][issues] or [email us][email]."
 msgstr "Rapportera fel eller problem till [problemspåraren][issues] eller [mejla oss][email]."
-
-#. type: Bullet: '- '
-#: content/_index.md
-msgid "[Discuss][ideas] ideas or propose feature requests."
-msgstr "[Diskutera][ideas] idéer eller föreslå önskemål om funktioner."
 
 #. type: Bullet: '- '
 #: content/_index.md

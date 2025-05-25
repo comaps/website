@@ -117,12 +117,6 @@ msgstr "Busca rápida sen conexión no mapa"
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
-msgid "Bookmarks and tracks in KML, KMZ, GPX formats"
-msgstr "Marcadores e pistas en formatos KML, KMZ e GPX"
-
-#. type: Bullet: '- '
-#: content/_index.md
-#, markdown-text
 msgid "Dark Mode to protect your eyes"
 msgstr "Modo escuro para protexer os ollos"
 
@@ -369,12 +363,6 @@ msgstr "@[iOS Beta (TestFlight)][testflight]"
 #. type: Bullet: '  * '
 #: content/_index.md
 #, markdown-text
-msgid "[Android Beta (Firebase)][firebase]"
-msgstr "@[Android Beta (Firebase)][firebase]"
-
-#. type: Bullet: '  * '
-#: content/_index.md
-#, markdown-text
 msgid "[Linux Desktop Beta (Flatpak)][flatpak]"
 msgstr "@[Linux Desktop Beta (Flatpak)][flatpak]"
 
@@ -389,12 +377,6 @@ msgstr "[Linux Desktop Beta (paquetería)][repology]"
 #, markdown-text
 msgid "Report bugs or issues to [the issue tracker][issues] or [email us][email]."
 msgstr "Informa de erros ou problemas no [the issue tracker][issues] or [email us][email]."
-
-#. type: Bullet: '- '
-#: content/_index.md
-#, markdown-text
-msgid "[Discuss][ideas] ideas or propose feature requests."
-msgstr "[Discuss][ideas] ideas ou propoña solicitudes de funcións."
 
 #. type: Bullet: '- '
 #: content/_index.md

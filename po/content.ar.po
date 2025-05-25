@@ -114,11 +114,6 @@ msgstr "بحث سريع في الخريطة بدون الحاجة لإنترنت
 
 #. type: Bullet: '- '
 #: content/_index.md
-msgid "Bookmarks and tracks in KML, KMZ, GPX formats"
-msgstr "تصدير المراجع المحفوضة واستيرادها، بصيغ KML/KMZ (GPX [مخطط له][gpx_issue])"
-
-#. type: Bullet: '- '
-#: content/_index.md
 msgid "Dark Mode to protect your eyes"
 msgstr "الوضع الداكن لحماية العينين"
 
@@ -324,11 +319,6 @@ msgstr "[iOS تجريبي (TestFlight)][testflight]"
 
 #. type: Bullet: '  * '
 #: content/_index.md
-msgid "[Android Beta (Firebase)][firebase]"
-msgstr "[أندرويد تجريبي (Firebase)][firebase]"
-
-#. type: Bullet: '  * '
-#: content/_index.md
 msgid "[Linux Desktop Beta (Flatpak)][flatpak]"
 msgstr "[سطح مكتب Linux تجريبي (Flatpak)][flatpak]"
 
@@ -341,11 +331,6 @@ msgstr "[سطح مكتب Linux تجريبي (حزم)][repology]"
 #: content/_index.md
 msgid "Report bugs or issues to [the issue tracker][issues] or [email us][email]."
 msgstr "أبلغ عن الأخطاء أو المشكلات إلى [متعقب المشكلات][issues] أو [مراسلتنا عبر البريد الإلكتروني][email]."
-
-#. type: Bullet: '- '
-#: content/_index.md
-msgid "[Discuss][ideas] ideas or propose feature requests."
-msgstr "[مناقشة][ideas] الأفكار أو اقتراح طلبات الميزات."
 
 #. type: Bullet: '- '
 #: content/_index.md

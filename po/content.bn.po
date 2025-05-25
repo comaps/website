@@ -118,11 +118,6 @@ msgstr "সম্প্রদায়"
 msgid "[iOS Beta (TestFlight)][testflight]"
 msgstr "[আইওএস বেটা (TestFlight)][testflight]"
 
-#. type: Bullet: '  * '
-#: content/_index.md
-msgid "[Android Beta (Firebase)][firebase]"
-msgstr "[অ্যান্ড্রয়েড বেটা (Firebase)][firebase]"
-
 #. type: Plain text
 #: content/_index.md
 #, no-wrap

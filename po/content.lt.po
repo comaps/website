@@ -117,12 +117,6 @@ msgstr "Sparti paieška žemėlapyje neprisijungus"
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
-msgid "Bookmarks and tracks in KML, KMZ, GPX formats"
-msgstr "Žymelės ir takai KML, KMZ ir GPX formatais"
-
-#. type: Bullet: '- '
-#: content/_index.md
-#, markdown-text
 msgid "Dark Mode to protect your eyes"
 msgstr "Tamsus režimas apsaugos jūsų akis"
 
@@ -365,12 +359,6 @@ msgstr "Kviečiame prisijungti prie beta testuotojų programos, siūlyti savo fu
 #, markdown-text
 msgid "[iOS Beta (TestFlight)][testflight]"
 msgstr "[iOS Beta (TestFlight)][testflight]"
-
-#. type: Bullet: '  * '
-#: content/_index.md
-#, markdown-text
-msgid "[Android Beta (Firebase)][firebase]"
-msgstr "[Android Beta (Firebase)][firebase]"
 
 #. type: Bullet: '  * '
 #: content/_index.md

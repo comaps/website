@@ -116,11 +116,6 @@ msgstr "地图上的快速离线搜索"
 
 #. type: Bullet: '- '
 #: content/_index.md
-msgid "Bookmarks and tracks in KML, KMZ, GPX formats"
-msgstr "以KML/KMZ格式导出和导入书签（GPX已列入[计划][gpx_issue]中）"
-
-#. type: Bullet: '- '
-#: content/_index.md
 msgid "Dark Mode to protect your eyes"
 msgstr "保护您眼睛的黑暗模式"
 
@@ -316,11 +311,6 @@ msgstr "[iOS测试版（TestFlight）][testflight]"
 
 #. type: Bullet: '  * '
 #: content/_index.md
-msgid "[Android Beta (Firebase)][firebase]"
-msgstr "[安卓测试版（Firebase）][firebase]"
-
-#. type: Bullet: '  * '
-#: content/_index.md
 msgid "[Linux Desktop Beta (Flatpak)][flatpak]"
 msgstr "[Linux 桌面端 Beta (Flatpak)][flatpak]"
 
@@ -333,11 +323,6 @@ msgstr "[Linux桌面测试版（软件包）][Repology]"
 #: content/_index.md
 msgid "Report bugs or issues to [the issue tracker][issues] or [email us][email]."
 msgstr "报告bug、跟踪问题 [the issue tracker][issues]或联系我们[email us][email]。"
-
-#. type: Bullet: '- '
-#: content/_index.md
-msgid "[Discuss][ideas] ideas or propose feature requests."
-msgstr "[Discuss][ideas]创意点子、功能需求。"
 
 #. type: Bullet: '- '
 #: content/_index.md

@@ -120,12 +120,6 @@ msgstr ""
 #. type: Bullet: '- '
 #: content/_index.md
 #, markdown-text
-msgid "Bookmarks and tracks in KML, KMZ, GPX formats"
-msgstr ""
-
-#. type: Bullet: '- '
-#: content/_index.md
-#, markdown-text
 msgid "Dark Mode to protect your eyes"
 msgstr ""
 
@@ -372,12 +366,6 @@ msgstr ""
 #. type: Bullet: '  * '
 #: content/_index.md
 #, markdown-text
-msgid "[Android Beta (Firebase)][firebase]"
-msgstr ""
-
-#. type: Bullet: '  * '
-#: content/_index.md
-#, markdown-text
 msgid "[Linux Desktop Beta (Flatpak)][flatpak]"
 msgstr ""
 
@@ -391,12 +379,6 @@ msgstr ""
 #: content/_index.md
 #, markdown-text
 msgid "Report bugs or issues to [the issue tracker][issues] or [email us][email]."
-msgstr ""
-
-#. type: Bullet: '- '
-#: content/_index.md
-#, markdown-text
-msgid "[Discuss][ideas] ideas or propose feature requests."
 msgstr ""
 
 #. type: Bullet: '- '

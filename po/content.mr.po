@@ -114,11 +114,6 @@ msgstr "नकाशावर वेगवान ऑफलाईन शोध"
 
 #. type: Bullet: '- '
 #: content/_index.md
-msgid "Bookmarks and tracks in KML, KMZ, GPX formats"
-msgstr "KML/KMZ स्वरूपात बुकमार्क निर्यात व आयात (GPS [नियोजित][gpx_issue])"
-
-#. type: Bullet: '- '
-#: content/_index.md
 msgid "Dark Mode to protect your eyes"
 msgstr "तुमच्या डोळ्यांच्या संरक्षणासाठी, गडद मोड"
 
@@ -309,11 +304,6 @@ msgstr "[iOS Beta (TestFlight)][testflight]"
 
 #. type: Bullet: '  * '
 #: content/_index.md
-msgid "[Android Beta (Firebase)][firebase]"
-msgstr "[Android Beta (Firebase)][firebase]"
-
-#. type: Bullet: '  * '
-#: content/_index.md
 msgid "[Linux Desktop Beta (Flatpak)][flatpak]"
 msgstr "[Linux Desktop Beta (Flatpak)][flatpak]"
 
@@ -326,11 +316,6 @@ msgstr "[Linux Desktop Beta (packages)][repology]"
 #: content/_index.md
 msgid "Report bugs or issues to [the issue tracker][issues] or [email us][email]."
 msgstr "बग किंवा त्रुटी आम्हाला [इशू ट्रॅकर][issues] or [ईमेल द्वारे][email] कळवा."
-
-#. type: Bullet: '- '
-#: content/_index.md
-msgid "[Discuss][ideas] ideas or propose feature requests."
-msgstr "नवीन कल्पना किंवा वैशिष्ट्ये सुचवण्यासाठी [चर्चा करा][ideas]."
 
 #. type: Bullet: '- '
 #: content/_index.md

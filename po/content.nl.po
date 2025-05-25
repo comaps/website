@@ -114,11 +114,6 @@ msgstr "Snel offline zoeken op de kaart"
 
 #. type: Bullet: '- '
 #: content/_index.md
-msgid "Bookmarks and tracks in KML, KMZ, GPX formats"
-msgstr "Bladwijzers exporteren en importeren in KML/KMZ formats (GPX is [gepland][gpx_issue])"
-
-#. type: Bullet: '- '
-#: content/_index.md
 msgid "Dark Mode to protect your eyes"
 msgstr "Donkere stand om je ogen te beschermen"
 
@@ -314,11 +309,6 @@ msgstr "[iOS Beta (TestFlight)][testflight]"
 
 #. type: Bullet: '  * '
 #: content/_index.md
-msgid "[Android Beta (Firebase)][firebase]"
-msgstr "[Android Beta (Firebase)][firebase]"
-
-#. type: Bullet: '  * '
-#: content/_index.md
 msgid "[Linux Desktop Beta (Flatpak)][flatpak]"
 msgstr "[Linux Desktop Beta (Flatpak)][flatpak]"
 
@@ -331,11 +321,6 @@ msgstr "[Linux Desktop Beta (paketten)][repology]"
 #: content/_index.md
 msgid "Report bugs or issues to [the issue tracker][issues] or [email us][email]."
 msgstr "Rapporteer bugs of problemen via [de issue tracker][issues] of [mail ons][email]."
-
-#. type: Bullet: '- '
-#: content/_index.md
-msgid "[Discuss][ideas] ideas or propose feature requests."
-msgstr "[Bediscussieer][ideas] ideeën of stel functieverzoeken voor."
 
 #. type: Bullet: '- '
 #: content/_index.md

@@ -105,11 +105,6 @@ msgstr "Швидкий офлайн пошук на мапі"
 
 #. type: Bullet: '- '
 #: content/_index.md
-msgid "Bookmarks and tracks in KML, KMZ, GPX formats"
-msgstr "Експорт та імпорт закладок та треків у форматах KML/KMZ та GPX"
-
-#. type: Bullet: '- '
-#: content/_index.md
 msgid "Dark Mode to protect your eyes"
 msgstr "Темний режим для захисту ваших очей"
 
@@ -322,11 +317,6 @@ msgstr "[iOS Beta (TestFlight)][testflight]"
 
 #. type: Bullet: '  * '
 #: content/_index.md
-msgid "[Android Beta (Firebase)][firebase]"
-msgstr "[Android Beta (Firebase)][firebase]"
-
-#. type: Bullet: '  * '
-#: content/_index.md
 msgid "[Linux Desktop Beta (Flatpak)][flatpak]"
 msgstr "[Linux Desktop Beta (Flatpak)][flatpak]"
 
@@ -339,11 +329,6 @@ msgstr "[Linux Desktop Beta (packages)][repology]"
 #: content/_index.md
 msgid "Report bugs or issues to [the issue tracker][issues] or [email us][email]."
 msgstr "Повідомляйте про помилки або проблеми на [GitHub][issues] або через [ел. пошту][email]."
-
-#. type: Bullet: '- '
-#: content/_index.md
-msgid "[Discuss][ideas] ideas or propose feature requests."
-msgstr "[Обговорюйте][ideas] ідеї або пропонуйте запити на нові функції."
 
 #. type: Bullet: '- '
 #: content/_index.md

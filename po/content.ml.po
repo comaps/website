@@ -114,11 +114,6 @@ msgstr "വോയ്‌സ് ഗൈഡൻസുള്ള ടേൺ-ബൈ-ട�
 msgid "Fast offline search on the map"
 msgstr "ഭൂപടത്തിൽ വേഗത്തിലുള്ള ഓഫ്‌ലൈൻ തിരയൽ"
 
-#. type: Bullet: '- '
-#: content/_index.md
-#, fuzzy, markdown-text
-msgid "Bookmarks and tracks in KML, KMZ, GPX formats"
-msgstr "ബുക്ക്‌മാർക്കുകൾ KML/KMZ ഫോർമാറ്റുകളിൽ കയറ്റുമതിയും ഇറക്കുമതിയും (GPX ആണ് [പ്ലാൻഡ്][gpx_issue])"
 
 #. type: Bullet: '- '
 #: content/_index.md
@@ -335,12 +330,6 @@ msgstr "സമൂഹം"
 #, fuzzy, markdown-text
 msgid "[iOS Beta (TestFlight)][testflight]"
 msgstr "[iOS Beta (TestFlight)][testflight]"
-
-#. type: Bullet: '  * '
-#: content/_index.md
-#, fuzzy, markdown-text
-msgid "[Android Beta (Firebase)][firebase]"
-msgstr "[Android Beta (Firebase)][firebase]"
 
 #. type: Bullet: '  * '
 #: content/_index.md
