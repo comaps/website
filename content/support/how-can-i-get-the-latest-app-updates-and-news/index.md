@@ -8,4 +8,4 @@ extra:
   order: 10
 ---
 
-You can subscribe to the [Telegram chat](https://t.me/ComapsApp) for the latest app updates and news.
+The latest news are published on the [news page](/news). You can also follow us on [Mastodon](https://floss.social/@CoMaps) and join the [Matrix](https://matrix.to/#/%23comaps:matrix.org) and [Telegram](https://t.me/ComapsApp) chats.
