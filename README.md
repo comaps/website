@@ -1,6 +1,6 @@
 # CoMaps Website
 
-This static website is built with [Zola](https://www.getzola.org/) and deployed on [Codeberg Pages](https://codeberg.page).
+This static website is built with [Zola](https://www.getzola.org/)
 
 <!-- ![Main Website](./static/images/website-main.png) -->
 
@@ -19,11 +19,7 @@ This static website is built with [Zola](https://www.getzola.org/) and deployed 
 ## Deployment
 The latest site is automatically deployed from `main` on the merging of a pull request.
 It's also possible to manually deploy in the Actions menu.
-<!--
-### Updating News
-Run `npm run news` to automatically download news from our [Telegram channel](https://t.me/CoMapsApp),
-then create a git commit and push it.
--->
+
 ## Contribution
 
 Any good ideas and help with web site improvement are appreciated. And it's always better to discuss
