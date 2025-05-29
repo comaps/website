@@ -583,39 +583,34 @@ msgstr "Sem rastreamento, sem anúncios, sem coleta de dados, sem coleta de esta
 #: content/privacy/index.md
 #, no-wrap
 msgid "Privacy"
-msgstr "Política de Privacidade"
+msgstr "Privacidade"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/privacy/index.md
 #, no-wrap
-msgid "CoMaps: Privacy Policy"
-msgstr "CoMaps: Política de Privacidade"
+msgid "Privacy"
+msgstr "Privacidade"
 
 #. type: Plain text
 #: content/privacy/index.md
-msgid "CoMaps respects your privacy and DOES NOT TRACK YOU."
-msgstr "O CoMaps respeita sua privacidade e NÃO TE RASTREIA."
+msgid "At CoMaps, we respect your privacy. CoMaps does not have any form of identification of people, advertising, or personal data collection."
+msgstr "No CoMaps, respeitamos a sua privacidade. O CoMaps não realiza nenhum tipo de identificação de pessoas, publicidade ou coleta de dados pessoais."
 
 #. type: Plain text
 #: content/privacy/index.md
-msgid "Unlike most other applications, there is no tracking, no ads, no spyware, no data and statistics collection in CoMaps."
-msgstr "Ao contrário da maioria dos outros apps, não há nenhum rastreamento, nenhum anúncio, nenhum spyware, nenhuma coleta de dados e estatísticas no CoMaps."
-
-#. type: Plain text
-#: content/privacy/index.md
-msgid "Stay away from Big Tech's prying eyes!"
-msgstr "Fique longe dos olhos curiosos das grandes empresas!"
+msgid "CoMaps does not track you."
+msgstr "O CoMaps não rastreia você."
 
 #. type: Plain text
 #: content/privacy/index.md content/terms/index.md
-msgid "If you have any questions or suggestions, please contact us at [legal@organicmaps.app](mailto:legal@organicmaps.app)."
-msgstr "Se você tiver alguma dúvida ou sugestão, por favor entre em contato conosco em [legal@organicmaps.app](mailto:legal@organicmaps.app)."
+msgid "If you have any questions or suggestions, please contact us at [legal@comaps.app](mailto:legal@comaps.app)."
+msgstr "Se você tiver alguma dúvida ou sugestão, por favor entre em contato conosco em [legal@comaps.app](mailto:legal@comaps.app)."
 
 #. type: Plain text
 #: content/privacy/index.md
 #, no-wrap
-msgid "<sub>This policy is effective as of 2021-04-24.</sub>\n"
-msgstr "<sub>Esta política de privacidade está em vigor a partir do dia 24/04/2021.</sub>\n"
+msgid "<sub>Policy effective: 2025-05-01</sub>\n"
+msgstr "<sub>Esta política está em vigor a partir do dia 01/05/2025.</sub>\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/support-us/index.md
