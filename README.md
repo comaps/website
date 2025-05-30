@@ -17,6 +17,7 @@ This static website is built with [Zola](https://www.getzola.org/)
 - Upgrade npm dependencies with `npm run upgrade`, make sure that you have installed `npm-check-updates` package.
 
 ## Deployment
+
 The latest site is automatically deployed from `main` on the merging of a pull request.
 It's also possible to manually deploy in the Actions menu.
 

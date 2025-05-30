@@ -1,9 +1,9 @@
 ---
-description: "Segueix les últimes novetats de CoMaps, notícies i actualitzacions del nostre equip."
 extra:
-  menu_title: Notícies
+  menu_title: News
 page_template: news_post.html
+paginate_by: 50
 sort_by: date
 template: news.html
-title: "CoMaps: les notícies i novetats més recents del nostre equip"
+title: "News and Releases"
 ---

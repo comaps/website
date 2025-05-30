@@ -1,40 +1,29 @@
 ---
-description: "Gebruiksvoorwaarden voor de CoMaps applicatie"
 extra:
-  menu_title: Voorwaarden
-title: "CoMaps: voorwaarden"
+  menu_title: Terms
+title: Terms
 weight: 1000
 ---
 
-Deze app is gelicentieerd onder de Apache Licence, Versie 2.0 (de
-"licentie"); u mag deze applicatie alleen gebruiken in overeenstemming met
-de licentie.
+This app is licensed under the Apache License, Version 2.0 (the "License");
+This application cannot be used except in compliance with the License.
 
-U kunt een kopie van de licentie bemachtigen op
-[http://www.apache.org/licenses/LICENSE-2.0][license]
+License: [www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0)
 
-Tenzij vereist door toepasbaar recht of onder schriftelijke overeenkomst,
-wordt de onder de licentie gedistribueerde software gedistribueerd op een
-"AS IS"-BASIS, ZONDER GARANTIES OF ENIGE BEDINGINGEN, ofwel expres ofwel
-geïmpliceerd. Zie de licentie voor de specifieke tekst wat betreft
-toestemmingen en grenzen van de licentie.
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
+WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
+License for the specific language governing permissions and limitations
+under the License.
 
-De meeste bibliotheken in de volgende mappen op [GitHub][github] zijn
-gemaakt door andere mensen en organisaties en op andere wijzen
-gelicentieerd:
+Many libraries and 3rd party tools included into [CoMaps
+repository](https://codeberg.org/comaps/comaps) were developed by multiple
+people and organizations, and licensed in different ways. Please refer to
+their LICENSE, COPYING or NOTICE files for terms of use.
 
-- 3party
-- tools
+See
+[data/copyright.html](https://codeberg.org/comaps/comaps/src/branch/main/data/copyright.html)
+file for a full list of copyright notices for the CoMaps application.
 
-Kijkt u alstublieft naar de LICENSE, COPYING of NOTICE bestanden voor de
-gebruikersvoorwaarden.
-
-Zie ook het bestand [data/copyright.html][copyright] voor een volledige
-lijst van copyright-berichten voor de CoMaps applicatie.
-
-Als u vragen of opmerkingen heeft, neem alstublieft contact met ons op
-via[legal@organicmaps.app](mailto:legal@organicmaps.app).
-
-[github]: https://github.com/organicmaps/organicmaps
-[license]: http://www.apache.org/licenses/LICENSE-2.0
-[copyright]: https://github.com/organicmaps/organicmaps/blob/master/data/copyright.html
+If you have any questions or suggestions, please contact us at
+legal@comaps.app

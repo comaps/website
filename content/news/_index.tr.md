@@ -1,9 +1,9 @@
 ---
-title: "CoMaps: Ekibimizden son haberler ve güncellemeler"
-description: Ekibimizin en son CoMaps bültenleri, haberleri ve güncellemeleri ile iletişimde kalın
-template: news.html
-page_template: news_post.html
-sort_by: date
 extra:
-  menu_title: Haberler
+  menu_title: News
+page_template: news_post.html
+paginate_by: 50
+sort_by: date
+template: news.html
+title: "News and Releases"
 ---

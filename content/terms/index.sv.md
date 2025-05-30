@@ -1,39 +1,29 @@
 ---
-description: "Användarvillkor för CoMaps-appen"
 extra:
-  menu_title: Användarvillkor
-title: "CoMaps: Användarvillkor"
+  menu_title: Terms
+title: Terms
 weight: 1000
 ---
 
-Den här appen är licensierad enligt Apachelicensen, version 2.0
-("Licensen"); du får inte använda den här applikationen annat än i enlighet
-med Licensen.
+This app is licensed under the Apache License, Version 2.0 (the "License");
+This application cannot be used except in compliance with the License.
 
-Du kan erhålla en kopia av Licensen på
-[http://www.apache.org/licenses/LICENSE-2.0][license]
+License: [www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0)
 
-Om det inte krävs enligt tillämplig lag eller om det inte har avtalats
-skriftligen, distribueras programvara som distribueras under licensen _i
-befintligt skick, utan några som helst garantier eller förbehåll_, vare sig
-uttryckliga eller underförstådda. Se Licensen för de exakta formuleringar
-som reglerar tillstånd och begränsningar enligt Licensen.
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
+WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
+License for the specific language governing permissions and limitations
+under the License.
 
-De flesta mjukvarubibliotek i följande kataloger på [GitHub][github] är
-gjorda av andra personer och organisationer och licensieras på andra sätt:
+Many libraries and 3rd party tools included into [CoMaps
+repository](https://codeberg.org/comaps/comaps) were developed by multiple
+people and organizations, and licensed in different ways. Please refer to
+their LICENSE, COPYING or NOTICE files for terms of use.
 
-- 3party
-- tools
+See
+[data/copyright.html](https://codeberg.org/comaps/comaps/src/branch/main/data/copyright.html)
+file for a full list of copyright notices for the CoMaps application.
 
-Se filerna i respektive katalog med namnen LICENSE, COPYING eller NOTICE för
-deras användarvillkor.
-
-Se även filen [data/copyright.html][copyright] för en fullständig lista över
-upphovsrättsliga meddelanden för CoMaps-appen.
-
-Om du har några frågor eller förslag kan du kontakta oss på
-[legal@organicmaps.app](mailto:legal@organicmaps.app).
-
-[github]: https://github.com/organicmaps/organicmaps
-[licens]: http://www.apache.org/licenses/LICENSE-2.0
-[copyright]: https://github.com/organicmaps/organicmaps/blob/master/data/copyright.html
+If you have any questions or suggestions, please contact us at
+legal@comaps.app

@@ -1,22 +1,16 @@
 ---
-description: "Geen tracking, geen advertenties, geen dataverzameling, geen statistiekenverzameling, geen spyware"
 extra:
   menu_title: Privacy
-title: "CoMaps: pricavyovereenkomst"
+title: Privacy
 weight: 900
 ---
 
-CoMaps respecteert uw privacy en TRACKT U NIET.
+At CoMaps, we respect your privacy. CoMaps does not have any form of
+identification of people, advertising, or personal data collection.
 
-In tegenstelling tot andere applicaties zijn er in CoMaps geen
-tracking, geen advertenties, geen spyware geen data- en
-statistiekverzameling.
+CoMaps does not track you.
 
-Weiger toezicht – omarm je vrijheid.
+If you have any questions or suggestions, please contact us at
+legal@comaps.app
 
-Blijf weg van de nieuwsgierige ogen van Big Tech!
-
-Als u vragen of opmerkingen heeft, neem alstublieft contact met ons op
-via[legal@organicmaps.app](mailto:legal@organicmaps.app).
-
-<sub>Dit beleid is geldig vanaf 2021-04-24.</sub>
+Policy effective: 2025-05-01

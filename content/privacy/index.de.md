@@ -1,21 +1,16 @@
 ---
-description: "Kein Tracking, keine Werbung, keine Datensammlung, keine Statistiksammlung, keine Spyware"
 extra:
-  menu_title: Datenschutz
-title: "CoMaps: Datenschutz"
+  menu_title: Privacy
+title: Privacy
 weight: 900
 ---
 
-CoMaps respektiert deine Privatsphäre und spürt dich nicht auf.
+At CoMaps, we respect your privacy. CoMaps does not have any form of
+identification of people, advertising, or personal data collection.
 
-Im Gegensatz zu den meisten anderen Anwendungen gibt es in CoMaps kein
-Tracking, keine Werbung, keine Spyware, keine Daten- und Statistiksammlung.
+CoMaps does not track you.
 
-Lehne Überwachung ab - lebe deine Freiheit.
+If you have any questions or suggestions, please contact us at
+legal@comaps.app
 
-Halte dich von den neugierigen Augen der großen Technologiekonzernen fern!
-
-Wenn du Fragen oder Anregungen hast, kontaktiere uns bitte unter
-[legal@organicmaps.app](mailto:legal@organicmaps.app).
-
-<sub>Diese Richtlinie ist ab dem 24.04.2021 gültig.</sub>
+Policy effective: 2025-05-01

@@ -1,21 +1,16 @@
 ---
-description: "لا تتبع ولا إعلانات ولا جمع بيانات ولا جمع إحصائيات ولا برامج تجسس"
 extra:
-  menu_title: الخصوصية
-title: "CoMaps: سياسة الخصوصية"
+  menu_title: Privacy
+title: Privacy
 weight: 900
 ---
 
-CoMaps يحترم خصوصيتك ولا يتتبعك.
+At CoMaps, we respect your privacy. CoMaps does not have any form of
+identification of people, advertising, or personal data collection.
 
-على عكس معظم التطبيقات الأخرى، لا يوجد تتبع ولا إعلانات ولا برامج تجسس ولا
-جمع بيانات وإحصاءات في CoMaps.
+CoMaps does not track you.
 
-ارفض المراقبة - احتضن حريتك.
+If you have any questions or suggestions, please contact us at
+legal@comaps.app
 
-ابتعد عن عيون المتطفلين لدى شركات التقنيات الكبيرة!
-
-إذا كانت لديك أي أسئلة أو اقتراحات، يرجى التواصل معنا على
-[legal@organicmaps.app (mailto:legal@organicmaps.app).
-
-<sub>هذه السياسة سارية اعتبارًا من 2021-04-24.</sub>
+Policy effective: 2025-05-01

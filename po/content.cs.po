@@ -1,845 +1,431 @@
-# SOME DESCRIPTIVE TITLE
-# Copyright (C) YEAR CoMaps
+# Czech translations for CoMaps Website package
+# Copyright (C) 2025 CoMaps
 # This file is distributed under the same license as the CoMaps Website package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# Automatically generated, 2025.
 #
 msgid ""
-msgstr "Project-Id-Version: CoMaps Website 1.0\nPO-Revision-Date: 2023-09-12 20:16+0000\nLast-Translator: Fjuro <ifjuro@proton.me>\nLanguage-Team: Czech <https://hosted.weblate.org/projects/organicmaps/website/cs/>\nLanguage: cs\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 5.0.1-dev\n"
+msgstr ""
+"Project-Id-Version: CoMaps Website 1.0\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
 #, no-wrap
-msgid "Fast detailed offline maps for travelers, tourists, drivers, hikers and cyclists created by MapsWithMe (Maps.Me) app founders."
-msgstr "Rychlé podrobné offline mapy pro cestovatele, turisty, řidiče, výletníky a cyklisty vytvořené zakladateli aplikace MapsWithMe (Maps.Me)."
+msgid ""
+"Discover more of your journey  \n"
+"Powered by the community\n"
+msgstr ""
 
 #. type: Yaml Front Matter Hash Value: extra menu_title
 #: content/_index.md
 #, no-wrap
 msgid "Home"
-msgstr "Domů"
-
-#. type: Yaml Front Matter Hash Value: title
-#: content/_index.md
-#, no-wrap
-msgid "CoMaps: Offline Hike, Bike, Trails and Navigation"
-msgstr "CoMaps: Offline pěší turistika, cykloturistika, stezky a navigace"
-
-#. type: Plain text
-#: content/_index.md
-#, no-wrap
-msgid "**CoMaps** is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists based on top of crowd-sourced **[OpenStreetMap][openstreetmap]** data. It is a privacy-focused, open-source [fork][fork] of **Maps.me** app (previously known as [**MapsWithMe**][mapswithme]), maintained by the same people who created **MapsWithMe** in 2011.\n"
-msgstr "**CoMaps** je bezplatná offline mapová aplikace pro Android a iOS pro cestovatele, turisty, výletníky a cyklisty založená na datech **[OpenStreetMap][openstreetmap]**. Jedná se o open-source [odnož][fork] zaměřenou na ochranu soukromí aplikace **Maps.me** (dříve známé jako [**MapsWithMe**][mapswithme]), kterou spravují stejní lidé, kteří v roce 2011 vytvořili **MapsWithMe**.\n"
-
-#. type: Plain text
-#: content/_index.md
-#, no-wrap
-msgid "**CoMaps** is one of the only applications nowadays that supports 100% of features without an active Internet connection. Install CoMaps, download maps, throw away your SIM card (by the way, your operator constantly tracks you), and go for a weeklong trip on a single battery charge without any byte sent to the network.\n"
-msgstr "**CoMaps** je jednou z mála aplikací, která v dnešní době podporuje 100 % funkcí bez aktivního připojení k internetu. Nainstalujte si CoMaps, stáhněte si mapy, zahoďte SIM kartu (mimochodem, váš operátor vás neustále sleduje) a vyrazte na týdenní výlet na jedno nabití baterie bez jakéhokoli bajtu odeslaného do sítě.\n"
-
-#. type: Title ###
-#: content/_index.md
-#, no-wrap
-msgid "Download and install CoMaps from [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] {#install}"
-msgstr "Stáhněte si a nainstalujte CoMaps z [AppStore][appstore], [Google Play][googleplay], [FDroid][fdroid], [Huawei AppGallery][appgallery] {#install}"
-
-#. type: Plain text
-#: content/_index.md
-msgid "{{ badges() }}"
-msgstr "{{ badges() }}"
-
-#. type: Plain text
-#: content/_index.md
-msgid "{{ screenshot(src='/images/screenshots/hiking.jpg', alt='Hiking') }}"
-msgstr "{{ screenshot(src='/images/screenshots/hiking.jpg', alt='Turistika') }}"
-
-#. type: Plain text
-#: content/_index.md
-msgid "{{ screenshot(src='/images/screenshots/prague.jpg', alt='Prague') }}"
-msgstr "{{ screenshot(src='/images/screenshots/prague.jpg', alt='Praha') }}"
-
-#. type: Plain text
-#: content/_index.md
-msgid "{{ screenshot(src='/images/screenshots/search.jpg', alt='Offline Search') }}"
-msgstr "{{ screenshot(src='/images/screenshots/search.jpg', alt='Offline vyhledávání') }}"
-
-#. type: Plain text
-#: content/_index.md
-msgid "{{ screenshot(src='/images/screenshots/dark.jpg', alt='Navigation in dark mode') }}"
-msgstr "{{ screenshot(src='/images/screenshots/dark.jpg', alt='Navigace v tmavém režimu') }}"
-
-#. type: Title ##
-#: content/_index.md
-#, no-wrap
-msgid "Features"
-msgstr "Vlastnosti"
-
-#. type: Plain text
-#: content/_index.md
-msgid "CoMaps is the ultimate companion app for travelers, tourists, hikers, and cyclists:"
-msgstr "CoMaps je dokonalá aplikace pro cestovatele, turisty, pěší turisty a cyklisty:"
-
-#. type: Bullet: '- '
-#: content/_index.md
-msgid "Detailed offline maps with places that don't exist on other maps, thanks to [OpenStreetMap][openstreetmap]"
-msgstr "Podrobné offline mapy s místy, která na jiných mapách neexistují, díky [OpenStreetMap][openstreetmap]"
-
-#. type: Bullet: '- '
-#: content/_index.md
-msgid "Cycling routes, hiking trails, and walking paths"
-msgstr "Cyklistické trasy, turistické stezky a pěší trasy"
-
-#. type: Bullet: '- '
-#: content/_index.md
-msgid "Contour lines, elevation profiles, peaks, and slopes"
-msgstr "Vrstevnice, výškové profily, vrcholy a svahy"
-
-#. type: Bullet: '- '
-#: content/_index.md
-msgid "Turn-by-turn walking, cycling, and car navigation with voice guidance"
-msgstr "Pěší, cyklistická a automobilová navigace krok za krokem s hlasovými pokyny"
-
-#. type: Bullet: '- '
-#: content/_index.md
-msgid "Fast offline search on the map"
-msgstr "Rychlé offline vyhledávání na mapě"
-
-#. type: Bullet: '- '
-#: content/_index.md
-msgid "Dark Mode to protect your eyes"
-msgstr "Tmavý režim pro ochranu očí"
-
-#. type: Bullet: '- '
-#: content/_index.md
-msgid "Countries and regions don't take a lot of space"
-msgstr "Země a regiony nezabírají mnoho místa"
-
-#. type: Bullet: '- '
-#: content/_index.md
-msgid "Free and open-source"
-msgstr "Svobodný a otevřený zdrojový kód"
-
-#. type: Title ##
-#: content/_index.md
-#, no-wrap
-msgid "Why Organic?"
-msgstr "Proč Organic?"
-
-#. type: Plain text
-#: content/_index.md
-msgid "CoMaps is pure and organic, made with love:"
-msgstr "CoMaps je čistý a organický produkt vyrobený s láskou:"
-
-#. type: Bullet: '- '
-#: content/_index.md
-msgid "Respects your privacy"
-msgstr "Respektuje vaše soukromí"
-
-#. type: Bullet: '- '
-#: content/_index.md
-msgid "Saves your battery"
-msgstr "Šetří baterii"
-
-#. type: Bullet: '- '
-#: content/_index.md
-msgid "No unexpected mobile data charges"
-msgstr "Žádné neočekávané poplatky za mobilní data"
-
-#. type: Plain text
-#: content/_index.md
-msgid "CoMaps app is free from trackers and other bad stuff:"
-msgstr "CoMaps neobsahuje sledovací zařízení a další špatné věci:"
-
-#. type: Bullet: '- '
-#: content/_index.md content/donate/index.md
-msgid "No ads"
-msgstr "Bez reklam"
-
-#. type: Bullet: '- '
-#: content/_index.md
-msgid "No tracking"
-msgstr "Žádné sledování"
-
-#. type: Bullet: '- '
-#: content/_index.md
-msgid "No data collection"
-msgstr "Žádný sběr dat"
-
-#. type: Bullet: '- '
-#: content/_index.md
-msgid "No phoning home"
-msgstr "Žádné telefonování domů"
-
-#. type: Bullet: '- '
-#: content/_index.md
-msgid "No annoying registration"
-msgstr "Žádná obtěžující registrace"
-
-#. type: Bullet: '- '
-#: content/_index.md
-msgid "No mandatory tutorials"
-msgstr "Žádné povinné výukové programy"
-
-#. type: Bullet: '- '
-#: content/_index.md
-msgid "No noisy email spam"
-msgstr "Žádný hlučný e-mailový spam"
-
-#. type: Bullet: '- '
-#: content/_index.md content/donate/index.md
-msgid "No push notifications"
-msgstr "Žádná oznámení push"
-
-#. type: Bullet: '- '
-#: content/_index.md
-msgid "No crapware"
-msgstr "Žádný crapware"
-
-#. type: Bullet: '- '
-#: content/_index.md
-msgid "~~No pesticides~~ Purely organic!"
-msgstr "~~Žádné pesticidy~~ Čistě organické!"
-
-#. type: Plain text
-#: content/_index.md
-msgid "The application is verified by [Exodus Privacy Project][exodus]:"
-msgstr "Aplikace je ověřena od [Exodus Privacy Project][exodus]:"
-
-#. type: Plain text
-#: content/_index.md
-msgid "{{ exodus_screenshot() }}"
-msgstr "{{ exodus_screenshot() }}"
-
-#. type: Plain text
-#: content/_index.md
-#, markdown-text
-msgid "The iOS application is verified by [TrackerControl for iOS][trackercontrol]:"
-msgstr "Aplikace pro iOS je ověřena pomocí [TrackerControl for iOS][trackercontrol]:"
-
-#. type: Plain text
-#: content/_index.md
-#, markdown-text
-msgid "{{ trackercontrol_screenshot() }}"
-msgstr "{{ trackercontrol_screenshot() }}"
-
-#. type: Plain text
-#: content/_index.md
-msgid "CoMaps doesn't request excessive permissions to spy on you:"
-msgstr "CoMaps nevyžaduje nadměrná oprávnění ke špehování:"
-
-#. type: Plain text
-#: content/_index.md
-msgid "{{ privacy_screenshots() }}"
-msgstr "{{ privacy_screenshots() }}"
-
-#. type: Plain text
-#: content/_index.md
-msgid "At CoMaps, we believe that privacy is a fundamental human right:"
-msgstr "V CoMaps věříme, že soukromí je základním lidským právem:"
-
-#. type: Bullet: '- '
-#: content/_index.md
-msgid "CoMaps is an indie community-driven open-source project"
-msgstr "CoMaps je nezávislý projekt s otevřeným zdrojovým kódem, který je řízen komunitou"
-
-#. type: Bullet: '- '
-#: content/_index.md
-msgid "We protect your privacy from Big Tech's prying eyes"
-msgstr "Chráníme vaše soukromí před zvědavýma očima velkých technologických firem"
-
-#. type: Bullet: '- '
-#: content/_index.md
-msgid "Stay safe no matter wherever you are"
-msgstr "Zůstaňte v bezpečí, ať jste kdekoli"
-
-#. type: Plain text
-#: content/_index.md content/privacy/index.md
-msgid "Reject surveillance - embrace your freedom."
-msgstr "Odmítněte dohled - přijměte svou svobodu."
-
-#. type: Plain text
-#: content/_index.md
-#, no-wrap
-msgid "**[Give CoMaps a try!](#install)**\n"
-msgstr "**[Vyzkoušejte CoMaps!](#install)**\n"
-
-#. type: Title ##
-#: content/_index.md
-#, no-wrap
-msgid "Who is paying for the free app?"
-msgstr "Kdo platí za bezplatnou aplikaci?"
-
-#. type: Plain text
-#: content/_index.md
-msgid "The app is free for everyone. Please [donate](@/donate/index.md) to support us!"
-msgstr "Aplikace je pro všechny zdarma. Podpořte nás prosím [donate](@/donate/index.cs.md)!"
-
-#. type: Plain text
-#: content/_index.md
-msgid "To donate conveniently, click on your preferred payment method icon below:"
-msgstr "Chcete-li přispět okamžitě, klikněte na ikonu preferovaného způsobu platby níže:"
-
-#. type: Plain text
-#: content/_index.md content/donate/index.md
-msgid "{{ donate_buttons() }}"
-msgstr "{{ donate_buttons() }}"
-
-#. type: Title ###
-#: content/_index.md
-#, no-wrap
-msgid "Our sponsors:"
-msgstr "Naši sponzoři:"
-
-#. type: Plain text
-#: content/_index.md
-msgid "[Mythic Beasts](https://www.mythic-beasts.com/) ISP [provides us][mythic_beasts_donation] two virtual servers with 400 TB/month of free bandwidth to help our users with maps downloads and updates."
-msgstr "[Mythic Beasts](https://www.mythic-beasts.com/) ISP [nám][mythic_beasts_donation] poskytuje dva virtuální servery se šířkou pásma 400 TB/měsíc zdarma, abychom našim uživatelům pomohli se stahováním map a aktualizacemi."
-
-#. type: Title ##
-#: content/_index.md
-#, no-wrap
-msgid "Community"
-msgstr "Komunita"
-
-#. type: Plain text
-#: content/_index.md
-msgid "CoMaps is an [open-source software][github] licensed under the Apache License 2.0."
-msgstr "CoMaps je [open-source software][github] licencovaný pod Apache License 2.0."
-
-#. type: Bullet: '- '
-#: content/_index.md
-msgid "Please join our beta program, suggest your features, and report bugs:"
-msgstr "Zapojte se prosím do našeho beta programu, navrhujte funkce a nahlašujte chyby:"
-
-#. type: Bullet: '  * '
-#: content/_index.md
-msgid "[iOS Beta (TestFlight)][testflight]"
-msgstr "[iOS Beta (TestFlight)] [testflight]"
-
-#. type: Bullet: '  * '
-#: content/_index.md
-msgid "[Linux Desktop Beta (Flatpak)][flatpak]"
-msgstr "[Linux Desktop Beta (Flatpak)] [flatpak]"
-
-#. type: Bullet: '  * '
-#: content/_index.md
-msgid "[Linux Desktop Beta (packages)][repology]"
-msgstr "[Linux Desktop Beta (balíčky)][repology]"
-
-#. type: Bullet: '- '
-#: content/_index.md
-msgid "Report bugs or issues to [the issue tracker][issues] or [email us][email]."
-msgstr "Chyby nebo problémy nahlaste na [issue tracker][issues] nebo [na e-mail][email]."
-
-#. type: Bullet: '- '
-#: content/_index.md
-msgid "Subscribe to our [Telegram Channel][telegram] or to the [matrix space][matrix] for updates."
-msgstr "Přihlaste se k odběru novinek na našem [Telegram kanálu][telegram] nebo na [matrix space][matrix]."
-
-#. type: Bullet: '- '
-#: content/_index.md
-msgid "Join our [Telegram Group][telegram_chat] to discuss with other users."
-msgstr "Připojte se k naší [Telegram skupině][telegram_chat] a diskutujte s ostatními uživateli."
-
-#. type: Bullet: '- '
-#: content/_index.md
-msgid "Visit our [GitHub page][github]."
-msgstr "Navštivte náš [GitHub][github]."
-
-#. type: Bullet: '- '
-#: content/_index.md
-msgid "Follow our updates in [Mastodon][mastodon], [Facebook][facebook], [Twitter][twitter], [Instagram][instagram], [Reddit][reddit], [LinkedIn][LinkedIn]."
-msgstr "Sledujte naše aktualizace na [Mastodonu][mastodon], [Facebooku][facebook], [Twitteru][twitter], [Instagramu][instagram], [Redditu][reddit], [LinkedIn][LinkedIn]."
-
-#. type: Plain text
-#: content/_index.md
-#, no-wrap
-msgid "[fork]: https://en.wikipedia.org/wiki/Fork_(software_development)\n"
-msgstr "[fork]: https://en.wikipedia.org/wiki/Fork_(software_development)\n"
-
-#. type: Plain text
-#: content/_index.md content/support-us/index.md
-msgid "{{ references() }}"
-msgstr "{{ references() }}"
-
-#. type: Yaml Front Matter Hash Value: description
-#: content/donate/index.md
-#, no-wrap
-msgid "Your money pays for all project-related expenses and motivates us to improve CoMaps."
-msgstr "Z vašich peněz se hradí všechny výdaje spojené s projektem a motivují nás ke zlepšování CoMaps."
-
-#. type: Yaml Front Matter Hash Value: extra menu_title
-#: content/donate/index.md
-#, no-wrap
-msgid "Donate"
-msgstr "Přispějte"
-
-#. type: Yaml Front Matter Hash Value: title
-#: content/donate/index.md
-#, no-wrap
-msgid "Donate to support the development of CoMaps"
-msgstr "Přispějte na podporu vývoje CoMaps"
-
-#. type: Plain text
-#: content/donate/index.md
-msgid "CoMaps app is _free for everyone_ thanks to your **[donations][stripe]**:"
-msgstr "Aplikace CoMaps je pro všechny _zdarma_ díky vašim **[darům][stripe]**:"
-
-#. type: Bullet: '- '
-#: content/donate/index.md
-msgid "No trackers"
-msgstr "Žádné sledovací zařízení"
-
-#. type: Bullet: '- '
-#: content/donate/index.md
-msgid "No registration"
-msgstr "Žádná registrace"
-
-#. type: Bullet: '- '
-#: content/donate/index.md
-msgid "Open source"
-msgstr "Open source"
-
-#. type: Plain text
-#: content/donate/index.md
-msgid "Click on your preferred payment method icon below:"
-msgstr "Klikněte na ikonu preferovaného způsobu platby níže:"
-
-#. type: Title ##
-#: content/donate/index.md
-#, no-wrap
-msgid "Why donate to CoMaps?"
-msgstr "Proč darovat CoMaps?"
-
-#. type: Bullet: '1. '
-#: content/donate/index.md
-msgid "We rely on your donations to carry out our mission to keep CoMaps open and free.  And free from ads."
-msgstr "Při plnění našeho poslání udržovat CoMaps otevřené a svobodné spoléháme na vaše dary.  A bez reklam."
-
-#. type: Bullet: '2. '
-#: content/donate/index.md
-msgid "We are a few enthusiasts contributing in our free time.  We love what we do, and we love our users ❤️."
-msgstr "Jsme několik nadšenců, kteří na projekt přispívají ve svém volném čase a utrácejí peníze svých rodin.  Milujeme to, co děláme, a milujeme naše uživatele ❤️."
-
-#. type: Bullet: '3. '
-#: content/donate/index.md
-msgid "With your support, we want to become a better, privacy-focused version of Google Maps."
-msgstr "S vaší podporou se chceme stát lepší verzí Google Maps zaměřenou na ochranu soukromí."
-
-#. type: Title ##
-#: content/donate/index.md
-#, no-wrap
-msgid "What will the money be used for?"
-msgstr "Na co budou peníze použity?"
-
-#. type: Bullet: '1. '
-#: content/donate/index.md
-msgid "We pay for fast servers, so anyone in the World can download free map data updates without delays.  It's hundreds of terabytes monthly, and the amount is growing."
-msgstr "Platíme za rychlé servery, takže kdokoli na světě může stahovat bezplatné aktualizace mapových dat bez zpoždění.  Jsou to stovky terabajtů měsíčně a jejich množství stále roste."
-
-#. type: Bullet: '2. '
-#: content/donate/index.md
-msgid "User support, bugfixing, and improving the stability of the app are at the top of our priorities.  There are [1800+ issues on GitHub][github issues], and this number is growing every day.  AppStore, Google Play, and support emails are overflooded with comments and bugs. We want to deliver a high-quality product."
-msgstr "Podpora uživatelů, oprava chyb a zlepšování stability aplikace jsou našimi hlavními prioritami.  Na GitHubu je [1800+ issues] [github issues] a toto číslo každým dnem roste.  AppStore, Google Play a e-maily podpory jsou zaplaveny komentáři a chybami. Chceme dodávat vysoce kvalitní produkt."
-
-#. type: Bullet: '3. '
-#: content/donate/index.md
-msgid "With enough money, new features can be developed faster, for example:"
-msgstr "S dostatkem peněz lze například rychleji vyvíjet nové funkce:"
-
-#. type: Bullet: '   - '
-#: content/donate/index.md
-msgid "Weekly and automated map data updates"
-msgstr "Týdenní a automatické aktualizace mapových dat"
-
-#. type: Bullet: '   - '
-#: content/donate/index.md
-msgid "Bookmarks backup and sync"
-msgstr "Zálohování a synchronizace záložek"
-
-#. type: Bullet: '   - '
-#: content/donate/index.md
-msgid "Android Auto"
-msgstr "Android Auto"
-
-#. type: Bullet: '   - '
-#: content/donate/index.md
-msgid "GPS track recorder with GPX support"
-msgstr "Záznamník stop GPS s podporou GPX"
-
-#. type: Bullet: '   - '
-#: content/donate/index.md
-msgid "Better map styles for different activities"
-msgstr "Lepší styly map pro různé činnosti"
-
-#. type: Bullet: '   - '
-#: content/donate/index.md
-msgid "Hill shading and 3D terrain"
-msgstr "Stínování kopců a 3D terén"
-
-#. type: Bullet: '   - '
-#: content/donate/index.md
-msgid "Improve the OpenStreetMap editor"
-msgstr "Vylepšení editoru OpenStreetMap"
-
-#. type: Bullet: '   - '
-#: content/donate/index.md
-msgid "Better offline address search, routing, and navigation"
-msgstr "Lepší offline vyhledávání adres, směrování a navigace"
-
-#. type: Bullet: '   - '
-#: content/donate/index.md
-msgid "Public Transport"
-msgstr "Veřejná doprava"
-
-#. type: Bullet: '   - '
-#: content/donate/index.md
-msgid "… and [many other][github issues] features you want and love"
-msgstr "... a [mnoho dalších][github issues] funkcí, které chcete a máte rádi"
-
-#. type: Title ##
-#: content/donate/index.md
-#, no-wrap
-msgid "How to donate?"
-msgstr "Jak darovat?"
-
-#. type: Plain text
-#: content/donate/index.md
-msgid "Recurring donations are the best way to ensure a relatively stable income for the project and motivate us for long-term tasks and goals. But you can also donate one time."
-msgstr "Opakované dary jsou nejlepším způsobem, jak zajistit relativně stabilní příjem projektu a motivovat nás k dlouhodobým úkolům a cílům. Můžete však přispět i jednorázově."
-
-#. type: Title ###
-#: content/donate/index.md
-#, no-wrap
-msgid "Bank Transfer"
-msgstr "Bankovním převodem"
-
-#. type: Plain text
-#: content/donate/index.md
-msgid "{{ bank_transfer() }}"
-msgstr "{{ bank_transfer() }}"
-
-#. type: Title ###
-#: content/donate/index.md
-#, no-wrap
-msgid "Crypto"
-msgstr "Kryptoměna"
-
-#. type: Plain text
-#: content/donate/index.md
-msgid "Please consider donating annually to reduce total fees."
-msgstr "Zvažte prosím možnost ročního příspěvku, abyste snížili celkové poplatky."
-
-#. type: Plain text
-#: content/donate/index.md
-msgid "{{ crypto_table() }}"
-msgstr "{{ crypto_table() }}"
-
-#. type: Title ##
-#: content/donate/index.md
-#, no-wrap
-msgid "Can you help us in any other way?"
-msgstr "Můžete nám pomoci i jinak?"
-
-#. type: Plain text
-#: content/donate/index.md
-msgid "Yes! There are many ways to support CoMaps. Please see [Support Us](@/support-us/index.md) page for more details."
-msgstr "Ano! Existuje mnoho způsobů, jak podpořit CoMaps. Více informací naleznete na stránce [Podpořte nás](@/support-us/index.cs.md)."
-
-#. type: Plain text
-#: content/donate/index.md
-#, no-wrap
-msgid ""
-"[stripe]: https://donate.organicmaps.app/ \"Donate via Stripe\"\n"
-"[github issues]: https://github.com/organicmaps/organicmaps/issues \"GitHub Issues\"\n"
 msgstr ""
-"[stripe]: https://donate.organicmaps.app/ \"Dar přes Stripe\"\n"
-"[github issues]: https://github.com/organicmaps/organicmaps/issues \"GitHub Issues\"\n"
 
-#. type: Yaml Front Matter Hash Value: description
-#: content/news/_index.md
+#. type: Yaml Front Matter Hash Value: extra services items description
+#: content/_index.md
 #, no-wrap
-msgid "Stay in touch with the latest CoMaps releases, news and updates from our team"
-msgstr "Zůstaňte v kontaktu s nejnovějšími verzemi CoMaps, novinkami a aktualizacemi od našeho týmu"
+msgid "Plan and navigate your trip abroad without the need for mobile data, and search waypoints while on a distant hike.\n"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: extra services items title
+#: content/_index.md
+#, no-wrap
+msgid "Offline Search and Route"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: extra services items description
+#: content/_index.md
+#, no-wrap
+msgid "The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information.\n"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: extra services items title
+#: content/_index.md
+#, no-wrap
+msgid "No Data Collection"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: extra services items description
+#: content/_index.md
+#, no-wrap
+msgid "Efficiently uses the battery, doesn’t drain your battery like other navigation apps.\n"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: extra services items title
+#: content/_index.md
+#, no-wrap
+msgid "Save Your Battery"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: extra services items description
+#: content/_index.md
+#, no-wrap
+msgid "People like you helped build the app by adding locations to <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on Codeberg in the open-source community.\n"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: extra services items title
+#: content/_index.md
+#, no-wrap
+msgid "Free and Built by the Community"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/_index.md
+#, no-wrap
+msgid "Hike, Bike, Drive Offline Navigate with Privacy"
+msgstr ""
 
 #. type: Yaml Front Matter Hash Value: extra menu_title
 #: content/news/_index.md
 #, no-wrap
 msgid "News"
-msgstr "Novinky"
+msgstr ""
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/news/_index.md
 #, no-wrap
-msgid "CoMaps: Latest news and updates from our team"
-msgstr "CoMaps: Nejnovější zprávy a aktualizace od našeho týmu"
+msgid "News and Releases"
+msgstr ""
 
 #. type: Yaml Front Matter Hash Value: description
-#: content/privacy/index.md
+#: content/community/index.md
 #, no-wrap
-msgid "No tracking, no ads, no data collection, no statistics collection, no spyware"
-msgstr "Žádné sledování, žádné reklamy, žádné shromažďování dat, žádné shromažďování statistik, žádný spyware"
+msgid "Discover the CoMaps community, share ideas, propose new features, contribute code, provide support, translate, do marketing, design, and shape the product."
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: extra donate description
+#: content/community/index.md
+#, no-wrap
+msgid "The app runs on your donations, help improve it"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/community/index.md content/donate/index.md
+#, no-wrap
+msgid "Donate"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: extra features description
+#: content/community/index.md
+#, no-wrap
+msgid "Report bugs, discuss idea, and propose features"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: extra features title
+#: content/community/index.md
+#, no-wrap
+msgid "**Report** Bugs"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: extra features description
+#: content/community/index.md
+#, no-wrap
+msgid "Develop new features, help fix bugs, and review code"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: extra features title
+#: content/community/index.md
+#, no-wrap
+msgid "**Develop** Functionality"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: extra features description
+#: content/community/index.md
+#, no-wrap
+msgid "Shape the direction of the product experience"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: extra features title
+#: content/community/index.md
+#, no-wrap
+msgid "**Design** Interface"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: extra features description
+#: content/community/index.md
+#, no-wrap
+msgid "Add translations to make it accessible for more people around the world"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: extra features title
+#: content/community/index.md
+#, no-wrap
+msgid "**Translate** Text"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: extra features description
+#: content/community/index.md
+#, no-wrap
+msgid "Add info about shops, points of interest, trails, and public transport to OpenStreetMap"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: extra features title
+#: content/community/index.md
+#, no-wrap
+msgid "**Add** Place Info"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: extra features description
+#: content/community/index.md
+#, no-wrap
+msgid "Help people use the app, and answer questions"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: extra features title
+#: content/community/index.md
+#, no-wrap
+msgid "**Help** Support"
+msgstr ""
 
 #. type: Yaml Front Matter Hash Value: extra menu_title
+#: content/community/index.md
+#, no-wrap
+msgid "Community"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/community/index.md
+#, no-wrap
+msgid "Community - Created and maintained by people like you"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: description
+#: content/donate/index.md
+#, no-wrap
+msgid "Donate and create better maps together!"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: extra funding items title
+#: content/donate/index.md
+#, no-wrap
+msgid "Developers"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: extra funding items title
+#: content/donate/index.md
+#, no-wrap
+msgid "Infrastructure"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: extra funding items title
+#: content/donate/index.md
+#, no-wrap
+msgid "Support"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: extra funding title
+#: content/donate/index.md
+#, no-wrap
+msgid "How will funding be used?"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: extra reviews title
+#: content/donate/index.md
+#, no-wrap
+msgid "People say"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: description
+#: content/support/_index.md
+#, no-wrap
+msgid "Need assistance? Search for answers to common questions. Get the support you need and connect with others in the community for help."
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/support/_index.md
+#, no-wrap
+msgid "Support Search - Find Answer and Discover Community Support"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: description
+#: content/about-us/index.md
+#, no-wrap
+msgid ""
+"Free and open navigation with privacy  \n"
+"Built by the community\n"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: extra about title
+#: content/about-us/index.md
+#, no-wrap
+msgid "Free and open navigation with privacy, built by the community"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: extra history title
+#: content/about-us/index.md
+#, no-wrap
+msgid "History"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: extra vm items title
+#: content/about-us/index.md
+#, no-wrap
+msgid "Mission"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: extra vm items title
+#: content/about-us/index.md
+#, no-wrap
+msgid "Vision"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/about-us/index.md
+#, no-wrap
+msgid "About Us"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: description
+#: content/download/index.md
+#, no-wrap
+msgid "Unlock the potential of navigation! Discover offline maps, privacy-centric features, and a community-driven app"
+msgstr ""
+
+#. type: Yaml Front Matter Array Element: extra steps items
+#: content/download/index.md
+#, no-wrap
+msgid "Offline Maps"
+msgstr ""
+
+#. type: Yaml Front Matter Array Element: extra steps items
+#: content/download/index.md
+#, no-wrap
+msgid "Privacy-Centric"
+msgstr ""
+
+#. type: Yaml Front Matter Array Element: extra steps items
+#: content/download/index.md
+#, no-wrap
+msgid "No data collection"
+msgstr ""
+
+#. type: Yaml Front Matter Array Element: extra steps items
+#: content/download/index.md
+#, no-wrap
+msgid "Community-Driven"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: extra steps title
+#: content/download/index.md
+#, no-wrap
+msgid "Already downloaded?"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/download/index.md
+#, no-wrap
+msgid "Download CoMaps"
+msgstr ""
+
+#. type: Plain text
+#: content/download/index.md
+msgid ""
+"We're working on getting the first app releases out soon, please stay tuned!"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: description
+#: content/api/index.md
+#, no-wrap
+msgid "To visit api please click"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: extra menu_title
+#: content/api/index.md
+#, no-wrap
+msgid "API"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/api/index.md
+#, no-wrap
+msgid "API Page"
+msgstr ""
+
+#. type: Plain text
+#: content/api/index.md
+msgid "To visit api page click here: [omaps.app/api](https://omaps.app/api)"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: title
 #: content/privacy/index.md
 #, no-wrap
 msgid "Privacy"
-msgstr "Soukromí"
-
-#. type: Yaml Front Matter Hash Value: title
-#: content/privacy/index.md
-#, no-wrap
-msgid "CoMaps: Privacy Policy"
-msgstr "CoMaps: Zásady ochrany osobních údajů"
+msgstr ""
 
 #. type: Plain text
 #: content/privacy/index.md
-msgid "CoMaps respects your privacy and DOES NOT TRACK YOU."
-msgstr "CoMaps respektuje vaše soukromí a NESLEDUJE VÁS."
+msgid ""
+"At CoMaps, we respect your privacy. CoMaps does not have any form of "
+"identification of people, advertising, or personal data collection."
+msgstr ""
 
 #. type: Plain text
 #: content/privacy/index.md
-msgid "Unlike most other applications, there is no tracking, no ads, no spyware, no data and statistics collection in CoMaps."
-msgstr "Na rozdíl od většiny ostatních aplikací neobsahuje aplikace CoMaps žádné sledování, reklamy, spyware ani sběr dat a statistik."
-
-#. type: Plain text
-#: content/privacy/index.md
-msgid "Stay away from Big Tech's prying eyes!"
-msgstr "Držte se dál od zvědavých očí velkých technologických firem!"
+msgid "CoMaps does not track you."
+msgstr ""
 
 #. type: Plain text
 #: content/privacy/index.md content/terms/index.md
-msgid "If you have any questions or suggestions, please contact us at [legal@organicmaps.app](mailto:legal@organicmaps.app)."
-msgstr "Máte-li jakékoli dotazy nebo návrhy, kontaktujte nás prosím na adrese [legal@organicmaps.app](mailto:legal@organicmaps.app)."
+msgid ""
+"If you have any questions or suggestions, please contact us at legal@comaps."
+"app"
+msgstr ""
 
 #. type: Plain text
 #: content/privacy/index.md
-#, no-wrap
-msgid "<sub>This policy is effective as of 2021-04-24.</sub>\n"
-msgstr "<sub>Tyto zásady jsou účinné od 2021-04-24.</sub>\n"
-
-#. type: Yaml Front Matter Hash Value: description
-#: content/support-us/index.md
-#, no-wrap
-msgid "Different ways to support the development of our free application"
-msgstr "Různé způsoby podpory vývoje naší bezplatné aplikace"
-
-#. type: Yaml Front Matter Hash Value: extra menu_title
-#: content/support-us/index.md
-#, no-wrap
-msgid "Support Us"
-msgstr "Podpořte nás"
+msgid "Policy effective: 2025-05-01"
+msgstr ""
 
 #. type: Yaml Front Matter Hash Value: title
-#: content/support-us/index.md
-#, no-wrap
-msgid "Support the development of CoMaps"
-msgstr "Podpora vývoje CoMaps"
-
-#. type: Plain text
-#: content/support-us/index.md
-msgid "CoMaps is a free, open-source app. It is free from ads, it does not collect your personal information, and it is developed by a few enthusiasts with the help of the community."
-msgstr "CoMaps je bezplatná aplikace s otevřeným zdrojovým kódem. Neobsahuje reklamy, neshromažďuje vaše osobní údaje a vyvíjí ji několik nadšenců s pomocí komunity."
-
-#. type: Plain text
-#: content/support-us/index.md
-msgid "There are different ways to support the development:"
-msgstr "Vývoj lze podpořit různými způsoby:"
-
-#. type: Bullet: '- '
-#: content/support-us/index.md
-msgid "[Donate](@/donate/index.md)! Every dollar or euro counts and helps us to pay for servers and scale."
-msgstr "[Darujte](@/donate/index.cs.md)! Každý dolar nebo euro se počítá a pomáhá nám zaplatit servery a náklady."
-
-#. type: Bullet: '- '
-#: content/support-us/index.md
-msgid "Report bugs and share ideas on our [GitHub][github] or via [email][email]."
-msgstr "Nahlašujte chyby a sdílejte nápady na našem [GitHubu][github] nebo prostřednictvím [emailu][email]."
-
-#. type: Bullet: '- '
-#: content/support-us/index.md
-msgid "Help us to [fix bugs][contributing] and do code reviews if you are a developer. Every fixed small issue makes someone happier."
-msgstr "Pokud jste vývojář, pomozte nám [opravovat chyby][contributing] a provádět kontrolu kódu. Každý opravený malý problém udělá někoho šťastnějším."
-
-#. type: Bullet: '- '
-#: content/support-us/index.md
-msgid "[Translate][translations] missing strings in the app's interface."
-msgstr "[Přeložte][translations] chybějící řetězce v rozhraní aplikace."
-
-#. type: Bullet: '- '
-#: content/support-us/index.md
-msgid "Translate [App Store][translations_appstore] and [Android][translations_googleplay] descriptions into your language."
-msgstr "Přeložte popisy [App Store][translations_appstore] a [Android][translations_googleplay] do svého jazyka."
-
-#. type: Bullet: '- '
-#: content/support-us/index.md
-msgid "[Translate][translations_website] our web site into your language."
-msgstr "[Přeložte][translations_website] naše webové stránky do vašeho jazyka."
-
-#. type: Bullet: '- '
-#: content/support-us/index.md
-msgid "Join the [OpenStreetMap][openstreetmap] community and contribute to the maps data."
-msgstr "Připojte se ke komunitě [OpenStreetMap][openstreetmap] a přispívejte k datům map."
-
-#. type: Bullet: '- '
-#: content/support-us/index.md
-msgid "Fix red cities found by our [public transport validator][public_transport_validator], for subways and light rails to work in the app."
-msgstr "Oprava červených měst nalezených naším validátorem [public transport_validator][public_transport_validator], aby v aplikaci fungovalo metro a rychlodráha."
-
-#. type: Bullet: '- '
-#: content/support-us/index.md
-msgid "Support other users on [GitHub][issues], [Telegram][telegram_chat], [Matrix][matrix], [Twitter][twitter], [Facebook][facebook], [Instagram][instagram]."
-msgstr "Podpořte ostatní uživatele na [GitHubu][issues], [Telegramu][telegram_chat], [matrixu][matrix], [Twitteru][twitter], [Facebooku][facebook], [Instagramu][instagram]."
-
-#. type: Bullet: '- '
-#: content/support-us/index.md
-msgid "Tell everyone about CoMaps. A bigger community is a stronger community."
-msgstr "Řekněte všem o CoMaps. Větší komunita je silnější komunita."
-
-#. type: Bullet: '- '
-#: content/support-us/index.md
-msgid "Rate us in [Google Play][googleplay_review], [Apple Store][appstore_review], [Huawei Appgallery][appgallery_review]."
-msgstr "Ohodnoťte nás v [Google Play][googleplay_review], [Apple Store][appstore_review], [Huawei Appgallery][appgallery_review]."
-
-#. type: Bullet: '- '
-#: content/support-us/index.md
-msgid "Any help is welcome!"
-msgstr "Jakákoli pomoc je vítána!"
-
-#. type: Plain text
-#: content/support-us/index.md
-msgid "Our small team is very grateful for your feedback and support. CoMaps would not be possible without our users ❤️."
-msgstr "Náš malý tým je velmi vděčný za vaši zpětnou vazbu a podporu. CoMaps by nebyly možné bez našich uživatelů ❤️."
-
-#. type: Yaml Front Matter Hash Value: description
-#: content/terms/index.md
-#, no-wrap
-msgid "Terms of use for CoMaps application"
-msgstr "Podmínky používání aplikace CoMaps"
-
-#. type: Yaml Front Matter Hash Value: extra menu_title
 #: content/terms/index.md
 #, no-wrap
 msgid "Terms"
-msgstr "Podmínky"
-
-#. type: Yaml Front Matter Hash Value: title
-#: content/terms/index.md
-#, no-wrap
-msgid "CoMaps: terms"
-msgstr "CoMaps: Podmínky"
-
-#. type: Plain text
-#: content/terms/index.md
-msgid "This app is licensed under the Apache License, Version 2.0 (the \"License\"); you may not use this application except in compliance with the License."
-msgstr "Tato aplikace je licencována pod licencí Apache License, verze 2.0 (dále jen \"Licence\"); tuto aplikaci můžete používat pouze v souladu s Licencí."
-
-#. type: Plain text
-#: content/terms/index.md
-msgid "You may obtain a copy of the License at [http://www.apache.org/licenses/LICENSE-2.0][license]"
-msgstr "Kopii licence můžete získat na adrese [http://www.apache.org/licenses/LICENSE-2.0][license]"
-
-#. type: Plain text
-#: content/terms/index.md
-msgid "Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License."
-msgstr "Pokud to nevyžadují platné právní předpisy nebo to není písemně dohodnuto, je software distribuovaný v rámci licence distribuován tak, jak je, BEZ ZÁRUK A PODMÍNEK JAKÉHOKOLI DRUHU, ať už výslovných nebo předpokládaných. Konkrétní znění upravující oprávnění a omezení v rámci Licence naleznete v Licenci."
-
-#. type: Plain text
-#: content/terms/index.md
-msgid "Most libraries in the following directories on [GitHub][github] made by other people and organizations and licensed in different ways:"
-msgstr "Většina knihoven v následujících adresářích na [GitHub][github] je vytvořených jinými lidmi a organizacemi a licencovaných různými způsoby:"
-
-#. type: Bullet: '- '
-#: content/terms/index.md
-msgid "3party"
-msgstr "3party"
-
-#. type: Bullet: '- '
-#: content/terms/index.md
-msgid "tools"
-msgstr "tools"
-
-#. type: Plain text
-#: content/terms/index.md
-msgid "Please refer to their LICENSE, COPYING or NOTICE files for terms of use."
-msgstr "Podmínky použití naleznete v jejich souborech LICENCE, KOPÍROVÁNÍ nebo UPOZORNĚNÍ."
-
-#. type: Plain text
-#: content/terms/index.md
-msgid "See also [data/copyright.html][copyright] file for a full list of copyright notices for CoMaps application."
-msgstr "Úplný seznam upozornění na autorská práva pro aplikaci CoMaps najdete také v souboru [data/copyright.html][copyright]."
-
-#. type: Plain text
-#: content/terms/index.md
-#, no-wrap
-msgid ""
-"[github]: https://github.com/organicmaps/organicmaps\n"
-"[license]: http://www.apache.org/licenses/LICENSE-2.0\n"
-"[copyright]: https://github.com/organicmaps/organicmaps/blob/master/data/copyright.html\n"
 msgstr ""
-"[github]: https://github.com/organicmaps/organicmaps\n"
-"[license]: http://www.apache.org/licenses/LICENSE-2.0\n"
-"[copyright]: https://github.com/organicmaps/organicmaps/blob/master/data/copyright.html\n"
 
-#. type: Hash Value: address
-#: translations.yaml
-#, no-wrap
-msgid "Address"
-msgstr "Adresa"
+#. type: Plain text
+#: content/terms/index.md
+msgid ""
+"This app is licensed under the Apache License, Version 2.0 (the "
+"\"License\"); This application cannot be used except in compliance with the "
+"License."
+msgstr ""
 
-#. type: Hash Value: back
-#: translations.yaml
+#. type: Plain text
+#: content/terms/index.md
 #, no-wrap
-msgid "Back to News"
-msgstr "Zpět na novinky"
+msgid "License: [www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0)\n"
+msgstr ""
 
-#. type: Hash Value: contact
-#: translations.yaml
-#, no-wrap
-msgid "Contact Us"
-msgstr "Kontaktujte nás"
+#. type: Plain text
+#: content/terms/index.md
+msgid ""
+"Unless required by applicable law or agreed to in writing, software "
+"distributed under the License is distributed on an \"AS IS\" BASIS, WITHOUT "
+"WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the "
+"License for the specific language governing permissions and limitations "
+"under the License."
+msgstr ""
 
-#. type: Hash Value: install-appgallery
-#: translations.yaml
-#, no-wrap
-msgid "Install CoMaps from Huawei AppGallery"
-msgstr "Instalace aplikace CoMaps z galerie aplikací Huawei"
+#. type: Plain text
+#: content/terms/index.md
+msgid ""
+"Many libraries and 3rd party tools included into [CoMaps repository](https://"
+"codeberg.org/comaps/comaps) were developed by multiple people and "
+"organizations, and licensed in different ways.  Please refer to their "
+"LICENSE, COPYING or NOTICE files for terms of use."
+msgstr ""
 
-#. type: Hash Value: install-appstore
-#: translations.yaml
-#, no-wrap
-msgid "Install CoMaps from the AppStore"
-msgstr "Instalace aplikace CoMaps z AppStore"
-
-#. type: Hash Value: install-fdroid
-#: translations.yaml
-#, no-wrap
-msgid "Install CoMaps from F-Droid"
-msgstr "Instalace CoMaps z F-Droid"
-
-#. type: Hash Value: install-googleplay
-#: translations.yaml
-#, no-wrap
-msgid "Install CoMaps from Google Play"
-msgstr "Instalace CoMaps z Google Play"
-
-#. type: Hash Value: language
-#: translations.yaml
-#, no-wrap
-msgid "English"
-msgstr "Čeština"
-
-#. type: Hash Value: name
-#: translations.yaml
-#, no-wrap
-msgid "Name"
-msgstr "Název"
-
-#. type: Hash Value: token
-#: translations.yaml
-#, no-wrap
-msgid "Token"
-msgstr "Token"
-
-#, no-wrap
-#~ msgid "There are different ways to donate:"
-#~ msgstr "Darovat můžete různými způsoby:"
+#. type: Plain text
+#: content/terms/index.md
+msgid ""
+"See [data/copyright.html](https://codeberg.org/comaps/comaps/src/branch/main/"
+"data/copyright.html) file for a full list of copyright notices for the "
+"CoMaps application."
+msgstr ""

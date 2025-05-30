@@ -1,9 +1,9 @@
 ---
-description: "Permanezca al tanto de los últimos lanzamientos de CoMaps, las noticias y las actualizaciones de nuestro equipo"
 extra:
-  menu_title: Noticias
+  menu_title: News
 page_template: news_post.html
+paginate_by: 50
 sort_by: date
 template: news.html
-title: "CoMaps: noticias y actualizaciones más recientes de nuestro equipo"
+title: "News and Releases"
 ---

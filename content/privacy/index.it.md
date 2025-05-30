@@ -1,20 +1,16 @@
 ---
-title: "CoMaps: Informativa sulla Privacy"
-description: "Nessun tracciamento, nessuna pubblicità, nessuna raccolta di dati, nessuno spyware"
-weight: 900
 extra:
   menu_title: Privacy
+title: Privacy
+weight: 900
 ---
 
-CoMaps rispetta la vostra privacy e NON VI TRACCIA.
+At CoMaps, we respect your privacy. CoMaps does not have any form of
+identification of people, advertising, or personal data collection.
 
-Nessun tracciamento, nessuna pubblicità, nessuna raccolta di dati, nessun spyware.
+CoMaps does not track you.
 
-Rifiuta la sorveglianza - difendi la tua libertà.
+If you have any questions or suggestions, please contact us at
+legal@comaps.app
 
-Stai lontano dagli occhi indiscreti dei Big Tech!
-
-Se avete domande o suggerimenti, contattateci a
-[legal@organicmaps.app](mailto:legal@organicmaps.app).
-
-<sub>Questa politica è in vigore dal 2021-04-24.</sub>
+Policy effective: 2025-05-01

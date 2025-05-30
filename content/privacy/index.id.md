@@ -1,22 +1,16 @@
 ---
-description: "Tanpa pelacakan, tanpa iklan, tanpa pengumpulan data, tanpa pengumpulan statistik, tanpa perangkat lunak pengintai"
 extra:
-  menu_title: Privasi
-title: "CoMaps: Kebijakan Privasi"
+  menu_title: Privacy
+title: Privacy
 weight: 900
 ---
 
-CoMaps menghormati privasi Anda dan TIDAK MELACAK ANDA.
+At CoMaps, we respect your privacy. CoMaps does not have any form of
+identification of people, advertising, or personal data collection.
 
-Tidak seperti kebanyakan aplikasi lain, ini tidak memiliki pelacakan, tanpa
-iklan, tanpa perangkat lunak pengintai, tanpa pengumpulan data dan statistik
-di CoMaps.
+CoMaps does not track you.
 
-Tolak pengawasan — rangkul kebebasan Anda.
+If you have any questions or suggestions, please contact us at
+legal@comaps.app
 
-Jauhi mata-mata Teknologi Besar!
-
-Jika Anda memiliki pertanyaan atau saran, silakan hubungi kami di
-[legal@organicmaps.app](mailto:legal@organicmaps.app).
-
-<sub>Kebijakan ini berlaku mulai 2021-04-24.</sub>
+Policy effective: 2025-05-01

@@ -1,20 +1,16 @@
 ---
-title: "CoMaps: Gizlilik Politikası"
-description: "Takip yok, reklam yok, veri toplama yok, casusluk yok"
-weight: 900
 extra:
-  menu_title: Gizlilik
+  menu_title: Privacy
+title: Privacy
+weight: 900
 ---
 
-CoMaps gizliliğinize saygı duyar ve SİZİ TAKİP ETMEZ.
+At CoMaps, we respect your privacy. CoMaps does not have any form of
+identification of people, advertising, or personal data collection.
 
-Takip yok, reklam yok, veri toplama yok, casusluk yok.
+CoMaps does not track you.
 
-Gözetlemeyi reddedin - özgürlüğünüzü kucaklayın.
+If you have any questions or suggestions, please contact us at
+legal@comaps.app
 
-Big Tech'in meraklı gözlerinden uzak durun!
-
-Eğer herhangi bir sorunuz veya öneriniz varsa lütfen [legal@organicmaps.app](mailto:legal@organicmaps.app)
-adresinden bizimle iletişime geçin.
-
-<sub>Bu politika 2021-04-24 itibarıyla geçerlidir.</sub>
+Policy effective: 2025-05-01

@@ -1,38 +1,29 @@
 ---
-description: "Ketentuan penggunaan untuk aplikasi CoMaps"
 extra:
-  menu_title: Persyaratan
-title: "CoMaps: persyaratan"
+  menu_title: Terms
+title: Terms
 weight: 1000
 ---
 
-Aplikasi ini dilisensikan di bawah lisensi Apache, Versi 2.0 ("Lisensi");
-Anda tidak boleh menggunakan aplikasi ini kecuali sesuai dengan Lisensi.
+This app is licensed under the Apache License, Version 2.0 (the "License");
+This application cannot be used except in compliance with the License.
 
-Anda dapat mendapatkan salinan Lisensi di
-[http://www.apache.org/licenses/LICENSE-2.0][license]
+License: [www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0)
 
-Kecuali diwajibkan oleh hukum yang berlaku atau disetujui secara tertulis,
-perangkat lunak yang didistribusikan berdasarkan Lisensi didistribusikan
-dengan DASAR "SEBAGAIMANA ADANYA", TANPA JAMINAN ATAU KONDISI APA PUN, baik
-tersurat maupun tersirat. Lihat Lisensi untuk bahasa spesifik yang mengatur
-izin dan batasan berdasarkan Lisensi.
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
+WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
+License for the specific language governing permissions and limitations
+under the License.
 
-Sebagian besar pustaka dalam direktori berikut di [GitHub][github] dibuat
-oleh orang dan organisasi lain dan dilisensikan dengan cara yang berbeda:
+Many libraries and 3rd party tools included into [CoMaps
+repository](https://codeberg.org/comaps/comaps) were developed by multiple
+people and organizations, and licensed in different ways. Please refer to
+their LICENSE, COPYING or NOTICE files for terms of use.
 
-- 3party
-- tools
+See
+[data/copyright.html](https://codeberg.org/comaps/comaps/src/branch/main/data/copyright.html)
+file for a full list of copyright notices for the CoMaps application.
 
-Silakan merujuk ke berkas LISENSI, COPYING, atau NOTICE mereka untuk
-ketentuan penggunaan.
-
-Lihat juga berkas [data/copyright.html][copyright] untuk daftar lengkap
-pemberitahuan hak cipta untuk aplikasi CoMaps.
-
-Jika Anda memiliki pertanyaan atau saran, silakan hubungi kami di
-[legal@organicmaps.app](mailto:legal@organicmaps.app).
-
-[github]: https://github.com/organicmaps/organicmaps
-[license]: http://www.apache.org/licenses/LICENSE-2.0
-[copyright]: https://github.com/organicmaps/organicmaps/blob/master/data/copyright.html
+If you have any questions or suggestions, please contact us at
+legal@comaps.app

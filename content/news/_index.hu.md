@@ -1,9 +1,9 @@
 ---
-description: "Maradjon kapcsolatban a legfrissebb CoMaps kiadványokkal, hírekkel és frissítésekkel csapatunktól"
 extra:
-  menu_title: Hírek
+  menu_title: News
 page_template: news_post.html
+paginate_by: 50
 sort_by: date
 template: news.html
-title: "CoMaps: Legfrissebb hírek és újdonságok a csapatunktól"
+title: "News and Releases"
 ---

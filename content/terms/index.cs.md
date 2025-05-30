@@ -1,38 +1,29 @@
 ---
-description: "Podmínky používání aplikace CoMaps"
 extra:
-  menu_title: Podmínky
-title: "CoMaps: Podmínky"
+  menu_title: Terms
+title: Terms
 weight: 1000
 ---
 
-Tato aplikace je licencována pod licencí Apache License, verze 2.0 (dále jen
-"Licence"); tuto aplikaci můžete používat pouze v souladu s Licencí.
+This app is licensed under the Apache License, Version 2.0 (the "License");
+This application cannot be used except in compliance with the License.
 
-Kopii licence můžete získat na adrese
-[http://www.apache.org/licenses/LICENSE-2.0][license]
+License: [www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0)
 
-Pokud to nevyžadují platné právní předpisy nebo to není písemně dohodnuto,
-je software distribuovaný v rámci licence distribuován tak, jak je, BEZ
-ZÁRUK A PODMÍNEK JAKÉHOKOLI DRUHU, ať už výslovných nebo
-předpokládaných. Konkrétní znění upravující oprávnění a omezení v rámci
-Licence naleznete v Licenci.
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
+WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
+License for the specific language governing permissions and limitations
+under the License.
 
-Většina knihoven v následujících adresářích na [GitHub][github] je
-vytvořených jinými lidmi a organizacemi a licencovaných různými způsoby:
+Many libraries and 3rd party tools included into [CoMaps
+repository](https://codeberg.org/comaps/comaps) were developed by multiple
+people and organizations, and licensed in different ways. Please refer to
+their LICENSE, COPYING or NOTICE files for terms of use.
 
-- 3party
-- tools
+See
+[data/copyright.html](https://codeberg.org/comaps/comaps/src/branch/main/data/copyright.html)
+file for a full list of copyright notices for the CoMaps application.
 
-Podmínky použití naleznete v jejich souborech LICENCE, KOPÍROVÁNÍ nebo
-UPOZORNĚNÍ.
-
-Úplný seznam upozornění na autorská práva pro aplikaci CoMaps najdete
-také v souboru [data/copyright.html][copyright].
-
-Máte-li jakékoli dotazy nebo návrhy, kontaktujte nás prosím na adrese
-[legal@organicmaps.app](mailto:legal@organicmaps.app).
-
-[github]: https://github.com/organicmaps/organicmaps
-[license]: http://www.apache.org/licenses/LICENSE-2.0
-[copyright]: https://github.com/organicmaps/organicmaps/blob/master/data/copyright.html
+If you have any questions or suggestions, please contact us at
+legal@comaps.app

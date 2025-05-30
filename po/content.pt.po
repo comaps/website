@@ -1,4 +1,4 @@
-# Hindi translations for CoMaps Website package
+# Portuguese translations for CoMaps Website package
 # Copyright (C) 2025 CoMaps
 # This file is distributed under the same license as the CoMaps Website package.
 # Automatically generated, 2025.
@@ -8,10 +8,11 @@ msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
-"Language: hi\n"
+"Language: pt\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -325,8 +326,7 @@ msgstr ""
 
 #. type: Plain text
 #: content/download/index.md
-msgid ""
-"We're working on getting the first app releases out soon, please stay tuned!"
+msgid "We're working on getting the first app releases out soon, please stay tuned!"
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: description
@@ -360,9 +360,7 @@ msgstr ""
 
 #. type: Plain text
 #: content/privacy/index.md
-msgid ""
-"At CoMaps, we respect your privacy. CoMaps does not have any form of "
-"identification of people, advertising, or personal data collection."
+msgid "At CoMaps, we respect your privacy. CoMaps does not have any form of identification of people, advertising, or personal data collection."
 msgstr ""
 
 #. type: Plain text
@@ -372,9 +370,7 @@ msgstr ""
 
 #. type: Plain text
 #: content/privacy/index.md content/terms/index.md
-msgid ""
-"If you have any questions or suggestions, please contact us at legal@comaps."
-"app"
+msgid "If you have any questions or suggestions, please contact us at legal@comaps.app"
 msgstr ""
 
 #. type: Plain text
@@ -390,10 +386,7 @@ msgstr ""
 
 #. type: Plain text
 #: content/terms/index.md
-msgid ""
-"This app is licensed under the Apache License, Version 2.0 (the "
-"\"License\"); This application cannot be used except in compliance with the "
-"License."
+msgid "This app is licensed under the Apache License, Version 2.0 (the \"License\"); This application cannot be used except in compliance with the License."
 msgstr ""
 
 #. type: Plain text
@@ -404,27 +397,15 @@ msgstr ""
 
 #. type: Plain text
 #: content/terms/index.md
-msgid ""
-"Unless required by applicable law or agreed to in writing, software "
-"distributed under the License is distributed on an \"AS IS\" BASIS, WITHOUT "
-"WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the "
-"License for the specific language governing permissions and limitations "
-"under the License."
+msgid "Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License."
 msgstr ""
 
 #. type: Plain text
 #: content/terms/index.md
-msgid ""
-"Many libraries and 3rd party tools included into [CoMaps repository](https://"
-"codeberg.org/comaps/comaps) were developed by multiple people and "
-"organizations, and licensed in different ways.  Please refer to their "
-"LICENSE, COPYING or NOTICE files for terms of use."
+msgid "Many libraries and 3rd party tools included into [CoMaps repository](https://codeberg.org/comaps/comaps) were developed by multiple people and organizations, and licensed in different ways.  Please refer to their LICENSE, COPYING or NOTICE files for terms of use."
 msgstr ""
 
 #. type: Plain text
 #: content/terms/index.md
-msgid ""
-"See [data/copyright.html](https://codeberg.org/comaps/comaps/src/branch/main/"
-"data/copyright.html) file for a full list of copyright notices for the "
-"CoMaps application."
+msgid "See [data/copyright.html](https://codeberg.org/comaps/comaps/src/branch/main/data/copyright.html) file for a full list of copyright notices for the CoMaps application."
 msgstr ""

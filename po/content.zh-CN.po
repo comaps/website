@@ -1,4 +1,4 @@
-# Hindi translations for CoMaps Website package
+# Language zh-CN translations for CoMaps Website package
 # Copyright (C) 2025 CoMaps
 # This file is distributed under the same license as the CoMaps Website package.
 # Automatically generated, 2025.
@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
-"Language: hi\n"
+"Language: zh-CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"

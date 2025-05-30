@@ -278,7 +278,6 @@ inv_code_title = "Contribute Code"
 inv_code_text = "Build the app used by people around the world"
 inv_info_title = "Add Place Info"
 inv_info_text = "Add info around you, and make maps better for everyone"
-
 [languages.fr]
 [languages.fr.translations]
 address = "Addresse"
@@ -345,7 +344,6 @@ inv_code_title = "Contribute Code"
 inv_code_text = "Build the app used by people around the world"
 inv_info_title = "Add Place Info"
 inv_info_text = "Add info around you, and make maps better for everyone"
-
 [languages.it]
 [languages.it.translations]
 address = "Indirizzi"
@@ -412,7 +410,6 @@ inv_code_title = "Contribute Code"
 inv_code_text = "Build the app used by people around the world"
 inv_info_title = "Add Place Info"
 inv_info_text = "Add info around you, and make maps better for everyone"
-
 [languages.pl]
 [languages.pl.translations]
 address = "Adres"
@@ -479,7 +476,6 @@ inv_code_title = "Contribute Code"
 inv_code_text = "Build the app used by people around the world"
 inv_info_title = "Add Place Info"
 inv_info_text = "Add info around you, and make maps better for everyone"
-
 [languages.ru]
 [languages.ru.translations]
 address = "Адрес"
@@ -546,7 +542,6 @@ inv_code_title = "Contribute Code"
 inv_code_text = "Build the app used by people around the world"
 inv_info_title = "Add Place Info"
 inv_info_text = "Add info around you, and make maps better for everyone"
-
 [languages.tr]
 [languages.tr.translations]
 address = "Adres"
@@ -613,7 +608,6 @@ inv_code_title = "Contribute Code"
 inv_code_text = "Build the app used by people around the world"
 inv_info_title = "Add Place Info"
 inv_info_text = "Add info around you, and make maps better for everyone"
-
 [languages.id]
 [languages.id.translations]
 address = "Alamat"
@@ -680,7 +674,6 @@ inv_code_title = "Contribute Code"
 inv_code_text = "Build the app used by people around the world"
 inv_info_title = "Add Place Info"
 inv_info_text = "Add info around you, and make maps better for everyone"
-
 [languages.cs]
 [languages.cs.translations]
 address = "Adresa"
@@ -747,7 +740,6 @@ inv_code_title = "Contribute Code"
 inv_code_text = "Build the app used by people around the world"
 inv_info_title = "Add Place Info"
 inv_info_text = "Add info around you, and make maps better for everyone"
-
 [languages.pt-BR.translations]
 address = "Endereço"
 back = "Voltar às Notícias"
@@ -813,7 +805,6 @@ inv_code_title = "Contribute Code"
 inv_code_text = "Build the app used by people around the world"
 inv_info_title = "Add Place Info"
 inv_info_text = "Add info around you, and make maps better for everyone"
-
 [languages.es.translations]
 address = "Dirección"
 back = "Volver a Noticias"
@@ -879,7 +870,6 @@ inv_code_title = "Contribute Code"
 inv_code_text = "Build the app used by people around the world"
 inv_info_title = "Add Place Info"
 inv_info_text = "Add info around you, and make maps better for everyone"
-
 [languages.nl.translations]
 address = "Adres"
 back = "Terug naar Nieuws"
@@ -945,7 +935,6 @@ inv_code_title = "Contribute Code"
 inv_code_text = "Build the app used by people around the world"
 inv_info_title = "Add Place Info"
 inv_info_text = "Add info around you, and make maps better for everyone"
-
 [languages.eu.translations]
 address = "Helbidea"
 back = "Back to News"
@@ -1011,7 +1000,6 @@ inv_code_title = "Contribute Code"
 inv_code_text = "Build the app used by people around the world"
 inv_info_title = "Add Place Info"
 inv_info_text = "Add info around you, and make maps better for everyone"
-
 [languages.hu.translations]
 address = "Cím"
 back = "Vissza a Hírekhez"
@@ -1077,7 +1065,6 @@ inv_code_title = "Contribute Code"
 inv_code_text = "Build the app used by people around the world"
 inv_info_title = "Add Place Info"
 inv_info_text = "Add info around you, and make maps better for everyone"
-
 [languages.hi.translations]
 address = "पता"
 back = "ख़बरों पर वापस जाएं"
@@ -1143,7 +1130,6 @@ inv_code_title = "Contribute Code"
 inv_code_text = "Build the app used by people around the world"
 inv_info_title = "Add Place Info"
 inv_info_text = "Add info around you, and make maps better for everyone"
-
 [languages.uk.translations]
 address = "Адреса"
 back = "Назад до Новин"
@@ -1209,7 +1195,6 @@ inv_code_title = "Contribute Code"
 inv_code_text = "Build the app used by people around the world"
 inv_info_title = "Add Place Info"
 inv_info_text = "Add info around you, and make maps better for everyone"
-
 [languages.ca.translations]
 address = "Adreça"
 back = "Torna a Notícies"
@@ -1275,7 +1260,6 @@ inv_code_title = "Contribute Code"
 inv_code_text = "Build the app used by people around the world"
 inv_info_title = "Add Place Info"
 inv_info_text = "Add info around you, and make maps better for everyone"
-
 [languages.zh-CN]
 [languages.zh-CN.translations]
 address = "地址"
@@ -1342,7 +1326,6 @@ inv_code_title = "Contribute Code"
 inv_code_text = "Build the app used by people around the world"
 inv_info_title = "Add Place Info"
 inv_info_text = "Add info around you, and make maps better for everyone"
-
 [languages.sv.translations]
 address = "Adress"
 back = "Tillbaka till nyheter"
@@ -1408,7 +1391,6 @@ inv_code_title = "Contribute Code"
 inv_code_text = "Build the app used by people around the world"
 inv_info_title = "Add Place Info"
 inv_info_text = "Add info around you, and make maps better for everyone"
-
 [languages.mr.translations]
 address = "पत्ता"
 back = "बातम्यांवर परता"
@@ -1474,7 +1456,6 @@ inv_code_title = "Contribute Code"
 inv_code_text = "Build the app used by people around the world"
 inv_info_title = "Add Place Info"
 inv_info_text = "Add info around you, and make maps better for everyone"
-
 [languages.zh-Hans.translations]
 address = "地址"
 back = "返回到新闻"
@@ -1540,7 +1521,6 @@ inv_code_title = "Contribute Code"
 inv_code_text = "Build the app used by people around the world"
 inv_info_title = "Add Place Info"
 inv_info_text = "Add info around you, and make maps better for everyone"
-
 [languages.oc.translations]
 address = "Address"
 back = "Back to News"
@@ -1606,7 +1586,6 @@ inv_code_title = "Contribute Code"
 inv_code_text = "Build the app used by people around the world"
 inv_info_title = "Add Place Info"
 inv_info_text = "Add info around you, and make maps better for everyone"
-
 [languages.af.translations]
 address = "Adres"
 back = "Terug na nuus"
@@ -1672,7 +1651,6 @@ inv_code_title = "Contribute Code"
 inv_code_text = "Build the app used by people around the world"
 inv_info_title = "Add Place Info"
 inv_info_text = "Add info around you, and make maps better for everyone"
-
 [languages.ar.translations]
 address = "العنوان"
 back = "العودة إلى الأخبار"

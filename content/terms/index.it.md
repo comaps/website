@@ -1,30 +1,29 @@
 ---
-title: "CoMaps: condizioni di utilizzo"
-description: "Condizioni d'uso dell'applicazione CoMaps"
-weight: 1000
 extra:
   menu_title: Terms
+title: Terms
+weight: 1000
 ---
 
-Questa applicazione è concessa in licenza secondo la Licenza Apache, versione 2.0 (la "Licenza");
-l'utente non può utilizzare questa applicazione se non in conformità con la Licenza.
+This app is licensed under the Apache License, Version 2.0 (the "License");
+This application cannot be used except in compliance with the License.
 
-È possibile ottenere una copia della Licenza all'indirizzo [http://www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0)
+License: [www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0)
 
-A meno che non sia richiesto dalle leggi vigenti o non sia stato concordato per iscritto, il software distribuito
-in base alla Licenza è distribuito "COSÌ COM'È", SENZA GARANZIE O
-CONDIZIONI DI ALCUN TIPO, né esplicite né implicite. Consultare la Licenza per il
-linguaggio specifico che regola le autorizzazioni e le limitazioni previste dalla Licenza.
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
+WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
+License for the specific language governing permissions and limitations
+under the License.
 
-La maggior parte delle librerie presenti nelle directory seguenti sono state realizzate da altre persone
-e organizzazioni e concesse in licenza in modi diversi:
+Many libraries and 3rd party tools included into [CoMaps
+repository](https://codeberg.org/comaps/comaps) were developed by multiple
+people and organizations, and licensed in different ways. Please refer to
+their LICENSE, COPYING or NOTICE files for terms of use.
 
-- 3party
-- tools
+See
+[data/copyright.html](https://codeberg.org/comaps/comaps/src/branch/main/data/copyright.html)
+file for a full list of copyright notices for the CoMaps application.
 
-Si prega di fare riferimento ai loro file di LICENZA, COPIA o AVVISO per le condizioni di utilizzo.
-
-Vedere anche [data/copyright.html](https://github.com/organicmaps/organicmaps/blob/master/data/copyright.html)
-per un elenco completo delle note di copyright per l'applicazione CoMaps.
-
-Se avete domande o suggerimenti, contattateci all'indirizzo [legal@organicmaps.app](mailto:legal@organicmaps.app).
+If you have any questions or suggestions, please contact us at
+legal@comaps.app

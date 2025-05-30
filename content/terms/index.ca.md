@@ -1,39 +1,29 @@
 ---
-description: "Condicions d’ús de l’aplicació CoMaps"
 extra:
-  menu_title: Condicions
-title: "CoMaps: condicions"
+  menu_title: Terms
+title: Terms
 weight: 1000
 ---
 
-Aquesta aplicació sota la Llicència Apache, Versió 2.0 (la «Llicència»);
-només podreu fer servir aquesta aplicació si compliu amb la Llicència.
+This app is licensed under the Apache License, Version 2.0 (the "License");
+This application cannot be used except in compliance with the License.
 
-Podeu obtenir una còpia de la Llicència a:
-[http://www.apache.org/licenses/license-2.0][license]
+License: [www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0)
 
-Tret que ho exigeixi la legislació aplicable o s'acordi per escrit, el
-programari distribuït sota la Llicència es distribueix «TAL QUAL», SENSE
-GARANTIES NI CONDICIONS DE CAP MENA; siguin expresses o
-implícites. Consulteu la Llicència per a conèixer el llenguatge específic
-que regeix els permisos i limitacions sota la Llicència.
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
+WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
+License for the specific language governing permissions and limitations
+under the License.
 
-La majoria de les biblioteques dels següents directoris al [GitHub][github]
-són creades per altres organitzacions o persones i llicenciades de diferents
-formes:
+Many libraries and 3rd party tools included into [CoMaps
+repository](https://codeberg.org/comaps/comaps) were developed by multiple
+people and organizations, and licensed in different ways. Please refer to
+their LICENSE, COPYING or NOTICE files for terms of use.
 
-- Terceres parts
-- eines
+See
+[data/copyright.html](https://codeberg.org/comaps/comaps/src/branch/main/data/copyright.html)
+file for a full list of copyright notices for the CoMaps application.
 
-Consulteu les seves LLICÈNCIES, CÒPIES o AVISOS per a conèixer les
-condicions d'ús.
-
-Consulteu també el fitxer [data/copyright.html][copyright] per a una llista
-completa d’avisos de drets d’autor per a l’aplicació CoMaps.
-
-Si teniu cap dubte o suggeriment, contacteu (en anglès) amb nosaltres a
-[legal@organicmaps.app](mailto:legal@organicmaps.app).
-
-[github]: https://github.com/organicmaps/organicmaps
-[license]: http://www.apache.org/licenses/LICENSE-2.0
-[copyright]: https://github.com/organicmaps/organicmaps/blob/master/data/copyright.html
+If you have any questions or suggestions, please contact us at
+legal@comaps.app

@@ -1,9 +1,9 @@
 ---
-title: "CoMaps: Ultime notizie e aggiornamenti dal nostro team"
-description: Rimanete in contatto con gli ultimi rilasci di app, le novità e gli aggiornamenti del nostro team
-template: news.html
-page_template: news_post.html
-sort_by: date
 extra:
-  menu_title: Notizie
+  menu_title: News
+page_template: news_post.html
+paginate_by: 50
+sort_by: date
+template: news.html
+title: "News and Releases"
 ---

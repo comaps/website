@@ -1,9 +1,9 @@
 ---
-description: "Håll dig uppdaterad med de senaste versionerna av CoMaps, nyheter samt uppdateringar från vårt team"
 extra:
-  menu_title: Nyheter
+  menu_title: News
 page_template: news_post.html
+paginate_by: 50
 sort_by: date
 template: news.html
-title: "CoMaps: De senaste nyheterna och uppdateringarna från vårt team"
+title: "News and Releases"
 ---

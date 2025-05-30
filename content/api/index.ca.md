@@ -1,13 +1,10 @@
 ---
-title: API Page
-description: To visit api paease click
-template: pure.html
-weight: 10
+description: "To visit api please click"
 extra:
-  menu_title: Api
+  menu_title: API
   menu_title_pre: Home
-  
+title: "API Page"
+weight: 10
 ---
-# API Page
 
 To visit api page click here: [omaps.app/api](https://omaps.app/api)

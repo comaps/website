@@ -1,22 +1,16 @@
 ---
-description: "Bez śledzenia, bez reklam, bez zbierania danych, bez zbierania statystyk, bez spyware"
 extra:
-  menu_title: Prywatność
-title: "CoMaps: Polityka prywatności"
+  menu_title: Privacy
+title: Privacy
 weight: 900
 ---
 
-CoMaps szanuje Twoją prywatność i NIE ŚLEDZI CIĘ.
+At CoMaps, we respect your privacy. CoMaps does not have any form of
+identification of people, advertising, or personal data collection.
 
-W przeciwieństwie do większości innych aplikacji, w CoMaps nie ma
-śledzenia, nie ma reklam, nie ma spyware, nie ma zbierania danych i
-statystyk.
+CoMaps does not track you.
 
-Odrzuć inwigilację - ogarnij swoją wolność.
+If you have any questions or suggestions, please contact us at
+legal@comaps.app
 
-Trzymaj się z dala od wścibskich oczu Big Tech!
-
-Jeśli masz jakiekolwiek pytania lub sugestie, skontaktuj się z nami pod
-adresem [legal@organicmaps.app](mailto:legal@organicmaps.app).
-
-<sub>Polityka ta obowiązuje od dnia 24.04.2021.</sub>
+Policy effective: 2025-05-01

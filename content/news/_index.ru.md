@@ -1,9 +1,9 @@
 ---
-title: "CoMaps: Свежие новости и обновления от нашей команды"
-description: Оставайтесь в курсе последних обновлений и новостей от нашей команды
-template: news.html
-page_template: news_post.html
-sort_by: date
 extra:
-  menu_title: Новости
+  menu_title: News
+page_template: news_post.html
+paginate_by: 50
+sort_by: date
+template: news.html
+title: "News and Releases"
 ---

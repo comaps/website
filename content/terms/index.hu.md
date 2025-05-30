@@ -1,37 +1,29 @@
 ---
-description: "Az CoMaps alkalmazás használati feltételei"
 extra:
-  menu_title: Feltételek
-title: "CoMaps: feltételek"
+  menu_title: Terms
+title: Terms
 weight: 1000
 ---
 
-Ezt az alkalmazást az Apache License, Version 2.0 (a "License") licenc alá
-helyezték; ezt az alkalmazást csak a Licencnek megfelelően használhatja.
+This app is licensed under the Apache License, Version 2.0 (the "License");
+This application cannot be used except in compliance with the License.
 
-A Licenc egy példányát a
-[http://www.apache.org/licenses/LICENSE-2.0][license] címen szerezheti be.
+License: [www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0)
 
-Hacsak a vonatkozó törvények nem írják elő, vagy hacsak írásban nem
-állapodtak meg, a Licenc alapján terjesztett szoftver "AZONOS" ALAPON kerül
-terjesztésre, MINDEN KIFEJEZETT, vagy hallgatólagos JÓTÁMOGATÁS ÉS
-FELTÉTELEK NÉLKÜL. A Licenc szerinti engedélyekre és korlátozásokra
-vonatkozó konkrét nyelvezetet lásd a Licencben.
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
+WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
+License for the specific language governing permissions and limitations
+under the License.
 
-A [GitHub][github] következő könyvtáraiban található könyvtárak többsége más
-emberek és szervezetek által készített és különböző módon engedélyezett:
+Many libraries and 3rd party tools included into [CoMaps
+repository](https://codeberg.org/comaps/comaps) were developed by multiple
+people and organizations, and licensed in different ways. Please refer to
+their LICENSE, COPYING or NOTICE files for terms of use.
 
-- 3party
-- tools
+See
+[data/copyright.html](https://codeberg.org/comaps/comaps/src/branch/main/data/copyright.html)
+file for a full list of copyright notices for the CoMaps application.
 
-A felhasználási feltételeket lásd a LICENSE, COPYING vagy NOTICE fájlokban.
-
-Lásd még a [data/copyright.html][copyright] fájlt az CoMaps alkalmazás
-szerzői jogi közleményeinek teljes listájáért.
-
-Ha bármilyen kérdése vagy javaslata van, kérjük, lépjen kapcsolatba velünk a
-[legal@organicmaps.app](mailto:legal@organicmaps.app) címen.
-
-[github]: https://github.com/organicmaps/organicmaps
-[license]: http://www.apache.org/licenses/LICENSE-2.0
-[copyright]: https://github.com/organicmaps/organicmaps/blob/master/data/copyright.html
+If you have any questions or suggestions, please contact us at
+legal@comaps.app

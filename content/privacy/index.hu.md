@@ -1,22 +1,16 @@
 ---
-description: "Nincs nyomkövetés, nincsenek hirdetések, nincs adatgyűjtés, nincs statisztikai adatgyűjtés, nincs kémprogram."
 extra:
-  menu_title: Adatvédelem
-title: "CoMaps: Adatvédelmi irányelvek"
+  menu_title: Privacy
+title: Privacy
 weight: 900
 ---
 
-Az CoMaps tiszteletben tartja az Ön magánéletét, és NEM KÖVETI Önt.
+At CoMaps, we respect your privacy. CoMaps does not have any form of
+identification of people, advertising, or personal data collection.
 
-A legtöbb más alkalmazással ellentétben az CoMaps-ben nincs
-nyomkövetés, nincsenek hirdetések, nincsenek kémprogramok, nincs
-statisztikai vagy más adat gyűjtése.
+CoMaps does not track you.
 
-Utasítsd el a megfigyelést - gyakorold a szabadságodat.
+If you have any questions or suggestions, please contact us at
+legal@comaps.app
 
-Maradj rejtve a nagy techcégek kíváncsi szemei elől!
-
-Ha bármilyen kérdése vagy javaslata van, kérjük, lépjen kapcsolatba velünk a
-[legal@organicmaps.app](mailto:legal@organicmaps.app) címen.
-
-<sub>Ez a szabályzat 2021-04-24-től hatályos.</sub>
+Policy effective: 2025-05-01

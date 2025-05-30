@@ -1,30 +1,29 @@
 ---
-title: "CoMaps: koşullar"
-description: "CoMaps uygulaması için kullanım koşulları"
-weight: 1000
 extra:
   menu_title: Terms
+title: Terms
+weight: 1000
 ---
 
-Bu uygulama Apache Lisansı, Sürüm 2.0 ("Lisans") altında lisanslanmıştır;
-bu uygulamayı Lisans'a uygun olmayan bir şekilde kullanamazsınız.
+This app is licensed under the Apache License, Version 2.0 (the "License");
+This application cannot be used except in compliance with the License.
 
-Lisansın bir kopyasını [http://www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0) adresinden edinebilirsiniz.
+License: [www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0)
 
-Yürürlükteki yasalar gerektirmedikçe veya yazılı izin olmadan;
-Lisans kapsamında dağıtılan yazılım, açık veya üstü kapalı olarak HİÇBİR GARANTİ
-VEYA KOŞUL OLMADAN "OLDUĞU GİBİ" dağıtılır. Lisans kapsamındaki izinleri ve
-sınırlamaları yöneten belirli dil için Lisansa bakın.
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
+WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
+License for the specific language governing permissions and limitations
+under the License.
 
-Aşağıdaki dizinlerdeki kütüphanelerin çoğu diğer kişi ve
-kuruluşlar tarafından yapılmış ve farklı şekillerde lisanslanmıştır:
+Many libraries and 3rd party tools included into [CoMaps
+repository](https://codeberg.org/comaps/comaps) were developed by multiple
+people and organizations, and licensed in different ways. Please refer to
+their LICENSE, COPYING or NOTICE files for terms of use.
 
-- 3party
-- tools
+See
+[data/copyright.html](https://codeberg.org/comaps/comaps/src/branch/main/data/copyright.html)
+file for a full list of copyright notices for the CoMaps application.
 
-Kullanım şartları için lütfen bu kütüphanelerin LICENCE, COPYING veya NOTICE dosyalarına bakın.
-
-CoMaps uygulamasına ilişkin telif hakkı bildirimlerinin tam listesi için ayrıca
-[data/copyright.html](https://github.com/organicmaps/organicmaps/blob/master/data/copyright.html) adresine bakın.
-
-Eğer herhangi bir soru veya öneriniz varsa lütfen [legal@organicmaps.app](mailto:legal@organicmaps.app) adresinden bizimle iletişime geçin.
+If you have any questions or suggestions, please contact us at
+legal@comaps.app

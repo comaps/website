@@ -12,8 +12,8 @@ extra:
   preview_image: donate/donate.png
   stay_connected_section_title: connect with us
   donate:
-     title: Donate
-     description: The app runs on your donations, help improve it
+    title: Donate
+    description: The app runs on your donations, help improve it
   features:
     - title: "**Report** Bugs"
       description: "Report bugs, discuss idea, and propose features"

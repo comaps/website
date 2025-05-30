@@ -1,37 +1,29 @@
 ---
-description: "ऑर्गेनिक मैप्स एप्लिकेशन के उपयोग की शर्तें"
 extra:
-  menu_title: शर्तें
-title: "ऑर्गेनिक मैप्स: शर्तें"
+  menu_title: Terms
+title: Terms
 weight: 1000
 ---
 
-यह ऐप को अपाचे लाइसेंस, वर्जन 2.0 के तहत लाइसेंस प्राप्त है; आप लाइसेंस के
-अनुपालन को छोड़कर इस एप्लिकेशन का उपयोग नहीं कर सकते हैं।
+This app is licensed under the Apache License, Version 2.0 (the "License");
+This application cannot be used except in compliance with the License.
 
-आप [http://www.apache.org/licenses/LICENSE-2.0][license] पर लाइसेंस की एक
-प्रति प्राप्त कर सकते हैं
+License: [www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0)
 
-जब तक लागू कानून की आवश्यकता न हो या लिखित रूप में सहमति न हो, लाइसेंस के
-तहत वितरित सॉफ़्टवेयर को "जैसा है" आधार पर वितरित किया जाता है, बिना किसी
-प्रकार की वारंटी या शर्तों के, या तो व्यक्त या निहित। लाइसेंस के तहत विशिष्ट
-भाषा संचालन अनुमतियों और सीमाओं के लिए लाइसेंस देखें।
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
+WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
+License for the specific language governing permissions and limitations
+under the License.
 
-[GitHub][github] पर निम्नलिखित निर्देशिकाओं में अधिकांश डायरेक्टरी अन्य
-लोगों और संगठनों द्वारा बनाए गए हैं और विभिन्न तरीकों से इनको लाइसेंस
-प्राप्त हैं:
+Many libraries and 3rd party tools included into [CoMaps
+repository](https://codeberg.org/comaps/comaps) were developed by multiple
+people and organizations, and licensed in different ways. Please refer to
+their LICENSE, COPYING or NOTICE files for terms of use.
 
-- 3party
-- tools
+See
+[data/copyright.html](https://codeberg.org/comaps/comaps/src/branch/main/data/copyright.html)
+file for a full list of copyright notices for the CoMaps application.
 
-उपयोग की शर्तों के लिए कृपया उनकी LICENSE, COPY या NOTICE फ़ाइलें देखें।
-
-ऑर्गेनिक मैप्स ऐप के लिए कॉपीराइट नोटिस की पूरी सूची जानने के लिए
-[data/copyright.html][copyright] फ़ाइल देखें।
-
-यदि आपके कोई प्रश्न या सुझाव हैं, तो कृपया हमसे
-[legal@organicmaps.app](mailto:legal@organicmaps.app) पर संपर्क करें।
-
-[github]: https://github.com/organicmaps/organicmaps
-[license]: http://www.apache.org/licenses/LICENSE-2.0
-[copyright]: https://github.com/organicmaps/organicmaps/blob/master/data/copyright.html
+If you have any questions or suggestions, please contact us at
+legal@comaps.app

@@ -1,36 +1,29 @@
 ---
-description: "شروط استخدام تطبيق CoMaps"
 extra:
-  menu_title: شروط
-title: "CoMaps: الشروط"
+  menu_title: Terms
+title: Terms
 weight: 1000
 ---
 
-تم ترخيص هذا التطبيق تحت ترخيص Apache، الإصدار 2.0 ("الترخيص") ؛ لا يجوز لك
-استخدام هذا التطبيق إلا بما يتوافق مع الترخيص.
+This app is licensed under the Apache License, Version 2.0 (the "License");
+This application cannot be used except in compliance with the License.
 
-يمكنك الحصول على نسخة من الترخيص على
-[http://www.apache.org/licenses/LICENSE-2.0][license]
+License: [www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0)
 
-ما لم يكن مطلوبًا بموجب القانون المعمول به أو تم الاتفاق عليه كتابيًا ، يتم
-توزيع البرامج الموزعة بموجب الترخيص "كما هي" ، دون أي ضمانات أو شروط من أي
-نوع ، سواء كانت صريحة أو ضمنية. راجع الترخيص لمعرفة الأذونات والقيود التي
-تحكم اللغة المحددة بموجب الترخيص.
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
+WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
+License for the specific language governing permissions and limitations
+under the License.
 
-تم إنشاء معظم المكتبات في الدلائل التالية على [GitHub][github] بواسطة أشخاص
-ومؤسسات آخرين وتم ترخيصها بطرق مختلفة:
+Many libraries and 3rd party tools included into [CoMaps
+repository](https://codeberg.org/comaps/comaps) were developed by multiple
+people and organizations, and licensed in different ways. Please refer to
+their LICENSE, COPYING or NOTICE files for terms of use.
 
-- 3party
-- tools
+See
+[data/copyright.html](https://codeberg.org/comaps/comaps/src/branch/main/data/copyright.html)
+file for a full list of copyright notices for the CoMaps application.
 
-يرجى الرجوع إلى ملفات الترخيص أو النسخ أو الإشعار لشروط الاستخدام.
-
-راجع أيضًا ملف [data / copyright.html][copyright] للحصول على قائمة كاملة
-بإشعارات حقوق النشر الخاصة بتطبيق CoMaps.
-
-إذا كانت لديك أي أسئلة أو اقتراحات، يرجى التواصل معنا على
-[legal@organicmaps.app (mailto:legal@organicmaps.app).
-
-[github]: https://github.com/organicmaps/organicmaps
-[الترخيص]: http://www.apache.org/licenses/LICENSE-2.0
-[حقوق النشر]: https://github.com/organicmaps/organicmaps/blob/master/data/copyright.html
+If you have any questions or suggestions, please contact us at
+legal@comaps.app

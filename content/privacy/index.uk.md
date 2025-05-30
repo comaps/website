@@ -1,21 +1,16 @@
 ---
-description: "Без відстеження, без реклами, без збору даних, без збору статистики, без шпигунських програм"
 extra:
-  menu_title: Конфіденційність
-title: "CoMaps: Політика конфіденційності"
+  menu_title: Privacy
+title: Privacy
 weight: 900
 ---
 
-CoMaps поважає вашу конфіденційність і НЕ ВІДСТЕЖУЄ ВАС.
+At CoMaps, we respect your privacy. CoMaps does not have any form of
+identification of people, advertising, or personal data collection.
 
-На відміну від більшості інших застосунків, в CoMaps немає
-відстеження, реклами, шпигунських програм, збору даних і статистики.
+CoMaps does not track you.
 
-Відмовтеся від стеження – оберіть свободу.
+If you have any questions or suggestions, please contact us at
+legal@comaps.app
 
-Тримайтеся подалі від сторонніх очей великих компаній!
-
-Якщо у вас є запитання або пропозиції, будь ласка, зв'яжіться з нами за
-адресою [legal@organicmaps.app](mailto:legal@organicmaps.app).
-
-<sub>Ця політика діє з 24-04-2021.</sub>
+Policy effective: 2025-05-01

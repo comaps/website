@@ -1,22 +1,16 @@
 ---
-description: "Ingen spårning, inga annonser, ingen datainsamling, ingen statistikinsamling, ingen spionprogramvara"
 extra:
-  menu_title: Integritetspolicy
-title: "CoMaps: Integritetspolicy"
+  menu_title: Privacy
+title: Privacy
 weight: 900
 ---
 
-CoMaps respekterar din personliga integritet och _spårar dig inte_.
+At CoMaps, we respect your privacy. CoMaps does not have any form of
+identification of people, advertising, or personal data collection.
 
-Till skillnad från de flesta andra program finns det ingen spårning, inga
-annonser, ingen spionprogramvara samt ingen insamling av data eller
-statistik i CoMaps.
+CoMaps does not track you.
 
-Vägra övervakning. Välkomna friheten.
+If you have any questions or suggestions, please contact us at
+legal@comaps.app
 
-Håll dig borta från techjättarnas vakande ögon!
-
-Om du har några frågor eller förslag kan du kontakta oss på
-[legal@organicmaps.app](mailto:legal@organicmaps.app).
-
-<sub>Denna policy gäller från och med 2021-04-24.</sub>
+Policy effective: 2025-05-01

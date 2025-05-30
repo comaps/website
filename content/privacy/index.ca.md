@@ -1,21 +1,16 @@
 ---
-description: "Sense rastrejament, anuncis, recopilació de dades i estadístiques o programari espia"
 extra:
-  menu_title: Privadesa
-title: "CoMaps: Política de Privadesa"
+  menu_title: Privacy
+title: Privacy
 weight: 900
 ---
 
-CoMaps respecta la vostra privadesa i NO US RASTREJA.
+At CoMaps, we respect your privacy. CoMaps does not have any form of
+identification of people, advertising, or personal data collection.
 
-A diferència d'altres aplicacions, a l'CoMaps no hi ha rastrejadors,
-anuncis o programes espia, ni recol·lecció de dades o estadístiques.
+CoMaps does not track you.
 
-Rebutgeu la vigilància. Assumiu la vostra llibertat.
+If you have any questions or suggestions, please contact us at
+legal@comaps.app
 
-Allunyeu-vos de les mirades indiscretes de les grans tecnològiques!
-
-Si teniu cap dubte o suggeriment, contacteu (en anglès) amb nosaltres a
-[legal@organicmaps.app](mailto:legal@organicmaps.app).
-
-<sub>Aquesta normativa és efectiva des del 24/04/2021.</sub>
+Policy effective: 2025-05-01

@@ -1,21 +1,16 @@
 ---
-description: "ना कोई विज्ञापन, ना कोई ट्रैकिंग, ना कोई डेटा संग्रह, ना कोई संख्या संग्रह, ना कोई स्पाईवेयर"
 extra:
-  menu_title: निजता
-title: "ऑर्गेनिक मैप्स: गोपनीयता नीति"
+  menu_title: Privacy
+title: Privacy
 weight: 900
 ---
 
-ऑर्गेनिक मैप्स आपकी निजता का सम्मान करता है और आपको ट्रैक नहीं करता।
+At CoMaps, we respect your privacy. CoMaps does not have any form of
+identification of people, advertising, or personal data collection.
 
-अधिकांश अन्य ऍप्स से अलग, ऑर्गेनिक मैप्स में कोई ट्रैकिंग, कोई विज्ञापन, कोई
-स्पाइवेयर, कोई डेटा और आँकड़े संग्रह नहीं है।
+CoMaps does not track you.
 
-निगरानी को अस्वीकार करें - अपनी स्वतंत्रता को अपनाएं।
+If you have any questions or suggestions, please contact us at
+legal@comaps.app
 
-बिग टेक की ताक़तवर नज़रों से दूर रहें!
-
-यदि आपके कोई प्रश्न या सुझाव हैं, तो कृपया हमसे
-[legal@organicmaps.app](mailto:legal@organicmaps.app) पर संपर्क करें।
-
-<sub>यह नीति 2021-04-24 तक प्रभावी है।</sub>
+Policy effective: 2025-05-01

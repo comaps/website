@@ -1,21 +1,16 @@
 ---
-description: "Žádné sledování, žádné reklamy, žádné shromažďování dat, žádné shromažďování statistik, žádný spyware"
 extra:
-  menu_title: Soukromí
-title: "CoMaps: Zásady ochrany osobních údajů"
+  menu_title: Privacy
+title: Privacy
 weight: 900
 ---
 
-CoMaps respektuje vaše soukromí a NESLEDUJE VÁS.
+At CoMaps, we respect your privacy. CoMaps does not have any form of
+identification of people, advertising, or personal data collection.
 
-Na rozdíl od většiny ostatních aplikací neobsahuje aplikace CoMaps
-žádné sledování, reklamy, spyware ani sběr dat a statistik.
+CoMaps does not track you.
 
-Odmítněte dohled - přijměte svou svobodu.
+If you have any questions or suggestions, please contact us at
+legal@comaps.app
 
-Držte se dál od zvědavých očí velkých technologických firem!
-
-Máte-li jakékoli dotazy nebo návrhy, kontaktujte nás prosím na adrese
-[legal@organicmaps.app](mailto:legal@organicmaps.app).
-
-<sub>Tyto zásady jsou účinné od 2021-04-24.</sub>
+Policy effective: 2025-05-01

@@ -1,9 +1,9 @@
 ---
-description: "关注CoMaps新版发布、新闻和更新"
 extra:
-  menu_title: 新闻
+  menu_title: News
 page_template: news_post.html
+paginate_by: 50
 sort_by: date
 template: news.html
-title: "CoMaps：近期新闻和更新"
+title: "News and Releases"
 ---
