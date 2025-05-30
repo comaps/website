@@ -1,21 +1,8 @@
-# Markdown Translations
+# Weblate Translations
 
-This section applies only to the following languages:
+The Website is translated on [Codeberg Translate][weblate].
 
-- French
-- Italian
-- Turkish
-- Russian
-
-These languages are not part of Weblate pilot evaluation (see below). Please edit Markdowns directly in the repository and synchronize the structure with the English source. Or just [send us](mailto:hello@comaps.app) the text, and we'll add translations.
-
-# Weblate Translations (EXPERIMENTAL)
-
-Applies to all languages except listed above in the previous section.
-
-The new experimental Weblate integration is being tested for new languages. Translation of the content for new languages can be peformed via [Weblate][weblate] by using instructions below. Please provide your feedback in https://github.com/organicmaps/organicmaps/discussions/4076 discussion thread.
-
-**(!) Please don't edit localized Markdown files (`.lang.md`) manually for languages that have `po/{lang}.po` files already. Use [Weblate][weblate] instead.**
+**(!) Please don't edit localized Markdown files (`.lang.md`) manually.**
 
 ## How it works
 

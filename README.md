@@ -8,8 +8,6 @@ This static website is built with [Zola](https://www.getzola.org/)
 
 - Download the latest zola for your operating system and set up the necessary path variable.
 
-- Make sure to switch to the `main` branch (the default is `pages` due to the way Codeberg Pages serves sites)
-
 - Run `zola serve` for a local preview or `zola build` to generate static site in the `public` folder.
 
 - Run `npm i && npm run format` if you want to pretty-format the Markdown and SCSS files.
@@ -28,4 +26,8 @@ any improvement before implementing it to sync with our vision and plans.
 
 ## Translations
 
-We need your help to translate this site to your language. See [TRANSLATIONS.md](TRANSLATIONS.md) file for detailed instructions.
+We need your help to translate this site to your language on [Codeberg Translate][weblate].
+
+More in depth technical details are documented in [TRANSLATIONS.md](TRANSLATIONS.md).
+
+[weblate]: https://translate.codeberg.org/projects/comaps/website
