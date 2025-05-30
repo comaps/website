@@ -29,4 +29,4 @@ extra:
             - Community-Driven
 ---
 
-We're working on getting the first app releases out soon, please stay tuned!
+The first app release is available on F-Droid now! And we are working on publishing in the Google Play Store and iOS App Store as well, please stay tuned!
