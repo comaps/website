@@ -14,7 +14,7 @@ Clubic
 
 De MapsWithMe à CoMaps
 
-Le projet CoMaps trouve ses origines dans l’application de navigation MapsWithMe lancée en 2011, laquelle sera rebaptisée plus tard Maps.me. En 2015, la société décide de publier son code source sous la licence Apache 2.0. L'idée est donc d'accélérer les innovations et de favoriser les contributions communautaires. Mais puisque le code est ouvert, un fork se crée : c'est la naissance du projet et de la société Organic Maps. L’objectif est de fournir une solution de navigation respectueuse de la vie privée et axée sur la communauté."
+Le projet CoMaps trouve ses origines dans l'application de navigation MapsWithMe lancée en 2011, laquelle sera rebaptisée plus tard Maps.me. En 2015, la société décide de publier son code source sous la licence Apache 2.0. L'idée est donc d'accélérer les innovations et de favoriser les contributions communautaires. Mais puisque le code est ouvert, un fork se crée : c'est la naissance du projet et de la société Organic Maps. L'objectif est de fournir une solution de navigation respectueuse de la vie privée et axée sur la communauté."
 
 
 [Continue reading...](https://www.clubic.com/actualite-565764-un-concurrent-a-google-maps-centre-sur-la-vie-privee-le-projet-est-en-cours.html)
