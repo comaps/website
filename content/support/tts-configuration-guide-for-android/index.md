@@ -26,8 +26,8 @@ Said options may not appear if you don't have a TTS already installed on your de
 
 Screenshots
 
-| ![Screenshot 1](image13.jpg) | ![Screenshot 2](image32.jpg) | ![Screenshot 3](image33.jpg) |
-| :---- | :---- | :---- |
+| ![Screenshot 1](tts_config_1.png) | ![Screenshot 2](tts_config_2.png) |
+| :---- | :---- |
 
 Engines  
 Below is a comprehensive list showing several engines and the languages they support (download links can be found after the table):
@@ -162,4 +162,4 @@ If you’re having trouble initializing the RHVoice TTS engine on LineageOS or o
 
 Testing  
 In order to test the voice instructions, you can tap on "Test Voice Directions (TTS, Text-To-Speech)" in the CoMaps "Settings → Voice Instructions" menu or you can actually start a navigation to receive any voice output. CoMaps will not give you any voice instructions while you're standing still.  
-![](image17.png)
+<img class="max-w-40" src="./tts_test.png">
