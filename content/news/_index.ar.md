@@ -1,6 +1,4 @@
 ---
-extra:
-  menu_title: News
 page_template: news_post.html
 paginate_by: 50
 sort_by: date

@@ -1,6 +1,4 @@
 ---
-extra:
-  menu_title: Privacy
 title: Privacy
 weight: 900
 ---

@@ -15,16 +15,12 @@ extra:
     hero_button_7: "Map Data"
     hero_button_8: "GPS & Compass"
     hero_button_9: Features
-  hero_description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor"
-  hero_image: support-us/suport-kv.png
-  hero_title: Support
-  menu_title_pre: Home
   support_card_description_1: 'This is a Paragraph. Click on "Edit Text" or double click on the text box to start editing the content and make sure to add any relevant details or information that you want to share with your visitors.'
   support_card_description_2: 'This is a Paragraph. Click on "Edit Text" or double click on the text box to start editing the content and make sure to add any relevant details or information that you want to share with your visitors.'
   support_card_description_3: 'This is a Paragraph. Click on "Edit Text" or double click on the text box to start editing the content and make sure to add any relevant details or information that you want to share with your visitors.'
   support_card_title_1: "How can we help?"
   support_card_title_2: "Email Contact"
   support_card_title_3: "Support Channel"
-title: "Support Search - Find Answer and Discover Community Support"
+title: Support
 weight: 10
 ---

@@ -1,7 +1,6 @@
 ---
 description: "Discover more of your journey  \nPowered by the community\n"
 extra:
-  menu_title: Home
   organic_section_description: 'Community + Open Maps'
   organic_section_title: Organic
   services:

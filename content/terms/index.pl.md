@@ -1,6 +1,4 @@
 ---
-extra:
-  menu_title: Terms
 title: Terms
 weight: 1000
 ---

@@ -12,8 +12,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -21,12 +20,6 @@ msgstr ""
 msgid ""
 "Discover more of your journey  \n"
 "Powered by the community\n"
-msgstr ""
-
-#. type: Yaml Front Matter Hash Value: extra menu_title
-#: content/_index.md
-#, no-wrap
-msgid "Home"
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: extra services items description
@@ -83,12 +76,6 @@ msgstr ""
 msgid "Hike, Bike, Drive Offline Navigate with Privacy"
 msgstr ""
 
-#. type: Yaml Front Matter Hash Value: extra menu_title
-#: content/news/_index.md
-#, no-wrap
-msgid "News"
-msgstr ""
-
 #. type: Yaml Front Matter Hash Value: title
 #: content/news/_index.md
 #, no-wrap
@@ -98,7 +85,7 @@ msgstr ""
 #. type: Yaml Front Matter Hash Value: description
 #: content/community/index.md
 #, no-wrap
-msgid "Discover the CoMaps community, share ideas, propose new features, contribute code, provide support, translate, do marketing, design, and shape the product."
+msgid "CoMaps is created and maintained by people like you"
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: extra donate description
@@ -185,16 +172,10 @@ msgstr ""
 msgid "**Help** Support"
 msgstr ""
 
-#. type: Yaml Front Matter Hash Value: extra menu_title
-#: content/community/index.md
-#, no-wrap
-msgid "Community"
-msgstr ""
-
 #. type: Yaml Front Matter Hash Value: title
 #: content/community/index.md
 #, no-wrap
-msgid "Community - Created and maintained by people like you"
+msgid "Community"
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: description
@@ -215,8 +196,8 @@ msgstr ""
 msgid "Infrastructure"
 msgstr ""
 
-#. type: Yaml Front Matter Hash Value: extra funding items title
-#: content/donate/index.md
+#. type: Yaml Front Matter Hash Value: title
+#: content/donate/index.md content/support/_index.md
 #, no-wrap
 msgid "Support"
 msgstr ""
@@ -237,12 +218,6 @@ msgstr ""
 #: content/support/_index.md
 #, no-wrap
 msgid "Need assistance? Search for answers to common questions. Get the support you need and connect with others in the community for help."
-msgstr ""
-
-#. type: Yaml Front Matter Hash Value: title
-#: content/support/_index.md
-#, no-wrap
-msgid "Support Search - Find Answer and Discover Community Support"
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: description
@@ -327,20 +302,13 @@ msgstr ""
 
 #. type: Plain text
 #: content/download/index.md
-msgid ""
-"We're working on getting the first app releases out soon, please stay tuned!"
+msgid "We're working on getting the first app releases out soon, please stay tuned!"
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/api/index.md
 #, no-wrap
 msgid "To visit api please click"
-msgstr ""
-
-#. type: Yaml Front Matter Hash Value: extra menu_title
-#: content/api/index.md
-#, no-wrap
-msgid "API"
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: title
@@ -362,9 +330,7 @@ msgstr ""
 
 #. type: Plain text
 #: content/privacy/index.md
-msgid ""
-"At CoMaps, we respect your privacy. CoMaps does not have any form of "
-"identification of people, advertising, or personal data collection."
+msgid "At CoMaps, we respect your privacy. CoMaps does not have any form of identification of people, advertising, or personal data collection."
 msgstr ""
 
 #. type: Plain text
@@ -374,9 +340,7 @@ msgstr ""
 
 #. type: Plain text
 #: content/privacy/index.md content/terms/index.md
-msgid ""
-"If you have any questions or suggestions, please contact us at legal@comaps."
-"app"
+msgid "If you have any questions or suggestions, please contact us at legal@comaps.app"
 msgstr ""
 
 #. type: Plain text
@@ -392,10 +356,7 @@ msgstr ""
 
 #. type: Plain text
 #: content/terms/index.md
-msgid ""
-"This app is licensed under the Apache License, Version 2.0 (the "
-"\"License\"); This application cannot be used except in compliance with the "
-"License."
+msgid "This app is licensed under the Apache License, Version 2.0 (the \"License\"); This application cannot be used except in compliance with the License."
 msgstr ""
 
 #. type: Plain text
@@ -406,27 +367,15 @@ msgstr ""
 
 #. type: Plain text
 #: content/terms/index.md
-msgid ""
-"Unless required by applicable law or agreed to in writing, software "
-"distributed under the License is distributed on an \"AS IS\" BASIS, WITHOUT "
-"WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the "
-"License for the specific language governing permissions and limitations "
-"under the License."
+msgid "Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License."
 msgstr ""
 
 #. type: Plain text
 #: content/terms/index.md
-msgid ""
-"Many libraries and 3rd party tools included into [CoMaps repository](https://"
-"codeberg.org/comaps/comaps) were developed by multiple people and "
-"organizations, and licensed in different ways.  Please refer to their "
-"LICENSE, COPYING or NOTICE files for terms of use."
+msgid "Many libraries and 3rd party tools included into [CoMaps repository](https://codeberg.org/comaps/comaps) were developed by multiple people and organizations, and licensed in different ways.  Please refer to their LICENSE, COPYING or NOTICE files for terms of use."
 msgstr ""
 
 #. type: Plain text
 #: content/terms/index.md
-msgid ""
-"See [data/copyright.html](https://codeberg.org/comaps/comaps/src/branch/main/"
-"data/copyright.html) file for a full list of copyright notices for the "
-"CoMaps application."
+msgid "See [data/copyright.html](https://codeberg.org/comaps/comaps/src/branch/main/data/copyright.html) file for a full list of copyright notices for the CoMaps application."
 msgstr ""

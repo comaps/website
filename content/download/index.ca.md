@@ -6,10 +6,6 @@ extra:
   desktop_payment_title: Desktop
   desktop_shop_name_1: MacOS
   desktop_shop_name_2: Linux
-  hero_description: CoMaps
-  hero_image: /download/bg.png
-  hero_title: "Download CoMaps"
-  menu_title_pre: Home
   mobile_payment_methods_1: iOS
   mobile_payment_methods_2: Android
   mobile_payment_title: Mobile

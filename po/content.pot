@@ -22,12 +22,6 @@ msgid ""
 "Powered by the community\n"
 msgstr ""
 
-#. type: Yaml Front Matter Hash Value: extra menu_title
-#: content/_index.md
-#, no-wrap
-msgid "Home"
-msgstr ""
-
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
 #, no-wrap
@@ -82,12 +76,6 @@ msgstr ""
 msgid "Hike, Bike, Drive Offline Navigate with Privacy"
 msgstr ""
 
-#. type: Yaml Front Matter Hash Value: extra menu_title
-#: content/news/_index.md
-#, no-wrap
-msgid "News"
-msgstr ""
-
 #. type: Yaml Front Matter Hash Value: title
 #: content/news/_index.md
 #, no-wrap
@@ -97,7 +85,7 @@ msgstr ""
 #. type: Yaml Front Matter Hash Value: description
 #: content/community/index.md
 #, no-wrap
-msgid "Discover the CoMaps community, share ideas, propose new features, contribute code, provide support, translate, do marketing, design, and shape the product."
+msgid "CoMaps is created and maintained by people like you"
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: extra donate description
@@ -184,16 +172,10 @@ msgstr ""
 msgid "**Help** Support"
 msgstr ""
 
-#. type: Yaml Front Matter Hash Value: extra menu_title
-#: content/community/index.md
-#, no-wrap
-msgid "Community"
-msgstr ""
-
 #. type: Yaml Front Matter Hash Value: title
 #: content/community/index.md
 #, no-wrap
-msgid "Community - Created and maintained by people like you"
+msgid "Community"
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: description
@@ -214,8 +196,8 @@ msgstr ""
 msgid "Infrastructure"
 msgstr ""
 
-#. type: Yaml Front Matter Hash Value: extra funding items title
-#: content/donate/index.md
+#. type: Yaml Front Matter Hash Value: title
+#: content/donate/index.md content/support/_index.md
 #, no-wrap
 msgid "Support"
 msgstr ""
@@ -236,12 +218,6 @@ msgstr ""
 #: content/support/_index.md
 #, no-wrap
 msgid "Need assistance? Search for answers to common questions. Get the support you need and connect with others in the community for help."
-msgstr ""
-
-#. type: Yaml Front Matter Hash Value: title
-#: content/support/_index.md
-#, no-wrap
-msgid "Support Search - Find Answer and Discover Community Support"
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: description
@@ -334,12 +310,6 @@ msgstr ""
 #: content/api/index.md
 #, no-wrap
 msgid "To visit api please click"
-msgstr ""
-
-#. type: Yaml Front Matter Hash Value: extra menu_title
-#: content/api/index.md
-#, no-wrap
-msgid "API"
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: title
