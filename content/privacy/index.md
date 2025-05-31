@@ -2,8 +2,6 @@
 title: "Privacy"
 # description: "CoMaps Privacy: no identification of people, advertising, or personal data collection"
 weight: 900
-extra:
-  menu_title: Privacy
 ---
 
 At CoMaps, we respect your privacy. CoMaps does not have any form of identification of people, advertising, or personal data collection.

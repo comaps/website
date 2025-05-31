@@ -2,8 +2,6 @@
 title: "Terms"
 # description: "Terms of use for CoMaps application"
 weight: 1000
-extra:
-  menu_title: Terms
 ---
 
 This app is licensed under the Apache License, Version 2.0 (the "License"); This application cannot be used except in compliance with the License.

@@ -56,7 +56,7 @@
 
 {% if 'support' in page.taxonomies %}
     {% set page_support = get_section(path='support/_index.md') %}
-    {{ macros::showcase_inner(title=page_support.extra.hero_title, tax_section=true, tax_section_permalink=page_support.permalink) }}
+    {{ macros::showcase_inner(title=page_support.title, tax_section=true, tax_section_permalink=page_support.permalink) }}
 {% else %}
     {{ macros::showcase_inner(title=page.title, desp=page.description) }}
 {% endif %}

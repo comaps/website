@@ -1,14 +1,10 @@
 ---
-title: Community - Created and maintained by people like you
-description: Discover the CoMaps community, share ideas, propose new features, contribute code, provide support, translate, do marketing, design, and shape the product.
+title: Community
+description: CoMaps is created and maintained by people like you
 template: community.html
 weight: 10
 
 extra:
-  menu_title: Community
-  menu_title_pre: Home
-  community_hero_description: CoMaps is created and maintained by people like you
-  hero_image: /community/community-bg.png
   preview_image: donate/donate.png
   stay_connected_section_title: connect with us
   donate:

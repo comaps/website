@@ -4,9 +4,6 @@ description: Donate and create better maps together!
 template: new-donate.html
 weight: 10
 extra:
-  hero_title: Donate
-  hero_image: /donate/donate-bg.png
-  menu_title_pre: Home
   service_title: Created with love by enthusiast volunteers
   service_text: Donate to keep the project running
   hero_description: Donate and create better maps together!
@@ -29,6 +26,8 @@ extra:
       - title: Support
         text: User support, fixing bugs, and improving the stability of the app are our top priority. The list of requests and bug reports grows every day, and there are many support requests to respond to on the App Store, Google Play, and support emails.
         media: /images/donate/support.webp
+  donate:
+    title: Donate
   reviews:
     title: People say
     items:

@@ -6,9 +6,6 @@ description: |
 template: about-us.html
 weight: 10
 extra:
-  hero_title: About Us
-  hero_image: /about-us/about-bg.png
-  menu_title_pre: Home
   about:
     title: Free and open navigation with privacy, built by the community
     text: CoMaps is a community-focused privacy navigation app for travelers - drivers, hikers, and cyclists. It uses the crowd-sourced OpenStreetMap data with contributors from all over the globe. It offers navigation with privacy - no identifying people and no data collection. CoMaps features can operate without an active internet connection for offline navigation at urban or distant locations, where cellular service is not available. CoMaps is an open-source project, and prioritizes community development.

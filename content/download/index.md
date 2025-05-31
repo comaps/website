@@ -4,10 +4,6 @@ description: Unlock the potential of navigation! Discover offline maps, privacy-
 template: download.html
 weight: 10
 extra:
-  hero_title: Download CoMaps
-  hero_description: CoMaps
-  hero_image: /download/bg.png
-  menu_title_pre: Home
   mobile_payment_title: Mobile
   desktop_payment_title: Desktop
   mobile_payment_methods_1: iOS

@@ -5,6 +5,4 @@ sort_by: date
 paginate_by: 50
 template: news.html
 page_template: news_post.html
-extra:
-  menu_title: News
 ---

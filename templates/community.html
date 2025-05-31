@@ -2,7 +2,7 @@
 {% import "macros/macros.html" as macros %}
 
 {%- block content %}
-{{ macros::showcase_inner(title=page.extra.menu_title, desp=page.extra.community_hero_description) }}
+{{ macros::showcase_inner(title=page.title, desp=page.description) }}
 {# <section class="hero-sub" style="background-image: url({{ page.extra.hero_image | safe }})">
     <div class="container hero-sub__container">
         <nav class="bred-crum">

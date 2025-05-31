@@ -6,7 +6,6 @@ description: |
 template: home.html
 sort_by: weight
 extra:
-    menu_title: Home
     organic_section_title: Organic
     organic_section_description: Community + Open Maps
     services:
