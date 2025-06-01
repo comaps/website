@@ -27,6 +27,12 @@ msgstr ""
 msgid "Plan and navigate your trip abroad without the need for mobile data, and search waypoints while on a distant hike.\n"
 msgstr ""
 
+#. type: Yaml Front Matter Hash Value: extra services items highlight text
+#: content/_index.md
+#, no-wrap
+msgid "No internet needed"
+msgstr ""
+
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
 #, no-wrap
@@ -37,6 +43,12 @@ msgstr ""
 #: content/_index.md
 #, no-wrap
 msgid "The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information.\n"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: extra services items highlight text
+#: content/_index.md
+#, no-wrap
+msgid "Privacy by default"
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: extra services items title
@@ -51,6 +63,12 @@ msgstr ""
 msgid "Efficiently uses the battery, doesn’t drain your battery like other navigation apps.\n"
 msgstr ""
 
+#. type: Yaml Front Matter Hash Value: extra services items highlight text
+#: content/_index.md
+#, no-wrap
+msgid "Efficient battery use"
+msgstr ""
+
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
 #, no-wrap
@@ -61,6 +79,14 @@ msgstr ""
 #: content/_index.md
 #, no-wrap
 msgid "People like you helped build the app by adding locations to <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on Codeberg in the open-source community.\n"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: extra services items highlight text
+#: content/_index.md
+#, no-wrap
+msgid ""
+"Free for everyone,  \n"
+"Made with love\n"
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: extra services items title
@@ -183,16 +209,34 @@ msgstr ""
 msgid "Donate and create better maps together!"
 msgstr ""
 
+#. type: Yaml Front Matter Hash Value: extra funding items text
+#: content/donate/index.md
+#, no-wrap
+msgid "Currently there is no full time team who is working to develop new features and improve the service. To consistently move the product forward, a core team is needed."
+msgstr ""
+
 #. type: Yaml Front Matter Hash Value: extra funding items title
 #: content/donate/index.md
 #, no-wrap
 msgid "Developers"
 msgstr ""
 
+#. type: Yaml Front Matter Hash Value: extra funding items text
+#: content/donate/index.md
+#, no-wrap
+msgid "We pay for fast servers, so anyone in the world can download free map data updates without delays. The maps data transfers are hundreds of terabytes monthly, and the amount is growing."
+msgstr ""
+
 #. type: Yaml Front Matter Hash Value: extra funding items title
 #: content/donate/index.md
 #, no-wrap
 msgid "Infrastructure"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: extra funding items text
+#: content/donate/index.md
+#, no-wrap
+msgid "User support, fixing bugs, and improving the stability of the app are our top priority. The list of requests and bug reports grows every day, and there are many support requests to respond to on the App Store, Google Play, and support emails."
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: title
@@ -207,10 +251,22 @@ msgstr ""
 msgid "How will funding be used?"
 msgstr ""
 
-#. type: Yaml Front Matter Hash Value: extra reviews title
+#. type: Yaml Front Matter Hash Value: extra info text
 #: content/donate/index.md
 #, no-wrap
-msgid "People say"
+msgid "We rely on your donations to keep CoMaps open and free"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: extra info text
+#: content/donate/index.md
+#, no-wrap
+msgid "We are a few enthusiasts contributing in our free time. We love what we do, and we love our users"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: extra info text
+#: content/donate/index.md
+#, no-wrap
+msgid "With your support, we are working toward privacy-focused map navigation that is the preferred choice on the market"
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: description
@@ -227,10 +283,46 @@ msgid ""
 "Built by the community\n"
 msgstr ""
 
+#. type: Yaml Front Matter Hash Value: extra about text
+#: content/about-us/index.md
+#, no-wrap
+msgid "CoMaps is a community-focused privacy navigation app for travelers - drivers, hikers, and cyclists. It uses the crowd-sourced OpenStreetMap data with contributors from all over the globe. It offers navigation with privacy - no identifying people and no data collection. CoMaps features can operate without an active internet connection for offline navigation at urban or distant locations, where cellular service is not available. CoMaps is an open-source project, and prioritizes community development."
+msgstr ""
+
 #. type: Yaml Front Matter Hash Value: extra about title
 #: content/about-us/index.md
 #, no-wrap
 msgid "Free and open navigation with privacy, built by the community"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: extra history items text
+#: content/about-us/index.md
+#, no-wrap
+msgid "MapsWithMe navigation app created (later renamed to Maps.me)"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: extra history items text
+#: content/about-us/index.md
+#, no-wrap
+msgid "Maps.me opened the source code under Apache 2.0 license."
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: extra history items text
+#: content/about-us/index.md
+#, no-wrap
+msgid "The Organic Maps project & company were founded, based on the Maps.Me source code."
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: extra history items text
+#: content/about-us/index.md
+#, no-wrap
+msgid "Governance issues and community concerns not addressed by company shareholders stalled the development of Organic Maps for months."
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: extra history items text
+#: content/about-us/index.md
+#, no-wrap
+msgid "The **CoMaps** community & non-profit project was founded by former Organic Maps contributors, based on the Organic Maps source code."
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: extra history title
@@ -239,10 +331,22 @@ msgstr ""
 msgid "History"
 msgstr ""
 
+#. type: Yaml Front Matter Hash Value: extra vm items text
+#: content/about-us/index.md
+#, no-wrap
+msgid "Unlock the freedom to easily navigate offline, with privacy-focused maps for drivers, hikers, and cyclists, powered by the community."
+msgstr ""
+
 #. type: Yaml Front Matter Hash Value: extra vm items title
 #: content/about-us/index.md
 #, no-wrap
 msgid "Mission"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: extra vm items text
+#: content/about-us/index.md
+#, no-wrap
+msgid "Create a world where navigating with maps is free, and privacy by default is the top choice on the planet."
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: extra vm items title

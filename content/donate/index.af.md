@@ -23,18 +23,6 @@ extra:
       text: "We are a few enthusiasts contributing in our free time. We love what we do, and we love our users"
     - icon: static/images/icons/donate/icon03.svg
       text: "With your support, we are working toward privacy-focused map navigation that is the preferred choice on the market"
-  reviews:
-    items:
-      - media: /images/donate/first-donate-ico.png
-        name: "Emily Johnson"
-        text: "I donate to CoMaps for the unique offering they bring, and to support positive change"
-      - media: /images/donate/icon01.png
-        name: "Emanuel Matis"
-        text: "Simple and fast and battery saving for your device and it's free. I donated a small sum for support and I suggest please support this app. Thank you!"
-      - media: /images/donate/icon02.png
-        name: Rosa
-        text: "love it for the simplicity, user-friendly interface. I would like to make a donation to support your effort"
-    title: "People say"
   service_text: "Donate to keep the project running"
   service_title: "Created with love by enthusiast volunteers"
 template: new-donate.html
