@@ -25,4 +25,4 @@ extra:
       - Community-Driven
 ---
 
-We're working on getting the first app releases out soon, please stay tuned!
+The first app release is available as an APK download now! We are still working on publishing on F-Droid, Google Play Store and iOS App Store as well, please stay tuned!

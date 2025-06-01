@@ -4,13 +4,6 @@
 {%- block content %}
 {{ macros::showcase_inner(title=page.title) }}
 
-<section class="pure" style="padding-top: 30rem">
-    <div class="container">
-        {{ page.content | safe }}
-    </div>
-</section>
-
-<!--
 <section class="section-device">
     <div class="container section-device__container">
         <div class="section-device__item">
@@ -22,6 +15,7 @@
             </div>
 
             <div class="section-device__content">
+                <!--
                 <div class="section-device__content-item">
                     <p class="p-15-bold section-device__content-title">{{ page.extra.mobile_payment_methods_1 | safe }}</p>
                     <div class="section-device__card">
@@ -33,9 +27,11 @@
                         </a>
                     </div>
                 </div>
+                -->
                 <div class="section-device__content-item">
                     <p class="p-15-bold section-device__content-title">{{ page.extra.mobile_payment_methods_2 | safe }}</p>
                     <div class="section-device__card-holder">
+                        <!--
                         <div class="section-device__card">
                             {# <p class="p-15 section-device__text">{{ page.extra.mobile_shop_name_2 | safe }}</p> #}
                             <a href="#" class="button--appdownload">
@@ -45,22 +41,24 @@
                         </div>
                         <div class="section-device__card">
                             {# <p class="p-15 section-device__text">{{ page.extra.mobile_shop_name_3 | safe }}</p> #}
-                            <a href="#" class="button--appdownload">
+                            <a href="https://f-droid.org/packages/app.comaps/" class="button--appdownload">
                                 {{ load_data(path="static/images/icons/download/f-droid.svg") | safe }}
                                 F-Droid
                             </a>
                         </div>
+                        -->
                         <div class="section-device__card">
                             {# <p class="p-15 section-device__text">{{ page.extra.mobile_shop_name_4 | safe }}</p> #}
-                            <a href="#" class="button--appdownload">
-                                {{ load_data(path="static/images/icons/download/app-gallery.svg") | safe }}
-                                App Gallery
+                            <a href="https://codeberg.org/comaps/comaps/releases" class="button--appdownload">
+                                {# {{ load_data(path="static/images/icons/download/app-gallery.svg") | safe }} #}
+                                APK Download
                             </a>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
+        <!--
         <div class="section-device__item">
             <div class="section-device__title-row">
                 <h3 class="h5 section-device__title">{{ page.extra.desktop_payment_title | safe }}</h3>
@@ -93,9 +91,17 @@
 
             </div>
         </div>
+        -->
     </div>
 </section>
 
+<section class="pure" style="padding-bottom: 60rem">
+    <div class="container">
+        {{ page.content | safe }}
+    </div>
+</section>
+
+<!--
 <section class="section-step">
     <div class="container section-step__container">
         <h2 class="h6 section-step__title">{{ page.extra.steps.title | safe }}</h2>
