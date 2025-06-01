@@ -28,16 +28,16 @@ extra:
         media: /images/donate/support.webp
   donate:
     title: Donate
-  reviews:
-    title: People say
-    items:
-      - text: I donate to CoMaps for the unique offering they bring, and to support positive change
-        name: Emily Johnson
-        media: /images/donate/first-donate-ico.png
-      - text: Simple and fast and battery saving for your device and it's free. I donated a small sum for support and I suggest please support this app. Thank you!
-        name: Emanuel Matis
-        media: /images/donate/icon01.png
-      - text: love it for the simplicity, user-friendly interface. I would like to make a donation to support your effort
-        name: Rosa
-        media: /images/donate/icon02.png
+  #reviews:
+  #  title: People say
+  #  items:
+  #    - text: I donate to CoMaps for the unique offering they bring, and to support positive change
+  #      name: Emily Johnson
+  #      media: /images/donate/first-donate-ico.png
+  #    - text: Simple and fast and battery saving for your device and it's free. I donated a small sum for support and I suggest please support this app. Thank you!
+  #      name: Emanuel Matis
+  #      media: /images/donate/icon01.png
+  #    - text: love it for the simplicity, user-friendly interface. I would like to make a donation to support your effort
+  #      name: Rosa
+  #      media: /images/donate/icon02.png
 ---
