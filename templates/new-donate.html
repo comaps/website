@@ -52,16 +52,16 @@
     <h2 class="reviews__title">{{ page.extra.donate.title }}</h2>
     <div class="line reviews__line"></div>
     <div class="container donate-services__row">
-        <h2 class="h7 donate-services__title">{{ page.extra.service_title }}</h2>
-        <p class="h1-sub donate-services__text">{{ page.extra.service_text }}</p>
+        <h2 class="h7 donate-services__title">{{ page.extra.donate.info.title }}</h2>
+        <p class="h1-sub donate-services__text">{{ page.extra.donate.info.description }}</p>
         <div class="donate-services__icons">
             <a href="https://opencollective.com/comaps/donate" target="_blank" class="button button--opencollective">
                 <img src="/images/opencollective.svg" alt="icon" width="50">
-                {{ trans(key='donate-open-collective', lang=lang) }}
+                {{ page.extra.donate.open_collective.title | safe }}
             </a>
             <a href="https://liberapay.com/CoMaps" target="_blank" class="button button--liberapay">
                 <img src="/images/donate/donat-service/icon04.png" alt="icon" width="50">
-                {{ trans(key='donate-liberapay', lang=lang) }}
+                {{ page.extra.donate.liberapay.title | safe  }}
             </a>
             <!--
             <a href="https://donate.stripe.com/7sIcPX5ivg2Y2v6145" target="_blank" class="donate-services__icon">
