@@ -33,10 +33,10 @@
     <div class="single-section__item animation animation--down">
       <div class="single-section__content">
         <h3 class="h2 single-section__title">
-          Freedom Is Here
+          {{ section.extra.freedom.title | safe }}
         </h3>
         <p class="p single-section__description">
-          Discover your journey, navigate the world with privacy and community at the forefront.
+          {{ section.extra.freedom.description | safe }}
         </p>
         {{ macros::button_download() }}
       </div>
