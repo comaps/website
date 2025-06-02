@@ -2,6 +2,13 @@
 description: "Donate and create better maps together!"
 extra:
   donate:
+    info:
+      description: "Donate to keep the project running"
+      title: "Created with love by enthusiast volunteers"
+    liberapay:
+      title: "Donate via Liberapay"
+    open_collective:
+      title: "Donate via Open Collective"
     title: Donate
   funding:
     items:
@@ -23,7 +30,7 @@ extra:
       text: "We are a few enthusiasts contributing in our free time. We love what we do, and we love our users"
     - icon: static/images/icons/donate/icon03.svg
       text: "With your support, we are working toward privacy-focused map navigation that is the preferred choice on the market"
-  service_text: "Donate to keep the project running"
+  service_text:
   service_title: "Created with love by enthusiast volunteers"
 template: new-donate.html
 title: Donate

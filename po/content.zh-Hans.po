@@ -21,10 +21,22 @@ msgid ""
 "Powered by the community\n"
 msgstr ""
 
+#. type: Yaml Front Matter Hash Value: extra freedom description
+#: content/_index.md
+#, no-wrap
+msgid "Discover your journey, navigate the world with privacy and community at the forefront."
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: extra freedom title
+#: content/_index.md
+#, no-wrap
+msgid "Freedom Is Here"
+msgstr ""
+
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
 #, no-wrap
-msgid "Plan and navigate your trip abroad without the need for mobile data, and search waypoints while on a distant hike.\n"
+msgid "Plan and navigate your trip abroad without the need for mobile data, and search waypoints while on a distant hike."
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
@@ -42,7 +54,7 @@ msgstr ""
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
 #, no-wrap
-msgid "The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information.\n"
+msgid "The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information."
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
@@ -60,7 +72,7 @@ msgstr ""
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
 #, no-wrap
-msgid "Efficiently uses the battery, doesn’t drain your battery like other navigation apps.\n"
+msgid "Efficiently uses the battery, doesn’t drain your battery like other navigation apps."
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
@@ -78,7 +90,7 @@ msgstr ""
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
 #, no-wrap
-msgid "People like you helped build the app by adding locations to <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on Codeberg in the open-source community.\n"
+msgid "People like you helped build the app by adding locations to <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on Codeberg in the open-source community."
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
@@ -207,6 +219,30 @@ msgstr ""
 #: content/donate/index.md
 #, no-wrap
 msgid "Donate and create better maps together!"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: extra donate info description
+#: content/donate/index.md
+#, no-wrap
+msgid "Donate to keep the project running"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: extra donate info title
+#: content/donate/index.md
+#, no-wrap
+msgid "Created with love by enthusiast volunteers"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: extra donate liberapay title
+#: content/donate/index.md
+#, no-wrap
+msgid "Donate via Liberapay"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: extra donate open_collective title
+#: content/donate/index.md
+#, no-wrap
+msgid "Donate via Open Collective"
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: extra funding items text
