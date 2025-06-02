@@ -34,93 +34,98 @@ Below is a comprehensive list showing several engines and the languages they sup
 
 | Language |   Supported TTS Engines |
 | :---- | :---- |
-| Afrikaans |   eSpeak |
+| Afrikaans |   eSpeak, Sherpa |
 | Albanian |   RHVoice, eSpeak |
-| Arabic |   Vocalizer, Acapela, Nuance |
+| Arabic |   Vocalizer, Acapela, Nuance, Sherpa |
 | Aragonese |   eSpeak |
 | Armenian |   eSpeak |
 | Basque |   Vocalizer, Nuance |
-| Bengal |   Vocalizer, Google, Nuance |
+| Bengal |   Vocalizer, Google, Nuance, Sherpa |
 | Bhojpuri |   Vocalizer, Nuance |
-| Bulgarian |   Vocalizer, Nuance, eSpeak |
-| Cantonese |   Vocalizer, Google, Nuance, eSpeak |
-| Catalan |   Vocalizer, Acapela, Nuance, eSpeak |
-| Croatian |   Vocalizer, Nuance, eSpeak |
-| Czech |   Vocalizer, Acapela, Nuance, eSpeak |
-| Danish |   Vocalizer, Google, Acapela, Ivona, Nuance, eSpeak |
+| Bulgarian |   Vocalizer, Nuance, eSpeak, Sherpa |
+| Cantonese |   Vocalizer, Google, Nuance, eSpeak, Sherpa |
+| Catalan |   Vocalizer, Acapela, Nuance, eSpeak, Sherpa |
+| Croatian |   Vocalizer, Nuance, eSpeak, Sherpa |
+| Czech |   Vocalizer, Acapela, Nuance, eSpeak, Sherpa |
+| Danish |   Vocalizer, Google, Acapela, Ivona, Nuance, eSpeak, Sherpa |
 | Dongbei |   Vocalizer |
 | Dutch (BE) |   Vocalizer, Nuance |
-| Dutch (NL) |   Vocalizer, Google, Acapela, Ivona, Nuance |
+| Dutch (NL) |   Vocalizer, Google, Acapela, Ivona, Nuance, Sherpa |
 | English (AU) |   Vocalizer, Google, Acapela, Nuance, RHVoice |
 | English (IE) |   Vocalizer, Nuance |
 | English (IN) |   Vocalizer, Google, Acapela, Nuance |
 | English (SCT) |   Vocalizer, Nuance, RHVoice |
-| English (UK) |   Vocalizer, Google, Acapela, Yandex, RHVoice, eSpeak |
-| English (US) |   Vocalizer, Google, Acapela, Ivona, Yandex, Nuance, RHVoice, eSpeak |
+| English (UK) |   Vocalizer, Google, Acapela, Yandex, RHVoice, eSpeak, Sherpa |
+| English (US) |   Vocalizer, Google, Acapela, Ivona, Yandex, Nuance, RHVoice, eSpeak, Sherpa |
 | English (ZA) |   Vocalizer, Nuance |
 | Esperanto |   RHVoice, eSpeak |
-| Estonian |   eSpeak |
+| Estonian |   eSpeak, Sherpa |
 | Faroese |   Acapela |
 | Farsi |   Vocalizer, Nuance, eSpeak |
-| Finnish |   Vocalizer, Google, Acapela, Nuance, eSpeak |
+| Finnish |   Vocalizer, Google, Acapela, Nuance, eSpeak, Sherpa |
 | French (BE) |   Vocalizer |
 | French (CA) |   Vocalizer, Nuance |
-| French (FR) |   Vocalizer, Google, Acapela, Ivona, Nuance, eSpeak |
+| French (FR) |   Vocalizer, Google, Acapela, Ivona, Nuance, eSpeak, Sherpa |
 | Galician |   Vocalizer, Nuance |
-| Georgian |   RHVoice, eSpeak |
-| German |   Vocalizer, Google, Acapela, Ivona, Nuance, eSpeak |
-| Greek |   Vocalizer, Acapela, Nuance, eSpeak |
+| Georgian |   RHVoice, eSpeak, Sherpa |
+| German |   Vocalizer, Google, Acapela, Ivona, Nuance, eSpeak, Sherpa |
+| Greek |   Vocalizer, Acapela, Nuance, eSpeak, Sherpa |
+| Gujarati |   Sherpa |
 | Hebrew |   Vocalizer, Nuance |
 | Hindi |   Vocalizer, Nuance, eSpeak |
-| Hungarian |   Vocalizer, Google, Nuance, eSpeak |
-| Icelandic |   eSpeak |
+| Hungarian |   Vocalizer, Google, Nuance, eSpeak, Sherpa |
+| Icelandic |   eSpeak, Sherpa |
 | Indonesian |   Vocalizer, Google, Nuance, eSpeak |
-| Irish |   eSpeak |
-| Italian |   Vocalizer, Google, Acapela, Ivona, Nuance, eSpeak |
+| Irish |   eSpeak, Sherpa |
+| Italian |   Vocalizer, Google, Acapela, Ivona, Nuance, eSpeak, Sherpa |
 | Japanese |   Vocalizer, Google, Acapela, Nuance |
 | Kannada |   Vocalizer, Nuance, eSpeak |
-| Korean |   Vocalizer, Google, Acapela, Nuance |
+| Kazakh |   Sherpa |
+| Korean |   Vocalizer, Google, Acapela, Nuance, Sherpa |
 | Kurdish |   eSpeak |
 | Kyrgyz |   RHVoice |
-| Latvian |   eSpeak |
-| Lithuanian |   eSpeak |
+| Latvian |   eSpeak, Sherpa |
+| Lithuanian |   eSpeak, Sherpa |
+| Luxembourgish |   Sherpa |
 | Lojban |   eSpeak |
 | Macedonian |   RHVoice, eSpeak |
 | Malay |   Vocalizer, Nuance, eSpeak |
 | Malayalam |   eSpeak |
-| Mandarin (CN) |   Vocalizer, Acapela, eSpeak |
-| Mandarin (TW) |   Vocalizer, Google, Nuance |
+| Maltese |   Sherpa |
+| Mandarin (CN) |   Vocalizer, Acapela, eSpeak, Sherpa |
+| Mandarin (TW) |   Vocalizer, Google, Nuance, Sherpa |
 | Marathi |   Vocalizer, Nuance |
-| Nepalese |   eSpeak |
-| Norwegian |   Vocalizer, Google, Acapela, Ivona, Nuance, eSpeak |
-| Polish |   Vocalizer, Google, Acapela, Ivona, Nuance, RHVoice, eSpeak |
-| Portuguese (BR) |   Vocalizer, RHVoice |
-| Portuguese (PT) |   Vocalizer, Google, Acapela, Ivona, Nuance, eSpeak |
+| Nepalese |   eSpeak, Sherpa |
+| Norwegian |   Vocalizer, Google, Acapela, Ivona, Nuance, eSpeak, Sherpa |
+| Polish |   Vocalizer, Google, Acapela, Ivona, Nuance, RHVoice, eSpeak, Sherpa |
+| Portuguese (BR) |   Vocalizer, RHVoice, Sherpa |
+| Portuguese (PT) |   Vocalizer, Google, Acapela, Ivona, Nuance, eSpeak, Sherpa |
 | Punjabi |   eSpeak |
-| Romanian |   Vocalizer, Ivona, Nuance, eSpeak |
-| Russian |   Vocalizer, Google, Acapela, Ivona, Yandex, RHVoice, eSpeak |
-| Serbian |   eSpeak |
+| Romanian |   Vocalizer, Ivona, Nuance, eSpeak, Sherpa |
+| Russian |   Vocalizer, Google, Acapela, Ivona, Yandex, RHVoice, eSpeak, Sherpa |
+| Serbian |   eSpeak, Sherpa |
 | Shaanxi |   Vocalizer |
 | Shanghainese |   Vocalizer |
 | Sichuanese |   Vocalizer |
-| Slovak |   Vocalizer, Nuance, eSpeak |
-| Slovenian |   Vocalizer |
+| Slovak |   Vocalizer, Nuance, eSpeak, Sherpa |
+| Slovenian |   Vocalizer, Sherpa |
 | Spanish (AR) |   Vocalizer, Nuance |
 | Spanish (CL) |   Vocalizer, Nuance |
 | Spanish (CO) |   Vocalizer |
-| Spanish (ES) |   Vocalizer, Google, Acapela, Ivona, Nuance, eSpeak |
-| Spanish (MX) |   Vocalizer |
-| Swahili |   eSpeak |
-| Swedish |   Vocalizer, Ivona, Nuance, eSpeak |
+| Spanish (ES) |   Vocalizer, Google, Acapela, Ivona, Nuance, eSpeak, Sherpa |
+| Spanish (MX) |   Vocalizer, Sherpa |
+| Swahili |   eSpeak, Sherpa |
+| Swedish |   Vocalizer, Ivona, Nuance, eSpeak, Sherpa |
 | Tamil |   Vocalizer, Nuance, eSpeak |
 | Telugu |   Vocalizer |
 | Tatar |   RHVoice |
-| Thai |   Vocalizer, Google, Nuance |
-| Turkish |   Vocalizer, Google, Acapela, Ivona, Yandex, Nuance, eSpeak |
-| Ukrainian |   Vocalizer, Nuance, RHVoice |
+| Thai |   Vocalizer, Google, Nuance, Sherpa |
+| Tswana |   Sherpa
+| Turkish |   Vocalizer, Google, Acapela, Ivona, Yandex, Nuance, eSpeak, Sherpa |
+| Ukrainian |   Vocalizer, Nuance, RHVoice, Sherpa |
 | Valencian |   Vocalizer |
-| Vietnamese |   Vocalizer, Nuance, eSpeak |
-| Welsh |   eSpeak |
+| Vietnamese |   Vocalizer, Nuance, eSpeak, Sherpa |
+| Welsh |   eSpeak, Sherpa |
 
 Downloads
 
@@ -129,6 +134,7 @@ Downloads
 * [eSpeak TTS](https://f-droid.org/en/packages/com.reecedunn.espeak/)  
 * [Google Speech Services](https://play.google.com/store/apps/details?id=com.google.android.tts)  
 * [RHVoice TTS (Recommended)](https://play.google.com/store/apps/details?id=com.github.olga_yakovleva.rhvoice.android)  
+* [SherpaTTS](https://f-droid.org/packages/org.woheller69.ttsengine/) 
 * [Vocalizer (Code Factory)](https://play.google.com/store/apps/details?id=es.codefactory.vocalizertts)  
 * [Vocalizer 2 (Nuance)](https://nvda.ru/sintezatory-rechi-vocalizer-expressive2-dlja-nvda#)  
 * [Yandex SpeechKit TTS](https://4pda.to/forum/index.php?showtopic=200728&st=4200#download)
