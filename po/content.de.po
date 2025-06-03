@@ -6,13 +6,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-06-03 11:42+0000\n"
+"Last-Translator: pastk <pastk@noreply.codeberg.org>\n"
+"Language-Team: German <https://translate.codeberg.org/projects/comaps/website/de/>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.11.4\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -21,78 +23,91 @@ msgid ""
 "Discover more of your journey  \n"
 "Powered by the community\n"
 msgstr ""
+"Entdecke mehr von deiner Reise\n"
+"Entwickelt von der Community\n"
 
 #. type: Yaml Front Matter Hash Value: extra freedom description
 #: content/_index.md
 #, no-wrap
 msgid "Discover your journey, navigate the world with privacy and community at the forefront."
-msgstr ""
+msgstr "Entdecke deine Reise, navigiere die Welt mit Datenschutz und Community."
 
 #. type: Yaml Front Matter Hash Value: extra freedom title
 #: content/_index.md
 #, no-wrap
 msgid "Freedom Is Here"
-msgstr ""
+msgstr "Freiheit ist hier"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
 #, no-wrap
 msgid "Plan and navigate your trip abroad without the need for mobile data, and search waypoints while on a distant hike."
 msgstr ""
+"Plane deine Reise und Navigiere im Ausland ohne mobile Daten und finde "
+"Wegpunkte bei einer abgelegenen Wanderung."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
 #, no-wrap
 msgid "No internet needed"
-msgstr ""
+msgstr "Funktioniert ohne Internet Verbindung"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
 #, no-wrap
 msgid "Offline Search and Route"
-msgstr ""
+msgstr "Offline Suche und Routenplanung"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
 #, no-wrap
 msgid "The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information."
 msgstr ""
+"Die App ist mit Blick auf Datenschutz konzipiert – sie identifiziert keine "
+"Personen, verfolgt dich nicht und sammelt keine Daten."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
 #, no-wrap
 msgid "Privacy by default"
-msgstr ""
+msgstr "Schützt deine Privatsphäre"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
 #, no-wrap
 msgid "No Data Collection"
-msgstr ""
+msgstr "Keine Datenerfassung"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
 #, no-wrap
 msgid "Efficiently uses the battery, doesn’t drain your battery like other navigation apps."
 msgstr ""
+"Effiziente Akku Nutzung – verbraucht weniger Strom als andere Navigations "
+"Apps."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
 #, no-wrap
 msgid "Efficient battery use"
-msgstr ""
+msgstr "Effiziente Akku Nutzung"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
 #, no-wrap
 msgid "Save Your Battery"
-msgstr ""
+msgstr "Schone deinen Akku"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
 #, no-wrap
 msgid "People like you helped build the app by adding locations to <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on Codeberg in the open-source community."
 msgstr ""
+"Menschen wie du haben geholfen, die App zu entwickeln, indem sie Orte zu "
+"<span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-"
+"street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span> "
+"hinzugefügt, Feedback zu Funktionen gegeben und Code auf Codeberg in der "
+"Open-Source-Community beigetragen haben."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
@@ -101,18 +116,20 @@ msgid ""
 "Free for everyone,  \n"
 "Made with love\n"
 msgstr ""
+"Für alle Kostenlos,\n"
+"Mit Liebe gemacht\n"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
 #, no-wrap
 msgid "Free and Built by the Community"
-msgstr ""
+msgstr "Kostenlos und von der Community entwickelt"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/_index.md
 #, no-wrap
 msgid "Hike, Bike, Drive Offline Navigate with Privacy"
-msgstr ""
+msgstr "Wandern, Radfahren, Autofahren – Offline navigieren mit Datenschutz"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/news/_index.md
