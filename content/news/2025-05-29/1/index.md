@@ -21,4 +21,4 @@ As a result, many contributors teamed up and forked the project, establishing Co
 
 [Continue reading...](https://news.itsfoss.com/organic-maps-fork-comaps/)
 
-14 May 2025 | [Organic Maps Forked Over Governance Concerns: CoMaps is Born](https://news.itsfoss.com/organic-maps-fork-comaps/)
+29 May 2025 | [Organic Maps Forked Over Governance Concerns: CoMaps is Born](https://news.itsfoss.com/organic-maps-fork-comaps/)
