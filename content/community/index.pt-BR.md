@@ -1,37 +1,37 @@
 ---
-description: "CoMaps is created and maintained by people like you"
+description: "O CoMaps é criado e mantido por pessoas como você"
 extra:
   donate:
-    description: "The app runs on your donations, help improve it"
-    title: Donate
+    description: "O aplicativo funciona com suas doações, ajude a melhorá-lo"
+    title: Doar
   features:
-    - description: "Report bugs, discuss idea, and propose features"
+    - description: "Relate erros, discuta ideias e proponha recursos"
       icon: chats.svg
       link: https://codeberg.org/comaps/comaps/issues
-      title: "**Report** Bugs"
-    - description: "Develop new features, help fix bugs, and review code"
+      title: "**Relatar** erros"
+    - description: "Desenvolva novos recursos, ajude a corrigir erros e revise o código"
       icon: CodeBlock.svg
       link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md
-      title: "**Develop** Functionality"
-    - description: "Shape the direction of the product experience"
+      title: "**Desenvolver** Funcionalidade"
+    - description: "Molde a direção da experiência do produto"
       icon: BezierCurve.svg
       link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md
-      title: "**Design** Interface"
-    - description: "Add translations to make it accessible for more people around the world"
+      title: "**Projetar** a Interface"
+    - description: "Adicione traduções para torná-lo acessível a mais pessoas ao redor do mundo"
       icon: Translate.svg
       link: https://codeberg.org/comaps/comaps/src/branch/main/docs/TRANSLATIONS.md
-      title: "**Translate** Text"
-    - description: "Add info about shops, points of interest, trails, and public transport to OpenStreetMap"
+      title: "**Traduzir** Texto"
+    - description: "Adicione informações sobre lojas, pontos de interesse, trilhas e transporte público ao OpenStreetMap"
       icon: MapPinLine.svg
       link: /support/editing-with-CoMaps
-      title: "**Add** Place Info"
-    - description: "Help people use the app, and answer questions"
+      title: "**Adicionar** Informações de Locais"
+    - description: "Ajude as pessoas a usar o aplicativo e responda a perguntas"
       icon: Headset.svg
       link: "#"
-      title: "**Help** Support"
+      title: "**Ajudar** o Suporte"
   preview_image: donate/donate.png
   stay_connected_section_title: "connect with us"
 template: community.html
-title: Community
+title: Comunidade
 weight: 10
 ---

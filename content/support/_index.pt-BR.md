@@ -1,5 +1,5 @@
 ---
-description: "Need assistance? Search for answers to common questions. Get the support you need and connect with others in the community for help."
+description: "Precisa de ajuda? Busque respostas para perguntas comuns. Obtenha o suporte necessário e entre em contato com outras pessoas na comunidade para obter ajuda."
 extra:
   faq_title: FAQs
   hero_buttons:
@@ -21,6 +21,6 @@ extra:
   support_card_title_1: "How can we help?"
   support_card_title_2: "Email Contact"
   support_card_title_3: "Support Channel"
-title: Support
+title: Suporte
 weight: 10
 ---

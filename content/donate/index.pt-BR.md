@@ -1,38 +1,38 @@
 ---
-description: "Donate and create better maps together!"
+description: "Doe e vamos juntos criar melhores mapas!"
 extra:
   donate:
     info:
-      description: "Donate to keep the project running"
-      title: "Created with love by enthusiast volunteers"
+      description: "Doe para manter o projeto funcionando"
+      title: "Criado com amor por voluntários entusiasmados"
     liberapay:
-      title: "Donate via Liberapay"
+      title: "Doe via Liberapay"
     open_collective:
-      title: "Donate via Open Collective"
-    title: Donate
+      title: "Doe via Open Collective"
+    title: Doar
   funding:
     items:
       - media: /images/donate/developers.webp
-        text: "Currently there is no full time team who is working to develop new features and improve the service. To consistently move the product forward, a core team is needed."
-        title: Developers
+        text: "Atualmente, não há uma equipe em tempo integral trabalhando no desenvolvimento de novos recursos e na melhoria do serviço. Para desenvolver o produto de forma consistente, é necessária uma equipe central."
+        title: Desenvolvedores
       - media: /images/donate/infrastructure.webp
-        text: "We pay for fast servers, so anyone in the world can download free map data updates without delays. The maps data transfers are hundreds of terabytes monthly, and the amount is growing."
-        title: Infrastructure
+        text: "Pagamos por servidores rápidos, para que qualquer pessoa no mundo possa baixar atualizações gratuitas de dados de mapas sem atrasos. As transferências de dados de mapas são de centenas de terabytes por mês, e a quantidade está crescendo."
+        title: Infraestrutura
       - media: /images/donate/support.webp
-        text: "User support, fixing bugs, and improving the stability of the app are our top priority. The list of requests and bug reports grows every day, and there are many support requests to respond to on the App Store, Google Play, and support emails."
-        title: Support
-    title: "How will funding be used?"
+        text: "Suporte ao usuário, correção de erros e melhorias na estabilidade do aplicativo são nossas principais prioridades. A lista de pedidos e relatórios de erros cresce a cada dia, e há muitas solicitações de suporte para responder na App Store, no Google Play e em e-mails."
+        title: Suporte
+    title: "Como o financiamento será usado?"
   hero_description: "Donate and create better maps together!"
   info:
     - icon: static/images/icons/donate/icon01.svg
-      text: "We rely on your donations to keep CoMaps open and free"
+      text: "Contamos com suas doações para manter o CoMaps aberto e gratuito"
     - icon: static/images/icons/donate/icon02.svg
-      text: "We are a few enthusiasts contributing in our free time. We love what we do, and we love our users"
+      text: "Somos alguns entusiastas que contribuem em nosso tempo livre. Amamos o que fazemos e amamos nossos usuários"
     - icon: static/images/icons/donate/icon03.svg
-      text: "With your support, we are working toward privacy-focused map navigation that is the preferred choice on the market"
+      text: "Com o seu apoio, estamos trabalhando para uma navegação de mapa focada na privacidade que seja a escolha preferida no mercado"
   service_text:
   service_title: "Created with love by enthusiast volunteers"
 template: new-donate.html
-title: Donate
+title: Doar
 weight: 10
 ---

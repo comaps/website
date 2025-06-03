@@ -1,5 +1,5 @@
 ---
-description: "Unlock the potential of navigation! Discover offline maps, privacy-centric features, and a community-driven app"
+description: "Libera il potenziale della navigazione! Scopri le mappe offline, le funzioni incentrate sulla privacy e un'app guidata dalla comunità"
 extra:
   desktop_payment_methods_1: MacOS
   desktop_payment_methods_2: Linux
@@ -15,16 +15,16 @@ extra:
   mobile_shop_name_4: AppGallery
   steps:
     items:
-      - "Offline Maps"
-      - Privacy-Centric
-      - "No data collection"
-      - Community-Driven
-    title: "Already downloaded?"
+      - "Mappe offline"
+      - "Centrato sulla privacy"
+      - "Nessuna raccolta dati"
+      - "Guidato dalla comunità"
+    title: "Già scaricato?"
 template: download.html
-title: "Download CoMaps"
+title: "Scarica CoMaps"
 weight: 10
 ---
 
-The first app release is available as an APK download now! We are still
-working on publishing on F-Droid, Google Play Store and iOS App Store as
-well, please stay tuned!
+La prima versione dell'app è disponibile come download APK ora! Stiamo
+ancora lavorando per pubblicare l'app anche su F-Droid, Google Play Store e
+iOS App Store, rimanete sintonizzati!

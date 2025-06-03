@@ -1,50 +1,50 @@
 ---
-description: "Discover more of your journey  \nPowered by the community\n"
+description: "Descubra mais sobre sua jornada\nDesenvolvido pela comunidade\n"
 extra:
   freedom:
-    description: 'Discover your journey, navigate the world with privacy and community at the forefront.'
-    title: 'Freedom Is Here'
+    description: 'Descubra sua jornada, navegue pelo mundo com privacidade e comunidade em primeiro lugar.'
+    title: 'A Liberdade Está Aqui'
   organic_section_description: 'Community + Open Maps'
   organic_section_title: Organic
   services:
     items:
       - 
-        description: 'Plan and navigate your trip abroad without the need for mobile data, and search waypoints while on a distant hike.'
+        description: 'Planeje e navegue em sua viagem ao exterior sem a necessidade de dados móveis e pesquise pontos de referência durante uma trilha distante.'
         highlight:
           icon: static/images/icons/home/wifi-off.svg
-          text: 'No internet needed'
+          text: 'Não precisa de internet'
         media:
           map: /images/sections/map-s-1.webp
           user: /images/sections/map-m-1.webp
-        title: 'Offline Search and Route'
+        title: 'Busca e Roteamento Offline'
       - 
-        description: 'The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information.'
+        description: 'O aplicativo foi projetado pensando na privacidade: não identifica pessoas, não rastreia você e não coleta nenhuma informação.'
         highlight:
           icon: static/images/icons/home/shield.svg
-          text: 'Privacy by default'
+          text: 'Privacidade por padrão'
         media:
           map: /images/sections/map-s-2.webp
           user: /images/sections/map-m-2.webp
-        title: 'No Data Collection'
+        title: 'Sem Coleta de Dados'
       - 
-        description: 'Efficiently uses the battery, doesn’t drain your battery like other navigation apps.'
+        description: 'Usa a bateria de forma eficiente e não a esgota como outros aplicativos de navegação.'
         highlight:
           icon: static/images/icons/home/battery.svg
-          text: 'Efficient battery use'
+          text: 'Uso eficiente da bateria'
         media:
           map: /images/sections/map-s-3.webp
           user: /images/sections/map-m-3.webp
-        title: 'Save Your Battery'
+        title: 'Economize Sua Bateria'
       - 
-        description: 'People like you helped build the app by adding locations to <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-open-street-map"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on Codeberg in the open-source community.'
+        description: 'Pessoas como você ajudaram a criar o aplicativo adicionando locais ao <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-open-street-map"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, dando feedback sobre os recursos e contribuindo com código no Codeberg na comunidade de código aberto.'
         highlight:
           icon: static/images/icons/home/heart.svg
-          text: "Free for everyone,  \nMade with love\n"
+          text: "Grátis para todos,\nfeito com amor\n"
         media:
           map: /images/sections/map-s-4.webp
           user: /images/sections/map-m-4.webp
-        title: 'Free and Built by the Community'
+        title: 'Grátis e Construído pela Comunidade'
 sort_by: weight
 template: home.html
-title: 'Hike, Bike, Drive Offline Navigate with Privacy'
+title: 'Caminhe, Ande de Bicicleta, Dirija Offline e Navegue com Privacidade'
 ---
