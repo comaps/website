@@ -38,17 +38,17 @@
         <div class="box-donate">
             <h3 class="bd-title">{{ trans(key='inv_title', lang=lang) }}</h3>
             <div class="bd-content">
-                <a href="/donate/" class="bd-item">
+                <a href="{{ get_url(path="donate/", lang=lang) }}" class="bd-item">
                     <div class="bd-item-icon">{{ load_data(path="static/images/icons/heart.svg") | safe }}</div>
                     <div class="bd-item-title">{{ trans(key='inv_donate_title', lang=lang) }}</div>
                     <div class="bd-item-text">{{ trans(key='inv_donate_text', lang=lang) }}</div>
                 </a>
-                <a href="/community/" class="bd-item">
+                <a href="{{ get_url(path="community/", lang=lang) }}" class="bd-item">
                     <div class="bd-item-icon">{{ load_data(path="static/images/icons/codeblock.svg") | safe }}</div>
                     <div class="bd-item-title">{{ trans(key='inv_code_title', lang=lang) }}</div>
                     <div class="bd-item-text">{{ trans(key='inv_code_text', lang=lang) }}</div>
                 </a>
-                <a href="/community/" class="bd-item">
+                <a href="{{ get_url(path="community/", lang=lang) }}" class="bd-item">
                     <div class="bd-item-icon">{{ load_data(path="static/images/icons/mappin.svg") | safe }}</div>
                     <div class="bd-item-title">{{ trans(key='inv_info_title', lang=lang) }}</div>
                     <div class="bd-item-text">{{ trans(key='inv_info_text', lang=lang) }}</div>

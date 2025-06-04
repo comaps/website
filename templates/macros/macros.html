@@ -39,11 +39,7 @@
         </div>
         {% if donate %}
             <div class="si-action">
-                {% if page.path == '/donate/' %}
-                    <a href="#donate" class="button button--main"> {{ trans(key='donate-title', lang=lang) }}</a>
-                {% else %}
-                    <a href="/donate/" class="button button--main"> {{ trans(key='donate-title', lang=lang) }}</a>
-                {% endif %}
+                <a href="#donate" class="button button--main"> {{ trans(key='donate-title', lang=lang) }}</a>
             </div>
         {% endif %}
     </div>
@@ -271,5 +267,5 @@
 
 
 {% macro button_download(class="button--white") %}
-<a class="button btn-formerly-download {{ class }}" href="/download/">{{ trans(key='button-download', lang=lang) }}</a>
+<a class="button btn-formerly-download {{ class }}" href="{{ get_url(path="download/", lang=lang) }}">{{ trans(key='button-download', lang=lang) }}</a>
 {% endmacro button_download %}
