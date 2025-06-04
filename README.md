@@ -1,8 +1,12 @@
 # CoMaps Website
 
-This static website is built with [Zola](https://www.getzola.org/)
+This static [comaps.app](https://www.comaps.app/) website is built with [Zola](https://www.getzola.org/).
 
 <!-- ![Main Website](./static/images/website-main.png) -->
+
+## Translations
+
+**We need your help to translate this site to your language on [Codeberg Translate][weblate].**
 
 ## Development
 
@@ -14,6 +18,10 @@ This static website is built with [Zola](https://www.getzola.org/)
 
 - Upgrade npm dependencies with `npm run upgrade`, make sure that you have installed `npm-check-updates` package.
 
+### Content changes in `.md` files
+
+Only the **English** Markdown files should be edited directly. After changing text in a `.md` file, please run `./tools/i18n.sh` as described in [TRANSLATIONS.md](TRANSLATIONS.md) to propagate the english changes to all other languages.
+
 ## Deployment
 
 The latest site is automatically deployed from `main` on the merging of a pull request.
@@ -23,11 +31,5 @@ It's also possible to manually deploy in the Actions menu.
 
 Any good ideas and help with web site improvement are appreciated. And it's always better to discuss
 any improvement before implementing it to sync with our vision and plans.
-
-## Translations
-
-We need your help to translate this site to your language on [Codeberg Translate][weblate].
-
-More in depth technical details are documented in [TRANSLATIONS.md](TRANSLATIONS.md).
 
 [weblate]: https://translate.codeberg.org/projects/comaps/website
