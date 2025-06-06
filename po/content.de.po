@@ -6,7 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"Last-Translator: gedankenstuecke <gedankenstuecke@noreply.codeberg.org>\n"
+"PO-Revision-Date: 2025-06-05 03:41+0000\n"
+"Last-Translator: map-per <map-per@noreply.codeberg.org>\n"
 "Language-Team: German <https://translate.codeberg.org/projects/comaps/website/de/>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -131,7 +132,7 @@ msgstr "Neuigkeiten und Releases"
 #: content/community/index.md
 #, no-wrap
 msgid "CoMaps is created and maintained by people like you"
-msgstr "CoMaps ist gemacht und unterhalten von Leuten wie dir"
+msgstr "CoMaps wird von Leuten wie dir entwickelt"
 
 #. type: Yaml Front Matter Hash Value: extra donate description
 #: content/community/index.md
@@ -155,13 +156,13 @@ msgstr "Bugs melden, Ideen diskutieren, Features vorschlagen"
 #: content/community/index.md
 #, no-wrap
 msgid "**Report** Bugs"
-msgstr "Bugs **melden**"
+msgstr "**Melde** Bugs"
 
 #. type: Yaml Front Matter Hash Value: extra features description
 #: content/community/index.md
 #, no-wrap
 msgid "Develop new features, help fix bugs, and review code"
-msgstr "Entwickle neue Features, hilf mit, Bugs zu fixen, und evaluiere den Code"
+msgstr "Entwickle neue Features, fixe Bugs und hilf bei Code Reviews"
 
 #. type: Yaml Front Matter Hash Value: extra features title
 #: content/community/index.md
@@ -179,7 +180,7 @@ msgstr "Beeinflusse die Richtung, in die das Produkt geht"
 #: content/community/index.md
 #, no-wrap
 msgid "**Design** Interface"
-msgstr "Design-Oberfläche"
+msgstr "**Designe** die Oberfläche"
 
 #. type: Yaml Front Matter Hash Value: extra features description
 #: content/community/index.md
@@ -215,7 +216,7 @@ msgstr "Hilf Menschen, die App zu nutzen, und beantworte ihre Fragen"
 #: content/community/index.md
 #, no-wrap
 msgid "**Help** Support"
-msgstr "**Hilfe** Support"
+msgstr "**Hilf** beim Support"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/community/index.md
@@ -269,7 +270,7 @@ msgstr "Entwickler*innen"
 #: content/donate/index.md
 #, no-wrap
 msgid "We pay for fast servers, so anyone in the world can download free map data updates without delays. The maps data transfers are hundreds of terabytes monthly, and the amount is growing."
-msgstr "Wir zahlen für schnelle Server, damit man weltweit gratis Kartenupdates ohne Verzögerungen runterladen können. Die Summe des Datentransfers beträgt mehrere Hunderte Terabytes monatlich und steigt weiterhin."
+msgstr "Wir zahlen für schnelle Server, damit man weltweit gratis Kartenupdates ohne Verzögerungen runterladen kann. Die Summe des Datentransfers beträgt mehrere Hunderte Terabytes monatlich und steigt weiterhin."
 
 #. type: Yaml Front Matter Hash Value: extra funding items title
 #: content/donate/index.md
@@ -369,7 +370,7 @@ msgstr "Probleme in der Governance und Sorgen in der Community, die von den Shar
 #: content/about-us/index.md
 #, no-wrap
 msgid "The **CoMaps** community & non-profit project was founded by former Organic Maps contributors, based on the Organic Maps source code."
-msgstr "Das Projekt **CoMaps** wird als Community- und unkommerzielles Projekt gegründet von früheren Beitragenden zu Organic Maps, basierend auf dem Quellcode von Organic Maps."
+msgstr "Das Projekt **CoMaps** wird als Community- und unkommerzielles Projekt von früheren Organic Maps Beitragenden basierend auf dem Quellcode von Organic Maps gegründet."
 
 #. type: Yaml Front Matter Hash Value: extra history title
 #: content/about-us/index.md
@@ -381,7 +382,7 @@ msgstr "Verlauf"
 #: content/about-us/index.md
 #, no-wrap
 msgid "Unlock the freedom to easily navigate offline, with privacy-focused maps for drivers, hikers, and cyclists, powered by the community."
-msgstr "Entdecke die Freiheit, einfach offline zu navigieren, mit Fokus auf Datenschutz, zum Autofahren, Wandern und Radfahren, unterstützt von der Community."
+msgstr "Von der Community unterstützt wollen wir einfache offline Navigation mit Focus auf Privatsphäre für Autofahrer, Wanderer und Radfahrer ermöglichen."
 
 #. type: Yaml Front Matter Hash Value: extra vm items title
 #: content/about-us/index.md
@@ -393,7 +394,7 @@ msgstr "Mission"
 #: content/about-us/index.md
 #, no-wrap
 msgid "Create a world where navigating with maps is free, and privacy by default is the top choice on the planet."
-msgstr "Schaffen Sie eine Welt, in der das Navigieren mit Karten kostenlos ist, und Datenschutz standardmäßig die erste Wahl ist."
+msgstr "Wir wollen eine Welt schaffen, in der das Navigieren mit Karten kostenlos ist, und Datenschutz standardmäßig die erste Wahl ist."
 
 #. type: Yaml Front Matter Hash Value: extra vm items title
 #: content/about-us/index.md
