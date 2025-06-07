@@ -4,8 +4,9 @@ extra:
   freedom:
     description: 'Fedezd fel az utadat, navigálj a világban úgy, hogy az adatvédelem és a közösség kerül előtérbe.'
     title: 'Itt a szabadság'
-  organic_section_description: 'Community + Open Maps'
-  organic_section_title: Organic
+  map:
+    description: 'Community + Open Maps'
+    title:
   services:
     items:
       - 

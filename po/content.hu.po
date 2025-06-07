@@ -33,6 +33,12 @@ msgstr "Fedezd fel az utadat, navigálj a világban úgy, hogy az adatvédelem �
 msgid "Freedom Is Here"
 msgstr "Itt a szabadság"
 
+#. type: Yaml Front Matter Hash Value: extra map description
+#: content/_index.md
+#, no-wrap
+msgid "Community + Open Maps"
+msgstr ""
+
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
 #, no-wrap

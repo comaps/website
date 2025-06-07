@@ -4,8 +4,9 @@ description: Discover more of your journey -<br/>Powered by the community
 template: home.html
 sort_by: weight
 extra:
-    organic_section_title: Organic
-    organic_section_description: Community + Open Maps
+    map:
+        title: ""
+        description: Community + Open Maps
     services:
         items:
             -

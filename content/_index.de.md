@@ -4,8 +4,9 @@ extra:
   freedom:
     description: 'Entdecke deine Reise, navigiere durch die Welt mit Fokus auf Datenschutz und Community.'
     title: 'Freiheit ist hier'
-  organic_section_description: 'Community + Open Maps'
-  organic_section_title: Organic
+  map:
+    description: 'Community + Open Maps'
+    title:
   services:
     items:
       - 

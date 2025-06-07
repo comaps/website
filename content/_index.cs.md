@@ -4,8 +4,9 @@ extra:
   freedom:
     description: 'Objevte svou cestu, navigujte se světem se soukromím a komunitou na prvním místě.'
     title: 'Svoboda je tady'
-  organic_section_description: 'Community + Open Maps'
-  organic_section_title: Organic
+  map:
+    description: 'Community + Open Maps'
+    title:
   services:
     items:
       - 

@@ -33,6 +33,13 @@ msgstr "Scopri il tuo viaggio, naviga nel mondo con la privacy e la comunità al
 msgid "Freedom Is Here"
 msgstr "La libertà è qui"
 
+#. type: Yaml Front Matter Hash Value: extra map description
+#: content/_index.md
+#, fuzzy, no-wrap
+#| msgid "Community"
+msgid "Community + Open Maps"
+msgstr "Comunità"
+
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
 #, no-wrap

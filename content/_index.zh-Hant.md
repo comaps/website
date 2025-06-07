@@ -4,8 +4,9 @@ extra:
   freedom:
     description: 探索您的旅程，以隱私和社群為本，暢遊世界。
     title: 自由在此
-  organic_section_description: 'Community + Open Maps'
-  organic_section_title: Organic
+  map:
+    description: 'Community + Open Maps'
+    title:
   services:
     items:
       - 

@@ -2,10 +2,10 @@
     <div class="container open-map__container">
        <div class="open-map__img"></div>
         <h1 class="h2 open-map__title">
-            {{ trans(key='organic_title', lang=lang) }}
+            {{ resource.extra.map.title | safe }}
         </h1>
         <p class="h2-sub open-map__description">
-            {{ trans(key='community_title', lang=lang) }}
+            {{ resource.extra.map.description | safe }}
         </p>
         <div class="open-map__icon-row">
             <img class="open-map__icon" src="/images/open-map/map-1.webp" width="256" height="256" alt="img">
