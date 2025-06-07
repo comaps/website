@@ -9,7 +9,7 @@ extra:
       icon: chats.svg
       link: https://codeberg.org/comaps/comaps/issues
       title: "**Signaler** des bugs"
-    - description: "Développez de nouvelles fonctionnalités, aidez à corriger les bugs et révisez du code"
+    - description: "Développez de nouvelles fonctionnalités, aidez à corriger les bugs et validez du code"
       icon: CodeBlock.svg
       link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md
       title: "**Développez** des fonctionnalités"

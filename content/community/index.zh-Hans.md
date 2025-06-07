@@ -1,37 +1,37 @@
 ---
-description: "CoMaps is created and maintained by people like you"
+description: "如同您一样的人创建和维护着 CoMaps"
 extra:
   donate:
-    description: "The app runs on your donations, help improve it"
-    title: Donate
+    description: 本应用依靠您的捐赠运行，请帮助改善它
+    title: 捐助我们
   features:
-    - description: "Report bugs, discuss idea, and propose features"
+    - description: 报告功能问题、讨论想法，并提出建议
       icon: chats.svg
       link: https://codeberg.org/comaps/comaps/issues
-      title: "**Report** Bugs"
-    - description: "Develop new features, help fix bugs, and review code"
+      title: "**报告** 功能问题"
+    - description: 开发新功能、帮忙修复错误，并审查代码
       icon: CodeBlock.svg
       link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md
-      title: "**Develop** Functionality"
-    - description: "Shape the direction of the product experience"
+      title: "**开发** 功能性"
+    - description: 塑造产品体验的定位
       icon: BezierCurve.svg
       link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md
-      title: "**Design** Interface"
-    - description: "Add translations to make it accessible for more people around the world"
+      title: "**设计** 界面"
+    - description: 添加翻译，走入世界各地
       icon: Translate.svg
       link: https://codeberg.org/comaps/comaps/src/branch/main/docs/TRANSLATIONS.md
-      title: "**Translate** Text"
-    - description: "Add info about shops, points of interest, trails, and public transport to OpenStreetMap"
+      title: "**翻译** 文本"
+    - description: "在 OpenStreetMap 上添加有关商店、兴趣点、路径和公共交通的信息"
       icon: MapPinLine.svg
       link: /support/editing-with-CoMaps
-      title: "**Add** Place Info"
-    - description: "Help people use the app, and answer questions"
+      title: "**添加** 地点信息"
+    - description: 帮助他人熟练本应用，耐心解答社区的提问
       icon: Headset.svg
       link: "#"
-      title: "**Help** Support"
+      title: "**帮助** 支持"
   preview_image: donate/donate.png
   stay_connected_section_title: "connect with us"
 template: community.html
-title: Community
+title: 社区
 weight: 10
 ---

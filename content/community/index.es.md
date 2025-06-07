@@ -25,13 +25,13 @@ extra:
       icon: MapPinLine.svg
       link: /support/editing-with-CoMaps
       title: "**Add** Place Info"
-    - description: "Help people use the app, and answer questions"
+    - description: "Ayuda a la gente a usar la aplicación, y contesta preguntas"
       icon: Headset.svg
       link: "#"
       title: "**Help** Support"
   preview_image: donate/donate.png
   stay_connected_section_title: "connect with us"
 template: community.html
-title: Community
+title: Comunidad
 weight: 10
 ---

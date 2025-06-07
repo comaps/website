@@ -15,16 +15,16 @@ extra:
   mobile_shop_name_4: AppGallery
   steps:
     items:
-      - "Offline Maps"
-      - Privacy-Centric
-      - "No data collection"
-      - Community-Driven
-    title: "Already downloaded?"
+      - "Mapas sin conexión"
+      - "Centrado en privacidad"
+      - "Sin recolección de datos"
+      - "Dirigido por la comunidad"
+    title: "¿Ya descargado?"
 template: download.html
-title: "Download CoMaps"
+title: "Descarga CoMaps"
 weight: 10
 ---
 
-The first app release is available as an APK download now! We are still
-working on publishing on F-Droid, Google Play Store and iOS App Store as
-well, please stay tuned!
+¡El primer lanzamiento de la aplicación ya está disponible como una descarga
+APK! Todavía estamos trabajando en su publicación en F-Droid, Google Play
+Store y la iOS App Store también, ¡así que permanece atento!

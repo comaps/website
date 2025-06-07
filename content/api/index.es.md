@@ -1,7 +1,8 @@
 ---
 description:
-title: "API Page"
+title: "Página API"
 weight: 10
 ---
 
-The link API is documented on [omaps.app/api](https://omaps.app/api).
+En enlace a la API está documentado en
+[omaps.app/api](https://omaps.app/api).

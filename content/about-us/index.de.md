@@ -16,18 +16,18 @@ extra:
       - text: "Probleme in der Governance und Sorgen in der Community, die von den Shareholdern der Firma nicht beantwortet wurden, führten zu monatelanger Stagnation der Entwicklung von Organic Maps."
         year: 2025
       - highlight: true
-        text: "Das Projekt **CoMaps** wird als Community- und unkommerzielles Projekt gegründet von früheren Beitragenden zu Organic Maps, basierend auf dem Quellcode von Organic Maps."
+        text: "Das Projekt **CoMaps** wird als Community- und unkommerzielles Projekt von früheren Organic Maps Beitragenden basierend auf dem Quellcode von Organic Maps gegründet."
         year: 2025
     title: Verlauf
   vm:
     items:
       - icon: /images/icons/about/mission.svg
         media: /images/about-us/mission.png
-        text: "Entdecke die Freiheit, einfach offline zu navigieren, mit Fokus auf Datenschutz, zum Autofahren, Wandern und Radfahren, unterstützt von der Community."
+        text: "Von der Community unterstützt wollen wir einfache offline Navigation mit Focus auf Privatsphäre für Autofahrer, Wanderer und Radfahrer ermöglichen."
         title: Mission
       - icon: /images/icons/about/vision.svg
         media: /images/about-us/vision.png
-        text: "Schaffen Sie eine Welt, in der das Navigieren mit Karten kostenlos ist, und Datenschutz standardmäßig die erste Wahl ist."
+        text: "Wir wollen eine Welt schaffen, in der das Navigieren mit Karten kostenlos ist, und Datenschutz standardmäßig die erste Wahl ist."
         title: Vision
 template: about-us.html
 title: "Über uns"

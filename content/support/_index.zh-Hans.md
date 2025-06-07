@@ -1,5 +1,5 @@
 ---
-description: "Need assistance? Search for answers to common questions. Get the support you need and connect with others in the community for help."
+description: 需要帮助？搜索常见问题的已知解决方案。获取您所需的支持，并联系社区中的其他人互相帮忙。
 extra:
   faq_title: FAQs
   hero_buttons:
@@ -21,6 +21,6 @@ extra:
   support_card_title_1: "How can we help?"
   support_card_title_2: "Email Contact"
   support_card_title_3: "Support Channel"
-title: Support
+title: 支持我们
 weight: 10
 ---

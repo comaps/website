@@ -1,40 +1,40 @@
 ---
-description: "Discover more of your journey  \nPowered by the community\n"
+description: "Fedezz fel többet az utazásodról  \nA közösség által működtetett\n"
 extra:
   freedom:
-    description: 'Discover your journey, navigate the world with privacy and community at the forefront.'
-    title: 'Freedom Is Here'
+    description: 'Fedezd fel az utadat, navigálj a világban úgy, hogy az adatvédelem és a közösség kerül előtérbe.'
+    title: 'Itt a szabadság'
   organic_section_description: 'Community + Open Maps'
   organic_section_title: Organic
   services:
     items:
       - 
-        description: 'Plan and navigate your trip abroad without the need for mobile data, and search waypoints while on a distant hike.'
+        description: 'Tervezd meg és navigáld külföldi utadat mobiladat igénybevétele nélkül, és keress tájékozódási pontokat egy messzi túra során.'
         highlight:
           icon: static/images/icons/home/wifi-off.svg
-          text: 'No internet needed'
+          text: 'Internet kapcsolathoz nincs szükség'
         media:
           map: /images/sections/map-s-1.webp
           user: /images/sections/map-m-1.webp
-        title: 'Offline Search and Route'
+        title: 'Internet nélküli keresés és útvonal tervezés'
       - 
-        description: 'The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information.'
+        description: 'Az alkalmazás az adatvédelem szem előtt tartásával készült - nem azonosítja az embereket, nem követ téged, és nem gyűjt semmilyen információt.'
         highlight:
           icon: static/images/icons/home/shield.svg
-          text: 'Privacy by default'
+          text: 'Adatvédelem alapértelmezetten'
         media:
           map: /images/sections/map-s-2.webp
           user: /images/sections/map-m-2.webp
-        title: 'No Data Collection'
+        title: 'Nincs adatgyűjtés'
       - 
-        description: 'Efficiently uses the battery, doesn’t drain your battery like other navigation apps.'
+        description: 'Hatékonyan használja az akkumulátort, nem meríti az akkumulátort, mint más navigációs alkalmazások.'
         highlight:
           icon: static/images/icons/home/battery.svg
-          text: 'Efficient battery use'
+          text: 'Hatékony akkumulátor használat'
         media:
           map: /images/sections/map-s-3.webp
           user: /images/sections/map-m-3.webp
-        title: 'Save Your Battery'
+        title: 'Takarékoskodj az akkumulátoroddal'
       - 
         description: 'People like you helped build the app by adding locations to <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-open-street-map"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on Codeberg in the open-source community.'
         highlight:

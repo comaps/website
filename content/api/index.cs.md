@@ -1,7 +1,8 @@
 ---
 description:
-title: "API Page"
+title: "Stránka API"
 weight: 10
 ---
 
-The link API is documented on [omaps.app/api](https://omaps.app/api).
+Rozhraní API je zdokumentováno na adrese
+[omaps.app/api](https://omaps.app/api).

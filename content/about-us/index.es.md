@@ -1,10 +1,10 @@
 ---
-description: "Free and open navigation with privacy  \nBuilt by the community\n"
+description: "Navegación libre y abierta con privacidad  \nConstruido por la comunidad\n"
 extra:
   about:
     media: /images/about-us/about.png
     text: "CoMaps is a community-focused privacy navigation app for travelers - drivers, hikers, and cyclists. It uses the crowd-sourced OpenStreetMap data with contributors from all over the globe. It offers navigation with privacy - no identifying people and no data collection. CoMaps features can operate without an active internet connection for offline navigation at urban or distant locations, where cellular service is not available. CoMaps is an open-source project, and prioritizes community development."
-    title: "Free and open navigation with privacy, built by the community"
+    title: "Navegación libre y abierta con privacidad, construida por la comunidad"
   history:
     items:
       - text: "MapsWithMe navigation app created (later renamed to Maps.me)"

@@ -1,35 +1,35 @@
 ---
-description: "Free and open navigation with privacy  \nBuilt by the community\n"
+description: "Bezplatná a otevřená navigace se soukromím\nVytvořená komunitou\n"
 extra:
   about:
     media: /images/about-us/about.png
-    text: "CoMaps is a community-focused privacy navigation app for travelers - drivers, hikers, and cyclists. It uses the crowd-sourced OpenStreetMap data with contributors from all over the globe. It offers navigation with privacy - no identifying people and no data collection. CoMaps features can operate without an active internet connection for offline navigation at urban or distant locations, where cellular service is not available. CoMaps is an open-source project, and prioritizes community development."
-    title: "Free and open navigation with privacy, built by the community"
+    text: "CoMaps je komunitně zaměřená navigační aplikace pro cestovatele – řidiče, turisty a cyklisty – která dbá na ochranu soukromí. Využívá data z projektu OpenStreetMap, která jsou tvořena přispěvateli z celého světa. Nabízí navigaci s důrazem na soukromí – bez identifikace uživatelů a bez sběru dat. Funkce CoMaps lze používat i bez aktivního připojení k internetu, což umožňuje offline navigaci ve městech i na odlehlých místech, kde není dostupný mobilní signál. CoMaps je projekt s otevřeným zdrojovým kódem a klade důraz na konunitní vývoj."
+    title: "Bezplatná a otevřená navigace se soukromím, vytvořená komunitou"
   history:
     items:
-      - text: "MapsWithMe navigation app created (later renamed to Maps.me)"
+      - text: "Vytvořena navigační aplikace MapsWithMe (později přejmenována na Maps.me)"
         year: 2011
-      - text: "Maps.me opened the source code under Apache 2.0 license."
+      - text: "Maps.me otevřely zdrojový kód pod licencí Apache 2.0."
         year: 2015
-      - text: "The Organic Maps project & company were founded, based on the Maps.Me source code."
+      - text: "Byla založena společnost a projekt Organic Maps, založený na zdrojovém kódu Maps.me."
         year: 2021
-      - text: "Governance issues and community concerns not addressed by company shareholders stalled the development of Organic Maps for months."
+      - text: "Problémy se správou a obavy komunity, které akcionáři společnosti neřešili, zbrzdily vývoj Organic Maps na několik měsíců."
         year: 2025
       - highlight: true
-        text: "The **CoMaps** community & non-profit project was founded by former Organic Maps contributors, based on the Organic Maps source code."
+        text: "Původní přispěvatelé Organic Maps založili komunitu a neziskový projekt **CoMaps**, založený na zdrojovém kódu projektu Organic Maps."
         year: 2025
-    title: History
+    title: Historie
   vm:
     items:
       - icon: /images/icons/about/mission.svg
         media: /images/about-us/mission.png
-        text: "Unlock the freedom to easily navigate offline, with privacy-focused maps for drivers, hikers, and cyclists, powered by the community."
-        title: Mission
+        text: "Odemkněte si svobodu snadné navigace offline s mapami zaměřenými na soukromí pro řidiče, turisty a cyklisty, které jsou poháněny komunitou."
+        title: Mise
       - icon: /images/icons/about/vision.svg
         media: /images/about-us/vision.png
-        text: "Create a world where navigating with maps is free, and privacy by default is the top choice on the planet."
-        title: Vision
+        text: "Vytvářejte svět, kde je navigace s mapami svobodná a soukromí je hlavní volbou na Zemi."
+        title: Vize
 template: about-us.html
-title: "About Us"
+title: "O nás"
 weight: 10
 ---

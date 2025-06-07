@@ -1,5 +1,5 @@
 ---
-description: "CoMaps ist gemacht und unterhalten von Leuten wie dir"
+description: "CoMaps wird von Leuten wie dir entwickelt"
 extra:
   donate:
     description: "Die App basiert auf Spenden, hilf mit, sie zu verbessern"
@@ -8,15 +8,15 @@ extra:
     - description: "Bugs melden, Ideen diskutieren, Features vorschlagen"
       icon: chats.svg
       link: https://codeberg.org/comaps/comaps/issues
-      title: "Bugs **melden**"
-    - description: "Entwickle neue Features, hilf mit, Bugs zu fixen, und evaluiere den Code"
+      title: "**Melde** Bugs"
+    - description: "Entwickle neue Features, fixe Bugs und hilf bei Code Reviews"
       icon: CodeBlock.svg
       link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md
       title: "**Entwickle** Funktionalität"
     - description: "Beeinflusse die Richtung, in die das Produkt geht"
       icon: BezierCurve.svg
       link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md
-      title: Design-Oberfläche
+      title: "**Designe** die Oberfläche"
     - description: "Trage Übersetzungen bei, um die App Menschen weltweit zugänglich zu machen"
       icon: Translate.svg
       link: https://codeberg.org/comaps/comaps/src/branch/main/docs/TRANSLATIONS.md
@@ -28,7 +28,7 @@ extra:
     - description: "Hilf Menschen, die App zu nutzen, und beantworte ihre Fragen"
       icon: Headset.svg
       link: "#"
-      title: "**Hilfe** Support"
+      title: "**Hilf** beim Support"
   preview_image: donate/donate.png
   stay_connected_section_title: "connect with us"
 template: community.html

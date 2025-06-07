@@ -17,7 +17,7 @@ extra:
     items:
       - "Offline Maps"
       - Privacy-Centric
-      - "No data collection"
+      - 不收集数据
       - Community-Driven
     title: "Already downloaded?"
 template: download.html
