@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"PO-Revision-Date: 2025-06-06 13:25+0000\n"
+"PO-Revision-Date: 2025-06-07 06:36+0000\n"
 "Last-Translator: oxisol <oxisol@noreply.codeberg.org>\n"
 "Language-Team: Chinese (Simplified Han script) <https://translate.codeberg.org/projects/comaps/website/zh_Hans/>\n"
 "Language: zh-Hans\n"
@@ -268,7 +268,7 @@ msgstr "开发者们"
 #: content/donate/index.md
 #, no-wrap
 msgid "We pay for fast servers, so anyone in the world can download free map data updates without delays. The maps data transfers are hundreds of terabytes monthly, and the amount is growing."
-msgstr ""
+msgstr "我们定期支付快速服务器的费用，以便全世界任何人都可以无延迟地下载免费地图数据更新。地图数据传输量每月高达数百 TB，而且还在不断增长。"
 
 #. type: Yaml Front Matter Hash Value: extra funding items title
 #: content/donate/index.md
@@ -350,25 +350,25 @@ msgstr "MapsWithMe 导航应用被创建（后更名为 Maps.me）"
 #: content/about-us/index.md
 #, no-wrap
 msgid "Maps.me opened the source code under Apache 2.0 license."
-msgstr ""
+msgstr "Maps.me 依据 Apache 许可证 2.0 版开放源代码。"
 
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md
 #, no-wrap
 msgid "The Organic Maps project & company were founded, based on the Maps.Me source code."
-msgstr ""
+msgstr "基于 Maps.Me 源代码的 Organic Maps 项目和公司被创立。"
 
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md
 #, no-wrap
 msgid "Governance issues and community concerns not addressed by company shareholders stalled the development of Organic Maps for months."
-msgstr ""
+msgstr "公司股东迄今未回应社区成员关于治理问题提出来的担忧，导致 Organic Maps 的发展停滞数月之久。"
 
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md
 #, no-wrap
 msgid "The **CoMaps** community & non-profit project was founded by former Organic Maps contributors, based on the Organic Maps source code."
-msgstr ""
+msgstr "**CoMaps** 社区和非营利项目以 Organic Maps 源代码为基础，由 Organic Maps 昔日的贡献者所创建。"
 
 #. type: Yaml Front Matter Hash Value: extra history title
 #: content/about-us/index.md
@@ -386,7 +386,7 @@ msgstr ""
 #: content/about-us/index.md
 #, no-wrap
 msgid "Mission"
-msgstr ""
+msgstr "我们的使命"
 
 #. type: Yaml Front Matter Hash Value: extra vm items text
 #: content/about-us/index.md
@@ -398,13 +398,13 @@ msgstr ""
 #: content/about-us/index.md
 #, no-wrap
 msgid "Vision"
-msgstr ""
+msgstr "我们的愿景"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/about-us/index.md
 #, no-wrap
 msgid "About Us"
-msgstr ""
+msgstr "关于我们"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/download/index.md
@@ -462,4 +462,4 @@ msgstr ""
 #. type: Plain text
 #: content/api/index.md
 msgid "The link API is documented on [omaps.app/api](https://omaps.app/api)."
-msgstr ""
+msgstr "关于连接 API，请参见 [omaps.app/api](https://omaps.app/api)。"

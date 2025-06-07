@@ -6,13 +6,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-06-06 21:22+0000\n"
+"Last-Translator: nkevin <nkevin@noreply.codeberg.org>\n"
+"Language-Team: Hungarian <https://translate.codeberg.org/projects/comaps/website/hu/>\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.11.4\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -21,72 +23,74 @@ msgid ""
 "Discover more of your journey  \n"
 "Powered by the community\n"
 msgstr ""
+"Fedezz fel többet az utazásodról  \n"
+"A közösség által működtetett\n"
 
 #. type: Yaml Front Matter Hash Value: extra freedom description
 #: content/_index.md
 #, no-wrap
 msgid "Discover your journey, navigate the world with privacy and community at the forefront."
-msgstr ""
+msgstr "Fedezd fel az utadat, navigálj a világban úgy, hogy az adatvédelem és a közösség kerül előtérbe."
 
 #. type: Yaml Front Matter Hash Value: extra freedom title
 #: content/_index.md
 #, no-wrap
 msgid "Freedom Is Here"
-msgstr ""
+msgstr "Itt a szabadság"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
 #, no-wrap
 msgid "Plan and navigate your trip abroad without the need for mobile data, and search waypoints while on a distant hike."
-msgstr ""
+msgstr "Tervezd meg és navigáld külföldi utadat mobiladat igénybevétele nélkül, és keress tájékozódási pontokat egy messzi túra során."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
 #, no-wrap
 msgid "No internet needed"
-msgstr ""
+msgstr "Internet kapcsolathoz nincs szükség"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
 #, no-wrap
 msgid "Offline Search and Route"
-msgstr ""
+msgstr "Internet nélküli keresés és útvonal tervezés"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
 #, no-wrap
 msgid "The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information."
-msgstr ""
+msgstr "Az alkalmazás az adatvédelem szem előtt tartásával készült - nem azonosítja az embereket, nem követ téged, és nem gyűjt semmilyen információt."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
 #, no-wrap
 msgid "Privacy by default"
-msgstr ""
+msgstr "Adatvédelem alapértelmezetten"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
 #, no-wrap
 msgid "No Data Collection"
-msgstr ""
+msgstr "Nincs adatgyűjtés"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
 #, no-wrap
 msgid "Efficiently uses the battery, doesn’t drain your battery like other navigation apps."
-msgstr ""
+msgstr "Hatékonyan használja az akkumulátort, nem meríti az akkumulátort, mint más navigációs alkalmazások."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
 #, no-wrap
 msgid "Efficient battery use"
-msgstr ""
+msgstr "Hatékony akkumulátor használat"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
 #, no-wrap
 msgid "Save Your Battery"
-msgstr ""
+msgstr "Takarékoskodj az akkumulátoroddal"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
