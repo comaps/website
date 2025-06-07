@@ -23,7 +23,7 @@ extra:
     items:
       - icon: /images/icons/about/mission.svg
         media: /images/about-us/mission.png
-        text: "Unlock the freedom to easily navigate offline, with privacy-focused maps for drivers, hikers, and cyclists, powered by the community."
+        text: 在社区的支持下提供注重隐私的地图，让司机、驴友和骑友解锁轻松离线导航的自由。
         title: 我们的使命
       - icon: /images/icons/about/vision.svg
         media: /images/about-us/vision.png
