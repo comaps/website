@@ -6,6 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
+"PO-Revision-Date: 2025-06-07 15:06+0000\n"
 "Last-Translator: oxisol <oxisol@noreply.codeberg.org>\n"
 "Language-Team: Chinese (Simplified Han script) <https://translate.codeberg.org/projects/comaps/website/zh_Hans/>\n"
 "Language: zh-Hans\n"
@@ -367,7 +368,7 @@ msgstr "历史沿革"
 #: content/about-us/index.md
 #, no-wrap
 msgid "Unlock the freedom to easily navigate offline, with privacy-focused maps for drivers, hikers, and cyclists, powered by the community."
-msgstr ""
+msgstr "在社区的支持下提供注重隐私的地图，让司机、驴友和骑友解锁轻松离线导航的自由。"
 
 #. type: Yaml Front Matter Hash Value: extra vm items title
 #: content/about-us/index.md
