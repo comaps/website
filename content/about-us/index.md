@@ -1,8 +1,6 @@
 ---
 title: About Us
-description: |
-  Free and open navigation with privacy  
-  Built by the community
+description: Free and open navigation with privacy -<br/>Built by the community
 template: about-us.html
 weight: 10
 extra:

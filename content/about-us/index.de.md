@@ -1,5 +1,5 @@
 ---
-description: "Kostenlose, quelloffene Navigation mit Fokus auf Datenschutz\nEntwickelt von der Community\n"
+description: "Kostenlose, quelloffene Navigation mit Fokus auf Datenschutz -<br/>Entwickelt von der Community"
 extra:
   about:
     media: /images/about-us/about.png

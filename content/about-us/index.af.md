@@ -1,5 +1,5 @@
 ---
-description: "Free and open navigation with privacy  \nBuilt by the community\n"
+description: "Free and open navigation with privacy -<br/>Built by the community"
 extra:
   about:
     media: /images/about-us/about.png

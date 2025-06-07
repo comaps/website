@@ -1,5 +1,5 @@
 ---
-description: "旅程中更多探索\n由社区提供支持\n"
+description: '旅程中更多探索 -<br/>由社区提供支持'
 extra:
   freedom:
     description: 探索您的旅程，以隐私和社区为本，畅游世界。
@@ -39,7 +39,7 @@ extra:
         description: '如同您一样的用户通过向 <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-open-street-map"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span> 添加地点、测试功能并提供反馈、无私地在 Codeberg 上的开源社区里贡献自己的编程技能，协力开发了 CoMaps。'
         highlight:
           icon: static/images/icons/home/heart.svg
-          text: "人人免费，\n用爱制成\n"
+          text: 人人免费，用爱制成
         media:
           map: /images/sections/map-s-4.webp
           user: /images/sections/map-m-4.webp

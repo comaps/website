@@ -6,7 +6,6 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"PO-Revision-Date: 2025-06-05 03:41+0000\n"
 "Last-Translator: map-per <map-per@noreply.codeberg.org>\n"
 "Language-Team: German <https://translate.codeberg.org/projects/comaps/website/de/>\n"
 "Language: de\n"
@@ -19,12 +18,8 @@ msgstr ""
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
 #, no-wrap
-msgid ""
-"Discover more of your journey  \n"
-"Powered by the community\n"
-msgstr ""
-"Entdecke mehr von deiner Reise\n"
-"Entwickelt von der Community\n"
+msgid "Discover more of your journey -<br/>Powered by the community"
+msgstr "Entdecke mehr von deiner Reise -<br/>Entwickelt von der Community"
 
 #. type: Yaml Front Matter Hash Value: extra freedom description
 #: content/_index.md
@@ -60,9 +55,7 @@ msgstr "Offline-Suche und Routenplanung"
 #: content/_index.md
 #, no-wrap
 msgid "The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information."
-msgstr ""
-"Die App ist mit Blick auf Datenschutz konzipiert – sie identifiziert keine "
-"Personen, verfolgt dich nicht und sammelt keine Daten."
+msgstr "Die App ist mit Blick auf Datenschutz konzipiert – sie identifiziert keine Personen, verfolgt dich nicht und sammelt keine Daten."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
@@ -103,12 +96,8 @@ msgstr "Menschen wie du haben geholfen, die App zu entwickeln, indem sie Orte zu
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
 #, no-wrap
-msgid ""
-"Free for everyone,  \n"
-"Made with love\n"
-msgstr ""
-"Kostenlos für alle,\n"
-"mit Liebe gemacht\n"
+msgid "Free for everyone, Made with love"
+msgstr "Kostenlos für alle, mit Liebe gemacht"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
@@ -323,12 +312,8 @@ msgstr "Hilfe benötigt? Finde Antworten zu häufigen Fragen. Erhalte die Unters
 #. type: Yaml Front Matter Hash Value: description
 #: content/about-us/index.md
 #, no-wrap
-msgid ""
-"Free and open navigation with privacy  \n"
-"Built by the community\n"
-msgstr ""
-"Kostenlose, quelloffene Navigation mit Fokus auf Datenschutz\n"
-"Entwickelt von der Community\n"
+msgid "Free and open navigation with privacy -<br/>Built by the community"
+msgstr "Kostenlose, quelloffene Navigation mit Fokus auf Datenschutz -<br/>Entwickelt von der Community"
 
 #. type: Yaml Front Matter Hash Value: extra about text
 #: content/about-us/index.md

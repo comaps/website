@@ -1,5 +1,5 @@
 ---
-description: "Bezplatná a otevřená navigace se soukromím\nVytvořená komunitou\n"
+description: "Bezplatná a otevřená navigace se soukromím -<br/>Vytvořená komunitou"
 extra:
   about:
     media: /images/about-us/about.png

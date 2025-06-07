@@ -1,5 +1,5 @@
 ---
-description: "Scopri di più mentre il tuo viaggio\nFatto dalla comunità\n"
+description: 'Scopri di più mentre il tuo viaggio -<br/>Fatto dalla comunità'
 extra:
   freedom:
     description: 'Scopri il tuo viaggio, naviga nel mondo con la privacy e la comunità al primo piano.'
@@ -39,7 +39,7 @@ extra:
         description: "Persone come voi hanno contribuito a costruire l'applicazione aggiungendo località a <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, fornendo feedback sulle funzionalità e contribuendo al codice su Codeberg nella comunità open-source."
         highlight:
           icon: static/images/icons/home/heart.svg
-          text: "Gratuita per tutti,\nFatta con amore\n"
+          text: 'Gratuita per tutti, Fatta con amore'
         media:
           map: /images/sections/map-s-4.webp
           user: /images/sections/map-m-4.webp

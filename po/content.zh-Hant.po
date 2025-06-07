@@ -6,7 +6,6 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"PO-Revision-Date: 2025-06-07 06:36+0000\n"
 "Last-Translator: oxisol <oxisol@noreply.codeberg.org>\n"
 "Language-Team: Chinese (Traditional Han script) <https://translate.codeberg.org/projects/comaps/website/zh_Hant/>\n"
 "Language: zh_Hant\n"
@@ -19,12 +18,8 @@ msgstr ""
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
 #, no-wrap
-msgid ""
-"Discover more of your journey  \n"
-"Powered by the community\n"
-msgstr ""
-"旅程中更多探索 \n"
-"由社群提供支持\n"
+msgid "Discover more of your journey -<br/>Powered by the community"
+msgstr "旅程中更多探索 -<br/>由社群提供支持"
 
 #. type: Yaml Front Matter Hash Value: extra freedom description
 #: content/_index.md
@@ -101,12 +96,8 @@ msgstr "如同您一樣的使用者透過向 <span class=\"text-icon\"><svg view
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
 #, no-wrap
-msgid ""
-"Free for everyone,  \n"
-"Made with love\n"
-msgstr ""
-"大家免費使用，\n"
-"用愛打造而成\n"
+msgid "Free for everyone, Made with love"
+msgstr "大家免費使用，用愛打造而成"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
@@ -320,13 +311,10 @@ msgstr "需要協助嗎？搜尋常見問題的已知解決方案。獲得您所
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/about-us/index.md
-#, no-wrap
-msgid ""
-"Free and open navigation with privacy  \n"
-"Built by the community\n"
-msgstr ""
-"隱私保護下的免費開放導航\n"
-"由社群共同營造\n"
+#, fuzzy, no-wrap
+#| msgid "Free and open navigation with privacy, built by the community"
+msgid "Free and open navigation with privacy -<br/>Built by the community"
+msgstr "隱私保護下的免費開放導航 -<br/>由社群共同營造"
 
 #. type: Yaml Front Matter Hash Value: extra about text
 #: content/about-us/index.md
@@ -450,7 +438,6 @@ msgstr ""
 
 #. type: Plain text
 #: content/download/index.md
-#, markdown-text
 msgid "The first app release is available as an APK download now! We are still working on publishing on F-Droid, Google Play Store and iOS App Store as well, please stay tuned!"
 msgstr ""
 
@@ -462,6 +449,5 @@ msgstr ""
 
 #. type: Plain text
 #: content/api/index.md
-#, markdown-text
 msgid "The link API is documented on [omaps.app/api](https://omaps.app/api)."
 msgstr "關於介接 API，請參閱 [omaps.app/api](https://omaps.app/api)。"

@@ -1,8 +1,6 @@
 ---
 title: "Hike, Bike, Drive Offline Navigate with Privacy"
-description: |
-    Discover more of your journey  
-    Powered by the community
+description: Discover more of your journey -<br/>Powered by the community
 template: home.html
 sort_by: weight
 extra:
@@ -41,9 +39,7 @@ extra:
                 title: Free and Built by the Community
                 description: People like you helped build the app by adding locations to <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-open-street-map"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on Codeberg in the open-source community.
                 highlight:
-                    text: |
-                        Free for everyone,  
-                        Made with love
+                    text: Free for everyone, Made with love
                     icon: static/images/icons/home/heart.svg
                 media:
                     map: /images/sections/map-s-4.webp

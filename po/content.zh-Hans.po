@@ -6,7 +6,6 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"PO-Revision-Date: 2025-06-07 06:36+0000\n"
 "Last-Translator: oxisol <oxisol@noreply.codeberg.org>\n"
 "Language-Team: Chinese (Simplified Han script) <https://translate.codeberg.org/projects/comaps/website/zh_Hans/>\n"
 "Language: zh-Hans\n"
@@ -19,12 +18,8 @@ msgstr ""
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
 #, no-wrap
-msgid ""
-"Discover more of your journey  \n"
-"Powered by the community\n"
-msgstr ""
-"旅程中更多探索\n"
-"由社区提供支持\n"
+msgid "Discover more of your journey -<br/>Powered by the community"
+msgstr "旅程中更多探索 -<br/>由社区提供支持"
 
 #. type: Yaml Front Matter Hash Value: extra freedom description
 #: content/_index.md
@@ -101,12 +96,8 @@ msgstr "如同您一样的用户通过向 <span class=\"text-icon\"><svg viewBox
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
 #, no-wrap
-msgid ""
-"Free for everyone,  \n"
-"Made with love\n"
-msgstr ""
-"人人免费，\n"
-"用爱制成\n"
+msgid "Free for everyone, Made with love"
+msgstr "人人免费，用爱制成"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
@@ -321,12 +312,8 @@ msgstr "需要帮助？搜索常见问题的已知解决方案。获取您所需
 #. type: Yaml Front Matter Hash Value: description
 #: content/about-us/index.md
 #, no-wrap
-msgid ""
-"Free and open navigation with privacy  \n"
-"Built by the community\n"
-msgstr ""
-"隐私保护下的免费开放导航\n"
-"由社区共同创建\n"
+msgid "Free and open navigation with privacy -<br/>Built by the community"
+msgstr "隐私保护下的免费开放导航 -<br/>由社区共同创建"
 
 #. type: Yaml Front Matter Hash Value: extra about text
 #: content/about-us/index.md

@@ -1,5 +1,5 @@
 ---
-description: "隐私保护下的免费开放导航\n由社区共同创建\n"
+description: "隐私保护下的免费开放导航 -<br/>由社区共同创建"
 extra:
   about:
     media: /images/about-us/about.png

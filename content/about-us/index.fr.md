@@ -1,5 +1,5 @@
 ---
-description: "Navigation gratuite et ouverte avec vie privée\nCréée par la communauté\n"
+description: "Navigation gratuite et ouverte avec vie privée -<br/>Créée par la communauté"
 extra:
   about:
     media: /images/about-us/about.png

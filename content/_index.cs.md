@@ -1,5 +1,5 @@
 ---
-description: "Objevte více ze své cesty\nVytvářeno komunitou\n"
+description: 'Objevte více ze své cesty -<br/>Vytvářeno komunitou'
 extra:
   freedom:
     description: 'Objevte svou cestu, navigujte se světem se soukromím a komunitou na prvním místě.'
@@ -39,7 +39,7 @@ extra:
         description: 'Lidé jako vy pomohli vytvořit tuto aplikaci přidáváním míst do projektu <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-open-street-map"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, posíláním zpětné vazby a přispíváním kódu na Codebergu v open-source komunitě.'
         highlight:
           icon: static/images/icons/home/heart.svg
-          text: "Zdarma pro všechny,  \nvytvořené s láskou\n"
+          text: 'Zdarma pro všechny, vytvořené s láskou'
         media:
           map: /images/sections/map-s-4.webp
           user: /images/sections/map-m-4.webp

@@ -18,12 +18,8 @@ msgstr ""
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
 #, no-wrap
-msgid ""
-"Discover more of your journey  \n"
-"Powered by the community\n"
-msgstr ""
-"Scopri di più mentre il tuo viaggio\n"
-"Fatto dalla comunità\n"
+msgid "Discover more of your journey -<br/>Powered by the community"
+msgstr "Scopri di più mentre il tuo viaggio -<br/>Fatto dalla comunità"
 
 #. type: Yaml Front Matter Hash Value: extra freedom description
 #: content/_index.md
@@ -100,12 +96,8 @@ msgstr "Persone come voi hanno contribuito a costruire l'applicazione aggiungend
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
 #, no-wrap
-msgid ""
-"Free for everyone,  \n"
-"Made with love\n"
-msgstr ""
-"Gratuita per tutti,\n"
-"Fatta con amore\n"
+msgid "Free for everyone, Made with love"
+msgstr "Gratuita per tutti, Fatta con amore"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
@@ -320,12 +312,8 @@ msgstr "Avete bisogno di assistenza? Cercate le risposte alle domande più comun
 #. type: Yaml Front Matter Hash Value: description
 #: content/about-us/index.md
 #, no-wrap
-msgid ""
-"Free and open navigation with privacy  \n"
-"Built by the community\n"
-msgstr ""
-"Navigazione libera e aperta con privacy\n"
-"Fatta dalla comunità\n"
+msgid "Free and open navigation with privacy -<br/>Built by the community"
+msgstr "Navigazione libera e aperta con privacy -<br/>Fatta dalla comunità"
 
 #. type: Yaml Front Matter Hash Value: extra about text
 #: content/about-us/index.md

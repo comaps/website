@@ -1,5 +1,5 @@
 ---
-description: "Navegação livre e aberta com privacidade\nConstruído pela comunidade\n"
+description: "Navegação livre e aberta com privacidade -<br/>Construído pela comunidade"
 extra:
   about:
     media: /images/about-us/about.png

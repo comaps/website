@@ -6,7 +6,6 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"PO-Revision-Date: 2025-06-05 08:03+0000\n"
 "Last-Translator: Duagolth <duagolth@noreply.codeberg.org>\n"
 "Language-Team: French <https://translate.codeberg.org/projects/comaps/website/fr/>\n"
 "Language: fr\n"
@@ -19,10 +18,8 @@ msgstr ""
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
 #, no-wrap
-msgid ""
-"Discover more of your journey  \n"
-"Powered by the community\n"
-msgstr "Découvrez-en plus lors de votre voyage\nFait par la communauté\n"
+msgid "Discover more of your journey -<br/>Powered by the community"
+msgstr "Découvrez-en plus lors de votre voyage -<br/>Fait par la communauté"
 
 #. type: Yaml Front Matter Hash Value: extra freedom description
 #: content/_index.md
@@ -99,12 +96,8 @@ msgstr "Des gens comme vous ont aidé à construire l'application en ajoutant de
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
 #, no-wrap
-msgid ""
-"Free for everyone,  \n"
-"Made with love\n"
-msgstr ""
-"Gratuit pour tout le monde,\n"
-"Fait avec amour\n"
+msgid "Free for everyone, Made with love"
+msgstr "Gratuit pour tout le monde, Fait avec amour"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
@@ -319,12 +312,8 @@ msgstr "Avez-vous besoin d'aide ? Cherchez des réponses aux questions courante
 #. type: Yaml Front Matter Hash Value: description
 #: content/about-us/index.md
 #, no-wrap
-msgid ""
-"Free and open navigation with privacy  \n"
-"Built by the community\n"
-msgstr ""
-"Navigation gratuite et ouverte avec vie privée\n"
-"Créée par la communauté\n"
+msgid "Free and open navigation with privacy -<br/>Built by the community"
+msgstr "Navigation gratuite et ouverte avec vie privée -<br/>Créée par la communauté"
 
 #. type: Yaml Front Matter Hash Value: extra about text
 #: content/about-us/index.md

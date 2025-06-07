@@ -6,7 +6,6 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"PO-Revision-Date: 2025-06-06 21:22+0000\n"
 "Last-Translator: nkevin <nkevin@noreply.codeberg.org>\n"
 "Language-Team: Hungarian <https://translate.codeberg.org/projects/comaps/website/hu/>\n"
 "Language: hu\n"
@@ -19,12 +18,8 @@ msgstr ""
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
 #, no-wrap
-msgid ""
-"Discover more of your journey  \n"
-"Powered by the community\n"
-msgstr ""
-"Fedezz fel többet az utazásodról  \n"
-"A közösség által működtetett\n"
+msgid "Discover more of your journey -<br/>Powered by the community"
+msgstr "Fedezz fel többet az utazásodról -<br/>A közösség által működtetett"
 
 #. type: Yaml Front Matter Hash Value: extra freedom description
 #: content/_index.md
@@ -101,9 +96,7 @@ msgstr ""
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
 #, no-wrap
-msgid ""
-"Free for everyone,  \n"
-"Made with love\n"
+msgid "Free for everyone, Made with love"
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: extra services items title
@@ -319,9 +312,7 @@ msgstr ""
 #. type: Yaml Front Matter Hash Value: description
 #: content/about-us/index.md
 #, no-wrap
-msgid ""
-"Free and open navigation with privacy  \n"
-"Built by the community\n"
+msgid "Free and open navigation with privacy -<br/>Built by the community"
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: extra about text
