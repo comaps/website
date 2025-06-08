@@ -6,10 +6,10 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"PO-Revision-Date: 2025-06-07 15:06+0000\n"
+"PO-Revision-Date: 2025-06-08 03:47+0000\n"
 "Last-Translator: oxisol <oxisol@noreply.codeberg.org>\n"
 "Language-Team: Chinese (Traditional Han script) <https://translate.codeberg.org/projects/comaps/website/zh_Hant/>\n"
-"Language: zh_Hant\n"
+"Language: zh-Hant\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -36,10 +36,9 @@ msgstr "自由在此"
 
 #. type: Yaml Front Matter Hash Value: extra map description
 #: content/_index.md
-#, fuzzy, no-wrap
-#| msgid "Community"
+#, no-wrap
 msgid "Community + Open Maps"
-msgstr "社群"
+msgstr "社群 + 開放地圖"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
@@ -279,7 +278,7 @@ msgstr "設施"
 #: content/donate/index.md
 #, no-wrap
 msgid "User support, fixing bugs, and improving the stability of the app are our top priority. The list of requests and bug reports grows every day, and there are many support requests to respond to on the App Store, Google Play, and support emails."
-msgstr ""
+msgstr "使用者支援、修正錯誤、提升應用穩定性是我們當前的首要任務。錯誤報告的數量與日俱增，而 App Store、Google Play 和客服信箱裡也有大量支援請求需要回覆。"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/donate/index.md content/support/_index.md
@@ -319,8 +318,7 @@ msgstr "需要協助嗎？搜尋常見問題的已知解決方案。獲得您所
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/about-us/index.md
-#, fuzzy, no-wrap
-#| msgid "Free and open navigation with privacy, built by the community"
+#, no-wrap
 msgid "Free and open navigation with privacy -<br/>Built by the community"
 msgstr "隱私保護下的免費開放導航 -<br/>由社群共同營造"
 
@@ -388,7 +386,7 @@ msgstr "我們的使命"
 #: content/about-us/index.md
 #, no-wrap
 msgid "Create a world where navigating with maps is free, and privacy by default is the top choice on the planet."
-msgstr ""
+msgstr "創造一個可以免費使用地圖導航、設計由隱私出發是首選的世界。"
 
 #. type: Yaml Front Matter Hash Value: extra vm items title
 #: content/about-us/index.md
@@ -406,19 +404,19 @@ msgstr "關於我們"
 #: content/download/index.md
 #, no-wrap
 msgid "Unlock the potential of navigation! Discover offline maps, privacy-centric features, and a community-driven app"
-msgstr ""
+msgstr "發掘導航的潛能！探索以離線為模式、以隱私為中心、以社群為主導的地圖應用"
 
 #. type: Yaml Front Matter Array Element: extra steps items
 #: content/download/index.md
 #, no-wrap
 msgid "Offline Maps"
-msgstr ""
+msgstr "離線地圖"
 
 #. type: Yaml Front Matter Array Element: extra steps items
 #: content/download/index.md
 #, no-wrap
 msgid "Privacy-Centric"
-msgstr ""
+msgstr "以隱私為中心"
 
 #. type: Yaml Front Matter Array Element: extra steps items
 #: content/download/index.md
@@ -430,30 +428,30 @@ msgstr "不收集資料"
 #: content/download/index.md
 #, no-wrap
 msgid "Community-Driven"
-msgstr ""
+msgstr "以社群為主導"
 
 #. type: Yaml Front Matter Hash Value: extra steps title
 #: content/download/index.md
 #, no-wrap
 msgid "Already downloaded?"
-msgstr ""
+msgstr "已下載？"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/download/index.md
 #, no-wrap
 msgid "Download CoMaps"
-msgstr ""
+msgstr "下載 CoMaps"
 
 #. type: Plain text
 #: content/download/index.md
 msgid "The first app release is available as an APK download now! We are still working on publishing on F-Droid, Google Play Store and iOS App Store as well, please stay tuned!"
-msgstr ""
+msgstr "現已提供應用的初始版本 APK 下載！ 我們仍在研究 F-Droid、Google Play 和 iOS App Store 的上架工作，敬請期待！"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/api/index.md
 #, no-wrap
 msgid "API Page"
-msgstr ""
+msgstr "API 參考資料"
 
 #. type: Plain text
 #: content/api/index.md
