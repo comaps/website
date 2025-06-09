@@ -1,5 +1,5 @@
 ---
-description: "Free and open navigation with privacy -<br/>Built by the community"
+description: "隱私保護下的免費開放導航 -<br/>由社群共同營造"
 extra:
   about:
     media: /images/about-us/about.png
@@ -23,11 +23,11 @@ extra:
     items:
       - icon: /images/icons/about/mission.svg
         media: /images/about-us/mission.png
-        text: "Unlock the freedom to easily navigate offline, with privacy-focused maps for drivers, hikers, and cyclists, powered by the community."
+        text: 在社群的支持下提供注重隱私的地圖，讓運轉手、背包客和單車族解鎖輕鬆離線導航的自由。
         title: 我們的使命
       - icon: /images/icons/about/vision.svg
         media: /images/about-us/vision.png
-        text: "Create a world where navigating with maps is free, and privacy by default is the top choice on the planet."
+        text: 創造一個可以免費使用地圖導航、設計由隱私出發是首選的世界。
         title: 我們的願景
 template: about-us.html
 title: 關於我們

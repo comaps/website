@@ -1,5 +1,5 @@
 ---
-description: 發掘導航的潛能！探索以離線為模式、以隱私為中心、以社群為主導的地圖應用
+description: "Unlock the potential of navigation! Discover offline maps, privacy-centric features, and a community-driven app"
 extra:
   desktop_payment_methods_1: MacOS
   desktop_payment_methods_2: Linux
@@ -15,14 +15,16 @@ extra:
   mobile_shop_name_4: AppGallery
   steps:
     items:
-      - 離線地圖
-      - 以隱私為中心
-      - 不收集資料
-      - 以社群為主導
-    title: 已下載？
+      - "Offline Maps"
+      - Privacy-Centric
+      - "No data collection"
+      - Community-Driven
+    title: "Already downloaded?"
 template: download.html
-title: "下載 CoMaps"
+title: "Download CoMaps"
 weight: 10
 ---
 
-現已提供應用的初始版本 APK 下載！ 我們仍在研究 F-Droid、Google Play 和 iOS App Store 的上架工作，敬請期待！
+The first app release is available as an APK download now! We are still
+working on publishing on F-Droid, Google Play Store and iOS App Store as
+well, please stay tuned!

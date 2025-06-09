@@ -1,23 +1,23 @@
 ---
-description: 'اكتشف المذيد في رحلتك<br/>يعمل بقوة المجتمع'
+description: 'Discover more of your journey -<br/>Powered by the community'
 extra:
   freedom:
-    description: 'إكتشف رحلتك و تنقل حول العالم مع الخصوصية و المجتمع في المقدمة.'
-    title: 'الحرية هنا'
+    description: 'Discover your journey, navigate the world with privacy and community at the forefront.'
+    title: 'Freedom Is Here'
   map:
-    description: 'مجتمع + خرائط مفتوحة'
+    description: 'Community + Open Maps'
     title:
   services:
     items:
       - 
-        description: 'خطّط لرحلتك في الخارج وتنقّل فيها دون الحاجة إلى بيانات الهاتف المحمول، وابحث عن نقاط الطرق أثناء التنزه في مكان بعيد.'
+        description: 'Plan and navigate your trip abroad without the need for mobile data, and search waypoints while on a distant hike.'
         highlight:
           icon: static/images/icons/home/wifi-off.svg
-          text: 'لا حاجة لإتصال الإنترنت'
+          text: 'No internet needed'
         media:
           map: /images/sections/map-s-1.webp
           user: /images/sections/map-m-1.webp
-        title: 'البحث و السير بدون اتصال الإنترنت'
+        title: 'Offline Search and Route'
       - 
         description: 'The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information.'
         highlight:

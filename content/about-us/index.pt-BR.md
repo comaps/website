@@ -18,7 +18,7 @@ extra:
       - highlight: true
         text: "O projeto comunitário e sem fins lucrativos **CoMaps** foi fundado por antigos colaboradores do Organic Maps, com base no código-fonte do Organic Maps."
         year: 2025
-    title: História
+    title: Histórico
   vm:
     items:
       - icon: /images/icons/about/mission.svg

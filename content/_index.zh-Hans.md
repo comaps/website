@@ -5,7 +5,7 @@ extra:
     description: 探索您的旅程，以隐私和社区为本，畅游世界。
     title: 自由在此
   map:
-    description: 'Community + Open Maps'
+    description: '社区 + 开放地图'
     title:
   services:
     items:

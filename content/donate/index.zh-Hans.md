@@ -19,7 +19,7 @@ extra:
         text: "我们定期支付快速服务器的费用，以便全世界任何人都可以无延迟地下载免费地图数据更新。地图数据传输量每月高达数百 TB，而且还在不断增长。"
         title: 设施
       - media: /images/donate/support.webp
-        text: "User support, fixing bugs, and improving the stability of the app are our top priority. The list of requests and bug reports grows every day, and there are many support requests to respond to on the App Store, Google Play, and support emails."
+        text: "用户支持、修复错误、提升应用稳定性是我们的首要任务。错误报告的数量与日俱增，而 App Store、Google Play 和客服邮箱里也有许多支持请求需要回复。"
         title: 支持我们
     title: 资金将用在何处？
   hero_description: "Donate and create better maps together!"

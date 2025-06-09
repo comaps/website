@@ -5,12 +5,12 @@ extra:
     description: 'Descubra sua jornada, navegue pelo mundo com privacidade e comunidade em primeiro lugar.'
     title: 'A Liberdade Está Aqui'
   map:
-    description: 'Community + Open Maps'
+    description: 'Comunidade + Mapas Abertos'
     title:
   services:
     items:
       - 
-        description: 'Planeje e navegue em sua viagem ao exterior sem a necessidade de dados móveis e pesquise pontos de referência durante uma trilha distante.'
+        description: 'Planeje e navegue em sua viagem ao exterior sem a necessidade de dados móveis e pesquise pontos de referência durante uma longa trilha.'
         highlight:
           icon: static/images/icons/home/wifi-off.svg
           text: 'Não precisa de internet'

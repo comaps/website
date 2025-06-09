@@ -1,0 +1,30 @@
+---
+description: "Tee juhatamine kogu oma ilus! Tutvu vallasrežiimis toimivate kaartidega, privaatse ja kogukonna juhitud rakendusega"
+extra:
+  desktop_payment_methods_1: MacOS
+  desktop_payment_methods_2: Linux
+  desktop_payment_title: Desktop
+  desktop_shop_name_1: MacOS
+  desktop_shop_name_2: Linux
+  mobile_payment_methods_1: iOS
+  mobile_payment_methods_2: Android
+  mobile_payment_title: Mobile
+  mobile_shop_name_1: "App Store"
+  mobile_shop_name_2: "Play Store"
+  mobile_shop_name_3: F-Droid
+  mobile_shop_name_4: AppGallery
+  steps:
+    items:
+      - "Ilma võrguühenduseta toimivad kaardid"
+      - Privaatsuskeskne
+      - "Ei mingit andmekogumist"
+      - "Juhitud kogukonna poolt"
+    title: "Oled juba alla laadinud?"
+template: download.html
+title: "Laadi CoMaps alla"
+weight: 10
+---
+
+Rakenduse esimene versioon on saadaval APK-failina. Tegeleme avaldamisega
+F-Droidis, Google Play Store'is ja iOS App Store'is. Üsna varsti on meil
+selles osas uudiseid!

@@ -3,5 +3,5 @@ page_template: news_post.html
 paginate_by: 50
 sort_by: date
 template: news.html
-title: "Noticias y Lanzamientos"
+title: "Uudised ja uued versioonid"
 ---

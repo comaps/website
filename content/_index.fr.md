@@ -5,7 +5,7 @@ extra:
     description: 'Découvrez votre voyage, explorez le monde avec la vie privée et la communauté en tête.'
     title: 'La liberté est ici'
   map:
-    description: 'Community + Open Maps'
+    description: 'Communauté + Cartes Ouvertes'
     title:
   services:
     items:

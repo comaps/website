@@ -1,5 +1,5 @@
 ---
-description: "Unlock the potential of navigation! Discover offline maps, privacy-centric features, and a community-driven app"
+description: "¡Desbloquea el potencial de la navegación! Descubre los mapas sin conexión, características centradas en la privacidad, y una aplicación dirigida por la comunidad"
 extra:
   desktop_payment_methods_1: MacOS
   desktop_payment_methods_2: Linux

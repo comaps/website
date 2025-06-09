@@ -1,5 +1,5 @@
 ---
-description: "Unlock the potential of navigation! Discover offline maps, privacy-centric features, and a community-driven app"
+description: 释放导航的潜能！探索以离线为模式、以隐私为中心、以社区为主导的地图应用
 extra:
   desktop_payment_methods_1: MacOS
   desktop_payment_methods_2: Linux
@@ -15,16 +15,14 @@ extra:
   mobile_shop_name_4: AppGallery
   steps:
     items:
-      - "Offline Maps"
-      - Privacy-Centric
+      - 离线地图
+      - 以隐私为中心
       - 不收集数据
-      - Community-Driven
-    title: "Already downloaded?"
+      - 以社区为主导
+    title: 已下载？
 template: download.html
-title: "Download CoMaps"
+title: "下载 CoMaps"
 weight: 10
 ---
 
-The first app release is available as an APK download now! We are still
-working on publishing on F-Droid, Google Play Store and iOS App Store as
-well, please stay tuned!
+现已提供首版次应用的 APK 下载！我们仍在研究 F-Droid、Google Play 和 iOS App Store 的上架工作，敬请期待！

@@ -1,6 +1,6 @@
 ---
 description:
-title: "API Page"
+title: "API 文档"
 weight: 10
 ---
 

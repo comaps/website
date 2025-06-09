@@ -5,7 +5,7 @@ extra:
     description: 'Objevte svou cestu, navigujte se světem se soukromím a komunitou na prvním místě.'
     title: 'Svoboda je tady'
   map:
-    description: 'Community + Open Maps'
+    description: 'Komunita + otevřené mapy'
     title:
   services:
     items:

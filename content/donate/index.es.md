@@ -8,31 +8,31 @@ extra:
     liberapay:
       title: "Dona vía Liberapay"
     open_collective:
-      title: "Donate via Open Collective"
-    title: Donate
+      title: "Donar vía Open Collective"
+    title: Donar
   funding:
     items:
       - media: /images/donate/developers.webp
-        text: "Currently there is no full time team who is working to develop new features and improve the service. To consistently move the product forward, a core team is needed."
+        text: 'Actualmente no hay un equipo trabajando a tiempo completo en el desarrollo de nuevas funcionalidades y mejora del servicio. Para una evolución constante del producto, se necesita un equipo "core".'
         title: Desarrolladores
       - media: /images/donate/infrastructure.webp
-        text: "We pay for fast servers, so anyone in the world can download free map data updates without delays. The maps data transfers are hundreds of terabytes monthly, and the amount is growing."
+        text: "Pagamos por servidores rápidos, para que cualquier persona del mundo pueda descargar gratis actualizaciones del mapa sin retardos. Las transferencias de datos de mapas son cientos de TeraBytes al mes, y la cantidad sigue creciendo."
         title: Infraestructura
       - media: /images/donate/support.webp
-        text: "User support, fixing bugs, and improving the stability of the app are our top priority. The list of requests and bug reports grows every day, and there are many support requests to respond to on the App Store, Google Play, and support emails."
+        text: "El soporte al usuario, solucionar fallos, y mejorar la estabilidad de la aplicación son nuestras principales prioridades. La lista de solicitudes y los informes de fallos aumentan cada día, y hay muchas solicitudes de soporte a las que responder en la App Store, en Google Play, y en correos electrónicos de solicitud de ayuda."
         title: Soporte
     title: "¿Cómo se utilizarán los fondos?"
   hero_description: "Donate and create better maps together!"
   info:
     - icon: static/images/icons/donate/icon01.svg
-      text: "We rely on your donations to keep CoMaps open and free"
+      text: "Dependemos de tus donaciones para mantener CoMaps abierto y libre"
     - icon: static/images/icons/donate/icon02.svg
-      text: "We are a few enthusiasts contributing in our free time. We love what we do, and we love our users"
+      text: "Somos unos pocos entusiastas contribuyendo en nuestro tiempo libre. Amamos lo que hacemos, y amamos a nuestros usuarios"
     - icon: static/images/icons/donate/icon03.svg
       text: "Con tu soporte, estamos trabajando hacia una navegación de mapas enfocada a la privacidad, que es la opción preferida en el mercado"
   service_text:
   service_title: "Created with love by enthusiast volunteers"
 template: new-donate.html
-title: Donate
+title: Donar
 weight: 10
 ---
