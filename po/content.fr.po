@@ -6,7 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"Last-Translator: Duagolth <duagolth@noreply.codeberg.org>\n"
+"PO-Revision-Date: 2025-06-08 09:15+0000\n"
+"Last-Translator: jeanbaptisteC <jeanbaptistec@noreply.codeberg.org>\n"
 "Language-Team: French <https://translate.codeberg.org/projects/comaps/website/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -35,10 +36,9 @@ msgstr "La liberté est ici"
 
 #. type: Yaml Front Matter Hash Value: extra map description
 #: content/_index.md
-#, fuzzy, no-wrap
-#| msgid "Community"
+#, no-wrap
 msgid "Community + Open Maps"
-msgstr "Communauté"
+msgstr "Communauté + Cartes Ouvertes"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md

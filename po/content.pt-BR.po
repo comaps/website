@@ -6,6 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
+"PO-Revision-Date: 2025-06-09 10:34+0000\n"
 "Last-Translator: matheusgomesms <matheusgomesms@noreply.codeberg.org>\n"
 "Language-Team: Portuguese (Brazil) <https://translate.codeberg.org/projects/comaps/website/pt_BR/>\n"
 "Language: pt-BR\n"
@@ -35,16 +36,15 @@ msgstr "A Liberdade Está Aqui"
 
 #. type: Yaml Front Matter Hash Value: extra map description
 #: content/_index.md
-#, fuzzy, no-wrap
-#| msgid "Community"
+#, no-wrap
 msgid "Community + Open Maps"
-msgstr "Comunidade"
+msgstr "Comunidade + Mapas Abertos"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
 #, no-wrap
 msgid "Plan and navigate your trip abroad without the need for mobile data, and search waypoints while on a distant hike."
-msgstr "Planeje e navegue em sua viagem ao exterior sem a necessidade de dados móveis e pesquise pontos de referência durante uma trilha distante."
+msgstr "Planeje e navegue em sua viagem ao exterior sem a necessidade de dados móveis e pesquise pontos de referência durante uma longa trilha."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
@@ -368,7 +368,7 @@ msgstr "O projeto comunitário e sem fins lucrativos **CoMaps** foi fundado por 
 #: content/about-us/index.md
 #, no-wrap
 msgid "History"
-msgstr "História"
+msgstr "Histórico"
 
 #. type: Yaml Front Matter Hash Value: extra vm items text
 #: content/about-us/index.md
