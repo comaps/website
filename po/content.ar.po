@@ -6,6 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
+"PO-Revision-Date: 2025-06-11 08:58+0000\n"
 "Last-Translator: omar_hossam <omar_hossam@noreply.codeberg.org>\n"
 "Language-Team: Arabic <https://translate.codeberg.org/projects/comaps/website/ar/>\n"
 "Language: ar\n"
@@ -43,7 +44,7 @@ msgstr "مجتمع + خرائط مفتوحة"
 #: content/_index.md
 #, no-wrap
 msgid "Plan and navigate your trip abroad without the need for mobile data, and search waypoints while on a distant hike."
-msgstr "خطّط لرحلتك في الخارج وتنقّل فيها دون الحاجة إلى بيانات الهاتف المحمول، وابحث عن نقاط الطرق أثناء التنزه في مكان بعيد."
+msgstr "خطّط لرحلتك في الخارج وتنقّل فيها دون الحاجة إلى بيانات الهاتف المحمول، وابحث عن نقاط الطرق في اي مكان حتي في الاماكن البعيدة."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
@@ -61,73 +62,73 @@ msgstr "البحث و السير بدون اتصال الإنترنت"
 #: content/_index.md
 #, no-wrap
 msgid "The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information."
-msgstr ""
+msgstr "التطبيق مصمم مع مراعاة الخصوصية في المقام الأول - لا يحدد هوية الناس، لا يتتبع، ولا يجمع اي معلومات."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
 #, no-wrap
 msgid "Privacy by default"
-msgstr ""
+msgstr "الخصوصية بشكل إفتراضي"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
 #, no-wrap
 msgid "No Data Collection"
-msgstr ""
+msgstr "لا تجميع للبيانات"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
 #, no-wrap
 msgid "Efficiently uses the battery, doesn’t drain your battery like other navigation apps."
-msgstr ""
+msgstr "يستخدم البطارية بكفاءة،‏ لا يستنزف البطارية مثل برامج التنقل الأخري."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
 #, no-wrap
 msgid "Efficient battery use"
-msgstr ""
+msgstr "كفاءة في إستخدام البطارية"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
 #, no-wrap
 msgid "Save Your Battery"
-msgstr ""
+msgstr "حافظ علي بطاريتك"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
 #, no-wrap
 msgid "People like you helped build the app by adding locations to <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on Codeberg in the open-source community."
-msgstr ""
+msgstr "الناس مثلك ساعدوا في بناء التطبيق عن طريق إضافة المواقع إلي <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>، إبداء الأراء علي الميزات، والمساهمة في الكود علي منصة Codeberg في المجتمع مفتوح المصدر."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
 #, no-wrap
 msgid "Free for everyone, Made with love"
-msgstr ""
+msgstr "مجاني للجميع،مصنوع بالحب"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
 #, no-wrap
 msgid "Free and Built by the Community"
-msgstr ""
+msgstr "مجاني و مبني بواسطة المجتمع"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/_index.md
 #, no-wrap
 msgid "Hike, Bike, Drive Offline Navigate with Privacy"
-msgstr ""
+msgstr "تنزه، تنقل، قُد بدون إتصال الإنترنت مع الخصوصية"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/news/_index.md
 #, no-wrap
 msgid "News and Releases"
-msgstr ""
+msgstr "التحديثات و الإصدارات"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/community/index.md
 #, no-wrap
 msgid "CoMaps is created and maintained by people like you"
-msgstr ""
+msgstr "برنامج CoMaps تم إنشاءه و المحافظة عليه بواسطة الناس مثلك"
 
 #. type: Yaml Front Matter Hash Value: extra donate description
 #: content/community/index.md
@@ -139,19 +140,19 @@ msgstr ""
 #: content/community/index.md content/donate/index.md
 #, no-wrap
 msgid "Donate"
-msgstr ""
+msgstr "تبرع"
 
 #. type: Yaml Front Matter Hash Value: extra features description
 #: content/community/index.md
 #, no-wrap
 msgid "Report bugs, discuss idea, and propose features"
-msgstr ""
+msgstr "أبلغ عن أعطال، ناقش فكرة، و اقترح ميزات جديدة"
 
 #. type: Yaml Front Matter Hash Value: extra features title
 #: content/community/index.md
 #, no-wrap
 msgid "**Report** Bugs"
-msgstr ""
+msgstr "**أبلغ عن اخطاء**"
 
 #. type: Yaml Front Matter Hash Value: extra features description
 #: content/community/index.md

@@ -6,6 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
+"PO-Revision-Date: 2025-06-11 08:58+0000\n"
 "Last-Translator: Priit Jõerüüt <jrtcdbrg@noreply.codeberg.org>\n"
 "Language-Team: Estonian <https://translate.codeberg.org/projects/comaps/website/et/>\n"
 "Language: et\n"
@@ -25,7 +26,7 @@ msgstr "Võimalus leida oma teedel enamat -<br/>Ja see kõik kogukonna toel"
 #: content/_index.md
 #, no-wrap
 msgid "Discover your journey, navigate the world with privacy and community at the forefront."
-msgstr ""
+msgstr "Leia oma tee ning liigu maailmas nii, et privaatsus ja kogukond on alati arvesse võetud."
 
 #. type: Yaml Front Matter Hash Value: extra freedom title
 #: content/_index.md
@@ -43,7 +44,7 @@ msgstr "Kogukond + Avatud kaardid"
 #: content/_index.md
 #, no-wrap
 msgid "Plan and navigate your trip abroad without the need for mobile data, and search waypoints while on a distant hike."
-msgstr ""
+msgstr "Kavanda oma reisimist välismaal ilma mobiilset andmesidet kasutamata ning näita teed ja otsi teekonnapunkte liikvel olles."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
@@ -97,7 +98,7 @@ msgstr "Säästa nutiseadme akut"
 #: content/_index.md
 #, no-wrap
 msgid "People like you helped build the app by adding locations to <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on Codeberg in the open-source community."
-msgstr ""
+msgstr "Lisades kohti <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMappi](https://openstreetmap.org)</span>, jagades tagasisidet ning täiendades rakenduse koodi Codebergis on samasugused inimesed, nagu sina on aidanud seda rakendust ühise kogukonnana luua."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
@@ -133,7 +134,7 @@ msgstr "CoMapsi on loonud ja seda haldavad samasugused inimesed, nagu sina"
 #: content/community/index.md
 #, no-wrap
 msgid "The app runs on your donations, help improve it"
-msgstr ""
+msgstr "Selle rakenduse hooldus ja arendus põhineb vaid kasutajate toel - sinu osalemine on oluline"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/community/index.md content/donate/index.md
@@ -145,7 +146,7 @@ msgstr "Anneta"
 #: content/community/index.md
 #, no-wrap
 msgid "Report bugs, discuss idea, and propose features"
-msgstr "Teata vigadest, aruta ideede üle ja paku välja mõni uus funktsionaalsus"
+msgstr "Teata vigadest, aruta ideede üle ja paku välja mõni uus lahendus"
 
 #. type: Yaml Front Matter Hash Value: extra features title
 #: content/community/index.md
@@ -169,7 +170,7 @@ msgstr "**Arenda** uut funktsionaalsust"
 #: content/community/index.md
 #, no-wrap
 msgid "Shape the direction of the product experience"
-msgstr ""
+msgstr "Sul on võimalus mõjutada rakenduse kasutuskogemust"
 
 #. type: Yaml Front Matter Hash Value: extra features title
 #: content/community/index.md
@@ -205,13 +206,13 @@ msgstr "**Lisa** asukohateavet"
 #: content/community/index.md
 #, no-wrap
 msgid "Help people use the app, and answer questions"
-msgstr "Aita inimestel seda rekandust kasutada ning vasta nende küsimustele"
+msgstr "Aita inimestel seda rakendust kasutada ning vasta nende küsimustele"
 
 #. type: Yaml Front Matter Hash Value: extra features title
 #: content/community/index.md
 #, no-wrap
 msgid "**Help** Support"
-msgstr ""
+msgstr "**Abiteave** ja kasutajatugi"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/community/index.md
@@ -253,7 +254,7 @@ msgstr "Toeta Open Collective'i vahendusel"
 #: content/donate/index.md
 #, no-wrap
 msgid "Currently there is no full time team who is working to develop new features and improve the service. To consistently move the product forward, a core team is needed."
-msgstr ""
+msgstr "Hetkel pole sellel rakendusel täispäevaselt töötavat tiimi, mis vastutaks arenduse ja parema teenuse loomise eest. Et meie toode areneks järjekindlalt, on selline tuumiktiim vajalik."
 
 #. type: Yaml Front Matter Hash Value: extra funding items title
 #: content/donate/index.md
@@ -265,19 +266,19 @@ msgstr "Arendajad"
 #: content/donate/index.md
 #, no-wrap
 msgid "We pay for fast servers, so anyone in the world can download free map data updates without delays. The maps data transfers are hundreds of terabytes monthly, and the amount is growing."
-msgstr ""
+msgstr "Et kes iganes maailmas saaks tasuta ja viivitusteta laadida alla vajalikke kaarte, maksame me kiire võrguühendusega serverite eest. Kaardiandmete allalaadimise mahud on sadades terabaitides igas kuus ning näitavad ainult kasvutrendi."
 
 #. type: Yaml Front Matter Hash Value: extra funding items title
 #: content/donate/index.md
 #, no-wrap
 msgid "Infrastructure"
-msgstr ""
+msgstr "Taristu"
 
 #. type: Yaml Front Matter Hash Value: extra funding items text
 #: content/donate/index.md
 #, no-wrap
 msgid "User support, fixing bugs, and improving the stability of the app are our top priority. The list of requests and bug reports grows every day, and there are many support requests to respond to on the App Store, Google Play, and support emails."
-msgstr ""
+msgstr "Kasutajatugi, veaparandused ja stabiilsem rakendus on meie prioriteedid. Nii arendussoovide kui veateadete loend kasvab iga päevaga ning nii App Store'is, kui Google Plays või e-posti teel laekunud kasutajatoe päringud vajavad pidevat vastamist."
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/donate/index.md content/support/_index.md
@@ -289,13 +290,13 @@ msgstr "Kasutajatugi"
 #: content/donate/index.md
 #, no-wrap
 msgid "How will funding be used?"
-msgstr ""
+msgstr "Kuidas me kasutame rahastust?"
 
 #. type: Yaml Front Matter Hash Value: extra info text
 #: content/donate/index.md
 #, no-wrap
 msgid "We rely on your donations to keep CoMaps open and free"
-msgstr ""
+msgstr "Sinu rahaline toetus aitab meil CoMapsi hoida tasuta, vaba ja avatuna"
 
 #. type: Yaml Front Matter Hash Value: extra info text
 #: content/donate/index.md
@@ -307,31 +308,31 @@ msgstr "Me oleme väikene arendajate tiim, kes vabast ajast veab seda projekti e
 #: content/donate/index.md
 #, no-wrap
 msgid "With your support, we are working toward privacy-focused map navigation that is the preferred choice on the market"
-msgstr ""
+msgstr "Sinu toel me arendame privaatsuskeskset kaardirakendust, mis on esimene eelistus sellel turul"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/support/_index.md
 #, no-wrap
 msgid "Need assistance? Search for answers to common questions. Get the support you need and connect with others in the community for help."
-msgstr ""
+msgstr "Sa vajad abi? Levinud küsimustele saad ise otsida vastuseid. Aga samuti võid küsida abi kogukonna liikmetelt."
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/about-us/index.md
 #, no-wrap
 msgid "Free and open navigation with privacy -<br/>Built by the community"
-msgstr ""
+msgstr "Vaba, avatud ja tasuta kaardirakendus, mis arvestab privaatsusega -<br/>Loodud kogukonna poolt"
 
 #. type: Yaml Front Matter Hash Value: extra about text
 #: content/about-us/index.md
 #, no-wrap
 msgid "CoMaps is a community-focused privacy navigation app for travelers - drivers, hikers, and cyclists. It uses the crowd-sourced OpenStreetMap data with contributors from all over the globe. It offers navigation with privacy - no identifying people and no data collection. CoMaps features can operate without an active internet connection for offline navigation at urban or distant locations, where cellular service is not available. CoMaps is an open-source project, and prioritizes community development."
-msgstr ""
+msgstr "CoMaps on kogukonnale suunatud privaatne kaardirakendus reisijatele - autojuhtidele, matkajatele ja jalgratturitele. See kasutab OpenStreetMapi andmeid, mille koostajad on pärit üle kogu maailma. Tee juhatamine toimib privaatselt - rakendus ei tuvasta kasutajaid ega kogu nende kohta andmeid. CoMap töötab ilma aktiivse internetiühenduseta ja seega võimaldab tee juhatamist kohtades, kus mobiilsideteenus ei ole kättesaadav või asjatult kallis. CoMaps on avatud lähtekoodiga projekt, mis seab esikohale kogukonna arengu."
 
 #. type: Yaml Front Matter Hash Value: extra about title
 #: content/about-us/index.md
 #, no-wrap
 msgid "Free and open navigation with privacy, built by the community"
-msgstr ""
+msgstr "Vaba, avatud ja tasuta kaardirakendus, mis arvestab privaatsusega, loodud kogukonna poolt"
 
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md
@@ -373,7 +374,7 @@ msgstr "Ajalugu"
 #: content/about-us/index.md
 #, no-wrap
 msgid "Unlock the freedom to easily navigate offline, with privacy-focused maps for drivers, hikers, and cyclists, powered by the community."
-msgstr ""
+msgstr "Kasutades privaatsuskeskset ja võrguühendust mittevajavat kaardirakendust on sul võimalus juhatada teed oma äranägemisel - seda nii jalutades, matkates või sõites jalgratta ja autoga. Kõige selle taga on toimekas kogukond."
 
 #. type: Yaml Front Matter Hash Value: extra vm items title
 #: content/about-us/index.md
@@ -385,7 +386,7 @@ msgstr "Missioon"
 #: content/about-us/index.md
 #, no-wrap
 msgid "Create a world where navigating with maps is free, and privacy by default is the top choice on the planet."
-msgstr ""
+msgstr "Osale sellise maailma loomisel, kus kaartide kasutamine on avatud, vaba ja tasuta ning vaikimisi tagatud privaatsus on esimene valik."
 
 #. type: Yaml Front Matter Hash Value: extra vm items title
 #: content/about-us/index.md

@@ -6,6 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
+"PO-Revision-Date: 2025-06-10 08:35+0000\n"
 "Last-Translator: gpesquero <gpesquero@noreply.codeberg.org>\n"
 "Language-Team: Spanish <https://translate.codeberg.org/projects/comaps/website/es/>\n"
 "Language: es\n"
@@ -79,7 +80,7 @@ msgstr "Sin recopilación de datos"
 #: content/_index.md
 #, no-wrap
 msgid "Efficiently uses the battery, doesn’t drain your battery like other navigation apps."
-msgstr "Uso eficiente de la batería, no agosta la batería como otras aplicaciones de navegación."
+msgstr "Uso eficiente de la batería, no consume tanta batería como otras aplicaciones de navegación."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
