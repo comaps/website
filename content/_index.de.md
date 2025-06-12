@@ -3,7 +3,7 @@ description: 'Entdecke mehr von deiner Reise -<br/>Entwickelt von der Community'
 extra:
   freedom:
     description: 'Entdecke deine Reise, navigiere durch die Welt mit Fokus auf Datenschutz und Community.'
-    title: 'Freiheit ist hier'
+    title: 'Endecke die Freiheit'
   map:
     description: 'Community + Offene Karten'
     title:

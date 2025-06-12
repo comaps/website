@@ -26,7 +26,7 @@ extra:
         media:
           map: /images/sections/map-s-2.webp
           user: /images/sections/map-m-2.webp
-        title: 'No Data Collection'
+        title: 'Без збору даних'
       - 
         description: 'Efficiently uses the battery, doesn’t drain your battery like other navigation apps.'
         highlight:
@@ -40,7 +40,7 @@ extra:
         description: 'People like you helped build the app by adding locations to <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-open-street-map"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on Codeberg in the open-source community.'
         highlight:
           icon: static/images/icons/home/heart.svg
-          text: 'Free for everyone, Made with love'
+          text: "Безкоштовно для всіх, Зроблено з любов'ю"
         media:
           map: /images/sections/map-s-4.webp
           user: /images/sections/map-m-4.webp

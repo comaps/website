@@ -1,5 +1,5 @@
 ---
-description: "Need assistance? Search for answers to common questions. Get the support you need and connect with others in the community for help."
+description: "Sa vajad abi? Levinud küsimustele saad ise otsida vastuseid. Aga samuti võid küsida abi kogukonna liikmetelt."
 extra:
   faq_title: FAQs
   hero_buttons:

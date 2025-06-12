@@ -10,7 +10,7 @@ extra:
   services:
     items:
       - 
-        description: 'خطّط لرحلتك في الخارج وتنقّل فيها دون الحاجة إلى بيانات الهاتف المحمول، وابحث عن نقاط الطرق أثناء التنزه في مكان بعيد.'
+        description: 'خطّط لرحلتك في الخارج وتنقّل فيها دون الحاجة إلى بيانات الهاتف المحمول، وابحث عن نقاط الطرق في اي مكان حتي في الاماكن البعيدة.'
         highlight:
           icon: static/images/icons/home/wifi-off.svg
           text: 'لا حاجة لإتصال الإنترنت'
@@ -19,33 +19,33 @@ extra:
           user: /images/sections/map-m-1.webp
         title: 'البحث و السير بدون اتصال الإنترنت'
       - 
-        description: 'The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information.'
+        description: 'التطبيق مصمم مع مراعاة الخصوصية في المقام الأول - لا يحدد هوية الناس، لا يتتبع، ولا يجمع اي معلومات.'
         highlight:
           icon: static/images/icons/home/shield.svg
-          text: 'Privacy by default'
+          text: 'الخصوصية بشكل إفتراضي'
         media:
           map: /images/sections/map-s-2.webp
           user: /images/sections/map-m-2.webp
-        title: 'No Data Collection'
+        title: 'لا تجميع للبيانات'
       - 
-        description: 'Efficiently uses the battery, doesn’t drain your battery like other navigation apps.'
+        description: 'يستخدم البطارية بكفاءة،‏ لا يستنزف البطارية مثل برامج التنقل الأخري.'
         highlight:
           icon: static/images/icons/home/battery.svg
-          text: 'Efficient battery use'
+          text: 'كفاءة في إستخدام البطارية'
         media:
           map: /images/sections/map-s-3.webp
           user: /images/sections/map-m-3.webp
-        title: 'Save Your Battery'
+        title: 'حافظ علي بطاريتك'
       - 
-        description: 'People like you helped build the app by adding locations to <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-open-street-map"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on Codeberg in the open-source community.'
+        description: 'الناس مثلك ساعدوا في بناء التطبيق عن طريق إضافة المواقع إلي <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-open-street-map"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>، إبداء الأراء علي الميزات، والمساهمة في الكود علي منصة Codeberg في المجتمع مفتوح المصدر.'
         highlight:
           icon: static/images/icons/home/heart.svg
-          text: 'Free for everyone, Made with love'
+          text: 'مجاني للجميع،مصنوع بالحب'
         media:
           map: /images/sections/map-s-4.webp
           user: /images/sections/map-m-4.webp
-        title: 'Free and Built by the Community'
+        title: 'مجاني و مبني بواسطة المجتمع'
 sort_by: weight
 template: home.html
-title: 'Hike, Bike, Drive Offline Navigate with Privacy'
+title: 'تنزه، تنقل، قُد بدون إتصال الإنترنت مع الخصوصية'
 ---

@@ -28,7 +28,7 @@ extra:
           user: /images/sections/map-m-2.webp
         title: 'Sin recopilación de datos'
       - 
-        description: 'Uso eficiente de la batería, no agosta la batería como otras aplicaciones de navegación.'
+        description: 'Uso eficiente de la batería, no consume tanta batería como otras aplicaciones de navegación.'
         highlight:
           icon: static/images/icons/home/battery.svg
           text: 'Uso eficiente de la batería'

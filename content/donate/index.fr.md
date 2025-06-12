@@ -19,7 +19,7 @@ extra:
         text: "Nous payons pour des serveurs pour que tout le monde puisse télécharger des mises à jour de données cartographiques gratuites sans délai. Les transferts de données représentent des centaines de téraoctets par mois et leur nombre augmente."
         title: Infrastructure
       - media: /images/donate/support.webp
-        text: "Le support utilisateur, la correction de bugs et l'amélioration de la stabilité de l'application sont nos priorités. La liste de demandes et de rapports de bugs grandit chaque jour et il y a plein de demandes d'aide auxquelles répondre sur l'App Store, Google Play, et les mails de support."
+        text: "Le support utilisateur, la correction de bugs et l'amélioration de la stabilité de l'application sont nos priorités. La liste de demandes et de rapports de bugs grandit chaque jour et il faut répondre à de nombreuses demandes d'aide sur l'App Store, Google Play, et les mails de support."
         title: Aide
     title: "Comment vos dons seront-ils utilisés ?"
   hero_description: "Donate and create better maps together!"

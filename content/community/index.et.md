@@ -2,10 +2,10 @@
 description: "CoMapsi on loonud ja seda haldavad samasugused inimesed, nagu sina"
 extra:
   donate:
-    description: "The app runs on your donations, help improve it"
+    description: "Selle rakenduse hooldus ja arendus põhineb vaid kasutajate toel - sinu osalemine on oluline"
     title: Anneta
   features:
-    - description: "Teata vigadest, aruta ideede üle ja paku välja mõni uus funktsionaalsus"
+    - description: "Teata vigadest, aruta ideede üle ja paku välja mõni uus lahendus"
       icon: chats.svg
       link: https://codeberg.org/comaps/comaps/issues
       title: "**Teata** vigadest"
@@ -13,7 +13,7 @@ extra:
       icon: CodeBlock.svg
       link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md
       title: "**Arenda** uut funktsionaalsust"
-    - description: "Shape the direction of the product experience"
+    - description: "Sul on võimalus mõjutada rakenduse kasutuskogemust"
       icon: BezierCurve.svg
       link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md
       title: "**Kujunda** kasutajaliidest"
@@ -25,10 +25,10 @@ extra:
       icon: MapPinLine.svg
       link: /support/editing-with-CoMaps
       title: "**Lisa** asukohateavet"
-    - description: "Aita inimestel seda rekandust kasutada ning vasta nende küsimustele"
+    - description: "Aita inimestel seda rakendust kasutada ning vasta nende küsimustele"
       icon: Headset.svg
       link: "#"
-      title: "**Help** Support"
+      title: "**Abiteave** ja kasutajatugi"
   preview_image: donate/donate.png
   stay_connected_section_title: "connect with us"
 template: community.html

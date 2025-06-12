@@ -2,7 +2,7 @@
 description: 'Võimalus leida oma teedel enamat -<br/>Ja see kõik kogukonna toel'
 extra:
   freedom:
-    description: 'Discover your journey, navigate the world with privacy and community at the forefront.'
+    description: 'Leia oma tee ning liigu maailmas nii, et privaatsus ja kogukond on alati arvesse võetud.'
     title: 'Vabadus on siin'
   map:
     description: 'Kogukond + Avatud kaardid'
@@ -10,7 +10,7 @@ extra:
   services:
     items:
       - 
-        description: 'Plan and navigate your trip abroad without the need for mobile data, and search waypoints while on a distant hike.'
+        description: 'Kavanda oma reisimist välismaal ilma mobiilset andmesidet kasutamata ning näita teed ja otsi teekonnapunkte liikvel olles.'
         highlight:
           icon: static/images/icons/home/wifi-off.svg
           text: 'Internetiühendus pole vajalik'
@@ -37,7 +37,7 @@ extra:
           user: /images/sections/map-m-3.webp
         title: 'Säästa nutiseadme akut'
       - 
-        description: 'People like you helped build the app by adding locations to <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-open-street-map"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on Codeberg in the open-source community.'
+        description: 'Lisades kohti <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-open-street-map"></use></svg> [OpenStreetMappi](https://openstreetmap.org)</span>, jagades tagasisidet ning täiendades rakenduse koodi Codebergis on samasugused inimesed, nagu sina on aidanud seda rakendust ühise kogukonnana luua.'
         highlight:
           icon: static/images/icons/home/heart.svg
           text: 'Tasuta ja vaba kõigi jaoks, tehtud armastusega'

@@ -1,14 +1,14 @@
 ---
-description: "CoMaps is created and maintained by people like you"
+description: "برنامج CoMaps تم إنشاءه و المحافظة عليه بواسطة الناس مثلك"
 extra:
   donate:
     description: "The app runs on your donations, help improve it"
-    title: Donate
+    title: تبرع
   features:
-    - description: "Report bugs, discuss idea, and propose features"
+    - description: "أبلغ عن أعطال، ناقش فكرة، و اقترح ميزات جديدة"
       icon: chats.svg
       link: https://codeberg.org/comaps/comaps/issues
-      title: "**Report** Bugs"
+      title: "**أبلغ عن اخطاء**"
     - description: "Develop new features, help fix bugs, and review code"
       icon: CodeBlock.svg
       link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md

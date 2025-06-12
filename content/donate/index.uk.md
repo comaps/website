@@ -9,7 +9,7 @@ extra:
       title: "Donate via Liberapay"
     open_collective:
       title: "Donate via Open Collective"
-    title: Donate
+    title: Пожертвувати
   funding:
     items:
       - media: /images/donate/developers.webp
@@ -17,10 +17,10 @@ extra:
         title: Developers
       - media: /images/donate/infrastructure.webp
         text: "We pay for fast servers, so anyone in the world can download free map data updates without delays. The maps data transfers are hundreds of terabytes monthly, and the amount is growing."
-        title: Infrastructure
+        title: Інфраструктура
       - media: /images/donate/support.webp
         text: "User support, fixing bugs, and improving the stability of the app are our top priority. The list of requests and bug reports grows every day, and there are many support requests to respond to on the App Store, Google Play, and support emails."
-        title: Support
+        title: Підтримка
     title: "How will funding be used?"
   hero_description: "Donate and create better maps together!"
   info:
@@ -33,6 +33,6 @@ extra:
   service_text:
   service_title: "Created with love by enthusiast volunteers"
 template: new-donate.html
-title: Donate
+title: Пожертвувати
 weight: 10
 ---

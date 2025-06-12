@@ -1,23 +1,23 @@
 ---
-description: "Donate and create better maps together!"
+description: "Lahjoita ja auta luomaan paremmat kartat yhdessä!"
 extra:
   donate:
     info:
-      description: "Donate to keep the project running"
-      title: "Created with love by enthusiast volunteers"
+      description: "Lahjoita ja auta pitämään projekti käynnissä"
+      title: "Luotu rakkaudella intohimoisten vapaaehtoisten toimesta"
     liberapay:
-      title: "Donate via Liberapay"
+      title: "Lahjoita Liberapay:n kautta"
     open_collective:
-      title: "Donate via Open Collective"
-    title: Donate
+      title: "Lahjoita Open Collective:n kautta"
+    title: Lahjoita
   funding:
     items:
       - media: /images/donate/developers.webp
-        text: "Currently there is no full time team who is working to develop new features and improve the service. To consistently move the product forward, a core team is needed."
-        title: Developers
+        text: "Tällä hetkellä sovelluskehityksen ja uusien ominaisuuksien kehityksen käytettävissä ei ole kokoaikaista tiimiä. Sovelluksen johdonmukainen eteenpäin vieminen edellyttää ydintiimiä."
+        title: Kehittäjät
       - media: /images/donate/infrastructure.webp
-        text: "We pay for fast servers, so anyone in the world can download free map data updates without delays. The maps data transfers are hundreds of terabytes monthly, and the amount is growing."
-        title: Infrastructure
+        text: "Maksamme nopeista palvelimista, jotta kaikki maailmassa voivat ladata ilmaisia karttapäivityksiä ilman viiveitä. Karttadatan siirto kuluttaa satoja teratavuja kuukaudessa ja määrä on kasvussa."
+        title: Infrastruktuuri
       - media: /images/donate/support.webp
         text: "User support, fixing bugs, and improving the stability of the app are our top priority. The list of requests and bug reports grows every day, and there are many support requests to respond to on the App Store, Google Play, and support emails."
         title: Support
@@ -33,6 +33,6 @@ extra:
   service_text:
   service_title: "Created with love by enthusiast volunteers"
 template: new-donate.html
-title: Donate
+title: Lahjoita
 weight: 10
 ---

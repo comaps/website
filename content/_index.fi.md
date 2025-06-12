@@ -2,50 +2,50 @@
 description: 'Discover more of your journey -<br/>Powered by the community'
 extra:
   freedom:
-    description: 'Discover your journey, navigate the world with privacy and community at the forefront.'
-    title: 'Freedom Is Here'
+    description: 'Tutustu matkaasi ja navigoi maailmalla yksityisyys ja yhteisöllisyys etusijalla.'
+    title: 'Vapaus on täällä'
   map:
     description: 'Community + Open Maps'
     title:
   services:
     items:
       - 
-        description: 'Plan and navigate your trip abroad without the need for mobile data, and search waypoints while on a distant hike.'
+        description: 'Suunnittele ja navigoi matkasi ulkomaille ilman mobiilidatan käyttöä tai etsi reittipisteitä kaukaisella vaelluksella.'
         highlight:
           icon: static/images/icons/home/wifi-off.svg
-          text: 'No internet needed'
+          text: 'Internetiä ei tarvita'
         media:
           map: /images/sections/map-s-1.webp
           user: /images/sections/map-m-1.webp
-        title: 'Offline Search and Route'
+        title: 'Offline-haku ja reititys'
       - 
-        description: 'The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information.'
+        description: 'Sovellus on suunniteltu yksityisyys silmälläpitäen - Se ei tunnista ihmisiä, ei seuraa sinua, eikä kerää mitään tietoja.'
         highlight:
           icon: static/images/icons/home/shield.svg
-          text: 'Privacy by default'
+          text: 'Yksityisyyttä oletuksena'
         media:
           map: /images/sections/map-s-2.webp
           user: /images/sections/map-m-2.webp
-        title: 'No Data Collection'
+        title: 'Ei tiedonkeruuta'
       - 
-        description: 'Efficiently uses the battery, doesn’t drain your battery like other navigation apps.'
+        description: 'Akkutehokas, ei tyhjennä akkua yhtä nopeasti kuin muut navigointisovellukset.'
         highlight:
           icon: static/images/icons/home/battery.svg
-          text: 'Efficient battery use'
+          text: 'Tehokas akun käyttö'
         media:
           map: /images/sections/map-s-3.webp
           user: /images/sections/map-m-3.webp
-        title: 'Save Your Battery'
+        title: 'Säästä akkuasi'
       - 
-        description: 'People like you helped build the app by adding locations to <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-open-street-map"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on Codeberg in the open-source community.'
+        description: 'Käyttäjät, kuten sinä, ovat auttaneet sovelluksen kehityksen kanssa lisäämällä sijainteja <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-open-street-map"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, antamalla palautetta ja osallistumalla sovelluskehitykseen Codeberg-alustan avoimen lähdekoodin yhteisössä.'
         highlight:
           icon: static/images/icons/home/heart.svg
-          text: 'Free for everyone, Made with love'
+          text: 'Ilmainen kaikille, tehty rakkaudella'
         media:
           map: /images/sections/map-s-4.webp
           user: /images/sections/map-m-4.webp
-        title: 'Free and Built by the Community'
+        title: 'Ilmainen ja yhteisön luoma'
 sort_by: weight
 template: home.html
-title: 'Hike, Bike, Drive Offline Navigate with Privacy'
+title: 'Patikoi, pyöräile tai aja offline-navigoinnin ja yksityisyyden kanssa'
 ---

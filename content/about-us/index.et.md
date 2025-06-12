@@ -1,10 +1,10 @@
 ---
-description: "Free and open navigation with privacy -<br/>Built by the community"
+description: "Vaba, avatud ja tasuta kaardirakendus, mis arvestab privaatsusega -<br/>Loodud kogukonna poolt"
 extra:
   about:
     media: /images/about-us/about.png
-    text: "CoMaps is a community-focused privacy navigation app for travelers - drivers, hikers, and cyclists. It uses the crowd-sourced OpenStreetMap data with contributors from all over the globe. It offers navigation with privacy - no identifying people and no data collection. CoMaps features can operate without an active internet connection for offline navigation at urban or distant locations, where cellular service is not available. CoMaps is an open-source project, and prioritizes community development."
-    title: "Free and open navigation with privacy, built by the community"
+    text: "CoMaps on kogukonnale suunatud privaatne kaardirakendus reisijatele - autojuhtidele, matkajatele ja jalgratturitele. See kasutab OpenStreetMapi andmeid, mille koostajad on pärit üle kogu maailma. Tee juhatamine toimib privaatselt - rakendus ei tuvasta kasutajaid ega kogu nende kohta andmeid. CoMap töötab ilma aktiivse internetiühenduseta ja seega võimaldab tee juhatamist kohtades, kus mobiilsideteenus ei ole kättesaadav või asjatult kallis. CoMaps on avatud lähtekoodiga projekt, mis seab esikohale kogukonna arengu."
+    title: "Vaba, avatud ja tasuta kaardirakendus, mis arvestab privaatsusega, loodud kogukonna poolt"
   history:
     items:
       - text: "MapsWithMe kaardirakendus on saadala (hilisema nimega Maps.me)"
@@ -23,11 +23,11 @@ extra:
     items:
       - icon: /images/icons/about/mission.svg
         media: /images/about-us/mission.png
-        text: "Unlock the freedom to easily navigate offline, with privacy-focused maps for drivers, hikers, and cyclists, powered by the community."
+        text: "Kasutades privaatsuskeskset ja võrguühendust mittevajavat kaardirakendust on sul võimalus juhatada teed oma äranägemisel - seda nii jalutades, matkates või sõites jalgratta ja autoga. Kõige selle taga on toimekas kogukond."
         title: Missioon
       - icon: /images/icons/about/vision.svg
         media: /images/about-us/vision.png
-        text: "Create a world where navigating with maps is free, and privacy by default is the top choice on the planet."
+        text: "Osale sellise maailma loomisel, kus kaartide kasutamine on avatud, vaba ja tasuta ning vaikimisi tagatud privaatsus on esimene valik."
         title: Visioon
 template: about-us.html
 title: "Teave meie kohta"

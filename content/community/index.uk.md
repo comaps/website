@@ -3,7 +3,7 @@ description: "CoMaps is created and maintained by people like you"
 extra:
   donate:
     description: "The app runs on your donations, help improve it"
-    title: Donate
+    title: Пожертвувати
   features:
     - description: "Report bugs, discuss idea, and propose features"
       icon: chats.svg
@@ -32,6 +32,6 @@ extra:
   preview_image: donate/donate.png
   stay_connected_section_title: "connect with us"
 template: community.html
-title: Community
+title: Спільнота
 weight: 10
 ---
