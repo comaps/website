@@ -25,6 +25,6 @@ title: "Télécharger CoMaps"
 weight: 10
 ---
 
-La première version de l'application est disponible en téléchargement APK
-maintenant ! Nous travaillons toujours à publier sur F-Droid, le Google Play
-Store et l'iOS App Store également, veuillez rester au courant !
+CoMaps is available on F-Droid and as an APK download now! We are still
+working on publishing on the Google Play Store and iOS App Store as well,
+please stay tuned!

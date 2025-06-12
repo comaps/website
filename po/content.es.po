@@ -6,7 +6,6 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"PO-Revision-Date: 2025-06-09 05:20+0000\n"
 "Last-Translator: gpesquero <gpesquero@noreply.codeberg.org>\n"
 "Language-Team: Spanish <https://translate.codeberg.org/projects/comaps/website/es/>\n"
 "Language: es\n"
@@ -444,7 +443,9 @@ msgstr "Descarga CoMaps"
 
 #. type: Plain text
 #: content/download/index.md
-msgid "The first app release is available as an APK download now! We are still working on publishing on F-Droid, Google Play Store and iOS App Store as well, please stay tuned!"
+#, fuzzy
+#| msgid "The first app release is available as an APK download now! We are still working on publishing on F-Droid, Google Play Store and iOS App Store as well, please stay tuned!"
+msgid "CoMaps is available on F-Droid and as an APK download now! We are still working on publishing on the Google Play Store and iOS App Store as well, please stay tuned!"
 msgstr "¡El primer lanzamiento de la aplicación ya está disponible como una descarga APK! Todavía estamos trabajando en su publicación en F-Droid, Google Play Store y la iOS App Store también, ¡así que permanece atento!"
 
 #. type: Yaml Front Matter Hash Value: title

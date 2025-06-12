@@ -25,6 +25,6 @@ title: "Laadi CoMaps alla"
 weight: 10
 ---
 
-Rakenduse esimene versioon on saadaval APK-failina. Tegeleme avaldamisega
-F-Droidis, Google Play Store'is ja iOS App Store'is. Üsna varsti on meil
-selles osas uudiseid!
+CoMaps is available on F-Droid and as an APK download now! We are still
+working on publishing on the Google Play Store and iOS App Store as well,
+please stay tuned!
