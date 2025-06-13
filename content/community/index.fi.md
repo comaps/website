@@ -13,7 +13,7 @@ extra:
       icon: CodeBlock.svg
       link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md
       title: "**Kehitä** Ominaisuus"
-    - description: "Shape the direction of the product experience"
+    - description: "Vaikuta tuotekokemukseen"
       icon: BezierCurve.svg
       link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md
       title: "**Suunnittele** käyttöliittymä"

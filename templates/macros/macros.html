@@ -39,7 +39,7 @@
         </div>
         {% if donate %}
             <div class="si-action">
-                <a href="#donate" class="button button--main"> {{ trans(key='donate-title', lang=lang) }}</a>
+                <a href="#donate" class="button button--main"> {{ trans(key='menu_donate', lang=lang) }}</a>
             </div>
         {% endif %}
     </div>
@@ -85,11 +85,7 @@
         </div>
         <div class="post-min__date">
             <span class="p-sm post-min__date-title">
-                {% if page.taxonomies.category %}
-                    {% for term in page.taxonomies.category %}{{ term }}{% endfor %}
-                {% else %}
-                    {{ trans(key='news_title', lang=lang) }}
-                {% endif %}
+                {% for term in page.taxonomies.category %}{{ term }}{% endfor %}
             </span>
         </div>
     </div>
@@ -139,7 +135,7 @@
             <div class="sd-title">
                 {{ load_data(path="static/images/community/icons/heart.svg") | safe }}
                 <h2 class="sd-title-text">
-                    {{ trans(key='donate-title', lang=lang) }}
+                    {{ trans(key='menu_donate', lang=lang) }}
                 </h2>
             </div>
             <div class="sd-text">

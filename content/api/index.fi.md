@@ -1,7 +1,7 @@
 ---
 description:
-title: "API Page"
+title: "API Sivu"
 weight: 10
 ---
 
-The link API is documented on [omaps.app/api](https://omaps.app/api).
+Link API on dokumentoitu osoitteessa [omaps.app/api](https://omaps.app/api).

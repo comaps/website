@@ -1,5 +1,5 @@
 ---
-description: "Unlock the potential of navigation! Discover offline maps, privacy-centric features, and a community-driven app"
+description: "Vapauta navigoinnin potentiaali. Löydä offline-karttoja, yksityisyyskeskeisiä toimintoja ja yhteisön ylläpitämä sovellus"
 extra:
   desktop_payment_methods_1: MacOS
   desktop_payment_methods_2: Linux
@@ -15,16 +15,15 @@ extra:
   mobile_shop_name_4: AppGallery
   steps:
     items:
-      - "Offline Maps"
-      - Privacy-Centric
-      - "No data collection"
-      - Community-Driven
-    title: "Already downloaded?"
+      - Offline-kartat
+      - Yksityisyyskeskeinen
+      - "Ei tiedonkeruuta"
+      - "Yhteisön ylläpitämä"
+    title: "Oletko jo ladannut?"
 template: download.html
-title: "Download CoMaps"
+title: "Lataa CoMaps"
 weight: 10
 ---
 
-CoMaps is available on F-Droid and as an APK download now! We are still
-working on publishing on the Google Play Store and iOS App Store as well,
-please stay tuned!
+CoMaps on saatavilla F-Droidista APK latauksena nyt! Työskentelemme edelleen
+Google Play- ja iOS App Store -julkaisujen kanssa. Ole kuulolla!

@@ -129,14 +129,14 @@ msgstr "最新消息和推出"
 msgid "CoMaps is created and maintained by people like you"
 msgstr "如同您一樣的人創建和維護着 CoMaps"
 
-#. type: Yaml Front Matter Hash Value: extra donate description
-#: content/community/index.md
+#. type: Hash Value: donate-description
+#: content/community/index.md translations.yaml
 #, no-wrap
 msgid "The app runs on your donations, help improve it"
 msgstr "本應用依靠您的贊助維持運作，請幫助改善它"
 
-#. type: Yaml Front Matter Hash Value: title
-#: content/community/index.md content/donate/index.md
+#. type: Hash Value: menu_donate
+#: content/community/index.md content/donate/index.md translations.yaml
 #, no-wrap
 msgid "Donate"
 msgstr "捐款贊助"
@@ -213,8 +213,8 @@ msgstr "協助他人掌握本應用，耐心回應社群的疑問"
 msgid "**Help** Support"
 msgstr "**說明** 支援"
 
-#. type: Yaml Front Matter Hash Value: title
-#: content/community/index.md
+#. type: Hash Value: menu_community
+#: content/community/index.md translations.yaml
 #, no-wrap
 msgid "Community"
 msgstr "社群"
@@ -393,8 +393,8 @@ msgstr "創造一個可以免費使用地圖導航、設計由隱私出發是首
 msgid "Vision"
 msgstr "我們的願景"
 
-#. type: Yaml Front Matter Hash Value: title
-#: content/about-us/index.md
+#. type: Hash Value: menu_about_us
+#: content/about-us/index.md translations.yaml
 #, no-wrap
 msgid "About Us"
 msgstr "關於我們"
@@ -458,3 +458,132 @@ msgstr "API 參考資料"
 #: content/api/index.md
 msgid "The link API is documented on [omaps.app/api](https://omaps.app/api)."
 msgstr "關於介接 API，請參閱 [omaps.app/api](https://omaps.app/api)。"
+
+#. type: Hash Value: all_title
+#: translations.yaml
+#, no-wrap
+msgid "All"
+msgstr ""
+
+#. type: Hash Value: button-download
+#: translations.yaml
+#, fuzzy, no-wrap
+#| msgid "Download CoMaps"
+msgid "Download"
+msgstr "下載 CoMaps"
+
+#. type: Hash Value: const_lang
+#: translations.yaml
+#, no-wrap
+msgid "Language"
+msgstr ""
+
+#. type: Hash Value: faq_content
+#: translations.yaml
+#, no-wrap
+msgid "CoMaps - F.A.Q."
+msgstr ""
+
+#. type: Hash Value: how_can_help
+#: translations.yaml
+#, no-wrap
+msgid "How can we help?"
+msgstr ""
+
+#. type: Hash Value: inv_code_text
+#: translations.yaml
+#, no-wrap
+msgid "Build the app used by people around the world"
+msgstr ""
+
+#. type: Hash Value: inv_code_title
+#: translations.yaml
+#, no-wrap
+msgid "Contribute Code"
+msgstr ""
+
+#. type: Hash Value: inv_info_text
+#: translations.yaml
+#, no-wrap
+msgid "Add info around you, and make the maps better for everyone"
+msgstr ""
+
+#. type: Hash Value: inv_info_title
+#: translations.yaml
+#, fuzzy, no-wrap
+#| msgid "**Add** Place Info"
+msgid "Add Place Info"
+msgstr "**添加** 位置資訊"
+
+#. type: Hash Value: inv_title
+#: translations.yaml
+#, no-wrap
+msgid "Get Involved"
+msgstr ""
+
+#. type: Hash Value: language
+#: translations.yaml
+#, no-wrap
+msgid "English"
+msgstr ""
+
+#. type: Hash Value: menu_api
+#: translations.yaml
+#, no-wrap
+msgid "API"
+msgstr ""
+
+#. type: Hash Value: menu_help
+#: translations.yaml
+#, no-wrap
+msgid "Help"
+msgstr ""
+
+#. type: Hash Value: menu_home
+#: translations.yaml
+#, no-wrap
+msgid "Home"
+msgstr ""
+
+#. type: Hash Value: menu_news
+#: translations.yaml
+#, no-wrap
+msgid "News"
+msgstr ""
+
+#. type: Hash Value: menu_source_code
+#: translations.yaml
+#, no-wrap
+msgid "Source Code"
+msgstr ""
+
+#. type: Hash Value: more_title
+#: translations.yaml
+#, no-wrap
+msgid "More"
+msgstr ""
+
+#. type: Hash Value: releases_title
+#: translations.yaml
+#, fuzzy, no-wrap
+#| msgid "News and Releases"
+msgid "Releases"
+msgstr "最新消息和推出"
+
+#. type: Hash Value: search_placeholder
+#: translations.yaml
+#, no-wrap
+msgid "Describe the issue"
+msgstr ""
+
+#. type: Hash Value: search_placeholder_simple
+#: translations.yaml
+#, no-wrap
+msgid "Search"
+msgstr ""
+
+#. type: Hash Value: social_title
+#: translations.yaml
+#, no-wrap
+msgid "Connect with Us"
+msgstr ""

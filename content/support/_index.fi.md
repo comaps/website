@@ -1,5 +1,5 @@
 ---
-description: "Need assistance? Search for answers to common questions. Get the support you need and connect with others in the community for help."
+description: "Tarvitsetko apua? Etsi vastauksia usein kysyttyihin kysymyksiin. Kysy apua ja ota yhteyttä yhteisön muihin jäseniin ongelmatilanteissa."
 extra:
   faq_title: FAQs
   hero_buttons:
@@ -21,6 +21,6 @@ extra:
   support_card_title_1: "How can we help?"
   support_card_title_2: "Email Contact"
   support_card_title_3: "Support Channel"
-title: Support
+title: Tuki
 weight: 10
 ---

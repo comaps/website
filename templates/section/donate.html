@@ -5,7 +5,7 @@
             <a href="/donate" class="support-block__card">
                 {% include 'ui/icons/header/donate.html' %}
                 <h5 class="h4 support-block__icon-title">
-                    {{ trans(key='donate-title', lang=lang) }}
+                    {{ trans(key='menu_donate', lang=lang) }}
                 </h5>
                 <p class="p-sm-light support-block__icon-text">
                     {{ trans(key='donate-description', lang=lang) }}
@@ -40,7 +40,7 @@
             <div class="bd-content">
                 <a href="{{ get_url(path="donate/", lang=lang) }}" class="bd-item">
                     <div class="bd-item-icon">{{ load_data(path="static/images/icons/heart.svg") | safe }}</div>
-                    <div class="bd-item-title">{{ trans(key='donate-title', lang=lang) }}</div>
+                    <div class="bd-item-title">{{ trans(key='menu_donate', lang=lang) }}</div>
                     <div class="bd-item-text">{{ trans(key='donate-description', lang=lang) }}</div>
                 </a>
                 <a href="{{ get_url(path="community/", lang=lang) }}" class="bd-item">

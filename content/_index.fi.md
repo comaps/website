@@ -1,5 +1,5 @@
 ---
-description: 'Discover more of your journey -<br/>Powered by the community'
+description: 'Löydä lisää matkaltasi <br/>Yhteisön voimin'
 extra:
   freedom:
     description: 'Tutustu matkaasi ja navigoi maailmalla yksityisyys ja yhteisöllisyys etusijalla.'
