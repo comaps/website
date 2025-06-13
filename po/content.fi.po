@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"PO-Revision-Date: 2025-06-10 08:35+0000\n"
+"PO-Revision-Date: 2025-06-13 13:16+0000\n"
 "Last-Translator: phama <phama@noreply.codeberg.org>\n"
 "Language-Team: Finnish <https://translate.codeberg.org/projects/comaps/website/fi/>\n"
 "Language: fi\n"
@@ -20,7 +20,7 @@ msgstr ""
 #: content/_index.md
 #, no-wrap
 msgid "Discover more of your journey -<br/>Powered by the community"
-msgstr ""
+msgstr "Löydä lisää matkaltasi <br/>Yhteisön voimin"
 
 #. type: Yaml Front Matter Hash Value: extra freedom description
 #: content/_index.md
@@ -170,7 +170,7 @@ msgstr "**Kehitä** Ominaisuus"
 #: content/community/index.md
 #, no-wrap
 msgid "Shape the direction of the product experience"
-msgstr ""
+msgstr "Vaikuta tuotekokemukseen"
 
 #. type: Yaml Front Matter Hash Value: extra features title
 #: content/community/index.md
@@ -278,182 +278,182 @@ msgstr "Infrastruktuuri"
 #: content/donate/index.md
 #, no-wrap
 msgid "User support, fixing bugs, and improving the stability of the app are our top priority. The list of requests and bug reports grows every day, and there are many support requests to respond to on the App Store, Google Play, and support emails."
-msgstr ""
+msgstr "Käyttäjätuki, virheiden korjaaminen ja sovelluksen vakauden parantaminen ovat ensisijaisia tavoitteitamme."
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/donate/index.md content/support/_index.md
 #, no-wrap
 msgid "Support"
-msgstr ""
+msgstr "Tuki"
 
 #. type: Yaml Front Matter Hash Value: extra funding title
 #: content/donate/index.md
 #, no-wrap
 msgid "How will funding be used?"
-msgstr ""
+msgstr "Miten rahoitusta käytetään?"
 
 #. type: Yaml Front Matter Hash Value: extra info text
 #: content/donate/index.md
 #, no-wrap
 msgid "We rely on your donations to keep CoMaps open and free"
-msgstr ""
+msgstr "Olemme riippuvaisia lahjoituksistasi, jotta CoMaps pysyy avoimena ja ilmaisena"
 
 #. type: Yaml Front Matter Hash Value: extra info text
 #: content/donate/index.md
 #, no-wrap
 msgid "We are a few enthusiasts contributing in our free time. We love what we do, and we love our users"
-msgstr ""
+msgstr "Olemme muutama harrastaja, jotka käyttävät projektiin vapaa-aikaansa. Rakastamme sitä, mitä teemme ja rakastamme käyttäjiämme"
 
 #. type: Yaml Front Matter Hash Value: extra info text
 #: content/donate/index.md
 #, no-wrap
 msgid "With your support, we are working toward privacy-focused map navigation that is the preferred choice on the market"
-msgstr ""
+msgstr "Teidän tuellanne, työskentelemme kehittääksemme yksityisyyteen panostavaan navigointiin markkinanoiden suuntautumisen mukaan"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/support/_index.md
 #, no-wrap
 msgid "Need assistance? Search for answers to common questions. Get the support you need and connect with others in the community for help."
-msgstr ""
+msgstr "Tarvitsetko apua? Etsi vastauksia usein kysyttyihin kysymyksiin. Kysy apua ja ota yhteyttä yhteisön muihin jäseniin ongelmatilanteissa."
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/about-us/index.md
 #, no-wrap
 msgid "Free and open navigation with privacy -<br/>Built by the community"
-msgstr ""
+msgstr "Ilmainen ja avoin navigointi yksityisesti <br/>Yhteisön luoma"
 
 #. type: Yaml Front Matter Hash Value: extra about text
 #: content/about-us/index.md
 #, no-wrap
 msgid "CoMaps is a community-focused privacy navigation app for travelers - drivers, hikers, and cyclists. It uses the crowd-sourced OpenStreetMap data with contributors from all over the globe. It offers navigation with privacy - no identifying people and no data collection. CoMaps features can operate without an active internet connection for offline navigation at urban or distant locations, where cellular service is not available. CoMaps is an open-source project, and prioritizes community development."
-msgstr ""
+msgstr "CoMaps on yksityisyys- ja yhteisökeskeinen navigointisovellus autoilijoille, pyöräilijöille ja kävelijöille. Sovellus käyttää OpenStreetMapin joukkoistettua tiedonkeruuta vapaaehtoisilta ympäri maailman. Se tarjoaa yksityisen navigoinnin - sovellus ei tunnista käyttäjää tai kerää tietoja. CoMapsin ominaisuuksiin kuuluu jopa kaukaisissa sijainneissa toimiva navigointi ilman verkkoyhteyttä. CoMaps on avoimen lähdekoodin projekti, jonka painopisteenä on yhteisön kehittäminen."
 
 #. type: Yaml Front Matter Hash Value: extra about title
 #: content/about-us/index.md
 #, no-wrap
 msgid "Free and open navigation with privacy, built by the community"
-msgstr ""
+msgstr "Ilmainen ja avoin navigointi yksityisesti, yhteisön luoma"
 
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md
 #, no-wrap
 msgid "MapsWithMe navigation app created (later renamed to Maps.me)"
-msgstr ""
+msgstr "MapsWithMe navigointisovellus luotiin (myöhemmin nimettiin uudelleen Maps.me:ksi)"
 
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md
 #, no-wrap
 msgid "Maps.me opened the source code under Apache 2.0 license."
-msgstr ""
+msgstr "Maps.me avasi lähdekoodinsta Apache 2.0 -lisenssillä."
 
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md
 #, no-wrap
 msgid "The Organic Maps project & company were founded, based on the Maps.Me source code."
-msgstr ""
+msgstr "Organic Maps -projekti ja yritys haarautettiin Maps.Me:n lähdekoodista."
 
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md
 #, no-wrap
 msgid "Governance issues and community concerns not addressed by company shareholders stalled the development of Organic Maps for months."
-msgstr ""
+msgstr "Hallintoon liittyvät kysymykset ja yhteisön huolenaiheet, joihin yhtiön osakkeenomistajat eivät puuttuneet, pysäyttivät Organic Mapsin kehittämisen kuukausiksi."
 
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md
 #, no-wrap
 msgid "The **CoMaps** community & non-profit project was founded by former Organic Maps contributors, based on the Organic Maps source code."
-msgstr ""
+msgstr "**CoMaps** yhteisön & voittoa tavoittelematon projektin perustivat Organic Maps vapaaehtoiset. Pohjana käytettiin Organic Mapsin lähdekoodia."
 
 #. type: Yaml Front Matter Hash Value: extra history title
 #: content/about-us/index.md
 #, no-wrap
 msgid "History"
-msgstr ""
+msgstr "Historia"
 
 #. type: Yaml Front Matter Hash Value: extra vm items text
 #: content/about-us/index.md
 #, no-wrap
 msgid "Unlock the freedom to easily navigate offline, with privacy-focused maps for drivers, hikers, and cyclists, powered by the community."
-msgstr ""
+msgstr "Vapauta vapaus navigoida ilman verkkoyhteyttä ja yksityisesti. Autoilijoille, pyöräilijöille ja kävelijöille, yhteisön luoma."
 
 #. type: Yaml Front Matter Hash Value: extra vm items title
 #: content/about-us/index.md
 #, no-wrap
 msgid "Mission"
-msgstr ""
+msgstr "Tehtävä"
 
 #. type: Yaml Front Matter Hash Value: extra vm items text
 #: content/about-us/index.md
 #, no-wrap
 msgid "Create a world where navigating with maps is free, and privacy by default is the top choice on the planet."
-msgstr ""
+msgstr "Luoda maailma, missä navigointi laadukkaiden karttojen avulla yksityisesti on yksinkertaisesti paras valinta."
 
 #. type: Yaml Front Matter Hash Value: extra vm items title
 #: content/about-us/index.md
 #, no-wrap
 msgid "Vision"
-msgstr ""
+msgstr "Visio"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/about-us/index.md
 #, no-wrap
 msgid "About Us"
-msgstr ""
+msgstr "Meistä"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/download/index.md
 #, no-wrap
 msgid "Unlock the potential of navigation! Discover offline maps, privacy-centric features, and a community-driven app"
-msgstr ""
+msgstr "Vapauta navigoinnin potentiaali. Löydä offline-karttoja, yksityisyyskeskeisiä toimintoja ja yhteisön ylläpitämä sovellus"
 
 #. type: Yaml Front Matter Array Element: extra steps items
 #: content/download/index.md
 #, no-wrap
 msgid "Offline Maps"
-msgstr ""
+msgstr "Offline-kartat"
 
 #. type: Yaml Front Matter Array Element: extra steps items
 #: content/download/index.md
 #, no-wrap
 msgid "Privacy-Centric"
-msgstr ""
+msgstr "Yksityisyyskeskeinen"
 
 #. type: Yaml Front Matter Array Element: extra steps items
 #: content/download/index.md
 #, no-wrap
 msgid "No data collection"
-msgstr ""
+msgstr "Ei tiedonkeruuta"
 
 #. type: Yaml Front Matter Array Element: extra steps items
 #: content/download/index.md
 #, no-wrap
 msgid "Community-Driven"
-msgstr ""
+msgstr "Yhteisön ylläpitämä"
 
 #. type: Yaml Front Matter Hash Value: extra steps title
 #: content/download/index.md
 #, no-wrap
 msgid "Already downloaded?"
-msgstr ""
+msgstr "Oletko jo ladannut?"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/download/index.md
 #, no-wrap
 msgid "Download CoMaps"
-msgstr ""
+msgstr "Lataa CoMaps"
 
 #. type: Plain text
 #: content/download/index.md
 msgid "CoMaps is available on F-Droid and as an APK download now! We are still working on publishing on the Google Play Store and iOS App Store as well, please stay tuned!"
-msgstr ""
+msgstr "CoMaps on saatavilla F-Droidista APK latauksena nyt! Työskentelemme edelleen Google Play- ja iOS App Store -julkaisujen kanssa. Ole kuulolla!"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/api/index.md
 #, no-wrap
 msgid "API Page"
-msgstr ""
+msgstr "API Sivu"
 
 #. type: Plain text
 #: content/api/index.md
 msgid "The link API is documented on [omaps.app/api](https://omaps.app/api)."
-msgstr ""
+msgstr "Link API on dokumentoitu osoitteessa [omaps.app/api](https://omaps.app/api)."
