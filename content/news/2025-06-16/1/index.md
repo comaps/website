@@ -16,6 +16,6 @@ We're thrilled to announce that CoMaps Android release is now live on the **F-Dr
 ### Get CoMaps on F-Droid
 1. **_Install F-Droid_**: Download F-Droid from f-droid.org
 
-2. **_Search in F-Droid_**: Search for "CoMaps", install and start exploring!
+2. **_Install CoMaps_**: Search "CoMaps" in F-Droid, install (may need to set Settings > Include Anti-Features > Tethered Network Services)
 
 We're excited to bring CoMaps to the F-Droid community. Thank you for being a part of this journey with us! :heart:
