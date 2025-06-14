@@ -63,10 +63,15 @@
         justify-content: space-between;
         background: var(--bg-device-content);
 
-        .button--appdownload {width: 100%; min-width: 130rem;
+        .button--appdownload {width: 100%; min-width: 130rem;transition: all 0.1s;
             @media (max-width: $media-md) {
                 min-width: 120rem;
             }
+        &:hover
+        {
+          transform: scale(1.05);
+          transition: all 0.1s;
+        }
         }
 
         //&:last-of-type {
