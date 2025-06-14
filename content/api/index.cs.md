@@ -4,5 +4,4 @@ title: "Stránka API"
 weight: 10
 ---
 
-Rozhraní API je zdokumentováno na adrese
-[omaps.app/api](https://omaps.app/api).
+The API is documented on [comaps.at/api](https://comaps.at/api).

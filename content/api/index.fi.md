@@ -4,4 +4,4 @@ title: "API Sivu"
 weight: 10
 ---
 
-Link API on dokumentoitu osoitteessa [omaps.app/api](https://omaps.app/api).
+The API is documented on [comaps.at/api](https://comaps.at/api).

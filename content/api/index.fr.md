@@ -4,4 +4,4 @@ title: "Page API"
 weight: 10
 ---
 
-L'API de lien est documentée sur [omaps.app/api](https://omaps.app/api).
+The API is documented on [comaps.at/api](https://comaps.at/api).

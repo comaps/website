@@ -452,7 +452,7 @@ msgstr ""
 
 #. type: Plain text
 #: content/api/index.md
-msgid "The link API is documented on [omaps.app/api](https://omaps.app/api)."
+msgid "The API is documented on [comaps.at/api](https://comaps.at/api)."
 msgstr ""
 
 #. type: Hash Value: all_title

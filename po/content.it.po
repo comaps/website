@@ -456,7 +456,9 @@ msgstr "Pagina API"
 
 #. type: Plain text
 #: content/api/index.md
-msgid "The link API is documented on [omaps.app/api](https://omaps.app/api)."
+#, fuzzy
+#| msgid "The link API is documented on [omaps.app/api](https://omaps.app/api)."
+msgid "The API is documented on [comaps.at/api](https://comaps.at/api)."
 msgstr "L'API dei link è documentata su [omaps.app/api](https://omaps.app/api)."
 
 #. type: Hash Value: all_title
