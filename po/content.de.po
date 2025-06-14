@@ -6,6 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
+"PO-Revision-Date: 2025-06-14 09:37+0000\n"
 "Last-Translator: map-per <map-per@noreply.codeberg.org>\n"
 "Language-Team: German <https://translate.codeberg.org/projects/comaps/website/de/>\n"
 "Language: de\n"
@@ -465,8 +466,7 @@ msgstr "Alle"
 
 #. type: Hash Value: button-download
 #: translations.yaml
-#, fuzzy, no-wrap
-#| msgid "Download CoMaps"
+#, no-wrap
 msgid "Download"
 msgstr "Download"
 
@@ -508,8 +508,7 @@ msgstr "Füge Infos aus deiner Umgebung hinzu und verbessere die Karten für all
 
 #. type: Hash Value: inv_info_title
 #: translations.yaml
-#, fuzzy, no-wrap
-#| msgid "**Add** Place Info"
+#, no-wrap
 msgid "Add Place Info"
 msgstr "Ortsinformationen hinzufügen"
 
@@ -559,12 +558,11 @@ msgstr "Quellcode"
 #: translations.yaml
 #, no-wrap
 msgid "More"
-msgstr ""
+msgstr "Mehr"
 
 #. type: Hash Value: releases_title
 #: translations.yaml
-#, fuzzy, no-wrap
-#| msgid "News and Releases"
+#, no-wrap
 msgid "Releases"
 msgstr "Releases"
 
