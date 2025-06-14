@@ -443,7 +443,9 @@ msgstr "Lataa CoMaps"
 
 #. type: Plain text
 #: content/download/index.md
-msgid "CoMaps is available on F-Droid and as an APK download now! We are still working on publishing on the Google Play Store and iOS App Store as well, please stay tuned!"
+#, fuzzy
+#| msgid "CoMaps is available on F-Droid and as an APK download now! We are still working on publishing on the Google Play Store and iOS App Store as well, please stay tuned!"
+msgid "CoMaps is available on Google Play, F-Droid, and as an APK download now! We are still working on publishing on the iOS App Store as well, please stay tuned!"
 msgstr "CoMaps on saatavilla F-Droidista APK latauksena nyt! Työskentelemme edelleen Google Play- ja iOS App Store -julkaisujen kanssa. Ole kuulolla!"
 
 #. type: Yaml Front Matter Hash Value: title

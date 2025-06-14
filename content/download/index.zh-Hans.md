@@ -25,5 +25,6 @@ title: "下载 CoMaps"
 weight: 10
 ---
 
-CoMaps 现在可在 F-Droid 下载，并提供 APK 安装包！我们仍在努力推进 Google Play 商店和 iOS App Store
-的上架工作，敬请期待！
+CoMaps is available on Google Play, F-Droid, and as an APK download now! We
+are still working on publishing on the iOS App Store as well, please stay
+tuned!
