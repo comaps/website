@@ -22,7 +22,7 @@ extra:
     title: History
     items:
       - year: 2011
-        text: MapsWithMe navigation app created (later renamed to Maps.me)
+        text: MapsWithMe navigation app created (later renamed to Maps.me).
       - year: 2015
         text: Maps.me opened the source code under Apache 2.0 license.
       - year: 2021
