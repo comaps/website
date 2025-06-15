@@ -4,4 +4,4 @@ title: "API 文档"
 weight: 10
 ---
 
-The API is documented on [comaps.at/api](https://comaps.at/api).
+API 文档在 [comaps.at/api](https://comaps.at/api)。

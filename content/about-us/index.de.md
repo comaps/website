@@ -7,7 +7,7 @@ extra:
     title: "Kostenlose, quelloffene Navigation mit Fokus auf Datenschutz, entwickelt von der Community"
   history:
     items:
-      - text: "MapsWithMe Navigationsapp erstellt (später zu Maps.me umbenannt)"
+      - text: "MapsWithMe navigation app created (later renamed to Maps.me)."
         year: 2011
       - text: "Maps.me öffnet den Quellcode unter der Lizenz Apache 2.0."
         year: 2015

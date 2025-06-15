@@ -37,7 +37,7 @@ extra:
           user: /images/sections/map-m-3.webp
         title: 'Ahorra tu batería'
       - 
-        description: 'Las personas como tú ayudaron a construir la aplicación añadiendo ubicaciones en <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-open-street-map"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, proporcionando comentarios sobre las características, y contribuyendo con código en Codeberg en la comunidad de código abierto.'
+        description: 'Las personas como tú ayudaron a construir la aplicación añadiendo ubicaciones en <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-open-street-map"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, proporcionando comentarios sobre funcionalidades, y contribuyendo con código en Codeberg en la comunidad de código abierto.'
         highlight:
           icon: static/images/icons/home/heart.svg
           text: 'Libre para todos, Hecho con amor'

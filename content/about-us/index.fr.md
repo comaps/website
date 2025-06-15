@@ -7,7 +7,7 @@ extra:
     title: "Navigation gratuite et ouverte respectant la vie privée, faite par la communauté"
   history:
     items:
-      - text: "Création de l'application de navigation MapsWithMe (plus tard renommée Maps.me)"
+      - text: "MapsWithMe navigation app created (later renamed to Maps.me)."
         year: 2011
       - text: "Maps.me publie son code source sous licence Apache 2.0."
         year: 2015
@@ -27,7 +27,7 @@ extra:
         title: Mission
       - icon: /images/icons/about/vision.svg
         media: /images/about-us/vision.png
-        text: "Créons un monde où la navigation cartographique est gratuite, et la vie privée par défaut est le choix numéro 1 sur la planète."
+        text: "Créer un monde où la navigation cartographique est gratuite, et la vie privée par défaut est le choix numéro 1 sur la planète."
         title: Vision
 template: about-us.html
 title: "À propos de nous"

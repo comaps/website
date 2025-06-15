@@ -5,7 +5,7 @@ extra:
     description: "Selle rakenduse hooldus ja arendus põhineb vaid kasutajate toel - sinu osalemine on oluline"
     title: Anneta
   features:
-    - description: "Teata vigadest, aruta ideede üle ja paku välja mõni uus lahendus"
+    - description: "Teata vigadest, kommenteeri ideid või paku välja mõni uus lahendus"
       icon: chats.svg
       link: https://codeberg.org/comaps/comaps/issues
       title: "**Teata** vigadest"
@@ -17,7 +17,7 @@ extra:
       icon: BezierCurve.svg
       link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md
       title: "**Kujunda** kasutajaliidest"
-    - description: "Tõlgi rakenduse tekste ja võimalda kasutust omas keeles paljudel inimestel üle maailma"
+    - description: "Tõlgi rakenduse sisu ja võimalda seda paljudel inimestel üle maailma kasutada omas keeles"
       icon: Translate.svg
       link: https://codeberg.org/comaps/comaps/src/branch/main/docs/TRANSLATIONS.md
       title: "**Tõlgi** sisu"

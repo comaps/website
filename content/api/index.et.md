@@ -4,4 +4,4 @@ title: "API leht"
 weight: 10
 ---
 
-The API is documented on [comaps.at/api](https://comaps.at/api).
+API on dokumenteeritud siin:[comaps.at/api](https://comaps.at/api).

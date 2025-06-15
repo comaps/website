@@ -7,7 +7,7 @@ extra:
     title: 隐私保护下的免费开放导航，由社区共同创建
   history:
     items:
-      - text: "MapsWithMe 导航应用被创建（后更名为 Maps.me）"
+      - text: "MapsWithMe navigation app created (later renamed to Maps.me)."
         year: 2011
       - text: "Maps.me 依据 Apache 许可证 2.0 版开放源代码。"
         year: 2015

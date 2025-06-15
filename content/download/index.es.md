@@ -1,5 +1,5 @@
 ---
-description: "¡Desbloquea el potencial de la navegación! Descubre los mapas sin conexión, características centradas en la privacidad, y una aplicación dirigida por la comunidad"
+description: "¡Desbloquea el potencial de la navegación! Descubre los mapas sin conexión, funcionalidades centradas en la privacidad, y una aplicación dirigida por la comunidad"
 extra:
   desktop_payment_methods_1: MacOS
   desktop_payment_methods_2: Linux
@@ -25,6 +25,6 @@ title: "Descarga CoMaps"
 weight: 10
 ---
 
-CoMaps is available on Google Play, F-Droid, and as an APK download now! We
-are still working on publishing on the iOS App Store as well, please stay
-tuned!
+¡CoMaps está disponible en Google Play, F-Droid, y como una descarga APK!
+Todavía estamos trabajando en su publicación en la iOS App Store también,
+¡así que permanece atento!

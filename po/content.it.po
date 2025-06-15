@@ -6,7 +6,6 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"PO-Revision-Date: 2025-06-15 10:34+0000\n"
 "Last-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>\n"
 "Language-Team: Italian <https://translate.codeberg.org/projects/comaps/website/it/>\n"
 "Language: it\n"
@@ -336,8 +335,9 @@ msgstr "Navigazione libera e aperta con privacy, fatta dalla comunità"
 
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md
-#, no-wrap
-msgid "MapsWithMe navigation app created (later renamed to Maps.me)"
+#, fuzzy, no-wrap
+#| msgid "MapsWithMe navigation app created (later renamed to Maps.me)"
+msgid "MapsWithMe navigation app created (later renamed to Maps.me)."
 msgstr "Creazione dell'app di navigazione MapsWithMe (successivamente rinominata in Maps.me)"
 
 #. type: Yaml Front Matter Hash Value: extra history items text

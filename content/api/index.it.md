@@ -4,4 +4,4 @@ title: "Pagina API"
 weight: 10
 ---
 
-The API is documented on [comaps.at/api](https://comaps.at/api).
+L'API è documentata su [comaps.at/api](https://comaps.at/api).

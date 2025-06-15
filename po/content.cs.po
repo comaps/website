@@ -335,8 +335,9 @@ msgstr "Bezplatná a otevřená navigace se soukromím, vytvořená komunitou"
 
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md
-#, no-wrap
-msgid "MapsWithMe navigation app created (later renamed to Maps.me)"
+#, fuzzy, no-wrap
+#| msgid "MapsWithMe navigation app created (later renamed to Maps.me)"
+msgid "MapsWithMe navigation app created (later renamed to Maps.me)."
 msgstr "Vytvořena navigační aplikace MapsWithMe (později přejmenována na Maps.me)"
 
 #. type: Yaml Front Matter Hash Value: extra history items text

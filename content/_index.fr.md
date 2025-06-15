@@ -40,7 +40,7 @@ extra:
         description: "Des gens comme vous ont aidé à construire l'application en ajoutant des lieux sur <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, en donnant leur avis sur des fonctionnalités, et en contribuant au code sur Codeberg dans la communauté open source."
         highlight:
           icon: static/images/icons/home/heart.svg
-          text: 'Gratuit pour tout le monde, Fait avec amour'
+          text: 'Gratuit pour tous, Fait avec amour'
         media:
           map: /images/sections/map-s-4.webp
           user: /images/sections/map-m-4.webp

@@ -4,7 +4,7 @@ extra:
   about:
     media: /images/about-us/about.png
     text: "CoMaps is a community-focused privacy navigation app for travelers - drivers, hikers, and cyclists. It uses the crowd-sourced OpenStreetMap data with contributors from all over the globe. It offers navigation with privacy - no identifying people and no data collection. CoMaps features can operate without an active internet connection for offline navigation at urban or distant locations, where cellular service is not available. CoMaps is an open-source project, and prioritizes community development."
-    title: "Free and open navigation with privacy, built by the community"
+    title: "Gratuito com navegação privada e aberta, construido pela comunidade"
   history:
     items:
       - text: "MapsWithMe navigation app created (later renamed to Maps.me)."
@@ -18,18 +18,18 @@ extra:
       - highlight: true
         text: "The **CoMaps** community & non-profit project was founded by former Organic Maps contributors, based on the Organic Maps source code."
         year: 2025
-    title: History
+    title: Histórico
   vm:
     items:
       - icon: /images/icons/about/mission.svg
         media: /images/about-us/mission.png
         text: "Unlock the freedom to easily navigate offline, with privacy-focused maps for drivers, hikers, and cyclists, powered by the community."
-        title: Mission
+        title: Missão
       - icon: /images/icons/about/vision.svg
         media: /images/about-us/vision.png
         text: "Create a world where navigating with maps is free, and privacy by default is the top choice on the planet."
-        title: Vision
+        title: Visão
 template: about-us.html
-title: "About Us"
+title: "Sobre nós"
 weight: 10
 ---

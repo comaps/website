@@ -27,7 +27,7 @@ extra:
     - icon: static/images/icons/donate/icon01.svg
       text: "Nous dépendons de vos dons pour garder CoMaps ouvert et gratuit"
     - icon: static/images/icons/donate/icon02.svg
-      text: "Nous sommes quelques enthousiastes qui contribuent sur notre temps libre. Nous aimons ce que nous faisons, et nous aimons nos utilisateurs"
+      text: "Nous sommes quelques enthousiastes qui contribuent sur leur temps libre. Nous aimons ce que nous faisons, et nous aimons nos utilisateurs"
     - icon: static/images/icons/donate/icon03.svg
       text: "Avec votre soutien, nous nous efforçons de mettre en place une navigation cartographique respectueuse de la vie privée qui soit le choix privilégié sur le marché"
   service_text:

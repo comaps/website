@@ -25,6 +25,6 @@ title: "Lataa CoMaps"
 weight: 10
 ---
 
-CoMaps is available on Google Play, F-Droid, and as an APK download now! We
-are still working on publishing on the iOS App Store as well, please stay
-tuned!
+CoMaps on nyt saatavilla Google Play-kaupasta, F-Droidista ja APK
+latauksena! Työskentelemme edelleen iOS App Store -julkaisun kanssa. Ole
+kuulolla!
