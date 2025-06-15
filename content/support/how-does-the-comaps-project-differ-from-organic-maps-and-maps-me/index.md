@@ -1,11 +1,11 @@
 ---
-title: "How does CoMaps differ from Organic Maps and Maps.Me?"
+title: "How does the CoMaps project differ from Organic Maps and Maps.Me?"
 description: "Frequently asked questions for CoMaps application"
 taxonomies:
   support: ["About CoMaps"]
 extra:
   tags: ["Android", "iPhone & iPad"]
-  order: 70
+  order: 40
 ---
 
 Unlike Maps.Me, CoMaps does not collect statistics or user data. It has more up-to-date maps and receives constant improvements in the core functionality, as we are devoted to constantly improving our geo/search/routing algorithms and mobile app performance. In the future, there will be more differences, with a focus on user convenience.

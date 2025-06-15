@@ -5,7 +5,7 @@ taxonomies:
   support: ["About CoMaps"]
 extra:
   tags: ["Android", "iPhone & iPad"]
-  order: 40
+  order: 60
 ---
 
 Only 55 words long (Tell your friends about the difference)  

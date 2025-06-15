@@ -5,7 +5,7 @@ taxonomies:
   support: ["About CoMaps"]
 extra:
   tags: ["Android", "iPhone & iPad"]
-  order: 50
+  order: 70
 ---
 
 CoMaps is free for everyone. The project is run on voluntary [donations](https://www.comaps.app/donate/) and these funds help to maintain the project. It is not enough yet to grow and scale, but with your help we can build the best OpenStreetMap-based maps together.

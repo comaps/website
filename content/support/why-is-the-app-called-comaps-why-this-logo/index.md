@@ -5,7 +5,7 @@ taxonomies:
   support: ["About CoMaps"]
 extra:
   tags: ["Android", "iPhone & iPad"]
-  order: 60
+  order: 90
 ---
 
 CoMaps is short for Community, Collaborative, Common, Collective, etc. Maps.
