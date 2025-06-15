@@ -6,6 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
+"PO-Revision-Date: 2025-06-15 19:20+0000\n"
 "Last-Translator: Laurent FAVOLE <lfavole@noreply.codeberg.org>\n"
 "Language-Team: French <https://translate.codeberg.org/projects/comaps/website/fr/>\n"
 "Language: fr\n"
@@ -103,7 +104,7 @@ msgstr "Des gens comme vous ont aidé à construire l'application en ajoutant de
 #: content/_index.md
 #, no-wrap
 msgid "Free for everyone, Made with love"
-msgstr "Gratuit pour tout le monde, Fait avec amour"
+msgstr "Gratuit pour tous, Fait avec amour"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
@@ -301,7 +302,7 @@ msgstr "Nous dépendons de vos dons pour garder CoMaps ouvert et gratuit"
 #: content/donate/index.md
 #, no-wrap
 msgid "We are a few enthusiasts contributing in our free time. We love what we do, and we love our users"
-msgstr "Nous sommes quelques enthousiastes qui contribuent sur notre temps libre. Nous aimons ce que nous faisons, et nous aimons nos utilisateurs"
+msgstr "Nous sommes quelques enthousiastes qui contribuent sur leur temps libre. Nous aimons ce que nous faisons, et nous aimons nos utilisateurs"
 
 #. type: Yaml Front Matter Hash Value: extra info text
 #: content/donate/index.md
@@ -385,7 +386,7 @@ msgstr "Mission"
 #: content/about-us/index.md
 #, no-wrap
 msgid "Create a world where navigating with maps is free, and privacy by default is the top choice on the planet."
-msgstr "Créons un monde où la navigation cartographique est gratuite, et la vie privée par défaut est le choix numéro 1 sur la planète."
+msgstr "Créer un monde où la navigation cartographique est gratuite, et la vie privée par défaut est le choix numéro 1 sur la planète."
 
 #. type: Yaml Front Matter Hash Value: extra vm items title
 #: content/about-us/index.md
@@ -443,10 +444,8 @@ msgstr "Télécharger CoMaps"
 
 #. type: Plain text
 #: content/download/index.md
-#, fuzzy
-#| msgid "CoMaps is available on F-Droid and as an APK download now! We are still working on publishing on the Google Play Store and iOS App Store as well, please stay tuned!"
 msgid "CoMaps is available on Google Play, F-Droid, and as an APK download now! We are still working on publishing on the iOS App Store as well, please stay tuned!"
-msgstr "CoMaps est disponible sur F-Droit et en téléchargement APK maintenant ! Nous travaillons toujours à la publication sur le Google Play Store et l'iOS App Store, restez à l'écoute !"
+msgstr "CoMaps est disponible sur Google Play, F-Droid et en téléchargement APK maintenant ! Nous travaillons toujours à la publication sur l'iOS App Store, restez à l'écoute !"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/api/index.md
@@ -456,136 +455,131 @@ msgstr "Page API"
 
 #. type: Plain text
 #: content/api/index.md
-#, fuzzy
-#| msgid "The link API is documented on [omaps.app/api](https://omaps.app/api)."
 msgid "The API is documented on [comaps.at/api](https://comaps.at/api)."
-msgstr "L'API de lien est documentée sur [omaps.app/api](https://omaps.app/api)."
+msgstr "L'API est documentée sur [comaps.at/api](https://comaps.at/api)."
 
 #. type: Hash Value: all_title
 #: translations.yaml
 #, no-wrap
 msgid "All"
-msgstr ""
+msgstr "Tout"
 
 #. type: Hash Value: button-download
 #: translations.yaml
-#, fuzzy, no-wrap
-#| msgid "Download CoMaps"
+#, no-wrap
 msgid "Download"
-msgstr "Télécharger CoMaps"
+msgstr "Télécharger"
 
 #. type: Hash Value: const_lang
 #: translations.yaml
 #, no-wrap
 msgid "Language"
-msgstr ""
+msgstr "Langue"
 
 #. type: Hash Value: faq_content
 #: translations.yaml
 #, no-wrap
 msgid "CoMaps - F.A.Q."
-msgstr ""
+msgstr "CoMaps - F.A.Q."
 
 #. type: Hash Value: how_can_help
 #: translations.yaml
 #, no-wrap
 msgid "How can we help?"
-msgstr ""
+msgstr "Comment pouvons-nous vous aider ?"
 
 #. type: Hash Value: inv_code_text
 #: translations.yaml
 #, no-wrap
 msgid "Build the app used by people around the world"
-msgstr ""
+msgstr "Construisez l'application utilisée par les gens autour du monde"
 
 #. type: Hash Value: inv_code_title
 #: translations.yaml
 #, no-wrap
 msgid "Contribute Code"
-msgstr ""
+msgstr "Contribuez au code"
 
 #. type: Hash Value: inv_info_text
 #: translations.yaml
 #, no-wrap
 msgid "Add info around you, and make the maps better for everyone"
-msgstr ""
+msgstr "Ajoutez des infos autour de vous, et rendez les cartes meilleures pour tout le monde"
 
 #. type: Hash Value: inv_info_title
 #: translations.yaml
-#, fuzzy, no-wrap
-#| msgid "**Add** Place Info"
+#, no-wrap
 msgid "Add Place Info"
-msgstr "**Ajoutez** des infos sur les lieux"
+msgstr "Ajoutez des infos sur les lieux"
 
 #. type: Hash Value: inv_title
 #: translations.yaml
 #, no-wrap
 msgid "Get Involved"
-msgstr ""
+msgstr "Impliquez-vous"
 
 #. type: Hash Value: language
 #: translations.yaml
 #, no-wrap
 msgid "English"
-msgstr ""
+msgstr "Anglais"
 
 #. type: Hash Value: menu_api
 #: translations.yaml
 #, no-wrap
 msgid "API"
-msgstr ""
+msgstr "API"
 
 #. type: Hash Value: menu_help
 #: translations.yaml
 #, no-wrap
 msgid "Help"
-msgstr ""
+msgstr "Aide"
 
 #. type: Hash Value: menu_home
 #: translations.yaml
 #, no-wrap
 msgid "Home"
-msgstr ""
+msgstr "Accueil"
 
 #. type: Hash Value: menu_news
 #: translations.yaml
 #, no-wrap
 msgid "News"
-msgstr ""
+msgstr "Actualités"
 
 #. type: Hash Value: menu_source_code
 #: translations.yaml
 #, no-wrap
 msgid "Source Code"
-msgstr ""
+msgstr "Code source"
 
 #. type: Hash Value: more_title
 #: translations.yaml
 #, no-wrap
 msgid "More"
-msgstr ""
+msgstr "Plus"
 
 #. type: Hash Value: releases_title
 #: translations.yaml
-#, fuzzy, no-wrap
-#| msgid "News and Releases"
+#, no-wrap
 msgid "Releases"
-msgstr "Actualités et versions"
+msgstr "Versions"
 
 #. type: Hash Value: search_placeholder
 #: translations.yaml
 #, no-wrap
 msgid "Describe the issue"
-msgstr ""
+msgstr "Décrivez le problème"
 
 #. type: Hash Value: search_placeholder_simple
 #: translations.yaml
 #, no-wrap
 msgid "Search"
-msgstr ""
+msgstr "Rechercher"
 
 #. type: Hash Value: social_title
 #: translations.yaml
 #, no-wrap
 msgid "Connect with Us"
-msgstr ""
+msgstr "Rentrez en contact avec nous"

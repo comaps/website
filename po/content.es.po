@@ -6,6 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
+"PO-Revision-Date: 2025-06-15 11:13+0000\n"
 "Last-Translator: gpesquero <gpesquero@noreply.codeberg.org>\n"
 "Language-Team: Spanish <https://translate.codeberg.org/projects/comaps/website/es/>\n"
 "Language: es\n"
@@ -97,7 +98,7 @@ msgstr "Ahorra tu batería"
 #: content/_index.md
 #, no-wrap
 msgid "People like you helped build the app by adding locations to <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on Codeberg in the open-source community."
-msgstr "Las personas como tú ayudaron a construir la aplicación añadiendo ubicaciones en <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, proporcionando comentarios sobre las características, y contribuyendo con código en Codeberg en la comunidad de código abierto."
+msgstr "Las personas como tú ayudaron a construir la aplicación añadiendo ubicaciones en <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, proporcionando comentarios sobre funcionalidades, y contribuyendo con código en Codeberg en la comunidad de código abierto."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
@@ -133,7 +134,7 @@ msgstr "CoMaps es creado y mantenido por personas como tú"
 #: content/community/index.md translations.yaml
 #, no-wrap
 msgid "The app runs on your donations, help improve it"
-msgstr "La aplicación funciona con tus donaciones, ayuda a mejorarla"
+msgstr "La aplicación funciona con tus donaciones. Ayuda a mejorarla"
 
 #. type: Hash Value: menu_donate
 #: content/community/index.md content/donate/index.md translations.yaml
@@ -145,13 +146,13 @@ msgstr "Donar"
 #: content/community/index.md
 #, no-wrap
 msgid "Report bugs, discuss idea, and propose features"
-msgstr "Informa de errores, discute ideas y propón características"
+msgstr "Informa de errores, discute ideas y propón funcionalidades"
 
 #. type: Yaml Front Matter Hash Value: extra features title
 #: content/community/index.md
 #, no-wrap
 msgid "**Report** Bugs"
-msgstr "**Reportar** Fallos"
+msgstr "**Reporta** Fallos"
 
 #. type: Yaml Front Matter Hash Value: extra features description
 #: content/community/index.md
@@ -163,7 +164,7 @@ msgstr "Desarrolla nuevas funcionalidades, ayuda a corregir errores, y revisa el
 #: content/community/index.md
 #, no-wrap
 msgid "**Develop** Functionality"
-msgstr "**Desarrollar** Funcionalidad"
+msgstr "**Desarrolla** Funcionalidades"
 
 #. type: Yaml Front Matter Hash Value: extra features description
 #: content/community/index.md
@@ -175,7 +176,7 @@ msgstr "Guía la dirección de la experiencia del producto"
 #: content/community/index.md
 #, no-wrap
 msgid "**Design** Interface"
-msgstr "**Diseñar** Interfaz"
+msgstr "**Diseña** Interfaces"
 
 #. type: Yaml Front Matter Hash Value: extra features description
 #: content/community/index.md
@@ -187,7 +188,7 @@ msgstr "Añade traducciones para que sea más accesible a más personas por todo
 #: content/community/index.md
 #, no-wrap
 msgid "**Translate** Text"
-msgstr "**Traducir** Texto"
+msgstr "**Traduce** Textos"
 
 #. type: Yaml Front Matter Hash Value: extra features description
 #: content/community/index.md
@@ -199,7 +200,7 @@ msgstr "Añade información de tiendas, puntos de interés, rutas, y transporte 
 #: content/community/index.md
 #, no-wrap
 msgid "**Add** Place Info"
-msgstr "**Añadir** Información del Lugar"
+msgstr "**Añade** Información de Lugares"
 
 #. type: Yaml Front Matter Hash Value: extra features description
 #: content/community/index.md
@@ -211,7 +212,7 @@ msgstr "Ayuda a la gente a usar la aplicación, y contesta preguntas"
 #: content/community/index.md
 #, no-wrap
 msgid "**Help** Support"
-msgstr "**Ayuda** y Soporte"
+msgstr "**Ayuda** Da Soporte"
 
 #. type: Hash Value: menu_community
 #: content/community/index.md translations.yaml
@@ -403,7 +404,7 @@ msgstr "Acerca de"
 #: content/download/index.md
 #, no-wrap
 msgid "Unlock the potential of navigation! Discover offline maps, privacy-centric features, and a community-driven app"
-msgstr "¡Desbloquea el potencial de la navegación! Descubre los mapas sin conexión, características centradas en la privacidad, y una aplicación dirigida por la comunidad"
+msgstr "¡Desbloquea el potencial de la navegación! Descubre los mapas sin conexión, funcionalidades centradas en la privacidad, y una aplicación dirigida por la comunidad"
 
 #. type: Yaml Front Matter Array Element: extra steps items
 #: content/download/index.md
@@ -443,10 +444,8 @@ msgstr "Descarga CoMaps"
 
 #. type: Plain text
 #: content/download/index.md
-#, fuzzy
-#| msgid "CoMaps is available on F-Droid and as an APK download now! We are still working on publishing on the Google Play Store and iOS App Store as well, please stay tuned!"
 msgid "CoMaps is available on Google Play, F-Droid, and as an APK download now! We are still working on publishing on the iOS App Store as well, please stay tuned!"
-msgstr "¡CoMaps está disponible para descargar en F-Droid y como una descarga APK! Todavía estamos trabajando en su publicación en Google Play Store y la iOS App Store también, ¡así que permanece atento!"
+msgstr "¡CoMaps está disponible en Google Play, F-Droid, y como una descarga APK! Todavía estamos trabajando en su publicación en la iOS App Store también, ¡así que permanece atento!"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/api/index.md
@@ -456,10 +455,8 @@ msgstr "Página API"
 
 #. type: Plain text
 #: content/api/index.md
-#, fuzzy
-#| msgid "The link API is documented on [omaps.app/api](https://omaps.app/api)."
 msgid "The API is documented on [comaps.at/api](https://comaps.at/api)."
-msgstr "En enlace a la API está documentado en [omaps.app/api](https://omaps.app/api)."
+msgstr "La API está documentada en [comaps.at/api](https://comaps.at/api)."
 
 #. type: Hash Value: all_title
 #: translations.yaml
@@ -469,8 +466,7 @@ msgstr "Todo"
 
 #. type: Hash Value: button-download
 #: translations.yaml
-#, fuzzy, no-wrap
-#| msgid "Download CoMaps"
+#, no-wrap
 msgid "Download"
 msgstr "Descargar"
 
@@ -490,7 +486,7 @@ msgstr "CoMaps - Preguntas frecuentes"
 #: translations.yaml
 #, no-wrap
 msgid "How can we help?"
-msgstr "¿Cóno te podemos ayudar?"
+msgstr "¿Cómo te podemos ayudar?"
 
 #. type: Hash Value: inv_code_text
 #: translations.yaml
@@ -512,10 +508,9 @@ msgstr "Añade información cerca de ti, y haz que los mapas sean mejores para t
 
 #. type: Hash Value: inv_info_title
 #: translations.yaml
-#, fuzzy, no-wrap
-#| msgid "**Add** Place Info"
+#, no-wrap
 msgid "Add Place Info"
-msgstr "Añade información de lugares"
+msgstr "Añade información de lugar"
 
 #. type: Hash Value: inv_title
 #: translations.yaml
@@ -567,8 +562,7 @@ msgstr "Más"
 
 #. type: Hash Value: releases_title
 #: translations.yaml
-#, fuzzy, no-wrap
-#| msgid "News and Releases"
+#, no-wrap
 msgid "Releases"
 msgstr "Lanzamientos"
 

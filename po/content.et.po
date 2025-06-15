@@ -6,7 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"Last-Translator: Priit Jõerüüt <jrtcdbrg@noreply.codeberg.org>\n"
+"PO-Revision-Date: 2025-06-15 19:20+0000\n"
+"Last-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>\n"
 "Language-Team: Estonian <https://translate.codeberg.org/projects/comaps/website/et/>\n"
 "Language: et\n"
 "MIME-Version: 1.0\n"
@@ -145,7 +146,7 @@ msgstr "Anneta"
 #: content/community/index.md
 #, no-wrap
 msgid "Report bugs, discuss idea, and propose features"
-msgstr "Teata vigadest, aruta ideede üle ja paku välja mõni uus lahendus"
+msgstr "Teata vigadest, kommenteeri ideid või paku välja mõni uus lahendus"
 
 #. type: Yaml Front Matter Hash Value: extra features title
 #: content/community/index.md
@@ -181,7 +182,7 @@ msgstr "**Kujunda** kasutajaliidest"
 #: content/community/index.md
 #, no-wrap
 msgid "Add translations to make it accessible for more people around the world"
-msgstr "Tõlgi rakenduse tekste ja võimalda kasutust omas keeles paljudel inimestel üle maailma"
+msgstr "Tõlgi rakenduse sisu ja võimalda seda paljudel inimestel üle maailma kasutada omas keeles"
 
 #. type: Yaml Front Matter Hash Value: extra features title
 #: content/community/index.md
@@ -443,10 +444,8 @@ msgstr "Laadi CoMaps alla"
 
 #. type: Plain text
 #: content/download/index.md
-#, fuzzy
-#| msgid "CoMaps is available on F-Droid and as an APK download now! We are still working on publishing on the Google Play Store and iOS App Store as well, please stay tuned!"
 msgid "CoMaps is available on Google Play, F-Droid, and as an APK download now! We are still working on publishing on the iOS App Store as well, please stay tuned!"
-msgstr "Rakendus on saadaval F-Droidis ja APK-failina. Tegeleme avaldamisega Google Play Store'is ja iOS App Store'is. Üsna varsti on meil selles osas uudiseid!"
+msgstr "Rakendus on saadaval Google Play Store'is, F-Droidis ja APK-failina. Tegeleme avaldamisega ka iOS App Store'is. Üsna varsti on meil selles osas uudiseid!"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/api/index.md
@@ -456,136 +455,131 @@ msgstr "API leht"
 
 #. type: Plain text
 #: content/api/index.md
-#, fuzzy
-#| msgid "The link API is documented on [omaps.app/api](https://omaps.app/api)."
 msgid "The API is documented on [comaps.at/api](https://comaps.at/api)."
-msgstr "API on dokumenteeritud siin: [omaps.app/api](https://omaps.app/api)."
+msgstr "API on dokumenteeritud siin:[comaps.at/api](https://comaps.at/api)."
 
 #. type: Hash Value: all_title
 #: translations.yaml
 #, no-wrap
 msgid "All"
-msgstr ""
+msgstr "Kõik"
 
 #. type: Hash Value: button-download
 #: translations.yaml
-#, fuzzy, no-wrap
-#| msgid "Download CoMaps"
+#, no-wrap
 msgid "Download"
-msgstr "Laadi CoMaps alla"
+msgstr "Laadi alla"
 
 #. type: Hash Value: const_lang
 #: translations.yaml
 #, no-wrap
 msgid "Language"
-msgstr ""
+msgstr "Keel"
 
 #. type: Hash Value: faq_content
 #: translations.yaml
 #, no-wrap
 msgid "CoMaps - F.A.Q."
-msgstr ""
+msgstr "CoMaps - Korduma kippuvad küsimused"
 
 #. type: Hash Value: how_can_help
 #: translations.yaml
 #, no-wrap
 msgid "How can we help?"
-msgstr ""
+msgstr "Kuidas me saame aidata?"
 
 #. type: Hash Value: inv_code_text
 #: translations.yaml
 #, no-wrap
 msgid "Build the app used by people around the world"
-msgstr ""
+msgstr "Aita luua kaardirakendust, mille kasutajaid leidub kõikjal maailmas"
 
 #. type: Hash Value: inv_code_title
 #: translations.yaml
 #, no-wrap
 msgid "Contribute Code"
-msgstr ""
+msgstr "Kirjuta koodi"
 
 #. type: Hash Value: inv_info_text
 #: translations.yaml
 #, no-wrap
 msgid "Add info around you, and make the maps better for everyone"
-msgstr ""
+msgstr "Lisa teavet oma ümbruskonnast ja aita kõigi jaoks luua paremat kaarti"
 
 #. type: Hash Value: inv_info_title
 #: translations.yaml
-#, fuzzy, no-wrap
-#| msgid "**Add** Place Info"
+#, no-wrap
 msgid "Add Place Info"
-msgstr "**Lisa** asukohateavet"
+msgstr "Lisa asukohateavet"
 
 #. type: Hash Value: inv_title
 #: translations.yaml
 #, no-wrap
 msgid "Get Involved"
-msgstr ""
+msgstr "Osale"
 
 #. type: Hash Value: language
 #: translations.yaml
 #, no-wrap
 msgid "English"
-msgstr ""
+msgstr "inglise keel"
 
 #. type: Hash Value: menu_api
 #: translations.yaml
 #, no-wrap
 msgid "API"
-msgstr ""
+msgstr "API"
 
 #. type: Hash Value: menu_help
 #: translations.yaml
 #, no-wrap
 msgid "Help"
-msgstr ""
+msgstr "Abiteave"
 
 #. type: Hash Value: menu_home
 #: translations.yaml
 #, no-wrap
 msgid "Home"
-msgstr ""
+msgstr "Avaleht"
 
 #. type: Hash Value: menu_news
 #: translations.yaml
 #, no-wrap
 msgid "News"
-msgstr ""
+msgstr "Uudised"
 
 #. type: Hash Value: menu_source_code
 #: translations.yaml
 #, no-wrap
 msgid "Source Code"
-msgstr ""
+msgstr "Lähtekood"
 
 #. type: Hash Value: more_title
 #: translations.yaml
 #, no-wrap
 msgid "More"
-msgstr ""
+msgstr "Veel"
 
 #. type: Hash Value: releases_title
 #: translations.yaml
-#, fuzzy, no-wrap
-#| msgid "News and Releases"
+#, no-wrap
 msgid "Releases"
-msgstr "Uudised ja uued versioonid"
+msgstr "Rakenduse versioonid"
 
 #. type: Hash Value: search_placeholder
 #: translations.yaml
 #, no-wrap
 msgid "Describe the issue"
-msgstr ""
+msgstr "Kirjelda viga"
 
 #. type: Hash Value: search_placeholder_simple
 #: translations.yaml
 #, no-wrap
 msgid "Search"
-msgstr ""
+msgstr "Otsi"
 
 #. type: Hash Value: social_title
 #: translations.yaml
 #, no-wrap
 msgid "Connect with Us"
-msgstr ""
+msgstr "Suhtle meiega"

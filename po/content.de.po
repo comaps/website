@@ -6,6 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
+"PO-Revision-Date: 2025-06-15 08:13+0000\n"
 "Last-Translator: map-per <map-per@noreply.codeberg.org>\n"
 "Language-Team: German <https://translate.codeberg.org/projects/comaps/website/de/>\n"
 "Language: de\n"
@@ -443,10 +444,8 @@ msgstr "CoMaps herunterladen"
 
 #. type: Plain text
 #: content/download/index.md
-#, fuzzy
-#| msgid "CoMaps is available on F-Droid and as an APK download now! We are still working on publishing on the Google Play Store and iOS App Store as well, please stay tuned!"
 msgid "CoMaps is available on Google Play, F-Droid, and as an APK download now! We are still working on publishing on the iOS App Store as well, please stay tuned!"
-msgstr "CoMaps ist jetzt auf F-Droid und als APK-Download verfügbar! Wir arbeiten noch an der Veröffentlichung im Google Play Store und iOS App Store, bitte dranbleiben!"
+msgstr "CoMaps ist jetzt auf Google Play, F-Droid und als APK-Download verfügbar! Wir arbeiten noch an der Veröffentlichung im iOS App Store, bitte dranbleiben!"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/api/index.md
@@ -456,10 +455,8 @@ msgstr "API-Seite"
 
 #. type: Plain text
 #: content/api/index.md
-#, fuzzy
-#| msgid "The link API is documented on [omaps.app/api](https://omaps.app/api)."
 msgid "The API is documented on [comaps.at/api](https://comaps.at/api)."
-msgstr "Die Link-API ist dokumentiert unter [omaps.app/api](https://omaps.app/api)."
+msgstr "Die API ist auf [comaps.at/api](https://comaps.at/api) dokumentiert."
 
 #. type: Hash Value: all_title
 #: translations.yaml

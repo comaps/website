@@ -6,6 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
+"PO-Revision-Date: 2025-06-15 08:13+0000\n"
 "Last-Translator: Outbreak2096 <outbreak2096@noreply.codeberg.org>\n"
 "Language-Team: Chinese (Simplified Han script) <https://translate.codeberg.org/projects/comaps/website/zh_Hans/>\n"
 "Language: zh-Hans\n"
@@ -443,10 +444,8 @@ msgstr "下载 CoMaps"
 
 #. type: Plain text
 #: content/download/index.md
-#, fuzzy
-#| msgid "CoMaps is available on F-Droid and as an APK download now! We are still working on publishing on the Google Play Store and iOS App Store as well, please stay tuned!"
 msgid "CoMaps is available on Google Play, F-Droid, and as an APK download now! We are still working on publishing on the iOS App Store as well, please stay tuned!"
-msgstr "CoMaps 现在可在 F-Droid 下载，并提供 APK 安装包！我们仍在努力推进 Google Play 商店和 iOS App Store 的上架工作，敬请期待！"
+msgstr "CoMaps 现在可在 Google Play 和 F-Droid 下载，并提供 APK 安装包！我们仍在努力推进 iOS App Store 的上架工作，敬请期待！"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/api/index.md
@@ -456,10 +455,8 @@ msgstr "API 文档"
 
 #. type: Plain text
 #: content/api/index.md
-#, fuzzy
-#| msgid "The link API is documented on [omaps.app/api](https://omaps.app/api)."
 msgid "The API is documented on [comaps.at/api](https://comaps.at/api)."
-msgstr "关于连接 API，请参见 [omaps.app/api](https://omaps.app/api)。"
+msgstr "API 文档在 [comaps.at/api](https://comaps.at/api)。"
 
 #. type: Hash Value: all_title
 #: translations.yaml
@@ -495,7 +492,7 @@ msgstr "我们能帮您什么？"
 #: translations.yaml
 #, no-wrap
 msgid "Build the app used by people around the world"
-msgstr "开发全球用户使用的应用"
+msgstr "共建世界各地都在使用的应用"
 
 #. type: Hash Value: inv_code_title
 #: translations.yaml
@@ -519,13 +516,13 @@ msgstr "添加地点信息"
 #: translations.yaml
 #, no-wrap
 msgid "Get Involved"
-msgstr "参与进来"
+msgstr "参与我们"
 
 #. type: Hash Value: language
 #: translations.yaml
 #, no-wrap
 msgid "English"
-msgstr "简体中文"
+msgstr "中文（简体）"
 
 #. type: Hash Value: menu_api
 #: translations.yaml

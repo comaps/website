@@ -6,6 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
+"PO-Revision-Date: 2025-06-15 08:13+0000\n"
 "Last-Translator: oxisol <oxisol@noreply.codeberg.org>\n"
 "Language-Team: Chinese (Traditional Han script) <https://translate.codeberg.org/projects/comaps/website/zh_Hant/>\n"
 "Language: zh-Hant\n"
@@ -465,20 +466,19 @@ msgstr "關於介接 API，請參閱 [omaps.app/api](https://omaps.app/api)。"
 #: translations.yaml
 #, no-wrap
 msgid "All"
-msgstr ""
+msgstr "全部"
 
 #. type: Hash Value: button-download
 #: translations.yaml
-#, fuzzy, no-wrap
-#| msgid "Download CoMaps"
+#, no-wrap
 msgid "Download"
-msgstr "下載 CoMaps"
+msgstr "下載"
 
 #. type: Hash Value: const_lang
 #: translations.yaml
 #, no-wrap
 msgid "Language"
-msgstr ""
+msgstr "語言"
 
 #. type: Hash Value: faq_content
 #: translations.yaml
@@ -512,22 +512,21 @@ msgstr ""
 
 #. type: Hash Value: inv_info_title
 #: translations.yaml
-#, fuzzy, no-wrap
-#| msgid "**Add** Place Info"
+#, no-wrap
 msgid "Add Place Info"
-msgstr "**添加** 位置資訊"
+msgstr "添加位置資訊"
 
 #. type: Hash Value: inv_title
 #: translations.yaml
 #, no-wrap
 msgid "Get Involved"
-msgstr ""
+msgstr "參與我們"
 
 #. type: Hash Value: language
 #: translations.yaml
 #, no-wrap
 msgid "English"
-msgstr ""
+msgstr "中文（繁體）"
 
 #. type: Hash Value: menu_api
 #: translations.yaml
@@ -539,38 +538,37 @@ msgstr ""
 #: translations.yaml
 #, no-wrap
 msgid "Help"
-msgstr ""
+msgstr "幫助"
 
 #. type: Hash Value: menu_home
 #: translations.yaml
 #, no-wrap
 msgid "Home"
-msgstr ""
+msgstr "首頁"
 
 #. type: Hash Value: menu_news
 #: translations.yaml
 #, no-wrap
 msgid "News"
-msgstr ""
+msgstr "新聞"
 
 #. type: Hash Value: menu_source_code
 #: translations.yaml
 #, no-wrap
 msgid "Source Code"
-msgstr ""
+msgstr "原始碼"
 
 #. type: Hash Value: more_title
 #: translations.yaml
 #, no-wrap
 msgid "More"
-msgstr ""
+msgstr "了解更多"
 
 #. type: Hash Value: releases_title
 #: translations.yaml
-#, fuzzy, no-wrap
-#| msgid "News and Releases"
+#, no-wrap
 msgid "Releases"
-msgstr "最新消息和推出"
+msgstr "版本發布"
 
 #. type: Hash Value: search_placeholder
 #: translations.yaml
@@ -582,7 +580,7 @@ msgstr ""
 #: translations.yaml
 #, no-wrap
 msgid "Search"
-msgstr ""
+msgstr "搜尋"
 
 #. type: Hash Value: social_title
 #: translations.yaml

@@ -6,7 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"Last-Translator: Laurent FAVOLE <lfavole@noreply.codeberg.org>\n"
+"PO-Revision-Date: 2025-06-15 10:34+0000\n"
+"Last-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>\n"
 "Language-Team: Italian <https://translate.codeberg.org/projects/comaps/website/it/>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
@@ -443,10 +444,8 @@ msgstr "Scarica CoMaps"
 
 #. type: Plain text
 #: content/download/index.md
-#, fuzzy
-#| msgid "CoMaps is available on F-Droid and as an APK download now! We are still working on publishing on the Google Play Store and iOS App Store as well, please stay tuned!"
 msgid "CoMaps is available on Google Play, F-Droid, and as an APK download now! We are still working on publishing on the iOS App Store as well, please stay tuned!"
-msgstr "CoMaps è disponibile su F-Droid e come download APK ora! Stiamo ancora lavorando per pubblicare l'app anche sul Google Play Store e l'iOS App Store, rimanete sintonizzati!"
+msgstr "CoMaps è disponibile su Google Play, F-Droid e come download APK ora! Stiamo ancora lavorando per pubblicare l'app anche sull'iOS App Store, rimanete sintonizzati!"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/api/index.md
@@ -456,136 +455,131 @@ msgstr "Pagina API"
 
 #. type: Plain text
 #: content/api/index.md
-#, fuzzy
-#| msgid "The link API is documented on [omaps.app/api](https://omaps.app/api)."
 msgid "The API is documented on [comaps.at/api](https://comaps.at/api)."
-msgstr "L'API dei link è documentata su [omaps.app/api](https://omaps.app/api)."
+msgstr "L'API è documentata su [comaps.at/api](https://comaps.at/api)."
 
 #. type: Hash Value: all_title
 #: translations.yaml
 #, no-wrap
 msgid "All"
-msgstr ""
+msgstr "Tutto"
 
 #. type: Hash Value: button-download
 #: translations.yaml
-#, fuzzy, no-wrap
-#| msgid "Download CoMaps"
+#, no-wrap
 msgid "Download"
-msgstr "Scarica CoMaps"
+msgstr "Scarica"
 
 #. type: Hash Value: const_lang
 #: translations.yaml
 #, no-wrap
 msgid "Language"
-msgstr ""
+msgstr "Lingua"
 
 #. type: Hash Value: faq_content
 #: translations.yaml
 #, no-wrap
 msgid "CoMaps - F.A.Q."
-msgstr ""
+msgstr "CoMaps - F.A.Q."
 
 #. type: Hash Value: how_can_help
 #: translations.yaml
 #, no-wrap
 msgid "How can we help?"
-msgstr ""
+msgstr "Come possiamo aiutarti?"
 
 #. type: Hash Value: inv_code_text
 #: translations.yaml
 #, no-wrap
 msgid "Build the app used by people around the world"
-msgstr ""
+msgstr "Costruisci l'applicazione utilizzata da persone in tutto il mondo"
 
 #. type: Hash Value: inv_code_title
 #: translations.yaml
 #, no-wrap
 msgid "Contribute Code"
-msgstr ""
+msgstr "Contribuisci al codice"
 
 #. type: Hash Value: inv_info_text
 #: translations.yaml
 #, no-wrap
 msgid "Add info around you, and make the maps better for everyone"
-msgstr ""
+msgstr "Aggiungi delle informazioni intorno a te, e rendi le mappe migliori per tutti"
 
 #. type: Hash Value: inv_info_title
 #: translations.yaml
-#, fuzzy, no-wrap
-#| msgid "**Add** Place Info"
+#, no-wrap
 msgid "Add Place Info"
-msgstr "**Aggiungi** delle informazioni sui posti"
+msgstr "Aggiungi delle informazioni sui posti"
 
 #. type: Hash Value: inv_title
 #: translations.yaml
 #, no-wrap
 msgid "Get Involved"
-msgstr ""
+msgstr "Partecipa"
 
 #. type: Hash Value: language
 #: translations.yaml
 #, no-wrap
 msgid "English"
-msgstr ""
+msgstr "Italiano"
 
 #. type: Hash Value: menu_api
 #: translations.yaml
 #, no-wrap
 msgid "API"
-msgstr ""
+msgstr "API"
 
 #. type: Hash Value: menu_help
 #: translations.yaml
 #, no-wrap
 msgid "Help"
-msgstr ""
+msgstr "Aiuto"
 
 #. type: Hash Value: menu_home
 #: translations.yaml
 #, no-wrap
 msgid "Home"
-msgstr ""
+msgstr "Home"
 
 #. type: Hash Value: menu_news
 #: translations.yaml
 #, no-wrap
 msgid "News"
-msgstr ""
+msgstr "Notizie"
 
 #. type: Hash Value: menu_source_code
 #: translations.yaml
 #, no-wrap
 msgid "Source Code"
-msgstr ""
+msgstr "Codice sorgente"
 
 #. type: Hash Value: more_title
 #: translations.yaml
 #, no-wrap
 msgid "More"
-msgstr ""
+msgstr "Di più"
 
 #. type: Hash Value: releases_title
 #: translations.yaml
-#, fuzzy, no-wrap
-#| msgid "News and Releases"
+#, no-wrap
 msgid "Releases"
-msgstr "Attualità e versioni"
+msgstr "Versioni"
 
 #. type: Hash Value: search_placeholder
 #: translations.yaml
 #, no-wrap
 msgid "Describe the issue"
-msgstr ""
+msgstr "Descrivi il problema"
 
 #. type: Hash Value: search_placeholder_simple
 #: translations.yaml
 #, no-wrap
 msgid "Search"
-msgstr ""
+msgstr "Cerca"
 
 #. type: Hash Value: social_title
 #: translations.yaml
 #, no-wrap
 msgid "Connect with Us"
-msgstr ""
+msgstr "Contattaci"
