@@ -8,4 +8,4 @@ extra:
   order: 50
 ---
 
-As it split off only recently, CoMaps is still very similar to Organic Maps. There are no significant differences yet. However, CoMaps is not committed to maintaining parity with Organic Maps, so the two projects will probably diverge slowly over time.
+As it split off only recently, CoMaps is still very similar to Organic Maps. There are no major differences yet. CoMaps currently adopts most of the changes from Organic Maps but also adds its own improvements. For example, the user interface has already been slightly improved and the map style is currently being reworked.
