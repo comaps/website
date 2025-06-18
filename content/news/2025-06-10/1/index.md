@@ -1,7 +1,7 @@
 ---
-title: "Android release 2025.06.10 is out on Codeberg!"
+title: "Android preview release 2025.06.10 is out on Codeberg!"
 description: 
-date: 2025-06-10T00:08:00-00:00
+date: 2025-06-10T09:00:00-00:00
 slug: "Android-release-2025.06.10-is-out-on-Codeberg!"
 taxonomies:
     category: ["Release"]
