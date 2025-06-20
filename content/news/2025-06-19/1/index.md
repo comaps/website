@@ -1,8 +1,8 @@
 ---
-title: "CoMaps Release on F-Droid!"
+title: "CoMaps is now on F-Droid!"
 description: 
 date: 2025-06-19T08:00:00-00:00
-slug: "CoMaps-Release-on-F-Droid!"
+slug: "CoMaps-is-now-on-F-Droid"
 taxonomies:
     category: ["Announcement"]
 ---
