@@ -13,7 +13,7 @@ extra:
         description: 'Suunnittele ja navigoi matkasi ulkomaille ilman mobiilidatan käyttöä tai etsi reittipisteitä kaukaisella vaelluksella.'
         highlight:
           icon: static/images/icons/home/wifi-off.svg
-          text: 'Internetiä ei tarvita'
+          text: 'Ilman verkkoyhteyttä'
         media:
           map: /images/sections/map-s-1.webp
           user: /images/sections/map-m-1.webp
@@ -47,5 +47,5 @@ extra:
         title: 'Ilmainen ja yhteisön luoma'
 sort_by: weight
 template: home.html
-title: 'Patikoi, pyöräile tai aja offline-navigoinnin ja yksityisyyden kanssa'
+title: 'Vaella, pyöräile tai aja ilman verkkoyhteyttä, yksityisesti'
 ---

@@ -7,7 +7,7 @@ extra:
     title: "Ilmainen ja avoin navigointi yksityisesti, yhteisön luoma"
   history:
     items:
-      - text: "MapsWithMe navigation app created (later renamed to Maps.me)."
+      - text: "MapsWithMe navigointisovellus luotiin (myöhemmin nimettiin uudelleen nimellä Maps.me:ksi)."
         year: 2011
       - text: "Maps.me avasi lähdekoodinsta Apache 2.0 -lisenssillä."
         year: 2015

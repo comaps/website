@@ -3,7 +3,7 @@ description: "O CoMaps é criado e mantido por pessoas como você"
 extra:
   donate:
     description: "O aplicativo funciona com suas doações, ajude a melhorá-lo"
-    title: Doar
+    title: Doe
   features:
     - description: "Relate erros, discuta ideias e proponha recursos"
       icon: chats.svg

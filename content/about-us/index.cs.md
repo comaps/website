@@ -7,7 +7,7 @@ extra:
     title: "Bezplatná a otevřená navigace se soukromím, vytvořená komunitou"
   history:
     items:
-      - text: "MapsWithMe navigation app created (later renamed to Maps.me)."
+      - text: "Vytvořena navigační aplikace MapsWithMe (později přejmenována na Maps.me)."
         year: 2011
       - text: "Maps.me otevřely zdrojový kód pod licencí Apache 2.0."
         year: 2015

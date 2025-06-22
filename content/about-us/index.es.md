@@ -7,7 +7,7 @@ extra:
     title: "Navegación libre y abierta con privacidad, construida por la comunidad"
   history:
     items:
-      - text: "MapsWithMe navigation app created (later renamed to Maps.me)."
+      - text: "Creada aplicación de navegación MapsWithMe (después renombrada a Maps.me)."
         year: 2011
       - text: "Maps.me abrió su código fuente bajo la licencia Apache 2.0."
         year: 2015

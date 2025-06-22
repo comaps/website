@@ -1,5 +1,5 @@
 ---
-description: "CoMaps is created and maintained by people like you"
+description: "O CoMaps é criado e mantida por pessoas como tu"
 extra:
   donate:
     description: "Esta aplicação depende dos vossos donativos, ajude a torná-la melhor"
@@ -21,7 +21,7 @@ extra:
       icon: Translate.svg
       link: https://codeberg.org/comaps/comaps/src/branch/main/docs/TRANSLATIONS.md
       title: "**Traduzir** Texto"
-    - description: "Adicione informação sobre lojas, pontos de interesse, trilhos, e transporte público ao OpenStreeMap"
+    - description: "Adicione informação sobre lojas, pontos de interesse, trilhos, e transporte público ao OpenStreetMap"
       icon: MapPinLine.svg
       link: /support/editing-with-CoMaps
       title: "**Adicionar** Informação sobre o lugar"

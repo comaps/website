@@ -6,7 +6,6 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"PO-Revision-Date: 2025-06-21 10:29+0000\n"
 "Last-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>\n"
 "Language-Team: Turkish <https://translate.codeberg.org/projects/comaps/website/tr/>\n"
 "Language: tr\n"
@@ -524,7 +523,7 @@ msgstr "Katıl"
 #: translations.yaml
 #, no-wrap
 msgid "English"
-msgstr ""
+msgstr "Türkçe"
 
 #. type: Hash Value: menu_api
 #: translations.yaml

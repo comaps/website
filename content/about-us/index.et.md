@@ -7,7 +7,7 @@ extra:
     title: "Vaba, avatud ja tasuta kaardirakendus, mis arvestab privaatsusega, loodud kogukonna poolt"
   history:
     items:
-      - text: "MapsWithMe navigation app created (later renamed to Maps.me)."
+      - text: "MapsWithMe kaardirakendus on saadaval (hilisema nimega Maps.me)."
         year: 2011
       - text: "Maps.me lähtekood avaldatakse Apache 2.0 litsentsi alusel."
         year: 2015

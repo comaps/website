@@ -7,7 +7,7 @@ extra:
     title: 隱私保護下的免費開放導航，由社群共同營造
   history:
     items:
-      - text: "MapsWithMe navigation app created (later renamed to Maps.me)."
+      - text: "MapsWithMe 導航應用誕生（後來更名為 Maps.me）。"
         year: 2011
       - text: "Maps.me 依據 Apache 授權條款 2.0 開放原始碼。"
         year: 2015

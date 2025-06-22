@@ -19,12 +19,12 @@ extra:
       - "Centrado na Privacidade"
       - "Sem recolha de dados"
       - "Impulsionada pela comunidade"
-    title: "Já fez o download?"
+    title: "Já descarregou?"
 template: download.html
-title: "Faça o Download do CoMaps"
+title: "Descarregar o CoMaps"
 weight: 10
 ---
 
-CoMaps is available on Google Play, F-Droid, and as an APK download now! We
-are still working on publishing on the iOS App Store as well, please stay
-tuned!
+O CoMaps está disponível no Google Play, F-Droid e como APK para descarregar
+agora! Ainda estamos a trabalhar em publicar a aplicação na App Store do
+iOS, fiquem atentos!

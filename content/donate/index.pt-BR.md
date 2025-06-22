@@ -9,7 +9,7 @@ extra:
       title: "Doe via Liberapay"
     open_collective:
       title: "Doe via Open Collective"
-    title: Doar
+    title: Doe
   funding:
     items:
       - media: /images/donate/developers.webp
@@ -33,6 +33,6 @@ extra:
   service_text:
   service_title: "Created with love by enthusiast volunteers"
 template: new-donate.html
-title: Doar
+title: Doe
 weight: 10
 ---
