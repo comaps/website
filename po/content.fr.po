@@ -6,7 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"Last-Translator: Laurent FAVOLE <lfavole@noreply.codeberg.org>\n"
+"PO-Revision-Date: 2025-06-21 10:29+0000\n"
+"Last-Translator: jros <jros@noreply.codeberg.org>\n"
 "Language-Team: French <https://translate.codeberg.org/projects/comaps/website/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -335,10 +336,9 @@ msgstr "Navigation gratuite et ouverte respectant la vie privée, faite par la c
 
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md
-#, fuzzy, no-wrap
-#| msgid "MapsWithMe navigation app created (later renamed to Maps.me)"
+#, no-wrap
 msgid "MapsWithMe navigation app created (later renamed to Maps.me)."
-msgstr "Création de l'application de navigation MapsWithMe (plus tard renommée Maps.me)"
+msgstr "Création de l'application de navigation MapsWithMe (plus tard renommée Maps.me)."
 
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md
@@ -522,7 +522,7 @@ msgstr "Impliquez-vous"
 #: translations.yaml
 #, no-wrap
 msgid "English"
-msgstr "Anglais"
+msgstr "Français"
 
 #. type: Hash Value: menu_api
 #: translations.yaml

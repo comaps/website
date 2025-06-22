@@ -6,6 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
+"PO-Revision-Date: 2025-06-22 02:54+0000\n"
 "Last-Translator: oxisol <oxisol@noreply.codeberg.org>\n"
 "Language-Team: Chinese (Traditional Han script) <https://translate.codeberg.org/projects/comaps/website/zh_Hant/>\n"
 "Language: zh-Hant\n"
@@ -335,10 +336,9 @@ msgstr "隱私保護下的免費開放導航，由社群共同營造"
 
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md
-#, fuzzy, no-wrap
-#| msgid "MapsWithMe navigation app created (later renamed to Maps.me)"
+#, no-wrap
 msgid "MapsWithMe navigation app created (later renamed to Maps.me)."
-msgstr "MapsWithMe 導航應用誕生（後來更名為 Maps.me）"
+msgstr "MapsWithMe 導航應用誕生（後來更名為 Maps.me）。"
 
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md
@@ -444,10 +444,8 @@ msgstr "下載 CoMaps"
 
 #. type: Plain text
 #: content/download/index.md
-#, fuzzy
-#| msgid "The first app release is available as an APK download now! We are still working on publishing on F-Droid, Google Play Store and iOS App Store as well, please stay tuned!"
 msgid "CoMaps is available on Google Play, F-Droid, and as an APK download now! We are still working on publishing on the iOS App Store as well, please stay tuned!"
-msgstr "現已提供應用的初始版本 APK 下載！ 我們仍在研究 F-Droid、Google Play 和 iOS App Store 的上架工作，敬請期待！"
+msgstr "CoMaps 現在可在 Google Play 和 F-Droid 下載，並提供 APK 安裝文件！我們仍在努力推進 iOS App Store 的上架工作，敬請期待！"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/api/index.md
@@ -457,10 +455,8 @@ msgstr "API 參考資料"
 
 #. type: Plain text
 #: content/api/index.md
-#, fuzzy
-#| msgid "The link API is documented on [omaps.app/api](https://omaps.app/api)."
 msgid "The API is documented on [comaps.at/api](https://comaps.at/api)."
-msgstr "關於介接 API，請參閱 [omaps.app/api](https://omaps.app/api)。"
+msgstr "API 參考資料在 [comaps.at/api](https://comaps.at/api)。"
 
 #. type: Hash Value: all_title
 #: translations.yaml
@@ -484,37 +480,37 @@ msgstr "語言"
 #: translations.yaml
 #, no-wrap
 msgid "CoMaps - F.A.Q."
-msgstr ""
+msgstr "CoMaps—常問問題"
 
 #. type: Hash Value: how_can_help
 #: translations.yaml
 #, no-wrap
 msgid "How can we help?"
-msgstr ""
+msgstr "我們可以提供什麼協助？"
 
 #. type: Hash Value: inv_code_text
 #: translations.yaml
 #, no-wrap
 msgid "Build the app used by people around the world"
-msgstr ""
+msgstr "共建世界各地都在使用的應用"
 
 #. type: Hash Value: inv_code_title
 #: translations.yaml
 #, no-wrap
 msgid "Contribute Code"
-msgstr ""
+msgstr "貢獻程式碼"
 
 #. type: Hash Value: inv_info_text
 #: translations.yaml
 #, no-wrap
 msgid "Add info around you, and make the maps better for everyone"
-msgstr ""
+msgstr "新增周圍環境資訊，讓地圖更好地為所有人服務"
 
 #. type: Hash Value: inv_info_title
 #: translations.yaml
 #, no-wrap
 msgid "Add Place Info"
-msgstr "添加位置資訊"
+msgstr "新增位置資訊"
 
 #. type: Hash Value: inv_title
 #: translations.yaml
@@ -532,7 +528,7 @@ msgstr "中文（繁體）"
 #: translations.yaml
 #, no-wrap
 msgid "API"
-msgstr ""
+msgstr "API"
 
 #. type: Hash Value: menu_help
 #: translations.yaml
@@ -574,7 +570,7 @@ msgstr "版本發布"
 #: translations.yaml
 #, no-wrap
 msgid "Describe the issue"
-msgstr ""
+msgstr "描述問題"
 
 #. type: Hash Value: search_placeholder_simple
 #: translations.yaml
@@ -586,4 +582,4 @@ msgstr "搜尋"
 #: translations.yaml
 #, no-wrap
 msgid "Connect with Us"
-msgstr ""
+msgstr "聯絡我們"

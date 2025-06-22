@@ -6,7 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"Last-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>\n"
+"PO-Revision-Date: 2025-06-17 03:28+0000\n"
+"Last-Translator: Fjuro <git@alius.cz>\n"
 "Language-Team: Czech <https://translate.codeberg.org/projects/comaps/website/cs/>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
@@ -335,10 +336,9 @@ msgstr "Bezplatná a otevřená navigace se soukromím, vytvořená komunitou"
 
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md
-#, fuzzy, no-wrap
-#| msgid "MapsWithMe navigation app created (later renamed to Maps.me)"
+#, no-wrap
 msgid "MapsWithMe navigation app created (later renamed to Maps.me)."
-msgstr "Vytvořena navigační aplikace MapsWithMe (později přejmenována na Maps.me)"
+msgstr "Vytvořena navigační aplikace MapsWithMe (později přejmenována na Maps.me)."
 
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md
@@ -444,10 +444,8 @@ msgstr "Stáhnout CoMaps"
 
 #. type: Plain text
 #: content/download/index.md
-#, fuzzy
-#| msgid "CoMaps is available on F-Droid and as an APK download now! We are still working on publishing on the Google Play Store and iOS App Store as well, please stay tuned!"
 msgid "CoMaps is available on Google Play, F-Droid, and as an APK download now! We are still working on publishing on the iOS App Store as well, please stay tuned!"
-msgstr "Aplikace CoMaps je nyní k dispozici ve službě F-Droid a ke stažení jako soubor APK! Stále pracujeme na zveřejnění na Obchodu Google Play a iOS App Store, sledujte novinky!"
+msgstr "Aplikace CoMaps je nyní k dispozici v Obchodě Google Play, ve službě F-Droid a ke stažení jako soubor APK! Stále pracujeme na zveřejnění na iOS App Store, sledujte novinky!"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/api/index.md
@@ -457,10 +455,8 @@ msgstr "Stránka API"
 
 #. type: Plain text
 #: content/api/index.md
-#, fuzzy
-#| msgid "The link API is documented on [omaps.app/api](https://omaps.app/api)."
 msgid "The API is documented on [comaps.at/api](https://comaps.at/api)."
-msgstr "Rozhraní API je zdokumentováno na adrese [omaps.app/api](https://omaps.app/api)."
+msgstr "Rozhraní API je zdokumentováno na adrese [comaps.at/api](https://comaps.at/api)."
 
 #. type: Hash Value: all_title
 #: translations.yaml

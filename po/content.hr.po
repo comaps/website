@@ -6,7 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"Last-Translator: mnalis <mnalis@noreply.codeberg.org>\n"
+"PO-Revision-Date: 2025-06-16 12:13+0000\n"
+"Last-Translator: map-per <map-per@noreply.codeberg.org>\n"
 "Language-Team: Croatian <https://translate.codeberg.org/projects/comaps/website/hr/>\n"
 "Language: hr\n"
 "MIME-Version: 1.0\n"
@@ -521,7 +522,7 @@ msgstr ""
 #: translations.yaml
 #, no-wrap
 msgid "English"
-msgstr ""
+msgstr "Hrvatski"
 
 #. type: Hash Value: menu_api
 #: translations.yaml

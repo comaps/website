@@ -6,7 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"Last-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>\n"
+"PO-Revision-Date: 2025-06-16 11:21+0000\n"
+"Last-Translator: phama <phama@noreply.codeberg.org>\n"
 "Language-Team: Finnish <https://translate.codeberg.org/projects/comaps/website/fi/>\n"
 "Language: fi\n"
 "MIME-Version: 1.0\n"
@@ -49,7 +50,7 @@ msgstr "Suunnittele ja navigoi matkasi ulkomaille ilman mobiilidatan käyttöä 
 #: content/_index.md
 #, no-wrap
 msgid "No internet needed"
-msgstr "Internetiä ei tarvita"
+msgstr "Ilman verkkoyhteyttä"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
@@ -115,7 +116,7 @@ msgstr "Ilmainen ja yhteisön luoma"
 #: content/_index.md
 #, no-wrap
 msgid "Hike, Bike, Drive Offline Navigate with Privacy"
-msgstr "Patikoi, pyöräile tai aja offline-navigoinnin ja yksityisyyden kanssa"
+msgstr "Vaella, pyöräile tai aja ilman verkkoyhteyttä, yksityisesti"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/news/_index.md
@@ -335,10 +336,9 @@ msgstr "Ilmainen ja avoin navigointi yksityisesti, yhteisön luoma"
 
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md
-#, fuzzy, no-wrap
-#| msgid "MapsWithMe navigation app created (later renamed to Maps.me)"
+#, no-wrap
 msgid "MapsWithMe navigation app created (later renamed to Maps.me)."
-msgstr "MapsWithMe navigointisovellus luotiin (myöhemmin nimettiin uudelleen Maps.me:ksi)"
+msgstr "MapsWithMe navigointisovellus luotiin (myöhemmin nimettiin uudelleen nimellä Maps.me:ksi)."
 
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md
@@ -492,13 +492,13 @@ msgstr "Kuinka voimme auttaa?"
 #: translations.yaml
 #, no-wrap
 msgid "Build the app used by people around the world"
-msgstr ""
+msgstr "Rakenna sovellus käytettäväksi ympäri maailmaa"
 
 #. type: Hash Value: inv_code_title
 #: translations.yaml
 #, no-wrap
 msgid "Contribute Code"
-msgstr ""
+msgstr "Luo koodia"
 
 #. type: Hash Value: inv_info_text
 #: translations.yaml

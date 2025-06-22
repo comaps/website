@@ -6,7 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"Last-Translator: Outbreak2096 <outbreak2096@noreply.codeberg.org>\n"
+"PO-Revision-Date: 2025-06-22 02:54+0000\n"
+"Last-Translator: oxisol <oxisol@noreply.codeberg.org>\n"
 "Language-Team: Chinese (Simplified Han script) <https://translate.codeberg.org/projects/comaps/website/zh_Hans/>\n"
 "Language: zh-Hans\n"
 "MIME-Version: 1.0\n"
@@ -335,10 +336,9 @@ msgstr "隐私保护下的免费开放导航，由社区共同创建"
 
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md
-#, fuzzy, no-wrap
-#| msgid "MapsWithMe navigation app created (later renamed to Maps.me)"
+#, no-wrap
 msgid "MapsWithMe navigation app created (later renamed to Maps.me)."
-msgstr "MapsWithMe 导航应用被创建（后更名为 Maps.me）"
+msgstr "MapsWithMe 导航应用诞生（后更名为 Maps.me）。"
 
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md
@@ -456,7 +456,7 @@ msgstr "API 文档"
 #. type: Plain text
 #: content/api/index.md
 msgid "The API is documented on [comaps.at/api](https://comaps.at/api)."
-msgstr "API 文档在 [comaps.at/api](https://comaps.at/api)。"
+msgstr "API 参考文档在 [comaps.at/api](https://comaps.at/api)。"
 
 #. type: Hash Value: all_title
 #: translations.yaml
@@ -480,13 +480,13 @@ msgstr "语言"
 #: translations.yaml
 #, no-wrap
 msgid "CoMaps - F.A.Q."
-msgstr "CoMaps - 常见问题"
+msgstr "CoMaps—常见问题"
 
 #. type: Hash Value: how_can_help
 #: translations.yaml
 #, no-wrap
 msgid "How can we help?"
-msgstr "我们能帮您什么？"
+msgstr "我们能为您提供什么帮助？"
 
 #. type: Hash Value: inv_code_text
 #: translations.yaml
