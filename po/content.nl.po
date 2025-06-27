@@ -6,6 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
+"PO-Revision-Date: 2025-06-24 03:30+0000\n"
 "Last-Translator: lazlo <lazlo@noreply.codeberg.org>\n"
 "Language-Team: Dutch <https://translate.codeberg.org/projects/comaps/website/nl/>\n"
 "Language: nl\n"
@@ -37,7 +38,7 @@ msgstr "Vrijheid is hier"
 #: content/_index.md
 #, no-wrap
 msgid "Community + Open Maps"
-msgstr "Community + Open Maps"
+msgstr "Community + Open kaarten"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
@@ -115,7 +116,7 @@ msgstr "Vrij en gebouwd door de community"
 #: content/_index.md
 #, no-wrap
 msgid "Hike, Bike, Drive Offline Navigate with Privacy"
-msgstr "Wandel, fiets, rijd offline - navigeer met privacy"
+msgstr "Wandel, fiets, rijd offline Navigeer met privacy"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/news/_index.md
@@ -504,7 +505,7 @@ msgstr "Voeg informatie van je omgeving toe en verbeter de kaarten voor iedereen
 #: translations.yaml
 #, no-wrap
 msgid "Add Place Info"
-msgstr ""
+msgstr "Voeg plaatsinfo toe"
 
 #. type: Hash Value: inv_title
 #: translations.yaml
@@ -558,7 +559,7 @@ msgstr "Meer"
 #: translations.yaml
 #, no-wrap
 msgid "Releases"
-msgstr ""
+msgstr "Releases"
 
 #. type: Hash Value: search_placeholder
 #: translations.yaml

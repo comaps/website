@@ -6,7 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"Last-Translator: Priit Jõerüüt <jrtcdbrg@noreply.codeberg.org>\n"
+"PO-Revision-Date: 2025-06-24 03:30+0000\n"
+"Last-Translator: oxisol <oxisol@noreply.codeberg.org>\n"
 "Language-Team: Estonian <https://translate.codeberg.org/projects/comaps/website/et/>\n"
 "Language: et\n"
 "MIME-Version: 1.0\n"
@@ -516,7 +517,7 @@ msgstr "Osale"
 #: translations.yaml
 #, no-wrap
 msgid "English"
-msgstr "inglise keel"
+msgstr "eesti keel"
 
 #. type: Hash Value: menu_api
 #: translations.yaml

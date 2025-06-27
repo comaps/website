@@ -6,7 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"Last-Translator: phama <phama@noreply.codeberg.org>\n"
+"PO-Revision-Date: 2025-06-27 20:18+0000\n"
+"Last-Translator: artnay <artnay@noreply.codeberg.org>\n"
 "Language-Team: Finnish <https://translate.codeberg.org/projects/comaps/website/fi/>\n"
 "Language: fi\n"
 "MIME-Version: 1.0\n"
@@ -37,7 +38,7 @@ msgstr "Vapaus on täällä"
 #: content/_index.md
 #, no-wrap
 msgid "Community + Open Maps"
-msgstr "Community + Open Maps"
+msgstr "Yhteisö + Avoimet kartat"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
@@ -61,7 +62,7 @@ msgstr "Offline-haku ja reititys"
 #: content/_index.md
 #, no-wrap
 msgid "The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information."
-msgstr "Sovellus on suunniteltu yksityisyys silmälläpitäen - Se ei tunnista ihmisiä, ei seuraa sinua, eikä kerää mitään tietoja."
+msgstr "Sovellus on suunniteltu yksityisyys huomioiden - Se ei tunnista ihmisiä, ei seuraa sinua, eikä kerää mitään tietoja."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
@@ -97,7 +98,7 @@ msgstr "Säästä akkuasi"
 #: content/_index.md
 #, no-wrap
 msgid "People like you helped build the app by adding locations to <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on Codeberg in the open-source community."
-msgstr "Käyttäjät, kuten sinä, ovat auttaneet sovelluksen kehityksen kanssa lisäämällä sijainteja <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, antamalla palautetta ja osallistumalla sovelluskehitykseen Codeberg-alustan avoimen lähdekoodin yhteisössä."
+msgstr "Käyttäjät, kuten sinä, ovat auttaneet sovelluksen kehityksen kanssa lisäämällä sijainteja <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMapiin](https://openstreetmap.org)</span>, antamalla palautetta ja osallistumalla sovelluskehitykseen Codeberg-alustan avoimen lähdekoodin yhteisössä."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
@@ -127,7 +128,7 @@ msgstr "Uutiset ja julkaisut"
 #: content/community/index.md
 #, no-wrap
 msgid "CoMaps is created and maintained by people like you"
-msgstr "CoMaps:n on luotu ja ylläpidetty kaltaistesi käyttäjien toimesta"
+msgstr "CoMaps on luotu ja ylläpidetty kaltaistesi käyttäjien toimesta"
 
 #. type: Hash Value: donate-description
 #: content/community/index.md translations.yaml
@@ -145,25 +146,25 @@ msgstr "Lahjoita"
 #: content/community/index.md
 #, no-wrap
 msgid "Report bugs, discuss idea, and propose features"
-msgstr "Raportoi virheitä, keskustele ideoista ja ehdota ominaisuuksia"
+msgstr "Raportoi virheistä, keskustele ideoista ja ehdota ominaisuuksia"
 
 #. type: Yaml Front Matter Hash Value: extra features title
 #: content/community/index.md
 #, no-wrap
 msgid "**Report** Bugs"
-msgstr "**Raportoi** Virheitä"
+msgstr "**Raportoi** virheistä"
 
 #. type: Yaml Front Matter Hash Value: extra features description
 #: content/community/index.md
 #, no-wrap
 msgid "Develop new features, help fix bugs, and review code"
-msgstr "Kehitä uusia ominaisuuksia, korjaa ohjelmistobugeja ja tutki lähdekoodia"
+msgstr "Kehitä uusia ominaisuuksia, korjaa ohjelmistovirheitä ja katselmoi lähdekoodia"
 
 #. type: Yaml Front Matter Hash Value: extra features title
 #: content/community/index.md
 #, no-wrap
 msgid "**Develop** Functionality"
-msgstr "**Kehitä** Ominaisuus"
+msgstr "**Kehitä** toiminnallisuutta"
 
 #. type: Yaml Front Matter Hash Value: extra features description
 #: content/community/index.md
@@ -181,25 +182,25 @@ msgstr "**Suunnittele** käyttöliittymä"
 #: content/community/index.md
 #, no-wrap
 msgid "Add translations to make it accessible for more people around the world"
-msgstr "Lisää käännöksiä, jotta se olisi saatavilla useammille käyttäjille ympäri maailman"
+msgstr "Lisää käännöksiä, jotta se olisi saatavilla entistä useammalle käyttäjälle ympäri maailman"
 
 #. type: Yaml Front Matter Hash Value: extra features title
 #: content/community/index.md
 #, no-wrap
 msgid "**Translate** Text"
-msgstr "**Käännä** Teksti"
+msgstr "**Käännä** tekstiä"
 
 #. type: Yaml Front Matter Hash Value: extra features description
 #: content/community/index.md
 #, no-wrap
 msgid "Add info about shops, points of interest, trails, and public transport to OpenStreetMap"
-msgstr "Lisää tietoja kaupoista, kiinnostavista kohteista, poluista ja julkisesta liikenteestä OpenStreetMap:iin"
+msgstr "Lisää tietoja kaupoista, kiinnostavista kohteista, poluista ja julkisesta liikenteestä OpenStreetMapiin"
 
 #. type: Yaml Front Matter Hash Value: extra features title
 #: content/community/index.md
 #, no-wrap
 msgid "**Add** Place Info"
-msgstr "**Lisää** Paikan tiedot"
+msgstr "**Lisää** paikan tiedot"
 
 #. type: Yaml Front Matter Hash Value: extra features description
 #: content/community/index.md
@@ -211,7 +212,7 @@ msgstr "Auta ihmisiä sovelluksen käytössä ja vastaa kysymyksiin"
 #: content/community/index.md
 #, no-wrap
 msgid "**Help** Support"
-msgstr "**Apua** Tuki"
+msgstr "**Auta** ja anna tukea muille"
 
 #. type: Hash Value: menu_community
 #: content/community/index.md translations.yaml
@@ -241,13 +242,13 @@ msgstr "Luotu rakkaudella intohimoisten vapaaehtoisten toimesta"
 #: content/donate/index.md
 #, no-wrap
 msgid "Donate via Liberapay"
-msgstr "Lahjoita Liberapay:n kautta"
+msgstr "Lahjoita Liberapayn kautta"
 
 #. type: Yaml Front Matter Hash Value: extra donate open_collective title
 #: content/donate/index.md
 #, no-wrap
 msgid "Donate via Open Collective"
-msgstr "Lahjoita Open Collective:n kautta"
+msgstr "Lahjoita Open Collectiven kautta"
 
 #. type: Yaml Front Matter Hash Value: extra funding items text
 #: content/donate/index.md
@@ -307,7 +308,7 @@ msgstr "Olemme muutama harrastaja, jotka käyttävät projektiin vapaa-aikaansa.
 #: content/donate/index.md
 #, no-wrap
 msgid "With your support, we are working toward privacy-focused map navigation that is the preferred choice on the market"
-msgstr "Teidän tuellanne, työskentelemme kehittääksemme yksityisyyteen panostavaan navigointiin markkinanoiden suuntautumisen mukaan"
+msgstr "Työskentelemme käyttäjien tuella kehittääksemme yksityisyyteen panostavaan karttanavigoinnin"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/support/_index.md
@@ -337,19 +338,19 @@ msgstr "Ilmainen ja avoin navigointi yksityisesti, yhteisön luoma"
 #: content/about-us/index.md
 #, no-wrap
 msgid "MapsWithMe navigation app created (later renamed to Maps.me)."
-msgstr "MapsWithMe navigointisovellus luotiin (myöhemmin nimettiin uudelleen nimellä Maps.me:ksi)."
+msgstr "MapsWithMe-navigointisovellus luotiin (myöhemmin nimeksi muutettiin Maps.me)."
 
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md
 #, no-wrap
 msgid "Maps.me opened the source code under Apache 2.0 license."
-msgstr "Maps.me avasi lähdekoodinsta Apache 2.0 -lisenssillä."
+msgstr "Maps.me avasi lähdekoodinsa Apache 2.0 -lisenssillä."
 
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md
 #, no-wrap
 msgid "The Organic Maps project & company were founded, based on the Maps.Me source code."
-msgstr "Organic Maps -projekti ja yritys haarautettiin Maps.Me:n lähdekoodista."
+msgstr "Organic Maps -projekti ja -yritys haarautettiin Maps.Me:n lähdekoodista."
 
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md
@@ -361,7 +362,7 @@ msgstr "Hallintoon liittyvät kysymykset ja yhteisön huolenaiheet, joihin yhti�
 #: content/about-us/index.md
 #, no-wrap
 msgid "The **CoMaps** community & non-profit project was founded by former Organic Maps contributors, based on the Organic Maps source code."
-msgstr "**CoMaps** yhteisön & voittoa tavoittelematon projektin perustivat Organic Maps vapaaehtoiset. Pohjana käytettiin Organic Mapsin lähdekoodia."
+msgstr "**CoMaps**-yhteisön ja voittoa tavoittelematon projektin perustivat entiset Organic Maps -vapaaehtoiset. Pohjana käytettiin Organic Mapsin lähdekoodia."
 
 #. type: Yaml Front Matter Hash Value: extra history title
 #: content/about-us/index.md
@@ -445,12 +446,12 @@ msgstr "Lataa CoMaps"
 #: content/api/index.md
 #, no-wrap
 msgid "API Page"
-msgstr "API Sivu"
+msgstr "API-sivu"
 
 #. type: Plain text
 #: content/api/index.md
 msgid "The API is documented on [comaps.at/api](https://comaps.at/api)."
-msgstr "API-dokumentaatio osoitteessa [comaps.at/api](https://comaps.at/api)."
+msgstr "API-dokumentaatio on osoitteessa [comaps.at/api](https://comaps.at/api)."
 
 #. type: Hash Value: all_title
 #: translations.yaml
@@ -516,7 +517,7 @@ msgstr "Osallistu"
 #: translations.yaml
 #, no-wrap
 msgid "English"
-msgstr "Englanti"
+msgstr "Suomi"
 
 #. type: Hash Value: menu_api
 #: translations.yaml
@@ -534,7 +535,7 @@ msgstr "Ohje"
 #: translations.yaml
 #, no-wrap
 msgid "Home"
-msgstr "Koti"
+msgstr "Etusivu"
 
 #. type: Hash Value: menu_news
 #: translations.yaml
@@ -579,4 +580,4 @@ msgid "Connect with Us"
 msgstr "Ota yhteyttä"
 
 #~ msgid "CoMaps is available on Google Play, F-Droid, and as an APK download now! We are still working on publishing on the iOS App Store as well, please stay tuned!"
-#~ msgstr "CoMaps on nyt saatavilla Google Play-kaupasta, F-Droidista ja APK latauksena! Työskentelemme edelleen iOS App Store -julkaisun kanssa. Ole kuulolla!"
+#~ msgstr "CoMaps on nyt saatavilla Google Play -kaupasta, F-Droidista ja APK-muotoisena latauksena! Työskentelemme edelleen iOS App Store -julkaisun kanssa. Ole kuulolla!"
