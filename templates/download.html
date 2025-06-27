@@ -15,19 +15,18 @@
             </div>
 
             <div class="section-device__content">
-                <!--
                 <div class="section-device__content-item">
                     <p class="p-15-bold section-device__content-title">{{ page.extra.mobile_payment_methods_1 | safe }}</p>
                     <div class="section-device__card">
                         {# <p class="p-15 section-device__text">{{ page.extra.mobile_shop_name_1 | safe }}</p> #}
                         {# <img class="section-device__img" src="/images/download/app-store.png" alt="img"> #}
-                        <a href="#" class="button--appdownload">
+                        <a href="https://apps.apple.com/us/app/comaps/id6747180809" class="button--appdownload">
                             {{ load_data(path="static/images/icons/download/app-store.svg") | safe }}
                             App Store
                         </a>
                     </div>
                 </div>
-                -->
+
                 <div class="section-device__content-item">
                     <p class="p-15-bold section-device__content-title">{{ page.extra.mobile_payment_methods_2 | safe }}</p>
                     <div class="section-device__card-holder">
@@ -93,12 +92,6 @@
     </div>
 </section>
 
-<section class="pure" style="padding-bottom: 60rem">
-    <div class="container">
-        {{ page.content | safe }}
-    </div>
-</section>
-
 <!--
 <section class="section-step">
     <div class="container section-step__container">
@@ -118,6 +111,6 @@
         </div>
     </div>
 </section>
-{% include 'section/donate.html' %}
 -->
+{% include 'section/donate.html' %}
 {%- endblock content %}

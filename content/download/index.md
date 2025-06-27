@@ -24,5 +24,3 @@ extra:
       - No data collection
       - Community-Driven
 ---
-
-CoMaps is available on Google Play, F-Droid, and as an APK download now! We are still working on publishing on the iOS App Store as well, please stay tuned!
