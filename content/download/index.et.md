@@ -24,7 +24,3 @@ template: download.html
 title: "Laadi CoMaps alla"
 weight: 10
 ---
-
-Rakendus on saadaval Google Play Store'is, F-Droidis ja
-APK-failina. Tegeleme avaldamisega ka iOS App Store'is. Üsna varsti on meil
-selles osas uudiseid!

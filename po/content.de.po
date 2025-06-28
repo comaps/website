@@ -441,11 +441,6 @@ msgstr "Schon heruntergeladen?"
 msgid "Download CoMaps"
 msgstr "CoMaps herunterladen"
 
-#. type: Plain text
-#: content/download/index.md
-msgid "CoMaps is available on Google Play, F-Droid, and as an APK download now! We are still working on publishing on the iOS App Store as well, please stay tuned!"
-msgstr "CoMaps ist jetzt auf Google Play, F-Droid und als APK-Download verfügbar! Wir arbeiten noch an der Veröffentlichung im iOS App Store, bitte dranbleiben!"
-
 #. type: Yaml Front Matter Hash Value: title
 #: content/api/index.md
 #, no-wrap
@@ -582,3 +577,6 @@ msgstr "Suche"
 #, no-wrap
 msgid "Connect with Us"
 msgstr "Bleib in Kontakt"
+
+#~ msgid "CoMaps is available on Google Play, F-Droid, and as an APK download now! We are still working on publishing on the iOS App Store as well, please stay tuned!"
+#~ msgstr "CoMaps ist jetzt auf Google Play, F-Droid und als APK-Download verfügbar! Wir arbeiten noch an der Veröffentlichung im iOS App Store, bitte dranbleiben!"

@@ -24,6 +24,3 @@ template: download.html
 title: "下载 CoMaps"
 weight: 10
 ---
-
-CoMaps 现在可在 Google Play 和 F-Droid 下载，并提供 APK 安装包！我们仍在努力推进 iOS App Store
-的上架工作，敬请期待！

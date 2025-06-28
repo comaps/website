@@ -24,7 +24,3 @@ template: download.html
 title: "Télécharger CoMaps"
 weight: 10
 ---
-
-CoMaps est disponible sur Google Play, F-Droid et en téléchargement APK
-maintenant ! Nous travaillons toujours à la publication sur l'iOS App Store,
-restez à l'écoute !

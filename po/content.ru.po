@@ -441,12 +441,6 @@ msgstr "Уже скачали?"
 msgid "Download CoMaps"
 msgstr "Скачать CoMaps"
 
-#. type: Plain text
-#: content/download/index.md
-#, markdown-text
-msgid "CoMaps is available on Google Play, F-Droid, and as an APK download now! We are still working on publishing on the iOS App Store as well, please stay tuned!"
-msgstr "CoMaps доступен в Google Play, F-Droid и в виде APK-файла для загрузки прямо сейчас! Мы все еще работаем над публикацией в iOS App Store, следите за обновлениями!"
-
 #. type: Yaml Front Matter Hash Value: title
 #: content/api/index.md
 #, no-wrap
@@ -455,7 +449,6 @@ msgstr "Страница API"
 
 #. type: Plain text
 #: content/api/index.md
-#, markdown-text
 msgid "The API is documented on [comaps.at/api](https://comaps.at/api)."
 msgstr "API документирован на [comaps.at/api](https://comaps.at/api)."
 
@@ -584,3 +577,6 @@ msgstr "Поиск"
 #, no-wrap
 msgid "Connect with Us"
 msgstr "Свяжитесь с нами"
+
+#~ msgid "CoMaps is available on Google Play, F-Droid, and as an APK download now! We are still working on publishing on the iOS App Store as well, please stay tuned!"
+#~ msgstr "CoMaps доступен в Google Play, F-Droid и в виде APK-файла для загрузки прямо сейчас! Мы все еще работаем над публикацией в iOS App Store, следите за обновлениями!"
