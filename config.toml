@@ -88,17 +88,17 @@ link = "https://sopuli.xyz/c/CoMaps"
 [[extra.social]]
 title = "Instagram"
 icon = "insta.svg"
-link = "https://www.instagram.com/comapscommunity/"
+link = "https://www.instagram.com/comaps.app/"
 
 [[extra.social]]
 title = "facebook"
 icon = "fb.svg"
-link = "https://www.facebook.com/CoMapsCommunity/"
+link = "https://www.facebook.com/CoMapsApp/"
 
 [[extra.social]]
 title = "linkedin"
 icon = "linkedin.svg"
-link = "https://www.linkedin.com/company/comaps-community/"
+link = "https://www.linkedin.com/company/comapsapp/"
 
 [[extra.social]]
 title = "reddit"
@@ -108,7 +108,7 @@ link = "https://www.reddit.com/r/CoMaps/"
 [[extra.social]]
 title = "threads"
 icon = "threads.svg"
-link = "https://www.threads.com/@comapscommunity"
+link = "https://www.threads.com/@comaps.app"
 
 [[extra.social]]
 title = "tiktok"
