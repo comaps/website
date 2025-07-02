@@ -8,4 +8,4 @@ extra:
   order: 20
 ---
 
-Yes, we do.
+As of 2025-07-01 this feature is not yet available, it is currently being reviewed for approval by Apple.
