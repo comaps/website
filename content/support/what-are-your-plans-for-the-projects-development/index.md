@@ -8,7 +8,6 @@ extra:
   order: 20
 ---
 
-The main plans are outlined on the donation page:  
-[https://www.comaps.app/donate](https://www.comaps.app/donate)  
-You can check the status for development of features on Codeberg:  
-[https://codeberg.org/comaps/comaps/issues](https://codeberg.org/comaps/comaps/issues)
+The plan is to enhance the app experience by improving the existing features and adding new features. The [App Priorities Board](https://codeberg.org/comaps/comaps/projects/16883) shows the areas that can create the most positive impact for the app.
+
+Delivering features includes engaging with more people in the community to collaborate on contribution. To add large new features, developers will need to be hired. Hiring will be powered by people [Donations](https://www.comaps.app/donate)   

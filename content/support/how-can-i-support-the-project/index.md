@@ -8,5 +8,17 @@ extra:
   order: 80
 ---
 
-You can find more information here: [https://www.comaps.app/community](https://www.comaps.app/community)   
-Donations, bug reports, pull requests, installing the app, leaving ratings on app stores, writing reviews or blog posts, and contributing to mapping in OSM are ways to support the project.
+You can support by contributing to the project [Community](https://www.comaps.app/community) and by donating [Donate](https://www.comaps.app/donate)
+
+A few example of support:
+
+- report bugs
+- submit pull requests
+- install and use the app
+- tell your friends
+- help translate to your language
+- leave ratings on app stores
+- write blog posts
+- help people use the app
+- contribute to mapping in OSM
+- donations

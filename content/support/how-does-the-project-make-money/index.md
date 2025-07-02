@@ -8,4 +8,5 @@ extra:
   order: 70
 ---
 
-CoMaps is free for everyone. The project is run on voluntary [donations](https://www.comaps.app/donate/) and these funds help to maintain the project. It is not enough yet to grow and scale, but with your help we can build the best OpenStreetMap-based maps together.
+CoMaps is powered by [donations](https://www.comaps.app/donate/). The funds are used to cover operational server costs, and hopefully in the future there will be enough to hire a few engineers to add larger necessary features.
+

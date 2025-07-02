@@ -8,6 +8,27 @@ extra:
   order: 40
 ---
 
-Unlike Maps.Me, CoMaps does not collect statistics or user data. It has more up-to-date maps and receives constant improvements in the core functionality, as we are devoted to constantly improving our geo/search/routing algorithms and mobile app performance. In the future, there will be more differences, with a focus on user convenience.
+### Unlike Organic Maps
+CoMaps is "owned" by a not-for-profit co-op, and fully volunteer-driven by the community. The project operates by these principles:
 
-Unlike Organic Maps, CoMaps is "owned" by a not-for-profit co-op, and fully volunteer-driven. We intend to structure the organization such that the app or its users can't be sold for profit or to a non-likeminded organization. We also intend to involve users and volunteers more fully in decisionmaking and governance.
+- Transparency
+- Community decision-making
+- Not-for-profit
+- Open source
+- Privacy-focused
+- Community Funding
+- Assets for Public Interest
+
+https://codeberg.org/comaps/Governance
+
+The structure is intended so the app and assets cannot be sold for profit. The community actively participate in decisionmaking and governance.
+
+
+### Unlike Maps.Me
+CoMaps is:
+- Completely free (Maps.me has a paid subscriptions)
+- Fully open source (MM is proprietary)
+- No collection of data
+- CoMaps is about simple ease of use
+
+CoMaps is transparent in the its code and decision-making, prioritizing requests of the community.
