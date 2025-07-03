@@ -5,7 +5,7 @@ extra:
     description: 'Ontdek je reis, navigeer de wereld met privacy en de community voorop.'
     title: 'Vrijheid is hier'
   map:
-    description: 'Community + Open Maps'
+    description: 'Community + Open kaarten'
     title:
   services:
     items:
@@ -47,5 +47,5 @@ extra:
         title: 'Vrij en gebouwd door de community'
 sort_by: weight
 template: home.html
-title: 'Wandel, fiets, rijd offline - navigeer met privacy'
+title: 'Wandel, fiets, rijd offline Navigeer met privacy'
 ---

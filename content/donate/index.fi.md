@@ -6,9 +6,9 @@ extra:
       description: "Lahjoita ja auta pitämään projekti käynnissä"
       title: "Luotu rakkaudella intohimoisten vapaaehtoisten toimesta"
     liberapay:
-      title: "Lahjoita Liberapay:n kautta"
+      title: "Lahjoita Liberapayn kautta"
     open_collective:
-      title: "Lahjoita Open Collective:n kautta"
+      title: "Lahjoita Open Collectiven kautta"
     title: Lahjoita
   funding:
     items:
@@ -29,7 +29,7 @@ extra:
     - icon: static/images/icons/donate/icon02.svg
       text: "Olemme muutama harrastaja, jotka käyttävät projektiin vapaa-aikaansa. Rakastamme sitä, mitä teemme ja rakastamme käyttäjiämme"
     - icon: static/images/icons/donate/icon03.svg
-      text: "Teidän tuellanne, työskentelemme kehittääksemme yksityisyyteen panostavaan navigointiin markkinanoiden suuntautumisen mukaan"
+      text: "Työskentelemme käyttäjien tuella kehittääksemme yksityisyyteen panostavaan karttanavigoinnin"
   service_text:
   service_title: "Created with love by enthusiast volunteers"
 template: new-donate.html

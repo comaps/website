@@ -7,16 +7,16 @@ extra:
     title: "Ilmainen ja avoin navigointi yksityisesti, yhteisön luoma"
   history:
     items:
-      - text: "MapsWithMe navigointisovellus luotiin (myöhemmin nimettiin uudelleen nimellä Maps.me:ksi)."
+      - text: "MapsWithMe-navigointisovellus luotiin (myöhemmin nimeksi muutettiin Maps.me)."
         year: 2011
-      - text: "Maps.me avasi lähdekoodinsta Apache 2.0 -lisenssillä."
+      - text: "Maps.me avasi lähdekoodinsa Apache 2.0 -lisenssillä."
         year: 2015
-      - text: "Organic Maps -projekti ja yritys haarautettiin Maps.Me:n lähdekoodista."
+      - text: "Organic Maps -projekti ja -yritys haarautettiin Maps.Me:n lähdekoodista."
         year: 2021
       - text: "Hallintoon liittyvät kysymykset ja yhteisön huolenaiheet, joihin yhtiön osakkeenomistajat eivät puuttuneet, pysäyttivät Organic Mapsin kehittämisen kuukausiksi."
         year: 2025
       - highlight: true
-        text: "**CoMaps** yhteisön & voittoa tavoittelematon projektin perustivat Organic Maps vapaaehtoiset. Pohjana käytettiin Organic Mapsin lähdekoodia."
+        text: "**CoMaps**-yhteisön ja voittoa tavoittelematon projektin perustivat entiset Organic Maps -vapaaehtoiset. Pohjana käytettiin Organic Mapsin lähdekoodia."
         year: 2025
     title: Historia
   vm:

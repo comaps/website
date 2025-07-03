@@ -1,34 +1,34 @@
 ---
-description: "CoMaps:n on luotu ja ylläpidetty kaltaistesi käyttäjien toimesta"
+description: "CoMaps on luotu ja ylläpidetty kaltaistesi käyttäjien toimesta"
 extra:
   donate:
     description: "Sovelluksen ylläpito ja kehitys mahdollistetaan lahjoituksilla, auta parantamaan sitä"
     title: Lahjoita
   features:
-    - description: "Raportoi virheitä, keskustele ideoista ja ehdota ominaisuuksia"
+    - description: "Raportoi virheistä, keskustele ideoista ja ehdota ominaisuuksia"
       icon: chats.svg
       link: https://codeberg.org/comaps/comaps/issues
-      title: "**Raportoi** Virheitä"
-    - description: "Kehitä uusia ominaisuuksia, korjaa ohjelmistobugeja ja tutki lähdekoodia"
+      title: "**Raportoi** virheistä"
+    - description: "Kehitä uusia ominaisuuksia, korjaa ohjelmistovirheitä ja katselmoi lähdekoodia"
       icon: CodeBlock.svg
       link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md
-      title: "**Kehitä** Ominaisuus"
+      title: "**Kehitä** toiminnallisuutta"
     - description: "Vaikuta tuotekokemukseen"
       icon: BezierCurve.svg
       link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md
       title: "**Suunnittele** käyttöliittymä"
-    - description: "Lisää käännöksiä, jotta se olisi saatavilla useammille käyttäjille ympäri maailman"
+    - description: "Lisää käännöksiä, jotta se olisi saatavilla entistä useammalle käyttäjälle ympäri maailman"
       icon: Translate.svg
       link: https://codeberg.org/comaps/comaps/src/branch/main/docs/TRANSLATIONS.md
-      title: "**Käännä** Teksti"
-    - description: "Lisää tietoja kaupoista, kiinnostavista kohteista, poluista ja julkisesta liikenteestä OpenStreetMap:iin"
+      title: "**Käännä** tekstiä"
+    - description: "Lisää tietoja kaupoista, kiinnostavista kohteista, poluista ja julkisesta liikenteestä OpenStreetMapiin"
       icon: MapPinLine.svg
       link: /support/editing-with-CoMaps
-      title: "**Lisää** Paikan tiedot"
+      title: "**Lisää** paikan tiedot"
     - description: "Auta ihmisiä sovelluksen käytössä ja vastaa kysymyksiin"
       icon: Headset.svg
       link: "#"
-      title: "**Apua** Tuki"
+      title: "**Auta** ja anna tukea muille"
   preview_image: donate/donate.png
   stay_connected_section_title: "connect with us"
 template: community.html

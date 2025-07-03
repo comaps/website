@@ -5,7 +5,7 @@ extra:
     description: 'Tutustu matkaasi ja navigoi maailmalla yksityisyys ja yhteisöllisyys etusijalla.'
     title: 'Vapaus on täällä'
   map:
-    description: 'Community + Open Maps'
+    description: 'Yhteisö + Avoimet kartat'
     title:
   services:
     items:
@@ -19,7 +19,7 @@ extra:
           user: /images/sections/map-m-1.webp
         title: 'Offline-haku ja reititys'
       - 
-        description: 'Sovellus on suunniteltu yksityisyys silmälläpitäen - Se ei tunnista ihmisiä, ei seuraa sinua, eikä kerää mitään tietoja.'
+        description: 'Sovellus on suunniteltu yksityisyys huomioiden - Se ei tunnista ihmisiä, ei seuraa sinua, eikä kerää mitään tietoja.'
         highlight:
           icon: static/images/icons/home/shield.svg
           text: 'Yksityisyyttä oletuksena'
@@ -37,7 +37,7 @@ extra:
           user: /images/sections/map-m-3.webp
         title: 'Säästä akkuasi'
       - 
-        description: 'Käyttäjät, kuten sinä, ovat auttaneet sovelluksen kehityksen kanssa lisäämällä sijainteja <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-open-street-map"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, antamalla palautetta ja osallistumalla sovelluskehitykseen Codeberg-alustan avoimen lähdekoodin yhteisössä.'
+        description: 'Käyttäjät, kuten sinä, ovat auttaneet sovelluksen kehityksen kanssa lisäämällä sijainteja <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-open-street-map"></use></svg> [OpenStreetMapiin](https://openstreetmap.org)</span>, antamalla palautetta ja osallistumalla sovelluskehitykseen Codeberg-alustan avoimen lähdekoodin yhteisössä.'
         highlight:
           icon: static/images/icons/home/heart.svg
           text: 'Ilmainen kaikille, tehty rakkaudella'
