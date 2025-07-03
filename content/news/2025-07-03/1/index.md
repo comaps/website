@@ -31,10 +31,10 @@ CoMaps is a community-driven open-source navigation app
 
 ### Install CoMaps Today
 
-**Google Play Store**: https://play.google.com/store/apps/details?id=app.comaps.google
+**Google Play Store**: [https://play.google.com/store/apps/details?id=app.comaps.google](https://play.google.com/store/apps/details?id=app.comaps.google)
 
-**Apple App Store**: https://apps.apple.com/app/comaps/id6747180809
+**Apple App Store**: [https://apps.apple.com/app/comaps/id6747180809](https://apps.apple.com/app/comaps/id6747180809)
 
-**F-Droid**: https://f-droid.org/packages/app.comaps.fdroid/
+**F-Droid**: [https://f-droid.org/packages/app.comaps.fdroid/](https://f-droid.org/packages/app.comaps.fdroid/)
 
 Discover more of your journey - Powered by the community
