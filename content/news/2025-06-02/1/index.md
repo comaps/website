@@ -17,4 +17,4 @@ At this stage, the app is not yet listed on the Google Play Store or F-Droid. In
 The CoMaps team has announced plans to expand availability. They aim to make the app accessible through F-Droid soon, and are also working on preparing releases for both the Google Play Store and the Apple App Store."
 
 
-2 June 2025 | [Organic Maps fork CoMaps launches first preview release, but limited to Android users](https://alternativeto.net/news/2025/6/orgnanic-maps-fork-comaps-launches-first-preview-release-but-limited-to-android-users/s)
+2 June 2025 | [Organic Maps fork CoMaps launches first preview release, but limited to Android users](https://alternativeto.net/news/2025/6/orgnanic-maps-fork-comaps-launches-first-preview-release-but-limited-to-android-users/)
