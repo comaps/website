@@ -13,4 +13,4 @@ These are the different gestures that CoMaps supports:
 * Use double tap to zoom in.  
 * You can rotate, pan and zoom the map with two fingers gestures.  
 * On iOS and iPadOS, you can tap and hold on zoom buttons and then drag up or down to zoom the map.  
-* You can [use long tap](@/support/how-do-i-use-long-tap/index.md) on any place on the map for additional features.
+* You can [use long tap](@/support/why-did-my-ui-disappear/index.md) to hide/reveal the UI.
