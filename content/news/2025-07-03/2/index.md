@@ -1,7 +1,7 @@
 ---
 title: "AlternativeTo: Organic Maps fork CoMaps launches on major app stores for iOS and Android"
 description: 
-date: 2025-07-03T04:30:00+01:00
+date: 2025-07-03T16:30:00-07:00
 slug: "AlternativeTo-Organic-Maps-fork-CoMaps-launches-on-major-app-stores-for-iOS-and-Android"
 taxonomies:
     category: ["Media Coverage"]
