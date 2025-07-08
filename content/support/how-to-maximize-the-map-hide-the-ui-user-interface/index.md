@@ -8,4 +8,4 @@ extra:
   order: 70
 ---
 
-Perform a single tap on an empty space to hide the app interface and get the fullscreen map. Tap on any place on the map again to get the UI back.
+Perform a long tap on the map to hide the app interface and get the fullscreen map. Perform another long tap on the map again to get the UI back.

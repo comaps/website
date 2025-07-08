@@ -8,4 +8,4 @@ extra:
   order: 40
 ---
 
-You can “long tap” on the line or area to get more detailed information about it. See “Long Tap” section to discover other features of the “long tap” functionality.
+You can “tap” on the line or area to get more detailed information about it.

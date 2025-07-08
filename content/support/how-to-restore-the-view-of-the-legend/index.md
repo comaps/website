@@ -8,4 +8,4 @@ extra:
   order: 80
 ---
 
-Long tap or single tap in any place on the screen.
+Long tap on any place on the map.

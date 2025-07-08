@@ -8,4 +8,4 @@ extra:
   order: 90
 ---
 
-Tapping in an empty area hides the interface (for fullscreen lovers). Tapping again on any place will restore the interface display.
+A long tap on the map hides the interface (for fullscreen lovers). Long-tapping again on the map will restore the interface display.

@@ -8,4 +8,4 @@ extra:
   order: 50
 ---
 
-You can “long tap” on the empty space to add a bookmark. See “Long Tap” section to discover other features of the “long tap” functionality.
+You can “tap” on the empty space to add a bookmark.
