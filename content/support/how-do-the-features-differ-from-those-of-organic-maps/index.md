@@ -14,12 +14,14 @@ The primary differences are how the projects are run - CoMaps is about transpare
 
 So far the improvements in the app include:
 
-•	⁠Custom button on home page
-•	⁠Automatic backups for favorites (bookmarks, tracks)
-•	⁠More dense/detailed altitude isolines (100m)
-•	⁠Removed connection to the “metaserver” and replaced with a static list
-•	⁠Improved map colors
-•	⁠And many small updates
+- Improved map colors
+- Android: automatic backups for favorites (bookmarks, tracks)
+- Android: customizable button on home screen
+- More dense/detailed altitude contour lines for some regions
+- Removed semi-transparent background from Subway layer
+- Improved visibility of some map objects
+- And many smaller updates
+
 
 The full list of updates are here:
 https://codeberg.org/comaps/comaps/releases
