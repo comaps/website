@@ -10,7 +10,7 @@ taxonomies:
 Medium —
  
  
-"Mobile navigation apps often depends on constant connectivity and user tracking, CoMaps offers a refreshing alternative. This newly launched open-source app delivers fully offline navigation and search, powered by rich OpenStreetMap (OSM) data. CoMaps lets you explore your way — whether you’re traveling on vacation, navigating a city or on distant hike — no internet connection is needed.
+"Mobile navigation apps often depend on constant connectivity and user tracking, CoMaps offers a refreshing alternative. This newly launched open-source app delivers fully offline navigation and search, powered by rich OpenStreetMap (OSM) data. CoMaps lets you explore your way — whether you’re traveling on vacation, navigating a city or on distant hike — no internet connection is needed.
 
 Born Through Change, Driven by a Mission
 
