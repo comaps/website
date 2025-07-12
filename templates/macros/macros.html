@@ -158,7 +158,8 @@
             "title": "{{ faq_page.title | escape(json=true) }}",
             "description": "{{ faq_page.description | escape(json=true) }}",
             "category": "{% for i in faq_page.taxonomies.support %}{{ i }}{% endfor %}",
-            "content": `{{ faq_page.content | striptags | truncate | escape(json=true) }}`,
+            "content": `{{ faq_page.content | striptags | escape(json=true) }}`,
+            "content_short": `{{ faq_page.content | striptags | truncate | escape(json=true) }}`,
             "tags": [
                 {%- for i in faq_page.extra.tags -%}
                 "{{ i }}"{% if not loop.last %},{% endif %}
@@ -253,7 +254,7 @@
                     let lowContent = DecodlowContent.toLowerCase()
                     let newInput = inpSear.value.toLowerCase()
                     if (lowTitle.includes(newInput) || lowContent.includes(newInput)) {
-                        out.append(cleateLi123(item.title, item.url, item.category, item.content, item.tags)) 
+                        out.append(cleateLi123(item.title, item.url, item.category, item.content_short, item.tags)) 
                     }
                 })
         }, 800) : location.reload()
