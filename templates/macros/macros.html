@@ -158,7 +158,7 @@
             "title": "{{ faq_page.title | escape(json=true) }}",
             "description": "{{ faq_page.description | escape(json=true) }}",
             "category": "{% for i in faq_page.taxonomies.support %}{{ i }}{% endfor %}",
-            "content": `{{ faq_page.content | striptags | escape(json=true) }}`,
+            "content": `{{ faq_page.content | striptags | truncate | escape(json=true) }}`,
             "tags": [
                 {%- for i in faq_page.extra.tags -%}
                 "{{ i }}"{% if not loop.last %},{% endif %}
