@@ -8,11 +8,6 @@ extra:
   order: 30
 ---
 
-1. **Create Codeberg account**: this is necessary for every contributor as most work happens on Codeberg - https://codeberg.org/comaps/
-2. **Contribute on Codeberg**: write requirements, create design, submit a pull request, or other type of contribution.
-3. **Collaborate with team**: if you are interested in further working with the team, see the [invite to Zulip chat](https://codeberg.org/comaps/Governance/src/branch/main/contribute.md).
-
-
 ## Contributors — Getting Started
 
 ### 1) Codeberg account
@@ -29,11 +24,11 @@ You can contribute in a number of areas:
 
 - Design - [UI, marketing content](https://design.penpot.app/#/dashboard/recent?team-id=95aea877-d515-80ac-8006-1e7c1aefd7c9)
 
-- Product - [Priorities](https://codeberg.org/comaps/comaps/projects/16883)
+- Product - [Priorities](https://codeberg.org/comaps/comaps/projects/16883), [Requirements](https://codeberg.org/comaps/comaps/issues)
 
 - Marketing - [Social media platforms](https://codeberg.org/comaps/Governance/wiki/Social-Media-Platforms), [Marketing designs](https://design.penpot.app/#/dashboard/recent?team-id=95aea877-d515-80ac-8006-1e7c1aefd7c9)
 
-- Tech Support - [Google Play reviews](https://play.google.com/store/apps/details?id=app.comaps.google), [App Store reviews](https://apps.apple.com/us/app/comaps/id6747180809)
+- Tech Support - [Process](https://codeberg.org/comaps/Governance/wiki/Support-Process), [Google Play reviews](https://play.google.com/store/apps/details?id=app.comaps.google), [App Store reviews](https://apps.apple.com/us/app/comaps/id6747180809)
 
 - Translation - [Weblate](https://translate.codeberg.org/projects/comaps/)
 
@@ -41,8 +36,11 @@ You can contribute in a number of areas:
 
 - Governance - [CoMaps tasks](https://codeberg.org/comaps/-/projects/15269)
 
+### 3) Tools
 
-### 3) Team Messaging
+CoMaps uses primarily open-source and/or privacy focused [Tools & Technologies](https://codeberg.org/comaps/Governance/wiki/Tools-%26-Technologies)
+
+### 4) Team Messaging
 
 If you have contributed and interested in contributing more through collaboration with the project team, you are welcome to join Zulip. While Telegram, Matrix or Mastodon are for broader discussion, Zulip is for contributors who regularly collaborate on work with the team.
 
