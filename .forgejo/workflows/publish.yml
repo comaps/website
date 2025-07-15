@@ -65,4 +65,4 @@ jobs:
           remote-password: "${{secrets.SFTP_PASS}}"
           local-path: "./public"
           remote-path: "${{vars.SFTP_PATH}}"
-          sync: "full" # full for initial, delta with fetch-depth: 0 during checkout for future
+          sync: "delta" # full for initial, delta with fetch-depth: 0 during checkout for future
