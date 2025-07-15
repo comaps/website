@@ -30,7 +30,7 @@ You can contribute in a number of areas:
 
 - Tech Support - [Process](https://codeberg.org/comaps/Governance/wiki/Support-Process), [Google Play reviews](https://play.google.com/store/apps/details?id=app.comaps.google), [App Store reviews](https://apps.apple.com/us/app/comaps/id6747180809)
 
-- Translation - [Weblate](https://translate.codeberg.org/projects/comaps/)
+- Translation - [Process](https://codeberg.org/comaps/comaps/src/branch/main/docs/TRANSLATIONS.md)
 
 - Testing - 
 
