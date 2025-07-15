@@ -58,16 +58,15 @@
             {% break %}
         {% endif %}
     {% endfor %}
-    {% if page.assets %}
-        <a class="post-min__img" href="{{ page.path | safe }}">
-        {% for photo in page.assets | sort %}
-            <img class="post-min__img post-min__img--one" src="{{ page.path | safe }}{{ photo | split(pat='/') | last }}"/>
-        {% endfor %}
-    {% else %}
-        <img class="post-min__img post-min__img--one" src="/images/post/img2.png"/>
-        </a>
-    {% endif %}
-
+    <a class="post-min__img" href="{{ page.path | safe }}">
+        {% if page.assets %}
+            {% for photo in page.assets | sort %}
+                <img class="post-min__img post-min__img--one" src="{{ page.path | safe }}{{ photo | split(pat='/') | last }}"/>
+            {% endfor %}
+        {% else %}
+            <img class="post-min__img post-min__img--one" src="/images/post/img2.png"/>
+        {% endif %}
+    </a>
     {% if page.title %}
         <a class="post-min__title-holder" href="{{ page.path | safe }}">
             <h2 class="h2-sub_v2 post-min__title">
