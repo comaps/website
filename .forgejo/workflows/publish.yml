@@ -66,3 +66,4 @@ jobs:
           local-path: "./public"
           remote-path: "${{vars.SFTP_PATH}}"
           sync: "delta" # full for initial, delta with fetch-depth: 0 during checkout for future
+          debug: "true"
