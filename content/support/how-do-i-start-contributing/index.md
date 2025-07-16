@@ -26,13 +26,13 @@ You can contribute in a number of areas:
 
 - Product - [Priorities](https://codeberg.org/comaps/comaps/projects/16883), [Requirements](https://codeberg.org/comaps/comaps/issues)
 
-- Marketing - [Social media platforms](https://codeberg.org/comaps/Governance/wiki/Social-Media-Platforms), [Social media](https://design.penpot.app/#/view?file-id=4ad2a2f5-64b0-80be-8006-482533a33ee1&page-id=4ad2a2f5-64b0-80be-8006-482533a33ee2&section=interactions&index=0&share-id=89fad332-cf98-81af-8006-7f21803e56d9)
+- Marketing - [Social media platforms](https://codeberg.org/comaps/Governance/wiki/Social-Media-Platforms), [Designs for post](https://design.penpot.app/#/view?file-id=4ad2a2f5-64b0-80be-8006-482533a33ee1&page-id=4ad2a2f5-64b0-80be-8006-482533a33ee2&section=interactions&index=0&share-id=89fad332-cf98-81af-8006-7f21803e56d9)
 
 - Tech Support - [Process](https://codeberg.org/comaps/Governance/wiki/Support-Process), [Google Play reviews](https://play.google.com/store/apps/details?id=app.comaps.google), [App Store reviews](https://apps.apple.com/us/app/comaps/id6747180809)
 
-- Translation - [Process](https://codeberg.org/comaps/comaps/src/branch/main/docs/TRANSLATIONS.md)
+- Translation - [Components](https://codeberg.org/comaps/comaps/src/branch/main/docs/TRANSLATIONS.md)
 
-- Testing - [Process](https://codeberg.org/comaps/Governance/wiki/Testing-New-Releases)
+- Testing - [Getting Started](https://codeberg.org/comaps/Governance/wiki/Testing-New-Releases)
 
 - Governance - [CoMaps tasks](https://codeberg.org/comaps/-/projects/15269)
 
