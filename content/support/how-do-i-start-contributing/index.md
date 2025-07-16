@@ -32,7 +32,7 @@ You can contribute in a number of areas:
 
 - Translation - [Process](https://codeberg.org/comaps/comaps/src/branch/main/docs/TRANSLATIONS.md)
 
-- Testing - 
+- Testing - [Process](https://codeberg.org/comaps/Governance/wiki/Testing-New-Releases)
 
 - Governance - [CoMaps tasks](https://codeberg.org/comaps/-/projects/15269)
 
