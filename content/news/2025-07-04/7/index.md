@@ -21,4 +21,4 @@ Distribuída em open source e garantindo a privacidade dos seus utilizadores, a 
 
 [Continue reading...](https://pplware.sapo.pt/smartphones-tablets/comaps-a-alternativa-open-source-e-privada-ao-google-maps-ja-chegou/)
 
-4 July 2025 | [Look Google, We Have This New Private, Offline Alternative Now](https://pplware.sapo.pt/smartphones-tablets/comaps-a-alternativa-open-source-e-privada-ao-google-maps-ja-chegou/)
+4 July 2025 | [CoMaps: a alternativa open source e privada ao Google Maps já chego](https://pplware.sapo.pt/smartphones-tablets/comaps-a-alternativa-open-source-e-privada-ao-google-maps-ja-chegou/)
