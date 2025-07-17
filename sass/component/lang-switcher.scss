@@ -13,6 +13,7 @@
         align-items: center;
         cursor: pointer;
         gap: 5rem;
+        color: var(--common-white);
     }
     &__link {
         padding: 6rem 10rem;
@@ -31,7 +32,7 @@
         display: none;
         position: absolute;
         background-color: var(--white-black);
-        bottom: calc(100% + 6rem);
+        top: calc(var(--header-height) - 10rem);
         right: 0;
         z-index: 100;
         color: var(--black-white);
