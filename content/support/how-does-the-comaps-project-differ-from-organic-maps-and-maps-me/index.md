@@ -19,7 +19,7 @@ CoMaps is "owned" by a not-for-profit co-op, and fully volunteer-driven by the c
 - Community Funding
 - Assets for Public Interest
 
-https://codeberg.org/comaps/Governance
+You can [learn more about our governance approaches on Codeberg](https://codeberg.org/comaps/Governance).
 
 The structure is intended so the app and assets cannot be sold for profit. The community actively participate in decisionmaking and governance.
 
