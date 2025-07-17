@@ -110,21 +110,21 @@ title = "threads"
 icon = "threads.svg"
 link = "https://www.threads.com/@comaps.app"
 
-[[extra.social]]
-title = "tiktok"
-icon = "tiktok.svg"
-link = "https://www.tiktok.com/@comapscommunity"
+# [[extra.social]]
+# title = "tiktok"
+# icon = "tiktok.svg"
+# link = "https://www.tiktok.com/@comapscommunity"
 
 # [[extra.social]]
 # title = "youtube"
 # icon = "youtube.svg"
 # link = ""
 
-# [[extra.social]]
-# title = "x"
-# icon = "x.svg"
-# link = ""
-# class= "icon-x"
+ [[extra.social]]
+ title = "x"
+ icon = "x.svg"
+ link = "https://x.com/comapsapp"
+ class= "icon-x"
 
 # [[extra.social]]
 # title = "github"
@@ -133,11 +133,19 @@ link = "https://www.tiktok.com/@comapscommunity"
 # class= "icon-github"
 
 [[extra.social]]
+title = "pixelfed"
+icon = "pixelfed.svg"
+link = "https://pixelfed.social/CoMaps"
+
+[[extra.social]]
+title = "opencollective"
+icon = "opencollective.svg"
+link = "https://opencollective.com/comaps"
+
+[[extra.social]]
 title = "email"
 icon = "email.svg"
 link = "mailto:hello@comaps.app"
-
-
 
 
 # Default English translation
