@@ -6,6 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
+"PO-Revision-Date: 2025-07-18 18:16+0000\n"
 "Last-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>\n"
 "Language-Team: Japanese <https://translate.codeberg.org/projects/comaps/website/ja/>\n"
 "Language: ja\n"
@@ -13,7 +14,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.11.4\n"
+"X-Generator: Weblate 5.12.2\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -31,7 +32,7 @@ msgstr ""
 #: content/_index.md
 #, no-wrap
 msgid "Freedom Is Here"
-msgstr ""
+msgstr "自由は、ここにある"
 
 #. type: Yaml Front Matter Hash Value: extra map description
 #: content/_index.md
@@ -139,7 +140,7 @@ msgstr ""
 #: content/community/index.md content/donate/index.md translations.yaml
 #, no-wrap
 msgid "Donate"
-msgstr ""
+msgstr "寄付する"
 
 #. type: Yaml Front Matter Hash Value: extra features description
 #: content/community/index.md
@@ -217,7 +218,7 @@ msgstr ""
 #: content/community/index.md translations.yaml
 #, no-wrap
 msgid "Community"
-msgstr ""
+msgstr "コミュニティ"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/donate/index.md
@@ -271,7 +272,7 @@ msgstr ""
 #: content/donate/index.md
 #, no-wrap
 msgid "Infrastructure"
-msgstr ""
+msgstr "基盤設備"
 
 #. type: Yaml Front Matter Hash Value: extra funding items text
 #: content/donate/index.md
@@ -283,7 +284,7 @@ msgstr ""
 #: content/donate/index.md content/support/_index.md
 #, no-wrap
 msgid "Support"
-msgstr ""
+msgstr "サポート"
 
 #. type: Yaml Front Matter Hash Value: extra funding title
 #: content/donate/index.md
@@ -367,7 +368,7 @@ msgstr ""
 #: content/about-us/index.md
 #, no-wrap
 msgid "History"
-msgstr ""
+msgstr "沿革・歴史"
 
 #. type: Yaml Front Matter Hash Value: extra vm items text
 #: content/about-us/index.md
@@ -463,25 +464,25 @@ msgstr ""
 #: translations.yaml
 #, no-wrap
 msgid "All"
-msgstr ""
+msgstr "全て"
 
 #. type: Hash Value: button-download
 #: translations.yaml
 #, no-wrap
 msgid "Download"
-msgstr ""
+msgstr "ダウンロード"
 
 #. type: Hash Value: const_lang
 #: translations.yaml
 #, no-wrap
 msgid "Language"
-msgstr ""
+msgstr "使用する言語"
 
 #. type: Hash Value: faq_content
 #: translations.yaml
 #, no-wrap
 msgid "CoMaps - F.A.Q."
-msgstr ""
+msgstr "CoMaps - よくあるご質問"
 
 #. type: Hash Value: how_can_help
 #: translations.yaml

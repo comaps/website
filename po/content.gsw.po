@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
 "PO-Revision-Date: 2025-07-10 03:35+0000\n"
 "Last-Translator: oster5 <oster5@noreply.codeberg.org>\n"
-"Language-Team: Marathi <https://translate.codeberg.org/projects/comaps/website/mr/>\n"
-"Language: mr\n"
+"Language-Team: Alemannic <https://translate.codeberg.org/projects/comaps/website/gsw/>\n"
+"Language: gsw\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -20,568 +20,562 @@ msgstr ""
 #: content/_index.md
 #, no-wrap
 msgid "Discover more of your journey -<br/>Powered by the community"
-msgstr ""
+msgstr "Entdeck meh vo dinere Reis -<br/>Entwicklet vo de Community"
 
 #. type: Yaml Front Matter Hash Value: extra freedom description
 #: content/_index.md
 #, no-wrap
 msgid "Discover your journey, navigate the world with privacy and community at the forefront."
-msgstr ""
+msgstr "Entdeck dini Reis, navigier dur d Welt mit Fokus uf Dateschutz und Community."
 
 #. type: Yaml Front Matter Hash Value: extra freedom title
 #: content/_index.md
 #, no-wrap
 msgid "Freedom Is Here"
-msgstr ""
+msgstr "Entdeck d Freiheit"
 
 #. type: Yaml Front Matter Hash Value: extra map description
 #: content/_index.md
 #, no-wrap
 msgid "Community + Open Maps"
-msgstr ""
+msgstr "Community + Offeni Charte"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
 #, no-wrap
 msgid "Plan and navigate your trip abroad without the need for mobile data, and search waypoints while on a distant hike."
-msgstr ""
+msgstr "Plan dini Reis und navigier im Usland ohni mobili Date und find Wegpünkt uf ere abglegne Wanderig."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
 #, no-wrap
 msgid "No internet needed"
-msgstr ""
+msgstr "Funktioniert ohni Internetverbindig"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
 #, no-wrap
 msgid "Offline Search and Route"
-msgstr ""
+msgstr "Offline-Suechi und Routeplanig"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
 #, no-wrap
 msgid "The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information."
-msgstr ""
+msgstr "D App isch mit Blick uf Dateschutz konzipiert – sie identifiziert kei Persone, verfolgt dich nöd und sammlet kei Date."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
 #, no-wrap
 msgid "Privacy by default"
-msgstr ""
+msgstr "Schützt dini Privatsphäre"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
 #, no-wrap
 msgid "No Data Collection"
-msgstr ""
+msgstr "Kei Dateerhebig"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
 #, no-wrap
 msgid "Efficiently uses the battery, doesn’t drain your battery like other navigation apps."
-msgstr ""
+msgstr "Effizienti Akkunutzig – verbruucht weniger Akku als anderi Navigationsapps."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
 #, no-wrap
 msgid "Efficient battery use"
-msgstr ""
+msgstr "Effizienti Akkunutzig"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
 #, no-wrap
 msgid "Save Your Battery"
-msgstr ""
+msgstr "Schon din Akku"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
 #, no-wrap
 msgid "People like you helped build the app by adding locations to <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on Codeberg in the open-source community."
-msgstr ""
+msgstr "Mensche wie du hend ghulfe, die App z entwickle, indem sie Ort zu <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg>[OpenStreetMap](https://openstreetmap.org)</span> hinzuegfüegt, Feedback zur Funktionalität geh und Code uf <span class=\"text-icon\"><svg viewBox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> i de Open-Source-Community biitreit hend."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
 #, no-wrap
 msgid "Free for everyone, Made with love"
-msgstr ""
+msgstr "Gratis für alli, mit Liebi gmacht"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
 #, no-wrap
 msgid "Free and Built by the Community"
-msgstr ""
+msgstr "Gratis und vo de Community entwicklet"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/_index.md
 #, no-wrap
 msgid "Hike, Bike, Drive Offline Navigate with Privacy"
-msgstr ""
+msgstr "Wandere, Velofahre, Autofahre – Offline navigiere mit Dateschutz"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/news/_index.md
 #, no-wrap
 msgid "News and Releases"
-msgstr ""
+msgstr "Neuigkeite und Releases"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/community/index.md
 #, no-wrap
 msgid "CoMaps is created and maintained by people like you"
-msgstr ""
+msgstr "CoMaps wird vo Lüüt wie du entwicklet"
 
 #. type: Hash Value: donate-description
 #: content/community/index.md translations.yaml
 #, no-wrap
 msgid "The app runs on your donations, help improve it"
-msgstr ""
+msgstr "D App lebt vo dine Spende – hilf mit, sie z verbessere"
 
 #. type: Hash Value: menu_donate
 #: content/community/index.md content/donate/index.md translations.yaml
 #, no-wrap
 msgid "Donate"
-msgstr ""
+msgstr "Spende"
 
 #. type: Yaml Front Matter Hash Value: extra features description
 #: content/community/index.md
 #, no-wrap
 msgid "Report bugs, discuss idea, and propose features"
-msgstr ""
+msgstr "Bugs melde, Idee diskutiere, Features vorschlaa"
 
 #. type: Yaml Front Matter Hash Value: extra features title
 #: content/community/index.md
 #, no-wrap
 msgid "**Report** Bugs"
-msgstr ""
+msgstr "**Meld** Bugs"
 
 #. type: Yaml Front Matter Hash Value: extra features description
 #: content/community/index.md
 #, no-wrap
 msgid "Develop new features, help fix bugs, and review code"
-msgstr ""
+msgstr "Entwickle neui Features, fix Bugs und hilf bi Code Reviews"
 
 #. type: Yaml Front Matter Hash Value: extra features title
 #: content/community/index.md
 #, no-wrap
 msgid "**Develop** Functionality"
-msgstr ""
+msgstr "**Entwickle** Funktionalität"
 
 #. type: Yaml Front Matter Hash Value: extra features description
 #: content/community/index.md
 #, no-wrap
 msgid "Shape the direction of the product experience"
-msgstr ""
+msgstr "Beiifluss d Richtung, wo das Produkt anegaht"
 
 #. type: Yaml Front Matter Hash Value: extra features title
 #: content/community/index.md
 #, no-wrap
 msgid "**Design** Interface"
-msgstr ""
+msgstr "**Design** d Oberflächi"
 
 #. type: Yaml Front Matter Hash Value: extra features description
 #: content/community/index.md
 #, no-wrap
 msgid "Add translations to make it accessible for more people around the world"
-msgstr ""
+msgstr "Träg Übersetzige bii, zum d App Mensche weltwiit zuegänglich z mache"
 
 #. type: Yaml Front Matter Hash Value: extra features title
 #: content/community/index.md
 #, no-wrap
 msgid "**Translate** Text"
-msgstr ""
+msgstr "**Übersetz** Text"
 
 #. type: Yaml Front Matter Hash Value: extra features description
 #: content/community/index.md
 #, no-wrap
 msgid "Add info about shops, points of interest, trails, and public transport to OpenStreetMap"
-msgstr ""
+msgstr "Füeg Informatione über Läde, Points of Interest, Wanderweg und Öffentliche Verchehr zu OpenStreetMap hinzue"
 
 #. type: Yaml Front Matter Hash Value: extra features title
 #: content/community/index.md
 #, no-wrap
 msgid "**Add** Place Info"
-msgstr ""
+msgstr "Ortsinformatione **hinzuefüege**"
 
 #. type: Yaml Front Matter Hash Value: extra features description
 #: content/community/index.md
 #, no-wrap
 msgid "Help people use the app, and answer questions"
-msgstr ""
+msgstr "Hilf Mensche, d App z nutze, und beantwort ihri Frage"
 
 #. type: Yaml Front Matter Hash Value: extra features title
 #: content/community/index.md
 #, no-wrap
 msgid "**Help** Support"
-msgstr ""
+msgstr "**Hilf** bim Support"
 
 #. type: Hash Value: menu_community
 #: content/community/index.md translations.yaml
 #, no-wrap
 msgid "Community"
-msgstr ""
+msgstr "Community"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/donate/index.md
 #, no-wrap
 msgid "Donate and create better maps together!"
-msgstr ""
+msgstr "Spend und hilf mit, besseri Charte z entwickle!"
 
 #. type: Yaml Front Matter Hash Value: extra donate info description
 #: content/donate/index.md
 #, no-wrap
 msgid "Donate to keep the project running"
-msgstr ""
+msgstr "Spend, zum s Projekt am Laufe z halte"
 
 #. type: Yaml Front Matter Hash Value: extra donate info title
 #: content/donate/index.md
 #, no-wrap
 msgid "Created with love by enthusiast volunteers"
-msgstr ""
+msgstr "Baut mit Liebi vo enthusiastische Freiwillige"
 
 #. type: Yaml Front Matter Hash Value: extra donate liberapay title
 #: content/donate/index.md
 #, no-wrap
 msgid "Donate via Liberapay"
-msgstr ""
+msgstr "Spend über Liberapay"
 
 #. type: Yaml Front Matter Hash Value: extra donate open_collective title
 #: content/donate/index.md
 #, no-wrap
 msgid "Donate via Open Collective"
-msgstr ""
+msgstr "Spend über Open Collective"
 
 #. type: Yaml Front Matter Hash Value: extra funding items text
 #: content/donate/index.md
 #, no-wrap
 msgid "Currently there is no full time team who is working to develop new features and improve the service. To consistently move the product forward, a core team is needed."
-msgstr ""
+msgstr "Momentan gits keis Team vo Entwickler*inne, zum neui Features z entwickle und d App z verbessere. Zum s Produkt kontinuierlich wiiterzentwickle, wird es Chernteam bruucht."
 
 #. type: Yaml Front Matter Hash Value: extra funding items title
 #: content/donate/index.md
 #, no-wrap
 msgid "Developers"
-msgstr ""
+msgstr "Entwickler*inne"
 
 #. type: Yaml Front Matter Hash Value: extra funding items text
 #: content/donate/index.md
 #, no-wrap
 msgid "We pay for fast servers, so anyone in the world can download free map data updates without delays. The maps data transfers are hundreds of terabytes monthly, and the amount is growing."
-msgstr ""
+msgstr "Mir zahled für schnelli Server, demit mer weltwiit gratis Charteupdates ohni Verzögerige abelade cha. D Summe vom Datetransfer betreit mehreri Hunderti Terabytes monetlich und stiigt witerhin."
 
 #. type: Yaml Front Matter Hash Value: extra funding items title
 #: content/donate/index.md
 #, no-wrap
 msgid "Infrastructure"
-msgstr ""
+msgstr "Infrastruktur"
 
 #. type: Yaml Front Matter Hash Value: extra funding items text
 #: content/donate/index.md
 #, no-wrap
 msgid "User support, fixing bugs, and improving the stability of the app are our top priority. The list of requests and bug reports grows every day, and there are many support requests to respond to on the App Store, Google Play, and support emails."
-msgstr ""
+msgstr "User-Support, Bugfixes und Verbesserig vo de Stabilität vo de App sind eusi höchste Prioritäte. D Lischte vo de Aafrage und gmeldete Bugs wachst täglich, und es git vieli Supportaafrage im App Store, Google Play und via Email."
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/donate/index.md content/support/_index.md
 #, no-wrap
 msgid "Support"
-msgstr ""
+msgstr "Support"
 
 #. type: Yaml Front Matter Hash Value: extra funding title
 #: content/donate/index.md
 #, no-wrap
 msgid "How will funding be used?"
-msgstr ""
+msgstr "Für was werded d Spende bruucht?"
 
 #. type: Yaml Front Matter Hash Value: extra info text
 #: content/donate/index.md
 #, no-wrap
 msgid "We rely on your donations to keep CoMaps open and free"
-msgstr ""
+msgstr "Mir sind uf Spende aagwise, demit CoMaps offe und gratis bliibt"
 
 #. type: Yaml Front Matter Hash Value: extra info text
 #: content/donate/index.md
 #, no-wrap
 msgid "We are a few enthusiasts contributing in our free time. We love what we do, and we love our users"
-msgstr ""
+msgstr "Mir sind Enthusiaschte wo i eusere Freiziit biiträged. Mir liebed, was mir mached, und mir liebed eusi Benutzer*inne"
 
 #. type: Yaml Front Matter Hash Value: extra info text
 #: content/donate/index.md
 #, no-wrap
 msgid "With your support, we are working toward privacy-focused map navigation that is the preferred choice on the market"
-msgstr ""
+msgstr "Mit diinere Hilf schaffemer an ere dateschutzorientierte Navigationsapp als ersti Wahl uf em Määrt"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/support/_index.md
 #, no-wrap
 msgid "Need assistance? Search for answers to common questions. Get the support you need and connect with others in the community for help."
-msgstr ""
+msgstr "Hilf brucht? Find Antworte zu hüüfige Frage. Bechum d Unterstützig, wo du bruuchsch, und tuusch dich mit anderne i de Community uus."
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/about-us/index.md
 #, no-wrap
 msgid "Free and open navigation with privacy -<br/>Built by the community"
-msgstr ""
+msgstr "Gratis, quelloffni Navigation mit Fokus uf Dateschutz -<br/>Entwicklet vo de Community"
 
 #. type: Yaml Front Matter Hash Value: extra about text
 #: content/about-us/index.md
 #, no-wrap
 msgid "CoMaps is a community-focused privacy navigation app for travelers - drivers, hikers, and cyclists. It uses the crowd-sourced OpenStreetMap data with contributors from all over the globe. It offers navigation with privacy - no identifying people and no data collection. CoMaps features can operate without an active internet connection for offline navigation at urban or distant locations, where cellular service is not available. CoMaps is an open-source project, and prioritizes community development."
-msgstr ""
+msgstr "CoMaps isch e community-orientierti Navigationsapp mit Fokus uf Dateschutz für Reisendi - mit em Auto, bim Wandere, bim Velofahre. Sie nutzt OpenStreetMap-Date, wo vo Mensche us de ganze Welt biigstüürt werded. Sie büütet Navigation mit Privatsphäre - kei Identifizierig vo Persone und kein Dateerfassig. CoMaps funktioniert au ohni Internetverbindig für d Offline-Navigation i Städt oder a entfernte Ort, wo kei Mobilfunknetz verfüegbar isch. CoMaps isch es Open-Source-Projekt, bi dem d Entwicklig vo de Community im Vordergrund staht."
 
 #. type: Yaml Front Matter Hash Value: extra about title
 #: content/about-us/index.md
 #, no-wrap
 msgid "Free and open navigation with privacy, built by the community"
-msgstr ""
+msgstr "Gratis, quelloffni Navigation mit Fokus uf Dateschutz, entwicklet vo de Community"
 
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md
 #, no-wrap
 msgid "MapsWithMe navigation app created (later renamed to Maps.me)."
-msgstr ""
+msgstr "MapsWithMe Navigations-App erstellt (spöter zu Maps.me umbenännt)."
 
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md
 #, no-wrap
 msgid "Maps.me opened the source code under Apache 2.0 license."
-msgstr ""
+msgstr "Maps.me öffnet de Quellcode under de Lizenz Apache 2.0."
 
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md
 #, no-wrap
 msgid "The Organic Maps project & company were founded, based on the Maps.Me source code."
-msgstr ""
+msgstr "S Projekt Organic Maps und d Firma sind gründet worde, basierend uf em Quellcode vo Maps.Me."
 
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md
 #, no-wrap
 msgid "Governance issues and community concerns not addressed by company shareholders stalled the development of Organic Maps for months."
-msgstr ""
+msgstr "Problem i de Unternehmensfüehrig und Sorge i de Community, wo vo de Shareholder vo de Firma nöd beantwortet worde sind, hend d Entwicklig vo Organic Maps monatelang stagniere lah."
 
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md
 #, no-wrap
 msgid "The **CoMaps** community & non-profit project was founded by former Organic Maps contributors, based on the Organic Maps source code."
-msgstr ""
+msgstr "S Projekt **CoMaps** wird als Community- und nöd gwünnorientierts Projekt vo früehnere Organic Maps-Mitwirkende basierend uf em Quellcode vo Organic Maps gründet."
 
 #. type: Yaml Front Matter Hash Value: extra history title
 #: content/about-us/index.md
 #, no-wrap
 msgid "History"
-msgstr ""
+msgstr "Gschicht"
 
 #. type: Yaml Front Matter Hash Value: extra vm items text
 #: content/about-us/index.md
 #, no-wrap
 msgid "Unlock the freedom to easily navigate offline, with privacy-focused maps for drivers, hikers, and cyclists, powered by the community."
-msgstr ""
+msgstr "Entdeck d Freiheit, eifach offline z navigiere, mit dateschutzorientierte Charte für Autofahrer, Wanderer und Velofahrer, gestützt von der Community."
 
 #. type: Yaml Front Matter Hash Value: extra vm items title
 #: content/about-us/index.md
 #, no-wrap
 msgid "Mission"
-msgstr ""
+msgstr "Mission"
 
 #. type: Yaml Front Matter Hash Value: extra vm items text
 #: content/about-us/index.md
 #, no-wrap
 msgid "Create a world where navigating with maps is free, and privacy by default is the top choice on the planet."
-msgstr ""
+msgstr "E Welt schaffe, i dere s Navigiere mit Charte gratis isch, und Dateschutz standardmässig die ersti Wahl isch."
 
 #. type: Yaml Front Matter Hash Value: extra vm items title
 #: content/about-us/index.md
 #, no-wrap
 msgid "Vision"
-msgstr ""
+msgstr "Vision"
 
 #. type: Hash Value: menu_about_us
 #: content/about-us/index.md translations.yaml
 #, no-wrap
 msgid "About Us"
-msgstr ""
+msgstr "Über eus"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/download/index.md
 #, no-wrap
 msgid "Unlock the potential of navigation! Discover offline maps, privacy-centric features, and a community-driven app"
-msgstr ""
+msgstr "Entdeck s Potenzial vo Navigation, mit Offline-Charte, dateschutzorientierte Features und enere vo de Community entwicklete App"
 
 #. type: Yaml Front Matter Array Element: extra steps items
 #: content/download/index.md
 #, no-wrap
 msgid "Offline Maps"
-msgstr ""
+msgstr "Offline-Charte"
 
 #. type: Yaml Front Matter Array Element: extra steps items
 #: content/download/index.md
 #, no-wrap
 msgid "Privacy-Centric"
-msgstr ""
+msgstr "Fokus uf Dateschutz"
 
 #. type: Yaml Front Matter Array Element: extra steps items
 #: content/download/index.md
 #, no-wrap
 msgid "No data collection"
-msgstr ""
+msgstr "Kei Dateerhebig"
 
 #. type: Yaml Front Matter Array Element: extra steps items
 #: content/download/index.md
 #, no-wrap
 msgid "Community-Driven"
-msgstr ""
+msgstr "Vo de Community gstüürt"
 
 #. type: Yaml Front Matter Hash Value: extra steps title
 #: content/download/index.md
 #, no-wrap
 msgid "Already downloaded?"
-msgstr ""
+msgstr "Scho abeglade?"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/download/index.md
 #, no-wrap
 msgid "Download CoMaps"
-msgstr ""
-
-#. type: Plain text
-#: content/download/index.md
-#, markdown-text
-msgid "CoMaps is available on Google Play, F-Droid, and as an APK download now! We are still working on publishing on the iOS App Store as well, please stay tuned!"
-msgstr ""
+msgstr "CoMaps abelade"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/api/index.md
 #, no-wrap
 msgid "API Page"
-msgstr ""
+msgstr "API-Siite"
 
 #. type: Plain text
 #: content/api/index.md
 #, markdown-text
 msgid "The API is documented on [comaps.at/api](https://comaps.at/api)."
-msgstr ""
+msgstr "D API isch uf [comaps.at/api](https://comaps.at/api) dokumentiert."
 
 #. type: Hash Value: all_title
 #: translations.yaml
 #, no-wrap
 msgid "All"
-msgstr ""
+msgstr "Alli"
 
 #. type: Hash Value: button-download
 #: translations.yaml
 #, no-wrap
 msgid "Download"
-msgstr ""
+msgstr "Abelade"
 
 #. type: Hash Value: const_lang
 #: translations.yaml
 #, no-wrap
 msgid "Language"
-msgstr ""
+msgstr "Spraach"
 
 #. type: Hash Value: faq_content
 #: translations.yaml
 #, no-wrap
 msgid "CoMaps - F.A.Q."
-msgstr "CoMaps - एफएक्यू"
+msgstr "CoMaps - F.A.Q."
 
 #. type: Hash Value: how_can_help
 #: translations.yaml
 #, no-wrap
 msgid "How can we help?"
-msgstr ""
+msgstr "Wie chömmer helfe?"
 
 #. type: Hash Value: inv_code_text
 #: translations.yaml
 #, no-wrap
 msgid "Build the app used by people around the world"
-msgstr ""
+msgstr "Entwickle die weltwiit gnutzti App"
 
 #. type: Hash Value: inv_code_title
 #: translations.yaml
 #, no-wrap
 msgid "Contribute Code"
-msgstr ""
+msgstr "Code biiträge"
 
 #. type: Hash Value: inv_info_text
 #: translations.yaml
 #, no-wrap
 msgid "Add info around you, and make the maps better for everyone"
-msgstr ""
+msgstr "Füeg Infos us dinere Umgebig hinzue und verbesser d Charte für alli"
 
 #. type: Hash Value: inv_info_title
 #: translations.yaml
 #, no-wrap
 msgid "Add Place Info"
-msgstr ""
+msgstr "Ortsinformatione hinzuefüege"
 
 #. type: Hash Value: inv_title
 #: translations.yaml
 #, no-wrap
 msgid "Get Involved"
-msgstr ""
+msgstr "Mitmache"
 
 #. type: Hash Value: language
 #: translations.yaml
 #, no-wrap
 msgid "English"
-msgstr "मराठी"
+msgstr "Schwiizerdütsch"
 
 #. type: Hash Value: menu_api
 #: translations.yaml
 #, no-wrap
 msgid "API"
-msgstr ""
+msgstr "API"
 
 #. type: Hash Value: menu_help
 #: translations.yaml
 #, no-wrap
 msgid "Help"
-msgstr ""
+msgstr "Hilf"
 
 #. type: Hash Value: menu_home
 #: translations.yaml
 #, no-wrap
 msgid "Home"
-msgstr ""
+msgstr "Home"
 
 #. type: Hash Value: menu_news
 #: translations.yaml
 #, no-wrap
 msgid "News"
-msgstr ""
+msgstr "Neuigkeite"
 
 #. type: Hash Value: menu_source_code
 #: translations.yaml
 #, no-wrap
 msgid "Source Code"
-msgstr ""
+msgstr "Quellcode"
 
 #. type: Hash Value: more_title
 #: translations.yaml
 #, no-wrap
 msgid "More"
-msgstr ""
+msgstr "Meh"
 
 #. type: Hash Value: releases_title
 #: translations.yaml
 #, no-wrap
 msgid "Releases"
-msgstr ""
+msgstr "Releases"
 
 #. type: Hash Value: search_placeholder
 #: translations.yaml
 #, no-wrap
 msgid "Describe the issue"
-msgstr ""
+msgstr "Beschriib s Problem"
 
 #. type: Hash Value: search_placeholder_simple
 #: translations.yaml
 #, no-wrap
 msgid "Search"
-msgstr ""
+msgstr "Suechi"
 
 #. type: Hash Value: social_title
 #: translations.yaml
 #, no-wrap
 msgid "Connect with Us"
-msgstr ""
+msgstr "Bliib in Kontakt"

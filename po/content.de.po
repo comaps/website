@@ -6,14 +6,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"Last-Translator: map-per <map-per@noreply.codeberg.org>\n"
+"PO-Revision-Date: 2025-07-10 15:34+0000\n"
+"Last-Translator: Kachelkaiser <kachelkaiser@noreply.codeberg.org>\n"
 "Language-Team: German <https://translate.codeberg.org/projects/comaps/website/de/>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.11.4\n"
+"X-Generator: Weblate 5.12.2\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -97,7 +98,7 @@ msgstr "Schone deinen Akku"
 #: content/_index.md
 #, no-wrap
 msgid "People like you helped build the app by adding locations to <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on Codeberg in the open-source community."
-msgstr "Menschen wie du haben geholfen, die App zu entwickeln, indem sie Orte zu <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span> hinzugefügt, Feedback zur Funktionalität gegeben und Code auf Codeberg in der Open-Source-Community beigetragen haben."
+msgstr "Menschen wie du haben geholfen, die App zu entwickeln, indem sie Orte zu <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span> hinzugefügt, Feedback zur Funktionalität gegeben und Code auf <span class=\"text-icon\"><svg viewBox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> in der Open-Source-Community beigetragen haben."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
@@ -181,7 +182,7 @@ msgstr "**Designe** die Oberfläche"
 #: content/community/index.md
 #, no-wrap
 msgid "Add translations to make it accessible for more people around the world"
-msgstr "Trage Übersetzungen bei, um die App Menschen weltweit zugänglich zu machen"
+msgstr "Trage zu Übersetzungen bei, um die App Menschen weltweit zugänglich zu machen"
 
 #. type: Yaml Front Matter Hash Value: extra features title
 #: content/community/index.md
@@ -193,13 +194,13 @@ msgstr "**Übersetze** Texte"
 #: content/community/index.md
 #, no-wrap
 msgid "Add info about shops, points of interest, trails, and public transport to OpenStreetMap"
-msgstr "Füge Informationen über Läden, Points of Interest, Wanderwege und Öffentlichen Verkehr zu OpenStreetMap hinzu"
+msgstr "Füge Informationen zu Geschäften, Sehenswürdigkeiten, Wanderwegen und öffentlichen Verkehrsmitteln zu OpenStreetMap hinzu"
 
 #. type: Yaml Front Matter Hash Value: extra features title
 #: content/community/index.md
 #, no-wrap
 msgid "**Add** Place Info"
-msgstr "Ortsinformationen **hinzufügen**"
+msgstr "**Ergänze** Ortsinformationen"
 
 #. type: Yaml Front Matter Hash Value: extra features description
 #: content/community/index.md
@@ -355,25 +356,25 @@ msgstr "Das Projekt Organic Maps und die Firma wurden gegründet, basierend auf 
 #: content/about-us/index.md
 #, no-wrap
 msgid "Governance issues and community concerns not addressed by company shareholders stalled the development of Organic Maps for months."
-msgstr "Probleme in der Governance und Sorgen in der Community, die von den Shareholdern der Firma nicht beantwortet wurden, führten zu monatelanger Stagnation der Entwicklung von Organic Maps."
+msgstr "Probleme in der Unternehmensführung und Sorgen in der Community, die von den Shareholdern der Firma nicht beantwortet wurden, führten zu monatelanger Stagnation der Entwicklung von Organic Maps."
 
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md
 #, no-wrap
 msgid "The **CoMaps** community & non-profit project was founded by former Organic Maps contributors, based on the Organic Maps source code."
-msgstr "Das Projekt **CoMaps** wird als Community- und unkommerzielles Projekt von früheren Organic Maps Beitragenden basierend auf dem Quellcode von Organic Maps gegründet."
+msgstr "Das Projekt **CoMaps** wird als community- und nicht gewinnorientiertes Projekt von früheren Organic Maps-Mitwirkenden basierend auf dem Quellcode von Organic Maps gegründet."
 
 #. type: Yaml Front Matter Hash Value: extra history title
 #: content/about-us/index.md
 #, no-wrap
 msgid "History"
-msgstr "Verlauf"
+msgstr "Geschichte"
 
 #. type: Yaml Front Matter Hash Value: extra vm items text
 #: content/about-us/index.md
 #, no-wrap
 msgid "Unlock the freedom to easily navigate offline, with privacy-focused maps for drivers, hikers, and cyclists, powered by the community."
-msgstr "Von der Community unterstützt wollen wir einfache offline Navigation mit Focus auf Privatsphäre für Autofahrer, Wanderer und Radfahrer ermöglichen."
+msgstr "Entdecke die Freiheit, einfach offline zu navigieren, mit datenschutzorientierten Karten für Autofahrer, Wanderer und Fahrradfahrer, gestützt von der Community."
 
 #. type: Yaml Front Matter Hash Value: extra vm items title
 #: content/about-us/index.md
@@ -385,7 +386,7 @@ msgstr "Mission"
 #: content/about-us/index.md
 #, no-wrap
 msgid "Create a world where navigating with maps is free, and privacy by default is the top choice on the planet."
-msgstr "Wir wollen eine Welt schaffen, in der das Navigieren mit Karten kostenlos ist, und Datenschutz standardmäßig die erste Wahl ist."
+msgstr "Eine Welt schaffen, in der das Navigieren mit Karten kostenlos ist, und Datenschutz standardmäßig die erste Wahl ist."
 
 #. type: Yaml Front Matter Hash Value: extra vm items title
 #: content/about-us/index.md
