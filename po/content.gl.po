@@ -95,8 +95,9 @@ msgstr "Aforra batería"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
-#, no-wrap
-msgid "People like you helped build the app by adding locations to <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on Codeberg in the open-source community."
+#, fuzzy, no-wrap
+#| msgid "People like you helped build the app by adding locations to <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on Codeberg in the open-source community."
+msgid "People like you helped build the app by adding locations to <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> in the open-source community."
 msgstr "Persoas coma ti axudaron a mellorar a aplicación engadindo localizacións a <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, facendo recensións das novas características, e colaborando ao código na comunidade de código aberto en <span class=\"text-icon\"><svg viewBox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span>."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
@@ -441,12 +442,6 @@ msgstr "Xa descargaches?"
 msgid "Download CoMaps"
 msgstr "Descarga CoMaps"
 
-#. type: Plain text
-#: content/download/index.md
-#, markdown-text
-msgid "CoMaps is available on Google Play, F-Droid, and as an APK download now! We are still working on publishing on the iOS App Store as well, please stay tuned!"
-msgstr "CoMaps está dispoñible en GooglePlay, F-Droid e como descarga APK! Estamos traballando para publicar en iOS App Store, pronto haberá novidades!"
-
 #. type: Yaml Front Matter Hash Value: title
 #: content/api/index.md
 #, no-wrap
@@ -455,7 +450,6 @@ msgstr "Páxina da API"
 
 #. type: Plain text
 #: content/api/index.md
-#, markdown-text
 msgid "The API is documented on [comaps.at/api](https://comaps.at/api)."
 msgstr "A API está documentada en [comaps.at/api](https://comaps.at/api)."
 
@@ -584,3 +578,6 @@ msgstr "Buscar"
 #, no-wrap
 msgid "Connect with Us"
 msgstr "Contacta con nós"
+
+#~ msgid "CoMaps is available on Google Play, F-Droid, and as an APK download now! We are still working on publishing on the iOS App Store as well, please stay tuned!"
+#~ msgstr "CoMaps está dispoñible en GooglePlay, F-Droid e como descarga APK! Estamos traballando para publicar en iOS App Store, pronto haberá novidades!"
