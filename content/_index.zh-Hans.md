@@ -37,7 +37,7 @@ extra:
           user: /images/sections/map-m-3.webp
         title: 节省电池电量
       - 
-        description: '如同您一样的用户通过向 <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-open-street-map"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span> 添加地点、测试功能并提供反馈、无私地在 Codeberg 上的开源社区里贡献自己的编程技能，协力开发了 CoMaps。'
+        description: 'People like you helped build the app by adding locations to <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-open-street-map"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on <span class="text-icon"><svg viewbox="0 0 4.233 4.233"> <use href="#icon-codeberg"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> in the open-source community.'
         highlight:
           icon: static/images/icons/home/heart.svg
           text: 人人免费，用爱制成

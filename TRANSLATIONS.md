@@ -64,6 +64,7 @@ brew install po4a
 - Never force-push to `main` branch - it will lock Weblate.
 
 ## How to add a new language
+
 - Add the language code to `.po4a.cfg`
 - run `./tools/i18n.sh` to update / generate translation and content files
 - translate the `language` key in the languages `.po` file to make sure the correct language name is displayed in the language selector instead of "English"
