@@ -13,21 +13,21 @@ extra:
         year: 2015
       - text: "Das Projekt Organic Maps und die Firma wurden gegründet, basierend auf dem Quellcode von Maps.Me."
         year: 2021
-      - text: "Probleme in der Governance und Sorgen in der Community, die von den Shareholdern der Firma nicht beantwortet wurden, führten zu monatelanger Stagnation der Entwicklung von Organic Maps."
+      - text: "Probleme in der Unternehmensführung und Sorgen in der Community, die von den Shareholdern der Firma nicht beantwortet wurden, führten zu monatelanger Stagnation der Entwicklung von Organic Maps."
         year: 2025
       - highlight: true
-        text: "Das Projekt **CoMaps** wird als Community- und unkommerzielles Projekt von früheren Organic Maps Beitragenden basierend auf dem Quellcode von Organic Maps gegründet."
+        text: "Das Projekt **CoMaps** wird als community- und nicht gewinnorientiertes Projekt von früheren Organic Maps-Mitwirkenden basierend auf dem Quellcode von Organic Maps gegründet."
         year: 2025
-    title: Verlauf
+    title: Geschichte
   vm:
     items:
       - icon: /images/icons/about/mission.svg
         media: /images/about-us/mission.png
-        text: "Von der Community unterstützt wollen wir einfache offline Navigation mit Focus auf Privatsphäre für Autofahrer, Wanderer und Radfahrer ermöglichen."
+        text: "Entdecke die Freiheit, einfach offline zu navigieren, mit datenschutzorientierten Karten für Autofahrer, Wanderer und Fahrradfahrer, gestützt von der Community."
         title: Mission
       - icon: /images/icons/about/vision.svg
         media: /images/about-us/vision.png
-        text: "Wir wollen eine Welt schaffen, in der das Navigieren mit Karten kostenlos ist, und Datenschutz standardmäßig die erste Wahl ist."
+        text: "Eine Welt schaffen, in der das Navigieren mit Karten kostenlos ist, und Datenschutz standardmäßig die erste Wahl ist."
         title: Vision
 template: about-us.html
 title: "Über uns"

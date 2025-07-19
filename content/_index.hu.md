@@ -1,5 +1,5 @@
 ---
-description: 'Fedezz fel többet az utazásodról -<br/>A közösség által működtetett'
+description: 'Fedezz fel többet az utazásodról -<br/>A közösség erejével'
 extra:
   freedom:
     description: 'Fedezd fel az utadat, navigálj a világban úgy, hogy az adatvédelem és a közösség kerül előtérbe.'
@@ -37,7 +37,7 @@ extra:
           user: /images/sections/map-m-3.webp
         title: 'Takarékoskodj az akkumulátoroddal'
       - 
-        description: 'People like you helped build the app by adding locations to <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-open-street-map"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on Codeberg in the open-source community.'
+        description: 'People like you helped build the app by adding locations to <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-open-street-map"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on <span class="text-icon"><svg viewbox="0 0 4.233 4.233"> <use href="#icon-codeberg"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> in the open-source community.'
         highlight:
           icon: static/images/icons/home/heart.svg
           text: 'Free for everyone, Made with love'

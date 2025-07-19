@@ -17,14 +17,14 @@ extra:
       icon: BezierCurve.svg
       link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md
       title: "**Designe** die Oberfläche"
-    - description: "Trage Übersetzungen bei, um die App Menschen weltweit zugänglich zu machen"
+    - description: "Trage zu Übersetzungen bei, um die App Menschen weltweit zugänglich zu machen"
       icon: Translate.svg
       link: https://codeberg.org/comaps/comaps/src/branch/main/docs/TRANSLATIONS.md
       title: "**Übersetze** Texte"
-    - description: "Füge Informationen über Läden, Points of Interest, Wanderwege und Öffentlichen Verkehr zu OpenStreetMap hinzu"
+    - description: "Füge Informationen zu Geschäften, Sehenswürdigkeiten, Wanderwegen und öffentlichen Verkehrsmitteln zu OpenStreetMap hinzu"
       icon: MapPinLine.svg
       link: /support/editing-with-CoMaps
-      title: "Ortsinformationen **hinzufügen**"
+      title: "**Ergänze** Ortsinformationen"
     - description: "Hilf Menschen, die App zu nutzen, und beantworte ihre Fragen"
       icon: Headset.svg
       link: "#"

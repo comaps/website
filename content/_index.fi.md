@@ -37,7 +37,7 @@ extra:
           user: /images/sections/map-m-3.webp
         title: 'Säästä akkuasi'
       - 
-        description: 'Käyttäjät, kuten sinä, ovat auttaneet sovelluksen kehityksen kanssa lisäämällä sijainteja <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-open-street-map"></use></svg> [OpenStreetMapiin](https://openstreetmap.org)</span>, antamalla palautetta ja osallistumalla sovelluskehitykseen Codeberg-alustan avoimen lähdekoodin yhteisössä.'
+        description: 'People like you helped build the app by adding locations to <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-open-street-map"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on <span class="text-icon"><svg viewbox="0 0 4.233 4.233"> <use href="#icon-codeberg"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> in the open-source community.'
         highlight:
           icon: static/images/icons/home/heart.svg
           text: 'Ilmainen kaikille, tehty rakkaudella'
