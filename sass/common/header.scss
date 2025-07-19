@@ -40,12 +40,29 @@
   }
 
   &__logo {
-    color: var(--common-white);
     display: flex;
     align-items: center;
-    // @media (max-width: $media-md) {
-    //   color: var(--common-green);
-    // }
+    gap: 0;
+    text-decoration: none;
+    color: var(--common-white);
+    font-size: 150%;
+  }
+
+  &__logo-wrapper {
+    display: flex;
+    align-items: center;
+  }
+
+  &__logo-wrapper svg {
+    transform: scale(1.5);
+  }
+
+  &__logo-text {
+    font-size: 30rem;
+    color: var(--common-white);
+    margin-left: 15rem; 
+    font-weight: bold;
+    line-height: 1;
   }
 
   &__row {

@@ -2,8 +2,15 @@
 {% if lang != config.default_language %}
 {% set langPathPrefix = '/' ~ lang %}
 {% endif %}
+
+
 <div class="container header__container" id="menu" role="navigation">
-    <a class="header__logo logo" href="{{ langPathPrefix | safe }}/">{% include 'ui/logo.html' %}</a>
+    <a class="header__logo logo" href="{{ langPathPrefix | safe }}/">
+        <span class="header__logo-wrapper">
+            {% include 'ui/logo.html' %}
+            <span class="header__logo-text">CoMaps</span>
+        </span>
+    </a>
     <div class="header__row">
         {# get_section(path="community/index.md"),
         get_section(path="donate/index.md"),
