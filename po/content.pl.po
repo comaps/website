@@ -6,7 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"Last-Translator: eryk <eryk@noreply.codeberg.org>\n"
+"PO-Revision-Date: 2025-07-20 13:29+0000\n"
+"Last-Translator: hosara <hosara@noreply.codeberg.org>\n"
 "Language-Team: Polish <https://translate.codeberg.org/projects/comaps/website/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
@@ -95,10 +96,9 @@ msgstr "Oszczędzaj baterię"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
-#, fuzzy, no-wrap
-#| msgid "People like you helped build the app by adding locations to <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on Codeberg in the open-source community."
-msgid "People like you helped build the app by adding locations to <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> in the open-source community."
-msgstr "Osoby takie jak Ty pomogły stworzyć aplikację, dodając lokalizacje do <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap] (https://openstreetmap.org)</span>, przekazując opinie na temat funkcji i współtworząc kod na Codeberg w społeczności open source."
+#, no-wrap
+msgid "People like you helped build the app by adding locations to <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on Codeberg in the open-source community."
+msgstr "Osoby takie jak Ty pomogły stworzyć aplikację, dodając lokalizacje do <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap] (https://openstreetmap.org)</span>, przekazując opinie na temat funkcji i współtworząc kod na <span class=\"text-icon\"><svg viewBox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> w społeczności open source."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
