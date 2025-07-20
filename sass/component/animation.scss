@@ -65,20 +65,18 @@
 
   &--down {
     .animation-item {
-      margin-bottom: -271rem !important;
+      transform: translateY(271rem);
       opacity: 0 !important;
-      transition: margin-bottom var(--transition), opacity var(--transition);
+      transition: transform var(--transition), opacity var(--transition);
     }
-
   }
 
   &--down-play {
     .animation-item {
-      margin-bottom: 0rem !important;
+      transform: translateY(0);
       opacity: 1 !important;
-      transition: margin-bottom var(--transition), opacity var(--transition);
+      transition: transform var(--transition), opacity var(--transition);
     }
-
   }
 
   &--play-right-revers {
