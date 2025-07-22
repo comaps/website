@@ -6,6 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
+"PO-Revision-Date: 2025-07-21 10:53+0000\n"
 "Last-Translator: ZeljkoBG <zeljkobg@noreply.codeberg.org>\n"
 "Language-Team: Serbian <https://translate.codeberg.org/projects/comaps/website/sr/>\n"
 "Language: sr\n"
@@ -103,7 +104,7 @@ msgstr ""
 #: content/_index.md
 #, no-wrap
 msgid "Free for everyone, Made with love"
-msgstr ""
+msgstr "Слободна за све, направљена с љубављу"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
@@ -139,7 +140,7 @@ msgstr ""
 #: content/community/index.md content/donate/index.md translations.yaml
 #, no-wrap
 msgid "Donate"
-msgstr ""
+msgstr "Донација"
 
 #. type: Yaml Front Matter Hash Value: extra features description
 #: content/community/index.md
@@ -217,7 +218,7 @@ msgstr ""
 #: content/community/index.md translations.yaml
 #, no-wrap
 msgid "Community"
-msgstr ""
+msgstr "Заједница"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/donate/index.md
@@ -283,7 +284,7 @@ msgstr ""
 #: content/donate/index.md content/support/_index.md
 #, no-wrap
 msgid "Support"
-msgstr ""
+msgstr "Подршка"
 
 #. type: Yaml Front Matter Hash Value: extra funding title
 #: content/donate/index.md
@@ -367,7 +368,7 @@ msgstr ""
 #: content/about-us/index.md
 #, no-wrap
 msgid "History"
-msgstr ""
+msgstr "Историја"
 
 #. type: Yaml Front Matter Hash Value: extra vm items text
 #: content/about-us/index.md
@@ -463,19 +464,19 @@ msgstr ""
 #: translations.yaml
 #, no-wrap
 msgid "All"
-msgstr ""
+msgstr "Све"
 
 #. type: Hash Value: button-download
 #: translations.yaml
 #, no-wrap
 msgid "Download"
-msgstr ""
+msgstr "Преузми"
 
 #. type: Hash Value: const_lang
 #: translations.yaml
 #, no-wrap
 msgid "Language"
-msgstr ""
+msgstr "Jezik"
 
 #. type: Hash Value: faq_content
 #: translations.yaml
@@ -535,31 +536,31 @@ msgstr ""
 #: translations.yaml
 #, no-wrap
 msgid "Help"
-msgstr ""
+msgstr "Помоћ"
 
 #. type: Hash Value: menu_home
 #: translations.yaml
 #, no-wrap
 msgid "Home"
-msgstr ""
+msgstr "Кућа"
 
 #. type: Hash Value: menu_news
 #: translations.yaml
 #, no-wrap
 msgid "News"
-msgstr ""
+msgstr "Новости"
 
 #. type: Hash Value: menu_source_code
 #: translations.yaml
 #, no-wrap
 msgid "Source Code"
-msgstr ""
+msgstr "Изворни кôд"
 
 #. type: Hash Value: more_title
 #: translations.yaml
 #, no-wrap
 msgid "More"
-msgstr ""
+msgstr "Више"
 
 #. type: Hash Value: releases_title
 #: translations.yaml
@@ -577,7 +578,7 @@ msgstr ""
 #: translations.yaml
 #, no-wrap
 msgid "Search"
-msgstr ""
+msgstr "Претражи"
 
 #. type: Hash Value: social_title
 #: translations.yaml

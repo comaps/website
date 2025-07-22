@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"PO-Revision-Date: 2025-07-20 13:29+0000\n"
-"Last-Translator: hosara <hosara@noreply.codeberg.org>\n"
+"PO-Revision-Date: 2025-07-22 12:31+0000\n"
+"Last-Translator: Weblate <noreply-mt-weblate@weblate.org>\n"
 "Language-Team: Polish <https://translate.codeberg.org/projects/comaps/website/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
@@ -98,13 +98,13 @@ msgstr "Oszczędzaj baterię"
 #: content/_index.md
 #, no-wrap
 msgid "People like you helped build the app by adding locations to <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on Codeberg in the open-source community."
-msgstr "Osoby takie jak Ty pomogły stworzyć aplikację, dodając lokalizacje do <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap] (https://openstreetmap.org)</span>, przekazując opinie na temat funkcji i współtworząc kod na <span class=\"text-icon\"><svg viewBox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> w społeczności open source."
+msgstr "Ludzie tacy jak Ty pomogli stworzyć tę aplikację, dodając lokalizacje do <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> OpenStreetMap</span>, przekazując opinie o funkcjach i współtworząc kod na Codebergu w ramach społeczności open source."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
 #, no-wrap
 msgid "Free for everyone, Made with love"
-msgstr "Darmowa dla wszystkich, stworzona z miłością"
+msgstr "Darmowa dla wszystkich, wykonana z miłością"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
@@ -140,7 +140,7 @@ msgstr "Aplikacja działa dzięki Twoim darowiznom – pomóż ją ulepszać"
 #: content/community/index.md content/donate/index.md translations.yaml
 #, no-wrap
 msgid "Donate"
-msgstr "Wesprzyj darowizną"
+msgstr "Wspomóż"
 
 #. type: Yaml Front Matter Hash Value: extra features description
 #: content/community/index.md
@@ -284,7 +284,7 @@ msgstr "Wsparcie użytkowników, naprawa błędów i poprawa stabilności aplika
 #: content/donate/index.md content/support/_index.md
 #, no-wrap
 msgid "Support"
-msgstr "Wsparcie"
+msgstr "Pomoc techniczna"
 
 #. type: Yaml Front Matter Hash Value: extra funding title
 #: content/donate/index.md
@@ -302,7 +302,7 @@ msgstr "Polegamy na Twoich darowiznach, aby CoMaps pozostało otwarte i darmowe"
 #: content/donate/index.md
 #, no-wrap
 msgid "We are a few enthusiasts contributing in our free time. We love what we do, and we love our users"
-msgstr "Jesteśmy grupą entuzjastów, którzy pomagają w wolnym czasie. Kochamy to, co robimy, i kochamy naszych użytkowników"
+msgstr "Jesteśmy garstką pasjonatów, którzy tworzą w wolnym czasie. Kochamy to, co robimy, i kochamy naszych użytkowników"
 
 #. type: Yaml Front Matter Hash Value: extra info text
 #: content/donate/index.md
@@ -422,7 +422,7 @@ msgstr "Skupione na prywatności"
 #: content/download/index.md
 #, no-wrap
 msgid "No data collection"
-msgstr "Bez gromadzenia danych"
+msgstr "Nie zbieramy danych"
 
 #. type: Yaml Front Matter Array Element: extra steps items
 #: content/download/index.md
@@ -457,7 +457,7 @@ msgstr "Dokumentacja API jest dostępna na [comaps.at/api](https://comaps.at/api
 #: translations.yaml
 #, no-wrap
 msgid "All"
-msgstr "Wszystko"
+msgstr "Wszystkie"
 
 #. type: Hash Value: button-download
 #: translations.yaml

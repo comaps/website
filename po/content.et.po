@@ -6,7 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"Last-Translator: oster5 <oster5@noreply.codeberg.org>\n"
+"PO-Revision-Date: 2025-07-22 12:31+0000\n"
+"Last-Translator: Priit Jõerüüt <jrtcdbrg@noreply.codeberg.org>\n"
 "Language-Team: Estonian <https://translate.codeberg.org/projects/comaps/website/et/>\n"
 "Language: et\n"
 "MIME-Version: 1.0\n"
@@ -95,10 +96,9 @@ msgstr "Säästa nutiseadme akut"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
-#, fuzzy, no-wrap
-#| msgid "People like you helped build the app by adding locations to <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on Codeberg in the open-source community."
+#, no-wrap
 msgid "People like you helped build the app by adding locations to <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> in the open-source community."
-msgstr "Lisades kohti <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMappi](https://openstreetmap.org)</span>, jagades tagasisidet ning täiendades rakenduse koodi <span class=\"text-icon\"><svg viewBox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span>is on samasugused inimesed, nagu sina on aidanud seda rakendust ühise kogukonnana luua."
+msgstr "Lisades kohti <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMappi](https://openstreetmap.org)</span>, jagades tagasisidet ning täiendades rakenduse koodi <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codebergi](https://codeberg.org/comaps)</span> on kogukonna liikmed, kes tegelikult on tavalised inimesed nagu sinagi, kaarti parandanud ja täiendanud."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
