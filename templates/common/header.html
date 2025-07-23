@@ -38,6 +38,9 @@
                     <div class="switch-theme__toggle"></div>
                 </div>
             </li>
+             <div class="footer__lang">
+                {% include 'components/language_selector.html' %}
+            </div>
 
         </ul>
         <div class="header__mobile">
@@ -94,9 +97,6 @@
             </div>
         </div>
     </div>
-             <div class="footer__lang">
-                {% include 'components/language_selector.html' %}
-            </div>
 
     <div class="header__btn">
         {{ macros::button_download() }}
