@@ -51,18 +51,28 @@
   &__logo-wrapper {
     display: flex;
     align-items: center;
+    gap: 5rem;
+    @media (max-width: $media-very_small) {
+      flex-direction: column;
+      gap: 0rem;
+    }
   }
 
   &__logo-wrapper svg {
-    transform: scale(1.5);
+    height: 60rem;
+    width: auto;
+    display: block;
   }
 
   &__logo-text {
     font-size: 30rem;
     color: var(--common-white);
-    margin-left: 15rem; 
     font-weight: bold;
     line-height: 1;
+    @media (max-width: $media-very_small) {
+      font-size: 15rem;
+      padding-bottom: 5rem;
+    }
   }
 
   &__row {
