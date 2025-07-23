@@ -55,6 +55,11 @@ jobs:
 #           git_remote: https://codeberg.org/comaps/pages.git
 #           git_branch: main
 
+      - name: Prep ssh config for deployer
+        run: | 
+           mkdir -p ~/.ssh
+           touch ~/.ssh/config
+
       # Current primary web host (DreamHost) backed by Fastly CDN
       - name: "Deploy to DreamHost SFTP"
         uses: https://github.com/milanmk/actions-file-deployer@3cf188f493103b5f12f11221186f8fbd07f2be10
