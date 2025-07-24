@@ -263,5 +263,5 @@
 
 
 {% macro button_download(class="button--white") %}
-<a class="button btn-formerly-download {{ class }}" href="{{ get_url(path="download/", lang=lang) }}">{{ trans(key='button-download', lang=lang) }}</a>
+<a class="button btn-download {{ class }}" href="{{ get_url(path="download/", lang=lang) }}">{{ trans(key='button-download', lang=lang) }}</a>
 {% endmacro button_download %}
