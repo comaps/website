@@ -169,11 +169,9 @@
         const ua = navigator.userAgent;
 
         if (/android/i.test(ua)) {
-          return "https://play.google.com/store/apps/details?id=app.comaps";
+          return "/download/";
         } else if (/iPad|iPhone|iPod/.test(ua) && !window.MSStream) {
-          return "https://apps.apple.com/us/app/TODO: Update Me!";
-        } else if (/Windows Phone/i.test(ua) || /IEMobile/i.test(ua)) {
-          return "https://play.google.com/store/apps/details?id=app.comaps";
+          return "https://apps.apple.com/app/comaps/id6747180809";
         } else if (/linux/i.test(ua)) {
           return "/download/";
         } else if (/macintosh|mac os x/i.test(ua)) {
