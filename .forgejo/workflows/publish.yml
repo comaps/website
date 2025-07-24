@@ -10,13 +10,20 @@ on:
      - main
 jobs:
   publish:
-    runs-on: codeberg-tiny
-    environment: production
-    permissions:
-      contents: read
-      deployments: write
+    runs-on: ubuntu-latest
     name: Publish to host
+    env: 
+      SSHPASS: "${{secrets.SFTP_PASS}}"
+      TMP_PATH: /home/dh_zzxxrk/website-upload-tmp
     steps:
+      - name: Echo test
+        run: | 
+           echo '${{env.TMP_PATH}}'
+
+      - name: Get dependencies
+        run: | 
+           apt update -y && apt install -y sshpass openssh-client lftp sudo
+
       - name: Checkout repo
         uses: actions/checkout@v4
         fetch-depth: 0
@@ -26,41 +33,20 @@ jobs:
           wget -O zola.tar.gz -c https://github.com/getzola/zola/releases/download/v${ZOLA_VERSION}/zola-v${ZOLA_VERSION}-x86_64-unknown-linux-gnu.tar.gz
           tar -zxvf zola.tar.gz
 
-
       - name: Build Site
         run: | 
           ./zola build
-
-#      # Not needed for SFTP
-#      - name: Copy over README.md
-#        run: |
-#          cp README.md static/README.md
-#
-#      - name: Stage all files
-#        run: |
-#          git add .
-#
-#      - name: Setup Go
-#        uses: actions/setup-go@v3
-#        with:
-#          go-version: "1.21"
-#
-#      # Needs work on tokens/auth in order to function
-#       - name: Deploy to Codeberg Pages
-#         uses: https://itsblue.dev/actions/codeberg-pages-deploy@v1
-#         with:
-#           folder: ./public
-#           token: ${{ secrets.GITHUB_TOKEN }}
-#           force: true
-#           git_remote: https://codeberg.org/comaps/pages.git
-#           git_branch: main
 
       - name: Prep ssh config for deployer
         run: | 
            mkdir -p ~/.ssh
            touch ~/.ssh/config
 
+      - name: Clear out old remote temp folder
+        run: sshpass -e ssh -o "StrictHostKeyChecking=no" ${{secrets.SFTP_USER}}@${{secrets.SFTP_HOST}} 'rm -rf ${{env.TMP_PATH}} && mkdir -p ${{env.TMP_PATH}}';
+
       # Current primary web host (DreamHost) backed by Fastly CDN
+      # Delta sync continually complains about fetch-depth, so we're manually swapping the site in/out with the above/below tmp folders instead.
       - name: "Deploy to DreamHost SFTP"
         uses: https://github.com/milanmk/actions-file-deployer@3cf188f493103b5f12f11221186f8fbd07f2be10
         with:
@@ -69,6 +55,9 @@ jobs:
           remote-user: "${{secrets.SFTP_USER}}"
           remote-password: "${{secrets.SFTP_PASS}}"
           local-path: "./public"
-          remote-path: "${{vars.SFTP_PATH}}"
+          remote-path: "${{env.TMP_PATH}}"
           sync: "full" # full for initial, delta with fetch-depth: 0 during checkout for future
-          debug: "true"
+          #debug: "true"
+
+      - name: Overwrite live website folder with temp folder
+        run: sshpass -e ssh -o "StrictHostKeyChecking=no" ${{secrets.SFTP_USER}}@${{secrets.SFTP_HOST}} 'rm -rf ${{vars.SFTP_PATH}} && mv ${{env.TMP_PATH}} ${{vars.SFTP_PATH}}';
