@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"PO-Revision-Date: 2025-07-21 13:14+0000\n"
-"Last-Translator: ghose <ghose@noreply.codeberg.org>\n"
+"PO-Revision-Date: 2025-07-26 15:53+0000\n"
+"Last-Translator: hosara <hosara@noreply.codeberg.org>\n"
 "Language-Team: Galician <https://translate.codeberg.org/projects/comaps/website/gl/>\n"
 "Language: gl\n"
 "MIME-Version: 1.0\n"
@@ -98,7 +98,7 @@ msgstr "Aforra batería"
 #: content/_index.md
 #, no-wrap
 msgid "People like you helped build the app by adding locations to <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> in the open-source community."
-msgstr "Persoas coma ti axudaron a mellorar a aplicación engadindo localizacións a <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, facendo recensións das novas características, e aportando ao código na comunidade de código aberto en <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\">[Codeberg](https://codeberg.org/comaps)</span>."
+msgstr "Persoas coma ti axudaron a mellorar a aplicación engadindo localizacións a <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, facendo recensións das novas características, e aportando ao código na comunidade de código aberto en <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg>[Codeberg](https://codeberg.org/comaps)</span>."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
