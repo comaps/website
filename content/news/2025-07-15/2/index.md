@@ -19,4 +19,4 @@ CoMaps — это приложение с открытым исходным ко
 
 [Continue reading...](https://rutab.net/b/hardware/2025/07/15/comaps-privatnaya-alternativa-google-maps-s-oflayn-kartami.html)
 
-15 July 2025 | [CoMaps — приватная альтернатива Google Maps с офлайн-картами](hhttps://rutab.net/b/hardware/2025/07/15/comaps-privatnaya-alternativa-google-maps-s-oflayn-kartami.html)
+15 July 2025 | [CoMaps — приватная альтернатива Google Maps с офлайн-картами](https://rutab.net/b/hardware/2025/07/15/comaps-privatnaya-alternativa-google-maps-s-oflayn-kartami.html)
