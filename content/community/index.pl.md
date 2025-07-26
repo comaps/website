@@ -3,7 +3,7 @@ description: "CoMaps jest tworzona i rozwijana przez osoby takie jak Ty"
 extra:
   donate:
     description: "Aplikacja działa dzięki Twoim darowiznom – pomóż ją ulepszać"
-    title: "Wesprzyj darowizną"
+    title: Wspomóż
   features:
     - description: "Zgłaszaj błędy, omawiaj pomysły i proponuj nowe funkcje"
       icon: chats.svg

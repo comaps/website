@@ -19,7 +19,7 @@ extra:
           user: /images/sections/map-m-1.webp
         title: 'Pesquise e Navegue Offline'
       - 
-        description: 'Esta aplicação foi desenvolvida com a privacidade em mente - não identifica nem rastreia os utilizadores, e não faz recolha de nenhuma informação.'
+        description: 'The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information. CoMaps was also audited by  by <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-exodus"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/).'
         highlight:
           icon: static/images/icons/home/shield.svg
           text: 'Privacidade por padrão'

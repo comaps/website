@@ -60,8 +60,8 @@ msgstr "Internet nélküli keresés és útvonal tervezés"
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
 #, no-wrap
-msgid "The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information."
-msgstr "Az alkalmazás az adatvédelem szem előtt tartásával készült - nem azonosítja az embereket, nem követ téged, és nem gyűjt semmilyen információt."
+msgid "The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information. CoMaps was also audited by  by <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-exodus\"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/)."
+msgstr ""
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
@@ -577,3 +577,7 @@ msgstr ""
 #, no-wrap
 msgid "Connect with Us"
 msgstr ""
+
+#, no-wrap
+#~ msgid "The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information."
+#~ msgstr "Az alkalmazás az adatvédelem szem előtt tartásával készült - nem azonosítja az embereket, nem követ téged, és nem gyűjt semmilyen információt."

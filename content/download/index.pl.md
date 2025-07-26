@@ -17,7 +17,7 @@ extra:
     items:
       - "Mapy offline"
       - "Skupione na prywatności"
-      - "Bez gromadzenia danych"
+      - "Nie zbieramy danych"
       - "Tworzone przez społeczność"
     title: "Już pobrane?"
 template: download.html

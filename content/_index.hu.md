@@ -19,7 +19,7 @@ extra:
           user: /images/sections/map-m-1.webp
         title: 'Internet nélküli keresés és útvonal tervezés'
       - 
-        description: 'Az alkalmazás az adatvédelem szem előtt tartásával készült - nem azonosítja az embereket, nem követ téged, és nem gyűjt semmilyen információt.'
+        description: 'The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information. CoMaps was also audited by  by <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-exodus"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/).'
         highlight:
           icon: static/images/icons/home/shield.svg
           text: 'Adatvédelem alapértelmezetten'

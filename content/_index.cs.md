@@ -19,7 +19,7 @@ extra:
           user: /images/sections/map-m-1.webp
         title: 'Offline vyhledávání a trasování'
       - 
-        description: 'Aplikace je navržena s ohledem na soukromí – neidentifikuje lidi, nesleduje vás a nesbírá žádné informace.'
+        description: 'The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information. CoMaps was also audited by  by <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-exodus"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/).'
         highlight:
           icon: static/images/icons/home/shield.svg
           text: 'Soukromí na prvním místě'
@@ -37,7 +37,7 @@ extra:
           user: /images/sections/map-m-3.webp
         title: 'Šetří vaši baterii'
       - 
-        description: 'People like you helped build the app by adding locations to <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-open-street-map"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on <span class="text-icon"><svg viewbox="0 0 4.233 4.233"> <use href="#icon-codeberg"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> in the open-source community.'
+        description: 'Lidé jako vy pomohli vytvořit tuto aplikaci přidáváním míst do projektu <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-open-street-map"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, posíláním zpětné vazby a přispíváním kódu na <span class="text-icon"><svg viewbox="0 0 4.233 4.233"> <use href="#icon-codeberg"></use></svg> [Codebergu](https://codeberg.org/comaps)</span> v open-source komunitě.'
         highlight:
           icon: static/images/icons/home/heart.svg
           text: 'Zdarma pro všechny, vytvořené s láskou'

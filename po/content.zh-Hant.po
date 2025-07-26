@@ -60,8 +60,8 @@ msgstr "離線搜尋與路線"
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
 #, no-wrap
-msgid "The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information."
-msgstr "保護使用者隱私是 CoMaps 的優先考慮⸺本應用無法辨識使用者身分、無法追蹤使用者活動，也無法收集個人資訊。"
+msgid "The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information. CoMaps was also audited by  by <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-exodus\"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/)."
+msgstr ""
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
@@ -578,6 +578,10 @@ msgstr "搜尋"
 #, no-wrap
 msgid "Connect with Us"
 msgstr "聯絡我們"
+
+#, no-wrap
+#~ msgid "The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information."
+#~ msgstr "保護使用者隱私是 CoMaps 的優先考慮⸺本應用無法辨識使用者身分、無法追蹤使用者活動，也無法收集個人資訊。"
 
 #~ msgid "CoMaps is available on Google Play, F-Droid, and as an APK download now! We are still working on publishing on the iOS App Store as well, please stay tuned!"
 #~ msgstr "CoMaps 現在可在 Google Play 和 F-Droid 下載，並提供 APK 安裝文件！我們仍在努力推進 iOS App Store 的上架工作，敬請期待！"

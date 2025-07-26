@@ -1,7 +1,7 @@
 ---
 description:
-title: "API Page"
+title: "API Sayfası"
 weight: 10
 ---
 
-The API is documented on [comaps.at/api](https://comaps.at/api).
+API dökümanları [comaps.at/api](https://comaps.at/api).

@@ -19,7 +19,7 @@ extra:
           user: /images/sections/map-m-1.webp
         title: 'Offline zoeken en route planning'
       - 
-        description: 'De app is ontworpen met privacy in gedachten – identificeert mensen niet, volgt je niet en verzamelt geen informatie.'
+        description: 'The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information. CoMaps was also audited by  by <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-exodus"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/).'
         highlight:
           icon: static/images/icons/home/shield.svg
           text: 'Privacy als standaard'
@@ -37,7 +37,7 @@ extra:
           user: /images/sections/map-m-3.webp
         title: 'Bespaar je batterij'
       - 
-        description: 'People like you helped build the app by adding locations to <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-open-street-map"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on <span class="text-icon"><svg viewbox="0 0 4.233 4.233"> <use href="#icon-codeberg"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> in the open-source community.'
+        description: 'Mensen zoals jij hebben meegeholpen de app te bouwen door locaties toe te voegen aan <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-open-street-map"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, feedback te geven op features en code bij te dragen op <span class="text-icon"><svg viewbox="0 0 4.233 4.233"> <use href="#icon-codeberg"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> in de open-source community.'
         highlight:
           icon: static/images/icons/home/heart.svg
           text: 'Vrij voor iedereen, met liefde gemaakt'

@@ -19,7 +19,7 @@ extra:
           user: /images/sections/map-m-1.webp
         title: 离线搜索与路线
       - 
-        description: '保护用户隐私是 CoMaps 的优先考虑⸺本应用无法识别用户身份、无法跟踪用户活动，也无法收集个人信息。'
+        description: 'The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information. CoMaps was also audited by  by <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-exodus"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/).'
         highlight:
           icon: static/images/icons/home/shield.svg
           text: 隐私默认
