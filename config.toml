@@ -110,6 +110,11 @@ title = "threads"
 icon = "threads.svg"
 link = "https://www.threads.com/@comaps.app"
 
+[[extra.social]]
+title = "SimpleX"
+icon = "simplex.svg"
+link = "https://simplex.chat/contact#/?v=2-7&smp=smp%3A%2F%2FZKe4uxF4Z_aLJJOEsC-Y6hSkXgQS5-oc442JQGkyP8M%3D%40smp17.simplex.im%2FGXVXWYUwygUQ_pl4tXlHKOHZHy4keMs_%23%2F%3Fv%3D1-4%26dh%3DMCowBQYDK2VuAyEAO0uHOTEel8n1JH8nNXUedXcEO235LiM9tIdySXo0Ahs%253D%26q%3Dc%26srv%3Dogtwfxyi3h2h5weftjjpjmxclhb5ugufa5rcyrmg7j4xlch7qsr5nuqd.onion&data=%7B%22groupLinkId%22%3A%22Gg3cxlN3gwtVJhiGH0WuZw%3D%3D%22%7D"
+
 # [[extra.social]]
 # title = "tiktok"
 # icon = "tiktok.svg"
