@@ -3,17 +3,17 @@ description: "O CoMaps é criado e mantido por pessoas como você"
 extra:
   donate:
     description: "O aplicativo funciona com suas doações, ajude a melhorá-lo"
-    title: Doe
+    title: Doar
   features:
-    - description: "Relate erros, discuta ideias e proponha recursos"
+    - description: "Reporte erros, discuta ideias e proponha novos recursos"
       icon: chats.svg
       link: https://codeberg.org/comaps/comaps/issues
-      title: "**Relatar** erros"
+      title: "**Reportar** Erros"
     - description: "Desenvolva novos recursos, ajude a corrigir erros e revise o código"
       icon: CodeBlock.svg
       link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md
       title: "**Desenvolver** Funcionalidade"
-    - description: "Molde a direção da experiência do produto"
+    - description: "Defina a direção da experiência do produto"
       icon: BezierCurve.svg
       link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md
       title: "**Projetar** a Interface"
@@ -25,7 +25,7 @@ extra:
       icon: MapPinLine.svg
       link: /support/editing-with-CoMaps
       title: "**Adicionar** Informações de Locais"
-    - description: "Ajude as pessoas a usar o aplicativo e responda a perguntas"
+    - description: "Ajude as pessoas a usar o aplicativo e responda a dúvidas"
       icon: Headset.svg
       link: "#"
       title: "**Ajudar** o Suporte"

@@ -6,7 +6,6 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"PO-Revision-Date: 2025-07-26 15:52+0000\n"
 "Last-Translator: hosara <hosara@noreply.codeberg.org>\n"
 "Language-Team: Chinese (Simplified Han script) <https://translate.codeberg.org/projects/comaps/website/zh_Hans/>\n"
 "Language: zh-Hans\n"
@@ -61,8 +60,8 @@ msgstr "离线搜索与路线"
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
 #, no-wrap
-msgid "The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information."
-msgstr "保护用户隐私是 CoMaps 的优先考虑⸺本应用无法识别用户身份、无法跟踪用户活动，也无法收集个人信息。"
+msgid "The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information. CoMaps was also audited by <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-exodus\"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/)."
+msgstr ""
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
@@ -578,6 +577,10 @@ msgstr "搜索"
 #, no-wrap
 msgid "Connect with Us"
 msgstr "联系我们"
+
+#, no-wrap
+#~ msgid "The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information."
+#~ msgstr "保护用户隐私是 CoMaps 的优先考虑⸺本应用无法识别用户身份、无法跟踪用户活动，也无法收集个人信息。"
 
 #~ msgid "CoMaps is available on Google Play, F-Droid, and as an APK download now! We are still working on publishing on the iOS App Store as well, please stay tuned!"
 #~ msgstr "CoMaps 现在可在 Google Play 和 F-Droid 下载，并提供 APK 安装包！我们仍在努力推进 iOS App Store 的上架工作，敬请期待！"

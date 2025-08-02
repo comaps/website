@@ -1,7 +1,7 @@
 ---
 description:
-title: "API Page"
+title: "Сторінка API"
 weight: 10
 ---
 
-The API is documented on [comaps.at/api](https://comaps.at/api).
+API задокументовано на [comaps.at/api](https://comaps.at/api).

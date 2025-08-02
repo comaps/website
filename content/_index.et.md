@@ -19,7 +19,7 @@ extra:
           user: /images/sections/map-m-1.webp
         title: 'Otsing ja teekonna koostamine vallasrežiimis'
       - 
-        description: 'Rakendus on loodud privaatsena - ta ei tuvasta kasutajaid, ei jälgi nende tegevust ega kogu nende kohta andmeid.'
+        description: 'The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information. CoMaps was also audited by <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-exodus"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/).'
         highlight:
           icon: static/images/icons/home/shield.svg
           text: 'Vaikimisi privaatne'
@@ -37,7 +37,7 @@ extra:
           user: /images/sections/map-m-3.webp
         title: 'Säästa nutiseadme akut'
       - 
-        description: 'People like you helped build the app by adding locations to <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-open-street-map"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on <span class="text-icon"><svg viewbox="0 0 4.233 4.233"> <use href="#icon-codeberg"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> in the open-source community.'
+        description: 'Lisades kohti <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-open-street-map"></use></svg> [OpenStreetMappi](https://openstreetmap.org)</span>, jagades tagasisidet ning täiendades rakenduse koodi <span class="text-icon"><svg viewbox="0 0 4.233 4.233"> <use href="#icon-codeberg"></use></svg> [Codebergi](https://codeberg.org/comaps)</span> on kogukonna liikmed, kes tegelikult on tavalised inimesed nagu sinagi, kaarti parandanud ja täiendanud.'
         highlight:
           icon: static/images/icons/home/heart.svg
           text: 'Tasuta ja vaba kõigi jaoks, tehtud armastusega'

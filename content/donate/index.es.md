@@ -3,7 +3,7 @@ description: "¡Dona y crea mejores mapas juntos!"
 extra:
   donate:
     info:
-      description: "Dona para mantener el proyecto en marcha"
+      description: "Dona para mantener el proyecto funcionando"
       title: "Creado con amor por voluntarios entusiastas"
     liberapay:
       title: "Dona vía Liberapay"
@@ -13,7 +13,7 @@ extra:
   funding:
     items:
       - media: /images/donate/developers.webp
-        text: 'Actualmente no hay un equipo trabajando a tiempo completo en el desarrollo de nuevas funcionalidades y mejora del servicio. Para una evolución constante del producto, se necesita un equipo "core".'
+        text: "Actualmente no hay un equipo trabajando a tiempo completo en el desarrollo de nuevas funcionalidades y mejora del servicio. Para una evolución constante del producto, se necesitaría un equipo base dedicado."
         title: Desarrolladores
       - media: /images/donate/infrastructure.webp
         text: "Pagamos por servidores rápidos, para que cualquier persona del mundo pueda descargar gratis actualizaciones del mapa sin retardos. Las transferencias de datos de mapas son cientos de TeraBytes al mes, y la cantidad sigue creciendo."

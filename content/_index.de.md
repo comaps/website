@@ -10,7 +10,7 @@ extra:
   services:
     items:
       - 
-        description: 'Plane deine Reise und navigiere im Ausland ohne mobile Daten und finde Wegpunkte auf einer abgelegenen Wanderung.'
+        description: 'Plane deine Reise und navigiere im Ausland ohne mobile Daten und finde Wegpunkte auf einer Wanderung in der Ferne.'
         highlight:
           icon: static/images/icons/home/wifi-off.svg
           text: 'Funktioniert ohne Internetverbindung'
@@ -19,10 +19,10 @@ extra:
           user: /images/sections/map-m-1.webp
         title: 'Offline-Suche und Routenplanung'
       - 
-        description: 'Die App ist mit Blick auf Datenschutz konzipiert – sie identifiziert keine Personen, verfolgt dich nicht und sammelt keine Daten.'
+        description: 'The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information. CoMaps was also audited by <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-exodus"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/).'
         highlight:
           icon: static/images/icons/home/shield.svg
-          text: 'Schützt deine Privatsphäre'
+          text: 'Schützt Deine Privatsphäre'
         media:
           map: /images/sections/map-s-2.webp
           user: /images/sections/map-m-2.webp
@@ -35,9 +35,9 @@ extra:
         media:
           map: /images/sections/map-s-3.webp
           user: /images/sections/map-m-3.webp
-        title: 'Schone deinen Akku'
+        title: 'Schone Deinen Akku'
       - 
-        description: 'People like you helped build the app by adding locations to <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-open-street-map"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on <span class="text-icon"><svg viewbox="0 0 4.233 4.233"> <use href="#icon-codeberg"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> in the open-source community.'
+        description: 'Menschen wie Du haben geholfen, die App zu entwickeln, indem sie Orte zu <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-open-street-map"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span> hinzugefügt, Feedback zur Funktionalität gegeben und mit Code auf <span class="text-icon"><svg viewbox="0 0 4.233 4.233"> <use href="#icon-codeberg"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> in der Open-Source-Community beigetragen haben.'
         highlight:
           icon: static/images/icons/home/heart.svg
           text: 'Kostenlos für alle, mit Liebe gemacht'

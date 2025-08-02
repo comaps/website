@@ -19,7 +19,7 @@ extra:
           user: /images/sections/map-m-1.webp
         title: 'Çevrimdışı arama ve rota'
       - 
-        description: 'Uygulama gizlilik göz önünde bulundurularak tasarlanmıştır - insanları tanımlamaz, sizi izlemez ve herhangi bir bilgi toplamaz.'
+        description: 'The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information. CoMaps was also audited by <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-exodus"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/).'
         highlight:
           icon: static/images/icons/home/shield.svg
           text: 'Varsayılan olarak gizlilik'
@@ -37,7 +37,7 @@ extra:
           user: /images/sections/map-m-3.webp
         title: 'Pilinizi kurtarın'
       - 
-        description: 'People like you helped build the app by adding locations to <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-open-street-map"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on <span class="text-icon"><svg viewbox="0 0 4.233 4.233"> <use href="#icon-codeberg"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> in the open-source community.'
+        description: "Sizin gibi insanlar, <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span> konum ekleyerek uygulamanın oluşturulmasına yardımcı oldu, Açık kaynak topluluğunda <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> 'de özellikler hakkında geri bildirimde bulunmak ve kod katkıda bulundu."
         highlight:
           icon: static/images/icons/home/heart.svg
           text: 'Tutku ile yapıldı, Herkes için ücretsiz'
@@ -47,5 +47,5 @@ extra:
         title: 'Özgür ve topluluk tarafından inşa edildi'
 sort_by: weight
 template: home.html
-title: 'Hike, Bike, Drive Offline Navigate with Privacy'
+title: 'Yürüşüş, Bisiklet, Çevrimdışı Sürüş Gizlilikle Gezinin'
 ---

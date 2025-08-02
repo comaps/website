@@ -9,7 +9,7 @@ extra:
       title: "Wesprzyj darowizną przez Liberapay"
     open_collective:
       title: "Wesprzyj darowizną przez Open Collective"
-    title: "Wesprzyj darowizną"
+    title: Wspomóż
   funding:
     items:
       - media: /images/donate/developers.webp
@@ -20,19 +20,19 @@ extra:
         title: Infrastruktura
       - media: /images/donate/support.webp
         text: "Wsparcie użytkowników, naprawa błędów i poprawa stabilności aplikacji to nasz najwyższy priorytet. Lista próśb i zgłoszeń błędów rośnie każdego dnia, a na App Store, Google Play i w e-mailach wsparcia czeka wiele zapytań, na które trzeba odpowiedzieć."
-        title: Wsparcie
+        title: "Pomoc techniczna"
     title: "Jak zostaną wykorzystane środki z finansowania?"
   hero_description: "Donate and create better maps together!"
   info:
     - icon: static/images/icons/donate/icon01.svg
       text: "Polegamy na Twoich darowiznach, aby CoMaps pozostało otwarte i darmowe"
     - icon: static/images/icons/donate/icon02.svg
-      text: "Jesteśmy grupą entuzjastów, którzy pomagają w wolnym czasie. Kochamy to, co robimy, i kochamy naszych użytkowników"
+      text: "Jesteśmy garstką pasjonatów, którzy tworzą w wolnym czasie. Kochamy to, co robimy, i kochamy naszych użytkowników"
     - icon: static/images/icons/donate/icon03.svg
       text: "Dzięki Twojemu wsparciu dążymy do stworzenia map i nawigacji z myślą o prywatności, które będą preferowanym wyborem na rynku"
   service_text:
   service_title: "Created with love by enthusiast volunteers"
 template: new-donate.html
-title: "Wesprzyj darowizną"
+title: Wspomóż
 weight: 10
 ---

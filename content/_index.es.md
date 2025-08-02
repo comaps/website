@@ -19,7 +19,7 @@ extra:
           user: /images/sections/map-m-1.webp
         title: 'Búsqueda y navegación sin conexión'
       - 
-        description: 'La aplicación está diseñada con la privacidad en mente - no identifica personas, no te rastrea, y no recopila ninguna información.'
+        description: 'The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information. CoMaps was also audited by <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-exodus"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/).'
         highlight:
           icon: static/images/icons/home/shield.svg
           text: 'Privacidad por defecto'
@@ -37,10 +37,10 @@ extra:
           user: /images/sections/map-m-3.webp
         title: 'Ahorra tu batería'
       - 
-        description: 'People like you helped build the app by adding locations to <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-open-street-map"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on <span class="text-icon"><svg viewbox="0 0 4.233 4.233"> <use href="#icon-codeberg"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> in the open-source community.'
+        description: 'Las personas como tú ayudaron a construir la aplicación añadiendo ubicaciones en <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-open-street-map"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, proporcionando comentarios sobre funcionalidades, y contribuyendo con código en <span class="text-icon"><svg viewbox="0 0 4.233 4.233"> <use href="#icon-codeberg"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> en la comunidad de código abierto.'
         highlight:
           icon: static/images/icons/home/heart.svg
-          text: 'Libre para todos, Hecho con amor'
+          text: 'Gratis para todos, hecho con amor'
         media:
           map: /images/sections/map-s-4.webp
           user: /images/sections/map-m-4.webp

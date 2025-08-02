@@ -1,5 +1,5 @@
 ---
-description: "Unlock the potential of navigation! Discover offline maps, privacy-centric features, and a community-driven app"
+description: "Розкрийте потенціал навігації! Відкрийте для себе офлайн-карти, функції, орієнтовані на приватність, та додаток, створений спільнотою"
 extra:
   desktop_payment_methods_1: MacOS
   desktop_payment_methods_2: Linux
@@ -13,14 +13,15 @@ extra:
   mobile_shop_name_2: "Play Store"
   mobile_shop_name_3: F-Droid
   mobile_shop_name_4: AppGallery
+  mobile_shop_name_5: Obtainium
   steps:
     items:
-      - "Offline Maps"
-      - Privacy-Centric
-      - "No data collection"
-      - Community-Driven
-    title: "Already downloaded?"
+      - Офлайн-карти
+      - "Орієнтований на конфіденційність"
+      - "Без збору даних"
+      - "Керований спільнотою"
+    title: "Вже завантажили?"
 template: download.html
-title: "Download CoMaps"
+title: "Завантажити CoMaps"
 weight: 10
 ---

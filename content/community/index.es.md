@@ -2,14 +2,14 @@
 description: "CoMaps es creado y mantenido por personas como tú"
 extra:
   donate:
-    description: "La aplicación funciona con tus donaciones. Ayuda a mejorarla"
+    description: "La aplicación funciona con tus donaciones, ayuda a mejorarla"
     title: Donar
   features:
     - description: "Informa de errores, discute ideas y propón funcionalidades"
       icon: chats.svg
       link: https://codeberg.org/comaps/comaps/issues
       title: "**Reporta** Fallos"
-    - description: "Desarrolla nuevas funcionalidades, ayuda a corregir errores, y revisa el código"
+    - description: "Desarrolla nuevas funcionalidades, ayuda a corregir errores y revisa el código"
       icon: CodeBlock.svg
       link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md
       title: "**Desarrolla** Funcionalidades"

@@ -6,7 +6,6 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"PO-Revision-Date: 2025-07-30 12:09+0000\n"
 "Last-Translator: B o d o <timtrek@noreply.codeberg.org>\n"
 "Language-Team: German <https://translate.codeberg.org/projects/comaps/website/de/>\n"
 "Language: de\n"
@@ -61,8 +60,8 @@ msgstr "Offline-Suche und Routenplanung"
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
 #, no-wrap
-msgid "The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information."
-msgstr "Die App ist mit Blick auf Datenschutz konzipiert – sie identifiziert keine Personen, verfolgt Dich nicht und sammelt keine Daten."
+msgid "The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information. CoMaps was also audited by <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-exodus\"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/)."
+msgstr ""
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
@@ -578,6 +577,10 @@ msgstr "Suche"
 #, no-wrap
 msgid "Connect with Us"
 msgstr "Bleib in Kontakt"
+
+#, no-wrap
+#~ msgid "The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information."
+#~ msgstr "Die App ist mit Blick auf Datenschutz konzipiert – sie identifiziert keine Personen, verfolgt Dich nicht und sammelt keine Daten."
 
 #~ msgid "CoMaps is available on Google Play, F-Droid, and as an APK download now! We are still working on publishing on the iOS App Store as well, please stay tuned!"
 #~ msgstr "CoMaps ist jetzt auf Google Play, F-Droid und als APK-Download verfügbar! Wir arbeiten noch an der Veröffentlichung im iOS App Store, bitte dranbleiben!"

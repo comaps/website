@@ -1,5 +1,5 @@
 ---
-description: "Unlock the potential of navigation! Discover offline maps, privacy-centric features, and a community-driven app"
+description: "Navigasyonun potansiyelini açığa çıkarın! Çevrimdışı haritaları, gizlilik odaklı özellikleri ve topluluk odaklı bir uygulamayı keşfedin"
 extra:
   desktop_payment_methods_1: MacOS
   desktop_payment_methods_2: Linux
@@ -13,14 +13,15 @@ extra:
   mobile_shop_name_2: "Play Store"
   mobile_shop_name_3: F-Droid
   mobile_shop_name_4: AppGallery
+  mobile_shop_name_5: Obtainium
   steps:
     items:
-      - "Offline Maps"
-      - Privacy-Centric
+      - "Çevrim Dışı Haritalar"
+      - Gizlilik-Odaklı
       - "Veri toplama yok"
-      - Community-Driven
-    title: "Already downloaded?"
+      - "Topluluk Odaklı"
+    title: "Zaten indirildiniz mi?"
 template: download.html
-title: "Download CoMaps"
+title: "CoMaps Yükle"
 weight: 10
 ---

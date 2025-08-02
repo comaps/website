@@ -13,10 +13,10 @@ extra:
         year: 2015
       - text: "Das Projekt Organic Maps und die Firma wurden gegründet, basierend auf dem Quellcode von Maps.Me."
         year: 2021
-      - text: "Probleme in der Unternehmensführung und Sorgen in der Community, die von den Shareholdern der Firma nicht beantwortet wurden, führten zu monatelanger Stagnation der Entwicklung von Organic Maps."
+      - text: "Probleme in der Unternehmensführung und Sorgen in der Community, die von den Anteilseignern des Unternehmens nicht berücksichtigt wurden, haben die Entwicklung von Organic Maps monatelang verzögert."
         year: 2025
       - highlight: true
-        text: "Das Projekt **CoMaps** wird als community- und nicht gewinnorientiertes Projekt von früheren Organic Maps-Mitwirkenden basierend auf dem Quellcode von Organic Maps gegründet."
+        text: "Das Projekt **CoMaps** wird als Gemeinschaftsprojekt ohne Gewinnorientierung von früheren Organic Maps-Mitwirkenden basierend auf dem Quellcode von Organic Maps gegründet."
         year: 2025
     title: Geschichte
   vm:

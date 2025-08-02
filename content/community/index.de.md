@@ -1,27 +1,27 @@
 ---
-description: "CoMaps wird von Leuten wie dir entwickelt"
+description: "CoMaps wird von Leuten wie Dir entwickelt"
 extra:
   donate:
-    description: "Die App lebt von deinen Spenden – hilf mit, sie zu verbessern"
+    description: "Die App lebt von Deinen Spenden – hilf mit, sie zu verbessern"
     title: Spenden
   features:
     - description: "Bugs melden, Ideen diskutieren, Features vorschlagen"
       icon: chats.svg
       link: https://codeberg.org/comaps/comaps/issues
-      title: "**Melde** Bugs"
+      title: "**Melde** Fehler"
     - description: "Entwickle neue Features, fixe Bugs und hilf bei Code Reviews"
       icon: CodeBlock.svg
       link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md
       title: "**Entwickle** Funktionalität"
-    - description: "Beeinflusse die Richtung, in die das Produkt geht"
+    - description: "Beeinflusse die Richtung, in die das Programm geht"
       icon: BezierCurve.svg
       link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md
       title: "**Designe** die Oberfläche"
-    - description: "Trage zu Übersetzungen bei, um die App Menschen weltweit zugänglich zu machen"
+    - description: "Ergänze Übersetzungen, um die App Menschen weltweit zugänglich zu machen"
       icon: Translate.svg
       link: https://codeberg.org/comaps/comaps/src/branch/main/docs/TRANSLATIONS.md
       title: "**Übersetze** Texte"
-    - description: "Füge Informationen zu Geschäften, Sehenswürdigkeiten, Wanderwegen und öffentlichen Verkehrsmitteln zu OpenStreetMap hinzu"
+    - description: "Füge OpenStreetMap Informationen über Geschäfte, Sehenswürdigkeiten, Wanderwege und öffentliche Verkehrsmittel hinzu"
       icon: MapPinLine.svg
       link: /support/editing-with-CoMaps
       title: "**Ergänze** Ortsinformationen"

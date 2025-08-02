@@ -6,7 +6,6 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"PO-Revision-Date: 2025-07-26 18:58+0000\n"
 "Last-Translator: dobrovolskyi <dobrovolskyi@noreply.codeberg.org>\n"
 "Language-Team: Ukrainian <https://translate.codeberg.org/projects/comaps/website/uk/>\n"
 "Language: uk\n"
@@ -61,8 +60,8 @@ msgstr "Пошук і маршрути офлайн"
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
 #, no-wrap
-msgid "The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information."
-msgstr "Застосунок розроблений з урахуванням приватності - він не ідентифікує людей, не відстежує вас і не збирає жодної інформації."
+msgid "The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information. CoMaps was also audited by <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-exodus\"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/)."
+msgstr ""
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
@@ -578,3 +577,7 @@ msgstr "Пошук"
 #, no-wrap
 msgid "Connect with Us"
 msgstr "Зв’яжіться з нами"
+
+#, no-wrap
+#~ msgid "The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information."
+#~ msgstr "Застосунок розроблений з урахуванням приватності - він не ідентифікує людей, не відстежує вас і не збирає жодної інформації."

@@ -1,5 +1,5 @@
 ---
-description: "Libere o potencial da navegação! Descubra mapas offline, recursos focados em privacidade e um aplicativo desenvolvido pela comunidade"
+description: "Desbloqueie o potencial da navegação! Descubra mapas offline, funcionalidades centradas em privacidade e um aplicativo desenvolvido pela comunidade"
 extra:
   desktop_payment_methods_1: MacOS
   desktop_payment_methods_2: Linux
@@ -13,6 +13,7 @@ extra:
   mobile_shop_name_2: "Play Store"
   mobile_shop_name_3: F-Droid
   mobile_shop_name_4: AppGallery
+  mobile_shop_name_5: Obtainium
   steps:
     items:
       - "Mapas Offline"
