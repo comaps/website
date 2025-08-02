@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"PO-Revision-Date: 2025-07-26 15:53+0000\n"
-"Last-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>\n"
+"PO-Revision-Date: 2025-07-28 07:15+0000\n"
+"Last-Translator: alexgabi <alexgabi@noreply.codeberg.org>\n"
 "Language-Team: Basque <https://translate.codeberg.org/projects/comaps/website/eu/>\n"
 "Language: eu\n"
 "MIME-Version: 1.0\n"
@@ -98,7 +98,7 @@ msgstr "Gorde zure bateria"
 #: content/_index.md
 #, no-wrap
 msgid "People like you helped build the app by adding locations to <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on Codeberg in the open-source community."
-msgstr ""
+msgstr "Zu bezalako pertsonek aplikazioa eraikitzen lagundu dute kokalekuak gehituz <span class=\"text-icon\"><svg viewBox=\"0 0 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span> helbidean, ezaugarriei buruzko feedbacka emanez, eta kode irekiko komunitatean Codeberg-i kodea emanez."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
@@ -446,7 +446,7 @@ msgstr "Deskargatu CoMaps"
 #: content/download/index.md
 #, markdown-text
 msgid "CoMaps is available on Google Play, F-Droid, and as an APK download now! We are still working on publishing on the iOS App Store as well, please stay tuned!"
-msgstr ""
+msgstr "CoMaps eskuragarri dago Google Play-n, F-Droid-en, eta APK deskarga gisa orain! iOS App Storen ere argitaratzeko lanean jarraitzen dugu, adi egon!"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/api/index.md

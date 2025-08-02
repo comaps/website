@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"PO-Revision-Date: 2025-07-26 15:52+0000\n"
-"Last-Translator: mondstern <mondstern@noreply.codeberg.org>\n"
+"PO-Revision-Date: 2025-07-28 07:15+0000\n"
+"Last-Translator: marcosm <marcosm@noreply.codeberg.org>\n"
 "Language-Team: Italian <https://translate.codeberg.org/projects/comaps/website/it/>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
@@ -457,7 +457,7 @@ msgstr "L'API è documentata su [comaps.at/api](https://comaps.at/api)."
 #: translations.yaml
 #, no-wrap
 msgid "All"
-msgstr "Tutto"
+msgstr "Tutti"
 
 #. type: Hash Value: button-download
 #: translations.yaml
@@ -559,7 +559,7 @@ msgstr "Di più"
 #: translations.yaml
 #, no-wrap
 msgid "Releases"
-msgstr "Versioni"
+msgstr "Rilasci"
 
 #. type: Hash Value: search_placeholder
 #: translations.yaml

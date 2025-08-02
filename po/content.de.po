@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"PO-Revision-Date: 2025-07-26 15:52+0000\n"
-"Last-Translator: Kachelkaiser <kachelkaiser@noreply.codeberg.org>\n"
+"PO-Revision-Date: 2025-07-30 12:09+0000\n"
+"Last-Translator: B o d o <timtrek@noreply.codeberg.org>\n"
 "Language-Team: German <https://translate.codeberg.org/projects/comaps/website/de/>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -98,7 +98,7 @@ msgstr "Schone Deinen Akku"
 #: content/_index.md
 #, no-wrap
 msgid "People like you helped build the app by adding locations to <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> in the open-source community."
-msgstr "Menschen wie Du haben geholfen, die App zu entwickeln, indem sie Orte zu <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span> hinzugefügt, Feedback zur Funktionalität gegeben und Code auf <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> in der Open-Source-Community beigetragen haben."
+msgstr "Menschen wie Du haben geholfen, die App zu entwickeln, indem sie Orte zu <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span> hinzugefügt, Feedback zur Funktionalität gegeben und mit Code auf <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> in der Open-Source-Community beigetragen haben."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
@@ -194,7 +194,7 @@ msgstr "**Übersetze** Texte"
 #: content/community/index.md
 #, no-wrap
 msgid "Add info about shops, points of interest, trails, and public transport to OpenStreetMap"
-msgstr "Füge zu OpenStreetMap Informationen zu Geschäften, Sehenswürdigkeiten, Wanderwegen und öffentlichen Verkehrsmitteln hinzu"
+msgstr "Füge OpenStreetMap Informationen über Geschäfte, Sehenswürdigkeiten, Wanderwege und öffentliche Verkehrsmittel hinzu"
 
 #. type: Yaml Front Matter Hash Value: extra features title
 #: content/community/index.md
@@ -308,7 +308,7 @@ msgstr "Wir sind Enthusiasten die in unserer Freizeit beitragen. Wir lieben was 
 #: content/donate/index.md
 #, no-wrap
 msgid "With your support, we are working toward privacy-focused map navigation that is the preferred choice on the market"
-msgstr "Mit Deiner Hilfe arbeiten wir an einer datenschutzorientierten Navigationslöung, die die erste Wahl darstellt"
+msgstr "Mit Deiner Hilfe arbeiten wir an einer datenschutzorientierten Navigationslöung, welche die bevorzugte Wahl am Markt darstellt"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/support/_index.md

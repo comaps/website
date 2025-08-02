@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"PO-Revision-Date: 2025-07-26 15:52+0000\n"
-"Last-Translator: oxisol <oxisol@noreply.codeberg.org>\n"
+"PO-Revision-Date: 2025-08-02 15:50+0000\n"
+"Last-Translator: matheusgomesms <matheusgomesms@noreply.codeberg.org>\n"
 "Language-Team: Portuguese (Brazil) <https://translate.codeberg.org/projects/comaps/website/pt_BR/>\n"
 "Language: pt-BR\n"
 "MIME-Version: 1.0\n"
@@ -80,7 +80,7 @@ msgstr "Sem Coleta de Dados"
 #: content/_index.md
 #, no-wrap
 msgid "Efficiently uses the battery, doesn’t drain your battery like other navigation apps."
-msgstr "Usa a bateria de forma eficiente e não a esgota como outros aplicativos de navegação."
+msgstr "Uso eficiente da bateria, não consome tanta bateria quanto outros aplicativos de navegação."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
@@ -92,7 +92,7 @@ msgstr "Uso eficiente da bateria"
 #: content/_index.md
 #, no-wrap
 msgid "Save Your Battery"
-msgstr "Economize Sua Bateria"
+msgstr "Economiza Sua Bateria"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
@@ -116,7 +116,7 @@ msgstr "Grátis e Construído pela Comunidade"
 #: content/_index.md
 #, no-wrap
 msgid "Hike, Bike, Drive Offline Navigate with Privacy"
-msgstr "Caminhe, Ande de Bicicleta, Dirija Offline e Navegue com Privacidade"
+msgstr "Caminhe, Ande de Bicicleta e Dirija Offline — Navegue com Privacidade"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/news/_index.md
@@ -140,19 +140,19 @@ msgstr "O aplicativo funciona com suas doações, ajude a melhorá-lo"
 #: content/community/index.md content/donate/index.md translations.yaml
 #, no-wrap
 msgid "Donate"
-msgstr "Doe"
+msgstr "Doar"
 
 #. type: Yaml Front Matter Hash Value: extra features description
 #: content/community/index.md
 #, no-wrap
 msgid "Report bugs, discuss idea, and propose features"
-msgstr "Relate erros, discuta ideias e proponha recursos"
+msgstr "Reporte erros, discuta ideias e proponha novos recursos"
 
 #. type: Yaml Front Matter Hash Value: extra features title
 #: content/community/index.md
 #, no-wrap
 msgid "**Report** Bugs"
-msgstr "**Relatar** erros"
+msgstr "**Reportar** Erros"
 
 #. type: Yaml Front Matter Hash Value: extra features description
 #: content/community/index.md
@@ -170,7 +170,7 @@ msgstr "**Desenvolver** Funcionalidade"
 #: content/community/index.md
 #, no-wrap
 msgid "Shape the direction of the product experience"
-msgstr "Molde a direção da experiência do produto"
+msgstr "Defina a direção da experiência do produto"
 
 #. type: Yaml Front Matter Hash Value: extra features title
 #: content/community/index.md
@@ -206,7 +206,7 @@ msgstr "**Adicionar** Informações de Locais"
 #: content/community/index.md
 #, no-wrap
 msgid "Help people use the app, and answer questions"
-msgstr "Ajude as pessoas a usar o aplicativo e responda a perguntas"
+msgstr "Ajude as pessoas a usar o aplicativo e responda a dúvidas"
 
 #. type: Yaml Front Matter Hash Value: extra features title
 #: content/community/index.md
@@ -224,7 +224,7 @@ msgstr "Comunidade"
 #: content/donate/index.md
 #, no-wrap
 msgid "Donate and create better maps together!"
-msgstr "Doe e vamos juntos criar melhores mapas!"
+msgstr "Doe e vamos juntos criar mapas melhores!"
 
 #. type: Yaml Front Matter Hash Value: extra donate info description
 #: content/donate/index.md
@@ -236,7 +236,7 @@ msgstr "Doe para manter o projeto funcionando"
 #: content/donate/index.md
 #, no-wrap
 msgid "Created with love by enthusiast volunteers"
-msgstr "Criado com amor por voluntários entusiasmados"
+msgstr "Criado com amor por voluntários entusiastas"
 
 #. type: Yaml Front Matter Hash Value: extra donate liberapay title
 #: content/donate/index.md
@@ -254,7 +254,7 @@ msgstr "Doe via Open Collective"
 #: content/donate/index.md
 #, no-wrap
 msgid "Currently there is no full time team who is working to develop new features and improve the service. To consistently move the product forward, a core team is needed."
-msgstr "Atualmente, não há uma equipe em tempo integral trabalhando no desenvolvimento de novos recursos e na melhoria do serviço. Para desenvolver o produto de forma consistente, é necessária uma equipe central."
+msgstr "Atualmente, não há uma equipe trabalhando em tempo integral no desenvolvimento de novos recursos e na melhoria do serviço. Para desenvolver o produto de forma consistente, é necessária uma equipe principal."
 
 #. type: Yaml Front Matter Hash Value: extra funding items title
 #: content/donate/index.md
@@ -266,7 +266,7 @@ msgstr "Desenvolvedores"
 #: content/donate/index.md
 #, no-wrap
 msgid "We pay for fast servers, so anyone in the world can download free map data updates without delays. The maps data transfers are hundreds of terabytes monthly, and the amount is growing."
-msgstr "Pagamos por servidores rápidos, para que qualquer pessoa no mundo possa baixar atualizações gratuitas de dados de mapas sem atrasos. As transferências de dados de mapas são de centenas de terabytes por mês, e a quantidade está crescendo."
+msgstr "Pagamos por servidores rápidos, para que qualquer pessoa no mundo possa baixar atualizações gratuitas dos mapas sem atrasos. As transferências de dados de mapas são de centenas de terabytes por mês, e a quantidade está crescendo."
 
 #. type: Yaml Front Matter Hash Value: extra funding items title
 #: content/donate/index.md
@@ -278,7 +278,7 @@ msgstr "Infraestrutura"
 #: content/donate/index.md
 #, no-wrap
 msgid "User support, fixing bugs, and improving the stability of the app are our top priority. The list of requests and bug reports grows every day, and there are many support requests to respond to on the App Store, Google Play, and support emails."
-msgstr "Suporte ao usuário, correção de erros e melhorias na estabilidade do aplicativo são nossas principais prioridades. A lista de pedidos e relatórios de erros cresce a cada dia, e há muitas solicitações de suporte para responder na App Store, no Google Play e em e-mails."
+msgstr "Suporte ao usuário, correção de erros e melhorias na estabilidade do aplicativo são nossas principais prioridades. A lista de pedidos e relatórios de erros cresce a cada dia, e há muitas solicitações de suporte para responder na App Store, no Google Play e por e-mails."
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/donate/index.md content/support/_index.md
@@ -308,7 +308,7 @@ msgstr "Somos alguns entusiastas que contribuem em nosso tempo livre. Amamos o q
 #: content/donate/index.md
 #, no-wrap
 msgid "With your support, we are working toward privacy-focused map navigation that is the preferred choice on the market"
-msgstr "Com o seu apoio, estamos trabalhando para uma navegação de mapa focada na privacidade que seja a escolha preferida no mercado"
+msgstr "Com o seu apoio, estamos trabalhando para navegação focada na privacidade e que seja a escolha preferida do mercado"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/support/_index.md
@@ -326,13 +326,13 @@ msgstr "Navegação livre e aberta com privacidade -<br/>Construído pela comuni
 #: content/about-us/index.md
 #, no-wrap
 msgid "CoMaps is a community-focused privacy navigation app for travelers - drivers, hikers, and cyclists. It uses the crowd-sourced OpenStreetMap data with contributors from all over the globe. It offers navigation with privacy - no identifying people and no data collection. CoMaps features can operate without an active internet connection for offline navigation at urban or distant locations, where cellular service is not available. CoMaps is an open-source project, and prioritizes community development."
-msgstr "O CoMaps é um aplicativo de navegação com foco na comunidade, voltado para viajantes – motoristas, caminhantes e ciclistas. Ele utiliza dados do OpenStreetMap coletados coletivamente com colaboradores de todo o mundo. O app oferece navegação com privacidade – sem identificação de pessoas e sem coleta de dados. Os recursos do CoMaps podem operar sem uma conexão ativa com a internet para navegação offline em locais urbanos ou distantes, onde o serviço de celular não está disponível. O CoMaps é um projeto de código aberto e prioriza o desenvolvimento da comunidade."
+msgstr "O CoMaps é um aplicativo de navegação com foco na comunidade, voltado para viajantes – motoristas, caminhantes e ciclistas. Utiliza dados do OpenStreetMap fornecido por pessoas de todo o mundo. O app oferece navegação com privacidade – sem identificação de pessoas e sem coleta de dados. As funcionalidades do CoMaps podem operar sem uma conexão ativa com a internet para navegação offline em locais urbanos ou rurais, onde o serviço de internet móvel pode não estar disponível. O CoMaps é um projeto de código aberto e prioriza o desenvolvimento pela comunidade."
 
 #. type: Yaml Front Matter Hash Value: extra about title
 #: content/about-us/index.md
 #, no-wrap
 msgid "Free and open navigation with privacy, built by the community"
-msgstr "Navegação livre e aberta com privacidade, construída pela comunidade"
+msgstr "Navegação livre e aberta com privacidade, construído pela comunidade"
 
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md
@@ -386,7 +386,7 @@ msgstr "Missão"
 #: content/about-us/index.md
 #, no-wrap
 msgid "Create a world where navigating with maps is free, and privacy by default is the top choice on the planet."
-msgstr "Crie um mundo onde navegar com mapas seja gratuito e a privacidade seja a principal escolha do planeta."
+msgstr "Criar um mundo onde a navegação com mapas seja gratuito e com a privacidade por padrão como a primeira escolha no mundo."
 
 #. type: Yaml Front Matter Hash Value: extra vm items title
 #: content/about-us/index.md
@@ -404,7 +404,7 @@ msgstr "Sobre Nós"
 #: content/download/index.md
 #, no-wrap
 msgid "Unlock the potential of navigation! Discover offline maps, privacy-centric features, and a community-driven app"
-msgstr "Libere o potencial da navegação! Descubra mapas offline, recursos focados em privacidade e um aplicativo desenvolvido pela comunidade"
+msgstr "Desbloqueie o potencial da navegação! Descubra mapas offline, funcionalidades centradas em privacidade e um aplicativo desenvolvido pela comunidade"
 
 #. type: Yaml Front Matter Array Element: extra steps items
 #: content/download/index.md
@@ -481,7 +481,7 @@ msgstr "CoMaps - Perguntas frequentes"
 #: translations.yaml
 #, no-wrap
 msgid "How can we help?"
-msgstr "Como podemos lhe ajudar?"
+msgstr "Como podemos ajudar?"
 
 #. type: Hash Value: inv_code_text
 #: translations.yaml

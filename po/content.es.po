@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"PO-Revision-Date: 2025-07-26 15:52+0000\n"
-"Last-Translator: hosara <hosara@noreply.codeberg.org>\n"
+"PO-Revision-Date: 2025-08-02 15:50+0000\n"
+"Last-Translator: patepelo <patepelo@noreply.codeberg.org>\n"
 "Language-Team: Spanish <https://translate.codeberg.org/projects/comaps/website/es/>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
@@ -104,7 +104,7 @@ msgstr "Las personas como tú ayudaron a construir la aplicación añadiendo ubi
 #: content/_index.md
 #, no-wrap
 msgid "Free for everyone, Made with love"
-msgstr "Libre para todos, Hecho con amor"
+msgstr "Gratis para todos, hecho con amor"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
@@ -134,7 +134,7 @@ msgstr "CoMaps es creado y mantenido por personas como tú"
 #: content/community/index.md translations.yaml
 #, no-wrap
 msgid "The app runs on your donations, help improve it"
-msgstr "La aplicación funciona con tus donaciones. Ayuda a mejorarla"
+msgstr "La aplicación funciona con tus donaciones, ayuda a mejorarla"
 
 #. type: Hash Value: menu_donate
 #: content/community/index.md content/donate/index.md translations.yaml
@@ -158,7 +158,7 @@ msgstr "**Reporta** Fallos"
 #: content/community/index.md
 #, no-wrap
 msgid "Develop new features, help fix bugs, and review code"
-msgstr "Desarrolla nuevas funcionalidades, ayuda a corregir errores, y revisa el código"
+msgstr "Desarrolla nuevas funcionalidades, ayuda a corregir errores y revisa el código"
 
 #. type: Yaml Front Matter Hash Value: extra features title
 #: content/community/index.md
@@ -230,7 +230,7 @@ msgstr "¡Dona y crea mejores mapas juntos!"
 #: content/donate/index.md
 #, no-wrap
 msgid "Donate to keep the project running"
-msgstr "Dona para mantener el proyecto en marcha"
+msgstr "Dona para mantener el proyecto funcionando"
 
 #. type: Yaml Front Matter Hash Value: extra donate info title
 #: content/donate/index.md
@@ -254,7 +254,7 @@ msgstr "Donar vía Open Collective"
 #: content/donate/index.md
 #, no-wrap
 msgid "Currently there is no full time team who is working to develop new features and improve the service. To consistently move the product forward, a core team is needed."
-msgstr "Actualmente no hay un equipo trabajando a tiempo completo en el desarrollo de nuevas funcionalidades y mejora del servicio. Para una evolución constante del producto, se necesita un equipo \"core\"."
+msgstr "Actualmente no hay un equipo trabajando a tiempo completo en el desarrollo de nuevas funcionalidades y mejora del servicio. Para una evolución constante del producto, se necesitaría un equipo base dedicado."
 
 #. type: Yaml Front Matter Hash Value: extra funding items title
 #: content/donate/index.md
@@ -368,7 +368,7 @@ msgstr "La comunidad y el proyecto sin ánimo de lucro **CoMaps** se fundaron po
 #: content/about-us/index.md
 #, no-wrap
 msgid "History"
-msgstr "Historia"
+msgstr "Historial"
 
 #. type: Yaml Front Matter Hash Value: extra vm items text
 #: content/about-us/index.md
@@ -505,7 +505,7 @@ msgstr "Añade información cerca de ti, y haz que los mapas sean mejores para t
 #: translations.yaml
 #, no-wrap
 msgid "Add Place Info"
-msgstr "Añade información de lugar"
+msgstr "Añade información de lugares"
 
 #. type: Hash Value: inv_title
 #: translations.yaml

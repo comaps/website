@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"PO-Revision-Date: 2025-07-26 15:53+0000\n"
-"Last-Translator: map-per <map-per@noreply.codeberg.org>\n"
+"PO-Revision-Date: 2025-07-27 05:08+0000\n"
+"Last-Translator: 0ko <0ko@noreply.codeberg.org>\n"
 "Language-Team: Russian <https://translate.codeberg.org/projects/comaps/website/ru/>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -116,7 +116,7 @@ msgstr "Бесплатно и создано сообществом"
 #: content/_index.md
 #, no-wrap
 msgid "Hike, Bike, Drive Offline Navigate with Privacy"
-msgstr "Пешие походы, велосипедные прогулки, вождение в автономном режиме. Навигация с конфиденциальностью"
+msgstr "Походы, велопрогулки, вождение. Навигация автономно и с конфиденциальностью"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/news/_index.md
@@ -134,7 +134,7 @@ msgstr "CoMaps создан и поддерживается такими же л
 #: content/community/index.md translations.yaml
 #, no-wrap
 msgid "The app runs on your donations, help improve it"
-msgstr "Приложение работает на ваши пожертвования, помогите улучшить его"
+msgstr "Разработка приложения ведётся на ваши пожертвования, помогите улучшить его"
 
 #. type: Hash Value: menu_donate
 #: content/community/index.md content/donate/index.md translations.yaml
@@ -146,13 +146,13 @@ msgstr "Пожертвовать"
 #: content/community/index.md
 #, no-wrap
 msgid "Report bugs, discuss idea, and propose features"
-msgstr "Сообщите об ошибках, обсудите идеи и предложите функции"
+msgstr "Сообщайте об ошибках, обсуждайте идеи и предлагайте функции"
 
 #. type: Yaml Front Matter Hash Value: extra features title
 #: content/community/index.md
 #, no-wrap
 msgid "**Report** Bugs"
-msgstr "**Сообщите** об ошибках"
+msgstr "**Сообщайте** об ошибках"
 
 #. type: Yaml Front Matter Hash Value: extra features description
 #: content/community/index.md
@@ -176,7 +176,7 @@ msgstr "Формируйте направление опыта использо�
 #: content/community/index.md
 #, no-wrap
 msgid "**Design** Interface"
-msgstr "**Дизайн** Интерфейс"
+msgstr "**Разрабатывайте** интерфейс"
 
 #. type: Yaml Front Matter Hash Value: extra features description
 #: content/community/index.md
@@ -188,7 +188,7 @@ msgstr "Добавьте переводы, чтобы сделать его до
 #: content/community/index.md
 #, no-wrap
 msgid "**Translate** Text"
-msgstr "**Перевод** Текста"
+msgstr "**Переводите** текст"
 
 #. type: Yaml Front Matter Hash Value: extra features description
 #: content/community/index.md
@@ -200,7 +200,7 @@ msgstr "Добавьте информацию о магазинах, интер�
 #: content/community/index.md
 #, no-wrap
 msgid "**Add** Place Info"
-msgstr "**Добавьте** информацию о месте"
+msgstr "**Добавляйте** информацию о местах"
 
 #. type: Yaml Front Matter Hash Value: extra features description
 #: content/community/index.md
@@ -212,7 +212,7 @@ msgstr "Помогите людям использовать приложени�
 #: content/community/index.md
 #, no-wrap
 msgid "**Help** Support"
-msgstr "**Помощь** Поддержка"
+msgstr "**Оказывайте** помощь"
 
 #. type: Hash Value: menu_community
 #: content/community/index.md translations.yaml
@@ -224,13 +224,13 @@ msgstr "Сообщество"
 #: content/donate/index.md
 #, no-wrap
 msgid "Donate and create better maps together!"
-msgstr "Пожертвуйте и создавайте лучшие карты вместе!"
+msgstr "Пожертвуйте, чтобы создать лучшие карты вместе!"
 
 #. type: Yaml Front Matter Hash Value: extra donate info description
 #: content/donate/index.md
 #, no-wrap
 msgid "Donate to keep the project running"
-msgstr "Пожертвуйте, чтобы проект продолжал работать"
+msgstr "Пожертвуйте, чтобы проект мог продолжать развиваться"
 
 #. type: Yaml Front Matter Hash Value: extra donate info title
 #: content/donate/index.md
@@ -493,25 +493,25 @@ msgstr "Создайте приложение, которым пользуютс
 #: translations.yaml
 #, no-wrap
 msgid "Contribute Code"
-msgstr "Внести код"
+msgstr "Предложите код"
 
 #. type: Hash Value: inv_info_text
 #: translations.yaml
 #, no-wrap
 msgid "Add info around you, and make the maps better for everyone"
-msgstr "Добавьте информацию о себе и сделайте карты лучше для всех"
+msgstr "Добавьте информацию вокруг себя и сделайте карты лучше для всех"
 
 #. type: Hash Value: inv_info_title
 #: translations.yaml
 #, no-wrap
 msgid "Add Place Info"
-msgstr "Добавить информацию о месте"
+msgstr "Добавьте информацию о местах"
 
 #. type: Hash Value: inv_title
 #: translations.yaml
 #, no-wrap
 msgid "Get Involved"
-msgstr "Принять участие"
+msgstr "Примите участие"
 
 #. type: Hash Value: language
 #: translations.yaml
