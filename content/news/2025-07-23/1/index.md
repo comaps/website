@@ -7,7 +7,7 @@ taxonomies:
     category: ["Release"]
 ---
 
-Available on: [Google Play](https://play.google.com/store/apps/details?id=app.comaps.google) | [App Store](https://apps.apple.com/app/comaps/id6747180809) | [Codeberg](https://codeberg.org/comaps/comaps/releases/tag/2025.06.30-22-android) | [F-Droid](https://f-droid.org/packages/app.comaps.fdroid/)
+Available on: [Google Play](https://play.google.com/store/apps/details?id=app.comaps.google) | [App Store](https://apps.apple.com/app/comaps/id6747180809) | [Codeberg](https://codeberg.org/comaps/comaps/releases/tag/2025.07.23-4-android) | [F-Droid](https://f-droid.org/packages/app.comaps.fdroid/)
 
 ### Highlights
 ‣ Introducing CoMaps logo!
@@ -24,7 +24,6 @@ Available on: [Google Play](https://play.google.com/store/apps/details?id=app.co
 
 ‣ iOS: a setting to change map light/dark appearance separately from app interface (by @yannikbloscheck)
 
-<br>
 **More changes**
 
 - OpenStreetMap data as of July 13
@@ -45,6 +44,8 @@ Available on: [Google Play](https://play.google.com/store/apps/details?id=app.co
 - reduce initial delay when downloading maps (by @pastk)
 - update translations (thanks to many translators!)
 
+<br/>
+
 **Android**
 
 - update downloader notification icon (by @hb0nd)
@@ -52,11 +53,13 @@ Available on: [Google Play](https://play.google.com/store/apps/details?id=app.co
 - average the displayed speed for devices with frequent location updates (by @gekeleda)
 - fix random Android 14+ crash when starting navigation (by @pastk)
 - several fixes from OM:
-        show "Retry" button instead of "Download All" on map download failure (by @kavikhalique)
-        fix a rare crash (by @DevarshVasani)
-        fix Android 5 file opening error (by @biodranik)
-        fix routing mode bottom pane for small screens (by @strump)
-        fix splash screen overlapped by buttons on Android 15/16 (by @vyom1307)
+    - show "Retry" button instead of "Download All" on map download failure (by @kavikhalique)
+    - fix a rare crash (by @DevarshVasani)
+    - fix Android 5 file opening error (by @biodranik)
+    - fix routing mode bottom pane for small screens (by @strump)
+    - fix splash screen overlapped by buttons on Android 15/16 (by @vyom1307)
+
+<br/>
 
 **iOS (by @yannikbloscheck)**
 
