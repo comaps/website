@@ -1,5 +1,5 @@
 ---
-title: "Preview Release 2025.06.30 release is out!"
+title: "CoMaps Release 2025.06.30 is out!"
 description: 
 date: 2025-06-30T09:00:00-00:00
 slug: "2025.06.30-release-is-out"

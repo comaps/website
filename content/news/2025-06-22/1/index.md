@@ -1,5 +1,5 @@
 ---
-title: "Release 2025.06.22 is out - Rework of the map colors and more..."
+title: "Android Release 2025.06.22 is out - Rework of the map colors and more..."
 description: 
 date: 2025-06-22T09:00:00-00:00
 slug: "Release-2025.06.22-is-out-Rework-of-the-map-colors-and-more"
@@ -9,7 +9,7 @@ taxonomies:
 
 Available on:
 
-[Google Play](https://play.google.com/store/apps/details?id=app.comaps.google) • [App Store](https://apps.apple.com/app/comaps/id6747180809) • [Codeberg](https://codeberg.org/comaps/comaps/releases/tag/2025.06.30-22-android) • [F-Droid](https://f-droid.org/packages/app.comaps.fdroid/)
+[Google Play](https://play.google.com/store/apps/details?id=app.comaps.google) • [Codeberg](https://codeberg.org/comaps/comaps/releases/tag/2025.06.22-5-android) • [F-Droid](https://f-droid.org/packages/app.comaps.fdroid/)
 
 
 A big rework of the map colors - lighter, warmer, friendlier! (by @yannikbloscheck)
