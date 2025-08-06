@@ -4,7 +4,7 @@ description:
 date: 2025-07-10T18:10:00-07:00
 slug: "Why-Global-Travelers-Are-Switching-to-Community-Powered-Maps"
 taxonomies:
-    category: ["Articles"]
+    category: ["Blog"]
 ---
 
 
