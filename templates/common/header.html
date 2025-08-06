@@ -19,13 +19,13 @@
         get_section(path="api/index.md"), #}
         <ul class="header__ul">
             <li class="header__nav header__link">
-                <a href="/news/">{{ trans(key='menu_news', lang=lang) }}</a>
-            </li>
-            <li class="header__nav header__link">
                 <a href="{{ get_url(path="community/", lang=lang) }}">{{ trans(key='menu_community', lang=lang) }}</a>
             </li>
             <li class="header__nav header__link">
                 <a href="{{ get_url(path="donate/", lang=lang) }}">{{ trans(key='menu_donate', lang=lang) }}</a>
+            </li>
+            <li class="header__nav header__link">
+                <a href="/news/">{{ trans(key='menu_news', lang=lang) }}</a>
             </li>
             <li class="header__nav header__link">
                 <a href="/support/">{{ trans(key='menu_help', lang=lang) }}</a>
