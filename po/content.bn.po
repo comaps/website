@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"PO-Revision-Date: 2025-07-26 15:53+0000\n"
-"Last-Translator: projjalm <projjalm@noreply.codeberg.org>\n"
+"PO-Revision-Date: 2025-08-03 23:09+0000\n"
+"Last-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>\n"
 "Language-Team: Bengali <https://translate.codeberg.org/projects/comaps/website/bn/>\n"
 "Language: bn\n"
 "MIME-Version: 1.0\n"
@@ -44,115 +44,115 @@ msgstr "সম্প্রদায় + উন্মুক্ত ম্যা�
 #: content/_index.md
 #, no-wrap
 msgid "Plan and navigate your trip abroad without the need for mobile data, and search waypoints while on a distant hike."
-msgstr ""
+msgstr "আপনার বিদেশী ভ্রমণ পরিকল্পনা করুন এবং নেভিগেট করুন মোবাইল ডেটার প্রয়োজন ছাড়াই, এবং দূরবর্তী হাইকিং করার সময় ওয়ে পয়েন্টগুলি সন্ধান করুন।"
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
 #, no-wrap
 msgid "No internet needed"
-msgstr ""
+msgstr "ইন্টারনেটের প্রয়োজন নেই"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
 #, no-wrap
 msgid "Offline Search and Route"
-msgstr ""
+msgstr "অফলাইন অনুসন্ধান এবং রুট"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
 #, no-wrap
 msgid "The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information."
-msgstr ""
+msgstr "অ্যাপটি গোপনীয়তা মাথায় রেখে ডিজাইন করা হয়েছে - এটি মানুষের পরিচয় নির্ধারণ করে না, আপনাকে ট্র্যাক করে না এবং কোনো তথ্য সংগ্রহ করে না।"
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
 #, no-wrap
 msgid "Privacy by default"
-msgstr ""
+msgstr "ডিফল্টভাবে গোপনীয়তা"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
 #, no-wrap
 msgid "No Data Collection"
-msgstr ""
+msgstr "কোনো তথ্য সংগ্রহ করে না"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
 #, no-wrap
 msgid "Efficiently uses the battery, doesn’t drain your battery like other navigation apps."
-msgstr ""
+msgstr "কার্যকরভাবে ব্যাটারি ব্যবহার করে, অন্যান্য নেভিগেশন অ্যাপের মতো আপনার ব্যাটারি খরচ করে না।"
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
 #, no-wrap
 msgid "Efficient battery use"
-msgstr ""
+msgstr "কার্যকর ব্যাটারি ব্যবহার"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
 #, no-wrap
 msgid "Save Your Battery"
-msgstr ""
+msgstr "আপনার ব্যাটারি বাঁচান"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
 #, no-wrap
 msgid "People like you helped build the app by adding locations to <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on Codeberg in the open-source community."
-msgstr ""
+msgstr "আপনার মতো মানুষরা অ্যাপটি তৈরিতে সাহায্য করেছেন স্থান যোগ করে <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span> এ, বৈশিষ্ট্যগুলোর উপর প্রতিক্রিয়া দিয়ে এবং ওপেন-সোর্স কমিউনিটিতে কোডবার্গে কোড অবদান রেখে।"
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
 #, no-wrap
 msgid "Free for everyone, Made with love"
-msgstr ""
+msgstr "সবার জন্য বিনামূল্যে, ভালোবাসা দিয়ে তৈরি"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
 #, no-wrap
 msgid "Free and Built by the Community"
-msgstr ""
+msgstr "বিনামূল্যে এবং সম্প্রদায় দ্বারা নির্মিত"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/_index.md
 #, no-wrap
 msgid "Hike, Bike, Drive Offline Navigate with Privacy"
-msgstr ""
+msgstr "হাইকিং, বাইকিং, ড্রাইভিং অফলাইনে গোপনীয়তার সাথে নেভিগেট করুন"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/news/_index.md
 #, no-wrap
 msgid "News and Releases"
-msgstr ""
+msgstr "সংবাদ এবং প্রকাশনা"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/community/index.md
 #, no-wrap
 msgid "CoMaps is created and maintained by people like you"
-msgstr ""
+msgstr "CoMaps আপনার মতো মানুষদের দ্বারা তৈরি এবং রক্ষণাবেক্ষণ করা হয়"
 
 #. type: Hash Value: donate-description
 #: content/community/index.md translations.yaml
 #, no-wrap
 msgid "The app runs on your donations, help improve it"
-msgstr ""
+msgstr "অ্যাপটি আপনার অনুদানের উপর চলে, এটি উন্নত করতে সাহায্য করুন"
 
 #. type: Hash Value: menu_donate
 #: content/community/index.md content/donate/index.md translations.yaml
 #, no-wrap
 msgid "Donate"
-msgstr ""
+msgstr "অনুদান"
 
 #. type: Yaml Front Matter Hash Value: extra features description
 #: content/community/index.md
 #, no-wrap
 msgid "Report bugs, discuss idea, and propose features"
-msgstr ""
+msgstr "বাগ রিপোর্ট করুন, ধারণা নিয়ে আলোচনা করুন এবং বৈশিষ্ট্যগুলি প্রস্তাব করুন"
 
 #. type: Yaml Front Matter Hash Value: extra features title
 #: content/community/index.md
 #, no-wrap
 msgid "**Report** Bugs"
-msgstr ""
+msgstr "**বাগ রিপোর্ট করুন**"
 
 #. type: Yaml Front Matter Hash Value: extra features description
 #: content/community/index.md

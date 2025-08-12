@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"PO-Revision-Date: 2025-07-30 12:09+0000\n"
-"Last-Translator: B o d o <timtrek@noreply.codeberg.org>\n"
+"PO-Revision-Date: 2025-08-08 17:09+0000\n"
+"Last-Translator: tr4jan <tr4jan@noreply.codeberg.org>\n"
 "Language-Team: German <https://translate.codeberg.org/projects/comaps/website/de/>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -68,7 +68,7 @@ msgstr "Die App ist mit Blick auf Datenschutz konzipiert – sie identifiziert k
 #: content/_index.md
 #, no-wrap
 msgid "Privacy by default"
-msgstr "Schützt Deine Privatsphäre"
+msgstr "Schützt deine Privatsphäre"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md

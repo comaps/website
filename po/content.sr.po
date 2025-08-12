@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"PO-Revision-Date: 2025-07-28 07:15+0000\n"
+"PO-Revision-Date: 2025-08-04 21:10+0000\n"
 "Last-Translator: ZeljkoBG <zeljkobg@noreply.codeberg.org>\n"
 "Language-Team: Serbian <https://translate.codeberg.org/projects/comaps/website/sr/>\n"
 "Language: sr\n"
@@ -98,7 +98,7 @@ msgstr "Штеди батерију"
 #: content/_index.md
 #, no-wrap
 msgid "People like you helped build the app by adding locations to <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on Codeberg in the open-source community."
-msgstr ""
+msgstr "Људи као што су вам помогли да садрже апликацију додавањем локација на <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, давање повратних информација о функцијама и коду доприноса на Codeberg заједници отвореног кода."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
@@ -110,31 +110,31 @@ msgstr "Слободна за све, направљена с љубављу"
 #: content/_index.md
 #, no-wrap
 msgid "Free and Built by the Community"
-msgstr ""
+msgstr "Бесплатно и изграђено од стране заједнице"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/_index.md
 #, no-wrap
 msgid "Hike, Bike, Drive Offline Navigate with Privacy"
-msgstr ""
+msgstr "Путовање пешице, бициклом, вожње у режиму ван мреже, поштујући приватност"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/news/_index.md
 #, no-wrap
 msgid "News and Releases"
-msgstr ""
+msgstr "Вести и издања"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/community/index.md
 #, no-wrap
 msgid "CoMaps is created and maintained by people like you"
-msgstr ""
+msgstr "CoMaps стварају и одржавају људи попут вас"
 
 #. type: Hash Value: donate-description
 #: content/community/index.md translations.yaml
 #, no-wrap
 msgid "The app runs on your donations, help improve it"
-msgstr ""
+msgstr "Апликација ради на вашим донацијама, помозите да се побољша"
 
 #. type: Hash Value: menu_donate
 #: content/community/index.md content/donate/index.md translations.yaml
@@ -146,73 +146,73 @@ msgstr "Донација"
 #: content/community/index.md
 #, no-wrap
 msgid "Report bugs, discuss idea, and propose features"
-msgstr ""
+msgstr "Пријавите грешке, разговарајте о идеји и предложе функције"
 
 #. type: Yaml Front Matter Hash Value: extra features title
 #: content/community/index.md
 #, no-wrap
 msgid "**Report** Bugs"
-msgstr ""
+msgstr "** Извештај ** Грешке"
 
 #. type: Yaml Front Matter Hash Value: extra features description
 #: content/community/index.md
 #, no-wrap
 msgid "Develop new features, help fix bugs, and review code"
-msgstr ""
+msgstr "Развијте нове функције, помозите у поправљању грешака и прегледајте код"
 
 #. type: Yaml Front Matter Hash Value: extra features title
 #: content/community/index.md
 #, no-wrap
 msgid "**Develop** Functionality"
-msgstr ""
+msgstr "**Развој** Функционалности"
 
 #. type: Yaml Front Matter Hash Value: extra features description
 #: content/community/index.md
 #, no-wrap
 msgid "Shape the direction of the product experience"
-msgstr ""
+msgstr "Утичите на смер развоја производа"
 
 #. type: Yaml Front Matter Hash Value: extra features title
 #: content/community/index.md
 #, no-wrap
 msgid "**Design** Interface"
-msgstr ""
+msgstr "** Дизајн ** интерфејс"
 
 #. type: Yaml Front Matter Hash Value: extra features description
 #: content/community/index.md
 #, no-wrap
 msgid "Add translations to make it accessible for more people around the world"
-msgstr ""
+msgstr "Додајте преводе да бисте то учинили доступним за више људи широм света"
 
 #. type: Yaml Front Matter Hash Value: extra features title
 #: content/community/index.md
 #, no-wrap
 msgid "**Translate** Text"
-msgstr ""
+msgstr "**Преведите** Текст"
 
 #. type: Yaml Front Matter Hash Value: extra features description
 #: content/community/index.md
 #, no-wrap
 msgid "Add info about shops, points of interest, trails, and public transport to OpenStreetMap"
-msgstr ""
+msgstr "Додајте информације о продавницама, занимљивим местима, путевима и јавним превозом у OpenStreetMap"
 
 #. type: Yaml Front Matter Hash Value: extra features title
 #: content/community/index.md
 #, no-wrap
 msgid "**Add** Place Info"
-msgstr ""
+msgstr "** Додај ** Информације о местима"
 
 #. type: Yaml Front Matter Hash Value: extra features description
 #: content/community/index.md
 #, no-wrap
 msgid "Help people use the app, and answer questions"
-msgstr ""
+msgstr "Помозите људима да користе апликацију и одговорите на питања"
 
 #. type: Yaml Front Matter Hash Value: extra features title
 #: content/community/index.md
 #, no-wrap
 msgid "**Help** Support"
-msgstr ""
+msgstr "**Помоћ ** Подршка"
 
 #. type: Hash Value: menu_community
 #: content/community/index.md translations.yaml
@@ -224,25 +224,25 @@ msgstr "Заједница"
 #: content/donate/index.md
 #, no-wrap
 msgid "Donate and create better maps together!"
-msgstr ""
+msgstr "Донирајте и створите боље мапе заједно!"
 
 #. type: Yaml Front Matter Hash Value: extra donate info description
 #: content/donate/index.md
 #, no-wrap
 msgid "Donate to keep the project running"
-msgstr ""
+msgstr "Донирајте да би пројекат радио"
 
 #. type: Yaml Front Matter Hash Value: extra donate info title
 #: content/donate/index.md
 #, no-wrap
 msgid "Created with love by enthusiast volunteers"
-msgstr ""
+msgstr "Креиран с љубављу од стране ентузијаста волонтера"
 
 #. type: Yaml Front Matter Hash Value: extra donate liberapay title
 #: content/donate/index.md
 #, no-wrap
 msgid "Donate via Liberapay"
-msgstr ""
+msgstr "Донирајте путем Liberapay"
 
 #. type: Yaml Front Matter Hash Value: extra donate open_collective title
 #: content/donate/index.md
@@ -584,4 +584,4 @@ msgstr "Претражи"
 #: translations.yaml
 #, no-wrap
 msgid "Connect with Us"
-msgstr ""
+msgstr "Контактирајте нас"

@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"PO-Revision-Date: 2025-08-02 15:50+0000\n"
+"PO-Revision-Date: 2025-08-10 16:49+0000\n"
 "Last-Translator: patepelo <patepelo@noreply.codeberg.org>\n"
 "Language-Team: Spanish <https://translate.codeberg.org/projects/comaps/website/es/>\n"
 "Language: es\n"
@@ -422,7 +422,7 @@ msgstr "Centrado en privacidad"
 #: content/download/index.md
 #, no-wrap
 msgid "No data collection"
-msgstr "Sin recolección de datos"
+msgstr "Sin recopilación de datos"
 
 #. type: Yaml Front Matter Array Element: extra steps items
 #: content/download/index.md

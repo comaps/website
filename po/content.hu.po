@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"PO-Revision-Date: 2025-07-26 15:52+0000\n"
-"Last-Translator: medveonmaga <medveonmaga@noreply.codeberg.org>\n"
+"PO-Revision-Date: 2025-08-12 21:09+0000\n"
+"Last-Translator: sziatomi <sziatomi@noreply.codeberg.org>\n"
 "Language-Team: Hungarian <https://translate.codeberg.org/projects/comaps/website/hu/>\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
@@ -20,13 +20,13 @@ msgstr ""
 #: content/_index.md
 #, no-wrap
 msgid "Discover more of your journey -<br/>Powered by the community"
-msgstr "Fedezz fel többet az utazásodról -<br/>A közösség erejével"
+msgstr "Fedezz fel többet az utazásod során -<br/>A közösség erejével"
 
 #. type: Yaml Front Matter Hash Value: extra freedom description
 #: content/_index.md
 #, no-wrap
 msgid "Discover your journey, navigate the world with privacy and community at the forefront."
-msgstr "Fedezd fel az utadat, navigálj a világban úgy, hogy az adatvédelem és a közösség kerül előtérbe."
+msgstr "Fedezd fel az utadat, navigálj a világban úgy, hogy a magánélet és a közösség kerüljön előtérbe."
 
 #. type: Yaml Front Matter Hash Value: extra freedom title
 #: content/_index.md
@@ -38,7 +38,7 @@ msgstr "Itt a szabadság"
 #: content/_index.md
 #, no-wrap
 msgid "Community + Open Maps"
-msgstr ""
+msgstr "Közösségi + Nyílt hozzáférésű térképek"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
@@ -50,7 +50,7 @@ msgstr "Tervezd meg és navigáld külföldi utadat mobiladat igénybevétele n�
 #: content/_index.md
 #, no-wrap
 msgid "No internet needed"
-msgstr "Internet kapcsolathoz nincs szükség"
+msgstr "Nincs szükség internetre"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
@@ -62,7 +62,7 @@ msgstr "Internet nélküli keresés és útvonal tervezés"
 #: content/_index.md
 #, no-wrap
 msgid "The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information."
-msgstr "Az alkalmazás az adatvédelem szem előtt tartásával készült - nem azonosítja az embereket, nem követ téged, és nem gyűjt semmilyen információt."
+msgstr "Az alkalmazás az adatvédelem szem előtt tartásával készült. - Nem azonosítja az embereket, nem követ téged, és nem gyűjt semmilyen információt."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
@@ -80,7 +80,7 @@ msgstr "Nincs adatgyűjtés"
 #: content/_index.md
 #, no-wrap
 msgid "Efficiently uses the battery, doesn’t drain your battery like other navigation apps."
-msgstr "Hatékonyan használja az akkumulátort, nem meríti az akkumulátort, mint más navigációs alkalmazások."
+msgstr "Hatékonyan használja, és nem meríti le az akkumulátort, mint más navigációs alkalmazások."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
@@ -98,420 +98,420 @@ msgstr "Takarékoskodj az akkumulátoroddal"
 #: content/_index.md
 #, no-wrap
 msgid "People like you helped build the app by adding locations to <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> in the open-source community."
-msgstr ""
+msgstr "A hozzád hasonló emberek segítettek az alkalmazás felépítésében, a térképészeti helyek hozzáadásával az <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span> oldalon, nyílt forráskódú közösségben kóddal járultak hozzá, és visszajelzést adtak a funkciókról a <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> oldalon."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
 #, no-wrap
 msgid "Free for everyone, Made with love"
-msgstr ""
+msgstr "Szeretettel készült, és mindenki számára ingyenes"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
 #, no-wrap
 msgid "Free and Built by the Community"
-msgstr ""
+msgstr "Ingyenes és a közösség által épített"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/_index.md
 #, no-wrap
 msgid "Hike, Bike, Drive Offline Navigate with Privacy"
-msgstr ""
+msgstr "Túrázás, kerékpározás, vezetés, internetkapcsolat nélküli navigálás adatvédelemmel"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/news/_index.md
 #, no-wrap
 msgid "News and Releases"
-msgstr ""
+msgstr "Hírek és kiadások"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/community/index.md
 #, no-wrap
 msgid "CoMaps is created and maintained by people like you"
-msgstr ""
+msgstr "A CoMaps alkalmazást hozzád hasonló emberek hozták létre, és tartják karban"
 
 #. type: Hash Value: donate-description
 #: content/community/index.md translations.yaml
 #, no-wrap
 msgid "The app runs on your donations, help improve it"
-msgstr ""
+msgstr "Az alkalmazás adományokból működik, segíts javítani ezen"
 
 #. type: Hash Value: menu_donate
 #: content/community/index.md content/donate/index.md translations.yaml
 #, no-wrap
 msgid "Donate"
-msgstr ""
+msgstr "Adományozás"
 
 #. type: Yaml Front Matter Hash Value: extra features description
 #: content/community/index.md
 #, no-wrap
 msgid "Report bugs, discuss idea, and propose features"
-msgstr ""
+msgstr "Hibák jelentése, ötletek megvitatása, és funkciók javaslata"
 
 #. type: Yaml Front Matter Hash Value: extra features title
 #: content/community/index.md
 #, no-wrap
 msgid "**Report** Bugs"
-msgstr ""
+msgstr "**Hibajelentés**"
 
 #. type: Yaml Front Matter Hash Value: extra features description
 #: content/community/index.md
 #, no-wrap
 msgid "Develop new features, help fix bugs, and review code"
-msgstr ""
+msgstr "Új funkciók fejlesztése, a hibák javításában való közreműködés, és a kód felülvizsgálata"
 
 #. type: Yaml Front Matter Hash Value: extra features title
 #: content/community/index.md
 #, no-wrap
 msgid "**Develop** Functionality"
-msgstr ""
+msgstr "**Funkcionalitás fejlesztése**"
 
 #. type: Yaml Front Matter Hash Value: extra features description
 #: content/community/index.md
 #, no-wrap
 msgid "Shape the direction of the product experience"
-msgstr ""
+msgstr "Alakítsd és javítsd az alkalmazás felhasználói élményét"
 
 #. type: Yaml Front Matter Hash Value: extra features title
 #: content/community/index.md
 #, no-wrap
 msgid "**Design** Interface"
-msgstr ""
+msgstr "**Felülettervezés**"
 
 #. type: Yaml Front Matter Hash Value: extra features description
 #: content/community/index.md
 #, no-wrap
 msgid "Add translations to make it accessible for more people around the world"
-msgstr ""
+msgstr "Fordítások hozzáadása, hogy minél több ember számára elérhető legyen a világ minden tájáról"
 
 #. type: Yaml Front Matter Hash Value: extra features title
 #: content/community/index.md
 #, no-wrap
 msgid "**Translate** Text"
-msgstr ""
+msgstr "**Szövegfordítás**"
 
 #. type: Yaml Front Matter Hash Value: extra features description
 #: content/community/index.md
 #, no-wrap
 msgid "Add info about shops, points of interest, trails, and public transport to OpenStreetMap"
-msgstr ""
+msgstr "Információ hozzáadása az OpenStreetMap térképhez üzletekről, látnivalókról, ösvényekről és a tömegközlekedésről"
 
 #. type: Yaml Front Matter Hash Value: extra features title
 #: content/community/index.md
 #, no-wrap
 msgid "**Add** Place Info"
-msgstr ""
+msgstr "**Helyinformációk hozzáadása**"
 
 #. type: Yaml Front Matter Hash Value: extra features description
 #: content/community/index.md
 #, no-wrap
 msgid "Help people use the app, and answer questions"
-msgstr ""
+msgstr "Segíts az embereknek az alkalmazás használatában, és válaszolj a kérdéseikre"
 
 #. type: Yaml Front Matter Hash Value: extra features title
 #: content/community/index.md
 #, no-wrap
 msgid "**Help** Support"
-msgstr ""
+msgstr "**Segítség és támogatás**"
 
 #. type: Hash Value: menu_community
 #: content/community/index.md translations.yaml
 #, no-wrap
 msgid "Community"
-msgstr ""
+msgstr "A közösség"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/donate/index.md
 #, no-wrap
 msgid "Donate and create better maps together!"
-msgstr ""
+msgstr "Adományozz, és hozzunk létre együtt jobb térképeket!"
 
 #. type: Yaml Front Matter Hash Value: extra donate info description
 #: content/donate/index.md
 #, no-wrap
 msgid "Donate to keep the project running"
-msgstr ""
+msgstr "Adományozz a projekt fenntartására"
 
 #. type: Yaml Front Matter Hash Value: extra donate info title
 #: content/donate/index.md
 #, no-wrap
 msgid "Created with love by enthusiast volunteers"
-msgstr ""
+msgstr "Lelkes önkéntesek által szeretettel létrehozva"
 
 #. type: Yaml Front Matter Hash Value: extra donate liberapay title
 #: content/donate/index.md
 #, no-wrap
 msgid "Donate via Liberapay"
-msgstr ""
+msgstr "Adományozás a Liberapay-en keresztül"
 
 #. type: Yaml Front Matter Hash Value: extra donate open_collective title
 #: content/donate/index.md
 #, no-wrap
 msgid "Donate via Open Collective"
-msgstr ""
+msgstr "Adományozás az Open Collective-n keresztül"
 
 #. type: Yaml Front Matter Hash Value: extra funding items text
 #: content/donate/index.md
 #, no-wrap
 msgid "Currently there is no full time team who is working to develop new features and improve the service. To consistently move the product forward, a core team is needed."
-msgstr ""
+msgstr "Jelenleg nincs teljes munkaidős csapat, amely az új funkciók fejlesztésén és a szolgáltatás javításán dolgozna. Az alkalmazás következetes fejlesztéséhez szükség van egy alapcsapatra."
 
 #. type: Yaml Front Matter Hash Value: extra funding items title
 #: content/donate/index.md
 #, no-wrap
 msgid "Developers"
-msgstr ""
+msgstr "Fejlesztők"
 
 #. type: Yaml Front Matter Hash Value: extra funding items text
 #: content/donate/index.md
 #, no-wrap
 msgid "We pay for fast servers, so anyone in the world can download free map data updates without delays. The maps data transfers are hundreds of terabytes monthly, and the amount is growing."
-msgstr ""
+msgstr "Fizetünk a gyors szerverekért, így a világon bárki késedelem nélkül letöltheti az ingyenes térképadat-frissítéseket. A térképek adatátvitele havonta több száz terabájtot tesz ki, és a mennyisége folyamatosan növekszik."
 
 #. type: Yaml Front Matter Hash Value: extra funding items title
 #: content/donate/index.md
 #, no-wrap
 msgid "Infrastructure"
-msgstr ""
+msgstr "Infrastruktúra"
 
 #. type: Yaml Front Matter Hash Value: extra funding items text
 #: content/donate/index.md
 #, no-wrap
 msgid "User support, fixing bugs, and improving the stability of the app are our top priority. The list of requests and bug reports grows every day, and there are many support requests to respond to on the App Store, Google Play, and support emails."
-msgstr ""
+msgstr "A felhasználói támogatás, a hibák kijavítása és az alkalmazás stabilitásának javítása az elsődleges és legfontosabb számunkra. A kérések és hibajelentések listája napról napra nő, és számos támogatási kérésre kell válaszolnunk az App Store-ban, a Google Play-en és a támogatási e-mailekben."
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/donate/index.md content/support/_index.md
 #, no-wrap
 msgid "Support"
-msgstr ""
+msgstr "Támogatás"
 
 #. type: Yaml Front Matter Hash Value: extra funding title
 #: content/donate/index.md
 #, no-wrap
 msgid "How will funding be used?"
-msgstr ""
+msgstr "Hogyan fogjuk felhasználni a finanszírozást?"
 
 #. type: Yaml Front Matter Hash Value: extra info text
 #: content/donate/index.md
 #, no-wrap
 msgid "We rely on your donations to keep CoMaps open and free"
-msgstr ""
+msgstr "Adományokra támaszkodunk, hogy a CoMaps nyílt és ingyenes legyen"
 
 #. type: Yaml Front Matter Hash Value: extra info text
 #: content/donate/index.md
 #, no-wrap
 msgid "We are a few enthusiasts contributing in our free time. We love what we do, and we love our users"
-msgstr ""
+msgstr "Mi csak néhány lelkes rajongó vagyunk, a szabadidőnkben járulunk hozzá a projekthez, szeretjük amit csinálunk, és szeretjük a felhasználóinkat"
 
 #. type: Yaml Front Matter Hash Value: extra info text
 #: content/donate/index.md
 #, no-wrap
 msgid "With your support, we are working toward privacy-focused map navigation that is the preferred choice on the market"
-msgstr ""
+msgstr "A támogatásoddal azon dolgozunk, hogy ez az adatvédelemre összpontosító navigáció legyen az előnyben részesített választás a piacon"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/support/_index.md
 #, no-wrap
 msgid "Need assistance? Search for answers to common questions. Get the support you need and connect with others in the community for help."
-msgstr ""
+msgstr "Segítségre van szükséged? Keress a gyakran ismételt kérdésekre adott válaszok között. Lépj kapcsolatba másokkal a közösségben segítségért, és szerezd meg a szükséges támogatást."
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/about-us/index.md
 #, no-wrap
 msgid "Free and open navigation with privacy -<br/>Built by the community"
-msgstr ""
+msgstr "Ingyenes és nyílt navigáció adatvédelemmel -<br/>A közösség építette"
 
 #. type: Yaml Front Matter Hash Value: extra about text
 #: content/about-us/index.md
 #, no-wrap
 msgid "CoMaps is a community-focused privacy navigation app for travelers - drivers, hikers, and cyclists. It uses the crowd-sourced OpenStreetMap data with contributors from all over the globe. It offers navigation with privacy - no identifying people and no data collection. CoMaps features can operate without an active internet connection for offline navigation at urban or distant locations, where cellular service is not available. CoMaps is an open-source project, and prioritizes community development."
-msgstr ""
+msgstr "A CoMaps egy közösségközpontú, a magánélet védelmére összpontosító navigációs alkalmazás utazók - autósok, túrázók és kerékpárosok - számára. Az OpenStreetMap önkéntesei által összegyűjtött adatokat használja, a világ minden tájáról származó közreműködőkkel. A magánélet védelmével kínál navigációt, nincs személyazonosítás, és nincs adatgyűjtés. A CoMaps funkciói aktív internetkapcsolat nélkül is működnek, így alkalmas offline navigációra olyan városi vagy távoli helyeken, ahol nem áll rendelkezésre mobilszolgáltatás. A CoMaps nyílt forráskódú projekt, és a közösségi fejlesztést helyezi előtérbe."
 
 #. type: Yaml Front Matter Hash Value: extra about title
 #: content/about-us/index.md
 #, no-wrap
 msgid "Free and open navigation with privacy, built by the community"
-msgstr ""
+msgstr "Ingyenes és nyílt navigáció adatvédelemmel, a közösség által építve"
 
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md
 #, no-wrap
 msgid "MapsWithMe navigation app created (later renamed to Maps.me)."
-msgstr ""
+msgstr "Létrejött a MapsWithMe navigációs alkalmazás (később Maps.me lett a neve)."
 
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md
 #, no-wrap
 msgid "Maps.me opened the source code under Apache 2.0 license."
-msgstr ""
+msgstr "A Maps.me a forráskódot Apache 2.0 licenc alatt nyitotta meg."
 
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md
 #, no-wrap
 msgid "The Organic Maps project & company were founded, based on the Maps.Me source code."
-msgstr ""
+msgstr "A Maps.Me forráskódjára alapozva megalakult az Organic Maps projekt és vállalat."
 
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md
 #, no-wrap
 msgid "Governance issues and community concerns not addressed by company shareholders stalled the development of Organic Maps for months."
-msgstr ""
+msgstr "A vállalat részvényesei által nem kezelt irányítási kérdések és közösségi aggályok hónapokig hátráltatták az Organic Maps fejlesztését."
 
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md
 #, no-wrap
 msgid "The **CoMaps** community & non-profit project was founded by former Organic Maps contributors, based on the Organic Maps source code."
-msgstr ""
+msgstr "A **CoMaps** közösségi és non-profit projektet az Organic Maps korábbi munkatársai alapították, az Organic Maps forráskódjára alapozva."
 
 #. type: Yaml Front Matter Hash Value: extra history title
 #: content/about-us/index.md
 #, no-wrap
 msgid "History"
-msgstr ""
+msgstr "Az előzmények"
 
 #. type: Yaml Front Matter Hash Value: extra vm items text
 #: content/about-us/index.md
 #, no-wrap
 msgid "Unlock the freedom to easily navigate offline, with privacy-focused maps for drivers, hikers, and cyclists, powered by the community."
-msgstr ""
+msgstr "Az internetkapcsolat nélküli könnyed navigálás szabadságának megnyitása adatvédelemre összpontosító térképekkel, amely autósok, túrázók és kerékpárosok számára készült, és közösség működteti."
 
 #. type: Yaml Front Matter Hash Value: extra vm items title
 #: content/about-us/index.md
 #, no-wrap
 msgid "Mission"
-msgstr ""
+msgstr "Küldetés"
 
 #. type: Yaml Front Matter Hash Value: extra vm items text
 #: content/about-us/index.md
 #, no-wrap
 msgid "Create a world where navigating with maps is free, and privacy by default is the top choice on the planet."
-msgstr ""
+msgstr "Egy olyan világ létrehozása, ahol a térképekkel való navigálás ingyenes, és a magánélet az alapértelmezés szerinti legjobb választás a bolygón."
 
 #. type: Yaml Front Matter Hash Value: extra vm items title
 #: content/about-us/index.md
 #, no-wrap
 msgid "Vision"
-msgstr ""
+msgstr "Látomás"
 
 #. type: Hash Value: menu_about_us
 #: content/about-us/index.md translations.yaml
 #, no-wrap
 msgid "About Us"
-msgstr ""
+msgstr "Rólunk"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/download/index.md
 #, no-wrap
 msgid "Unlock the potential of navigation! Discover offline maps, privacy-centric features, and a community-driven app"
-msgstr ""
+msgstr "Nyiss a navigációban rejlő lehetőségekre! Fedezd fel az offline térképeket, az adatvédelem-központú funkciókat és a közösségvezérelt alkalmazást"
 
 #. type: Yaml Front Matter Array Element: extra steps items
 #: content/download/index.md
 #, no-wrap
 msgid "Offline Maps"
-msgstr ""
+msgstr "Offline térképek"
 
 #. type: Yaml Front Matter Array Element: extra steps items
 #: content/download/index.md
 #, no-wrap
 msgid "Privacy-Centric"
-msgstr ""
+msgstr "Adatvédelem-központú"
 
 #. type: Yaml Front Matter Array Element: extra steps items
 #: content/download/index.md
 #, no-wrap
 msgid "No data collection"
-msgstr ""
+msgstr "Nem gyűjt adatokat"
 
 #. type: Yaml Front Matter Array Element: extra steps items
 #: content/download/index.md
 #, no-wrap
 msgid "Community-Driven"
-msgstr ""
+msgstr "Közösségvezérelt"
 
 #. type: Yaml Front Matter Hash Value: extra steps title
 #: content/download/index.md
 #, no-wrap
 msgid "Already downloaded?"
-msgstr ""
+msgstr "Letöltötted már?"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/download/index.md
 #, no-wrap
 msgid "Download CoMaps"
-msgstr ""
+msgstr "A CoMaps letöltése"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/api/index.md
 #, no-wrap
 msgid "API Page"
-msgstr ""
+msgstr "API oldal"
 
 #. type: Plain text
 #: content/api/index.md
 msgid "The API is documented on [comaps.at/api](https://comaps.at/api)."
-msgstr ""
+msgstr "Az API dokumentációja a [comaps.at/api](https://comaps.at/api) oldalon található."
 
 #. type: Hash Value: all_title
 #: translations.yaml
 #, no-wrap
 msgid "All"
-msgstr ""
+msgstr "Összes"
 
 #. type: Hash Value: button-download
 #: translations.yaml
 #, no-wrap
 msgid "Download"
-msgstr ""
+msgstr "Letöltés"
 
 #. type: Hash Value: const_lang
 #: translations.yaml
 #, no-wrap
 msgid "Language"
-msgstr ""
+msgstr "Nyelv"
 
 #. type: Hash Value: faq_content
 #: translations.yaml
 #, no-wrap
 msgid "CoMaps - F.A.Q."
-msgstr ""
+msgstr "CoMaps - GY.I.K."
 
 #. type: Hash Value: how_can_help
 #: translations.yaml
 #, no-wrap
 msgid "How can we help?"
-msgstr ""
+msgstr "Miben segíthetünk?"
 
 #. type: Hash Value: inv_code_text
 #: translations.yaml
 #, no-wrap
 msgid "Build the app used by people around the world"
-msgstr ""
+msgstr "Építsd az alkalmazást, amelyet az emberek a világ minden táján használnak"
 
 #. type: Hash Value: inv_code_title
 #: translations.yaml
 #, no-wrap
 msgid "Contribute Code"
-msgstr ""
+msgstr "Hozzájárulás a kódhoz"
 
 #. type: Hash Value: inv_info_text
 #: translations.yaml
 #, no-wrap
 msgid "Add info around you, and make the maps better for everyone"
-msgstr ""
+msgstr "Adj hozzá információt a térképhez a környezetedből, és tedd jobbá a térképeket mindenki számára"
 
 #. type: Hash Value: inv_info_title
 #: translations.yaml
 #, no-wrap
 msgid "Add Place Info"
-msgstr ""
+msgstr "Helyinformációk hozzáadása"
 
 #. type: Hash Value: inv_title
 #: translations.yaml
 #, no-wrap
 msgid "Get Involved"
-msgstr ""
+msgstr "Vegyél részt a munkában"
 
 #. type: Hash Value: language
 #: translations.yaml
@@ -523,58 +523,58 @@ msgstr "Magyar"
 #: translations.yaml
 #, no-wrap
 msgid "API"
-msgstr ""
+msgstr "API"
 
 #. type: Hash Value: menu_help
 #: translations.yaml
 #, no-wrap
 msgid "Help"
-msgstr ""
+msgstr "Segítség"
 
 #. type: Hash Value: menu_home
 #: translations.yaml
 #, no-wrap
 msgid "Home"
-msgstr ""
+msgstr "Főoldal"
 
 #. type: Hash Value: menu_news
 #: translations.yaml
 #, no-wrap
 msgid "News"
-msgstr ""
+msgstr "Hírek"
 
 #. type: Hash Value: menu_source_code
 #: translations.yaml
 #, no-wrap
 msgid "Source Code"
-msgstr ""
+msgstr "Forráskód"
 
 #. type: Hash Value: more_title
 #: translations.yaml
 #, no-wrap
 msgid "More"
-msgstr ""
+msgstr "Bővebben"
 
 #. type: Hash Value: releases_title
 #: translations.yaml
 #, no-wrap
 msgid "Releases"
-msgstr ""
+msgstr "Kiadások"
 
 #. type: Hash Value: search_placeholder
 #: translations.yaml
 #, no-wrap
 msgid "Describe the issue"
-msgstr ""
+msgstr "Írd le a problémát"
 
 #. type: Hash Value: search_placeholder_simple
 #: translations.yaml
 #, no-wrap
 msgid "Search"
-msgstr ""
+msgstr "Keresés"
 
 #. type: Hash Value: social_title
 #: translations.yaml
 #, no-wrap
 msgid "Connect with Us"
-msgstr ""
+msgstr "Csatlakozz hozzánk"
