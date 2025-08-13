@@ -28,9 +28,6 @@
   {% block meta_description %}
   <meta name="description" content="{{ resource.description }}">
   {% endblock %}
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500;600;700&family=Lato:wght@200;300;400;500;600;700&display=swap" rel="stylesheet">
 
   {% block rss %}
   <link rel="alternate" type="application/rss+xml" title="CoMaps" href="{{ get_url(path="rss.xml", trailing_slash=false) }}">
