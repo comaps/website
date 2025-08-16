@@ -166,17 +166,17 @@
         const ua = navigator.userAgent;
 
         if (/android/i.test(ua)) {
-          return "/download/";
+          return "{{ get_url(path="download/", lang=lang) }}";
         } else if (/iPad|iPhone|iPod/.test(ua) && !window.MSStream) {
           return "https://apps.apple.com/app/comaps/id6747180809";
         } else if (/linux/i.test(ua)) {
-          return "/download/";
+          return "{{ get_url(path="download/", lang=lang) }}";
         } else if (/macintosh|mac os x/i.test(ua)) {
-          return "/download/";
+          return "{{ get_url(path="download/", lang=lang) }}";
         } else if (/windows|win32/i.test(ua)) {
-          return "/download/";
+          return "{{ get_url(path="download/", lang=lang) }}";
         } else {
-          return "/download/";
+          return "{{ get_url(path="download/", lang=lang) }}";
         }
       }
       btnDownload.forEach(item => {
