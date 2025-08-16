@@ -17,6 +17,6 @@ Read ["How do I enable logs?" to see how to enable and send those reports](/supp
 If you're not entirely sure if what you observe is a bug, you can [join one of our many community channels and discuss the issue there](https://www.comaps.app/community/). 
 
 Please also keep in mind that the presence or absence of a certain incorrect object on the map may not be a bug in the application, but rather an inaccuracy in the underlying OpenStreetMap data that CoMaps uses. 
-You can [correct such issues yourself on OSM.org](https://www.openstreetmap.org). The changes you made will appear in one of the following CoMaps data updates.
+You can [correct such issues yourself on OSM.org](@/support/something-is-wrong-on-the-map/index.md). The changes you made will appear in one of the following CoMaps data updates.
 
 On iOS, you can also report a crash to the developers by following these instructions:  [https://help.apple.com/xcode/mac/current/#/deve2819c518](https://help.apple.com/xcode/mac/current/#/deve2819c518)
