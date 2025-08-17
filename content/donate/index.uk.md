@@ -1,35 +1,35 @@
 ---
-description: "Donate and create better maps together!"
+description: "Пожертвуйте та створюйте кращі мапи разом!"
 extra:
   donate:
     info:
-      description: "Donate to keep the project running"
-      title: "Created with love by enthusiast volunteers"
+      description: "Зробіть пожертву, щоб проєкт продовжував працювати"
+      title: "Створено з любов'ю волонтерами-ентузіастами"
     liberapay:
-      title: "Donate via Liberapay"
+      title: "Підтримайте через Liberapay"
     open_collective:
-      title: "Donate via Open Collective"
+      title: "Підтримайте через Open Collective"
     title: Пожертвувати
   funding:
     items:
       - media: /images/donate/developers.webp
-        text: "Currently there is no full time team who is working to develop new features and improve the service. To consistently move the product forward, a core team is needed."
-        title: Developers
+        text: "Наразі немає команди, яка б працювала повний робочий день над розробкою нових функцій та покращенням сервісу. Для стабільного розвитку продукту потрібна основна команда."
+        title: Розробники
       - media: /images/donate/infrastructure.webp
-        text: "We pay for fast servers, so anyone in the world can download free map data updates without delays. The maps data transfers are hundreds of terabytes monthly, and the amount is growing."
+        text: "Ми оплачуємо швидкі сервери, аби кожен у світі міг без затримок завантажувати безкоштовні оновлення картографічних даних. Обсяги передачі картографічних даних сягають сотень терабайтів щомісяця і постійно зростають."
         title: Інфраструктура
       - media: /images/donate/support.webp
-        text: "User support, fixing bugs, and improving the stability of the app are our top priority. The list of requests and bug reports grows every day, and there are many support requests to respond to on the App Store, Google Play, and support emails."
+        text: "Підтримка користувачів, виправлення помилок і покращення стабільності додатку є нашим головним пріоритетом. Список запитів та повідомлень про помилки зростає щодня, і ми маємо багато звернень до служби підтримки в App Store, Google Play та на електронну пошту, на які потрібно відповідати."
         title: Підтримка
-    title: "How will funding be used?"
+    title: "Як використовуватиметься фінансування?"
   hero_description: "Donate and create better maps together!"
   info:
     - icon: static/images/icons/donate/icon01.svg
-      text: "We rely on your donations to keep CoMaps open and free"
+      text: "Ми покладаємося на ваші пожертви, щоб CoMaps залишався відкритим та безкоштовним"
     - icon: static/images/icons/donate/icon02.svg
-      text: "We are a few enthusiasts contributing in our free time. We love what we do, and we love our users"
+      text: "Ми — кілька ентузіастів, які роблять свій внесок у вільний час. Ми любимо те, що робимо, і любимо наших користувачів"
     - icon: static/images/icons/donate/icon03.svg
-      text: "With your support, we are working toward privacy-focused map navigation that is the preferred choice on the market"
+      text: "Завдяки вашій підтримці ми працюємо над створенням навігаційного додатку з фокусом на приватність, який стане кращим вибором на ринку"
   service_text:
   service_title: "Created with love by enthusiast volunteers"
 template: new-donate.html

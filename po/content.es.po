@@ -6,7 +6,6 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"PO-Revision-Date: 2025-08-10 16:49+0000\n"
 "Last-Translator: patepelo <patepelo@noreply.codeberg.org>\n"
 "Language-Team: Spanish <https://translate.codeberg.org/projects/comaps/website/es/>\n"
 "Language: es\n"
@@ -42,8 +41,9 @@ msgstr "Comunidad + Mapas Libres"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
-#, no-wrap
-msgid "Plan and navigate your trip abroad without the need for mobile data, and search waypoints while on a distant hike."
+#, fuzzy, no-wrap
+#| msgid "Plan and navigate your trip abroad without the need for mobile data, and search waypoints while on a distant hike."
+msgid "Plan and navigate your trip abroad with just GPS, no need for mobile data. Search waypoints while on distant hiking trails or bike paths."
 msgstr "Planea y realiza tu viaje en el extranjero sin necesidad de datos móviles, y busca puntos de referencia mientras realizas una caminata remota."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
@@ -61,8 +61,8 @@ msgstr "Búsqueda y navegación sin conexión"
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
 #, no-wrap
-msgid "The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information."
-msgstr "La aplicación está diseñada con la privacidad en mente - no identifica personas, no te rastrea, y no recopila ninguna información."
+msgid "The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information. CoMaps was also audited by <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-exodus\"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/)."
+msgstr ""
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
@@ -96,8 +96,9 @@ msgstr "Ahorra tu batería"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
-#, no-wrap
-msgid "People like you helped build the app by adding locations to <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> in the open-source community."
+#, fuzzy, no-wrap
+#| msgid "People like you helped build the app by adding locations to <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> in the open-source community."
+msgid "People like you are helping build the app by adding locations to <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> to create great maps together. The project is a fork of Organic Maps and Maps.Me, and driven by an open-source community."
 msgstr "Las personas como tú ayudaron a construir la aplicación añadiendo ubicaciones en <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, proporcionando comentarios sobre funcionalidades, y contribuyendo con código en <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> en la comunidad de código abierto."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
@@ -578,6 +579,10 @@ msgstr "Buscar"
 #, no-wrap
 msgid "Connect with Us"
 msgstr "Conecta con nosotros"
+
+#, no-wrap
+#~ msgid "The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information."
+#~ msgstr "La aplicación está diseñada con la privacidad en mente - no identifica personas, no te rastrea, y no recopila ninguna información."
 
 #~ msgid "CoMaps is available on Google Play, F-Droid, and as an APK download now! We are still working on publishing on the iOS App Store as well, please stay tuned!"
 #~ msgstr "¡CoMaps está disponible en Google Play, F-Droid, y como una descarga APK! Todavía estamos trabajando en su publicación en la iOS App Store también, ¡así que permanece atento!"

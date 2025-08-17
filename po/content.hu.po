@@ -6,7 +6,6 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"PO-Revision-Date: 2025-08-12 21:09+0000\n"
 "Last-Translator: sziatomi <sziatomi@noreply.codeberg.org>\n"
 "Language-Team: Hungarian <https://translate.codeberg.org/projects/comaps/website/hu/>\n"
 "Language: hu\n"
@@ -42,8 +41,9 @@ msgstr "Közösségi + Nyílt hozzáférésű térképek"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
-#, no-wrap
-msgid "Plan and navigate your trip abroad without the need for mobile data, and search waypoints while on a distant hike."
+#, fuzzy, no-wrap
+#| msgid "Plan and navigate your trip abroad without the need for mobile data, and search waypoints while on a distant hike."
+msgid "Plan and navigate your trip abroad with just GPS, no need for mobile data. Search waypoints while on distant hiking trails or bike paths."
 msgstr "Tervezd meg és navigáld külföldi utadat mobiladat igénybevétele nélkül, és keress tájékozódási pontokat egy messzi túra során."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
@@ -61,8 +61,8 @@ msgstr "Internet nélküli keresés és útvonal tervezés"
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
 #, no-wrap
-msgid "The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information."
-msgstr "Az alkalmazás az adatvédelem szem előtt tartásával készült. - Nem azonosítja az embereket, nem követ téged, és nem gyűjt semmilyen információt."
+msgid "The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information. CoMaps was also audited by <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-exodus\"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/)."
+msgstr ""
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
@@ -96,8 +96,9 @@ msgstr "Takarékoskodj az akkumulátoroddal"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
-#, no-wrap
-msgid "People like you helped build the app by adding locations to <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> in the open-source community."
+#, fuzzy, no-wrap
+#| msgid "People like you helped build the app by adding locations to <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> in the open-source community."
+msgid "People like you are helping build the app by adding locations to <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> to create great maps together. The project is a fork of Organic Maps and Maps.Me, and driven by an open-source community."
 msgstr "A hozzád hasonló emberek segítettek az alkalmazás felépítésében, a térképészeti helyek hozzáadásával az <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span> oldalon, nyílt forráskódú közösségben kóddal járultak hozzá, és visszajelzést adtak a funkciókról a <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> oldalon."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
@@ -578,3 +579,7 @@ msgstr "Keresés"
 #, no-wrap
 msgid "Connect with Us"
 msgstr "Csatlakozz hozzánk"
+
+#, no-wrap
+#~ msgid "The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information."
+#~ msgstr "Az alkalmazás az adatvédelem szem előtt tartásával készült. - Nem azonosítja az embereket, nem követ téged, és nem gyűjt semmilyen információt."

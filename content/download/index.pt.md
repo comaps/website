@@ -13,6 +13,7 @@ extra:
   mobile_shop_name_2: "Play Store"
   mobile_shop_name_3: F-Droid
   mobile_shop_name_4: AppGallery
+  mobile_shop_name_5: Obtainium
   steps:
     items:
       - "Mapas Offline"

@@ -1,37 +1,37 @@
 ---
-description: "CoMaps is created and maintained by people like you"
+description: "A CoMaps alkalmazást hozzád hasonló emberek hozták létre, és tartják karban"
 extra:
   donate:
-    description: "The app runs on your donations, help improve it"
-    title: Donate
+    description: "Az alkalmazás adományokból működik, segíts javítani ezen"
+    title: Adományozás
   features:
-    - description: "Report bugs, discuss idea, and propose features"
+    - description: "Hibák jelentése, ötletek megvitatása, és funkciók javaslata"
       icon: chats.svg
       link: https://codeberg.org/comaps/comaps/issues
-      title: "**Report** Bugs"
-    - description: "Develop new features, help fix bugs, and review code"
+      title: "**Hibajelentés**"
+    - description: "Új funkciók fejlesztése, a hibák javításában való közreműködés, és a kód felülvizsgálata"
       icon: CodeBlock.svg
       link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md
-      title: "**Develop** Functionality"
-    - description: "Shape the direction of the product experience"
+      title: "**Funkcionalitás fejlesztése**"
+    - description: "Alakítsd és javítsd az alkalmazás felhasználói élményét"
       icon: BezierCurve.svg
       link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md
-      title: "**Design** Interface"
-    - description: "Add translations to make it accessible for more people around the world"
+      title: "**Felülettervezés**"
+    - description: "Fordítások hozzáadása, hogy minél több ember számára elérhető legyen a világ minden tájáról"
       icon: Translate.svg
       link: https://codeberg.org/comaps/comaps/src/branch/main/docs/TRANSLATIONS.md
-      title: "**Translate** Text"
-    - description: "Add info about shops, points of interest, trails, and public transport to OpenStreetMap"
+      title: "**Szövegfordítás**"
+    - description: "Információ hozzáadása az OpenStreetMap térképhez üzletekről, látnivalókról, ösvényekről és a tömegközlekedésről"
       icon: MapPinLine.svg
       link: /support/editing-with-CoMaps
-      title: "**Add** Place Info"
-    - description: "Help people use the app, and answer questions"
+      title: "**Helyinformációk hozzáadása**"
+    - description: "Segíts az embereknek az alkalmazás használatában, és válaszolj a kérdéseikre"
       icon: Headset.svg
       link: "#"
-      title: "**Help** Support"
+      title: "**Segítség és támogatás**"
   preview_image: donate/donate.png
   stay_connected_section_title: "connect with us"
 template: community.html
-title: Community
+title: "A közösség"
 weight: 10
 ---

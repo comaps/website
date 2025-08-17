@@ -1,35 +1,35 @@
 ---
-description: "Free and open navigation with privacy -<br/>Built by the community"
+description: "Ingyenes és nyílt navigáció adatvédelemmel -<br/>A közösség építette"
 extra:
   about:
     media: /images/about-us/about.png
-    text: "CoMaps is a community-focused privacy navigation app for travelers - drivers, hikers, and cyclists. It uses the crowd-sourced OpenStreetMap data with contributors from all over the globe. It offers navigation with privacy - no identifying people and no data collection. CoMaps features can operate without an active internet connection for offline navigation at urban or distant locations, where cellular service is not available. CoMaps is an open-source project, and prioritizes community development."
-    title: "Free and open navigation with privacy, built by the community"
+    text: "A CoMaps egy közösségközpontú, a magánélet védelmére összpontosító navigációs alkalmazás utazók - autósok, túrázók és kerékpárosok - számára. Az OpenStreetMap önkéntesei által összegyűjtött adatokat használja, a világ minden tájáról származó közreműködőkkel. A magánélet védelmével kínál navigációt, nincs személyazonosítás, és nincs adatgyűjtés. A CoMaps funkciói aktív internetkapcsolat nélkül is működnek, így alkalmas offline navigációra olyan városi vagy távoli helyeken, ahol nem áll rendelkezésre mobilszolgáltatás. A CoMaps nyílt forráskódú projekt, és a közösségi fejlesztést helyezi előtérbe."
+    title: "Ingyenes és nyílt navigáció adatvédelemmel, a közösség által építve"
   history:
     items:
-      - text: "MapsWithMe navigation app created (later renamed to Maps.me)."
+      - text: "Létrejött a MapsWithMe navigációs alkalmazás (később Maps.me lett a neve)."
         year: 2011
-      - text: "Maps.me opened the source code under Apache 2.0 license."
+      - text: "A Maps.me a forráskódot Apache 2.0 licenc alatt nyitotta meg."
         year: 2015
-      - text: "The Organic Maps project & company were founded, based on the Maps.Me source code."
+      - text: "A Maps.Me forráskódjára alapozva megalakult az Organic Maps projekt és vállalat."
         year: 2021
-      - text: "Governance issues and community concerns not addressed by company shareholders stalled the development of Organic Maps for months."
+      - text: "A vállalat részvényesei által nem kezelt irányítási kérdések és közösségi aggályok hónapokig hátráltatták az Organic Maps fejlesztését."
         year: 2025
       - highlight: true
-        text: "The **CoMaps** community & non-profit project was founded by former Organic Maps contributors, based on the Organic Maps source code."
+        text: "A **CoMaps** közösségi és non-profit projektet az Organic Maps korábbi munkatársai alapították, az Organic Maps forráskódjára alapozva."
         year: 2025
-    title: History
+    title: "Az előzmények"
   vm:
     items:
       - icon: /images/icons/about/mission.svg
         media: /images/about-us/mission.png
-        text: "Unlock the freedom to easily navigate offline, with privacy-focused maps for drivers, hikers, and cyclists, powered by the community."
-        title: Mission
+        text: "Az internetkapcsolat nélküli könnyed navigálás szabadságának megnyitása adatvédelemre összpontosító térképekkel, amely autósok, túrázók és kerékpárosok számára készült, és közösség működteti."
+        title: Küldetés
       - icon: /images/icons/about/vision.svg
         media: /images/about-us/vision.png
-        text: "Create a world where navigating with maps is free, and privacy by default is the top choice on the planet."
-        title: Vision
+        text: "Egy olyan világ létrehozása, ahol a térképekkel való navigálás ingyenes, és a magánélet az alapértelmezés szerinti legjobb választás a bolygón."
+        title: Látomás
 template: about-us.html
-title: "About Us"
+title: Rólunk
 weight: 10
 ---

@@ -1,5 +1,5 @@
 ---
-description: "Need assistance? Search for answers to common questions. Get the support you need and connect with others in the community for help."
+description: "Потребуєте допомоги? Знайдіть відповіді на поширені запитання. Отримайте необхідну підтримку та зв'яжіться з іншими учасниками спільноти для отримання допомоги."
 extra:
   faq_title: FAQs
   hero_buttons:

@@ -3,8 +3,8 @@ description: "Navegação livre e aberta com privacidade -<br/>Construído pela 
 extra:
   about:
     media: /images/about-us/about.png
-    text: "O CoMaps é um aplicativo de navegação com foco na comunidade, voltado para viajantes – motoristas, caminhantes e ciclistas. Ele utiliza dados do OpenStreetMap coletados coletivamente com colaboradores de todo o mundo. O app oferece navegação com privacidade – sem identificação de pessoas e sem coleta de dados. Os recursos do CoMaps podem operar sem uma conexão ativa com a internet para navegação offline em locais urbanos ou distantes, onde o serviço de celular não está disponível. O CoMaps é um projeto de código aberto e prioriza o desenvolvimento da comunidade."
-    title: "Navegação livre e aberta com privacidade, construída pela comunidade"
+    text: "O CoMaps é um aplicativo de navegação com foco na comunidade, voltado para viajantes – motoristas, caminhantes e ciclistas. Utiliza dados do OpenStreetMap fornecido por pessoas de todo o mundo. O app oferece navegação com privacidade – sem identificação de pessoas e sem coleta de dados. As funcionalidades do CoMaps podem operar sem uma conexão ativa com a internet para navegação offline em locais urbanos ou rurais, onde o serviço de internet móvel pode não estar disponível. O CoMaps é um projeto de código aberto e prioriza o desenvolvimento pela comunidade."
+    title: "Navegação livre e aberta com privacidade, construído pela comunidade"
   history:
     items:
       - text: "App de navegação MapsWithMe criado (posteriormente renomeado para Maps.me)."
@@ -27,7 +27,7 @@ extra:
         title: Missão
       - icon: /images/icons/about/vision.svg
         media: /images/about-us/vision.png
-        text: "Crie um mundo onde navegar com mapas seja gratuito e a privacidade seja a principal escolha do planeta."
+        text: "Criar um mundo onde a navegação com mapas seja gratuito e com a privacidade por padrão como a primeira escolha no mundo."
         title: Visão
 template: about-us.html
 title: "Sobre Nós"

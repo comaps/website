@@ -10,7 +10,7 @@ extra:
   services:
     items:
       - 
-        description: 無需行動網路即可規劃和導航您的海外旅行，郊外遠足時仍可搜尋航點。
+        description: 'Plan and navigate your trip abroad with just GPS, no need for mobile data. Search waypoints while on distant hiking trails or bike paths.'
         highlight:
           icon: static/images/icons/home/wifi-off.svg
           text: 不用網路
@@ -19,7 +19,7 @@ extra:
           user: /images/sections/map-m-1.webp
         title: 離線搜尋與路線
       - 
-        description: '保護使用者隱私是 CoMaps 的優先考慮⸺本應用無法辨識使用者身分、無法追蹤使用者活動，也無法收集個人資訊。'
+        description: 'The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information. CoMaps was also audited by <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-exodus"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/).'
         highlight:
           icon: static/images/icons/home/shield.svg
           text: 設計由隱私出發
@@ -37,7 +37,7 @@ extra:
           user: /images/sections/map-m-3.webp
         title: 節省電池電力
       - 
-        description: 'People like you helped build the app by adding locations to <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-open-street-map"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on <span class="text-icon"><svg viewbox="0 0 4.233 4.233"> <use href="#icon-codeberg"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> in the open-source community.'
+        description: 'People like you are helping build the app by adding locations to <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-open-street-map"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on <span class="text-icon"><svg viewbox="0 0 4.233 4.233"> <use href="#icon-codeberg"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> to create great maps together. The project is a fork of Organic Maps and Maps.Me, and driven by an open-source community.'
         highlight:
           icon: static/images/icons/home/heart.svg
           text: 大家免費使用，用愛打造而成
