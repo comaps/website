@@ -6,7 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"Last-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>\n"
+"PO-Revision-Date: 2025-08-18 07:32+0000\n"
+"Last-Translator: gimse <gimse@noreply.codeberg.org>\n"
 "Language-Team: Norwegian Bokmål <https://translate.codeberg.org/projects/comaps/website/nb_NO/>\n"
 "Language: nb_NO\n"
 "MIME-Version: 1.0\n"
@@ -19,7 +20,7 @@ msgstr ""
 #: content/_index.md
 #, no-wrap
 msgid "Discover more of your journey -<br/>Powered by the community"
-msgstr ""
+msgstr "Opplev mere på din reise -<br/>Drevet av fellesskapet"
 
 #. type: Yaml Front Matter Hash Value: extra freedom description
 #: content/_index.md
@@ -31,13 +32,13 @@ msgstr ""
 #: content/_index.md
 #, no-wrap
 msgid "Freedom Is Here"
-msgstr ""
+msgstr "Frihet Er Her"
 
 #. type: Yaml Front Matter Hash Value: extra map description
 #: content/_index.md
 #, no-wrap
 msgid "Community + Open Maps"
-msgstr ""
+msgstr "Fellesskap og Åpne Kart"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
@@ -49,7 +50,7 @@ msgstr ""
 #: content/_index.md
 #, no-wrap
 msgid "No internet needed"
-msgstr ""
+msgstr "Internett trengs ikke"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
@@ -61,19 +62,19 @@ msgstr ""
 #: content/_index.md
 #, no-wrap
 msgid "The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information."
-msgstr ""
+msgstr "Appen er laget med personvern i bakhodet - den sporer deg ikke, den holder deg anonym, og larger ikke informasjon om deg."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
 #, no-wrap
 msgid "Privacy by default"
-msgstr ""
+msgstr "Privat i utganspunktet"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
 #, no-wrap
 msgid "No Data Collection"
-msgstr ""
+msgstr "Ingen Datainnsamling"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
@@ -85,7 +86,7 @@ msgstr ""
 #: content/_index.md
 #, no-wrap
 msgid "Efficient battery use"
-msgstr ""
+msgstr "Minimal batteribruk"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md

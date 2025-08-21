@@ -6,7 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"Last-Translator: map-per <map-per@noreply.codeberg.org>\n"
+"PO-Revision-Date: 2025-08-19 08:09+0000\n"
+"Last-Translator: AnanasSux <ananassux@noreply.codeberg.org>\n"
 "Language-Team: Turkish <https://translate.codeberg.org/projects/comaps/website/tr/>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
@@ -62,7 +63,7 @@ msgstr "Çevrimdışı arama ve rota"
 #: content/_index.md
 #, no-wrap
 msgid "The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information. CoMaps was also audited by <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-exodus\"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/)."
-msgstr ""
+msgstr "Uygulama tasarlanırken mahremiyet ön plana alınmıştır. İnsanları tanımlamaz, takip etmez yada herhangi bir veri toplamaz. CoMaps ayrıca <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-exodus\"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/) tarafından denetlenmektedir."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
@@ -522,7 +523,7 @@ msgstr "Türkçe"
 
 #. type: Hash Value: menu_api
 #: translations.yaml
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "API"
 msgstr "API"
 

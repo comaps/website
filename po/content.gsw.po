@@ -6,7 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"Last-Translator: hosara <hosara@noreply.codeberg.org>\n"
+"PO-Revision-Date: 2025-08-18 07:32+0000\n"
+"Last-Translator: Lenny Angst <lenny@familie-angst.ch>\n"
 "Language-Team: Alemannic <https://translate.codeberg.org/projects/comaps/website/gsw/>\n"
 "Language: gsw\n"
 "MIME-Version: 1.0\n"
@@ -41,10 +42,9 @@ msgstr "Community + Offeni Charte"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
-#, fuzzy, no-wrap
-#| msgid "Plan and navigate your trip abroad without the need for mobile data, and search waypoints while on a distant hike."
+#, no-wrap
 msgid "Plan and navigate your trip abroad with just GPS, no need for mobile data. Search waypoints while on distant hiking trails or bike paths."
-msgstr "Plan dini Reis und navigier im Usland ohni mobili Date und find Wegpünkt uf ere abglegne Wanderig."
+msgstr "Plan dini Reis und navigier im Usland nur mit GPS, es sind kei mobili Date notwendig. Suech Wegpünkt uf abglegne Wander- oder Veloweg."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
@@ -62,7 +62,7 @@ msgstr "Offline-Suechi und Routeplanig"
 #: content/_index.md
 #, no-wrap
 msgid "The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information. CoMaps was also audited by <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-exodus\"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/)."
-msgstr ""
+msgstr "Die App isch under Berücksichtigung vom Datenschutz entwicklet worde - sie identifiziert kei Persone, verfolgt dich nöd und sammlet kei Date. CoMaps isch usserdem vo <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-exodus\"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/) überprüeft worde."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
@@ -96,10 +96,9 @@ msgstr "Schon din Akku"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
-#, fuzzy, no-wrap
-#| msgid "People like you helped build the app by adding locations to <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> in the open-source community."
+#, no-wrap
 msgid "People like you are helping build the app by adding locations to <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> to create great maps together. The project is a fork of Organic Maps and Maps.Me, and driven by an open-source community."
-msgstr "Mensche wie du hend ghulfe, die App z entwickle, indem sie Ort zu <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg>[OpenStreetMap](https://openstreetmap.org)</span> hinzuegfüegt, Feedback zur Funktionalität geh und Code uf <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> i de Open-Source-Community biitreit hend."
+msgstr "Mensche wie du helfed bi de Entwicklig vo de App, indem sie Ort zu <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg>[OpenStreetMap](https://openstreetmap.org)</span> hinzuegfüeged, Feedback zur Funktionalität gänd und Code uf <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> biiträged, zum gmeinsam grossartigi Chartene z erstelle. Das Projekt isch en Fork vo Organic Maps und Maps.Me und wird vonere Open-Source-Gmeinschaft voraa bracht."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md

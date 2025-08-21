@@ -6,7 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"Last-Translator: jeanbaptisteC <jeanbaptistec@noreply.codeberg.org>\n"
+"PO-Revision-Date: 2025-08-19 08:09+0000\n"
+"Last-Translator: ldmpub <ldmpub@noreply.codeberg.org>\n"
 "Language-Team: French <https://translate.codeberg.org/projects/comaps/website/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -41,16 +42,15 @@ msgstr "Communauté + Cartes Ouvertes"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
-#, fuzzy, no-wrap
-#| msgid "Plan and navigate your trip abroad without the need for mobile data, and search waypoints while on a distant hike."
+#, no-wrap
 msgid "Plan and navigate your trip abroad with just GPS, no need for mobile data. Search waypoints while on distant hiking trails or bike paths."
-msgstr "Planifiez votre voyage et naviguez à l'étranger sans avoir besoin de données mobiles, et recherchez des chemins lors d'une randonnée lointaine."
+msgstr "Planifiez votre voyage et naviguez à l'étranger sans utiliser vos données mobiles sur des chemins de randonnée ou des itinéraires vélo."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
 #, no-wrap
 msgid "No internet needed"
-msgstr "Pas d'internet requis"
+msgstr "Aucune connexion Internet requise"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
@@ -62,19 +62,19 @@ msgstr "Recherche et itinéraire hors-ligne"
 #: content/_index.md
 #, no-wrap
 msgid "The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information. CoMaps was also audited by <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-exodus\"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/)."
-msgstr ""
+msgstr "L'appli est conçue pour préserver votre vie privée - elle n'identifie pas les utilisateurs, ne vous piste pas et ne collecte aucune information. CoMaps a également été audité par <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-exodus\"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/)."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
 #, no-wrap
 msgid "Privacy by default"
-msgstr "La vie privée par défaut"
+msgstr "Privé par défaut"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
 #, no-wrap
 msgid "No Data Collection"
-msgstr "Pas de collecte de données"
+msgstr "Aucune collecte de données"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
@@ -96,16 +96,15 @@ msgstr "Économisez votre batterie"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
-#, fuzzy, no-wrap
-#| msgid "People like you helped build the app by adding locations to <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> in the open-source community."
+#, no-wrap
 msgid "People like you are helping build the app by adding locations to <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> to create great maps together. The project is a fork of Organic Maps and Maps.Me, and driven by an open-source community."
-msgstr "Des personnes comme vous ont aidé à créer l'application en ajoutant des emplacements à <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, en donnant leur avis sur les fonctionnalités et en contribuant au code sur <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> dans la communauté open source."
+msgstr "Des personnes comme vous aident à créer l'application en ajoutant des lieux à <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, en donnant leur avis sur les fonctionnalités de l’application ou en contribuant au code du projet sur <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> afin de créer de belles cartes ensemble. Le projet est un fork d'Organic Maps et Maps.Me et est géré par une communauté open source."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
 #, no-wrap
 msgid "Free for everyone, Made with love"
-msgstr "Gratuit pour tous, Fait avec amour"
+msgstr "Gratuit pour tous, fait avec amour"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
@@ -117,7 +116,7 @@ msgstr "Gratuit et développé par la communauté"
 #: content/_index.md
 #, no-wrap
 msgid "Hike, Bike, Drive Offline Navigate with Privacy"
-msgstr "Randonnez, pédalez, conduisez hors-ligne Navigation en toute confidentialité"
+msgstr "Randonnez, pédalez, conduisez hors-ligne, naviguez en toute confidentialité"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/news/_index.md
@@ -135,7 +134,7 @@ msgstr "CoMaps est créé et maintenu par des gens comme vous"
 #: content/community/index.md translations.yaml
 #, no-wrap
 msgid "The app runs on your donations, help improve it"
-msgstr "L'application dépend de vos dons, aidez à l'améliorer"
+msgstr "L'application dépend de vos dons, aidez-nous à l'améliorer"
 
 #. type: Hash Value: menu_donate
 #: content/community/index.md content/donate/index.md translations.yaml
@@ -147,7 +146,7 @@ msgstr "Faire un don"
 #: content/community/index.md
 #, no-wrap
 msgid "Report bugs, discuss idea, and propose features"
-msgstr "Signalez des bugs, discutez des idées et proposez des fonctionnalités"
+msgstr "Signalez des bugs, discutez des fonctionnalités et proposez de nouvelles idées"
 
 #. type: Yaml Front Matter Hash Value: extra features title
 #: content/community/index.md

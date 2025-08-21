@@ -6,7 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"Last-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>\n"
+"PO-Revision-Date: 2025-08-18 07:32+0000\n"
+"Last-Translator: and4po <and4po@noreply.codeberg.org>\n"
 "Language-Team: Catalan <https://translate.codeberg.org/projects/comaps/website/ca/>\n"
 "Language: ca\n"
 "MIME-Version: 1.0\n"
@@ -41,10 +42,9 @@ msgstr "Comunitat + Mapes Lliures"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
-#, fuzzy, no-wrap
-#| msgid "Plan and navigate your trip abroad without the need for mobile data, and search waypoints while on a distant hike."
+#, no-wrap
 msgid "Plan and navigate your trip abroad with just GPS, no need for mobile data. Search waypoints while on distant hiking trails or bike paths."
-msgstr "Planifica el teu viatge a l'estranger i navega sense necessitat de dades mòbils, i busca punts de referència durant una caminada remota."
+msgstr "Planifica el teu viatge a l'estranger i navega només amb GPS, sense necessitat de dades mòbils. Cerca punts de referència durant una caminada remota o una ruta en bicicleta."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md

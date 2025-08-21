@@ -6,6 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
+"PO-Revision-Date: 2025-08-20 15:09+0000\n"
 "Last-Translator: sziatomi <sziatomi@noreply.codeberg.org>\n"
 "Language-Team: Hungarian <https://translate.codeberg.org/projects/comaps/website/hu/>\n"
 "Language: hu\n"
@@ -41,10 +42,9 @@ msgstr "Közösségi + Nyílt hozzáférésű térképek"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
-#, fuzzy, no-wrap
-#| msgid "Plan and navigate your trip abroad without the need for mobile data, and search waypoints while on a distant hike."
+#, no-wrap
 msgid "Plan and navigate your trip abroad with just GPS, no need for mobile data. Search waypoints while on distant hiking trails or bike paths."
-msgstr "Tervezd meg és navigáld külföldi utadat mobiladat igénybevétele nélkül, és keress tájékozódási pontokat egy messzi túra során."
+msgstr "Tervezd meg és navigáld külföldi utadat mobiladat igénybevétele nélkül csupán GPS használatával. Keress tájékozódási pontokat távoli túraútvonalakon vagy kerékpárutakon."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
@@ -62,7 +62,7 @@ msgstr "Internet nélküli keresés és útvonal tervezés"
 #: content/_index.md
 #, no-wrap
 msgid "The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information. CoMaps was also audited by <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-exodus\"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/)."
-msgstr ""
+msgstr "Az alkalmazás az adatvédelem szem előtt tartásával készült, nem azonosítja, nem követi az embereket, és nem gyűjt semmilyen információt. A CoMaps alkalmazást átvizsgálta az <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-exodus\"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/)."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
@@ -92,14 +92,13 @@ msgstr "Hatékony akkumulátor használat"
 #: content/_index.md
 #, no-wrap
 msgid "Save Your Battery"
-msgstr "Takarékoskodj az akkumulátoroddal"
+msgstr "Kíméli az akkumulátort"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
-#, fuzzy, no-wrap
-#| msgid "People like you helped build the app by adding locations to <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> in the open-source community."
+#, no-wrap
 msgid "People like you are helping build the app by adding locations to <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> to create great maps together. The project is a fork of Organic Maps and Maps.Me, and driven by an open-source community."
-msgstr "A hozzád hasonló emberek segítettek az alkalmazás felépítésében, a térképészeti helyek hozzáadásával az <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span> oldalon, nyílt forráskódú közösségben kóddal járultak hozzá, és visszajelzést adtak a funkciókról a <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> oldalon."
+msgstr "A hozzád hasonló emberek segítettek az alkalmazás felépítésében, a térképészeti helyek hozzáadásával az <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span> oldalon, kóddal járultak hozzá, és visszajelzést adtak a funkciókról a <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> oldalon. A projekt az Organic Maps és a Maps.Me elágazása, és egy nyílt forráskódú közösség működteti."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
@@ -183,7 +182,7 @@ msgstr "**Felülettervezés**"
 #: content/community/index.md
 #, no-wrap
 msgid "Add translations to make it accessible for more people around the world"
-msgstr "Fordítások hozzáadása, hogy minél több ember számára elérhető legyen a világ minden tájáról"
+msgstr "Fordítások hozzáadása, hogy minél több ember számára legyen elérhető a világ minden táján"
 
 #. type: Yaml Front Matter Hash Value: extra features title
 #: content/community/index.md
@@ -321,7 +320,7 @@ msgstr "Segítségre van szükséged? Keress a gyakran ismételt kérdésekre ad
 #: content/about-us/index.md
 #, no-wrap
 msgid "Free and open navigation with privacy -<br/>Built by the community"
-msgstr "Ingyenes és nyílt navigáció adatvédelemmel -<br/>A közösség építette"
+msgstr "Ingyenes és nyílt navigáció adatvédelemmel -<br/>A közösség által építve"
 
 #. type: Yaml Front Matter Hash Value: extra about text
 #: content/about-us/index.md
