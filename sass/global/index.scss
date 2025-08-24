@@ -58,10 +58,6 @@ a {
   color: var(--black-white);
 }
 
-ul {
-    padding-bottom: 1em;
-}
-
 .hidden {display: none;}
 
 
@@ -138,5 +134,9 @@ img.max-w-40 {max-width: 40%;
     
     a {
         word-break: break-word;
+    }
+
+    ul {
+        padding-bottom: 1em;
     }
 }
