@@ -10,7 +10,7 @@ extra:
   services:
     items:
       - 
-        description: 'Plan and navigate your trip abroad with just GPS, no need for mobile data. Search waypoints while on distant hiking trails or bike paths.'
+        description: 'Planeje e navegue em sua viagem ao exterior apenas com GPS, sem necessidade de dados móveis. Busque pontos de referência enquanto você faz grandes trechos de trilha ou ciclismo.'
         highlight:
           icon: static/images/icons/home/wifi-off.svg
           text: 'Não precisa de internet'
@@ -19,7 +19,7 @@ extra:
           user: /images/sections/map-m-1.webp
         title: 'Busca e Roteamento Offline'
       - 
-        description: 'The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information. CoMaps was also audited by <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-exodus"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/).'
+        description: 'O aplicativo foi projetado com foco na privacidade: não identifica pessoas, não rastreia você e não coleta nenhuma informação. O CoMaps também foi auditado pela <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-exodus"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/).'
         highlight:
           icon: static/images/icons/home/shield.svg
           text: 'Privacidade por padrão'
@@ -37,7 +37,7 @@ extra:
           user: /images/sections/map-m-3.webp
         title: 'Economiza Sua Bateria'
       - 
-        description: 'People like you are helping build the app by adding locations to <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-open-street-map"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on <span class="text-icon"><svg viewbox="0 0 4.233 4.233"> <use href="#icon-codeberg"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> to create great maps together. The project is a fork of Organic Maps and Maps.Me, and driven by an open-source community.'
+        description: 'Pessoas como você estão ajudando a desenvolver o aplicativo adicionando locais ao <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-open-street-map"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, dando feedback sobre os recursos e contribuindo com código no <span class="text-icon"><svg viewbox="0 0 4.233 4.233"> <use href="#icon-codeberg"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> para criarmos incríveis mapas juntos. O projeto é uma ramificação do Organic Maps e do Maps.Me, e é conduzido por uma comunidade de código aberto.'
         highlight:
           icon: static/images/icons/home/heart.svg
           text: 'Grátis para todos, feito com amor'

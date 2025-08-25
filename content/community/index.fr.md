@@ -2,10 +2,10 @@
 description: "CoMaps est créé et maintenu par des gens comme vous"
 extra:
   donate:
-    description: "L'application dépend de vos dons, aidez à l'améliorer"
+    description: "L'application dépend de vos dons, aidez-nous à l'améliorer"
     title: "Faire un don"
   features:
-    - description: "Signalez des bugs, discutez des idées et proposez des fonctionnalités"
+    - description: "Signalez des bugs, discutez des fonctionnalités et proposez de nouvelles idées"
       icon: chats.svg
       link: https://codeberg.org/comaps/comaps/issues
       title: "**Signaler** des bugs"

@@ -19,7 +19,7 @@ extra:
           user: /images/sections/map-m-1.webp
         title: 'Çevrimdışı arama ve rota'
       - 
-        description: 'The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information. CoMaps was also audited by <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-exodus"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/).'
+        description: 'Uygulama tasarlanırken mahremiyet ön plana alınmıştır. İnsanları tanımlamaz, takip etmez yada herhangi bir veri toplamaz. CoMaps ayrıca <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-exodus"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/) tarafından denetlenmektedir.'
         highlight:
           icon: static/images/icons/home/shield.svg
           text: 'Varsayılan olarak gizlilik'

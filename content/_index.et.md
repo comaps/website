@@ -10,7 +10,7 @@ extra:
   services:
     items:
       - 
-        description: 'Plan and navigate your trip abroad with just GPS, no need for mobile data. Search waypoints while on distant hiking trails or bike paths.'
+        description: 'Kavanda oma reisimist välismaal vaid GPS-iga, ilma mobiilset andmesidet kasutamata. Näita teed ja otsi teekonnapunkte liikvel olles, seda kasvõi ratta- ja matkaradadel.'
         highlight:
           icon: static/images/icons/home/wifi-off.svg
           text: 'Internetiühendus pole vajalik'
@@ -19,7 +19,7 @@ extra:
           user: /images/sections/map-m-1.webp
         title: 'Otsing ja teekonna koostamine vallasrežiimis'
       - 
-        description: 'The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information. CoMaps was also audited by <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-exodus"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/).'
+        description: 'See rakendus on loodud privaatsuskesksena - ta ei tuvasta kasutajaid, ei jälgi nende tegevust ega kogu nende kohata andmeid. CoMaps on selles osas ka analüüsitud <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-exodus"></use></svg> [Exoduse](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/) poolt.'
         highlight:
           icon: static/images/icons/home/shield.svg
           text: 'Vaikimisi privaatne'
@@ -37,7 +37,7 @@ extra:
           user: /images/sections/map-m-3.webp
         title: 'Säästa nutiseadme akut'
       - 
-        description: 'People like you are helping build the app by adding locations to <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-open-street-map"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on <span class="text-icon"><svg viewbox="0 0 4.233 4.233"> <use href="#icon-codeberg"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> to create great maps together. The project is a fork of Organic Maps and Maps.Me, and driven by an open-source community.'
+        description: 'Lisades kohti <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-open-street-map"></use></svg> [OpenStreetMappi](https://openstreetmap.org)</span>, jagades tagasisidet ning täiendades rakenduse koodi <span class="text-icon"><svg viewbox="0 0 4.233 4.233"> <use href="#icon-codeberg"></use></svg> [Codebergi](https://codeberg.org/comaps)</span> on kogukonna liikmed, kes tegelikult on tavalised inimesed nagu sinagi, üheskoos kaarti parandanud ja täiendanud. CoMaps on Organic Mapsi ja Maps.Me edasiarendus.'
         highlight:
           icon: static/images/icons/home/heart.svg
           text: 'Tasuta ja vaba kõigi jaoks, tehtud armastusega'

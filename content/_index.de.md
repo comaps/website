@@ -10,7 +10,7 @@ extra:
   services:
     items:
       - 
-        description: 'Plan and navigate your trip abroad with just GPS, no need for mobile data. Search waypoints while on distant hiking trails or bike paths.'
+        description: 'Plane und navigiere deine Reise im Ausland nur mit GPS, es sind keine mobilen Daten notwendig. Suche Wegpunkte auf abgelegenen Wander- oder Radwegen.'
         highlight:
           icon: static/images/icons/home/wifi-off.svg
           text: 'Funktioniert ohne Internetverbindung'
@@ -19,7 +19,7 @@ extra:
           user: /images/sections/map-m-1.webp
         title: 'Offline-Suche und Routenplanung'
       - 
-        description: 'The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information. CoMaps was also audited by <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-exodus"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/).'
+        description: 'Die App wurde unter Berücksichtigung des Datenschutzes entwickelt - sie identifiziert keine Personen, verfolgt dich nicht und sammelt keine Daten. CoMaps wurde außerdem von <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-exodus"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/) überprüft.'
         highlight:
           icon: static/images/icons/home/shield.svg
           text: 'Schützt deine Privatsphäre'
@@ -28,7 +28,7 @@ extra:
           user: /images/sections/map-m-2.webp
         title: 'Keine Datenerhebung'
       - 
-        description: 'Effiziente Akkunutzung – verbraucht weniger Akku als andere Navigationsapps.'
+        description: 'Effiziente Akkunutzung – verbraucht weniger Energie als andere Navigationsapps.'
         highlight:
           icon: static/images/icons/home/battery.svg
           text: 'Effiziente Akkunutzung'
@@ -37,7 +37,7 @@ extra:
           user: /images/sections/map-m-3.webp
         title: 'Schone Deinen Akku'
       - 
-        description: 'People like you are helping build the app by adding locations to <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-open-street-map"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on <span class="text-icon"><svg viewbox="0 0 4.233 4.233"> <use href="#icon-codeberg"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> to create great maps together. The project is a fork of Organic Maps and Maps.Me, and driven by an open-source community.'
+        description: 'Menschen wie Du helfen bei der Entwicklung der App, indem sie Orte zu <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-open-street-map"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span> hinzufügen, Feedback zu Funktionen geben und mit Code auf <span class="text-icon"><svg viewbox="0 0 4.233 4.233"> <use href="#icon-codeberg"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> beitragen, um gemeinsam großartige Karten zu erstellen. Das Projekt ist ein Fork von Oranic Maps und Maps.Me und wird von einer Open-Source-Gemeinschaft voran gebracht.'
         highlight:
           icon: static/images/icons/home/heart.svg
           text: 'Kostenlos für alle, mit Liebe gemacht'

@@ -10,23 +10,23 @@ extra:
   services:
     items:
       - 
-        description: 'Plan and navigate your trip abroad with just GPS, no need for mobile data. Search waypoints while on distant hiking trails or bike paths.'
+        description: "Planifiez votre voyage et naviguez à l'étranger sans utiliser vos données mobiles sur des chemins de randonnée ou des itinéraires vélo."
         highlight:
           icon: static/images/icons/home/wifi-off.svg
-          text: "Pas d'internet requis"
+          text: 'Aucune connexion Internet requise'
         media:
           map: /images/sections/map-s-1.webp
           user: /images/sections/map-m-1.webp
         title: 'Recherche et itinéraire hors-ligne'
       - 
-        description: 'The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information. CoMaps was also audited by <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-exodus"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/).'
+        description: "L'appli est conçue pour préserver votre vie privée - elle n'identifie pas les utilisateurs, ne vous piste pas et ne collecte aucune information. CoMaps a également été audité par <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-exodus\"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/)."
         highlight:
           icon: static/images/icons/home/shield.svg
-          text: 'La vie privée par défaut'
+          text: 'Privé par défaut'
         media:
           map: /images/sections/map-s-2.webp
           user: /images/sections/map-m-2.webp
-        title: 'Pas de collecte de données'
+        title: 'Aucune collecte de données'
       - 
         description: "Utilise efficacement la batterie, ne la vide pas comme d'autres applications de navigation."
         highlight:
@@ -37,15 +37,15 @@ extra:
           user: /images/sections/map-m-3.webp
         title: 'Économisez votre batterie'
       - 
-        description: 'People like you are helping build the app by adding locations to <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-open-street-map"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on <span class="text-icon"><svg viewbox="0 0 4.233 4.233"> <use href="#icon-codeberg"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> to create great maps together. The project is a fork of Organic Maps and Maps.Me, and driven by an open-source community.'
+        description: "Des personnes comme vous aident à créer l'application en ajoutant des lieux à <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, en donnant leur avis sur les fonctionnalités de l’application ou en contribuant au code du projet sur <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> afin de créer de belles cartes ensemble. Le projet est un fork d'Organic Maps et Maps.Me et est géré par une communauté open source."
         highlight:
           icon: static/images/icons/home/heart.svg
-          text: 'Gratuit pour tous, Fait avec amour'
+          text: 'Gratuit pour tous, fait avec amour'
         media:
           map: /images/sections/map-s-4.webp
           user: /images/sections/map-m-4.webp
         title: 'Gratuit et développé par la communauté'
 sort_by: weight
 template: home.html
-title: 'Randonnez, pédalez, conduisez hors-ligne Navigation en toute confidentialité'
+title: 'Randonnez, pédalez, conduisez hors-ligne, naviguez en toute confidentialité'
 ---

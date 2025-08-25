@@ -1,5 +1,5 @@
 ---
-description: "Ingyenes és nyílt navigáció adatvédelemmel -<br/>A közösség építette"
+description: "Ingyenes és nyílt navigáció adatvédelemmel -<br/>A közösség által építve"
 extra:
   about:
     media: /images/about-us/about.png

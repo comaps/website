@@ -1,43 +1,43 @@
 ---
-description: 'Scopri di più mentre il tuo viaggio -<br/>Fatto dalla comunità'
+description: 'Scopri di più sul tuo viaggio -<br/>Realizzato dalla community'
 extra:
   freedom:
-    description: 'Scopri il tuo viaggio, naviga nel mondo con la privacy e la comunità al primo piano.'
+    description: 'Scopri il tuo viaggio, naviga nel mondo con la privacy e la community al primo piano.'
     title: 'La libertà è qui'
   map:
-    description: 'Comunità + Mappe aperte'
+    description: 'Community + Mappe aperte'
     title:
   services:
     items:
       - 
-        description: 'Plan and navigate your trip abroad with just GPS, no need for mobile data. Search waypoints while on distant hiking trails or bike paths.'
+        description: "Pianifica e viaggia all'estero esclusivamente col GPS, senza dati mobili. Cerca dei punti di passaggio su sentieri remoti e lontani."
         highlight:
           icon: static/images/icons/home/wifi-off.svg
           text: 'Non è necessario internet'
         media:
           map: /images/sections/map-s-1.webp
           user: /images/sections/map-m-1.webp
-        title: 'Ricerca e itinerario offline'
+        title: 'Ricerche e itinerari offline'
       - 
-        description: 'The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information. CoMaps was also audited by <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-exodus"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/).'
+        description: "L'app è stata creata con il concetto di privacy al primo posto - non identifica le persone, non ti traccia, e non raccoglie alcuna informazione. CoMaps è stato pure controllato da <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-exodus\"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/)."
         highlight:
           icon: static/images/icons/home/shield.svg
-          text: 'Privacy preimpostata'
+          text: 'Privacy al primo posto'
         media:
           map: /images/sections/map-s-2.webp
           user: /images/sections/map-m-2.webp
         title: 'Nessuna raccolta dati'
       - 
-        description: 'Utilizza la batteria in modo efficiente e non la svuota come altre app di navigazione.'
+        description: 'Utilizza la batteria in modo efficiente e non la spreca come altre app di navigazione.'
         highlight:
           icon: static/images/icons/home/battery.svg
-          text: 'Uso batteria efficace'
+          text: 'Uso della batteria efficiente'
         media:
           map: /images/sections/map-s-3.webp
           user: /images/sections/map-m-3.webp
         title: 'Risparmia la tua batteria'
       - 
-        description: 'People like you are helping build the app by adding locations to <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-open-street-map"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on <span class="text-icon"><svg viewbox="0 0 4.233 4.233"> <use href="#icon-codeberg"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> to create great maps together. The project is a fork of Organic Maps and Maps.Me, and driven by an open-source community.'
+        description: "Persone come stanno contribuendo a costruire l'applicazione aggiungendo località a <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, fornendo feedback sulle funzionalità e contribuendo al codice su <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> creando le migliori mappe insieme. Questo progetto è un fork di Organic Maps e Maps.Me ed è guidato dalla community open-source."
         highlight:
           icon: static/images/icons/home/heart.svg
           text: 'Gratuita per tutti, Fatta con amore'

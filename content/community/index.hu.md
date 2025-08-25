@@ -17,7 +17,7 @@ extra:
       icon: BezierCurve.svg
       link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md
       title: "**Felülettervezés**"
-    - description: "Fordítások hozzáadása, hogy minél több ember számára elérhető legyen a világ minden tájáról"
+    - description: "Fordítások hozzáadása, hogy minél több ember számára legyen elérhető a világ minden táján"
       icon: Translate.svg
       link: https://codeberg.org/comaps/comaps/src/branch/main/docs/TRANSLATIONS.md
       title: "**Szövegfordítás**"

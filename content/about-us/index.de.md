@@ -11,7 +11,7 @@ extra:
         year: 2011
       - text: "Maps.me öffnet den Quellcode unter der Lizenz Apache 2.0."
         year: 2015
-      - text: "Das Projekt Organic Maps und die Firma wurden gegründet, basierend auf dem Quellcode von Maps.Me."
+      - text: "Das Projekt und Unternehmen Organic Maps wurde auf der Grundlage des Maps.Me Quellcodes gegründet."
         year: 2021
       - text: "Probleme in der Unternehmensführung und Sorgen in der Community, die von den Anteilseignern des Unternehmens nicht berücksichtigt wurden, haben die Entwicklung von Organic Maps monatelang verzögert."
         year: 2025

@@ -10,7 +10,7 @@ extra:
   services:
     items:
       - 
-        description: 'Plan and navigate your trip abroad with just GPS, no need for mobile data. Search waypoints while on distant hiking trails or bike paths.'
+        description: "Planifica el teu viatge a l'estranger i navega només amb GPS, sense necessitat de dades mòbils. Cerca punts de referència durant una caminada remota o una ruta en bicicleta."
         highlight:
           icon: static/images/icons/home/wifi-off.svg
           text: 'No necessita internet'
