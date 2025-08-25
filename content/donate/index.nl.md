@@ -32,7 +32,7 @@ extra:
       text: "Met jouw steun werken we aan privacygerichte kaartnavigatie die de beste keuze op de markt is"
   service_text:
   service_title: "Created with love by enthusiast volunteers"
-template: new-donate.html
+template: donate.html
 title: Doneer
 weight: 10
 ---

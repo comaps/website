@@ -32,7 +32,7 @@ extra:
       text: "Com o seu apoio, estamos trabalhando para navegação focada na privacidade e que seja a escolha preferida do mercado"
   service_text:
   service_title: "Created with love by enthusiast volunteers"
-template: new-donate.html
+template: donate.html
 title: Doar
 weight: 10
 ---

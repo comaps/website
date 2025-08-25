@@ -32,7 +32,7 @@ extra:
       text: "Sinu toel me arendame privaatsuskeskset kaardirakendust, mis on esimene eelistus sellel turul"
   service_text:
   service_title: "Created with love by enthusiast volunteers"
-template: new-donate.html
+template: donate.html
 title: Anneta
 weight: 10
 ---

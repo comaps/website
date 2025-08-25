@@ -32,7 +32,7 @@ extra:
       text: "Mit Deiner Hilfe arbeiten wir an einer datenschutzorientierten Navigationslöung, welche die bevorzugte Wahl am Markt darstellt"
   service_text:
   service_title: "Created with love by enthusiast volunteers"
-template: new-donate.html
+template: donate.html
 title: Spenden
 weight: 10
 ---

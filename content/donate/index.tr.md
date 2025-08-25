@@ -32,7 +32,7 @@ extra:
       text: "Desteğinizle, piyasada tercih edilen seçenek olan gizlilik odaklı harita navigasyonuna doğru çalışıyoruz"
   service_text:
   service_title: "Created with love by enthusiast volunteers"
-template: new-donate.html
+template: donate.html
 title: "Bağış yapın"
 weight: 10
 ---

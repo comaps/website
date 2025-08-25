@@ -32,7 +32,7 @@ extra:
       text: "С вашей поддержкой мы работаем над картографической навигацией, ориентированной на конфиденциальность, которая является предпочтительным выбором на рынке"
   service_text:
   service_title: "Created with love by enthusiast volunteers"
-template: new-donate.html
+template: donate.html
 title: Пожертвовать
 weight: 10
 ---

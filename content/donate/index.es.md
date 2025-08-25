@@ -32,7 +32,7 @@ extra:
       text: "Con tu soporte, estamos trabajando hacia una navegación de mapas enfocada a la privacidad, que es la opción preferida en el mercado"
   service_text:
   service_title: "Created with love by enthusiast volunteers"
-template: new-donate.html
+template: donate.html
 title: Donar
 weight: 10
 ---

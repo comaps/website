@@ -32,7 +32,7 @@ extra:
       text: "Завдяки вашій підтримці ми працюємо над створенням навігаційного додатку з фокусом на приватність, який стане кращим вибором на ринку"
   service_text:
   service_title: "Created with love by enthusiast volunteers"
-template: new-donate.html
+template: donate.html
 title: Пожертвувати
 weight: 10
 ---

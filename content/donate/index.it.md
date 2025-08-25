@@ -32,7 +32,7 @@ extra:
       text: "Con il vostro sostegno, stiamo lavorando per ottenere una navigazione cartografica privata che sia la scelta preferita sul mercato"
   service_text:
   service_title: "Created with love by enthusiast volunteers"
-template: new-donate.html
+template: donate.html
 title: Dona
 weight: 10
 ---

@@ -32,7 +32,7 @@ extra:
       text: 在您的支持下，我们正在努力开发注重隐私的地图导航，成为市场上的首选
   service_text:
   service_title: "Created with love by enthusiast volunteers"
-template: new-donate.html
+template: donate.html
 title: 捐助我们
 weight: 10
 ---
