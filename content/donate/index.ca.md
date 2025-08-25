@@ -32,7 +32,7 @@ extra:
       text: "Amb el teu suport, treballem cap a una navegació enfocada a la privacitat i que sigui l'opció preferida al mercat"
   service_text:
   service_title: "Created with love by enthusiast volunteers"
-template: new-donate.html
+template: donate.html
 title: Donatius
 weight: 10
 ---

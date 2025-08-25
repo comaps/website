@@ -32,7 +32,7 @@ extra:
       text: "A támogatásoddal azon dolgozunk, hogy ez az adatvédelemre összpontosító navigáció legyen az előnyben részesített választás a piacon"
   service_text:
   service_title: "Created with love by enthusiast volunteers"
-template: new-donate.html
+template: donate.html
 title: Adományozás
 weight: 10
 ---

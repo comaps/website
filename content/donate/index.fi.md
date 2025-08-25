@@ -32,7 +32,7 @@ extra:
       text: "Työskentelemme käyttäjien tuella kehittääksemme yksityisyyteen panostavaan karttanavigoinnin"
   service_text:
   service_title: "Created with love by enthusiast volunteers"
-template: new-donate.html
+template: donate.html
 title: Lahjoita
 weight: 10
 ---

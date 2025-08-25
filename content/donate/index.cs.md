@@ -32,7 +32,7 @@ extra:
       text: "S vaší podporou můžeme pracovat na mapové navigaci zaměřené na soukromí, která bude hlavní volbou na trhu"
   service_text:
   service_title: "Created with love by enthusiast volunteers"
-template: new-donate.html
+template: donate.html
 title: Darovat
 weight: 10
 ---

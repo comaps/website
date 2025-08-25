@@ -1,7 +1,7 @@
 ---
 title: Donate
 description: Donate and create better maps together!
-template: new-donate.html
+template: donate.html
 weight: 10
 extra:
   service_title: Created with love by enthusiast volunteers
