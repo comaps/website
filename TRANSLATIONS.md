@@ -14,7 +14,7 @@ The translation process has three steps:
 
 **.PO to localized Markdown files**. The second function of [po4a][po4a] tool is to incorporate new translations from `.po` files into localized (`.lang.md`) files. Localized Markdown files are always regenerated from the source English file by performing simple replacement of English strings with localized strings from `.po` files. Formatting of the original English source files is always fully preserved and replicated to all other locales as a result of this simple process. All strings without localization in `.po` files are kept untouched in English.
 
-### Prerequiresites
+### Prerequisites
 
 Install [po4a][po4a] tool. Version 0.68 is tested and supported. All other versions are tested.
 
@@ -74,6 +74,26 @@ brew install po4a
 ## Known Limitations
 
 - New web-site pages and languages should be added to `.po4a.cfg` configuration file manually.
+
+## Resolving conflicts
+
+Merge conflicts between the Weblate and the actual repo can happen for many reasons (e.g. if you accidentally force-pushed to the `main` branch). When conflicts happen this will lock the Weblate. **If this happens: Do not panic**, this is recoverable without losing translations, but requires some effort.
+
+Here is a step-by-step guide:
+
+1. Make sure [the translations on Weblate are actually locked](https://translate.codeberg.org/projects/comaps/website/#repository), to make sure that no more changes are done on Weblate while the conflict is being fixed. You will need to have the right Weblate permissions to do this.
+2. Commit all changes from the _Weblate_ internal database to the Weblate-internal Git repository, the steps in the UI are: _Manage → Repository Maintenance → Commit (button)_. This ensures that all existing translations are in the Weblate-internal _Git_ repo. (this also requires the right Weblate permissions)
+3. Now you can add the weblate-internal Git repo as remote for your local repo: `git remote add weblate https://translate.codeberg.org/git/comaps/website/`. This step only needs to be the first time you have to resolve a conflict
+4. Make sure that your local main branch is at the latest remote state, e.g. by running `git checkout main; git pull`
+5. Now you can fetch the current state of the _Weblate_ remote: `git fetch weblate`
+6. To be able to rebase the Codeberg `main` into the Weblate one, you need to have an editable branch. You can create it using `git checkout -b resolve_translate weblate/main`. This creates a branch called `resolve_translate` off the Weblate remote, and also switches you to this newly created branch.
+7. You can now run `git rebase main`, to rebase the branch and resolve any conflicts that are between the two. (**Note: Make sure to run this command from your `resolve_translate` branch**)
+8. Once you have resolved the conflicts, you can push the `resolve_translate` branch to Codeberg: `git push` 
+9. Make a PR for merging your conflict-resolution-branch into `main` on Codeberg, and get it reviewed as usual
+10. Once the PR is merged into `main` on Codeberg and the merge conflict is gone, you can now unlock the translations on Weblate again. 
+11. **Optionally if necessary**: If the conflict hasn't resolved through the steps, you can optionally reset the Weblate from the admin backend for the `website` component, this forces the current state from the Codeberg git repo into Weblate
+
+Using these steps all existing translations can still be kept and rebased into the repo, without losing work. The important bit is that you need to ensure that all translations are in the Weblate-internal git repository before you rebase, so that they get into the _actual_ Codeberg repo. 
 
 [po4a]: https://po4a.org/index.php.en
 [weblate]: https://translate.codeberg.org/projects/comaps/website
