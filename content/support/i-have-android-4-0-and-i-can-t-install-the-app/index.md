@@ -8,4 +8,4 @@ extra:
   order: 60
 ---
 
-The app works with Android versions starting from 5.0 and newer. If you want to use Android Auto, you need at least Android version 8.0. You can find further details on how to use Android Auto [here](@/support/how-to-use-android-auto/index.md).
+The app works with Android versions starting from 5.0 and newer. If you want to use Android Auto, you need at least Android version 9.0. You can find further details on how to use Android Auto [here](@/support/how-to-use-android-auto/index.md).
