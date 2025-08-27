@@ -48,10 +48,10 @@ When you join Zulip, in Watercooler > Signups do an intro with the team:
 
 - Short background, professional and personal
 - Why are you contributing to CoMaps
-- What you think about projects' principles and direction https://codeberg.org/comaps/Governance#core-principles
+- What you think about projects' principles and direction on our [Governance repository](https://codeberg.org/comaps/Governance#core-principles)
 - Contribution so far (link Issue, PR, etc)
 - What you would like to contribute
 
 If you are interested in further contributing, use this link to join the CoMaps org on Zulip chat:
 
-https://comaps.zulipchat.com/join/e5e3c4zurmfxykrtbiiq6qrw/
+[https://comaps.zulipchat.com/join/e5e3c4zurmfxykrtbiiq6qrw/](https://comaps.zulipchat.com/join/e5e3c4zurmfxykrtbiiq6qrw/)
