@@ -25,7 +25,7 @@ jobs:
            apt update -y && apt install -y sshpass openssh-client lftp sudo
 
       - name: Checkout repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         fetch-depth: 0
 
       - name: Setup Zola
