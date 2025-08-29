@@ -5,7 +5,6 @@ template: home.html
 sort_by: weight
 extra:
     map:
-        title: ""
         description: Community + Open Maps
     services:
         items:
