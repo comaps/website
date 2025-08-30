@@ -15,9 +15,9 @@
           <div class="post-min__date">
             <span class="p-sm post-min__date-title">{{ resource.date | date(format='%B %e, %Y') }}</span>
           </div>
-          <div class="post-min__date">
-            <span class="p-sm post-min__date-title">{{ resource.author }}</span>
-          </div>
+          {% if resource.author %}<div class="post-min__date">
+            <span class="p-sm post-min__date-title">{{ resource.author  }}</span>
+          </div>{% endif %}
           <div class="post-min__date">
             <span class="p-sm post-min__date-title">
                 {% for term in page.taxonomies.category %}{{ term }}{% endfor %}
