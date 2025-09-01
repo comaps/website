@@ -2,7 +2,7 @@
 title: "GeekNews: CoMaps - Organic Maps의 커뮤니티 주도 포크"
 description: 
 date: 2025-05-12T09:00:00+09:00
-slug: "GeekNews-CoMaps-Organic-Maps의-커뮤니티-주도-포크"
+slug: "GeekNews-Community-driven-fork-of-CoMaps-Organic-Maps"
 taxonomies:
     category: ["Media Coverage"]
 ---
