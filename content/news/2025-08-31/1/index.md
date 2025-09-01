@@ -13,10 +13,11 @@ taxonomies:
 - Improved dark map style, and added coloured labels
 - Building entrances easier to see on the map (displayed earlier)
 - Enable adding standalone addresses in the Editor
-- In-route, prioritize facing direction of GPS over compass
+- Prioritize facing direction of GPS over compass
+- Added animal shelters, wicket gates, ladder lines and generic non-specified barrier lines
 - OpenStreetMap data as of August 22nd 
-- Updated translations
 - Android: New speed indicator, display track info
+- Android: Display when place's existance and opening hours were last checked
 - iOS: CarPlay is available!
 
 
