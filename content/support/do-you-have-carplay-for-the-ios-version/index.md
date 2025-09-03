@@ -8,4 +8,4 @@ extra:
   order: 20
 ---
 
-As of 2025-07-01 this feature is not yet available, it is currently being reviewed for approval by Apple.
+CarPlay support is available starting with the `2025-08-31` release of CoMaps. If you have an older version, please update to a version that supports CarPlay.
