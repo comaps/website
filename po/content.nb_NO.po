@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"PO-Revision-Date: 2025-08-18 07:32+0000\n"
-"Last-Translator: gimse <gimse@noreply.codeberg.org>\n"
+"PO-Revision-Date: 2025-09-01 07:09+0000\n"
+"Last-Translator: relet <relet@noreply.codeberg.org>\n"
 "Language-Team: Norwegian Bokmål <https://translate.codeberg.org/projects/comaps/website/nb_NO/>\n"
 "Language: nb_NO\n"
 "MIME-Version: 1.0\n"
@@ -26,7 +26,7 @@ msgstr "Opplev mere på din reise -<br/>Drevet av fellesskapet"
 #: content/_index.md
 #, no-wrap
 msgid "Discover your journey, navigate the world with privacy and community at the forefront."
-msgstr ""
+msgstr "Oppdag din rute, naviger verden med personvern og felleskap i fokus."
 
 #. type: Yaml Front Matter Hash Value: extra freedom title
 #: content/_index.md
@@ -44,7 +44,7 @@ msgstr "Fellesskap og Åpne Kart"
 #: content/_index.md
 #, no-wrap
 msgid "Plan and navigate your trip abroad without the need for mobile data, and search waypoints while on a distant hike."
-msgstr ""
+msgstr "Planlegg og naviger i utlandet uten å bruke mobildata, og søk veipunkter på fjernliggende turer."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
@@ -56,7 +56,7 @@ msgstr "Internett trengs ikke"
 #: content/_index.md
 #, no-wrap
 msgid "Offline Search and Route"
-msgstr ""
+msgstr "Offlinesøk og -ruting"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
@@ -80,7 +80,7 @@ msgstr "Ingen Datainnsamling"
 #: content/_index.md
 #, no-wrap
 msgid "Efficiently uses the battery, doesn’t drain your battery like other navigation apps."
-msgstr ""
+msgstr "Skånsom på batteri, tømmer ikke batteriet ditt som andre rutingapper gjør."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
@@ -92,19 +92,19 @@ msgstr "Minimal batteribruk"
 #: content/_index.md
 #, no-wrap
 msgid "Save Your Battery"
-msgstr ""
+msgstr "Skåner ditt batteri"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
 #, no-wrap
 msgid "People like you helped build the app by adding locations to <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on Codeberg in the open-source community."
-msgstr ""
+msgstr "Mennesker som deg hjalp med å bygge denne appen ved å legge til steder i <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg>[OpenStreetMap](https://openstreetmap.org)</span>, ved å gi feedback og ved å bidra med kode på Codeberg i Open Source samfunnet."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
 #, no-wrap
 msgid "Free for everyone, Made with love"
-msgstr ""
+msgstr "Fri for alle, laget med kjærlighet"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
@@ -116,31 +116,31 @@ msgstr ""
 #: content/_index.md
 #, no-wrap
 msgid "Hike, Bike, Drive Offline Navigate with Privacy"
-msgstr ""
+msgstr "Gå tur, sykkel, kjør, naviger offline med personvern"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/news/_index.md
 #, no-wrap
 msgid "News and Releases"
-msgstr ""
+msgstr "Nyheter og Releases"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/community/index.md
 #, no-wrap
 msgid "CoMaps is created and maintained by people like you"
-msgstr ""
+msgstr "CoMaps lages og vedlikeholdes av mennesker som deg"
 
 #. type: Hash Value: donate-description
 #: content/community/index.md translations.yaml
 #, no-wrap
 msgid "The app runs on your donations, help improve it"
-msgstr ""
+msgstr "Appen lever av dine donasjoner, hjelp oss å forbedre den"
 
 #. type: Hash Value: menu_donate
 #: content/community/index.md content/donate/index.md translations.yaml
 #, no-wrap
 msgid "Donate"
-msgstr ""
+msgstr "Donér"
 
 #. type: Yaml Front Matter Hash Value: extra features description
 #: content/community/index.md

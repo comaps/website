@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"PO-Revision-Date: 2025-08-19 08:09+0000\n"
-"Last-Translator: giopera <giopera@noreply.codeberg.org>\n"
+"PO-Revision-Date: 2025-09-01 14:02+0000\n"
+"Last-Translator: Bugg0 <bugg0@noreply.codeberg.org>\n"
 "Language-Team: Italian <https://translate.codeberg.org/projects/comaps/website/it/>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
@@ -50,7 +50,7 @@ msgstr "Pianifica e viaggia all'estero esclusivamente col GPS, senza dati mobili
 #: content/_index.md
 #, no-wrap
 msgid "No internet needed"
-msgstr "Non è necessario internet"
+msgstr "Internet non necessario"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
@@ -62,7 +62,7 @@ msgstr "Ricerche e itinerari offline"
 #: content/_index.md
 #, no-wrap
 msgid "The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information. CoMaps was also audited by <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-exodus\"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/)."
-msgstr "L'app è stata creata con il concetto di privacy al primo posto - non identifica le persone, non ti traccia, e non raccoglie alcuna informazione. CoMaps è stato pure controllato da <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-exodus\"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/)."
+msgstr "L'app è stata creata con il concetto di privacy al primo posto - non identifica le persone, non ti traccia e non raccoglie alcuna informazione. CoMaps è stata anche controllata da <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-exodus\"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/)."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
@@ -98,7 +98,7 @@ msgstr "Risparmia la tua batteria"
 #: content/_index.md
 #, no-wrap
 msgid "People like you are helping build the app by adding locations to <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> to create great maps together. The project is a fork of Organic Maps and Maps.Me, and driven by an open-source community."
-msgstr "Persone come stanno contribuendo a costruire l'applicazione aggiungendo località a <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, fornendo feedback sulle funzionalità e contribuendo al codice su <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> creando le migliori mappe insieme. Questo progetto è un fork di Organic Maps e Maps.Me ed è guidato dalla community open-source."
+msgstr "Persone come te stanno contribuendo a costruire l'applicazione aggiungendo località a <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, fornendo feedback sulle funzionalità e contribuendo al codice su <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> creando le migliori mappe insieme. Questo progetto è un fork di Organic Maps e Maps.Me ed è guidato dalla community open-source."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
@@ -110,7 +110,7 @@ msgstr "Gratuita per tutti, Fatta con amore"
 #: content/_index.md
 #, no-wrap
 msgid "Free and Built by the Community"
-msgstr "Gratuito e fatto dalla comunità"
+msgstr "Gratuito e realizzato dalla comunità"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/_index.md
@@ -134,7 +134,7 @@ msgstr "CoMaps è creato e mantenuto da persone come te"
 #: content/community/index.md translations.yaml
 #, no-wrap
 msgid "The app runs on your donations, help improve it"
-msgstr "L'app dipende dai tuoi doni, contribuisci a migliorarla"
+msgstr "L'app dipende dalle tue donazioni, contribuisci a migliorarla"
 
 #. type: Hash Value: menu_donate
 #: content/community/index.md content/donate/index.md translations.yaml
@@ -146,13 +146,13 @@ msgstr "Dona"
 #: content/community/index.md
 #, no-wrap
 msgid "Report bugs, discuss idea, and propose features"
-msgstr "Segnala dei bug, discuta delle idee e proponi delle funzionalità"
+msgstr "Segnala i bug, discuti idee e proponi funzionalità"
 
 #. type: Yaml Front Matter Hash Value: extra features title
 #: content/community/index.md
 #, no-wrap
 msgid "**Report** Bugs"
-msgstr "**Signala** i bug"
+msgstr "**Segnala** i bug"
 
 #. type: Yaml Front Matter Hash Value: extra features description
 #: content/community/index.md
@@ -170,7 +170,7 @@ msgstr "**Sviluppa** le funzionalità"
 #: content/community/index.md
 #, no-wrap
 msgid "Shape the direction of the product experience"
-msgstr "Definisci la direzione dell'esperienza di prodotto"
+msgstr "Definisci la direzione dell'esperienza del prodotto"
 
 #. type: Yaml Front Matter Hash Value: extra features title
 #: content/community/index.md
@@ -200,13 +200,13 @@ msgstr "Aggiungi informazioni sui negozi, punti di interesse, sentieri e traspor
 #: content/community/index.md
 #, no-wrap
 msgid "**Add** Place Info"
-msgstr "**Aggiungi** delle informazioni sui posti"
+msgstr "**Aggiungi** delle informazioni sui luoghi"
 
 #. type: Yaml Front Matter Hash Value: extra features description
 #: content/community/index.md
 #, no-wrap
 msgid "Help people use the app, and answer questions"
-msgstr "Aiuta la gente a utilizzare l'app e rispondi alle domande"
+msgstr "Aiuta la gente ad utilizzare l'app e rispondi alle domande"
 
 #. type: Yaml Front Matter Hash Value: extra features title
 #: content/community/index.md
@@ -224,13 +224,13 @@ msgstr "Comunità"
 #: content/donate/index.md
 #, no-wrap
 msgid "Donate and create better maps together!"
-msgstr "Dona e creiamo insieme mappe migliori!"
+msgstr "Dona e creiamo mappe migliori insieme!"
 
 #. type: Yaml Front Matter Hash Value: extra donate info description
 #: content/donate/index.md
 #, no-wrap
 msgid "Donate to keep the project running"
-msgstr "Dona per mantenere il progetto"
+msgstr "Dona per mantenere il progetto attivo"
 
 #. type: Yaml Front Matter Hash Value: extra donate info title
 #: content/donate/index.md
@@ -254,7 +254,7 @@ msgstr "Dona con Open Collective"
 #: content/donate/index.md
 #, no-wrap
 msgid "Currently there is no full time team who is working to develop new features and improve the service. To consistently move the product forward, a core team is needed."
-msgstr "Attualmente non c'è una squadra a tempo pieno che lavora per sviluppare nuove funzionalità e migliorare il servizio. Per far progredire costantemente il prodotto, è necessario una squadra di base."
+msgstr "Attualmente non c'è una squadra a tempo pieno che lavora per sviluppare nuove funzionalità e migliorare il servizio. Per far progredire costantemente il progetto, è necessario una squadra di base."
 
 #. type: Yaml Front Matter Hash Value: extra funding items title
 #: content/donate/index.md
@@ -266,7 +266,7 @@ msgstr "Sviluppatori"
 #: content/donate/index.md
 #, no-wrap
 msgid "We pay for fast servers, so anyone in the world can download free map data updates without delays. The maps data transfers are hundreds of terabytes monthly, and the amount is growing."
-msgstr "Paghiamo per dei server veloci, in modo che chiunque nel mondo possa scaricare gratuitamente gli aggiornamenti delle mappe senza ritardi. I trasferimenti di dati delle mappe sono centinaia di terabyte al mese, e la quantità è in continua crescita."
+msgstr "Paghiamo per dei server veloci, in modo che chiunque nel mondo possa scaricare gratuitamente gli aggiornamenti delle mappe senza ritardi. I trasferimenti di dati delle mappe sono centinaia di terabyte al mese e la quantità è in continua crescita."
 
 #. type: Yaml Front Matter Hash Value: extra funding items title
 #: content/donate/index.md
@@ -290,7 +290,7 @@ msgstr "Supporto"
 #: content/donate/index.md
 #, no-wrap
 msgid "How will funding be used?"
-msgstr "Come saranno utilizzati i tuoi doni?"
+msgstr "Come saranno utilizzate le tue donazioni?"
 
 #. type: Yaml Front Matter Hash Value: extra info text
 #: content/donate/index.md
@@ -326,7 +326,7 @@ msgstr "Navigazione libera e aperta con privacy -<br/>Fatta dalla comunità"
 #: content/about-us/index.md
 #, no-wrap
 msgid "CoMaps is a community-focused privacy navigation app for travelers - drivers, hikers, and cyclists. It uses the crowd-sourced OpenStreetMap data with contributors from all over the globe. It offers navigation with privacy - no identifying people and no data collection. CoMaps features can operate without an active internet connection for offline navigation at urban or distant locations, where cellular service is not available. CoMaps is an open-source project, and prioritizes community development."
-msgstr "CoMaps è un'applicazione di navigazione privata incentrata sulla comunità per viaggiatori - automobilisti, escursionisti e ciclisti. Utilizza i dati di OpenStreetMap forniti dalla folla e da collaboratori di tutto il mondo. Offre una navigazione privata: nessuna identificazione di utenti e nessuna raccolta di dati. Le funzioni di CoMaps possono essere utilizzate senza una connessione Internet attiva per la navigazione offline in luoghi urbani o lontani, dove il servizio cellulare non è disponibile. CoMaps è un progetto open-source che privilegia lo sviluppo della comunità."
+msgstr "CoMaps è un'applicazione di navigazione privata incentrata sulla comunità per viaggiatori - automobilisti, escursionisti e ciclisti. Utilizza i dati di OpenStreetMap forniti dalla gente e da collaboratori in tutto il mondo. Offre una navigazione privata: nessuna identificazione degli utenti e nessuna raccolta di dati. Le funzioni di CoMaps possono essere utilizzate senza una connessione Internet attiva per la navigazione offline in luoghi urbani o lontani, dove il servizio cellulare non è disponibile. CoMaps è un progetto open-source che privilegia lo sviluppo della comunità."
 
 #. type: Yaml Front Matter Hash Value: extra about title
 #: content/about-us/index.md
@@ -374,7 +374,7 @@ msgstr "Cronologia"
 #: content/about-us/index.md
 #, no-wrap
 msgid "Unlock the freedom to easily navigate offline, with privacy-focused maps for drivers, hikers, and cyclists, powered by the community."
-msgstr "Liberate la libertà di navigare facilmente offline, con mappe incentrate sulla privacy per automobilisti, escursionisti e ciclisti, alimentate dalla comunità."
+msgstr "Sbloccate la libertà di navigare facilmente offline, con mappe incentrate sulla privacy per automobilisti, escursionisti e ciclisti, alimentate dalla comunità."
 
 #. type: Yaml Front Matter Hash Value: extra vm items title
 #: content/about-us/index.md
@@ -416,7 +416,7 @@ msgstr "Mappe offline"
 #: content/download/index.md
 #, no-wrap
 msgid "Privacy-Centric"
-msgstr "Centrato sulla privacy"
+msgstr "Incentrato sulla privacy"
 
 #. type: Yaml Front Matter Array Element: extra steps items
 #: content/download/index.md

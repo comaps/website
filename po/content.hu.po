@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"PO-Revision-Date: 2025-08-20 15:09+0000\n"
-"Last-Translator: sziatomi <sziatomi@noreply.codeberg.org>\n"
+"PO-Revision-Date: 2025-09-02 16:02+0000\n"
+"Last-Translator: medveonmaga <medveonmaga@noreply.codeberg.org>\n"
 "Language-Team: Hungarian <https://translate.codeberg.org/projects/comaps/website/hu/>\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
@@ -20,7 +20,7 @@ msgstr ""
 #: content/_index.md
 #, no-wrap
 msgid "Discover more of your journey -<br/>Powered by the community"
-msgstr "Fedezz fel többet az utazásod során -<br/>A közösség erejével"
+msgstr "Fedezzen fel többet az utazása során -<br/>A közösség erejével"
 
 #. type: Yaml Front Matter Hash Value: extra freedom description
 #: content/_index.md
@@ -98,7 +98,7 @@ msgstr "Kíméli az akkumulátort"
 #: content/_index.md
 #, no-wrap
 msgid "People like you are helping build the app by adding locations to <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> to create great maps together. The project is a fork of Organic Maps and Maps.Me, and driven by an open-source community."
-msgstr "A hozzád hasonló emberek segítettek az alkalmazás felépítésében, a térképészeti helyek hozzáadásával az <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span> oldalon, kóddal járultak hozzá, és visszajelzést adtak a funkciókról a <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> oldalon. A projekt az Organic Maps és a Maps.Me elágazása, és egy nyílt forráskódú közösség működteti."
+msgstr "A hozzád hasonló emberek segítettek az alkalmazás felépítésében, a térképészeti helyek hozzáadásával az <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span> oldalon, kóddal járultak hozzá, és visszajelzést adtak a funkciókról a <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> oldalon. A projekt az Organic Maps és a Maps.Me elágazása, és nyílt forráskódú közösség működteti."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
@@ -511,7 +511,7 @@ msgstr "Helyinformációk hozzáadása"
 #: translations.yaml
 #, no-wrap
 msgid "Get Involved"
-msgstr "Vegyél részt a munkában"
+msgstr "Kapcsolódj be a projektbe"
 
 #. type: Hash Value: language
 #: translations.yaml

@@ -6,7 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"Last-Translator: hosara <hosara@noreply.codeberg.org>\n"
+"PO-Revision-Date: 2025-08-25 12:09+0000\n"
+"Last-Translator: Frz <frz@noreply.codeberg.org>\n"
 "Language-Team: Chinese (Simplified Han script) <https://translate.codeberg.org/projects/comaps/website/zh_Hans/>\n"
 "Language: zh-Hans\n"
 "MIME-Version: 1.0\n"
@@ -41,10 +42,9 @@ msgstr "社区 + 开放地图"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
-#, fuzzy, no-wrap
-#| msgid "Plan and navigate your trip abroad without the need for mobile data, and search waypoints while on a distant hike."
+#, no-wrap
 msgid "Plan and navigate your trip abroad with just GPS, no need for mobile data. Search waypoints while on distant hiking trails or bike paths."
-msgstr "无需移动网络即可规划和导航您的海外旅行，郊外远足时仍可搜索航点。"
+msgstr "无需移动网络，仅凭GPS即可规划和导航您的海外旅行。郊外远足骑行时仍可搜索航点。"
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
@@ -62,13 +62,13 @@ msgstr "离线搜索与路线"
 #: content/_index.md
 #, no-wrap
 msgid "The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information. CoMaps was also audited by <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-exodus\"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/)."
-msgstr ""
+msgstr "该应用在设计上注重隐私保护——不识别用户身份、不跟踪行踪、也不收集任何信息。CoMaps还通过了<span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-exodus\"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/隐私组织的安全审计。"
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
 #, no-wrap
 msgid "Privacy by default"
-msgstr "隐私默认"
+msgstr "默认尊重隐私"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
@@ -96,10 +96,9 @@ msgstr "节省电池电量"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
-#, fuzzy, no-wrap
-#| msgid "People like you helped build the app by adding locations to <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> in the open-source community."
+#, no-wrap
 msgid "People like you are helping build the app by adding locations to <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> to create great maps together. The project is a fork of Organic Maps and Maps.Me, and driven by an open-source community."
-msgstr "如同您一样的用户通过向 <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span> 添加地点、测试功能并提供反馈、无私地在 <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> 上的开源社区里贡献自己的编程技能，协力开发了 CoMaps。"
+msgstr "如同您一样的用户通过向 <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span> 添加地点、测试功能并提供反馈、无私地通过 <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> 贡献代码，共同打造卓越的地图服务。项目衍生自Organic Maps和Maps.Me，由开源社区共同推动发展。"
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md

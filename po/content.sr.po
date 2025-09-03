@@ -6,7 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"Last-Translator: ZeljkoBG <zeljkobg@noreply.codeberg.org>\n"
+"PO-Revision-Date: 2025-09-02 16:02+0000\n"
+"Last-Translator: dobridabar <dobridabar@noreply.codeberg.org>\n"
 "Language-Team: Serbian <https://translate.codeberg.org/projects/comaps/website/sr/>\n"
 "Language: sr\n"
 "MIME-Version: 1.0\n"
@@ -61,7 +62,7 @@ msgstr "Офлајн претрага и руте"
 #: content/_index.md
 #, no-wrap
 msgid "The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information."
-msgstr "Апликација је развијена са захтевима приватности - не идентификује људе, вас не прати и не прикупља никакве информације."
+msgstr "Апликација је развијена са приватношћу на уму - не идентификује људе, вас не прати и не прикупља никакве информације."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
@@ -139,7 +140,7 @@ msgstr "Апликација ради на вашим донацијама, по
 #: content/community/index.md content/donate/index.md translations.yaml
 #, no-wrap
 msgid "Donate"
-msgstr "Донација"
+msgstr "Донирајте"
 
 #. type: Yaml Front Matter Hash Value: extra features description
 #: content/community/index.md
@@ -223,7 +224,7 @@ msgstr "Заједница"
 #: content/donate/index.md
 #, no-wrap
 msgid "Donate and create better maps together!"
-msgstr "Донирајте и створите боље мапе заједно!"
+msgstr "Донирајмо и направимо боље мапе заједно!"
 
 #. type: Yaml Front Matter Hash Value: extra donate info description
 #: content/donate/index.md
@@ -247,37 +248,37 @@ msgstr "Донирајте путем Liberapay"
 #: content/donate/index.md
 #, no-wrap
 msgid "Donate via Open Collective"
-msgstr ""
+msgstr "Донирајте путем Open Collective-a"
 
 #. type: Yaml Front Matter Hash Value: extra funding items text
 #: content/donate/index.md
 #, no-wrap
 msgid "Currently there is no full time team who is working to develop new features and improve the service. To consistently move the product forward, a core team is needed."
-msgstr ""
+msgstr "Тренутно не постоји тим који ради пуно радно време на развоју нових функционалности и унапређивању сервиса. Да би производ стално напредовао, потребан је посвећен тим."
 
 #. type: Yaml Front Matter Hash Value: extra funding items title
 #: content/donate/index.md
 #, no-wrap
 msgid "Developers"
-msgstr ""
+msgstr "Програмери"
 
 #. type: Yaml Front Matter Hash Value: extra funding items text
 #: content/donate/index.md
 #, no-wrap
 msgid "We pay for fast servers, so anyone in the world can download free map data updates without delays. The maps data transfers are hundreds of terabytes monthly, and the amount is growing."
-msgstr ""
+msgstr "Плаћамо брзе сервере како би свако на свету могао да преузме бесплатна ажурирања мапа без успоравања. Пренос података за мапе износи стотине терабајта месечно и тај број стално расте."
 
 #. type: Yaml Front Matter Hash Value: extra funding items title
 #: content/donate/index.md
 #, no-wrap
 msgid "Infrastructure"
-msgstr ""
+msgstr "Инфраструктура"
 
 #. type: Yaml Front Matter Hash Value: extra funding items text
 #: content/donate/index.md
 #, no-wrap
 msgid "User support, fixing bugs, and improving the stability of the app are our top priority. The list of requests and bug reports grows every day, and there are many support requests to respond to on the App Store, Google Play, and support emails."
-msgstr ""
+msgstr "Корисничка подршка, исправке багова и поправљање стабилности апликације су наш највећи приоритет. Листа захтева и пријава багова расте из дана у дан, а такође је велики број корисничких захтева на које треба одговорити у *App Store*-у, *Google Play*-у и путем електронске поште."
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/donate/index.md content/support/_index.md
@@ -289,13 +290,13 @@ msgstr "Подршка"
 #: content/donate/index.md
 #, no-wrap
 msgid "How will funding be used?"
-msgstr ""
+msgstr "Како се донације користе?"
 
 #. type: Yaml Front Matter Hash Value: extra info text
 #: content/donate/index.md
 #, no-wrap
 msgid "We rely on your donations to keep CoMaps open and free"
-msgstr ""
+msgstr "Ослањамо се на донације да би одржали *CoMaps* отвореним, слободним и бесплатним"
 
 #. type: Yaml Front Matter Hash Value: extra info text
 #: content/donate/index.md
@@ -307,19 +308,19 @@ msgstr ""
 #: content/donate/index.md
 #, no-wrap
 msgid "With your support, we are working toward privacy-focused map navigation that is the preferred choice on the market"
-msgstr ""
+msgstr "Уз вашу помоћ, радимо на апликацији за навигацију која је фокусирана на приватност и која би била природни избор на тржишту"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/support/_index.md
 #, no-wrap
 msgid "Need assistance? Search for answers to common questions. Get the support you need and connect with others in the community for help."
-msgstr ""
+msgstr "Треба вам помоћ? Претражите одговоре на честа питања. Пронађите подршку и повежите се са другим члановима заједнице за помоћ."
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/about-us/index.md
 #, no-wrap
 msgid "Free and open navigation with privacy -<br/>Built by the community"
-msgstr ""
+msgstr "Слободна, отвореа и бесплатна навигација са приватношћу -<br/>Направљена од стране заједнице"
 
 #. type: Yaml Front Matter Hash Value: extra about text
 #: content/about-us/index.md
@@ -331,31 +332,31 @@ msgstr ""
 #: content/about-us/index.md
 #, no-wrap
 msgid "Free and open navigation with privacy, built by the community"
-msgstr ""
+msgstr "Слободна, отоврена и бесплатна навигација, са приватношћу, направљена од стране заједнице"
 
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md
 #, no-wrap
 msgid "MapsWithMe navigation app created (later renamed to Maps.me)."
-msgstr ""
+msgstr "Направљена је MapsWithMe апликација за навигацију (касније је преименована у Maps.me)."
 
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md
 #, no-wrap
 msgid "Maps.me opened the source code under Apache 2.0 license."
-msgstr ""
+msgstr "Maps.me изворни код је објављен под Apache 2.0 лиценцом."
 
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md
 #, no-wrap
 msgid "The Organic Maps project & company were founded, based on the Maps.Me source code."
-msgstr ""
+msgstr "Основани су пројекат и фирма *Organic Maps*, базирани на *Maps.me* изворном коду."
 
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md
 #, no-wrap
 msgid "Governance issues and community concerns not addressed by company shareholders stalled the development of Organic Maps for months."
-msgstr ""
+msgstr "Питања руковођења и бриге заједнице нису адресирани од стране акционара компаније што је зауставило развој *Organic Maps*-a mesecima."
 
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md
