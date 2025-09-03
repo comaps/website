@@ -13,7 +13,7 @@ taxonomies:
 - Improved dark map style, and added coloured labels
 - Building entrances easier to see on the map (displayed earlier)
 - Standalone addresses can be added in the Editor
-- Display when place's existance and opening hours were last checked
+- Display last date checked of place's existence and opening hours
 - Added animal shelters, wicket gates, ladder lines and generic non-specified barrier lines
 - OpenStreetMap data as of August 22nd 
 - Android: New speed indicator, display track info
