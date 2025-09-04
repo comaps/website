@@ -6,7 +6,6 @@ extra:
     title: 'La liberté est ici'
   map:
     description: 'Communauté + Cartes Ouvertes'
-    title:
   services:
     items:
       - 

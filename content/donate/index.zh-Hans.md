@@ -30,7 +30,7 @@ extra:
       text: 我们是一小群爱好者，利用闲暇之余做贡献，并为此项目花费家财。我们热爱我们的工作，也热爱我们的用户
     - icon: static/images/icons/donate/icon03.svg
       text: 在您的支持下，我们正在努力开发注重隐私的地图导航，成为市场上的首选
-  service_text:
+  service_text: ~
   service_title: "Created with love by enthusiast volunteers"
 template: donate.html
 title: 捐助我们

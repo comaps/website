@@ -6,7 +6,6 @@ extra:
     title: 'الحرية هنا'
   map:
     description: 'مجتمع + خرائط مفتوحة'
-    title:
   services:
     items:
       - 

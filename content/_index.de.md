@@ -6,7 +6,6 @@ extra:
     title: 'Endecke die Freiheit'
   map:
     description: 'Community + Offene Karten'
-    title:
   services:
     items:
       - 

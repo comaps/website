@@ -30,7 +30,7 @@ extra:
       text: "Mir sind Enthusiaschte wo i eusere Freiziit biiträged. Mir liebed, was mir mached, und mir liebed eusi Benutzer*inne"
     - icon: static/images/icons/donate/icon03.svg
       text: "Mit diinere Hilf schaffemer an ere dateschutzorientierte Navigationsapp als ersti Wahl uf em Määrt"
-  service_text:
+  service_text: ~
   service_title: "Created with love by enthusiast volunteers"
 template: donate.html
 title: Spende

@@ -6,7 +6,6 @@ extra:
     title: 'Svoboda je tady'
   map:
     description: 'Komunita + otevřené mapy'
-    title:
   services:
     items:
       - 

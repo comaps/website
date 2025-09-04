@@ -6,7 +6,6 @@ extra:
     title: 自由在此
   map:
     description: '社群 + 開放地圖'
-    title:
   services:
     items:
       - 

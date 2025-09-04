@@ -6,7 +6,6 @@ extra:
     title: 'Свобода здесь'
   map:
     description: 'Сообщество + Открытые карты'
-    title:
   services:
     items:
       - 

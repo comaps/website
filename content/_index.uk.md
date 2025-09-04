@@ -6,7 +6,6 @@ extra:
     title: 'Свобода вже тут'
   map:
     description: 'Спільнота + Відкриті Карти'
-    title:
   services:
     items:
       - 

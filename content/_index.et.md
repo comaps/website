@@ -6,7 +6,6 @@ extra:
     title: 'Vabadus on siin'
   map:
     description: 'Kogukond + Avatud kaardid'
-    title:
   services:
     items:
       - 

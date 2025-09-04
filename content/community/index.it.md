@@ -2,18 +2,18 @@
 description: "CoMaps è creato e mantenuto da persone come te"
 extra:
   donate:
-    description: "L'app dipende dai tuoi doni, contribuisci a migliorarla"
+    description: "L'app dipende dalle tue donazioni, contribuisci a migliorarla"
     title: Dona
   features:
-    - description: "Segnala dei bug, discuta delle idee e proponi delle funzionalità"
+    - description: "Segnala i bug, discuti idee e proponi funzionalità"
       icon: chats.svg
       link: https://codeberg.org/comaps/comaps/issues
-      title: "**Signala** i bug"
+      title: "**Segnala** i bug"
     - description: "Sviluppa delle nuove funzionalità, aiuta a correggere i bug e verifica il codice"
       icon: CodeBlock.svg
       link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md
       title: "**Sviluppa** le funzionalità"
-    - description: "Definisci la direzione dell'esperienza di prodotto"
+    - description: "Definisci la direzione dell'esperienza del prodotto"
       icon: BezierCurve.svg
       link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md
       title: "**Progetta** l'interfaccia"
@@ -24,8 +24,8 @@ extra:
     - description: "Aggiungi informazioni sui negozi, punti di interesse, sentieri e trasporti pubblici su OpenStreetMap"
       icon: MapPinLine.svg
       link: /support/editing-with-CoMaps
-      title: "**Aggiungi** delle informazioni sui posti"
-    - description: "Aiuta la gente a utilizzare l'app e rispondi alle domande"
+      title: "**Aggiungi** delle informazioni sui luoghi"
+    - description: "Aiuta la gente ad utilizzare l'app e rispondi alle domande"
       icon: Headset.svg
       link: "#"
       title: "**Aiuta** il supporto"

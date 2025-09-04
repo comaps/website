@@ -30,7 +30,7 @@ extra:
       text: "Mi csak néhány lelkes rajongó vagyunk, a szabadidőnkben járulunk hozzá a projekthez, szeretjük amit csinálunk, és szeretjük a felhasználóinkat"
     - icon: static/images/icons/donate/icon03.svg
       text: "A támogatásoddal azon dolgozunk, hogy ez az adatvédelemre összpontosító navigáció legyen az előnyben részesített választás a piacon"
-  service_text:
+  service_text: ~
   service_title: "Created with love by enthusiast volunteers"
 template: donate.html
 title: Adományozás

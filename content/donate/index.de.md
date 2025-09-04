@@ -30,7 +30,7 @@ extra:
       text: "Wir sind eine Gemeinschaft ehrenamtlicher Enthusiasten. Wir lieben, was wir tun, und wir lieben unsere User"
     - icon: static/images/icons/donate/icon03.svg
       text: "Mit Deiner Hilfe arbeiten wir an einer datenschutzorientierten Navigationslöung, welche die bevorzugte Wahl am Markt darstellt"
-  service_text:
+  service_text: ~
   service_title: "Created with love by enthusiast volunteers"
 template: donate.html
 title: Spenden

@@ -30,7 +30,7 @@ extra:
       text: "Somos uma equipa de alguns entusiastas que contribuem para o projeto no nosso tempo livre. Nós adoramos o que fazemos, e adoramos os nossos utilizadores"
     - icon: static/images/icons/donate/icon03.svg
       text: "Com o vosso apoio, estamos a trabalhar para uma navegação orientada à privacidade que seja a escolha preferida do mercado"
-  service_text:
+  service_text: ~
   service_title: "Created with love by enthusiast volunteers"
 template: donate.html
 title: Donativos

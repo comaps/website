@@ -6,7 +6,6 @@ extra:
     title: 'Özgürlük Burada'
   map:
     description: 'Topluluk + Özgür Haritalar'
-    title:
   services:
     items:
       - 

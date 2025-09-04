@@ -6,7 +6,6 @@ extra:
     title: 'Entdeck d Freiheit'
   map:
     description: 'Community + Offeni Charte'
-    title:
   services:
     items:
       - 

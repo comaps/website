@@ -30,7 +30,7 @@ extra:
       text: "Som uns pocs entusiastes contribuint en el nostre temps lliure. Estimem el que fem, i estimem els nostres usuaris"
     - icon: static/images/icons/donate/icon03.svg
       text: "Amb el teu suport, treballem cap a una navegació enfocada a la privacitat i que sigui l'opció preferida al mercat"
-  service_text:
+  service_text: ~
   service_title: "Created with love by enthusiast volunteers"
 template: donate.html
 title: Donatius

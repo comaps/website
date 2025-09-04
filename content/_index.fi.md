@@ -6,7 +6,6 @@ extra:
     title: 'Vapaus on täällä'
   map:
     description: 'Yhteisö + Avoimet kartat'
-    title:
   services:
     items:
       - 

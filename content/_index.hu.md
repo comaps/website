@@ -1,12 +1,11 @@
 ---
-description: 'Fedezz fel többet az utazásod során -<br/>A közösség erejével'
+description: 'Fedezzen fel többet az utazása során -<br/>A közösség erejével'
 extra:
   freedom:
     description: 'Fedezd fel az utadat, navigálj a világban úgy, hogy a magánélet és a közösség kerüljön előtérbe.'
     title: 'Itt a szabadság'
   map:
     description: 'Közösségi + Nyílt hozzáférésű térképek'
-    title:
   services:
     items:
       - 
@@ -37,7 +36,7 @@ extra:
           user: /images/sections/map-m-3.webp
         title: 'Kíméli az akkumulátort'
       - 
-        description: 'A hozzád hasonló emberek segítettek az alkalmazás felépítésében, a térképészeti helyek hozzáadásával az <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-open-street-map"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span> oldalon, kóddal járultak hozzá, és visszajelzést adtak a funkciókról a <span class="text-icon"><svg viewbox="0 0 4.233 4.233"> <use href="#icon-codeberg"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> oldalon. A projekt az Organic Maps és a Maps.Me elágazása, és egy nyílt forráskódú közösség működteti.'
+        description: 'A hozzád hasonló emberek segítettek az alkalmazás felépítésében, a térképészeti helyek hozzáadásával az <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-open-street-map"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span> oldalon, kóddal járultak hozzá, és visszajelzést adtak a funkciókról a <span class="text-icon"><svg viewbox="0 0 4.233 4.233"> <use href="#icon-codeberg"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> oldalon. A projekt az Organic Maps és a Maps.Me elágazása, és nyílt forráskódú közösség működteti.'
         highlight:
           icon: static/images/icons/home/heart.svg
           text: 'Szeretettel készült, és mindenki számára ingyenes'

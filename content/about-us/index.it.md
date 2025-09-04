@@ -3,7 +3,7 @@ description: "Navigazione libera e aperta con privacy -<br/>Fatta dalla comunit�
 extra:
   about:
     media: /images/about-us/about.png
-    text: "CoMaps è un'applicazione di navigazione privata incentrata sulla comunità per viaggiatori - automobilisti, escursionisti e ciclisti. Utilizza i dati di OpenStreetMap forniti dalla folla e da collaboratori di tutto il mondo. Offre una navigazione privata: nessuna identificazione di utenti e nessuna raccolta di dati. Le funzioni di CoMaps possono essere utilizzate senza una connessione Internet attiva per la navigazione offline in luoghi urbani o lontani, dove il servizio cellulare non è disponibile. CoMaps è un progetto open-source che privilegia lo sviluppo della comunità."
+    text: "CoMaps è un'applicazione di navigazione privata incentrata sulla comunità per viaggiatori - automobilisti, escursionisti e ciclisti. Utilizza i dati di OpenStreetMap forniti dalla gente e da collaboratori in tutto il mondo. Offre una navigazione privata: nessuna identificazione degli utenti e nessuna raccolta di dati. Le funzioni di CoMaps possono essere utilizzate senza una connessione Internet attiva per la navigazione offline in luoghi urbani o lontani, dove il servizio cellulare non è disponibile. CoMaps è un progetto open-source che privilegia lo sviluppo della comunità."
     title: "Navigazione libera e aperta con privacy, fatta dalla comunità"
   history:
     items:
@@ -23,7 +23,7 @@ extra:
     items:
       - icon: /images/icons/about/mission.svg
         media: /images/about-us/mission.png
-        text: "Liberate la libertà di navigare facilmente offline, con mappe incentrate sulla privacy per automobilisti, escursionisti e ciclisti, alimentate dalla comunità."
+        text: "Sbloccate la libertà di navigare facilmente offline, con mappe incentrate sulla privacy per automobilisti, escursionisti e ciclisti, alimentate dalla comunità."
         title: Missione
       - icon: /images/icons/about/vision.svg
         media: /images/about-us/vision.png

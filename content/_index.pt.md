@@ -6,7 +6,6 @@ extra:
     title: 'A Liberdade chegou'
   map:
     description: 'Comunidade + Open Maps'
-    title:
   services:
     items:
       - 

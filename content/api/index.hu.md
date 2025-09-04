@@ -1,5 +1,5 @@
 ---
-description:
+description: ""
 title: "API oldal"
 weight: 10
 ---

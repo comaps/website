@@ -6,7 +6,6 @@ extra:
     title: 'La llibertat està aquí'
   map:
     description: 'Comunitat + Mapes Lliures'
-    title:
   services:
     items:
       - 

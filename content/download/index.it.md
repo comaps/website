@@ -17,7 +17,7 @@ extra:
   steps:
     items:
       - "Mappe offline"
-      - "Centrato sulla privacy"
+      - "Incentrato sulla privacy"
       - "Nessuna raccolta dati"
       - "Guidato dalla comunità"
     title: "Già scaricato?"

@@ -2,11 +2,10 @@
 description: 'Otkrijte više o svom putovanju -<br/>Pokreće zajednica'
 extra:
   freedom:
-    description: 'Discover your journey, navigate the world with privacy and community at the forefront.'
-    title: 'Freedom Is Here'
+    description: 'Otkrijte svoje putovanje, navigirajte svijet sa privatnosti i zajednicom na umu.'
+    title: 'Sloboda je tu'
   map:
-    description: 'Community + Open Maps'
-    title:
+    description: 'Zajednica + Otvorenih karti'
   services:
     items:
       - 

@@ -6,7 +6,6 @@ extra:
     title: 'Vrijheid is hier'
   map:
     description: 'Community + Open kaarten'
-    title:
   services:
     items:
       - 
