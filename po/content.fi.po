@@ -6,6 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
+"PO-Revision-Date: 2025-09-07 07:09+0000\n"
 "Last-Translator: phama <phama@noreply.codeberg.org>\n"
 "Language-Team: Finnish <https://translate.codeberg.org/projects/comaps/website/fi/>\n"
 "Language: fi\n"
@@ -43,7 +44,7 @@ msgstr "Yhteisö + Avoimet kartat"
 #: content/_index.md
 #, no-wrap
 msgid "Plan and navigate your trip abroad with just GPS, no need for mobile data. Search waypoints while on distant hiking trails or bike paths."
-msgstr "Suunnittele ja navigoi ulkomaanmatkasi pelkällä GPS:llä, ei tarvetta mobiilidatalle. Hae reittipisteitä kaukaisilla vaellusreiteillä tai pyöräteillä."
+msgstr "Suunnittele ja navigoi matkasi ulkomaille pelkällä GPS:llä ilman mobiilidatan käyttöä. Etsi reittipisteitä kaukaisilla vaelluksilla tai pyöräteillä."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
@@ -337,7 +338,7 @@ msgstr "Ilmainen ja avoin navigointi yksityisesti, yhteisön luoma"
 #: content/about-us/index.md
 #, no-wrap
 msgid "MapsWithMe navigation app created (later renamed to Maps.me)."
-msgstr "MapsWithMe-navigointisovellus luotiin (myöhemmin nimeksi muutettiin Maps.me)."
+msgstr "MapsWithMe navigointisovellus luotiin (myöhemmin nimettiin uudelleen Maps.me:ksi)"
 
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md
