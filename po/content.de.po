@@ -6,7 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"Last-Translator: B o d o <timtrek@noreply.codeberg.org>\n"
+"PO-Revision-Date: 2025-09-08 01:29+0000\n"
+"Last-Translator: gedankenstuecke <gedankenstuecke@noreply.codeberg.org>\n"
 "Language-Team: German <https://translate.codeberg.org/projects/comaps/website/de/>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -193,7 +194,7 @@ msgstr "**Übersetze** Texte"
 #: content/community/index.md
 #, no-wrap
 msgid "Add info about shops, points of interest, trails, and public transport to OpenStreetMap"
-msgstr "Füge OpenStreetMap Informationen über Geschäfte, Sehenswürdigkeiten, Wanderwege und öffentliche Verkehrsmittel hinzu"
+msgstr "Füge Informationen über Geschäfte, Sehenswürdigkeiten, Wanderwege und öffentliche Verkehrsmittel zu OpenStreetMap hinzu"
 
 #. type: Yaml Front Matter Hash Value: extra features title
 #: content/community/index.md

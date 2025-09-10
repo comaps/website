@@ -6,7 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"Last-Translator: hosara <hosara@noreply.codeberg.org>\n"
+"PO-Revision-Date: 2025-09-10 08:36+0000\n"
+"Last-Translator: conrad <conrad@noreply.codeberg.org>\n"
 "Language-Team: Maltese <https://translate.codeberg.org/projects/comaps/website/mt/>\n"
 "Language: mt\n"
 "MIME-Version: 1.0\n"
@@ -19,7 +20,7 @@ msgstr ""
 #: content/_index.md
 #, no-wrap
 msgid "Discover more of your journey -<br/>Powered by the community"
-msgstr ""
+msgstr "Skopri iktar fuq id-destinazzjoni tiegħek -<br/>Imsaħħaħ mill-komunita`"
 
 #. type: Yaml Front Matter Hash Value: extra freedom description
 #: content/_index.md
