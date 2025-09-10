@@ -13,13 +13,13 @@ extra:
   funding:
     items:
       - media: /images/donate/developers.webp
-        text: "Pour le moment, il n'y a pas d'équipe à temps plein qui travaille pour développer de nouvelles fonctionnalités et améliorer le service. Pour faire progresser le produit de manière constante, une équipe de base est nécessaire."
+        text: "Pour le moment, il n’y a pas d’équipe à temps plein qui travaille pour développer de nouvelles fonctionnalités et améliorer le service. Pour faire progresser le produit de manière constante, une équipe de base est nécessaire."
         title: Développeurs
       - media: /images/donate/infrastructure.webp
         text: "Nous payons pour des serveurs pour que tout le monde puisse télécharger des mises à jour de données cartographiques gratuites sans délai. Les transferts de données représentent des centaines de téraoctets par mois et leur nombre augmente."
         title: Infrastructure
       - media: /images/donate/support.webp
-        text: "Le support utilisateur, la correction de bugs et l'amélioration de la stabilité de l'application sont nos priorités. La liste de demandes et de rapports de bugs grandit chaque jour et il faut répondre à de nombreuses demandes d'aide sur l'App Store, Google Play, et les mails de support."
+        text: "Le support utilisateur, la correction de bugs et l’amélioration de la stabilité de l’application sont nos priorités. La liste de demandes et de rapports de bugs grandit chaque jour et il faut répondre à de nombreuses demandes d’aide sur l’App Store, Google Play, et les mails de support."
         title: Aide
     title: "Comment vos dons seront-ils utilisés ?"
   hero_description: "Donate and create better maps together!"

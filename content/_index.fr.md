@@ -9,7 +9,7 @@ extra:
   services:
     items:
       - 
-        description: "Planifiez votre voyage et naviguez à l'étranger sans utiliser vos données mobiles sur des chemins de randonnée ou des itinéraires vélo."
+        description: 'Planifiez votre voyage et naviguez à l’étranger sans utiliser vos données mobiles sur des chemins de randonnée ou des itinéraires vélo.'
         highlight:
           icon: static/images/icons/home/wifi-off.svg
           text: 'Aucune connexion Internet requise'
@@ -18,7 +18,7 @@ extra:
           user: /images/sections/map-m-1.webp
         title: 'Recherche et itinéraire hors-ligne'
       - 
-        description: "L'appli est conçue pour préserver votre vie privée - elle n'identifie pas les utilisateurs, ne vous piste pas et ne collecte aucune information. CoMaps a également été audité par <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-exodus\"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/)."
+        description: 'L’appli est conçue pour préserver votre vie privée - elle n’identifie pas les utilisateurs, ne vous piste pas et ne collecte aucune information. CoMaps a également été audité par <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-exodus"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/).'
         highlight:
           icon: static/images/icons/home/shield.svg
           text: 'Privé par défaut'
@@ -27,7 +27,7 @@ extra:
           user: /images/sections/map-m-2.webp
         title: 'Aucune collecte de données'
       - 
-        description: "Utilise efficacement la batterie, ne la vide pas comme d'autres applications de navigation."
+        description: 'Utilise efficacement la batterie, ne la vide pas comme d’autres applications de navigation.'
         highlight:
           icon: static/images/icons/home/battery.svg
           text: 'Utilisation optimisée de la batterie'
@@ -36,7 +36,7 @@ extra:
           user: /images/sections/map-m-3.webp
         title: 'Économisez votre batterie'
       - 
-        description: "Des personnes comme vous aident à créer l'application en ajoutant des lieux à <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, en donnant leur avis sur les fonctionnalités de l’application ou en contribuant au code du projet sur <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> afin de créer de belles cartes ensemble. Le projet est un fork d'Organic Maps et Maps.Me et est géré par une communauté open source."
+        description: 'Des personnes comme vous aident à créer l’application en ajoutant des lieux à <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-open-street-map"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, en donnant leur avis sur les fonctionnalités de l’application ou en contribuant au code du projet sur <span class="text-icon"><svg viewbox="0 0 4.233 4.233"> <use href="#icon-codeberg"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> afin de créer de belles cartes ensemble. Le projet est un fork d’Organic Maps et Maps.Me et est géré par une communauté open source.'
         highlight:
           icon: static/images/icons/home/heart.svg
           text: 'Gratuit pour tous, fait avec amour'

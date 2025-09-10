@@ -21,7 +21,7 @@ extra:
       icon: Translate.svg
       link: https://codeberg.org/comaps/comaps/src/branch/main/docs/TRANSLATIONS.md
       title: "**Übersetze** Texte"
-    - description: "Füge OpenStreetMap Informationen über Geschäfte, Sehenswürdigkeiten, Wanderwege und öffentliche Verkehrsmittel hinzu"
+    - description: "Füge Informationen über Geschäfte, Sehenswürdigkeiten, Wanderwege und öffentliche Verkehrsmittel zu OpenStreetMap hinzu"
       icon: MapPinLine.svg
       link: /support/editing-with-CoMaps
       title: "**Ergänze** Ortsinformationen"

@@ -9,7 +9,7 @@ extra:
   services:
     items:
       - 
-        description: 'Suunnittele ja navigoi ulkomaanmatkasi pelkällä GPS:llä, ei tarvetta mobiilidatalle. Hae reittipisteitä kaukaisilla vaellusreiteillä tai pyöräteillä.'
+        description: 'Suunnittele ja navigoi matkasi ulkomaille pelkällä GPS:llä ilman mobiilidatan käyttöä. Etsi reittipisteitä kaukaisilla vaelluksilla tai pyöräteillä.'
         highlight:
           icon: static/images/icons/home/wifi-off.svg
           text: 'Ilman verkkoyhteyttä'
