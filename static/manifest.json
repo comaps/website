@@ -16,8 +16,8 @@
   ],
   "screenshots": [
     {
-      "src": "/images/screenshots/hiking.jpg",
-      "sizes": "1440x3040",
+      "src": "/images/screenshots/hiking.png",
+      "sizes": "1080x2424",
       "type": "image/jpeg"
     },
     {
@@ -26,13 +26,13 @@
       "type": "image/jpeg"
     },
     {
-      "src": "/images/screenshots/search.jpg",
-      "sizes": "1440x3040",
+      "src": "/images/screenshots/search.png",
+      "sizes": "1080x2424",
       "type": "image/jpeg"
     },
     {
-      "src": "/images/screenshots/dark.jpg",
-      "sizes": "1440x3040",
+      "src": "/images/screenshots/dark.png",
+      "sizes": "1080x2424",
       "type": "image/jpeg"
     }
   ],
