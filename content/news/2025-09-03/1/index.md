@@ -13,7 +13,7 @@ extra:
 *This blog post was originally published [on my blog on August 11, 2025](https://tzovar.as/tool-diversity/), under a CC BY-SA license.*
 
 Last weekend was the 21st birthday of _[OpenStreetMap](https://www.openstreetmap.org)_ (OSM), and with some friends we celebrated the occasion with a little mapping party.
-Our plan was to combine flying drones to [collect aerial imagery](https://dronetm.org/) and [collecting street-level imagery](/panoramax-bot/) with more traditional field mapping.
+Our plan was to combine flying drones to [collect aerial imagery](https://dronetm.org/) and [collecting street-level imagery](https://tzovar.as/panoramax-bot/) with more traditional field mapping.
 Due to high winds, we mostly ended up with street-level imagery and doing field mapping though, using a variety of tools.
 
 On the way home, I was reflecting on how amazing this richness and diversity of tools for contributing to OSM is.
@@ -32,7 +32,7 @@ _Every Door_ is great for surveying when it comes to adding more complex points 
 For these objects one realistically wants to add a wide range of information in one go (opening hours, websites, phone numbers, …).
 _StreetComplete_ is perfect to quickly add missing data to existing objects, at least in part because it tries to gamify OSM contributions.
 By highlighting different types of "missing" information around one's current location, it's easy to find things that are both simple to verify as simple to add by the click of a button/answering a multiple-choice question (e.g. adding in the type of road surface).[^4]
-_MapComplete_ is great for adding objects to which one might want to add photos, for example art works or [wayside shrines](/wayside-shrines-mapcomplete/), as long as the objects are already supported.[^5]
+_MapComplete_ is great for adding objects to which one might want to add photos, for example art works or [wayside shrines](https://tzovar.as/wayside-shrines-mapcomplete/), as long as the objects are already supported.[^5]
 And CoMaps works great if find yourself without any reception (which would be needed to download the live map) but you found a place where you want to make an edit, as you can look at the offline map and still queue up an edit/note.
 Similarly, less surveying-based editors like iD and JOSM have their own niches they work well for.
 
