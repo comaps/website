@@ -10,7 +10,7 @@ extra:
 
 CoMaps can build a route for a car trip, bicycle ride, metro or foot walk.
 
-Pick a destination point by tapping on a POI or address or by long tapping on any place. At the place information panel, click on the "Route to" button to start route planning.
+Pick a destination point by tapping on a POI or address or any other place on the map. At the place information panel, click on the "Route to" button to start route planning.
 
 {{ image(src="image14.jpg" classes="max-w-50") }}
 
