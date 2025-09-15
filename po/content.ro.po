@@ -6,6 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
+"PO-Revision-Date: 2025-09-15 17:09+0000\n"
 "Last-Translator: sas33 <sas33@noreply.codeberg.org>\n"
 "Language-Team: Romanian <https://translate.codeberg.org/projects/comaps/website/ro/>\n"
 "Language: ro\n"
@@ -13,7 +14,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < 20)) ? 1 : 2;\n"
-"X-Generator: Weblate 5.12.2\n"
+"X-Generator: Weblate 5.13.2\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -41,10 +42,9 @@ msgstr "Comunitate + Hărți Deschise"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
-#, fuzzy, no-wrap
-#| msgid "Plan and navigate your trip abroad without the need for mobile data, and search waypoints while on a distant hike."
+#, no-wrap
 msgid "Plan and navigate your trip abroad with just GPS, no need for mobile data. Search waypoints while on distant hiking trails or bike paths."
-msgstr "Planificați și navigați în călătoria dvs în străinătate fără să fie nevoie de date mobile și căutați puncte de reper în timpul unei drumeții îndepărtate."
+msgstr "Planifică-ți și navighează-ți călătoria în străinătate doar cu GPS-ul, fără să ai nevoie de date mobile. Caută puncte de reper chiar și pe trasee de drumeții îndepărtate sau piste de biciclete."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
@@ -62,7 +62,7 @@ msgstr "Căutare și Navigare Offline"
 #: content/_index.md
 #, no-wrap
 msgid "The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information. CoMaps was also audited by <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-exodus\"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/)."
-msgstr ""
+msgstr "Aplicația este concepută cu gândul la confidențialitate – nu identifică persoane, nu te urmărește și nu colectează nicio informație. CoMaps a fost, de asemenea, auditată de <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-exodus\"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/)."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
@@ -96,10 +96,9 @@ msgstr "Salvează-ți bateria"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
-#, fuzzy, no-wrap
-#| msgid "People like you helped build the app by adding locations to <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on Codeberg in the open-source community."
+#, no-wrap
 msgid "People like you are helping build the app by adding locations to <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> to create great maps together. The project is a fork of Organic Maps and Maps.Me, and driven by an open-source community."
-msgstr "meni ca tine au contribuit la dezvoltarea aplicației prin adăugarea de locații pe <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> OpenStreetMap</span>, oferind feedback privind funcționalitățile și contribuind cu cod sursă pe Codeberg, în cadrul comunității open-source."
+msgstr "Oameni ca tine ajută la dezvoltarea aplicației adăugând locații pe <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, oferind feedback despre funcționalități și contribuind cu cod pe <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span>, pentru a crea împreună hărți grozave. Proiectul este un fork al Organic Maps și Maps.Me și este susținut de o comunitate open-source."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md

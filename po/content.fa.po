@@ -6,26 +6,27 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"Last-Translator: Artiman <artiman@noreply.codeberg.org>\n"
+"PO-Revision-Date: 2025-09-15 17:09+0000\n"
+"Last-Translator: aoxa <aoxa@noreply.codeberg.org>\n"
 "Language-Team: Persian <https://translate.codeberg.org/projects/comaps/website/fa/>\n"
 "Language: fa\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.12.2\n"
+"X-Generator: Weblate 5.13.2\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
 #, no-wrap
 msgid "Discover more of your journey -<br/>Powered by the community"
-msgstr ""
+msgstr "از ایورز خود بیشتر بیابید -<br/> نیرو گرفته از انجمن"
 
 #. type: Yaml Front Matter Hash Value: extra freedom description
 #: content/_index.md
 #, no-wrap
 msgid "Discover your journey, navigate the world with privacy and community at the forefront."
-msgstr "سفر خود را کشف کنید، با حریم خصوصی و جامعه در خط مقدم حرکت کنید."
+msgstr "ایورز خود را بیابید، جهان را جلوداری خوشیک و انجمن ناوبری کنید."
 
 #. type: Yaml Front Matter Hash Value: extra freedom title
 #: content/_index.md
@@ -37,7 +38,7 @@ msgstr "آزادی اینجاست"
 #: content/_index.md
 #, no-wrap
 msgid "Community + Open Maps"
-msgstr "گروهی + مپ باز"
+msgstr "انجمن + نقشه‌های وشاد"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
@@ -49,7 +50,7 @@ msgstr "برنامه ریزی و حرکت سفر خود را در خارج بد�
 #: content/_index.md
 #, no-wrap
 msgid "No internet needed"
-msgstr "اینترنت نیاز نیست"
+msgstr "به اینترنت نیازی نیست"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
@@ -85,7 +86,7 @@ msgstr "به طور موثر از باتری استفاده می کند، بات
 #: content/_index.md
 #, no-wrap
 msgid "Efficient battery use"
-msgstr "استفاده از باتری کارآمد"
+msgstr "بکارگیری بهینه‌ی باتری"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
@@ -127,7 +128,7 @@ msgstr "اخبار و انتشار ها"
 #: content/community/index.md
 #, no-wrap
 msgid "CoMaps is created and maintained by people like you"
-msgstr "این گونه افراد کومپس را مانند شما خلق و نگهداری می کنند"
+msgstr "کومپس توسط کسانی مانند شما ساخته و نگهداری می‌شود"
 
 #. type: Hash Value: donate-description
 #: content/community/index.md translations.yaml
@@ -433,13 +434,13 @@ msgstr "­ساخته شده دور جامعه"
 #: content/download/index.md
 #, no-wrap
 msgid "Already downloaded?"
-msgstr "قبلا دانلود کردید؟"
+msgstr "پیش‌تر بارگیری کرده‌اید؟"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/download/index.md
 #, no-wrap
 msgid "Download CoMaps"
-msgstr "CoMaps دانلود"
+msgstr "بارگیری کو‌مپس"
 
 #. type: Plain text
 #: content/download/index.md
@@ -487,7 +488,7 @@ msgstr "CoMaps - سوالات متداول."
 #: translations.yaml
 #, no-wrap
 msgid "How can we help?"
-msgstr "چطوری میتوانیم کمک کنیم؟"
+msgstr "چگونه می‌توانیم یاری رسانیم؟"
 
 #. type: Hash Value: inv_code_text
 #: translations.yaml
@@ -523,7 +524,7 @@ msgstr ""
 #: translations.yaml
 #, no-wrap
 msgid "English"
-msgstr "فارسی"
+msgstr "پارسی"
 
 #. type: Hash Value: menu_api
 #: translations.yaml
@@ -535,7 +536,7 @@ msgstr ""
 #: translations.yaml
 #, no-wrap
 msgid "Help"
-msgstr "کمک"
+msgstr "یاری"
 
 #. type: Hash Value: menu_home
 #: translations.yaml

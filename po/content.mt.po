@@ -6,6 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
+"PO-Revision-Date: 2025-09-11 14:57+0000\n"
 "Last-Translator: conrad <conrad@noreply.codeberg.org>\n"
 "Language-Team: Maltese <https://translate.codeberg.org/projects/comaps/website/mt/>\n"
 "Language: mt\n"
@@ -25,37 +26,37 @@ msgstr "Skopri iktar fuq id-destinazzjoni tiegħek -<br/>Imsaħħaħ mill-komuni
 #: content/_index.md
 #, no-wrap
 msgid "Discover your journey, navigate the world with privacy and community at the forefront."
-msgstr ""
+msgstr "Skopri l-vjaġġ tiegħek, innaviga d-dinja bil-privatezza u l-komunità fil-quddiem nett."
 
 #. type: Yaml Front Matter Hash Value: extra freedom title
 #: content/_index.md
 #, no-wrap
 msgid "Freedom Is Here"
-msgstr ""
+msgstr "Il-Liberta` Waslet"
 
 #. type: Yaml Front Matter Hash Value: extra map description
 #: content/_index.md
 #, no-wrap
 msgid "Community + Open Maps"
-msgstr ""
+msgstr "Komunita` + Mapep Miftuħa"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
 #, no-wrap
 msgid "Plan and navigate your trip abroad without the need for mobile data, and search waypoints while on a distant hike."
-msgstr ""
+msgstr "Ippjana u innaviga l-vjaġġ tiegħek waqt li tkun imsiefer mingħajr il-ħtieġa ta' mowbajl dejta, u fittex waypoints waqt mixi fit-tul."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
 #, no-wrap
 msgid "No internet needed"
-msgstr ""
+msgstr "L-ebda internet meħtieġ"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
 #, no-wrap
 msgid "Offline Search and Route"
-msgstr ""
+msgstr "Tiftix offlajn u Rotot"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
