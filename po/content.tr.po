@@ -6,14 +6,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"Last-Translator: AnanasSux <ananassux@noreply.codeberg.org>\n"
+"PO-Revision-Date: 2025-09-16 17:25+0000\n"
+"Last-Translator: metehan <metehan@noreply.codeberg.org>\n"
 "Language-Team: Turkish <https://translate.codeberg.org/projects/comaps/website/tr/>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.12.2\n"
+"X-Generator: Weblate 5.13.2\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -41,10 +42,9 @@ msgstr "Topluluk + Özgür Haritalar"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
-#, fuzzy, no-wrap
-#| msgid "Plan and navigate your trip abroad without the need for mobile data, and search waypoints while on a distant hike."
+#, no-wrap
 msgid "Plan and navigate your trip abroad with just GPS, no need for mobile data. Search waypoints while on distant hiking trails or bike paths."
-msgstr "Mobil veriye ihtiyaç duymadan yurt dışına seyahatinizi planlayın ve gezin veya uzak bir yürüyüş sırasında durma noktaları arayın."
+msgstr "Mobil veriye ihtiyaç duymadan, sadece GPS ile yurt dışına seyahatinizi planlayın ve gezin. Doğadaki yürüyüş ve bisiklet patikalarındayken durma noktaları arayın."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
@@ -96,10 +96,9 @@ msgstr "Pilinizi kurtarın"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
-#, fuzzy, no-wrap
-#| msgid "People like you helped build the app by adding locations to <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> in the open-source community."
+#, no-wrap
 msgid "People like you are helping build the app by adding locations to <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> to create great maps together. The project is a fork of Organic Maps and Maps.Me, and driven by an open-source community."
-msgstr "Sizin gibi insanlar, <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span> konum ekleyerek uygulamanın oluşturulmasına yardımcı oldu, Açık kaynak topluluğunda <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> 'de özellikler hakkında geri bildirimde bulunmak ve kod katkıda bulundu."
+msgstr "Sizin gibi insanlar, birlikte ortaya harika bir harita uygulaması çıkarmak için <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span> 'e yeni yerler ekleyerek, <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> 'de özellikler hakkında geri bildirim vererek ve kod katkısında bulunarak bu uygulamanın var olmasına yardım ediyor. Bu proje Organic Maps ve Maps.Me'nin bir çatalıdır ve açık kaynak topluluğu tarafından yönetilmektedir."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
