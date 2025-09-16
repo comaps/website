@@ -1,5 +1,5 @@
 ---
-description: 'Ezagutu zure bidaiari buruzko informazio gehiago -<br/>komunitateak bultzatuta'
+description: 'Discover more of your journey - Powered by the community'
 extra:
   freedom:
     description: 'Ezagutu zure bidaia, nabigatu munduan pribatutasunarekin eta komunitatearekin.'

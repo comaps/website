@@ -1,5 +1,5 @@
 ---
-description: 'Fedezz fel többet az utazásod során -<br/>A közösség erejével'
+description: 'Discover more of your journey - Powered by the community'
 extra:
   freedom:
     description: 'Fedezd fel az utadat, navigálj a világban úgy, hogy a magánélet és a közösség kerüljön előtérbe.'

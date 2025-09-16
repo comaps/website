@@ -1,5 +1,5 @@
 ---
-description: '旅程中更多探索 -<br/>由社区提供支持'
+description: 'Discover more of your journey - Powered by the community'
 extra:
   freedom:
     description: 探索您的旅程，以隐私和社区为本，畅游世界。
@@ -18,7 +18,7 @@ extra:
           user: /images/sections/map-m-1.webp
         title: 离线搜索与路线
       - 
-        description: '该应用在设计上注重隐私保护——不识别用户身份、不跟踪行踪、也不收集任何信息。CoMaps还通过了<span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-exodus"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/隐私组织的安全审计。'
+        description: '该应用在设计上注重隐私保护——不识别用户身份、不跟踪行踪、也不收集任何信息。CoMaps还通过了<span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-exodus"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/) 隐私组织的安全审计。'
         highlight:
           icon: static/images/icons/home/shield.svg
           text: 默认尊重隐私

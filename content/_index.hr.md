@@ -1,5 +1,5 @@
 ---
-description: 'Otkrijte više o svom putovanju -<br/>Pokreće zajednica'
+description: 'Discover more of your journey - Powered by the community'
 extra:
   freedom:
     description: 'Otkrijte svoje putovanje, navigirajte svijet sa privatnosti i zajednicom na umu.'

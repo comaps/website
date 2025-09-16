@@ -1,5 +1,5 @@
 ---
-description: 'Võimalus leida oma teedel enamat -<br/>Ja see kõik kogukonna toel'
+description: 'Discover more of your journey - Powered by the community'
 extra:
   freedom:
     description: 'Leia oma tee ning liigu maailmas nii, et privaatsus ja kogukond on alati arvesse võetud.'

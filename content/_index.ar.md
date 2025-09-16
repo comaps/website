@@ -1,5 +1,5 @@
 ---
-description: 'اكتشف المذيد في رحلتك<br/>يعمل بقوة المجتمع'
+description: 'Discover more of your journey - Powered by the community'
 extra:
   freedom:
     description: 'إكتشف رحلتك و تنقل حول العالم مع الخصوصية و المجتمع في المقدمة.'

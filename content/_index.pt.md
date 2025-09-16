@@ -1,5 +1,5 @@
 ---
-description: 'Descobre mais sobre a tua jornada -<br/>Alimentada pela comunidade'
+description: 'Discover more of your journey - Powered by the community'
 extra:
   freedom:
     description: 'Descobre o teu caminho, navega pelo mundo com privacidade e com a comunidade na linha da frente.'

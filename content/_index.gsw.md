@@ -1,5 +1,5 @@
 ---
-description: 'Entdeck meh vo dinere Reis -<br/>Entwicklet vo de Community'
+description: 'Discover more of your journey - Powered by the community'
 extra:
   freedom:
     description: 'Entdeck dini Reis, navigier dur d Welt mit Fokus uf Dateschutz und Community.'

@@ -1,5 +1,5 @@
 ---
-description: 'Descubra mais sobre sua jornada -<br/>Desenvolvido pela comunidade'
+description: 'Discover more of your journey - Powered by the community'
 extra:
   freedom:
     description: 'Descubra sua jornada, navegue pelo mundo com privacidade e comunidade em primeiro lugar.'
@@ -18,7 +18,7 @@ extra:
           user: /images/sections/map-m-1.webp
         title: 'Busca e Roteamento Offline'
       - 
-        description: 'O aplicativo foi projetado com foco na privacidade: não identifica pessoas, não rastreia você e não coleta nenhuma informação. O CoMaps também foi auditado pela <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-exodus"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/).'
+        description: 'O aplicativo foi projetado com foco na privacidade: não identifica pessoas, não rastreia você e não coleta nenhuma informação. O CoMaps também foi auditado por <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-exodus"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/).'
         highlight:
           icon: static/images/icons/home/shield.svg
           text: 'Privacidade por padrão'
@@ -36,7 +36,7 @@ extra:
           user: /images/sections/map-m-3.webp
         title: 'Economiza Sua Bateria'
       - 
-        description: 'Pessoas como você estão ajudando a desenvolver o aplicativo adicionando locais ao <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-open-street-map"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, dando feedback sobre os recursos e contribuindo com código no <span class="text-icon"><svg viewbox="0 0 4.233 4.233"> <use href="#icon-codeberg"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> para criarmos incríveis mapas juntos. O projeto é uma ramificação do Organic Maps e do Maps.Me, e é conduzido por uma comunidade de código aberto.'
+        description: 'Pessoas como você estão ajudando a desenvolver o aplicativo adicionando locais ao <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-open-street-map"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, dando feedback sobre funcionalidades, e contribuindo com código no <span class="text-icon"><svg viewbox="0 0 4.233 4.233"> <use href="#icon-codeberg"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> para criarmos incríveis mapas juntos. O projeto é uma ramificação do Organic Maps e do Maps.Me, e é conduzido por uma comunidade de código aberto.'
         highlight:
           icon: static/images/icons/home/heart.svg
           text: 'Grátis para todos, feito com amor'

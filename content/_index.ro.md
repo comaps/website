@@ -1,5 +1,5 @@
 ---
-description: 'Descoperă mai mult din călătoria ta -<br/>Susținut de comunitate'
+description: 'Discover more of your journey - Powered by the community'
 extra:
   freedom:
     description: 'Descoperă-ți călătoria, navighează prin lume cu confidențialitatea și comunitatea în prim-plan.'
@@ -9,7 +9,7 @@ extra:
   services:
     items:
       - 
-        description: 'Plan and navigate your trip abroad with just GPS, no need for mobile data. Search waypoints while on distant hiking trails or bike paths.'
+        description: 'Planifică-ți și navighează-ți călătoria în străinătate doar cu GPS-ul, fără să ai nevoie de date mobile. Caută puncte de reper chiar și pe trasee de drumeții îndepărtate sau piste de biciclete.'
         highlight:
           icon: static/images/icons/home/wifi-off.svg
           text: 'Nu este nevoie de conexiune la internet'
@@ -18,7 +18,7 @@ extra:
           user: /images/sections/map-m-1.webp
         title: 'Căutare și Navigare Offline'
       - 
-        description: 'The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information. CoMaps was also audited by <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-exodus"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/).'
+        description: 'Aplicația este concepută cu gândul la confidențialitate – nu identifică persoane, nu te urmărește și nu colectează nicio informație. CoMaps a fost, de asemenea, auditată de <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-exodus"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/).'
         highlight:
           icon: static/images/icons/home/shield.svg
           text: 'Confidențialitate implicită'
@@ -36,7 +36,7 @@ extra:
           user: /images/sections/map-m-3.webp
         title: 'Salvează-ți bateria'
       - 
-        description: 'People like you are helping build the app by adding locations to <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-open-street-map"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on <span class="text-icon"><svg viewbox="0 0 4.233 4.233"> <use href="#icon-codeberg"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> to create great maps together. The project is a fork of Organic Maps and Maps.Me, and driven by an open-source community.'
+        description: 'Oameni ca tine ajută la dezvoltarea aplicației adăugând locații pe <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-open-street-map"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, oferind feedback despre funcționalități și contribuind cu cod pe <span class="text-icon"><svg viewbox="0 0 4.233 4.233"> <use href="#icon-codeberg"></use></svg> [Codeberg](https://codeberg.org/comaps)</span>, pentru a crea împreună hărți grozave. Proiectul este un fork al Organic Maps și Maps.Me și este susținut de o comunitate open-source.'
         highlight:
           icon: static/images/icons/home/heart.svg
           text: 'Gratuit pentru toată lumea, făcut cu dragoste'
