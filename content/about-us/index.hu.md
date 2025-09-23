@@ -1,10 +1,10 @@
 ---
-description: "Ingyenes és nyílt navigáció adatvédelemmel -<br/>A közösség által építve"
+description: "Ingyenes és nyílt navigáció adatvédelemmel -<br/>A közösség által létrehozva"
 extra:
   about:
     media: /images/about-us/about.png
-    text: "A CoMaps egy közösségközpontú, a magánélet védelmére összpontosító navigációs alkalmazás utazók - autósok, túrázók és kerékpárosok - számára. Az OpenStreetMap önkéntesei által összegyűjtött adatokat használja, a világ minden tájáról származó közreműködőkkel. A magánélet védelmével kínál navigációt, nincs személyazonosítás, és nincs adatgyűjtés. A CoMaps funkciói aktív internetkapcsolat nélkül is működnek, így alkalmas offline navigációra olyan városi vagy távoli helyeken, ahol nem áll rendelkezésre mobilszolgáltatás. A CoMaps nyílt forráskódú projekt, és a közösségi fejlesztést helyezi előtérbe."
-    title: "Ingyenes és nyílt navigáció adatvédelemmel, a közösség által építve"
+    text: "A CoMaps egy közösségközpontú, adatvédelmi navigációs alkalmazás utazók – autósok, túrázók és kerékpárosok – számára. A világ minden tájáról származó közreműködők által létrehozott, közösségi alapú OpenStreetMap adatokat használja. Adatvédelmi navigációt kínál – nem azonosítja az embereket és nem gyűjt adatokat. A CoMaps funkciói aktív internetkapcsolat nélkül is működnek, így offline navigációra is alkalmas városi vagy távoli helyeken, ahol nincs mobilhálózati lefedettség. A CoMaps egy nyílt forráskódú projekt, amelynek elsődleges célja a közösség fejlesztése."
+    title: "Ingyenes és nyílt navigáció adatvédelemmel, a közösség által létrehozva"
   history:
     items:
       - text: "Létrejött a MapsWithMe navigációs alkalmazás (később Maps.me lett a neve)."
@@ -18,18 +18,18 @@ extra:
       - highlight: true
         text: "A **CoMaps** közösségi és non-profit projektet az Organic Maps korábbi munkatársai alapították, az Organic Maps forráskódjára alapozva."
         year: 2025
-    title: "Az előzmények"
+    title: Előzmények
   vm:
     items:
       - icon: /images/icons/about/mission.svg
         media: /images/about-us/mission.png
-        text: "Az internetkapcsolat nélküli könnyed navigálás szabadságának megnyitása adatvédelemre összpontosító térképekkel, amely autósok, túrázók és kerékpárosok számára készült, és közösség működteti."
+        text: "Fedezze fel az offline navigáció szabadságát a közösség által támogatott, adatvédelemre fókuszáló térképekkel, amelyek autósok, túrázók és kerékpárosok számára készültek."
         title: Küldetés
       - icon: /images/icons/about/vision.svg
         media: /images/about-us/vision.png
-        text: "Egy olyan világ létrehozása, ahol a térképekkel való navigálás ingyenes, és a magánélet az alapértelmezés szerinti legjobb választás a bolygón."
-        title: Látomás
+        text: "Egy olyan világ létrehozása, ahol a térképek használata ingyenes, és az alapértelmezett adatvédelem a legfontosabb szempont a bolygón."
+        title: Jövőkép
 template: about-us.html
-title: Rólunk
+title: Névjegy
 weight: 10
 ---

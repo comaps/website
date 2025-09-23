@@ -1,5 +1,5 @@
 ---
-description: 'Discover more of your journey - Powered by the community'
+description: 'Descubre o que che ofrece o camiño - Grazas á comunidade'
 extra:
   freedom:
     description: 'Atopa o teu camiño, navega polo mundo con privacidade e priorizando a comunidade.'

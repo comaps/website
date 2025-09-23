@@ -1,5 +1,5 @@
 ---
-description: 'Discover more of your journey - Powered by the community'
+description: 'Topluluk tarafından desteklenen - Yolculuğunuzun daha fazlasını keşfedin'
 extra:
   freedom:
     description: 'Yolculuğunuzu keşfedin, dünyayı gizlilik ve topluluk desteğiyle gezin.'

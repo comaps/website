@@ -1,5 +1,5 @@
 ---
-description: "Nyiss a navigációban rejlő lehetőségekre! Fedezd fel az offline térképeket, az adatvédelem-központú funkciókat és a közösségvezérelt alkalmazást"
+description: "Fedezze fel a navigációban rejlő lehetőségeket! Fedezze fel az offline térképeket, az adatvédelemre összpontosító funkciókat és a közösség által irányított alkalmazást"
 extra:
   desktop_payment_methods_1: MacOS
   desktop_payment_methods_2: Linux
@@ -18,10 +18,10 @@ extra:
     items:
       - "Offline térképek"
       - Adatvédelem-központú
-      - "Nem gyűjt adatokat"
+      - "Nincs adatgyűjtés"
       - Közösségvezérelt
-    title: "Letöltötted már?"
+    title: "Letöltötte már?"
 template: download.html
-title: "A CoMaps letöltése"
+title: "CoMaps letöltése"
 weight: 10
 ---

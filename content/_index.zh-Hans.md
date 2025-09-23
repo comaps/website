@@ -1,5 +1,5 @@
 ---
-description: 'Discover more of your journey - Powered by the community'
+description: '旅程中更多探索 - 由社区提供支持'
 extra:
   freedom:
     description: 探索您的旅程，以隐私和社区为本，畅游世界。

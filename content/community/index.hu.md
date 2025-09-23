@@ -1,11 +1,11 @@
 ---
-description: "A CoMaps alkalmazást hozzád hasonló emberek hozták létre, és tartják karban"
+description: "A CoMaps alkalmazást Önhöz hasonló emberek hozták létre, és tartják karban"
 extra:
   donate:
-    description: "Az alkalmazás adományokból működik, segíts javítani ezen"
+    description: "Az alkalmazás adományokból működik, segítsen javítani ezen"
     title: Adományozás
   features:
-    - description: "Hibák jelentése, ötletek megvitatása, és funkciók javaslata"
+    - description: "Hibák jelentése, ötletek megvitatása, és funkciók javaslása"
       icon: chats.svg
       link: https://codeberg.org/comaps/comaps/issues
       title: "**Hibajelentés**"
@@ -13,7 +13,7 @@ extra:
       icon: CodeBlock.svg
       link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md
       title: "**Funkcionalitás fejlesztése**"
-    - description: "Alakítsd és javítsd az alkalmazás felhasználói élményét"
+    - description: "Alakítsa és javítsa az alkalmazás felhasználói élményét"
       icon: BezierCurve.svg
       link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md
       title: "**Felülettervezés**"
@@ -25,13 +25,13 @@ extra:
       icon: MapPinLine.svg
       link: /support/editing-with-CoMaps
       title: "**Helyinformációk hozzáadása**"
-    - description: "Segíts az embereknek az alkalmazás használatában, és válaszolj a kérdéseikre"
+    - description: "Segítsen az embereknek az alkalmazás használatában, és válaszoljon a kérdéseikre"
       icon: Headset.svg
       link: "#"
-      title: "**Segítség és támogatás**"
+      title: "**Súgó és támogatás**"
   preview_image: donate/donate.png
   stay_connected_section_title: "connect with us"
 template: community.html
-title: "A közösség"
+title: Közösség
 weight: 10
 ---

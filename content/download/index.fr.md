@@ -18,7 +18,7 @@ extra:
     items:
       - "Cartes hors ligne"
       - "Centré sur la vie privée"
-      - "Pas de collecte de données"
+      - "Aucune collecte de données"
       - "Fait par la communauté"
     title: "Déjà téléchargé ?"
 template: download.html

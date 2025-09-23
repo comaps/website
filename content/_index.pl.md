@@ -1,5 +1,5 @@
 ---
-description: 'Discover more of your journey - Powered by the community'
+description: 'Odkrywaj więcej ze swojej podróży - Napędzane przez społeczność'
 extra:
   freedom:
     description: 'Odkrywaj swoją podróż, nawiguj po świecie z prywatnością i społecznością na pierwszym planie.'

@@ -1,5 +1,5 @@
 ---
-description: 'Discover more of your journey - Powered by the community'
+description: 'Descobreix més del teu viatge - Fet per la comunitat'
 extra:
   freedom:
     description: 'Descobreix el teu viatge, navega pel món amb privacitat i la comunitat en primer pla.'

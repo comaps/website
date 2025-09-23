@@ -1,5 +1,5 @@
 ---
-description: 'Discover more of your journey - Powered by the community'
+description: 'Ezagutu zure bidaiari buruzko informazio gehiago - komunitateak bultzatuta'
 extra:
   freedom:
     description: 'Ezagutu zure bidaia, nabigatu munduan pribatutasunarekin eta komunitatearekin.'
@@ -18,7 +18,7 @@ extra:
           user: /images/sections/map-m-1.webp
         title: 'Konexiorik gabeko bilaketa eta nabigazioa'
       - 
-        description: 'The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information. CoMaps was also audited by <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-exodus"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/).'
+        description: 'Aplikazioa pribatutasuna kontuan hartuta diseinatuta dago - ez ditu pertsonak identifikatzen, ez du zure jarraipena egiten eta ez du inolako informaziorik biltzen. <span class="texto-icon"><svg viewBox="0 0 19"><use href="#icon-exodus"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/))-k ere ikuskatu du CoMaps.'
         highlight:
           icon: static/images/icons/home/shield.svg
           text: 'Pribatutasuna lehenetsia'
