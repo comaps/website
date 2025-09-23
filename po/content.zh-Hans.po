@@ -6,6 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
+"PO-Revision-Date: 2025-09-17 11:52+0000\n"
 "Last-Translator: gedankenstuecke <gedankenstuecke@noreply.codeberg.org>\n"
 "Language-Team: Chinese (Simplified Han script) <https://translate.codeberg.org/projects/comaps/website/zh_Hans/>\n"
 "Language: zh-Hans\n"
@@ -17,10 +18,9 @@ msgstr ""
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
-#, fuzzy, no-wrap
-#| msgid "Discover more of your journey -<br/>Powered by the community"
+#, no-wrap
 msgid "Discover more of your journey - Powered by the community"
-msgstr "旅程中更多探索 -<br/>由社区提供支持"
+msgstr "旅程中更多探索 - 由社区提供支持"
 
 #. type: Yaml Front Matter Hash Value: extra freedom description
 #: content/_index.md

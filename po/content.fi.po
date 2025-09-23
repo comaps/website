@@ -6,21 +6,21 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"Last-Translator: phama <phama@noreply.codeberg.org>\n"
+"PO-Revision-Date: 2025-09-17 11:52+0000\n"
+"Last-Translator: gedankenstuecke <gedankenstuecke@noreply.codeberg.org>\n"
 "Language-Team: Finnish <https://translate.codeberg.org/projects/comaps/website/fi/>\n"
 "Language: fi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.12.2\n"
+"X-Generator: Weblate 5.13.2\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
-#, fuzzy, no-wrap
-#| msgid "Discover more of your journey -<br/>Powered by the community"
+#, no-wrap
 msgid "Discover more of your journey - Powered by the community"
-msgstr "Löydä lisää matkaltasi <br/>Yhteisön voimin"
+msgstr "Löydä lisää matkaltasi - Yhteisön voimin"
 
 #. type: Yaml Front Matter Hash Value: extra freedom description
 #: content/_index.md

@@ -6,6 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
+"PO-Revision-Date: 2025-09-23 11:09+0000\n"
 "Last-Translator: alexgabi <alexgabi@noreply.codeberg.org>\n"
 "Language-Team: Basque <https://translate.codeberg.org/projects/comaps/website/eu/>\n"
 "Language: eu\n"
@@ -13,14 +14,13 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.12.2\n"
+"X-Generator: Weblate 5.13.2\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
-#, fuzzy, no-wrap
-#| msgid "Discover more of your journey -<br/>Powered by the community"
+#, no-wrap
 msgid "Discover more of your journey - Powered by the community"
-msgstr "Ezagutu zure bidaiari buruzko informazio gehiago -<br/>komunitateak bultzatuta"
+msgstr "Ezagutu zure bidaiari buruzko informazio gehiago - komunitateak bultzatuta"
 
 #. type: Yaml Front Matter Hash Value: extra freedom description
 #: content/_index.md
@@ -63,7 +63,7 @@ msgstr "Konexiorik gabeko bilaketa eta nabigazioa"
 #: content/_index.md
 #, no-wrap
 msgid "The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information. CoMaps was also audited by <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-exodus\"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/)."
-msgstr ""
+msgstr "Aplikazioa pribatutasuna kontuan hartuta diseinatuta dago - ez ditu pertsonak identifikatzen, ez du zure jarraipena egiten eta ez du inolako informaziorik biltzen. <span class=\"texto-icon\"><svg viewBox=\"0 0 19\"><use href=\"#icon-exodus\"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/))-k ere ikuskatu du CoMaps."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md

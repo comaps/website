@@ -6,7 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"Last-Translator: pL1 <pl1@noreply.codeberg.org>\n"
+"PO-Revision-Date: 2025-09-22 08:17+0000\n"
+"Last-Translator: ldmpub <ldmpub@noreply.codeberg.org>\n"
 "Language-Team: French <https://translate.codeberg.org/projects/comaps/website/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -17,10 +18,9 @@ msgstr ""
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
-#, fuzzy, no-wrap
-#| msgid "Discover more of your journey -<br/>Powered by the community"
+#, no-wrap
 msgid "Discover more of your journey - Powered by the community"
-msgstr "Découvrez-en plus lors de votre voyage -<br/>Propulsé par la communauté"
+msgstr "Enrichissez votre voyage grâce à la communauté"
 
 #. type: Yaml Front Matter Hash Value: extra freedom description
 #: content/_index.md
@@ -422,7 +422,7 @@ msgstr "Centré sur la vie privée"
 #: content/download/index.md
 #, no-wrap
 msgid "No data collection"
-msgstr "Pas de collecte de données"
+msgstr "Aucune collecte de données"
 
 #. type: Yaml Front Matter Array Element: extra steps items
 #: content/download/index.md
