@@ -7,7 +7,7 @@
 
   &--right {
     .animation-item {
-      left: 171rem !important;
+      inset-inline-start: 171rem !important;
       opacity: 0 !important;
       transition: left var(--transition), opacity var(--transition), right var(--transition);
 
@@ -21,7 +21,7 @@
 
   &--right-play {
     .animation-item {
-      left: 38rem !important;
+      inset-inline-start: 38rem !important;
       opacity: 1 !important;
       transition: left var(--transition), opacity var(--transition), right var(--transition);
 
@@ -36,7 +36,7 @@
 
   &--left {
     .animation-item {
-      right: 171rem !important;
+      inset-inline-end: 171rem !important;
       opacity: 0 !important;
       transition: left var(--transition), opacity var(--transition), right var(--transition);
 
@@ -50,7 +50,7 @@
 
   &--left-play {
     .animation-item {
-      right: 40rem !important;
+      inset-inline-end: 40rem !important;
       opacity: 1 !important;
       transition: left var(--transition), opacity var(--transition), right var(--transition);
 
