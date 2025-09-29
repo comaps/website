@@ -86,8 +86,7 @@
   &__img {
     display: block;
     width: 47%;
-    // border-radius: 10rem;
-    // margin-right: -60rem;
+    padding: 10rem 30rem;
 
     @media (max-width: $media-sm) {
       border-radius: 10rem;
@@ -115,13 +114,7 @@
       }
 
       .services-support__img {
-        margin-right: 0;
-        @media (max-width: $media-sm) {
-            margin-right: auto;
-            //   border-radius: 10rem;
-            // width: calc(100% - 10rem);
-            // margin: 0 0rem -20rem 10rem;
-        }
+        right: 0rem;
       }
     }
 
@@ -216,11 +209,6 @@
         @media (max-width: $media-sm) {
             width: 100%;
             img {position: static; margin: 0 auto 16rem; width: 90%;}
-        }
-    }
-    .services-support__item.reverse {
-        .services-support__media {
-            img {left: -10rem; right: auto;}
         }
     }
 }

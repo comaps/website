@@ -19,7 +19,7 @@
     margin: 40rem 0 24rem;
     padding-bottom: 6rem;
     .button {padding-inline: 28rem; min-width: 180rem; font-size: 20rem; font-weight: 400; white-space: nowrap;}
-    @media (max-width: $media-sm) {
+    @media (max-width: $media-very_small) {
       .button {
         min-width: auto;
         flex-grow: 1;
