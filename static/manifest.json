@@ -40,12 +40,13 @@
   "related_applications": [
     {
       "platform": "play",
-      "url": "https://play.google.com/store/apps/details?id=app.comaps",
-      "id": "app.comaps"
+      "url": "https://play.google.com/store/apps/details?id=app.comaps.google",
+      "id": "app.comaps.google"
     },
     {
-      "platform": "itunes",
-      "url": "TODO:fixme"
+      "platform": "f-droid",
+      "url": "https://f-droid.org/de/packages/app.comaps.fdroid",
+      "id": "app.comaps.fdroid"
     }
   ]
 }
