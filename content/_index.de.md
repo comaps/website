@@ -9,7 +9,7 @@ extra:
   services:
     items:
       - 
-        description: 'Plane und navigiere deine Reise im Ausland nur mit GPS, es sind keine mobilen Daten notwendig. Suche Wegpunkte auf abgelegenen Wander- oder Radwegen.'
+        description: 'Plane und navigiere auf deiner Reise im Ausland, nur mit GPS ohne mobilen Daten zu benötigen. Suche Wegpunkte auf abgelegenen Wander- oder Radwegen.'
         highlight:
           icon: static/images/icons/home/wifi-off.svg
           text: 'Funktioniert ohne Internetverbindung'
@@ -34,7 +34,7 @@ extra:
         media:
           map: /images/sections/map-s-3.webp
           user: /images/sections/map-m-3.webp
-        title: 'Schone Deinen Akku'
+        title: 'Schone deinen Akku'
       - 
         description: 'Menschen wie Du helfen bei der Entwicklung der App, indem sie Orte zu <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-open-street-map"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span> hinzufügen, Feedback zu Funktionen geben und mit Code auf <span class="text-icon"><svg viewbox="0 0 4.233 4.233"> <use href="#icon-codeberg"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> beitragen, um gemeinsam großartige Karten zu erstellen. Das Projekt ist ein Fork von Oranic Maps und Maps.Me und wird von einer Open-Source-Gemeinschaft voran gebracht.'
         highlight:

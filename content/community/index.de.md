@@ -13,7 +13,7 @@ extra:
       icon: CodeBlock.svg
       link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md
       title: "**Entwickle** Funktionalität"
-    - description: "Gestalte die Richtung des Produkterlebnisses mit"
+    - description: "Gestalte die Richtung des App-Erlebnisses mit"
       icon: BezierCurve.svg
       link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md
       title: "**Designe** die Oberfläche"

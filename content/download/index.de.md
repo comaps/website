@@ -19,7 +19,7 @@ extra:
       - Offline-Karten
       - "Fokus auf Datenschutz"
       - "Keine Datenerhebung"
-      - "Von der Community gesteuert"
+      - "Von der Community getragen"
     title: "Schon heruntergeladen?"
 template: download.html
 title: "CoMaps herunterladen"

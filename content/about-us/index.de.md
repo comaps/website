@@ -23,7 +23,7 @@ extra:
     items:
       - icon: /images/icons/about/mission.svg
         media: /images/about-us/mission.png
-        text: "Entdecke die Freiheit, einfach offline zu navigieren, mit datenschutzorientierten Karten für Autofahrer, Wanderer und Fahrradfahrer, gestützt von der Community."
+        text: "Entdecke die Freiheit, einfach offline zu navigieren, mit datenschutzorientierten Karten für Autofahrer, Wanderer und Fahrradfahrer, entwickelt von der Community."
         title: Mission
       - icon: /images/icons/about/vision.svg
         media: /images/about-us/vision.png
