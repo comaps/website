@@ -14,13 +14,6 @@ extra:
   mobile_shop_name_3: F-Droid
   mobile_shop_name_4: AppGallery
   mobile_shop_name_5: Obtainium
-  steps:
-    items:
-      - "Çevrim Dışı Haritalar"
-      - Gizlilik-Odaklı
-      - "Veri toplama yok"
-      - "Topluluk Odaklı"
-    title: "Zaten indirildiniz mi?"
 template: download.html
 title: "CoMaps Yükle"
 weight: 10

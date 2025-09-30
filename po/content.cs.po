@@ -405,36 +405,6 @@ msgstr "O nás"
 msgid "Unlock the potential of navigation! Discover offline maps, privacy-centric features, and a community-driven app"
 msgstr "Odemkěte potenciál navigace! Objevte offline mapy, funkce zaměřené na soukromí a komunitou vyvíjenou aplikaci"
 
-#. type: Yaml Front Matter Array Element: extra steps items
-#: content/download/index.md
-#, no-wrap
-msgid "Offline Maps"
-msgstr "Offline mapy"
-
-#. type: Yaml Front Matter Array Element: extra steps items
-#: content/download/index.md
-#, no-wrap
-msgid "Privacy-Centric"
-msgstr "Zaměřené na soukromí"
-
-#. type: Yaml Front Matter Array Element: extra steps items
-#: content/download/index.md
-#, no-wrap
-msgid "No data collection"
-msgstr "Žádný sběr dat"
-
-#. type: Yaml Front Matter Array Element: extra steps items
-#: content/download/index.md
-#, no-wrap
-msgid "Community-Driven"
-msgstr "Komunitou vyvíjené"
-
-#. type: Yaml Front Matter Hash Value: extra steps title
-#: content/download/index.md
-#, no-wrap
-msgid "Already downloaded?"
-msgstr "Už máte staženo?"
-
 #. type: Yaml Front Matter Hash Value: title
 #: content/download/index.md
 #, no-wrap
@@ -577,6 +547,26 @@ msgstr "Hledat"
 #, no-wrap
 msgid "Connect with Us"
 msgstr "Spojte se s námi"
+
+#, no-wrap
+#~ msgid "Offline Maps"
+#~ msgstr "Offline mapy"
+
+#, no-wrap
+#~ msgid "Privacy-Centric"
+#~ msgstr "Zaměřené na soukromí"
+
+#, no-wrap
+#~ msgid "No data collection"
+#~ msgstr "Žádný sběr dat"
+
+#, no-wrap
+#~ msgid "Community-Driven"
+#~ msgstr "Komunitou vyvíjené"
+
+#, no-wrap
+#~ msgid "Already downloaded?"
+#~ msgstr "Už máte staženo?"
 
 #, no-wrap
 #~ msgid "The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information."

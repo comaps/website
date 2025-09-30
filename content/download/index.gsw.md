@@ -14,13 +14,6 @@ extra:
   mobile_shop_name_3: F-Droid
   mobile_shop_name_4: AppGallery
   mobile_shop_name_5: Obtainium
-  steps:
-    items:
-      - Offline-Charte
-      - "Fokus uf Dateschutz"
-      - "Kei Dateerhebig"
-      - "Vo de Community gstüürt"
-    title: "Scho abeglade?"
 template: download.html
 title: "CoMaps abelade"
 weight: 10

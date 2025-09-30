@@ -14,13 +14,6 @@ extra:
   mobile_shop_name_3: F-Droid
   mobile_shop_name_4: AppGallery
   mobile_shop_name_5: Obtainium
-  steps:
-    items:
-      - "Mapas sen conexión"
-      - "O foco na Privacidade"
-      - "Sen recoller datos"
-      - "Xestión pola Comunidade"
-    title: "Xa descargaches?"
 template: download.html
 title: "Descarga CoMaps"
 weight: 10

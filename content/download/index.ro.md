@@ -14,13 +14,6 @@ extra:
   mobile_shop_name_3: F-Droid
   mobile_shop_name_4: AppGallery
   mobile_shop_name_5: Obtainium
-  steps:
-    items:
-      - "Hărți Offline"
-      - "Axat pe confidențialitate"
-      - "Fără colectare de date"
-      - "Dezvoltat de comunitate"
-    title: "Ai descărcat deja?"
 template: download.html
 title: "Descarcă CoMaps"
 weight: 10

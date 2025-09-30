@@ -14,13 +14,6 @@ extra:
   mobile_shop_name_3: F-Droid
   mobile_shop_name_4: AppGallery
   mobile_shop_name_5: Obtainium
-  steps:
-    items:
-      - "Offline mapy"
-      - "Zaměřené na soukromí"
-      - "Žádný sběr dat"
-      - "Komunitou vyvíjené"
-    title: "Už máte staženo?"
 template: download.html
 title: "Stáhnout CoMaps"
 weight: 10

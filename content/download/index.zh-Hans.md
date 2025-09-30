@@ -14,13 +14,6 @@ extra:
   mobile_shop_name_3: F-Droid
   mobile_shop_name_4: AppGallery
   mobile_shop_name_5: Obtainium
-  steps:
-    items:
-      - 离线地图
-      - 以隐私为中心
-      - 不收集数据
-      - 以社区为主导
-    title: 已下载？
 template: download.html
 title: "下载 CoMaps"
 weight: 10

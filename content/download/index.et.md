@@ -14,13 +14,6 @@ extra:
   mobile_shop_name_3: F-Droid
   mobile_shop_name_4: AppGallery
   mobile_shop_name_5: Obtainium
-  steps:
-    items:
-      - "Ilma võrguühenduseta toimivad kaardid"
-      - Privaatsuskeskne
-      - "Ei mingit andmekogumist"
-      - "Juhitud kogukonna poolt"
-    title: "Oled juba alla laadinud?"
 template: download.html
 title: "Laadi CoMaps alla"
 weight: 10

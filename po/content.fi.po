@@ -405,36 +405,6 @@ msgstr "Meistä"
 msgid "Unlock the potential of navigation! Discover offline maps, privacy-centric features, and a community-driven app"
 msgstr "Vapauta navigoinnin potentiaali. Löydä offline-karttoja, yksityisyyskeskeisiä toimintoja ja yhteisön ylläpitämä sovellus"
 
-#. type: Yaml Front Matter Array Element: extra steps items
-#: content/download/index.md
-#, no-wrap
-msgid "Offline Maps"
-msgstr "Offline-kartat"
-
-#. type: Yaml Front Matter Array Element: extra steps items
-#: content/download/index.md
-#, no-wrap
-msgid "Privacy-Centric"
-msgstr "Yksityisyyskeskeinen"
-
-#. type: Yaml Front Matter Array Element: extra steps items
-#: content/download/index.md
-#, no-wrap
-msgid "No data collection"
-msgstr "Ei tiedonkeruuta"
-
-#. type: Yaml Front Matter Array Element: extra steps items
-#: content/download/index.md
-#, no-wrap
-msgid "Community-Driven"
-msgstr "Yhteisön ylläpitämä"
-
-#. type: Yaml Front Matter Hash Value: extra steps title
-#: content/download/index.md
-#, no-wrap
-msgid "Already downloaded?"
-msgstr "Oletko jo ladannut?"
-
 #. type: Yaml Front Matter Hash Value: title
 #: content/download/index.md
 #, no-wrap
@@ -577,6 +547,26 @@ msgstr "Etsi"
 #, no-wrap
 msgid "Connect with Us"
 msgstr "Ota yhteyttä"
+
+#, no-wrap
+#~ msgid "Offline Maps"
+#~ msgstr "Offline-kartat"
+
+#, no-wrap
+#~ msgid "Privacy-Centric"
+#~ msgstr "Yksityisyyskeskeinen"
+
+#, no-wrap
+#~ msgid "No data collection"
+#~ msgstr "Ei tiedonkeruuta"
+
+#, no-wrap
+#~ msgid "Community-Driven"
+#~ msgstr "Yhteisön ylläpitämä"
+
+#, no-wrap
+#~ msgid "Already downloaded?"
+#~ msgstr "Oletko jo ladannut?"
 
 #, no-wrap
 #~ msgid "The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information."

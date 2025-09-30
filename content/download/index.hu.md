@@ -14,13 +14,6 @@ extra:
   mobile_shop_name_3: F-Droid
   mobile_shop_name_4: AppGallery
   mobile_shop_name_5: Obtainium
-  steps:
-    items:
-      - "Offline térképek"
-      - Adatvédelem-központú
-      - "Nincs adatgyűjtés"
-      - Közösségvezérelt
-    title: "Letöltötte már?"
 template: download.html
 title: "CoMaps letöltése"
 weight: 10

@@ -405,36 +405,6 @@ msgstr "Teave meie kohta"
 msgid "Unlock the potential of navigation! Discover offline maps, privacy-centric features, and a community-driven app"
 msgstr "Tee juhatamine kogu oma ilus! Tutvu vallasrežiimis toimivate kaartidega, privaatse ja kogukonna juhitud rakendusega"
 
-#. type: Yaml Front Matter Array Element: extra steps items
-#: content/download/index.md
-#, no-wrap
-msgid "Offline Maps"
-msgstr "Ilma võrguühenduseta toimivad kaardid"
-
-#. type: Yaml Front Matter Array Element: extra steps items
-#: content/download/index.md
-#, no-wrap
-msgid "Privacy-Centric"
-msgstr "Privaatsuskeskne"
-
-#. type: Yaml Front Matter Array Element: extra steps items
-#: content/download/index.md
-#, no-wrap
-msgid "No data collection"
-msgstr "Ei mingit andmekogumist"
-
-#. type: Yaml Front Matter Array Element: extra steps items
-#: content/download/index.md
-#, no-wrap
-msgid "Community-Driven"
-msgstr "Juhitud kogukonna poolt"
-
-#. type: Yaml Front Matter Hash Value: extra steps title
-#: content/download/index.md
-#, no-wrap
-msgid "Already downloaded?"
-msgstr "Oled juba alla laadinud?"
-
 #. type: Yaml Front Matter Hash Value: title
 #: content/download/index.md
 #, no-wrap
@@ -577,6 +547,26 @@ msgstr "Otsi"
 #, no-wrap
 msgid "Connect with Us"
 msgstr "Suhtle meiega"
+
+#, no-wrap
+#~ msgid "Offline Maps"
+#~ msgstr "Ilma võrguühenduseta toimivad kaardid"
+
+#, no-wrap
+#~ msgid "Privacy-Centric"
+#~ msgstr "Privaatsuskeskne"
+
+#, no-wrap
+#~ msgid "No data collection"
+#~ msgstr "Ei mingit andmekogumist"
+
+#, no-wrap
+#~ msgid "Community-Driven"
+#~ msgstr "Juhitud kogukonna poolt"
+
+#, no-wrap
+#~ msgid "Already downloaded?"
+#~ msgstr "Oled juba alla laadinud?"
 
 #, no-wrap
 #~ msgid "The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information."

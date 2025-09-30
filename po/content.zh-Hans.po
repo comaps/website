@@ -405,36 +405,6 @@ msgstr "关于我们"
 msgid "Unlock the potential of navigation! Discover offline maps, privacy-centric features, and a community-driven app"
 msgstr "释放导航的潜能！探索以离线为模式、以隐私为中心、以社区为主导的地图应用"
 
-#. type: Yaml Front Matter Array Element: extra steps items
-#: content/download/index.md
-#, no-wrap
-msgid "Offline Maps"
-msgstr "离线地图"
-
-#. type: Yaml Front Matter Array Element: extra steps items
-#: content/download/index.md
-#, no-wrap
-msgid "Privacy-Centric"
-msgstr "以隐私为中心"
-
-#. type: Yaml Front Matter Array Element: extra steps items
-#: content/download/index.md
-#, no-wrap
-msgid "No data collection"
-msgstr "不收集数据"
-
-#. type: Yaml Front Matter Array Element: extra steps items
-#: content/download/index.md
-#, no-wrap
-msgid "Community-Driven"
-msgstr "以社区为主导"
-
-#. type: Yaml Front Matter Hash Value: extra steps title
-#: content/download/index.md
-#, no-wrap
-msgid "Already downloaded?"
-msgstr "已下载？"
-
 #. type: Yaml Front Matter Hash Value: title
 #: content/download/index.md
 #, no-wrap
@@ -577,6 +547,26 @@ msgstr "搜索"
 #, no-wrap
 msgid "Connect with Us"
 msgstr "联系我们"
+
+#, no-wrap
+#~ msgid "Offline Maps"
+#~ msgstr "离线地图"
+
+#, no-wrap
+#~ msgid "Privacy-Centric"
+#~ msgstr "以隐私为中心"
+
+#, no-wrap
+#~ msgid "No data collection"
+#~ msgstr "不收集数据"
+
+#, no-wrap
+#~ msgid "Community-Driven"
+#~ msgstr "以社区为主导"
+
+#, no-wrap
+#~ msgid "Already downloaded?"
+#~ msgstr "已下载？"
 
 #, no-wrap
 #~ msgid "The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information."

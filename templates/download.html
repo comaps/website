@@ -106,25 +106,5 @@
     </div>
 </section>
 
-<!--
-<section class="section-step">
-    <div class="container section-step__container">
-        <h2 class="h6 section-step__title">{{ page.extra.steps.title | safe }}</h2>
-        <div class="section-step__content">
-            {% for i in page.extra.steps.items %}
-                <div class="section-step__item">
-                    <div class="services-support__count">
-                        <span class="icon-count services-support__number">0{{ loop.index }}</span>
-                        <div class="services-support__icon">
-                            {{ load_data(path="static/images/icons/pin.svg") | safe }}
-                        </div>
-                    </div>
-                    <p class="h5 section-step__text">{{ i | safe }}</p>
-                </div>
-            {% endfor %}
-        </div>
-    </div>
-</section>
--->
 {% include 'section/donate.html' %}
 {%- endblock content %}

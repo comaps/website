@@ -14,13 +14,6 @@ extra:
   mobile_shop_name_3: F-Droid
   mobile_shop_name_4: AppGallery
   mobile_shop_name_5: Obtainium
-  steps:
-    items:
-      - Offline-kartat
-      - Yksityisyyskeskeinen
-      - "Ei tiedonkeruuta"
-      - "Yhteisön ylläpitämä"
-    title: "Oletko jo ladannut?"
 template: download.html
 title: "Lataa CoMaps"
 weight: 10

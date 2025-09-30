@@ -14,13 +14,6 @@ extra:
   mobile_shop_name_3: F-Droid
   mobile_shop_name_4: AppGallery
   mobile_shop_name_5: Obtainium
-  steps:
-    items:
-      - "Cartes hors ligne"
-      - "Centré sur la vie privée"
-      - "Aucune collecte de données"
-      - "Fait par la communauté"
-    title: "Déjà téléchargé ?"
 template: download.html
 title: "Télécharger CoMaps"
 weight: 10

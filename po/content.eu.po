@@ -407,36 +407,6 @@ msgstr "Honi buruz"
 msgid "Unlock the potential of navigation! Discover offline maps, privacy-centric features, and a community-driven app"
 msgstr "Desblokeatu nabigazioaren potentziala! Ezagutu lineaz kanpoko mapak, pribatutasunean zentratutako ezaugarriak eta komunitateak bultzatutako aplikazioa"
 
-#. type: Yaml Front Matter Array Element: extra steps items
-#: content/download/index.md
-#, no-wrap
-msgid "Offline Maps"
-msgstr "Lineaz kanpoko mapak"
-
-#. type: Yaml Front Matter Array Element: extra steps items
-#: content/download/index.md
-#, no-wrap
-msgid "Privacy-Centric"
-msgstr "Pribatutasunean zentratua"
-
-#. type: Yaml Front Matter Array Element: extra steps items
-#: content/download/index.md
-#, no-wrap
-msgid "No data collection"
-msgstr "Datu bilketarik gabe"
-
-#. type: Yaml Front Matter Array Element: extra steps items
-#: content/download/index.md
-#, no-wrap
-msgid "Community-Driven"
-msgstr "Komunitateak gidatua"
-
-#. type: Yaml Front Matter Hash Value: extra steps title
-#: content/download/index.md
-#, no-wrap
-msgid "Already downloaded?"
-msgstr "Deskargatuta?"
-
 #. type: Yaml Front Matter Hash Value: title
 #: content/download/index.md
 #, no-wrap
@@ -579,6 +549,26 @@ msgstr "Bilatu"
 #, no-wrap
 msgid "Connect with Us"
 msgstr "Jarri kontaktuan gurekin"
+
+#, no-wrap
+#~ msgid "Offline Maps"
+#~ msgstr "Lineaz kanpoko mapak"
+
+#, no-wrap
+#~ msgid "Privacy-Centric"
+#~ msgstr "Pribatutasunean zentratua"
+
+#, no-wrap
+#~ msgid "No data collection"
+#~ msgstr "Datu bilketarik gabe"
+
+#, no-wrap
+#~ msgid "Community-Driven"
+#~ msgstr "Komunitateak gidatua"
+
+#, no-wrap
+#~ msgid "Already downloaded?"
+#~ msgstr "Deskargatuta?"
 
 #, no-wrap
 #~ msgid "The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information."

@@ -405,36 +405,6 @@ msgstr "À propos de nous"
 msgid "Unlock the potential of navigation! Discover offline maps, privacy-centric features, and a community-driven app"
 msgstr "Libérez le potentiel de la navigation ! Découvrez des cartes hors ligne, des fonctionnalités centrées sur la vie privée et une application communautaire"
 
-#. type: Yaml Front Matter Array Element: extra steps items
-#: content/download/index.md
-#, no-wrap
-msgid "Offline Maps"
-msgstr "Cartes hors ligne"
-
-#. type: Yaml Front Matter Array Element: extra steps items
-#: content/download/index.md
-#, no-wrap
-msgid "Privacy-Centric"
-msgstr "Centré sur la vie privée"
-
-#. type: Yaml Front Matter Array Element: extra steps items
-#: content/download/index.md
-#, no-wrap
-msgid "No data collection"
-msgstr "Aucune collecte de données"
-
-#. type: Yaml Front Matter Array Element: extra steps items
-#: content/download/index.md
-#, no-wrap
-msgid "Community-Driven"
-msgstr "Fait par la communauté"
-
-#. type: Yaml Front Matter Hash Value: extra steps title
-#: content/download/index.md
-#, no-wrap
-msgid "Already downloaded?"
-msgstr "Déjà téléchargé ?"
-
 #. type: Yaml Front Matter Hash Value: title
 #: content/download/index.md
 #, no-wrap
@@ -577,6 +547,26 @@ msgstr "Rechercher"
 #, no-wrap
 msgid "Connect with Us"
 msgstr "Rentrons en contact"
+
+#, no-wrap
+#~ msgid "Offline Maps"
+#~ msgstr "Cartes hors ligne"
+
+#, no-wrap
+#~ msgid "Privacy-Centric"
+#~ msgstr "Centré sur la vie privée"
+
+#, no-wrap
+#~ msgid "No data collection"
+#~ msgstr "Aucune collecte de données"
+
+#, no-wrap
+#~ msgid "Community-Driven"
+#~ msgstr "Fait par la communauté"
+
+#, no-wrap
+#~ msgid "Already downloaded?"
+#~ msgstr "Déjà téléchargé ?"
 
 #, no-wrap
 #~ msgid "The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information."

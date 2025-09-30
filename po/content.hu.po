@@ -405,36 +405,6 @@ msgstr "Névjegy"
 msgid "Unlock the potential of navigation! Discover offline maps, privacy-centric features, and a community-driven app"
 msgstr "Fedezze fel a navigációban rejlő lehetőségeket! Fedezze fel az offline térképeket, az adatvédelemre összpontosító funkciókat és a közösség által irányított alkalmazást"
 
-#. type: Yaml Front Matter Array Element: extra steps items
-#: content/download/index.md
-#, no-wrap
-msgid "Offline Maps"
-msgstr "Offline térképek"
-
-#. type: Yaml Front Matter Array Element: extra steps items
-#: content/download/index.md
-#, no-wrap
-msgid "Privacy-Centric"
-msgstr "Adatvédelem-központú"
-
-#. type: Yaml Front Matter Array Element: extra steps items
-#: content/download/index.md
-#, no-wrap
-msgid "No data collection"
-msgstr "Nincs adatgyűjtés"
-
-#. type: Yaml Front Matter Array Element: extra steps items
-#: content/download/index.md
-#, no-wrap
-msgid "Community-Driven"
-msgstr "Közösségvezérelt"
-
-#. type: Yaml Front Matter Hash Value: extra steps title
-#: content/download/index.md
-#, no-wrap
-msgid "Already downloaded?"
-msgstr "Letöltötte már?"
-
 #. type: Yaml Front Matter Hash Value: title
 #: content/download/index.md
 #, no-wrap
@@ -577,6 +547,26 @@ msgstr "Keresés"
 #, no-wrap
 msgid "Connect with Us"
 msgstr "Lépjen velünk kapcsolatba"
+
+#, no-wrap
+#~ msgid "Offline Maps"
+#~ msgstr "Offline térképek"
+
+#, no-wrap
+#~ msgid "Privacy-Centric"
+#~ msgstr "Adatvédelem-központú"
+
+#, no-wrap
+#~ msgid "No data collection"
+#~ msgstr "Nincs adatgyűjtés"
+
+#, no-wrap
+#~ msgid "Community-Driven"
+#~ msgstr "Közösségvezérelt"
+
+#, no-wrap
+#~ msgid "Already downloaded?"
+#~ msgstr "Letöltötte már?"
 
 #, no-wrap
 #~ msgid "The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information."

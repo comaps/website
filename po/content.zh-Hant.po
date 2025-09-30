@@ -407,36 +407,6 @@ msgstr "關於我們"
 msgid "Unlock the potential of navigation! Discover offline maps, privacy-centric features, and a community-driven app"
 msgstr "發掘導航的潛能！探索以離線為模式、以隱私為中心、以社群為主導的地圖應用"
 
-#. type: Yaml Front Matter Array Element: extra steps items
-#: content/download/index.md
-#, no-wrap
-msgid "Offline Maps"
-msgstr "離線地圖"
-
-#. type: Yaml Front Matter Array Element: extra steps items
-#: content/download/index.md
-#, no-wrap
-msgid "Privacy-Centric"
-msgstr "以隱私為中心"
-
-#. type: Yaml Front Matter Array Element: extra steps items
-#: content/download/index.md
-#, no-wrap
-msgid "No data collection"
-msgstr "不收集資料"
-
-#. type: Yaml Front Matter Array Element: extra steps items
-#: content/download/index.md
-#, no-wrap
-msgid "Community-Driven"
-msgstr "以社群為主導"
-
-#. type: Yaml Front Matter Hash Value: extra steps title
-#: content/download/index.md
-#, no-wrap
-msgid "Already downloaded?"
-msgstr "已下載？"
-
 #. type: Yaml Front Matter Hash Value: title
 #: content/download/index.md
 #, no-wrap
@@ -579,6 +549,26 @@ msgstr "搜尋"
 #, no-wrap
 msgid "Connect with Us"
 msgstr "聯絡我們"
+
+#, no-wrap
+#~ msgid "Offline Maps"
+#~ msgstr "離線地圖"
+
+#, no-wrap
+#~ msgid "Privacy-Centric"
+#~ msgstr "以隱私為中心"
+
+#, no-wrap
+#~ msgid "No data collection"
+#~ msgstr "不收集資料"
+
+#, no-wrap
+#~ msgid "Community-Driven"
+#~ msgstr "以社群為主導"
+
+#, no-wrap
+#~ msgid "Already downloaded?"
+#~ msgstr "已下載？"
 
 #, no-wrap
 #~ msgid "The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information."

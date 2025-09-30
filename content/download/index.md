@@ -17,11 +17,4 @@ extra:
   mobile_shop_name_5: Obtainium
   desktop_shop_name_1: MacOS
   desktop_shop_name_2: Linux
-  steps:
-    title: Already downloaded?
-    items:
-      - Offline Maps
-      - Privacy-Centric
-      - No data collection
-      - Community-Driven
 ---

@@ -14,13 +14,6 @@ extra:
   mobile_shop_name_3: F-Droid
   mobile_shop_name_4: AppGallery
   mobile_shop_name_5: Obtainium
-  steps:
-    items:
-      - Офлайн-карти
-      - "Орієнтований на конфіденційність"
-      - "Без збору даних"
-      - "Керований спільнотою"
-    title: "Вже завантажили?"
 template: download.html
 title: "Завантажити CoMaps"
 weight: 10
