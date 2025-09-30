@@ -1,7 +1,7 @@
 <div class="container section-social__row">
     {% if config.extra.social %}
         {% for soc in config.extra.social %}
-            <a href="{{ soc.link }}" class="section-social__item {% if soc.class %}{{ soc.class }}{% endif %}">{{ load_data(path="static/images/icons/social/" ~ soc.icon) | safe }}</a>
+            <a href="{{ soc.link }}" aria-label="{{ soc.title }}" class="section-social__item {% if soc.class %}{{ soc.class }}{% endif %}">{{ load_data(path="static/images/icons/social/" ~ soc.icon) | safe }}</a>
         {% endfor %}
     {% endif %}
 </div>
