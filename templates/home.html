@@ -17,7 +17,7 @@
                 <div class="services__card">
                     <img class="services__img services__img--first animation-item" src="{{ i.media.user }}" alt="">
                     <img class="services__img" src="{{ i.media.map }}" alt="{{ i.title }}">
-                    <a class="button button--card services__button" href="#">
+                    <a class="button button--card services__button">
                         {{ i.highlight.text | markdown | safe }}
                         {{ load_data(path=i.highlight.icon) | safe }}
                     </a>
