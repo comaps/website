@@ -27,7 +27,7 @@ extra:
       title: "**Afegeix** informació sobre els llocs"
     - description: "Ajuda a la gent a fer servir l'aplicació i respon a dubtes"
       icon: Headset.svg
-      link: "#"
+      link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md
       title: "**Ajuda** Dona suport"
   preview_image: donate/donate.png
   stay_connected_section_title: "connect with us"

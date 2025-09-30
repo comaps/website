@@ -27,7 +27,7 @@ extra:
       title: "**Adaugă** Informații locație"
     - description: "Ajută oamenii să folosească aplicația și răspunde la întrebări"
       icon: Headset.svg
-      link: "#"
+      link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md
       title: "**Ajutor** Suport"
   preview_image: donate/donate.png
   stay_connected_section_title: "connect with us"

@@ -27,7 +27,7 @@ extra:
       title: "**Helyinformációk hozzáadása**"
     - description: "Segítsen az embereknek az alkalmazás használatában, és válaszoljon a kérdéseikre"
       icon: Headset.svg
-      link: "#"
+      link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md
       title: "**Súgó és támogatás**"
   preview_image: donate/donate.png
   stay_connected_section_title: "connect with us"

@@ -27,7 +27,7 @@ extra:
       title: "**添加** 位置資訊"
     - description: 協助他人掌握本應用，耐心回應社群的疑問
       icon: Headset.svg
-      link: "#"
+      link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md
       title: "**說明** 支援"
   preview_image: donate/donate.png
   stay_connected_section_title: "connect with us"

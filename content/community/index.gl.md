@@ -27,7 +27,7 @@ extra:
       title: "**Engade** Lugares"
     - description: "Axuda a outras persoas a usar a aplicación e responde a preguntas"
       icon: Headset.svg
-      link: "#"
+      link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md
       title: "**Axuda**"
   preview_image: donate/donate.png
   stay_connected_section_title: "connect with us"

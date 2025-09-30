@@ -27,7 +27,7 @@ extra:
       title: "**Lisa** asukohateavet"
     - description: "Aita inimestel seda rakendust kasutada ning vasta nende küsimustele"
       icon: Headset.svg
-      link: "#"
+      link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md
       title: "**Abiteave** ja kasutajatugi"
   preview_image: donate/donate.png
   stay_connected_section_title: "connect with us"

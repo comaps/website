@@ -27,7 +27,7 @@ extra:
       title: "**Gehitu** tokiko informazioa"
     - description: "Lagundu jendeari aplikazioa erabiltzen, eta erantzun galderak"
       icon: Headset.svg
-      link: "#"
+      link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md
       title: "**Laguntza** zerbitzua"
   preview_image: donate/donate.png
   stay_connected_section_title: "connect with us"

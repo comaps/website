@@ -27,7 +27,7 @@ extra:
       title: "**Lisää** paikan tiedot"
     - description: "Auta ihmisiä sovelluksen käytössä ja vastaa kysymyksiin"
       icon: Headset.svg
-      link: "#"
+      link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md
       title: "**Auta** ja anna tukea muille"
   preview_image: donate/donate.png
   stay_connected_section_title: "connect with us"

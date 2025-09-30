@@ -34,5 +34,5 @@ extra:
     - title: "**Help** Support"
       description: "Help people use the app, and answer questions"
       icon: "Headset.svg"
-      link: "#"
+      link: "https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md"
 ---

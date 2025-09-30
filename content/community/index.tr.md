@@ -27,7 +27,7 @@ extra:
       title: "Yer Bilgisi **Ekle**"
     - description: "İnsanların uygulamayı kullanmasına yardımcı olun ve soruları yanıtlayın"
       icon: Headset.svg
-      link: "#"
+      link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md
       title: "**Yardım**"
   preview_image: donate/donate.png
   stay_connected_section_title: "connect with us"

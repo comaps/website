@@ -27,7 +27,7 @@ extra:
       title: "Ortsinformatione **hinzuefüege**"
     - description: "Hilf Mensche, d App z nutze, und beantwort ihri Frage"
       icon: Headset.svg
-      link: "#"
+      link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md
       title: "**Hilf** bim Support"
   preview_image: donate/donate.png
   stay_connected_section_title: "connect with us"
