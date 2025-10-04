@@ -21,7 +21,7 @@ extra:
         text: Currently there is no full time team who is working to develop new features and improve the service. To consistently move the product forward, a core team is needed.
         media: /images/donate/developers.webp
       - title: Infrastructure
-        text: We pay for fast servers, so anyone in the world can download free map data updates without delays. The maps data transfers are hundreds of terabytes monthly, and the amount is growing.
+        text: We have to keep up fast servers, so anyone in the world can download free map data updates without delays. These maps data transfers make up large, and growing, amounts of data each month.
         media: /images/donate/infrastructure.webp
       - title: Support
         text: User support, fixing bugs, and improving the stability of the app are our top priority. The list of requests and bug reports grows every day, and there are many support requests to respond to on the App Store, Google Play, and support emails.
