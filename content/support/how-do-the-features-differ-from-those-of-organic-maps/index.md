@@ -15,11 +15,15 @@ The primary differences are how the projects are run - CoMaps is about transpare
 So far the improvements in the app include:
 
 - Improved map colors
-- Android: automatic backups for favorites (bookmarks, tracks)
-- Android: customizable button on home screen
+- Improved routing engine with penalties and conditional restrictions
 - More dense/detailed altitude contour lines for some regions
 - Removed semi-transparent background from Subway layer
 - Improved visibility of some map objects
+- Increased details about charging stations for electrical vehicles
+- On Android: 
+  - Automatic backups for favorites (bookmarks, tracks)
+  - Customizable button on home screen
+  - Improved navigation screen
 - And many smaller updates
 
 
