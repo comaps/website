@@ -1,7 +1,6 @@
 ---
 title: "Why I Use CoMaps to Find Hiking Areas Near Me"
 description: "CoMaps is My Preferred Hiking App"
-author: "IXVG47QZ"
 date: 2025-09-04T18:10:00-07:00
 slug: "why-i-use-comaps-to-find-hiking-areas-near-me"
 taxonomies:

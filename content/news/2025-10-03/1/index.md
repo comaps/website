@@ -1,7 +1,6 @@
 ---
 title: "Improving routing data by correcting 1% of errors"
 description: "How navigation apps take penalties into account"
-author: "jeanbaptisteC"
 date: 2025-10-03T15:10:00-03:00
 slug: "improving-routing-data-osm-errors"
 taxonomies:
