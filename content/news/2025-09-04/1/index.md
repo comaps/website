@@ -8,6 +8,7 @@ taxonomies:
 extra:
     author: "IXVG47QZ"
     author_username: "IXVG47QZ"
+    keywords: ["hiking app", "hiking trail", "hiking near me", "hiking GPS", "hike with water near me"]
 ---
 
 There are many hiking areas near me, which is nice because I like taking hikes out in nature preserves from time to time. Hiking is healthy, helps me feel more in touch with the rest of nature, and get's me away from the screen for a while. Here are some reasons I use CoMaps when hiking, and why you should try CoMaps on your next hiking adventure too!
