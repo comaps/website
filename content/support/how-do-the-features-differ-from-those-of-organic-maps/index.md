@@ -23,9 +23,9 @@ Since the split in April 2025, CoMaps has developed a number of features:
 - Better visibility for many map objects, and enhanced map colors for light and dark modes
 - Improved first map download experience
 - Improvements to search
-- Additional Points of Interest on map
-- Improve layouts for Right-to-Left languages
-- Panoramax pictures links in Points of Interest
+- Additional Points of Interest on the map
+- Improved layouts for Right-to-Left languages
+- Panoramax picture links in Points of Interest
 - Charging station info for electric vehicles (Android)
 - Improved navigation screen (Android)
 - And many more 
