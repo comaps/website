@@ -8,23 +8,27 @@ extra:
   order: 50
 ---
 
-As the split is recent, the CoMaps app is still very similar to Organic Maps.
+CoMaps and Organic Maps are very similar as they stated from the same source code.
 
-The primary differences are how the projects are run - CoMaps is about transparency and community.
+A major difference between the projects is how they are governed and run - CoMaps is about transparency and community.
 
-So far the improvements in the app include:
+Since the split in April 2025, CoMaps has developed a number of features which Organic Maps does not have:
 
-- Improved map colors
-- Improved routing engine with penalties and conditional restrictions
-- More dense/detailed altitude contour lines for some regions
-- Removed semi-transparent background from Subway layer
-- Improved visibility of some map objects
-- Increased details about charging stations for electrical vehicles
-- On Android: 
-  - Automatic backups for favorites (bookmarks, tracks)
-  - Customizable button on home screen
-  - Improved navigation screen
-- And many smaller updates
+- Improved routing engine and more accurate arrival time estimation
+- More dense/detailed altitude contour lines for many regions
+- Customizable button on home screen
+- Improvements for entering OpenStreetMap data - OSM Notes and POI last checked date
+- Routing option to avoid steps
+- Better visibility for many map objects, and enhanced map colors for light and dark modes
+- Improved first map download experience
+- Improvements to search
+- Additional Points of Interest on map
+- Improve layouts for Right-to-Left languages
+- Panoramax pictures links in Points of Interest
+- Charging station info for electric vehicles 
+- Automatic sync of Favorites, bookmarks, tracks (Android)
+- Improved navigation screen (Android)
+- And many more 
 
 
 The full list of updates:
