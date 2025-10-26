@@ -21,7 +21,6 @@ Since the split in April 2025, CoMaps has developed a number of features:
 - Automatic backup of Favorites (Bookmarks, Tracks)
 - OpenStreetMap functionality: OSM Notes and POI last checked date
 - Better visibility for many map objects, and enhanced map colors for light and dark modes
-- Improved first map download experience
 - Improvements to search
 - Additional Points of Interest on the map
 - Improved layouts for Right-to-Left languages
