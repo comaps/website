@@ -15,7 +15,7 @@ A major difference between the projects is how they are governed and run - CoMap
 Since the split in April 2025, CoMaps has developed a number of features:
 
 - Improved routing engine and more accurate arrival time estimation
-- Routing option to avoid steps
+- Routing option: paved roads and avoid steps
 - More dense/detailed altitude contour lines for many regions
 - Customizable button on home screen
 - Automatic backup of Favorites (Bookmarks, Tracks)
