@@ -16,7 +16,7 @@ extra:
         text: "Tällä hetkellä sovelluskehityksen ja uusien ominaisuuksien kehityksen käytettävissä ei ole kokoaikaista tiimiä. Sovelluksen johdonmukainen eteenpäin vieminen edellyttää ydintiimiä."
         title: Kehittäjät
       - media: /images/donate/infrastructure.webp
-        text: "Maksamme nopeista palvelimista, jotta kaikki maailmassa voivat ladata ilmaisia karttapäivityksiä ilman viiveitä. Karttadatan siirto kuluttaa satoja teratavuja kuukaudessa ja määrä on kasvussa."
+        text: "We have to keep up fast servers, so anyone in the world can download free map data updates without delays. These maps data transfers make up large, and growing, amounts of data each month."
         title: Infrastruktuuri
       - media: /images/donate/support.webp
         text: "Käyttäjätuki, virheiden korjaaminen ja sovelluksen vakauden parantaminen ovat ensisijaisia tavoitteitamme."
@@ -30,7 +30,7 @@ extra:
       text: "Olemme muutama harrastaja, jotka käyttävät projektiin vapaa-aikaansa. Rakastamme sitä, mitä teemme ja rakastamme käyttäjiämme"
     - icon: static/images/icons/donate/icon03.svg
       text: "Työskentelemme käyttäjien tuella kehittääksemme yksityisyyteen panostavaan karttanavigoinnin"
-  service_text: ~
+  service_text:
   service_title: "Created with love by enthusiast volunteers"
 template: donate.html
 title: Lahjoita

@@ -16,7 +16,7 @@ extra:
         text: "Наразі немає команди, яка б працювала повний робочий день над розробкою нових функцій та покращенням сервісу. Для стабільного розвитку продукту потрібна основна команда."
         title: Розробники
       - media: /images/donate/infrastructure.webp
-        text: "Ми оплачуємо швидкі сервери, аби кожен у світі міг без затримок завантажувати безкоштовні оновлення картографічних даних. Обсяги передачі картографічних даних сягають сотень терабайтів щомісяця і постійно зростають."
+        text: "We have to keep up fast servers, so anyone in the world can download free map data updates without delays. These maps data transfers make up large, and growing, amounts of data each month."
         title: Інфраструктура
       - media: /images/donate/support.webp
         text: "Підтримка користувачів, виправлення помилок і покращення стабільності додатку є нашим головним пріоритетом. Список запитів та повідомлень про помилки зростає щодня, і ми маємо багато звернень до служби підтримки в App Store, Google Play та на електронну пошту, на які потрібно відповідати."
@@ -30,7 +30,7 @@ extra:
       text: "Ми — кілька ентузіастів, які роблять свій внесок у вільний час. Ми любимо те, що робимо, і любимо наших користувачів"
     - icon: static/images/icons/donate/icon03.svg
       text: "Завдяки вашій підтримці ми працюємо над створенням навігаційного додатку з фокусом на приватність, який стане кращим вибором на ринку"
-  service_text: ~
+  service_text:
   service_title: "Created with love by enthusiast volunteers"
 template: donate.html
 title: Пожертвувати

@@ -265,8 +265,9 @@ msgstr "開發人員"
 
 #. type: Yaml Front Matter Hash Value: extra funding items text
 #: content/donate/index.md
-#, no-wrap
-msgid "We pay for fast servers, so anyone in the world can download free map data updates without delays. The maps data transfers are hundreds of terabytes monthly, and the amount is growing."
+#, fuzzy, no-wrap
+#| msgid "We pay for fast servers, so anyone in the world can download free map data updates without delays. The maps data transfers are hundreds of terabytes monthly, and the amount is growing."
+msgid "We have to keep up fast servers, so anyone in the world can download free map data updates without delays. These maps data transfers make up large, and growing, amounts of data each month."
 msgstr "我們定期支付快速伺服器的費用，以便全世界任何人都可以無延遲地下載免費地圖資料更新。地圖資料傳輸量每月高達數百 TB，而且還在持續增加中。"
 
 #. type: Yaml Front Matter Hash Value: extra funding items title

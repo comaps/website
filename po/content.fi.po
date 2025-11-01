@@ -6,7 +6,6 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"PO-Revision-Date: 2025-10-27 00:55+0000\n"
 "Last-Translator: phama <phama@noreply.codeberg.org>\n"
 "Language-Team: Finnish <https://translate.codeberg.org/projects/comaps/website/fi/>\n"
 "Language: fi\n"
@@ -264,8 +263,9 @@ msgstr "Kehittäjät"
 
 #. type: Yaml Front Matter Hash Value: extra funding items text
 #: content/donate/index.md
-#, no-wrap
-msgid "We pay for fast servers, so anyone in the world can download free map data updates without delays. The maps data transfers are hundreds of terabytes monthly, and the amount is growing."
+#, fuzzy, no-wrap
+#| msgid "We pay for fast servers, so anyone in the world can download free map data updates without delays. The maps data transfers are hundreds of terabytes monthly, and the amount is growing."
+msgid "We have to keep up fast servers, so anyone in the world can download free map data updates without delays. These maps data transfers make up large, and growing, amounts of data each month."
 msgstr "Maksamme nopeista palvelimista, jotta kaikki maailmassa voivat ladata ilmaisia karttapäivityksiä ilman viiveitä. Karttadatan siirto kuluttaa satoja teratavuja kuukaudessa ja määrä on kasvussa."
 
 #. type: Yaml Front Matter Hash Value: extra funding items title

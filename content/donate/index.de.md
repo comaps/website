@@ -16,7 +16,7 @@ extra:
         text: "Momentan gibt es kein bezahltes Team von Entwickler*innen, um neue Funktionen zu entwickeln und die App zu verbessern. Um das Programm kontinuierlich weiterzuentwickeln, wird ein Kernteam gebraucht."
         title: Entwickler:innen
       - media: /images/donate/infrastructure.webp
-        text: "Wir zahlen für schnelle Server, damit jeder weltweit gratis und verzögerungsfrei Kartendatenaktualisierungen herunterladen kann. Das diesbezügliche Datenvolumen beläuft sich auf Hunderte Terabyte monatlich und steigt weiterhin."
+        text: "We have to keep up fast servers, so anyone in the world can download free map data updates without delays. These maps data transfers make up large, and growing, amounts of data each month."
         title: Infrastruktur
       - media: /images/donate/support.webp
         text: "Hilfestellung für Benutzer, Fehlerbehebungen und Verbesserung der Stabilität der App sind unsere höchsten Prioritäten. Die Liste der Anfragen und gemeldeten Fehler wächst täglich, und es gibt viele Supportanfragen im App Store, Google Play und via E-Mail."
@@ -30,7 +30,7 @@ extra:
       text: "Wir sind eine Gemeinschaft ehrenamtlicher Enthusiasten. Wir lieben, was wir tun, und wir lieben unsere User"
     - icon: static/images/icons/donate/icon03.svg
       text: "Mit Deiner Hilfe arbeiten wir auf eine datenschutzorientierten Navigationsapp, welche die bevorzugte Wahl am Markt darstellen soll, hin"
-  service_text: ~
+  service_text:
   service_title: "Created with love by enthusiast volunteers"
 template: donate.html
 title: Spenden

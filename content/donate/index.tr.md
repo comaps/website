@@ -16,7 +16,7 @@ extra:
         text: "Şu anda yeni özellikler geliştirmek ve hizmeti iyileştirmek için çalışan tam zamanlı bir ekip yok. Ürünü sürekli olarak ileriye taşımak için bir çekirdek ekibe ihtiyaç var."
         title: "Kod Gelistiricileri"
       - media: /images/donate/infrastructure.webp
-        text: "Hızlı sunucular için ödeme yapıyoruz, böylece dünyadaki herkes gecikmeden ücretsiz harita verisi güncellemelerini indirebiliyor. Harita verisi aktarımları aylık yüzlerce terabayt seviyesinde ve bu miktar giderek artıyor."
+        text: "We have to keep up fast servers, so anyone in the world can download free map data updates without delays. These maps data transfers make up large, and growing, amounts of data each month."
         title: Altyapı
       - media: /images/donate/support.webp
         text: "Kullanıcı desteği, hataların giderilmesi ve uygulamanın kararlılığının iyileştirilmesi en büyük önceliğimizdir. Talep ve hata bildirimlerinin listesi her geçen gün büyüyor ve App Store, Google Play ve destek e-postalarında yanıtlanması gereken birçok destek talebi bulunuyor."
@@ -30,7 +30,7 @@ extra:
       text: "Boş zamanlarımızda katkıda bulunan birkaç meraklıdan oluşuyoruz. Yaptığımız işi, ve kullanıcılarımızı seviyoruz"
     - icon: static/images/icons/donate/icon03.svg
       text: "Desteğinizle, piyasada tercih edilen seçenek olan gizlilik odaklı harita navigasyonuna doğru çalışıyoruz"
-  service_text: ~
+  service_text:
   service_title: "Created with love by enthusiast volunteers"
 template: donate.html
 title: "Bağış yapın"

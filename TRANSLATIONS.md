@@ -88,12 +88,12 @@ Here is a step-by-step guide:
 5. Now you can fetch the current state of the _Weblate_ remote: `git fetch weblate`
 6. To be able to rebase the Codeberg `main` into the Weblate one, you need to have an editable branch. You can create it using `git checkout -b resolve_translate weblate/main`. This creates a branch called `resolve_translate` off the Weblate remote, and also switches you to this newly created branch.
 7. You can now run `git rebase main`, to rebase the branch and resolve any conflicts that are between the two. (**Note: Make sure to run this command from your `resolve_translate` branch**)
-8. Once you have resolved the conflicts, you can push the `resolve_translate` branch to Codeberg: `git push` 
+8. Once you have resolved the conflicts, you can push the `resolve_translate` branch to Codeberg: `git push`
 9. Make a PR for merging your conflict-resolution-branch into `main` on Codeberg, and get it reviewed as usual
-10. Once the PR is merged into `main` on Codeberg and the merge conflict is gone, you can now unlock the translations on Weblate again. 
+10. Once the PR is merged into `main` on Codeberg and the merge conflict is gone, you can now unlock the translations on Weblate again.
 11. **Optionally if necessary**: If the conflict hasn't resolved through the steps, you can optionally reset the Weblate from the admin backend for the `website` component, this forces the current state from the Codeberg git repo into Weblate
 
-Using these steps all existing translations can still be kept and rebased into the repo, without losing work. The important bit is that you need to ensure that all translations are in the Weblate-internal git repository before you rebase, so that they get into the _actual_ Codeberg repo. 
+Using these steps all existing translations can still be kept and rebased into the repo, without losing work. The important bit is that you need to ensure that all translations are in the Weblate-internal git repository before you rebase, so that they get into the _actual_ Codeberg repo.
 
 [po4a]: https://po4a.org/index.php.en
 [weblate]: https://translate.codeberg.org/projects/comaps/website

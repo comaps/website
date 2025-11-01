@@ -265,8 +265,9 @@ msgstr "Garatzaileak"
 
 #. type: Yaml Front Matter Hash Value: extra funding items text
 #: content/donate/index.md
-#, no-wrap
-msgid "We pay for fast servers, so anyone in the world can download free map data updates without delays. The maps data transfers are hundreds of terabytes monthly, and the amount is growing."
+#, fuzzy, no-wrap
+#| msgid "We pay for fast servers, so anyone in the world can download free map data updates without delays. The maps data transfers are hundreds of terabytes monthly, and the amount is growing."
+msgid "We have to keep up fast servers, so anyone in the world can download free map data updates without delays. These maps data transfers make up large, and growing, amounts of data each month."
 msgstr "Zerbitzari azkarrak ordaintzen ditugu, munduko edonork mapen datuen doako eguneraketak deskarga ditzan atzerapenik gabe. Mapen datu-transferentziak ehunka terabytekoak dira hilero, eta kopurua hazten ari da."
 
 #. type: Yaml Front Matter Hash Value: extra funding items title
