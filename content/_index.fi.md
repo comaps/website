@@ -16,7 +16,7 @@ extra:
         media:
           map: /images/sections/map-s-1.webp
           user: /images/sections/map-m-1.webp
-        title: 'Offline-haku ja reititys'
+        title: 'Ei-verkotilassa haku ja reititys'
       - 
         description: 'Sovellus on suunniteltu yksityisyys edellä - se ei tunnista, seuraa tai kerää mitään tietoja käyttäjistä. CoMaps on myös auditoitu <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-exodus"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/) toimesta.'
         highlight:

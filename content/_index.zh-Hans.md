@@ -43,7 +43,7 @@ extra:
         media:
           map: /images/sections/map-s-4.webp
           user: /images/sections/map-m-4.webp
-        title: 由社区合作创建的免费应用
+        title: 自由且社区共建
 sort_by: weight
 template: home.html
 title: 离线远足、骑行、驾驶⸺隐私保护下的导航

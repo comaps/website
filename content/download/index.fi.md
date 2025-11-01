@@ -1,5 +1,5 @@
 ---
-description: "Vapauta navigoinnin potentiaali. Löydä offline-karttoja, yksityisyyskeskeisiä toimintoja ja yhteisön ylläpitämä sovellus"
+description: "Avaa navigoinnin potentiaali! Tutustu ei-verkkotilassa oleviin karttoihin, yksityisyyttä suojaaviin ominaisuuksiin ja yhteisölähtöiseen sovellukseen"
 extra:
   desktop_payment_methods_1: MacOS
   desktop_payment_methods_2: Linux

@@ -16,7 +16,7 @@ extra:
         text: 到目前为止，我们没有一个致力于开发新功能和改进服务的全职团队。然而，若要持续推动产品的发展，拥有一个核心团队至关重要。
         title: 开发者们
       - media: /images/donate/infrastructure.webp
-        text: "我们定期支付快速服务器的费用，以便全世界任何人都可以无延迟地下载免费地图数据更新。地图数据传输量每月高达数百 TB，而且还在不断增长。"
+        text: "We have to keep up fast servers, so anyone in the world can download free map data updates without delays. These maps data transfers make up large, and growing, amounts of data each month."
         title: 设施
       - media: /images/donate/support.webp
         text: "用户支持、修复错误、提升应用稳定性是我们的首要任务。错误报告的数量与日俱增，而 App Store、Google Play 和客服邮箱里也有许多支持请求需要回复。"
@@ -30,7 +30,7 @@ extra:
       text: 我们是一小群爱好者，利用闲暇之余做贡献，并为此项目花费家财。我们热爱我们的工作，也热爱我们的用户
     - icon: static/images/icons/donate/icon03.svg
       text: 在您的支持下，我们正在努力开发注重隐私的地图导航，成为市场上的首选
-  service_text: ~
+  service_text:
   service_title: "Created with love by enthusiast volunteers"
 template: donate.html
 title: 捐助我们

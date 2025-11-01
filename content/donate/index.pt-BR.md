@@ -16,7 +16,7 @@ extra:
         text: "Atualmente, não há uma equipe trabalhando em tempo integral no desenvolvimento de novos recursos e na melhoria do serviço. Para desenvolver o produto de forma consistente, é necessária uma equipe principal."
         title: Desenvolvedores
       - media: /images/donate/infrastructure.webp
-        text: "Pagamos por servidores rápidos, para que qualquer pessoa no mundo possa baixar atualizações gratuitas dos mapas sem atrasos. As transferências de dados de mapas são de centenas de terabytes por mês, e a quantidade está crescendo."
+        text: "We have to keep up fast servers, so anyone in the world can download free map data updates without delays. These maps data transfers make up large, and growing, amounts of data each month."
         title: Infraestrutura
       - media: /images/donate/support.webp
         text: "Suporte ao usuário, correção de erros e melhorias na estabilidade do aplicativo são nossas principais prioridades. A lista de pedidos e relatórios de erros cresce a cada dia, e há muitas solicitações de suporte para responder na App Store, no Google Play e por e-mails."
@@ -30,7 +30,7 @@ extra:
       text: "Somos alguns entusiastas que contribuem em nosso tempo livre. Amamos o que fazemos e amamos nossos usuários"
     - icon: static/images/icons/donate/icon03.svg
       text: "Com o seu apoio, estamos trabalhando para navegação focada na privacidade e que seja a escolha preferida do mercado"
-  service_text: ~
+  service_text:
   service_title: "Created with love by enthusiast volunteers"
 template: donate.html
 title: Doar

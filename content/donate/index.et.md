@@ -16,7 +16,7 @@ extra:
         text: "Hetkel pole sellel rakendusel täispäevaselt töötavat tiimi, mis vastutaks arenduse ja parema teenuse loomise eest. Et meie toode areneks järjekindlalt, on selline tuumiktiim vajalik."
         title: Arendajad
       - media: /images/donate/infrastructure.webp
-        text: "Et kes iganes maailmas saaks tasuta ja viivitusteta laadida alla vajalikke kaarte, maksame me kiire võrguühendusega serverite eest. Kaardiandmete allalaadimise mahud on sadades terabaitides igas kuus ning näitavad ainult kasvutrendi."
+        text: "We have to keep up fast servers, so anyone in the world can download free map data updates without delays. These maps data transfers make up large, and growing, amounts of data each month."
         title: Taristu
       - media: /images/donate/support.webp
         text: "Kasutajatugi, veaparandused ja stabiilsem rakendus on meie prioriteedid. Nii arendussoovide kui veateadete loend kasvab iga päevaga ning nii App Store'is, kui Google Plays või e-posti teel laekunud kasutajatoe päringud vajavad pidevat vastamist."
@@ -30,7 +30,7 @@ extra:
       text: "Me oleme väikene arendajate tiim, kes vabast ajast veab seda projekti edasi. Meile meeldib see, mida me teeme ning loomulikult armastame oma kasutajaid"
     - icon: static/images/icons/donate/icon03.svg
       text: "Sinu toel me arendame privaatsuskeskset kaardirakendust, mis on esimene eelistus sellel turul"
-  service_text: ~
+  service_text:
   service_title: "Created with love by enthusiast volunteers"
 template: donate.html
 title: Anneta

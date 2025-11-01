@@ -16,7 +16,7 @@ extra:
         text: "V současné době nemáme žádný full-time tým, který by pracoval na vyvíjení nových funkcí a zlepšování služby. Abychom mohli konzistentně posouvat produkt vpřed, potřebujeme základní tým."
         title: Vývojáři
       - media: /images/donate/infrastructure.webp
-        text: "Platíme za rychlé servery, aby si kdokoli na světě mohl stahovat bezplatná mapová data bez zpoždění. Přenosy mapových dat dosahují stovek terabajtů měsíčně a množství stále roste."
+        text: "We have to keep up fast servers, so anyone in the world can download free map data updates without delays. These maps data transfers make up large, and growing, amounts of data each month."
         title: Infrastruktura
       - media: /images/donate/support.webp
         text: "Uživatelská podpora, oprava chyb a vylepšování stability jsou našimi hlavními prioritami. Seznam žádostí a hlášení o chybách roste každým dnem a máme spoustu žádostí o podporu, které čekají na odpověď na App Store, Google Play a v e-mailech."
@@ -30,7 +30,7 @@ extra:
       text: "Jsme několik nadšenců, kteří na projekt přispívají ve svém volném čase. Máme rádi to, co děláme, a máme rádi naše uživatele"
     - icon: static/images/icons/donate/icon03.svg
       text: "S vaší podporou můžeme pracovat na mapové navigaci zaměřené na soukromí, která bude hlavní volbou na trhu"
-  service_text: ~
+  service_text:
   service_title: "Created with love by enthusiast volunteers"
 template: donate.html
 title: Darovat

@@ -1,11 +1,11 @@
 ---
-description: 'Objevte více ze své cesty - Vytvářeno komunitou'
+description: 'Objevte více ze své cesty – Poháněno komunitou'
 extra:
   freedom:
-    description: 'Objevte svou cestu, navigujte se světem se soukromím a komunitou na prvním místě.'
+    description: 'Objevte svou cestu, cestujte po světě s důrazem na soukromí a komunitu.'
     title: 'Svoboda je tady'
   map:
-    description: 'Komunita + otevřené mapy'
+    description: 'Komunita + Otevřené mapy'
   services:
     items:
       - 

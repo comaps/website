@@ -16,7 +16,7 @@ extra:
         text: "Op dit moment is er geen (fulltime) team dat werkt aan het ontwikkelen van nieuwe functies en het verbeteren van de dienst. Om het product consequent vooruit te helpen, is een kernteam nodig."
         title: Ontwikkelaars
       - media: /images/donate/infrastructure.webp
-        text: "We betalen voor snelle servers, zodat iedereen ter wereld gratis kaartupdates kan downloaden zonder vertraging. Maandelijks gaat het om honderden terabytes aan kaarten, en dit groeit nog steeds."
+        text: "We have to keep up fast servers, so anyone in the world can download free map data updates without delays. These maps data transfers make up large, and growing, amounts of data each month."
         title: infrastructuur
       - media: /images/donate/support.webp
         text: "Gebruikerssupport, het oplossen van bugs en het verbeteren van de stabiliteit van de app hebben onze hoogste prioriteit. De lijst met verzoeken en bugs groeit dagelijks, en er zijn veel vragen die beantwoord moeten worden in de App Store, Google Play en via e-mail."
@@ -30,7 +30,7 @@ extra:
       text: "Wij zijn een paar enthousiastelingen die in hun vrije tijd bijdragen. We houden van wat we doen en van onze gebruikers"
     - icon: static/images/icons/donate/icon03.svg
       text: "Met jouw steun werken we aan privacygerichte kaartnavigatie die de beste keuze op de markt is"
-  service_text: ~
+  service_text:
   service_title: "Created with love by enthusiast volunteers"
 template: donate.html
 title: Doneer
