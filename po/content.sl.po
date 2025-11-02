@@ -263,8 +263,9 @@ msgstr "Razvijalci"
 
 #. type: Yaml Front Matter Hash Value: extra funding items text
 #: content/donate/index.md
-#, no-wrap
-msgid "We pay for fast servers, so anyone in the world can download free map data updates without delays. The maps data transfers are hundreds of terabytes monthly, and the amount is growing."
+#, fuzzy, no-wrap
+#| msgid "We pay for fast servers, so anyone in the world can download free map data updates without delays. The maps data transfers are hundreds of terabytes monthly, and the amount is growing."
+msgid "We have to keep up fast servers, so anyone in the world can download free map data updates without delays. These maps data transfers make up large, and growing, amounts of data each month."
 msgstr "Plačujemo za hitre strežnike, da bi lahko vsakdo zastonj prenesel posodobitve podatkov zemljevida brez zamud. Mesčni pretoki podatkov zemljevida so veliki stotine terabajtov in njihova količina se veča."
 
 #. type: Yaml Front Matter Hash Value: extra funding items title
@@ -405,36 +406,6 @@ msgstr "O nas"
 msgid "Unlock the potential of navigation! Discover offline maps, privacy-centric features, and a community-driven app"
 msgstr "Izkoristite zmožnosti potnega usmerjanja! Odkrijte zemljevide brez povezave, zmogljivosti, osredotočene na zasebnost in orodje, ki ga vzdržuje skupnost."
 
-#. type: Yaml Front Matter Array Element: extra steps items
-#: content/download/index.md
-#, no-wrap
-msgid "Offline Maps"
-msgstr ""
-
-#. type: Yaml Front Matter Array Element: extra steps items
-#: content/download/index.md
-#, no-wrap
-msgid "Privacy-Centric"
-msgstr ""
-
-#. type: Yaml Front Matter Array Element: extra steps items
-#: content/download/index.md
-#, no-wrap
-msgid "No data collection"
-msgstr ""
-
-#. type: Yaml Front Matter Array Element: extra steps items
-#: content/download/index.md
-#, no-wrap
-msgid "Community-Driven"
-msgstr ""
-
-#. type: Yaml Front Matter Hash Value: extra steps title
-#: content/download/index.md
-#, no-wrap
-msgid "Already downloaded?"
-msgstr ""
-
 #. type: Yaml Front Matter Hash Value: title
 #: content/download/index.md
 #, no-wrap
@@ -449,7 +420,6 @@ msgstr "Stran API"
 
 #. type: Plain text
 #: content/api/index.md
-#, markdown-text
 msgid "The API is documented on [comaps.at/api](https://comaps.at/api)."
 msgstr "API je dokumentiran na [comaps.at/api](https://comaps.at/api)."
 
@@ -517,7 +487,7 @@ msgstr "Vključite se"
 #: translations.yaml
 #, no-wrap
 msgid "English"
-msgstr "Angleščina"
+msgstr "Slovenščina"
 
 #. type: Hash Value: menu_api
 #: translations.yaml
