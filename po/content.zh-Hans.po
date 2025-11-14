@@ -6,6 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
+"PO-Revision-Date: 2025-11-04 03:14+0000\n"
 "Last-Translator: Outbreak2096 <outbreak2096@noreply.codeberg.org>\n"
 "Language-Team: Chinese (Simplified Han script) <https://translate.codeberg.org/projects/comaps/website/zh_Hans/>\n"
 "Language: zh-Hans\n"
@@ -13,7 +14,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.13.3\n"
+"X-Generator: Weblate 5.14\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -223,7 +224,7 @@ msgstr "社区"
 #: content/donate/index.md
 #, no-wrap
 msgid "Donate and create better maps together!"
-msgstr "资助我们，一起绘制更优质的地图！"
+msgstr "捐助我们，共同创建更好的地图！"
 
 #. type: Yaml Front Matter Hash Value: extra donate info description
 #: content/donate/index.md
@@ -263,10 +264,9 @@ msgstr "开发者们"
 
 #. type: Yaml Front Matter Hash Value: extra funding items text
 #: content/donate/index.md
-#, fuzzy, no-wrap
-#| msgid "We pay for fast servers, so anyone in the world can download free map data updates without delays. The maps data transfers are hundreds of terabytes monthly, and the amount is growing."
+#, no-wrap
 msgid "We have to keep up fast servers, so anyone in the world can download free map data updates without delays. These maps data transfers make up large, and growing, amounts of data each month."
-msgstr "我们定期支付快速服务器的费用，以便全世界任何人都可以无延迟地下载免费地图数据更新。地图数据传输量每月高达数百 TB，而且还在不断增长。"
+msgstr "我们需维持高速服务器，确保全球用户无延迟下载免费地图数据更新。这些地图数据传输量十分庞大，且每月都在持续增长。‌"
 
 #. type: Yaml Front Matter Hash Value: extra funding items title
 #: content/donate/index.md

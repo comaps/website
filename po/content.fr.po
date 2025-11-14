@@ -6,6 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
+"PO-Revision-Date: 2025-11-09 11:09+0000\n"
 "Last-Translator: ldmpub <ldmpub@noreply.codeberg.org>\n"
 "Language-Team: French <https://translate.codeberg.org/projects/comaps/website/fr/>\n"
 "Language: fr\n"
@@ -13,7 +14,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.13.2\n"
+"X-Generator: Weblate 5.14\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -263,10 +264,9 @@ msgstr "Développeurs"
 
 #. type: Yaml Front Matter Hash Value: extra funding items text
 #: content/donate/index.md
-#, fuzzy, no-wrap
-#| msgid "We pay for fast servers, so anyone in the world can download free map data updates without delays. The maps data transfers are hundreds of terabytes monthly, and the amount is growing."
+#, no-wrap
 msgid "We have to keep up fast servers, so anyone in the world can download free map data updates without delays. These maps data transfers make up large, and growing, amounts of data each month."
-msgstr "Nous payons pour des serveurs pour que tout le monde puisse télécharger des mises à jour de données cartographiques gratuites sans délai. Les transferts de données représentent des centaines de téraoctets par mois et leur nombre augmente."
+msgstr "Nous exploitons des serveurs performants afin que tout le monde puisse télécharger les mises à jour des données cartographiques gratuitement et rapidement. Ces transferts de données représentent d'énormes volumes par mois et leur nombre augmente."
 
 #. type: Yaml Front Matter Hash Value: extra funding items title
 #: content/donate/index.md

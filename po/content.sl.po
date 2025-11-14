@@ -6,6 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
+"PO-Revision-Date: 2025-11-14 18:09+0000\n"
 "Last-Translator: JanezPavelZebovec <janezpavelzebovec@noreply.codeberg.org>\n"
 "Language-Team: Slovenian <https://translate.codeberg.org/projects/comaps/website/sl/>\n"
 "Language: sl\n"
@@ -263,10 +264,9 @@ msgstr "Razvijalci"
 
 #. type: Yaml Front Matter Hash Value: extra funding items text
 #: content/donate/index.md
-#, fuzzy, no-wrap
-#| msgid "We pay for fast servers, so anyone in the world can download free map data updates without delays. The maps data transfers are hundreds of terabytes monthly, and the amount is growing."
+#, no-wrap
 msgid "We have to keep up fast servers, so anyone in the world can download free map data updates without delays. These maps data transfers make up large, and growing, amounts of data each month."
-msgstr "Plačujemo za hitre strežnike, da bi lahko vsakdo zastonj prenesel posodobitve podatkov zemljevida brez zamud. Mesčni pretoki podatkov zemljevida so veliki stotine terabajtov in njihova količina se veča."
+msgstr "Vzdržujemo hitre strežnike, da bi lahko vsakdo zastonj prenesel posodobitve podatkov zemljevida brez zamud. Ti pretoki podatkov zemljevida pomenijo ogromne in rastoče količine podatkov vsak mesec."
 
 #. type: Yaml Front Matter Hash Value: extra funding items title
 #: content/donate/index.md
@@ -314,13 +314,13 @@ msgstr "Z vašo podporo si prizadevamo za usmerjanje po zemljevidu, ki je osredo
 #: content/support/_index.md
 #, no-wrap
 msgid "Need assistance? Search for answers to common questions. Get the support you need and connect with others in the community for help."
-msgstr ""
+msgstr "Potrebujete pomoč? Poiščite odgovore na najpogostejša vprašanja. Dobite podporo, ki jo potrebujete in se povežite z ostalimi v skupnosti za pomoč."
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/about-us/index.md
 #, no-wrap
 msgid "Free and open navigation with privacy -<br/>Built by the community"
-msgstr ""
+msgstr "Brezplačno, odprto in zasebno usmerjanje – <br/>Ustvarjeno v skupnosti"
 
 #. type: Yaml Front Matter Hash Value: extra about text
 #: content/about-us/index.md
@@ -332,37 +332,37 @@ msgstr ""
 #: content/about-us/index.md
 #, no-wrap
 msgid "Free and open navigation with privacy, built by the community"
-msgstr ""
+msgstr "Brezplačno in odprto usmerjanje, zasebno in narejeno s strani skupnosti"
 
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md
 #, no-wrap
 msgid "MapsWithMe navigation app created (later renamed to Maps.me)."
-msgstr ""
+msgstr "Ustvarjeno usmerjevalno orodje MapsWithMe (kasneje preimenovano v Maps.me)."
 
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md
 #, no-wrap
 msgid "Maps.me opened the source code under Apache 2.0 license."
-msgstr ""
+msgstr "Maps.me je odprl svojo kodo pod dovoljenji Apacge 2.0."
 
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md
 #, no-wrap
 msgid "The Organic Maps project & company were founded, based on the Maps.Me source code."
-msgstr ""
+msgstr "Ustanovljena sta bila Organic Maps in podjetje, na podlagi kode Maps.Me."
 
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md
 #, no-wrap
 msgid "Governance issues and community concerns not addressed by company shareholders stalled the development of Organic Maps for months."
-msgstr ""
+msgstr "Delničarji družbe niso obravnavali težav z upravljanjem in skrbi skupnosti, kar je za več mesexev zaustavulo razvoj Organic Maps."
 
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md
 #, no-wrap
 msgid "The **CoMaps** community & non-profit project was founded by former Organic Maps contributors, based on the Organic Maps source code."
-msgstr ""
+msgstr "Skupnost in nepridobitni projekt **CoMaps** so ustanovili nekdanji sodelavci Organic Maps, na podlagi izvorne kode the Organic Maps."
 
 #. type: Yaml Front Matter Hash Value: extra history title
 #: content/about-us/index.md
@@ -404,7 +404,7 @@ msgstr "O nas"
 #: content/download/index.md
 #, no-wrap
 msgid "Unlock the potential of navigation! Discover offline maps, privacy-centric features, and a community-driven app"
-msgstr "Izkoristite zmožnosti potnega usmerjanja! Odkrijte zemljevide brez povezave, zmogljivosti, osredotočene na zasebnost in orodje, ki ga vzdržuje skupnost."
+msgstr "Izkoristite zmožnosti potnega usmerjanja! Odkrijte zemljevide brez povezave, zmogljivosti, osredotočene na zasebnost in orodje, ki ga vzdržuje skupnost"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/download/index.md
