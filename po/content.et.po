@@ -6,14 +6,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"Last-Translator: gedankenstuecke <gedankenstuecke@noreply.codeberg.org>\n"
+"PO-Revision-Date: 2025-11-03 17:12+0000\n"
+"Last-Translator: Priit Jõerüüt <jrtcdbrg@noreply.codeberg.org>\n"
 "Language-Team: Estonian <https://translate.codeberg.org/projects/comaps/website/et/>\n"
 "Language: et\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.13.2\n"
+"X-Generator: Weblate 5.14\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -263,10 +264,9 @@ msgstr "Arendajad"
 
 #. type: Yaml Front Matter Hash Value: extra funding items text
 #: content/donate/index.md
-#, fuzzy, no-wrap
-#| msgid "We pay for fast servers, so anyone in the world can download free map data updates without delays. The maps data transfers are hundreds of terabytes monthly, and the amount is growing."
+#, no-wrap
 msgid "We have to keep up fast servers, so anyone in the world can download free map data updates without delays. These maps data transfers make up large, and growing, amounts of data each month."
-msgstr "Et kes iganes maailmas saaks tasuta ja viivitusteta laadida alla vajalikke kaarte, maksame me kiire võrguühendusega serverite eest. Kaardiandmete allalaadimise mahud on sadades terabaitides igas kuus ning näitavad ainult kasvutrendi."
+msgstr "Et kes iganes maailmas saaks tasuta ja viivitusteta laadida alla vajalikke kaarte, maksame me kiire võrguühendusega serverite eest. Need kaardiandmete andmeedastusmahud moodustavad suure ja ainult kasvava osa meie andmeliiklusest."
 
 #. type: Yaml Front Matter Hash Value: extra funding items title
 #: content/donate/index.md
