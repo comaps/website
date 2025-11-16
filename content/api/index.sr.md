@@ -1,7 +1,7 @@
 ---
 description:
-title: "API Page"
+title: "API документација"
 weight: 10
 ---
 
-The API is documented on [comaps.at/api](https://comaps.at/api).
+Овај API је документован на [comaps.at/api](https://comaps.at/api).

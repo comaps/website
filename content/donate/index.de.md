@@ -16,7 +16,7 @@ extra:
         text: "Momentan gibt es kein bezahltes Team von Entwickler*innen, um neue Funktionen zu entwickeln und die App zu verbessern. Um das Programm kontinuierlich weiterzuentwickeln, wird ein Kernteam gebraucht."
         title: Entwickler:innen
       - media: /images/donate/infrastructure.webp
-        text: "We have to keep up fast servers, so anyone in the world can download free map data updates without delays. These maps data transfers make up large, and growing, amounts of data each month."
+        text: "Wir müssen schnelle Server bereitstellen, damit jeder weltweit ohne Verzögerungen kostenlose Karten-Updates herunterladen kann. Diese Kartendatenübertragungen machen jeden Monat große und stetig wachsende Datenmengen aus."
         title: Infrastruktur
       - media: /images/donate/support.webp
         text: "Hilfestellung für Benutzer, Fehlerbehebungen und Verbesserung der Stabilität der App sind unsere höchsten Prioritäten. Die Liste der Anfragen und gemeldeten Fehler wächst täglich, und es gibt viele Supportanfragen im App Store, Google Play und via E-Mail."

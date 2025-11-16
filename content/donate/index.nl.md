@@ -16,7 +16,7 @@ extra:
         text: "Op dit moment is er geen (fulltime) team dat werkt aan het ontwikkelen van nieuwe functies en het verbeteren van de dienst. Om het product consequent vooruit te helpen, is een kernteam nodig."
         title: Ontwikkelaars
       - media: /images/donate/infrastructure.webp
-        text: "We have to keep up fast servers, so anyone in the world can download free map data updates without delays. These maps data transfers make up large, and growing, amounts of data each month."
+        text: "We moeten snelle servers bijhouden, zodat iedereen ter wereld zonder vertragingen gratis kaartgegevensupdates kan downloaden. Deze overdrachten vormen elke maand grote en groeiende hoeveelheden gegevens."
         title: infrastructuur
       - media: /images/donate/support.webp
         text: "Gebruikerssupport, het oplossen van bugs en het verbeteren van de stabiliteit van de app hebben onze hoogste prioriteit. De lijst met verzoeken en bugs groeit dagelijks, en er zijn veel vragen die beantwoord moeten worden in de App Store, Google Play en via e-mail."

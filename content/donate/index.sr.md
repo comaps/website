@@ -16,7 +16,7 @@ extra:
         text: "Тренутно не постоји тим који ради пуно радно време на развоју нових функционалности и унапређивању сервиса. Да би производ стално напредовао, потребан је посвећен тим."
         title: Програмери
       - media: /images/donate/infrastructure.webp
-        text: "We have to keep up fast servers, so anyone in the world can download free map data updates without delays. These maps data transfers make up large, and growing, amounts of data each month."
+        text: "Морамо да одржавамо брзе сервере како би свако на свету могао да преузме бесплатна ажурирања мапа без успоравања. Пренос података за мапе износи чини велики део података, који се сваког месеца увећава."
         title: Инфраструктура
       - media: /images/donate/support.webp
         text: "Корисничка подршка, исправке багова и поправљање стабилности апликације су наш највећи приоритет. Листа захтева и пријава багова расте из дана у дан, а такође је велики број корисничких захтева на које треба одговорити у *App Store*-у, *Google Play*-у и путем електронске поште."
@@ -27,7 +27,7 @@ extra:
     - icon: static/images/icons/donate/icon01.svg
       text: "Ослањамо се на донације да би одржали *CoMaps* отвореним, слободним и бесплатним"
     - icon: static/images/icons/donate/icon02.svg
-      text: "We are a few enthusiasts contributing in our free time. We love what we do, and we love our users"
+      text: "Ми смо неколико ентузијаста који доприносе у своје слободно време. Волимо оно што радимо и волимо наше кориснике"
     - icon: static/images/icons/donate/icon03.svg
       text: "Уз вашу помоћ, радимо на апликацији за навигацију која је фокусирана на приватност и која би била природни избор на тржишту"
   service_text:

@@ -16,7 +16,7 @@ extra:
         text: "V současné době nemáme žádný full-time tým, který by pracoval na vyvíjení nových funkcí a zlepšování služby. Abychom mohli konzistentně posouvat produkt vpřed, potřebujeme základní tým."
         title: Vývojáři
       - media: /images/donate/infrastructure.webp
-        text: "We have to keep up fast servers, so anyone in the world can download free map data updates without delays. These maps data transfers make up large, and growing, amounts of data each month."
+        text: "Musíme udržovat rychlé servery, aby si kdokoli na světě mohl bez prodlení stahovat bezplatné aktualizace mapových dat. Tyto přenosy mapových dat představují každý měsíc velké a stále rostoucí objemy dat."
         title: Infrastruktura
       - media: /images/donate/support.webp
         text: "Uživatelská podpora, oprava chyb a vylepšování stability jsou našimi hlavními prioritami. Seznam žádostí a hlášení o chybách roste každým dnem a máme spoustu žádostí o podporu, které čekají na odpověď na App Store, Google Play a v e-mailech."
