@@ -1,5 +1,5 @@
 ---
-description: 资助我们，一起绘制更优质的地图！
+description: 捐助我们，共同创建更好的地图！
 extra:
   donate:
     info:
@@ -16,7 +16,7 @@ extra:
         text: 到目前为止，我们没有一个致力于开发新功能和改进服务的全职团队。然而，若要持续推动产品的发展，拥有一个核心团队至关重要。
         title: 开发者们
       - media: /images/donate/infrastructure.webp
-        text: "We have to keep up fast servers, so anyone in the world can download free map data updates without delays. These maps data transfers make up large, and growing, amounts of data each month."
+        text: 我们需维持高速服务器，确保全球用户无延迟下载免费地图数据更新。这些地图数据传输量十分庞大，且每月都在持续增长。‌
         title: 设施
       - media: /images/donate/support.webp
         text: "用户支持、修复错误、提升应用稳定性是我们的首要任务。错误报告的数量与日俱增，而 App Store、Google Play 和客服邮箱里也有许多支持请求需要回复。"

@@ -6,7 +6,6 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"PO-Revision-Date: 2025-11-14 18:09+0000\n"
 "Last-Translator: tace16 <tace16@noreply.codeberg.org>\n"
 "Language-Team: Tamil <https://translate.codeberg.org/projects/comaps/website/ta/>\n"
 "Language: ta\n"
@@ -488,7 +487,7 @@ msgstr "ஈடுபடுங்கள்"
 #: translations.yaml
 #, no-wrap
 msgid "English"
-msgstr "ஆங்கிலம்"
+msgstr "தமிழ்"
 
 #. type: Hash Value: menu_api
 #: translations.yaml

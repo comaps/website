@@ -3,7 +3,7 @@ description: "Слободна, отвореа и бесплатна навиг�
 extra:
   about:
     media: /images/about-us/about.png
-    text: "CoMaps is a community-focused privacy navigation app for travelers - drivers, hikers, and cyclists. It uses the crowd-sourced OpenStreetMap data with contributors from all over the globe. It offers navigation with privacy - no identifying people and no data collection. CoMaps features can operate without an active internet connection for offline navigation at urban or distant locations, where cellular service is not available. CoMaps is an open-source project, and prioritizes community development."
+    text: "CoMaps је апликација за навигацију усмерена на заједницу, намењена путницима – возачима, пешацима и бициклистима. Користи податке из OpenStreetMap-а које заједнички уносе корисници из целог света. Нуди навигацију уз потпуну приватност – без идентификације корисника и без прикупљања података. Функције CoMaps-а могу радити и без активне интернет везе, омогућавајући офлајн навигацију у градским или удаљеним подручјима где нема мобилног сигнала. CoMaps је пројекат отвореног кода и приоритет даје развоју вођеном од стране заједнице."
     title: "Слободна, отоврена и бесплатна навигација, са приватношћу, направљена од стране заједнице"
   history:
     items:
@@ -16,20 +16,20 @@ extra:
       - text: "Питања руковођења и бриге заједнице нису адресирани од стране акционара компаније што је зауставило развој *Organic Maps*-a mesecima."
         year: 2025
       - highlight: true
-        text: "The **CoMaps** community & non-profit project was founded by former Organic Maps contributors, based on the Organic Maps source code."
+        text: "Заједница и непрофитни пројекат **CoMaps** основани су од стране дела бивших програмера Organic Maps-а, на основу изворног кода Organic Maps-а."
         year: 2025
     title: Историја
   vm:
     items:
       - icon: /images/icons/about/mission.svg
         media: /images/about-us/mission.png
-        text: "Unlock the freedom to easily navigate offline, with privacy-focused maps for drivers, hikers, and cyclists, powered by the community."
-        title: Mission
+        text: "Откључајте слободу лаке офлајн навигације уз мапе које штите приватност, намењене возачима, пешацима и бициклистима, које покреће заједница."
+        title: Мисија
       - icon: /images/icons/about/vision.svg
         media: /images/about-us/vision.png
-        text: "Create a world where navigating with maps is free, and privacy by default is the top choice on the planet."
-        title: Vision
+        text: "Створити свет у коме је навигација уз помоћ мапа бесплатна, а заштита приватности подразумевани и најважнији избор на планети."
+        title: Визија
 template: about-us.html
-title: "About Us"
+title: "О нама"
 weight: 10
 ---

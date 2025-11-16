@@ -16,7 +16,7 @@ extra:
         text: "Trenutno ni polno zaposlene ekipe, ki bi razvijala nove zmogljivosti in izboljševala storitev. Da bi lahko izdelek neprenehoma izvoljševali, je potrebna temeljna ekipa."
         title: Razvijalci
       - media: /images/donate/infrastructure.webp
-        text: "We have to keep up fast servers, so anyone in the world can download free map data updates without delays. These maps data transfers make up large, and growing, amounts of data each month."
+        text: "Vzdržujemo hitre strežnike, da bi lahko vsakdo zastonj prenesel posodobitve podatkov zemljevida brez zamud. Ti pretoki podatkov zemljevida pomenijo ogromne in rastoče količine podatkov vsak mesec."
         title: Infrastruktura
       - media: /images/donate/support.webp
         text: "Uporabniška podpora, odstranjevanje hroščev in izboljševanje trdnosti orodja so za nas prednostnega pomena. Seznam pobud in poročil o napakah je vsak dan večji in veliko je vprašanj uporabnikov na App Store, Trgovini Play, ter elektronske pošte uporabnikov, ki potrebujejo pomoč ."

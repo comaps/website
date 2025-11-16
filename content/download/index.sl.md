@@ -1,5 +1,5 @@
 ---
-description: "Izkoristite zmožnosti potnega usmerjanja! Odkrijte zemljevide brez povezave, zmogljivosti, osredotočene na zasebnost in orodje, ki ga vzdržuje skupnost."
+description: "Izkoristite zmožnosti potnega usmerjanja! Odkrijte zemljevide brez povezave, zmogljivosti, osredotočene na zasebnost in orodje, ki ga vzdržuje skupnost"
 extra:
   desktop_payment_methods_1: MacOS
   desktop_payment_methods_2: Linux

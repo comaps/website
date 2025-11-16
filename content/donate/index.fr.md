@@ -16,7 +16,7 @@ extra:
         text: "Pour le moment, il n’y a pas d’équipe à temps plein qui travaille pour développer de nouvelles fonctionnalités et améliorer le service. Pour faire progresser le produit de manière constante, une équipe de base est nécessaire."
         title: Développeurs
       - media: /images/donate/infrastructure.webp
-        text: "We have to keep up fast servers, so anyone in the world can download free map data updates without delays. These maps data transfers make up large, and growing, amounts of data each month."
+        text: "Nous exploitons des serveurs performants afin que tout le monde puisse télécharger les mises à jour des données cartographiques gratuitement et rapidement. Ces transferts de données représentent d'énormes volumes par mois et leur nombre augmente."
         title: Infrastructure
       - media: /images/donate/support.webp
         text: "Le support utilisateur, la correction de bugs et l’amélioration de la stabilité de l’application sont nos priorités. La liste de demandes et de rapports de bugs grandit chaque jour et il faut répondre à de nombreuses demandes d’aide sur l’App Store, Google Play, et les mails de support."

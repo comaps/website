@@ -1,5 +1,5 @@
 ---
-description: "Unlock the potential of navigation! Discover offline maps, privacy-centric features, and a community-driven app"
+description: "Откључајте потенцијал навигације! Откријте офлајн мапе, функције усмерене на приватност и апликацију којом управља заједница"
 extra:
   desktop_payment_methods_1: MacOS
   desktop_payment_methods_2: Linux
@@ -15,6 +15,6 @@ extra:
   mobile_shop_name_4: AppGallery
   mobile_shop_name_5: Obtainium
 template: download.html
-title: "Download CoMaps"
+title: "Преузми CoMaps"
 weight: 10
 ---

@@ -1,5 +1,5 @@
 ---
-description: "Need assistance? Search for answers to common questions. Get the support you need and connect with others in the community for help."
+description: "Potrebujete pomoč? Poiščite odgovore na najpogostejša vprašanja. Dobite podporo, ki jo potrebujete in se povežite z ostalimi v skupnosti za pomoč."
 extra:
   faq_title: FAQs
 title: Podpora
