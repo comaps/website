@@ -26,9 +26,15 @@
         </div>
         <div style="height: calc(var(--spacer) / 2);"></div>
         <div class="post-min__content">
-          {% for photo in resource.assets | sort %}
-          <img class="post-min__img post-min__img--float" src="{{ resource.path | safe }}{{ photo | split(pat='/') | last }}" />
-          {% endfor %}
+          <div class="post-min__img" href="{{ page.path | safe }}">
+              {% if page.assets %}
+                  {% for photo in page.assets | sort %}
+                      <img class="post-min__img post-min__img--one" src="{{ page.path | safe }}{{ photo | split(pat='/') | last }}"/>
+                  {% endfor %}
+              {% else %}
+                  <img class="post-min__img post-min__img--one" src="/images/post/img2.png"/>
+              {% endif %}
+          </div>
           <div class="news-content">
             {{ resource.content | safe }}
           </div>
