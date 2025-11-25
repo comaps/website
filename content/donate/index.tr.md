@@ -30,7 +30,7 @@ extra:
       text: "Boş zamanlarımızda katkıda bulunan birkaç meraklıdan oluşuyoruz. Yaptığımız işi, ve kullanıcılarımızı seviyoruz"
     - icon: static/images/icons/donate/icon03.svg
       text: "Desteğinizle, piyasada tercih edilen seçenek olan gizlilik odaklı harita navigasyonuna doğru çalışıyoruz"
-  service_text:
+  service_text: ~
   service_title: "Created with love by enthusiast volunteers"
 template: donate.html
 title: "Bağış yapın"

@@ -30,7 +30,7 @@ extra:
       text: "Ми смо неколико ентузијаста који доприносе у своје слободно време. Волимо оно што радимо и волимо наше кориснике"
     - icon: static/images/icons/donate/icon03.svg
       text: "Уз вашу помоћ, радимо на апликацији за навигацију која је фокусирана на приватност и која би била природни избор на тржишту"
-  service_text:
+  service_text: ~
   service_title: "Created with love by enthusiast volunteers"
 template: donate.html
 title: Донирајте
