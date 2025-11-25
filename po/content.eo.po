@@ -6,33 +6,33 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"PO-Revision-Date: 2025-11-18 09:02+0000\n"
-"Last-Translator: Weblate <noreply-mt-weblate@weblate.org>\n"
-"Language-Team: Latvian <https://translate.codeberg.org/projects/comaps/website/lv/>\n"
-"Language: lv\n"
+"PO-Revision-Date: 2025-11-22 21:10+0000\n"
+"Last-Translator: Woozy <woozy@noreply.codeberg.org>\n"
+"Language-Team: Esperanto <https://translate.codeberg.org/projects/comaps/website/eo/>\n"
+"Language: eo\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n % 10 == 0 || n % 100 >= 11 && n % 100 <= 19) ? 0 : ((n % 10 == 1 && n % 100 != 11) ? 1 : 2);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 5.14\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
 #, no-wrap
-msgid "Discover more of your journey -<br/>Powered by the community"
-msgstr "Atklāj vairāk par savu ceļojumu -<br />Darbina kopiena"
+msgid "Discover more of your journey - Powered by the community"
+msgstr "Malkovru pli pri via vojaĝo - Subtenata de la komunumo"
 
 #. type: Yaml Front Matter Hash Value: extra freedom description
 #: content/_index.md
 #, no-wrap
 msgid "Discover your journey, navigate the world with privacy and community at the forefront."
-msgstr "Atklāj savu ceļojumu, pārvietojies pa pasauli ar privātumu un kopienu priekšgalā1"
+msgstr "Malkovru vian vojaĝon, navigu la mondon kun privateco kaj komunumo ĉe la avangardo."
 
 #. type: Yaml Front Matter Hash Value: extra freedom title
 #: content/_index.md
 #, no-wrap
 msgid "Freedom Is Here"
-msgstr "Brīvība ir šeit"
+msgstr "Libereco estas ĉi tie"
 
 #. type: Yaml Front Matter Hash Value: extra map description
 #: content/_index.md
@@ -43,7 +43,7 @@ msgstr ""
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
 #, no-wrap
-msgid "Plan and navigate your trip abroad without the need for mobile data, and search waypoints while on a distant hike."
+msgid "Plan and navigate your trip abroad with just GPS, no need for mobile data. Search waypoints while on distant hiking trails or bike paths."
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
@@ -61,7 +61,7 @@ msgstr ""
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
 #, no-wrap
-msgid "The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information."
+msgid "The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information. CoMaps was also audited by <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-exodus\"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/)."
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
@@ -97,7 +97,7 @@ msgstr ""
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
 #, no-wrap
-msgid "People like you helped build the app by adding locations to <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on Codeberg in the open-source community."
+msgid "People like you are helping build the app by adding locations to <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> to create great maps together. The project is a fork of Organic Maps and Maps.Me, and driven by an open-source community."
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
@@ -265,7 +265,7 @@ msgstr ""
 #. type: Yaml Front Matter Hash Value: extra funding items text
 #: content/donate/index.md
 #, no-wrap
-msgid "We pay for fast servers, so anyone in the world can download free map data updates without delays. The maps data transfers are hundreds of terabytes monthly, and the amount is growing."
+msgid "We have to keep up fast servers, so anyone in the world can download free map data updates without delays. These maps data transfers make up large, and growing, amounts of data each month."
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: extra funding items title
@@ -406,46 +406,10 @@ msgstr ""
 msgid "Unlock the potential of navigation! Discover offline maps, privacy-centric features, and a community-driven app"
 msgstr ""
 
-#. type: Yaml Front Matter Array Element: extra steps items
-#: content/download/index.md
-#, no-wrap
-msgid "Offline Maps"
-msgstr "Bezsaistes kartes"
-
-#. type: Yaml Front Matter Array Element: extra steps items
-#: content/download/index.md
-#, no-wrap
-msgid "Privacy-Centric"
-msgstr ""
-
-#. type: Yaml Front Matter Array Element: extra steps items
-#: content/download/index.md
-#, no-wrap
-msgid "No data collection"
-msgstr ""
-
-#. type: Yaml Front Matter Array Element: extra steps items
-#: content/download/index.md
-#, no-wrap
-msgid "Community-Driven"
-msgstr ""
-
-#. type: Yaml Front Matter Hash Value: extra steps title
-#: content/download/index.md
-#, no-wrap
-msgid "Already downloaded?"
-msgstr ""
-
 #. type: Yaml Front Matter Hash Value: title
 #: content/download/index.md
 #, no-wrap
 msgid "Download CoMaps"
-msgstr ""
-
-#. type: Plain text
-#: content/download/index.md
-#, markdown-text
-msgid "CoMaps is available on Google Play, F-Droid, and as an APK download now! We are still working on publishing on the iOS App Store as well, please stay tuned!"
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: title
@@ -524,7 +488,7 @@ msgstr ""
 #: translations.yaml
 #, no-wrap
 msgid "English"
-msgstr "Latviešu"
+msgstr ""
 
 #. type: Hash Value: menu_api
 #: translations.yaml
@@ -584,4 +548,4 @@ msgstr ""
 #: translations.yaml
 #, no-wrap
 msgid "Connect with Us"
-msgstr "Savienojies ar mums"
+msgstr ""
