@@ -30,7 +30,7 @@ extra:
       text: "Suntem câțiva entuziaști care contribuim în timpul liber. Iubim ceea ce facem și ne iubim utilizatorii"
     - icon: static/images/icons/donate/icon03.svg
       text: "Cu sprijinul vostru, lucrăm la o navigație pe hărți axată pe confidențialitate, care să devină alegerea preferată pe piață"
-  service_text:
+  service_text: ~
   service_title: "Created with love by enthusiast volunteers"
 template: donate.html
 title: Donează

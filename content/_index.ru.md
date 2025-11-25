@@ -25,12 +25,12 @@ extra:
         media:
           map: /images/sections/map-s-2.webp
           user: /images/sections/map-m-2.webp
-        title: 'Без следилок'
+        title: 'Без сбора данных'
       - 
         description: 'Эффективно использует аккумулятор, не разряжает его, как другие навигационные приложения.'
         highlight:
           icon: static/images/icons/home/battery.svg
-          text: 'Эффективное использование батареи'
+          text: 'Эффективный расход батареи'
         media:
           map: /images/sections/map-s-3.webp
           user: /images/sections/map-m-3.webp
