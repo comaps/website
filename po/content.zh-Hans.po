@@ -6,6 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
+"PO-Revision-Date: 2025-11-18 09:02+0000\n"
 "Last-Translator: Outbreak2096 <outbreak2096@noreply.codeberg.org>\n"
 "Language-Team: Chinese (Simplified Han script) <https://translate.codeberg.org/projects/comaps/website/zh_Hans/>\n"
 "Language: zh-Hans\n"
@@ -265,7 +266,7 @@ msgstr "开发者们"
 #: content/donate/index.md
 #, no-wrap
 msgid "We have to keep up fast servers, so anyone in the world can download free map data updates without delays. These maps data transfers make up large, and growing, amounts of data each month."
-msgstr "我们需维持高速服务器，确保全球用户无延迟下载免费地图数据更新。这些地图数据传输量十分庞大，且每月都在持续增长。‌"
+msgstr "我们需维持高速服务器，确保全球用户无延迟下载免费地图数据更新。这些地图数据传输量十分庞大，且每月都在持续增长。"
 
 #. type: Yaml Front Matter Hash Value: extra funding items title
 #: content/donate/index.md

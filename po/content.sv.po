@@ -6,7 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"Last-Translator: Pat580 <pat580@noreply.codeberg.org>\n"
+"PO-Revision-Date: 2025-11-19 12:10+0000\n"
+"Last-Translator: rchk <rchk@noreply.codeberg.org>\n"
 "Language-Team: Swedish <https://translate.codeberg.org/projects/comaps/website/sv/>\n"
 "Language: sv\n"
 "MIME-Version: 1.0\n"
@@ -259,7 +260,7 @@ msgstr ""
 #: content/donate/index.md
 #, no-wrap
 msgid "Developers"
-msgstr ""
+msgstr "Utvecklare"
 
 #. type: Yaml Front Matter Hash Value: extra funding items text
 #: content/donate/index.md
