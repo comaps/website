@@ -6,6 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
+"PO-Revision-Date: 2025-12-14 00:10+0000\n"
 "Last-Translator: JanezPavelZebovec <janezpavelzebovec@noreply.codeberg.org>\n"
 "Language-Team: Slovenian <https://translate.codeberg.org/projects/comaps/website/sl/>\n"
 "Language: sl\n"
@@ -13,13 +14,13 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3;\n"
-"X-Generator: Weblate 5.14\n"
+"X-Generator: Weblate 5.14.3\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
 #, no-wrap
 msgid "Discover more of your journey - Powered by the community"
-msgstr "Odkrij več o svojem potovanju – podpora v skupnosti"
+msgstr "Odkrijte več o svojem potovanju – podpora v skupnosti"
 
 #. type: Yaml Front Matter Hash Value: extra freedom description
 #: content/_index.md
@@ -115,7 +116,7 @@ msgstr "Brezplačno in razvito s strani skupnosti"
 #: content/_index.md
 #, no-wrap
 msgid "Hike, Bike, Drive Offline Navigate with Privacy"
-msgstr "Peš, na kolesu ali v avtu brez povezave– usmerjajte se zasebno"
+msgstr "Peš, na kolesu ali v avtu brez povezave – usmerjajte se zasebno"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/news/_index.md
@@ -325,7 +326,7 @@ msgstr "Brezplačno, odprto in zasebno usmerjanje – <br/>Ustvarjeno v skupnost
 #: content/about-us/index.md
 #, no-wrap
 msgid "CoMaps is a community-focused privacy navigation app for travelers - drivers, hikers, and cyclists. It uses the crowd-sourced OpenStreetMap data with contributors from all over the globe. It offers navigation with privacy - no identifying people and no data collection. CoMaps features can operate without an active internet connection for offline navigation at urban or distant locations, where cellular service is not available. CoMaps is an open-source project, and prioritizes community development."
-msgstr ""
+msgstr "CoMaps je orodje za potno usmerjanje, ki je osredotočeno na skupnost in namenjena popotnikom – voznikom, pohodnikom in kolesarjem. Uporablja podatke iz odprtega vira OpenStreetMap, ki jih prispevajo uporabniki z vsega sveta. Omogoča usmerjanje z zasebnostjo – brez prepoznave oseb in zbiranja podatkov. Zmogljivosti CoMaps delujejo tudi brez spletne povezave za potno usmerjanje v mestnih ali odročnih krajih, kjer mobilni podatki niso na voljo. CoMaps je odprtokodni projekt, ki daje prednost razvoju skupnosti."
 
 #. type: Yaml Front Matter Hash Value: extra about title
 #: content/about-us/index.md

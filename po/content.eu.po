@@ -6,6 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
+"PO-Revision-Date: 2025-12-01 16:10+0000\n"
 "Last-Translator: alexgabi <alexgabi@noreply.codeberg.org>\n"
 "Language-Team: Basque <https://translate.codeberg.org/projects/comaps/website/eu/>\n"
 "Language: eu\n"
@@ -13,7 +14,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.13.2\n"
+"X-Generator: Weblate 5.14.3\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -96,10 +97,9 @@ msgstr "Gorde zure bateria"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
-#, fuzzy, no-wrap
-#| msgid "People like you helped build the app by adding locations to <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on Codeberg in the open-source community."
+#, no-wrap
 msgid "People like you are helping build the app by adding locations to <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> to create great maps together. The project is a fork of Organic Maps and Maps.Me, and driven by an open-source community."
-msgstr "Zu bezalako pertsonek aplikazioa eraikitzen lagundu dute kokalekuak gehituz <span class=\"text-icon\"><svg viewBox=\"0 0 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span> helbidean, ezaugarriei buruzko feedbacka emanez, eta kode irekiko komunitatean Codeberg-i kodea emanez."
+msgstr "Zu bezalako pertsonek aplikazioa eraikitzen laguntzen ari zatere kokalekuak gehituz <span class=\"text-icon\"><svg viewBox=\"0 0 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span> helbidean, ezaugarriei buruzko feedbacka emanez, eta kodean ekarpenak eginez  <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> elkarrekin mapa hobeak sortzeko. Proiektua Organic Maps eta Maps.Me aplikazioen aldaera edo fork ba da eta software librearen komunitate batek gidatzen du."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
