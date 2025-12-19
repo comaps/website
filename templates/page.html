@@ -103,4 +103,12 @@
     <script type="text/javascript" src="{{ get_url(path="elasticlunr.min.js") }}"></script>
     <script type="text/javascript" src="{{ get_url(path="search.js") }}"></script>
 {% endif %}
+
+{% if 'support' in page.taxonomies %}
+<!-- FAQ Schema -->
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[
+{"@type":"Question","name":"{{ resource.title }}","acceptedAnswer":{"@type":"Answer","text":"{{ resource.content | striptags }}"}}
+]}</script>
+{% endif %}
+
 {% endblock content %}
