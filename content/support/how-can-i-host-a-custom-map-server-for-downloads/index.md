@@ -9,7 +9,7 @@ extra:
 ---
 
 If you want to host your maps yourself, you so far need to use the same files CoMaps provides. 
-You can find a list of URLs with valid map files hosted by CoMaps here, under the `$servers` variable in our **meta-php** repository: https://codeberg.org/comaps/meta-php/src/branch/main/index.php#L19
+You can find a list of URLs with valid map files hosted by CoMaps here, under the `$servers` variable in our **meta-php** repository: [https://codeberg.org/comaps/meta-php/src/branch/main/index.php#L19](https://codeberg.org/comaps/meta-php/src/branch/main/index.php#L19)
 
 For your map server to correctly serve the files, the file/folder structure needs to fit the one CoMaps uses.
 
@@ -19,7 +19,7 @@ In other words:
 
 - `/maps` -- first folder underneath the base server URL
   - `/251209` -- date code (YYMMDD) of the map version which will match the countries.txt shipped with your app and the "map data" date in the About menu
-  - `/US_New York_New York.mwm` -- the specific MWM map file(s) for the "countries" (map regions) desired. Note somewhat arbitrary use of underscores and spaces. The best thing to do here is to just copy our official files directly, examine your app's countries.txt file, or check the filenames in the [data/borders folder](https://codeberg.org/comaps/comaps/src/branch/main/data/borders) in the main CoMaps code repository, replacing `.poly` with `.mwm`
+    - `/US_New York_New York.mwm` -- the specific MWM map file(s) for the "countries" (map regions) desired. Note somewhat arbitrary use of underscores and spaces. The best thing to do here is to just copy our official files directly, examine your app's countries.txt file, or check the filenames in the [data/borders folder](https://codeberg.org/comaps/comaps/src/branch/main/data/borders) in the main CoMaps code repository, replacing `.poly` with `.mwm`
 
 For help making your own custom map server and/or cloning new map versions as they're released, please [join our community and ask for help!](https://www.comaps.app/community/)
 

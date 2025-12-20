@@ -20,6 +20,6 @@ The **Custom Server URL** should be an HTTP or HTTPS server that hosts files in 
 
 This strict bundling will likely change in the future, but is currently in place to ensure that the map and app version are compatible and to prevent malicious maps from making it into the app and causing undesirable behavior.
 
-You can find a list of valid URLs hosted by CoMaps here, under the `$servers` variable in our **meta-php** repository: https://codeberg.org/comaps/meta-php/src/branch/main/index.php#L19
+You can find a list of valid URLs hosted by CoMaps here, under the `$servers` variable in our **meta-php** repository: [https://codeberg.org/comaps/meta-php/src/branch/main/index.php#L19](https://codeberg.org/comaps/meta-php/src/branch/main/index.php#L19)
 
 For help on [how to setup your own map server, read this FAQ entry](/support/how-can-i-host-a-custom-map-server-for-downloads/).
