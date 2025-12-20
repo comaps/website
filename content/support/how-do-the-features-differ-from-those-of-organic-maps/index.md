@@ -27,5 +27,4 @@ So far the improvements in the app include:
 - And many smaller updates
 
 
-The full list of updates:
-https://codeberg.org/comaps/comaps/releases
+The [full list of updates is on Codeberg](https://codeberg.org/comaps/comaps/releases).
