@@ -30,7 +30,7 @@ extra:
       text: "எங்களின் ஓய்வு நேரத்தில் பங்களிக்கும் சில ஆர்வலர்கள் நாங்கள். நாங்கள் செய்வதை விரும்புகிறோம், மேலும் எங்கள் பயனர்களையும் நாங்கள் விரும்புகிறோம்"
     - icon: static/images/icons/donate/icon03.svg
       text: "உங்கள் ஆதரவுடன், சந்தையில் விருப்பமான தேர்வாக இருக்கும் தனியுரிமையை மையமாகக் கொண்ட வரைபட வழிசெலுத்தலை நோக்கிச் செயல்படுகிறோம்"
-  service_text: ~
+  service_text:
   service_title: "Created with love by enthusiast volunteers"
 template: donate.html
 title: நன்கொடை

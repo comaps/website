@@ -1,5 +1,5 @@
 ---
-description: 'Odkrij več o svojem potovanju – podpora v skupnosti'
+description: 'Odkrijte več o svojem potovanju – podpora v skupnosti'
 extra:
   freedom:
     description: 'Odkrijte več o svojem potovanju, raziskujte svet s poudarkom na zasebnosti in skupnosti.'
@@ -46,5 +46,5 @@ extra:
         title: 'Brezplačno in razvito s strani skupnosti'
 sort_by: weight
 template: home.html
-title: 'Peš, na kolesu ali v avtu brez povezave– usmerjajte se zasebno'
+title: 'Peš, na kolesu ali v avtu brez povezave – usmerjajte se zasebno'
 ---

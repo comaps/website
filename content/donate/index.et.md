@@ -30,7 +30,7 @@ extra:
       text: "Me oleme väikene arendajate tiim, kes vabast ajast veab seda projekti edasi. Meile meeldib see, mida me teeme ning loomulikult armastame oma kasutajaid"
     - icon: static/images/icons/donate/icon03.svg
       text: "Sinu toel me arendame privaatsuskeskset kaardirakendust, mis on esimene eelistus sellel turul"
-  service_text: ~
+  service_text:
   service_title: "Created with love by enthusiast volunteers"
 template: donate.html
 title: Anneta
