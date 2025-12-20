@@ -30,5 +30,4 @@ Since the split in April 2025, CoMaps has developed a number of features:
 - And many more 
 
 
-The full list of updates:
-https://codeberg.org/comaps/comaps/releases
+The [full list of updates is on Codeberg](https://codeberg.org/comaps/comaps/releases).
