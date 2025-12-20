@@ -5,7 +5,7 @@ taxonomies:
   support: ["Map Data"]
 extra:
   tags: ["Android", "iPhone & iPad"]
-  order: 60
+  order: 70
 ---
 
 Most likely, this issue is related to an active firewall on your phone, router, or internet provider. Make sure that servers *.comaps.app are not blocked anywhere. If it still doesn't work, please contact us, and we'll help you figure it out.
