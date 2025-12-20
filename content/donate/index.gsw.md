@@ -16,7 +16,7 @@ extra:
         text: "Momentan gits keis Team vo Entwickler*inne, zum neui Features z entwickle und d App z verbessere. Zum s Produkt kontinuierlich wiiterzentwickle, wird es Chernteam bruucht."
         title: Entwickler*inne
       - media: /images/donate/infrastructure.webp
-        text: "We have to keep up fast servers, so anyone in the world can download free map data updates without delays. These maps data transfers make up large, and growing, amounts of data each month."
+        text: "Mir müend schnelli Server paratstelle, demit mer weltwiit gratis Charteupdates ohni Verzögerige abelade cha. Die Chartedateüberträgige mached jede Monet grossi und stetig wachsendi Datemengene us."
         title: Infrastruktur
       - media: /images/donate/support.webp
         text: "User-Support, Bugfixes und Verbesserig vo de Stabilität vo de App sind eusi höchste Prioritäte. D Lischte vo de Aafrage und gmeldete Bugs wachst täglich, und es git vieli Supportaafrage im App Store, Google Play und via Email."
@@ -30,7 +30,7 @@ extra:
       text: "Mir sind Enthusiaschte wo i eusere Freiziit biiträged. Mir liebed, was mir mached, und mir liebed eusi Benutzer*inne"
     - icon: static/images/icons/donate/icon03.svg
       text: "Mit diinere Hilf schaffemer an ere dateschutzorientierte Navigationsapp als ersti Wahl uf em Määrt"
-  service_text: ~
+  service_text:
   service_title: "Created with love by enthusiast volunteers"
 template: donate.html
 title: Spende

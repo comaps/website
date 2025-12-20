@@ -3,7 +3,7 @@ description: "Brezplačno, odprto in zasebno usmerjanje – <br/>Ustvarjeno v sk
 extra:
   about:
     media: /images/about-us/about.png
-    text: "CoMaps is a community-focused privacy navigation app for travelers - drivers, hikers, and cyclists. It uses the crowd-sourced OpenStreetMap data with contributors from all over the globe. It offers navigation with privacy - no identifying people and no data collection. CoMaps features can operate without an active internet connection for offline navigation at urban or distant locations, where cellular service is not available. CoMaps is an open-source project, and prioritizes community development."
+    text: "CoMaps je orodje za potno usmerjanje, ki je osredotočeno na skupnost in namenjena popotnikom – voznikom, pohodnikom in kolesarjem. Uporablja podatke iz odprtega vira OpenStreetMap, ki jih prispevajo uporabniki z vsega sveta. Omogoča usmerjanje z zasebnostjo – brez prepoznave oseb in zbiranja podatkov. Zmogljivosti CoMaps delujejo tudi brez spletne povezave za potno usmerjanje v mestnih ali odročnih krajih, kjer mobilni podatki niso na voljo. CoMaps je odprtokodni projekt, ki daje prednost razvoju skupnosti."
     title: "Brezplačno in odprto usmerjanje, zasebno in narejeno s strani skupnosti"
   history:
     items:

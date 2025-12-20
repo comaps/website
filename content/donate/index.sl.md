@@ -30,7 +30,7 @@ extra:
       text: "Smo skupina navdušencev, ki v prostem času prispevamo k temu projektu. Radi imamo to, kar počnemo in naše uporabnike"
     - icon: static/images/icons/donate/icon03.svg
       text: "Z vašo podporo si prizadevamo za usmerjanje po zemljevidu, ki je osredotočeno na zasebnost in je najboljša izbira na trgu"
-  service_text: ~
+  service_text:
   service_title: "Created with love by enthusiast volunteers"
 template: donate.html
 title: Darujte

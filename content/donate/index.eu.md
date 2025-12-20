@@ -30,7 +30,7 @@ extra:
       text: "Gure denbora librean ekarpenak egiten dituzten zale batzuk gara. Maite dugu egiten duguna, eta maite ditugu gure erabiltzaileak"
     - icon: static/images/icons/donate/icon03.svg
       text: "Zure laguntzarekin, pribatutasunean oinarritutako mapetan nabigatzeko lan egiten dugu, merkatuko aukerarik gogokoena"
-  service_text: ~
+  service_text:
   service_title: "Created with love by enthusiast volunteers"
 template: donate.html
 title: "Dohaintza eman"

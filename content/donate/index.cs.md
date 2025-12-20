@@ -30,7 +30,7 @@ extra:
       text: "Jsme několik nadšenců, kteří na projekt přispívají ve svém volném čase. Máme rádi to, co děláme, a máme rádi naše uživatele"
     - icon: static/images/icons/donate/icon03.svg
       text: "S vaší podporou můžeme pracovat na mapové navigaci zaměřené na soukromí, která bude hlavní volbou na trhu"
-  service_text: ~
+  service_text:
   service_title: "Created with love by enthusiast volunteers"
 template: donate.html
 title: Darovat
