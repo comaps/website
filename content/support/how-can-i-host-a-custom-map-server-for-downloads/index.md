@@ -21,6 +21,8 @@ In other words:
   - `/251209` -- date code (YYMMDD) of the map version which will match the countries.txt shipped with your app and the "map data" date in the About menu
     - `/US_New York_New York.mwm` -- the specific MWM map file(s) for the "countries" (map regions) desired. Note somewhat arbitrary use of underscores and spaces. The best thing to do here is to just copy our official files directly, examine your app's countries.txt file, or check the filenames in the [data/borders folder](https://codeberg.org/comaps/comaps/src/branch/main/data/borders) in the main CoMaps code repository, replacing `.poly` with `.mwm`
 
+Download the MWM files for the regions you care about using a web browser, or a tool like wget.
+
 For help making your own custom map server and/or cloning new map versions as they're released, please [join our community and ask for help!](https://www.comaps.app/community/)
 
 Read [this FAQ item for to setup CoMaps to download the maps from your own server](/support/how-can-i-set-a-custom-map-server-for-downloads/).
