@@ -1,13 +1,13 @@
 ---
 title: "Release 2025.10.16 - Improved bike & car routing, search, and map styles"
-description: 
+description:
 date: 2025-10-16T09:00:00-00:00
 slug: "Release-2025.10.16-notes"
 taxonomies:
     category: ["Release"]
 ---
 
-**Available on**: [Google Play](https://play.google.com/store/apps/details?id=app.comaps.google) | [App Store](https://apps.apple.com/app/comaps/id6747180809) | [F-Droid](https://f-droid.org/packages/app.comaps.fdroid/) | [Codeberg](https://codeberg.org/comaps/comaps/releases/tag/v2025.10.09-3) 
+**Available on**: [Google Play](https://play.google.com/store/apps/details?id=app.comaps.google) | [App Store](https://apps.apple.com/app/comaps/id6747180809) | [F-Droid](https://f-droid.org/packages/app.comaps.fdroid/) | [Codeberg](https://codeberg.org/comaps/comaps/releases/tag/v2025.10.16-1)
 
 This release does not contain updated maps. It does contain:
 
