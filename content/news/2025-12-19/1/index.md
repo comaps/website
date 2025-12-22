@@ -2,7 +2,7 @@
 title: "Release 2025.12.19 - custom map servers and improved routing"
 description:
 date: 2025-12-19T09:00:00-00:00
-slug: "Release-2025.12.11-notes"
+slug: "Release-2025.12.19-notes"
 taxonomies:
     category: ["Release"]
 ---
