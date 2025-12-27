@@ -16,7 +16,7 @@ We also want to give a bit of an outlook what potential plans for the future are
 And share how you can support us on this journey!**
 
 CoMaps started as an idea for a potential fork of _Organic Maps_ earlier this year, with just a rough idea for focusing on a more open, community-based governance model.
-On May 31, we [released the first preview release](https://www.comaps.app/news/2025-06-01/CoMaps-Android-preview-release/), back then only as an Android _APK_, directly on Codeberg.
+On June 1st, we [released the first preview release](https://www.comaps.app/news/2025-06-01/CoMaps-Android-preview-release/), back then only as an Android _APK_, directly on Codeberg.
 Since then, 11 more releases have followed and CoMaps is now available in the Google Play Store, F-Droid, and the Apple App Store as well.
 
 From the very start, engaging the community in decision making has been a core principle, beginning with [picking a name](https://codeberg.org/comaps/Governance/issues/34) and [color scheme](https://codeberg.org/comaps/Governance/issues/56).
