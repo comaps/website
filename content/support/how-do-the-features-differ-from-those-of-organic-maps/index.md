@@ -19,10 +19,11 @@ So far the improvements in the app include:
 - More dense/detailed altitude contour lines for some regions
 - Removed semi-transparent background from Subway layer
 - Improved visibility of some map objects
-- Increased details about charging stations for electrical vehicles
+- Increased details about charging stations for electrical vehicles and ability to add/edit these
 - On Android: 
   - Automatic backups for favorites (bookmarks, tracks)
   - Customizable button on home screen
+  - Ability to use a custom map server.
   - Improved navigation screen
 - And many smaller updates
 
