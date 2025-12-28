@@ -7,7 +7,7 @@ taxonomies:
     category: ["Release"]
 ---
 
-**Available on**: [Google Play](https://play.google.com/store/apps/details?id=app.comaps.google) | [App Store](https://apps.apple.com/app/comaps/id6747180809) | [F-Droid](https://f-droid.org/packages/app.comaps.fdroid/) | [Codeberg](https://codeberg.org/comaps/comaps/releases/tag/v2025.12.19-11)
+**Available on**: [Google Play](https://play.google.com/store/apps/details?id=app.comaps.google) | [App Store](https://apps.apple.com/app/comaps/id6747180809) | [F-Droid](https://f-droid.org/packages/app.comaps.fdroid/) | [Codeberg](https://codeberg.org/comaps/comaps/releases/tag/v2025.12.28-2)
 
 This is a maps-only update just to keep your maps fresh!
 
