@@ -14,20 +14,25 @@ A major difference between the projects is how they are governed and run - CoMap
 
 Since the split in April 2025, CoMaps has developed a number of features:
 
-- Improved routing engine and more accurate arrival time estimation
-- Routing option: paved roads and avoid steps
+- Improved routing engine and more accurate arrival time estimation and support for conditional restrictions
+- Routing options: Can avoid paved or unpaved roads, as well as steps
 - More dense/detailed altitude contour lines for many regions
 - Customizable button on home screen
-- Automatic backup of Favorites (Bookmarks, Tracks)
-- OpenStreetMap functionality: OSM Notes and POI last checked date
+- OpenStreetMap functionality: Improved OSM Notes, display of POI "last checked" date, and option to mark businesses as vacant 
 - Better visibility for many map objects, and enhanced map colors for light and dark modes
 - Improvements to search
 - Additional Points of Interest on the map
+- Removed semi-transparent background from Subway layer
 - Improved layouts for Right-to-Left languages
 - Panoramax picture links in Points of Interest
-- Charging station info for electric vehicles (Android)
-- Improved navigation screen (Android)
-- And many more 
+- On Android: 
+  - Automatic backups for favorites (bookmarks, tracks)
+  - Increased details about charging stations for electrical vehicles and ability to add/edit these
+  - Customizable button on home screen
+  - Ability to use a custom map server.
+  - Improved navigation screen
+  - New Material 3 UI 
+- And many smaller updates
 
 
 The [full list of updates is on Codeberg](https://codeberg.org/comaps/comaps/releases).
