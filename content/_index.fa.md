@@ -2,10 +2,10 @@
 description: 'Discover more of your journey - Powered by the community'
 extra:
   freedom:
-    description: 'ایورز خود را بیابید، جهان را جلوداری خوشیک و انجمن ناوبری کنید.'
+    description: 'ایورز خود را بیابید، جهان را با جلوداری خوشیک اود انجمن ناوبری کنید.'
     title: 'آزادی اینجاست'
   map:
-    description: 'انجمن + نقشه‌های وشاد'
+    description: 'انجمن + نقشه‌های باز'
   services:
     items:
       - 

@@ -9,7 +9,7 @@ extra:
   services:
     items:
       - 
-        description: 'Plan and navigate your trip abroad with just GPS, no need for mobile data. Search waypoints while on distant hiking trails or bike paths.'
+        description: '只要 GPS 無需行動網路即可規劃和導航您的海外旅行，郊外遠足時仍可搜尋航點。'
         highlight:
           icon: static/images/icons/home/wifi-off.svg
           text: 不用網路
