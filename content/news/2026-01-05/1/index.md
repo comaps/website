@@ -1,7 +1,7 @@
 ---
 title: "How CoMaps focuses on Privacy"
-description: ""
-date: 2026-01-03T01:00:00-00:00
+description: "Some technical changes CoMaps made to protect your privacy"
+date: 2026-01-05T09:00:00-00:00
 slug: "comaps-focuses-privacy"
 taxonomies:
     category: ["Blog"]
