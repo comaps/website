@@ -30,7 +30,7 @@ The MicroG implementation can still communicate with Google servers but the code
 
 ## Rewriting the meta server
 
-As our upstream project, w use a "meta-server", which optimizes which servers or "content delivery networks" (CDN) are used to distribute our maps to your app. 
+As our upstream project, we use a "meta-server", which optimizes which servers or "content delivery networks" (CDN) are used to distribute our maps to your app. 
 The upstream implementation at least historically also uses it to enable features in the app from the server, like replacing the app icon by a Christmas tree during the holidays or import donation URLs from a remote server to ask for donations in-app. 
 To improve our transparency and the security of our app and metaserver, we have instead implemented our own [meta server](https://codeberg.org/comaps/meta-php), which is only used to choose the best CDN based on the location of users as determined by their IP address.
 At the same time, we [removed the corresponding functions](https://codeberg.org/comaps/comaps/pulls/751) [from the app as well](https://codeberg.org/comaps/comaps/pulls/755). 
@@ -39,4 +39,4 @@ Lastly, we have also reduced logs recorded by the server.
 To furthermore remove the reliance on CoMaps, and provide ways to distribute maps in a more private way, the CoMaps android app can now also work without a meta server, by rather specifying a custom server address to get same maps data.
 in this way, users can even self-host their map servers if they wish.
 
-To further improve CoMaps, both around privacy related features but also generally, we are always looking for more people who can help contribute with relevant coding. If that sounds like you, get in touch with us on Zulip.
+To further improve CoMaps, both around privacy related features but also generally, we are always looking for more people who can help contribute with relevant coding. If that sounds like you, [get in touch with us on Zulip](https://www.comaps.app/support/how-do-i-start-contributing/).
