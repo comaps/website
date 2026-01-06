@@ -6,7 +6,6 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"PO-Revision-Date: 2025-12-10 13:11+0000\n"
 "Last-Translator: javnik <javnik@noreply.codeberg.org>\n"
 "Language-Team: Polish <https://translate.codeberg.org/projects/comaps/website/pl/>\n"
 "Language: pl\n"
@@ -423,6 +422,64 @@ msgstr "Strona API"
 msgid "The API is documented on [comaps.at/api](https://comaps.at/api)."
 msgstr "Dokumentacja API jest dostępna na [comaps.at/api](https://comaps.at/api)."
 
+#. type: Yaml Front Matter Hash Value: title
+#: content/privacy/index.md
+#, fuzzy, no-wrap
+#| msgid "Privacy-Centric"
+msgid "Privacy"
+msgstr "Skupione na prywatności"
+
+#. type: Plain text
+#: content/privacy/index.md
+msgid "At CoMaps, we respect your privacy. CoMaps does not have any form of identification of people, advertising, or personal data collection."
+msgstr ""
+
+#. type: Plain text
+#: content/privacy/index.md
+msgid "CoMaps does not track you."
+msgstr ""
+
+#. type: Plain text
+#: content/privacy/index.md content/terms/index.md
+msgid "If you have any questions or suggestions, please contact us at legal@comaps.app"
+msgstr ""
+
+#. type: Plain text
+#: content/privacy/index.md
+msgid "Policy effective: 2025-05-01"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/terms/index.md
+#, no-wrap
+msgid "Terms"
+msgstr ""
+
+#. type: Plain text
+#: content/terms/index.md
+msgid "This app is licensed under the Apache License, Version 2.0 (the \"License\"); This application cannot be used except in compliance with the License."
+msgstr ""
+
+#. type: Plain text
+#: content/terms/index.md
+msgid "Read [the full license text](https://www.apache.org/licenses/LICENSE-2.0)."
+msgstr ""
+
+#. type: Plain text
+#: content/terms/index.md
+msgid "Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License."
+msgstr ""
+
+#. type: Plain text
+#: content/terms/index.md
+msgid "Many libraries and 3rd party tools included into [CoMaps repository](https://codeberg.org/comaps/comaps) were developed by multiple people and organizations, and licensed in different ways.  Please refer to their LICENSE, COPYING or NOTICE files for terms of use."
+msgstr ""
+
+#. type: Plain text
+#: content/terms/index.md
+msgid "See [data/copyright.html](https://codeberg.org/comaps/comaps/src/branch/main/data/copyright.html) file for a full list of copyright notices for the CoMaps application."
+msgstr ""
+
 #. type: Hash Value: all_title
 #: translations.yaml
 #, no-wrap
@@ -552,10 +609,6 @@ msgstr "Skontaktuj się z nami"
 #, no-wrap
 #~ msgid "Offline Maps"
 #~ msgstr "Mapy offline"
-
-#, no-wrap
-#~ msgid "Privacy-Centric"
-#~ msgstr "Skupione na prywatności"
 
 #, no-wrap
 #~ msgid "No data collection"

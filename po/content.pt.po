@@ -422,6 +422,67 @@ msgstr "Página da API"
 msgid "The API is documented on [comaps.at/api](https://comaps.at/api)."
 msgstr "A API está documentada em [comaps.at/api](https://comaps.at/api)."
 
+#. type: Yaml Front Matter Hash Value: title
+#: content/privacy/index.md
+#, no-wrap
+msgid "Privacy"
+msgstr "Privacidade"
+
+#. type: Plain text
+#: content/privacy/index.md
+msgid "At CoMaps, we respect your privacy. CoMaps does not have any form of identification of people, advertising, or personal data collection."
+msgstr "No CoMaps, nós respeitamos a tua privacidade. O CoMaps não tem qualquer forma de identificar utilizadores, fazer anúncios ou recolha de dados pessoais."
+
+#. type: Plain text
+#: content/privacy/index.md
+msgid "CoMaps does not track you."
+msgstr "O CoMaps não te rastreia."
+
+#. type: Plain text
+#: content/privacy/index.md content/terms/index.md
+msgid "If you have any questions or suggestions, please contact us at legal@comaps.app"
+msgstr "Se tiver alguma questão ou sugestão, por favor contacte-nos pelo email: legal@comaps.app"
+
+#. type: Plain text
+#: content/privacy/index.md
+msgid "Policy effective: 2025-05-01"
+msgstr "Política em vigor: 2025-05-01"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/terms/index.md
+#, no-wrap
+msgid "Terms"
+msgstr "Termos"
+
+#. type: Plain text
+#: content/terms/index.md
+msgid "This app is licensed under the Apache License, Version 2.0 (the \"License\"); This application cannot be used except in compliance with the License."
+msgstr "Esta aplicação está licenciada sobre a Apache License, Version 2.0 (the \"License\"); Esta aplicação não pode ser usada a não ser que esteja em conformidade com a Licença."
+
+#. type: Plain text
+#: content/terms/index.md
+#, fuzzy
+#| msgid "License: [www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0)\n"
+msgid "Read [the full license text](https://www.apache.org/licenses/LICENSE-2.0)."
+msgstr "Licença: [www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0)\n"
+
+#. type: Plain text
+#: content/terms/index.md
+#, fuzzy
+#| msgid "Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License."
+msgid "Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License."
+msgstr "A não ser que requerido pela lei aplicável ou acordado por escrito, a distribuição de software abrangido pela Licença é distribuído na Base do \"ESTADO EM QUE SE ENCONTRA\", SEM QUALQUER GARANTIAS OU CONDIÇÕES DE QUALQUER TIPO, sejam elas expressas ou implícitas. Consulte a Licença para saber o idioma específico que rege as permissões e limitações ao abrigo da Licença."
+
+#. type: Plain text
+#: content/terms/index.md
+msgid "Many libraries and 3rd party tools included into [CoMaps repository](https://codeberg.org/comaps/comaps) were developed by multiple people and organizations, and licensed in different ways.  Please refer to their LICENSE, COPYING or NOTICE files for terms of use."
+msgstr "Muitas bibliotecas e ferramentas de terceiros incluidas no [CoMaps repository](https://codeberg.org/comaps/comaps) foram desenvolvidas por múltiplas pessoas e organizações, e licençiadas de maneiras diferentes. Por favor consulte os ficheiros da LICENÇA, CÓPIA ou AVISO destes para saber os termos de utilização."
+
+#. type: Plain text
+#: content/terms/index.md
+msgid "See [data/copyright.html](https://codeberg.org/comaps/comaps/src/branch/main/data/copyright.html) file for a full list of copyright notices for the CoMaps application."
+msgstr "Veja o ficheiro [data/copyright.html](https://codeberg.org/comaps/comaps/src/branch/main/data/copyright.html) para a lista completa dos avisos de direitos de autor para a aplicação do CoMaps."
+
 #. type: Hash Value: all_title
 #: translations.yaml
 #, no-wrap
@@ -601,39 +662,3 @@ msgstr "Entra em contacto connosco"
 #, no-wrap
 #~ msgid "To visit api please click"
 #~ msgstr "Para visitar a API clique por favor"
-
-#, no-wrap
-#~ msgid "Privacy"
-#~ msgstr "Privacidade"
-
-#~ msgid "At CoMaps, we respect your privacy. CoMaps does not have any form of identification of people, advertising, or personal data collection."
-#~ msgstr "No CoMaps, nós respeitamos a tua privacidade. O CoMaps não tem qualquer forma de identificar utilizadores, fazer anúncios ou recolha de dados pessoais."
-
-#~ msgid "CoMaps does not track you."
-#~ msgstr "O CoMaps não te rastreia."
-
-#~ msgid "If you have any questions or suggestions, please contact us at legal@comaps.app"
-#~ msgstr "Se tiver alguma questão ou sugestão, por favor contacte-nos pelo email: legal@comaps.app"
-
-#~ msgid "Policy effective: 2025-05-01"
-#~ msgstr "Política em vigor: 2025-05-01"
-
-#, no-wrap
-#~ msgid "Terms"
-#~ msgstr "Termos"
-
-#~ msgid "This app is licensed under the Apache License, Version 2.0 (the \"License\"); This application cannot be used except in compliance with the License."
-#~ msgstr "Esta aplicação está licenciada sobre a Apache License, Version 2.0 (the \"License\"); Esta aplicação não pode ser usada a não ser que esteja em conformidade com a Licença."
-
-#, no-wrap
-#~ msgid "License: [www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0)\n"
-#~ msgstr "Licença: [www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0)\n"
-
-#~ msgid "Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License."
-#~ msgstr "A não ser que requerido pela lei aplicável ou acordado por escrito, a distribuição de software abrangido pela Licença é distribuído na Base do \"ESTADO EM QUE SE ENCONTRA\", SEM QUALQUER GARANTIAS OU CONDIÇÕES DE QUALQUER TIPO, sejam elas expressas ou implícitas. Consulte a Licença para saber o idioma específico que rege as permissões e limitações ao abrigo da Licença."
-
-#~ msgid "Many libraries and 3rd party tools included into [CoMaps repository](https://codeberg.org/comaps/comaps) were developed by multiple people and organizations, and licensed in different ways.  Please refer to their LICENSE, COPYING or NOTICE files for terms of use."
-#~ msgstr "Muitas bibliotecas e ferramentas de terceiros incluidas no [CoMaps repository](https://codeberg.org/comaps/comaps) foram desenvolvidas por múltiplas pessoas e organizações, e licençiadas de maneiras diferentes. Por favor consulte os ficheiros da LICENÇA, CÓPIA ou AVISO destes para saber os termos de utilização."
-
-#~ msgid "See [data/copyright.html](https://codeberg.org/comaps/comaps/src/branch/main/data/copyright.html) file for a full list of copyright notices for the CoMaps application."
-#~ msgstr "Veja o ficheiro [data/copyright.html](https://codeberg.org/comaps/comaps/src/branch/main/data/copyright.html) para a lista completa dos avisos de direitos de autor para a aplicação do CoMaps."
