@@ -29,7 +29,7 @@ And while the Inca trail is more touristy, even along it there's ~2 days where t
 Furthermore, most of the campgrounds one encounters have limited if any electricity to recharge batteries as well.
 
 To nevertheless be able to survey and contribute, I used a mix of strategies:
-Firstly, as I was recording the actual hiking paths with my [Garmin _Fenix_ watch](/updating-personal-api/), I got GPX tracks of our routes somewhat as a side effect.
+Firstly, as I was recording the actual hiking paths with my [Garmin _Fenix_ watch](https://tzovar.as/updating-personal-api/), I got GPX tracks of our routes somewhat as a side effect.
 On a full charge, and with a bit of integrated solar charging, it can record GPS tracks for ~24 hours.
 And similarly, by just taking holiday snapshots (as well as some more mindful surveying pictures) along the route using my phone, I created some geolocated reference images too.
 That left the question of how to more directly contribute to OSM, for which I settled for a combination of [_CoMaps_](https://www.comaps.app/) and _[Every Door](https://every-door.app)_.
