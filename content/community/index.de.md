@@ -2,7 +2,7 @@
 description: "CoMaps wird von Leuten wie Dir entwickelt"
 extra:
   donate:
-    description: "Die App lebt von Deinen Spenden – hilf mit, sie zu verbessern"
+    description: "Die App lebt von deinen Spenden – hilf mit, sie zu verbessern"
     title: Spenden
   features:
     - description: "Bugs melden, Ideen diskutieren, Features vorschlagen"

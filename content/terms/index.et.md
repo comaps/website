@@ -1,27 +1,29 @@
 ---
-title: Terms
+title: Tingimused
 weight: 1000
 ---
 
-This app is licensed under the Apache License, Version 2.0 (the "License");
-This application cannot be used except in compliance with the License.
+Rakendus on avaldatud ja levitatud Apache'i Litsentsi, versioon 2.0
+(edaspidi „Litsents“) alusel. Sa võid seda rakendust kasutada vaid vastavalt
+Litsentsi tingimustele.
 
-Read [the full license text](https://www.apache.org/licenses/LICENSE-2.0).
+Loe [litsentsi täisteksti](https://www.apache.org/licenses/LICENSE-2.0).
 
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
-WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
-License for the specific language governing permissions and limitations
-under the License.
+Kui just mõni seadus seda ei nõua või pole kirjalikult kokku lepitud, siis
+Litsentsi alusel levitatud tarkvara toimib „ON, NAGU ON“ PÕHIMÕTTEL, ILMA
+IGASUGUSTE GARANTIIDETA JA TINGIMUSTETA, seda nii otseselt, kui
+kaudselt. Litsentsi tekstist leiad täpse kirjelduste õiguste ja piirangute
+kohta selle Litsentsi alusel.
 
-Many libraries and 3rd party tools included into [CoMaps
-repository](https://codeberg.org/comaps/comaps) were developed by multiple
-people and organizations, and licensed in different ways. Please refer to
-their LICENSE, COPYING or NOTICE files for terms of use.
+Mitmed [CoMapsi lähtekoodi hoidlas](https://codeberg.org/comaps/comaps)
+leiduvad teegid ja kolmandate osapoolte loodud tarvikud on arendatud
+erinevate inimeste ja organisatsioonide poolt ning vastavalt ka eri viisil
+litsentseeritud. Sellise tarkvara kasutustingimused leiad lähtekoodi
+failidest, mille nimed tavaliselt on LICENSE, COPYING või NOTICE.
 
-See
-[data/copyright.html](https://codeberg.org/comaps/comaps/src/branch/main/data/copyright.html)
-file for a full list of copyright notices for the CoMaps application.
+CoMapsi rakendusega seotud autoriõiguste tervikliku loendi leiad meie
+lähtekoodist siit:
+[data/copyright.html](https://codeberg.org/comaps/comaps/src/branch/main/data/copyright.html).
 
-If you have any questions or suggestions, please contact us at
-legal@comaps.app
+Kui sul on küsimusi või ettepanekuid, siis palun kirjuta meile e-posti
+aadressil legal@comaps.app

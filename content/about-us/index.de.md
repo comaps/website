@@ -3,7 +3,7 @@ description: "Kostenlose, quelloffene Navigation mit Fokus auf Datenschutz -<br/
 extra:
   about:
     media: /images/about-us/about.png
-    text: "CoMaps ist eine community-orientierte Navigationsapp mit Fokus auf Datenschutz für Reisende - mit dem Auto, beim Wandern, beim Radfahren. Sie nutzt OpenStreetMap-Daten, die von Menschen aus der ganzen Welt beigesteuert werden. Sie bietet Navigation mit Privatsphäre - keine Identifizierung von Personen und keine Datenerfassung. CoMaps funktioniert auch ohne Internetverbindung für die Offline-Navigation in Städten oder an entfernten Orten, wo kein Mobilfunknetz verfügbar ist. CoMaps ist ein Open-Source-Projekt, bei dem die Entwicklung der Community im Vordergrund steht."
+    text: "CoMaps ist eine community-orientierte Navigationsapp mit Fokus auf Datenschutz für Reisende - mit dem Auto, beim Wandern, beim Radfahren. Die App nutzt OpenStreetMap-Daten, die von Menschen aus der ganzen Welt beigesteuert werden. Sie bietet Navigation mit Privatsphäre - keine Identifizierung von Personen und keine Datenerfassung. CoMaps funktioniert auch ohne Internetverbindung für die Offline-Navigation in Städten oder an entfernten Orten, wo kein Mobilfunknetz verfügbar ist. CoMaps ist ein Open-Source-Projekt, bei dem die Entwicklung der Community im Vordergrund steht."
     title: "Kostenlose, quelloffene Navigation mit Fokus auf Datenschutz, entwickelt von der Community"
   history:
     items:
@@ -16,7 +16,7 @@ extra:
       - text: "Probleme in der Unternehmensführung und Sorgen in der Community, die von den Anteilseignern des Unternehmens nicht berücksichtigt wurden, haben die Entwicklung von Organic Maps monatelang verzögert."
         year: 2025
       - highlight: true
-        text: "Das Projekt **CoMaps** wird als Gemeinschaftsprojekt ohne Gewinnorientierung von früheren Organic Maps-Mitwirkenden basierend auf dem Quellcode von Organic Maps gegründet."
+        text: "Das Projekt **CoMaps** wird als Gemeinschaftsprojekt ohne Gewinnorientierung von früheren Organic-Maps-Mitwirkenden basierend auf dem Quellcode von Organic Maps gegründet."
         year: 2025
     title: Geschichte
   vm:

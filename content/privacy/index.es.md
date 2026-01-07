@@ -1,14 +1,13 @@
 ---
-title: Privacy
+title: Privacidad
 weight: 900
 ---
 
-At CoMaps, we respect your privacy. CoMaps does not have any form of
-identification of people, advertising, or personal data collection.
+CoMaps respeta tu privacidad. CoMaps no recopila ningún tipo de
+identificación personal, publicidad ni datos personales.
 
-CoMaps does not track you.
+CoMaps no te rastrea.
 
-If you have any questions or suggestions, please contact us at
-legal@comaps.app
+Si tienes dudas o sugerencias, por favor, contáctanos en legal@comaps.app
 
-Policy effective: 2025-05-01
+Política vigente desde el 2025-05-01

@@ -30,7 +30,7 @@ extra:
       text: "我們是一小群愛好者，利用閒暇時間做貢獻，並為开发 CoMaps 自掏腰包。我們熱愛 CoMaps，也熱愛 CoMaps 的使用者"
     - icon: static/images/icons/donate/icon03.svg
       text: 在您的支持下，我們正在努力開發注重隱私的地圖導航，成為市場的領導者
-  service_text:
+  service_text: ~
   service_title: "Created with love by enthusiast volunteers"
 template: donate.html
 title: 捐款贊助

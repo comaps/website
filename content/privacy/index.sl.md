@@ -1,14 +1,14 @@
 ---
-title: Privacy
+title: Zasebnost
 weight: 900
 ---
 
-At CoMaps, we respect your privacy. CoMaps does not have any form of
-identification of people, advertising, or personal data collection.
+Pri CoMapsu spoštujemo vašo zasebnost. CoMaps nim prepoznavanja oseb v
+katerikoli obliki, oglaševanja in ne zbira osebnih podatkov.
 
-CoMaps does not track you.
+CoMaps vam ne sledi.
 
-If you have any questions or suggestions, please contact us at
+Če imate kakršnakoli vprašanja ali predloge, jih, prosimo, posredujte na
 legal@comaps.app
 
-Policy effective: 2025-05-01
+Pravilnik v veljavi od: 2025-05-01

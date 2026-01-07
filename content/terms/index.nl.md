@@ -1,27 +1,30 @@
 ---
-title: Terms
+title: Voorwaarden
 weight: 1000
 ---
 
-This app is licensed under the Apache License, Version 2.0 (the "License");
-This application cannot be used except in compliance with the License.
+Deze app is gelicentieerd onder de Apache-licentie, versie 2.0 (de
+"licentie"); Deze applicatie mag alleen worden gebruikt in overeenstemming
+met de licentie.
 
-Read [the full license text](https://www.apache.org/licenses/LICENSE-2.0).
+Lees [de volledige
+licentietekst](https://www.apache.org/licenses/LICENSE-2.0).
 
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
-WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
-License for the specific language governing permissions and limitations
-under the License.
+Tenzij vereist door toepasselijke wetgeving of schriftelijk overeengekomen,
+wordt software die onder de Licentie wordt verspreid, verspreid op een "AS
+IS" BASIS, ZONDER ENIGE GARANTIES OF VOORWAARDEN, hetzij expliciet of
+impliciet. Raadpleeg de Licentie voor de specifieke bepalingen met
+betrekking tot rechten en beperkingen onder de Licentie.
 
-Many libraries and 3rd party tools included into [CoMaps
-repository](https://codeberg.org/comaps/comaps) were developed by multiple
-people and organizations, and licensed in different ways. Please refer to
-their LICENSE, COPYING or NOTICE files for terms of use.
+Veel bibliotheken en externe tools die zijn opgenomen in de
+[CoMaps-opslagruimte](https://codeberg.org/comaps/comaps) zijn ontwikkeld
+door verschillende mensen en organisaties, en hebben diverse
+licenties. Raadpleeg hun LICENSE-, COPYING- of NOTICE-bestanden voor de
+gebruiksvoorwaarden.
 
-See
+Bekijk het bestand
 [data/copyright.html](https://codeberg.org/comaps/comaps/src/branch/main/data/copyright.html)
-file for a full list of copyright notices for the CoMaps application.
+voor een volledige lijst met copyrightmeldingen voor de CoMaps-toepassing.
 
-If you have any questions or suggestions, please contact us at
+Als u vragen of suggesties heeft, neem dan contact met ons op via
 legal@comaps.app

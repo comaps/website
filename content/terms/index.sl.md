@@ -1,5 +1,5 @@
 ---
-title: Terms
+title: Pogoji
 weight: 1000
 ---
 
@@ -23,5 +23,5 @@ See
 [data/copyright.html](https://codeberg.org/comaps/comaps/src/branch/main/data/copyright.html)
 file for a full list of copyright notices for the CoMaps application.
 
-If you have any questions or suggestions, please contact us at
+Če imate kakršnakoli vprašanja ali predloge, jih, prosimo, posredujte na
 legal@comaps.app

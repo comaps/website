@@ -1,27 +1,28 @@
 ---
-title: Terms
+title: Услови
 weight: 1000
 ---
 
-This app is licensed under the Apache License, Version 2.0 (the "License");
-This application cannot be used except in compliance with the License.
+Ова апликација је лиценциран под лиценцом Апач 2.0 (у даљем тексту:
+"Лиценца"); Ова апликација се може користити само у складу са Лиценцом.
 
-Read [the full license text](https://www.apache.org/licenses/LICENSE-2.0).
+Прочитајте [комплетан текст
+лиценце](https://www.apache.org/licenses/LICENSE-2.0).
 
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
-WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
-License for the specific language governing permissions and limitations
-under the License.
+Осим ако то не захтева важећи закон или ако је то писмено договорено,
+софтвер који се дистрибуира под Лиценцом дистрибуира се на ОСНОВУ „КАКО
+ЈЕСТЕ“, БЕЗ ГАРАНЦИЈА ИЛИ УСЛОВА БИЛО КОЈЕ ВРСТЕ, било изричитих или
+подразумеваних. Погледајте Лиценцу за одређени језик који регулише дозволе и
+ограничења у оквиру Лиценце.
 
-Many libraries and 3rd party tools included into [CoMaps
-repository](https://codeberg.org/comaps/comaps) were developed by multiple
-people and organizations, and licensed in different ways. Please refer to
-their LICENSE, COPYING or NOTICE files for terms of use.
+Многе библиотеке и алатке треће стране укључене у [CoMaps
+repository](https://codeberg.org/comaps/comaps) развило је више људи и
+организација и лиценцирало их је на различите начине. Молимо погледајте
+њихове датотеке ЛИЦЕНЦА, КОПИРАЊЕ или ОБАВЕШТЕЊЕ за услове коришћења.
 
-See
+Погледај
 [data/copyright.html](https://codeberg.org/comaps/comaps/src/branch/main/data/copyright.html)
-file for a full list of copyright notices for the CoMaps application.
+фајл за пуну листу обавештења о ауторским правима за апликацију CoMaps.
 
-If you have any questions or suggestions, please contact us at
+Ако имате било каквих питања или сугестија, контактирајте нас на
 legal@comaps.app
