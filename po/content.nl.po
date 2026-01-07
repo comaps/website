@@ -6,6 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
+"PO-Revision-Date: 2026-01-07 05:21+0000\n"
 "Last-Translator: Stephan-P <stephan-p@noreply.codeberg.org>\n"
 "Language-Team: Dutch <https://translate.codeberg.org/projects/comaps/website/nl/>\n"
 "Language: nl\n"
@@ -13,7 +14,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.14\n"
+"X-Generator: Weblate 5.15.1\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -424,61 +425,60 @@ msgstr "De API is gedocumenteerd op [comaps.at/api](https://comaps.at/api)."
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/privacy/index.md
-#, fuzzy, no-wrap
-#| msgid "Privacy-Centric"
+#, no-wrap
 msgid "Privacy"
-msgstr "Privacygericht"
+msgstr "Privacy"
 
 #. type: Plain text
 #: content/privacy/index.md
 msgid "At CoMaps, we respect your privacy. CoMaps does not have any form of identification of people, advertising, or personal data collection."
-msgstr ""
+msgstr "Bij CoMaps respecteren we uw privacy. CoMaps heeft geen enkele vorm van identificatie van personen, reclame of het verzamelen van persoonlijke gegevens."
 
 #. type: Plain text
 #: content/privacy/index.md
 msgid "CoMaps does not track you."
-msgstr ""
+msgstr "CoMaps volgt u niet."
 
 #. type: Plain text
 #: content/privacy/index.md content/terms/index.md
 msgid "If you have any questions or suggestions, please contact us at legal@comaps.app"
-msgstr ""
+msgstr "Als u vragen of suggesties heeft, neem dan contact met ons op via legal@comaps.app"
 
 #. type: Plain text
 #: content/privacy/index.md
 msgid "Policy effective: 2025-05-01"
-msgstr ""
+msgstr "Beleid effectief: 01-05-2025"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/terms/index.md
 #, no-wrap
 msgid "Terms"
-msgstr ""
+msgstr "Voorwaarden"
 
 #. type: Plain text
 #: content/terms/index.md
 msgid "This app is licensed under the Apache License, Version 2.0 (the \"License\"); This application cannot be used except in compliance with the License."
-msgstr ""
+msgstr "Deze app is gelicentieerd onder de Apache-licentie, versie 2.0 (de \"licentie\"); Deze applicatie mag alleen worden gebruikt in overeenstemming met de licentie."
 
 #. type: Plain text
 #: content/terms/index.md
 msgid "Read [the full license text](https://www.apache.org/licenses/LICENSE-2.0)."
-msgstr ""
+msgstr "Lees [de volledige licentietekst](https://www.apache.org/licenses/LICENSE-2.0)."
 
 #. type: Plain text
 #: content/terms/index.md
 msgid "Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License."
-msgstr ""
+msgstr "Tenzij vereist door toepasselijke wetgeving of schriftelijk overeengekomen, wordt software die onder de Licentie wordt verspreid, verspreid op een \"AS IS\" BASIS, ZONDER ENIGE GARANTIES OF VOORWAARDEN, hetzij expliciet of impliciet. Raadpleeg de Licentie voor de specifieke bepalingen met betrekking tot rechten en beperkingen onder de Licentie."
 
 #. type: Plain text
 #: content/terms/index.md
 msgid "Many libraries and 3rd party tools included into [CoMaps repository](https://codeberg.org/comaps/comaps) were developed by multiple people and organizations, and licensed in different ways.  Please refer to their LICENSE, COPYING or NOTICE files for terms of use."
-msgstr ""
+msgstr "Veel bibliotheken en externe tools die zijn opgenomen in de [CoMaps-opslagruimte](https://codeberg.org/comaps/comaps) zijn ontwikkeld door verschillende mensen en organisaties, en hebben diverse licenties. Raadpleeg hun LICENSE-, COPYING- of NOTICE-bestanden voor de gebruiksvoorwaarden."
 
 #. type: Plain text
 #: content/terms/index.md
 msgid "See [data/copyright.html](https://codeberg.org/comaps/comaps/src/branch/main/data/copyright.html) file for a full list of copyright notices for the CoMaps application."
-msgstr ""
+msgstr "Bekijk het bestand [data/copyright.html](https://codeberg.org/comaps/comaps/src/branch/main/data/copyright.html) voor een volledige lijst met copyrightmeldingen voor de CoMaps-toepassing."
 
 #. type: Hash Value: all_title
 #: translations.yaml

@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"PO-Revision-Date: 2026-01-01 15:56+0000\n"
+"PO-Revision-Date: 2026-01-06 12:21+0000\n"
 "Last-Translator: codebergian42 <codebergian42@noreply.codeberg.org>\n"
 "Language-Team: German <https://translate.codeberg.org/projects/comaps/website/de/>\n"
 "Language: de\n"
@@ -425,61 +425,60 @@ msgstr "Die API ist auf [comaps.at/api](https://comaps.at/api) dokumentiert."
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/privacy/index.md
-#, fuzzy, no-wrap
-#| msgid "Privacy-Centric"
+#, no-wrap
 msgid "Privacy"
-msgstr "Fokus auf Datenschutz"
+msgstr "Datenschutz"
 
 #. type: Plain text
 #: content/privacy/index.md
 msgid "At CoMaps, we respect your privacy. CoMaps does not have any form of identification of people, advertising, or personal data collection."
-msgstr ""
+msgstr "Bei CoMaps respektieren wir deine Privatsphäre. CoMaps hat keinerlei Form von persönlicher Identifizierung, Werbung oder Sammlung persönlicher Daten."
 
 #. type: Plain text
 #: content/privacy/index.md
 msgid "CoMaps does not track you."
-msgstr ""
+msgstr "CoMaps trackt dich nicht."
 
 #. type: Plain text
 #: content/privacy/index.md content/terms/index.md
 msgid "If you have any questions or suggestions, please contact us at legal@comaps.app"
-msgstr ""
+msgstr "Falls du Fragen oder Vorschläge hast, kontaktiere uns bitte unter legal@comaps.app"
 
 #. type: Plain text
 #: content/privacy/index.md
 msgid "Policy effective: 2025-05-01"
-msgstr ""
+msgstr "Gültig seit: 01.05.2025"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/terms/index.md
 #, no-wrap
 msgid "Terms"
-msgstr ""
+msgstr "Bedingungen"
 
 #. type: Plain text
 #: content/terms/index.md
 msgid "This app is licensed under the Apache License, Version 2.0 (the \"License\"); This application cannot be used except in compliance with the License."
-msgstr ""
+msgstr "Diese Applikation steht unter der Apache Lizenz, Version 2.0 (die \"License\"); diese Applikation kann nur unter Einhaltung der Lizenzbedingungen genutzt werden."
 
 #. type: Plain text
 #: content/terms/index.md
 msgid "Read [the full license text](https://www.apache.org/licenses/LICENSE-2.0)."
-msgstr ""
+msgstr "Lese [den vollen Lizenztext](https://www.apache.org/licenses/LICENSE-2.0)."
 
 #. type: Plain text
 #: content/terms/index.md
 msgid "Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License."
-msgstr ""
+msgstr "Sofern nicht durch geltendes Recht vorgeschrieben oder schriftlich vereinbart, wird die unter dieser Lizenz vertriebene Software „wie sie ist“, ohne jegliche ausdrückliche oder implizierte Gewährleistungen oder Bedingungen vertrieben. Die spezifischen Bestimmungen zu den unter dieser Lizenz gewährten Rechten und Einschränkungen sind in der Lizenz festgehalten."
 
 #. type: Plain text
 #: content/terms/index.md
 msgid "Many libraries and 3rd party tools included into [CoMaps repository](https://codeberg.org/comaps/comaps) were developed by multiple people and organizations, and licensed in different ways.  Please refer to their LICENSE, COPYING or NOTICE files for terms of use."
-msgstr ""
+msgstr "Viele Programmbibliotheken und Programme von Drittanbietern sind im [CoMaps Repository](https://codeberg.org/comaps/comaps) und wurden von verschiedenen Personen und Organisationen entwickelt, und stehen unter anderen Lizenzen. Diese Bedingungen stehen in den LICENSE-, COPYING- und NOTICE-Dateien."
 
 #. type: Plain text
 #: content/terms/index.md
 msgid "See [data/copyright.html](https://codeberg.org/comaps/comaps/src/branch/main/data/copyright.html) file for a full list of copyright notices for the CoMaps application."
-msgstr ""
+msgstr "Siehe die [data/copyright.html](https://codeberg.org/comaps/comaps/src/branch/main/data/copyright.html) Datei für eine komplette Liste aller Urheberrechtshinweise der CoMaps-Applikation."
 
 #. type: Hash Value: all_title
 #: translations.yaml

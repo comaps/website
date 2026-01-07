@@ -6,6 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
+"PO-Revision-Date: 2026-01-06 08:21+0000\n"
 "Last-Translator: N4ta <codeberg@n4ta.anonaddy.me>\n"
 "Language-Team: Portuguese <https://translate.codeberg.org/projects/comaps/website/pt/>\n"
 "Language: pt\n"
@@ -13,7 +14,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Weblate 5.14\n"
+"X-Generator: Weblate 5.15.1\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -461,15 +462,11 @@ msgstr "Esta aplicação está licenciada sobre a Apache License, Version 2.0 (t
 
 #. type: Plain text
 #: content/terms/index.md
-#, fuzzy
-#| msgid "License: [www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0)\n"
 msgid "Read [the full license text](https://www.apache.org/licenses/LICENSE-2.0)."
-msgstr "Licença: [www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0)\n"
+msgstr "Leia a [licença textual inteiro](https://www.apache.org/licenses/LICENSE-2.0)."
 
 #. type: Plain text
 #: content/terms/index.md
-#, fuzzy
-#| msgid "Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License."
 msgid "Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License."
 msgstr "A não ser que requerido pela lei aplicável ou acordado por escrito, a distribuição de software abrangido pela Licença é distribuído na Base do \"ESTADO EM QUE SE ENCONTRA\", SEM QUALQUER GARANTIAS OU CONDIÇÕES DE QUALQUER TIPO, sejam elas expressas ou implícitas. Consulte a Licença para saber o idioma específico que rege as permissões e limitações ao abrigo da Licença."
 
