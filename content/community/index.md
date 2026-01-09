@@ -12,17 +12,17 @@ extra:
     description: The app runs on your donations, help improve it
   features:
     - title: "**Report** Bugs"
-      description: "Report bugs, discuss idea, and propose features"
+      description: "Report bugs, discuss ideas, and propose features"
       icon: "chats.svg"
       link: "https://codeberg.org/comaps/comaps/issues"
     - title: "**Develop** Functionality"
       description: "Develop new features, help fix bugs, and review code"
       icon: "CodeBlock.svg"
-      link: "https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md"
+      link: "https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md#code-contributions"
     - title: "**Design** Interface"
       description: "Shape the direction of the product experience"
       icon: "BezierCurve.svg"
-      link: "https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md"
+      link: "https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md#ui-ux-map-styling-and-icons"
     - title: "**Translate** Text"
       description: "Add translations to make it accessible for more people around the world"
       icon: "Translate.svg"
@@ -34,5 +34,5 @@ extra:
     - title: "**Help** Support"
       description: "Help people use the app, and answer questions"
       icon: "Headset.svg"
-      link: "https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md"
+      link: "https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md#day-to-day-activities"
 ---
