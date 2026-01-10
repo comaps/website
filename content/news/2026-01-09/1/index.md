@@ -48,7 +48,7 @@ As technology moves on and new toolkits appear, others become deprecated and mai
 Due to this it becomes to important to ensure that CoMaps "goes with the times" in terms of underlying technologies, to ensure that we can deliver our apps to you for the years to come.
 
 Some of this work you might already have noticed, for example the implementation of Android's _Material 3_ interfaces.
-In 2026 we will need to work more on these, often invisible, changes to ensure CoMaps remains maintainable. Potential work that fits this, would include refactoring the way http requests in Android are made, to offer a more robust implementation for the traffic feature or overhaulign the workflow for map icons, to simplify the integration of new POI types.
+In 2026 we will need to work more on these, often invisible, changes to ensure CoMaps remains maintainable. Potential work that fits this, would include refactoring the way http requests in Android are made, to offer a more robust implementation for the traffic feature or overhauling the workflow for map icons, to simplify the integration of new POI types.
 
 ## Improving processes & automation
 
