@@ -2,6 +2,6 @@ name: dco
 on: [pull_request]
 jobs:
   check:
-    runs-on: codeberg-tiny
+    runs-on: ubuntu-latest
     steps:
       - uses: https://github.com/KineticCafe/actions-dco@v1
