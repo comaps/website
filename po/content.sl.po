@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"PO-Revision-Date: 2026-01-06 14:21+0000\n"
+"PO-Revision-Date: 2026-01-09 14:21+0000\n"
 "Last-Translator: JanezPavelZebovec <janezpavelzebovec@noreply.codeberg.org>\n"
 "Language-Team: Slovenian <https://translate.codeberg.org/projects/comaps/website/sl/>\n"
 "Language: sl\n"
@@ -463,7 +463,7 @@ msgstr ""
 #. type: Plain text
 #: content/terms/index.md
 msgid "Read [the full license text](https://www.apache.org/licenses/LICENSE-2.0)."
-msgstr ""
+msgstr "Preberite [celotno besedilo dovoljenja](https://www.apache.org/licenses/LICENSE-2.0)."
 
 #. type: Plain text
 #: content/terms/index.md

@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"PO-Revision-Date: 2026-01-05 23:21+0000\n"
+"PO-Revision-Date: 2026-01-09 14:21+0000\n"
 "Last-Translator: cirilla <cirilla@noreply.codeberg.org>\n"
 "Language-Team: Cornish <https://translate.codeberg.org/projects/comaps/website/kw/>\n"
 "Language: kw\n"
@@ -98,7 +98,7 @@ msgstr "Sawya Dha Batri"
 #: content/_index.md
 #, no-wrap
 msgid "People like you are helping build the app by adding locations to <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> to create great maps together. The project is a fork of Organic Maps and Maps.Me, and driven by an open-source community."
-msgstr "Tus avel ty gweres byldya an app gans addya tylleryow dhe <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg>[OpenStreetMap](https://openstreetmap.org)</span>, dasliva war nasyow, ha kevri kod war <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"><use href=\"#icon-codeberg\"></use></svg>[Codeberg](https://codeberg.org/comaps)</span> rag gul mappys bryntin war-barth. An ragdes yw unn forgh a Organic Maps ha Maps.Me, ha selys war unn kemeneth rydh."
+msgstr "Tus avel ty ow gweres byldya an app gans owth addya tylleryow dhe <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg>[OpenStreetMap](https://openstreetmap.org)</span>, ow dasliva war nasyow, hag ow kevri kod war <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"><use href=\"#icon-codeberg\"></use></svg>[Codeberg](https://codeberg.org/comaps)</span> rag gul mappys bryntin war-barth. An ragdes yw unn forgh a Organic Maps ha Maps.Me, ha selys war unn kemeneth rydh."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
@@ -230,7 +230,7 @@ msgstr "Argevri ha gul mappys gwell war-barth!"
 #: content/donate/index.md
 #, no-wrap
 msgid "Donate to keep the project running"
-msgstr "Argevri dhe gwitha an ragdres oberi"
+msgstr "Argevri dhe gwitha an ragdres owth oberi"
 
 #. type: Yaml Front Matter Hash Value: extra donate info title
 #: content/donate/index.md
@@ -254,298 +254,298 @@ msgstr "Argevri der Open Collective"
 #: content/donate/index.md
 #, no-wrap
 msgid "Currently there is no full time team who is working to develop new features and improve the service. To consistently move the product forward, a core team is needed."
-msgstr ""
+msgstr "Y'n eur ma, yma bagas pes vyth ow lavurya rag gul nasyow nowydh ha gwellhe an gonis. Rag ragwaya yn kesson, unn bagas a res."
 
 #. type: Yaml Front Matter Hash Value: extra funding items title
 #: content/donate/index.md
 #, no-wrap
 msgid "Developers"
-msgstr ""
+msgstr "Awtours"
 
 #. type: Yaml Front Matter Hash Value: extra funding items text
 #: content/donate/index.md
 #, no-wrap
 msgid "We have to keep up fast servers, so anyone in the world can download free map data updates without delays. These maps data transfers make up large, and growing, amounts of data each month."
-msgstr ""
+msgstr "Ni res gwitha servellow uskis, rag may nebonan war an nor gallos iskarga nowedhyansow mappys rydh heb lettya. An treusporthow data mappys ma moghhe pub mis."
 
 #. type: Yaml Front Matter Hash Value: extra funding items title
 #: content/donate/index.md
 #, no-wrap
 msgid "Infrastructure"
-msgstr ""
+msgstr "Isframweyth"
 
 #. type: Yaml Front Matter Hash Value: extra funding items text
 #: content/donate/index.md
 #, no-wrap
 msgid "User support, fixing bugs, and improving the stability of the app are our top priority. The list of requests and bug reports grows every day, and there are many support requests to respond to on the App Store, Google Play, and support emails."
-msgstr ""
+msgstr "Skoodhyans usyer, owth ewnhe kudynnow, ha gwellhe an faster app yw agan ragwiryow. An rol a govynnow ha derivasow kudynnow moghhe keniver dydh, hag yma meur a govynnow skoodhyans dhe gorthebi dhe war an App Store, Google Play, hag ebostow skoodhyans."
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/donate/index.md content/support/_index.md
 #, no-wrap
 msgid "Support"
-msgstr ""
+msgstr "Skoodhyans"
 
 #. type: Yaml Front Matter Hash Value: extra funding title
 #: content/donate/index.md
 #, no-wrap
 msgid "How will funding be used?"
-msgstr ""
+msgstr "Fatel wren arghasans devnydhys?"
 
 #. type: Yaml Front Matter Hash Value: extra info text
 #: content/donate/index.md
 #, no-wrap
 msgid "We rely on your donations to keep CoMaps open and free"
-msgstr ""
+msgstr "Ni fydhya war dha argevrohow rag gwitha CoMaps ygor ha rydh"
 
 #. type: Yaml Front Matter Hash Value: extra info text
 #: content/donate/index.md
 #, no-wrap
 msgid "We are a few enthusiasts contributing in our free time. We love what we do, and we love our users"
-msgstr ""
+msgstr "On nebes tus dhiwysyk ow kevri yn agan termyn rydh. Ni kara an pyth a wren ni, ha ni kara agan usyoryon"
 
 #. type: Yaml Front Matter Hash Value: extra info text
 #: content/donate/index.md
 #, no-wrap
 msgid "With your support, we are working toward privacy-focused map navigation that is the preferred choice on the market"
-msgstr ""
+msgstr "Gans dha skoodhyans, on ow lavurya troha navigacyon privedh yw an dewis dewisek war an marghas"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/support/_index.md
 #, no-wrap
 msgid "Need assistance? Search for answers to common questions. Get the support you need and connect with others in the community for help."
-msgstr ""
+msgstr "Res gweres? Hwilas rag gorthebow dhe govynnow kemmyn. Kavos an gweres ty res ha omjunya gans re erel yn an kemeneth rag gweres."
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/about-us/index.md
 #, no-wrap
 msgid "Free and open navigation with privacy -<br/>Built by the community"
-msgstr ""
+msgstr "Navigacyon rydh hay ygor gans privetter -<br/>Byldya gans an kemeneth"
 
 #. type: Yaml Front Matter Hash Value: extra about text
 #: content/about-us/index.md
 #, no-wrap
 msgid "CoMaps is a community-focused privacy navigation app for travelers - drivers, hikers, and cyclists. It uses the crowd-sourced OpenStreetMap data with contributors from all over the globe. It offers navigation with privacy - no identifying people and no data collection. CoMaps features can operate without an active internet connection for offline navigation at urban or distant locations, where cellular service is not available. CoMaps is an open-source project, and prioritizes community development."
-msgstr ""
+msgstr "CoMaps yw unn app navigacyon fogellys war kemeneth rag tremenysi - lewyoryon, kerdhoryon, ha diwrosyoryon. Y'n devnydhya an data routh-gwrys OpenStreetMap gans kevriysi a dres oll an bys. Y'n offra navigacyon gans privetter - owth aswon tus vyth ha kuntel data vyth. Nasyow CoMaps gallos oberi heb unn junyans kesrosweyth byw rag navigation dhywarlinen yn tylleryow trevel po pell, le may gonis kellgowser yw ankavadow. CoMaps yw ynn ragdres rydh, ha ragwirhe displegyans kemeneth."
 
 #. type: Yaml Front Matter Hash Value: extra about title
 #: content/about-us/index.md
 #, no-wrap
 msgid "Free and open navigation with privacy, built by the community"
-msgstr ""
+msgstr "Navigacyon rydh hag ygor gans privetter, byldys gans an kemeneth"
 
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md
 #, no-wrap
 msgid "MapsWithMe navigation app created (later renamed to Maps.me)."
-msgstr ""
+msgstr "App navigacyon MapsWithMe gwrys (dashenwelys diwettha dhe Maps.me)."
 
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md
 #, no-wrap
 msgid "Maps.me opened the source code under Apache 2.0 license."
-msgstr ""
+msgstr "Maps.me ygerys an kod yn leshyans Apache 2.0."
 
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md
 #, no-wrap
 msgid "The Organic Maps project & company were founded, based on the Maps.Me source code."
-msgstr ""
+msgstr "An ragdres ha kompani Organic Maps yw selys, selys war an kod Maps.Me."
 
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md
 #, no-wrap
 msgid "Governance issues and community concerns not addressed by company shareholders stalled the development of Organic Maps for months."
-msgstr ""
+msgstr "Kudynnow governieth ha bernyow kemeneth na kewsel orth gans kevranoryon hedhys an displegyans dres misyow."
 
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md
 #, no-wrap
 msgid "The **CoMaps** community & non-profit project was founded by former Organic Maps contributors, based on the Organic Maps source code."
-msgstr ""
+msgstr "An kemeneth **CoMaps** & ragdres heb budh yw selys gans kevrisi kyns Organic Maps, selys war an kod Organic Maps."
 
 #. type: Yaml Front Matter Hash Value: extra history title
 #: content/about-us/index.md
 #, no-wrap
 msgid "History"
-msgstr ""
+msgstr "Istori"
 
 #. type: Yaml Front Matter Hash Value: extra vm items text
 #: content/about-us/index.md
 #, no-wrap
 msgid "Unlock the freedom to easily navigate offline, with privacy-focused maps for drivers, hikers, and cyclists, powered by the community."
-msgstr ""
+msgstr "Dialhwedha an rydhses dhe viajya dhywarlinen yn es, gans mappys privedh rag lewyoryon, kerdhoryon, ha diwrosyoryon, selys war an kemeneth."
 
 #. type: Yaml Front Matter Hash Value: extra vm items title
 #: content/about-us/index.md
 #, no-wrap
 msgid "Mission"
-msgstr ""
+msgstr "Medras"
 
 #. type: Yaml Front Matter Hash Value: extra vm items text
 #: content/about-us/index.md
 #, no-wrap
 msgid "Create a world where navigating with maps is free, and privacy by default is the top choice on the planet."
-msgstr ""
+msgstr "Gul unn bys le may viajya gans mappys yw rydh, ha privetter yn defowt yw an penndewis war an nor."
 
 #. type: Yaml Front Matter Hash Value: extra vm items title
 #: content/about-us/index.md
 #, no-wrap
 msgid "Vision"
-msgstr ""
+msgstr "Gwel"
 
 #. type: Hash Value: menu_about_us
 #: content/about-us/index.md translations.yaml
 #, no-wrap
 msgid "About Us"
-msgstr ""
+msgstr "A-dro Ni"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/download/index.md
 #, no-wrap
 msgid "Unlock the potential of navigation! Discover offline maps, privacy-centric features, and a community-driven app"
-msgstr ""
+msgstr "Dialwedha an potencyal a navigacyon! Trovya mappys dhywarlinen, nasyow privedh, hag unn app selys war an kemeneth"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/download/index.md
 #, no-wrap
 msgid "Download CoMaps"
-msgstr ""
+msgstr "Iskarga CoMaps"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/api/index.md
 #, no-wrap
 msgid "API Page"
-msgstr ""
+msgstr "Folen API"
 
 #. type: Plain text
 #: content/api/index.md
 #, markdown-text
 msgid "The API is documented on [comaps.at/api](https://comaps.at/api)."
-msgstr ""
+msgstr "An API yw deskrifys war [comaps.at/api](https://comaps.at/api)."
 
 #. type: Hash Value: all_title
 #: translations.yaml
 #, no-wrap
 msgid "All"
-msgstr ""
+msgstr "Oll"
 
 #. type: Hash Value: button-download
 #: translations.yaml
 #, no-wrap
 msgid "Download"
-msgstr ""
+msgstr "Iskarga"
 
 #. type: Hash Value: const_lang
 #: translations.yaml
 #, no-wrap
 msgid "Language"
-msgstr ""
+msgstr "Yeth"
 
 #. type: Hash Value: faq_content
 #: translations.yaml
 #, no-wrap
 msgid "CoMaps - F.A.Q."
-msgstr ""
+msgstr "CoMaps - Govynnow Govyn yn Fenowgh."
 
 #. type: Hash Value: how_can_help
 #: translations.yaml
 #, no-wrap
 msgid "How can we help?"
-msgstr ""
+msgstr "Fatel yllyn gweres?"
 
 #. type: Hash Value: inv_code_text
 #: translations.yaml
 #, no-wrap
 msgid "Build the app used by people around the world"
-msgstr ""
+msgstr "Byldya an app devnydhys gans tus dres oll an bys"
 
 #. type: Hash Value: inv_code_title
 #: translations.yaml
 #, no-wrap
 msgid "Contribute Code"
-msgstr ""
+msgstr "Kevri Kod"
 
 #. type: Hash Value: inv_info_text
 #: translations.yaml
 #, no-wrap
 msgid "Add info around you, and make the maps better for everyone"
-msgstr ""
+msgstr "Addya kudhlow a-dro ty, ha gwellhe an mappys rag peub"
 
 #. type: Hash Value: inv_info_title
 #: translations.yaml
 #, no-wrap
 msgid "Add Place Info"
-msgstr ""
+msgstr "Addya Kudhlow Le"
 
 #. type: Hash Value: inv_title
 #: translations.yaml
 #, no-wrap
 msgid "Get Involved"
-msgstr ""
+msgstr "Kemeres Rann"
 
 #. type: Hash Value: language
 #: translations.yaml
 #, no-wrap
 msgid "English"
-msgstr ""
+msgstr "Kernewek"
 
 #. type: Hash Value: menu_api
 #: translations.yaml
 #, no-wrap
 msgid "API"
-msgstr ""
+msgstr "API"
 
 #. type: Hash Value: menu_help
 #: translations.yaml
 #, no-wrap
 msgid "Help"
-msgstr ""
+msgstr "Gweres"
 
 #. type: Hash Value: menu_home
 #: translations.yaml
 #, no-wrap
 msgid "Home"
-msgstr ""
+msgstr "Tre"
 
 #. type: Hash Value: menu_news
 #: translations.yaml
 #, no-wrap
 msgid "News"
-msgstr ""
+msgstr "Nowodhow"
 
 #. type: Hash Value: menu_source_code
 #: translations.yaml
 #, no-wrap
 msgid "Source Code"
-msgstr ""
+msgstr "Kod"
 
 #. type: Hash Value: more_title
 #: translations.yaml
 #, no-wrap
 msgid "More"
-msgstr ""
+msgstr "Moy"
 
 #. type: Hash Value: releases_title
 #: translations.yaml
 #, no-wrap
 msgid "Releases"
-msgstr ""
+msgstr "Versyons"
 
 #. type: Hash Value: search_placeholder
 #: translations.yaml
 #, no-wrap
 msgid "Describe the issue"
-msgstr ""
+msgstr "Deskrifa an kudyn"
 
 #. type: Hash Value: search_placeholder_simple
 #: translations.yaml
 #, no-wrap
 msgid "Search"
-msgstr ""
+msgstr "Hwilas"
 
 #. type: Hash Value: social_title
 #: translations.yaml
 #, no-wrap
 msgid "Connect with Us"
-msgstr ""
+msgstr "Omunjya gans Ni"

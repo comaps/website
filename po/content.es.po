@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"PO-Revision-Date: 2026-01-07 00:21+0000\n"
-"Last-Translator: ggs <ggs@noreply.codeberg.org>\n"
+"PO-Revision-Date: 2026-01-09 05:21+0000\n"
+"Last-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>\n"
 "Language-Team: Spanish <https://translate.codeberg.org/projects/comaps/website/es/>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
@@ -453,12 +453,12 @@ msgstr "Política vigente desde el 2025-05-01"
 #: content/terms/index.md
 #, no-wrap
 msgid "Terms"
-msgstr ""
+msgstr "Términos"
 
 #. type: Plain text
 #: content/terms/index.md
 msgid "This app is licensed under the Apache License, Version 2.0 (the \"License\"); This application cannot be used except in compliance with the License."
-msgstr "Esta aplicación está licenciada bajo la Licencia Apache, Versión 2.0 (la \"Licencia\"). No se puede utilizar esta aplicación excepto en cumplimiento con la Licencia."
+msgstr "Esta aplicación está disponible en virtud de la Licencia Apache, versión 2.0 (la «Licencia»); no puede utilizar esta aplicación excepto en cumplimiento con la Licencia."
 
 #. type: Plain text
 #: content/terms/index.md
@@ -468,7 +468,7 @@ msgstr "Puedes leer [el texto completo de la licencia](https://www.apache.org/li
 #. type: Plain text
 #: content/terms/index.md
 msgid "Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License."
-msgstr ""
+msgstr "Salvo que lo exija la ley aplicable o se acuerde por escrito, el software distribuido bajo esta Licencia se proporciona \"TAL CUAL\", SIN GARANTÍAS NI CONDICIONES DE NINGÚN TIPO, ya sean expresas o implícitas. Consulte la Licencia para conocer el lenguaje específico que rige los permisos y las limitaciones bajo la Licencia."
 
 #. type: Plain text
 #: content/terms/index.md
