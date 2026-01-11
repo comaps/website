@@ -5,17 +5,17 @@ extra:
     description: "Uygulama bağışlarınızla çalışıyor, yardımcı olun"
     title: "Bağış yapın"
   features:
-    - description: "Hata bildir, fikri tartış ve özellik öner"
+    - description: "Report bugs, discuss ideas, and propose features"
       icon: chats.svg
       link: https://codeberg.org/comaps/comaps/issues
       title: "**Hata** Bildir"
     - description: "Yeni özellikler geliştirin, hataların düzeltilmesine yardımcı olun ve kodu inceleyin"
       icon: CodeBlock.svg
-      link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md
+      link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md#code-contributions
       title: "**Geliştirme** işlevselliği"
     - description: "Ürün deneyimini şekillendir"
       icon: BezierCurve.svg
-      link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md
+      link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md#ui-ux-map-styling-and-icons
       title: "**Tasarım** Arayüzü"
     - description: "Daha fazla insanın dünya çapında erişebilmesi için çeviriler ekleyin"
       icon: Translate.svg
@@ -27,7 +27,7 @@ extra:
       title: "Yer Bilgisi **Ekle**"
     - description: "İnsanların uygulamayı kullanmasına yardımcı olun ve soruları yanıtlayın"
       icon: Headset.svg
-      link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md
+      link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md#day-to-day-activities
       title: "**Yardım**"
   preview_image: donate/donate.png
   stay_connected_section_title: "connect with us"

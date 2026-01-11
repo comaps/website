@@ -5,17 +5,17 @@ extra:
     description: "உங்கள் நன்கொடைகளில் பயன்பாடு இயங்குகிறது, அதை மேம்படுத்த உதவுங்கள்"
     title: நன்கொடை
   features:
-    - description: "பிழைகளைப் புகாரளிக்கவும், யோசனையைப் பற்றி விவாதிக்கவும் மற்றும் அம்சங்களை முன்மொழியவும்"
+    - description: "Report bugs, discuss ideas, and propose features"
       icon: chats.svg
       link: https://codeberg.org/comaps/comaps/issues
       title: "**அறிக்கை** பிழைகள்"
     - description: "புதிய அம்சங்களை உருவாக்கவும், பிழைகளைச் சரிசெய்யவும், குறியீட்டை மதிப்பாய்வு செய்யவும்"
       icon: CodeBlock.svg
-      link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md
+      link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md#code-contributions
       title: "** வளர்ச்சி ** செயல்பாடு"
     - description: "தயாரிப்பு அனுபவத்தின் திசையை வடிவமைக்கவும்"
       icon: BezierCurve.svg
-      link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md
+      link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md#ui-ux-map-styling-and-icons
       title: "**வடிவமைப்பு** இடைமுகம்"
     - description: "உலகெங்கிலும் உள்ள பலருக்கு அணுகக்கூடிய வகையில் மொழிபெயர்ப்புகளைச் சேர்க்கவும்"
       icon: Translate.svg
@@ -27,7 +27,7 @@ extra:
       title: "**சேர்** இடத் செய்தி"
     - description: "பயன்பாட்டைப் பயன்படுத்த மக்களுக்கு உதவவும், கேள்விகளுக்கு பதிலளிக்கவும்"
       icon: Headset.svg
-      link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md
+      link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md#day-to-day-activities
       title: "**உதவி** ஆதரவு"
   preview_image: donate/donate.png
   stay_connected_section_title: "connect with us"

@@ -1,27 +1,29 @@
 ---
-title: Terms
+title: Termos
 weight: 1000
 ---
 
-This app is licensed under the Apache License, Version 2.0 (the "License");
-This application cannot be used except in compliance with the License.
+Esta app publícase baixo Licenza Apache Versión 2.0 (a "Licenza"); Esta
+aplicación non se pode usar sen aceptar cumprir cos termos desta Licenza.
 
-Read [the full license text](https://www.apache.org/licenses/LICENSE-2.0).
+Ler [o texto completo da
+licenza](https://www.apache.org/licenses/LICENSE-2.0).
 
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
-WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
-License for the specific language governing permissions and limitations
-under the License.
+A non ser que o requira a lei que se aplique ou aceptado explícitamente, o
+software distribuído baixo a Licenza faise na presunción de "TAL COMO É",
+SEN GARANTÍAS OU CONDICIÓNS DE NINGÚN TIPO, implícitas ou explícitas. Le a
+Licenza no idioma específico para ver os permisos de operación e limitacións
+baixo a Licenza.
 
-Many libraries and 3rd party tools included into [CoMaps
-repository](https://codeberg.org/comaps/comaps) were developed by multiple
-people and organizations, and licensed in different ways. Please refer to
-their LICENSE, COPYING or NOTICE files for terms of use.
+Varias bibliotecas e ferramentas de terceiras partes incluídas no
+[repositorio de CoMaps](https://codeberg.org/comaps/comaps) foron creadas
+por varias persoas e organizacións, e teñen diferentes licenzas. Le a súa
+LICENZA, ficheiros de COPIA ou AVISOS para os termos de uso.
 
-See
+Le o ficheiro
 [data/copyright.html](https://codeberg.org/comaps/comaps/src/branch/main/data/copyright.html)
-file for a full list of copyright notices for the CoMaps application.
+para ver a lista completa de avisos de dereitos de copia na aplicación
+CoMaps.
 
-If you have any questions or suggestions, please contact us at
+Se tes preguntas ou suxestións, por favor contacta con nós en
 legal@comaps.app

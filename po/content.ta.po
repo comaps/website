@@ -143,8 +143,9 @@ msgstr "நன்கொடை"
 
 #. type: Yaml Front Matter Hash Value: extra features description
 #: content/community/index.md
-#, no-wrap
-msgid "Report bugs, discuss idea, and propose features"
+#, fuzzy, no-wrap
+#| msgid "Report bugs, discuss idea, and propose features"
+msgid "Report bugs, discuss ideas, and propose features"
 msgstr "பிழைகளைப் புகாரளிக்கவும், யோசனையைப் பற்றி விவாதிக்கவும் மற்றும் அம்சங்களை முன்மொழியவும்"
 
 #. type: Yaml Front Matter Hash Value: extra features title

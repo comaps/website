@@ -146,8 +146,9 @@ msgstr "تبرع"
 
 #. type: Yaml Front Matter Hash Value: extra features description
 #: content/community/index.md
-#, no-wrap
-msgid "Report bugs, discuss idea, and propose features"
+#, fuzzy, no-wrap
+#| msgid "Report bugs, discuss idea, and propose features"
+msgid "Report bugs, discuss ideas, and propose features"
 msgstr "أبلغ عن أعطال، ناقش فكرة، و اقترح ميزات جديدة"
 
 #. type: Yaml Front Matter Hash Value: extra features title

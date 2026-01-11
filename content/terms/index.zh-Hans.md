@@ -1,27 +1,20 @@
 ---
-title: Terms
+title: 条款
 weight: 1000
 ---
 
-This app is licensed under the Apache License, Version 2.0 (the "License");
-This application cannot be used except in compliance with the License.
+本应用采用 Apache License, Version 2.0（“许可协议”）；本应用的使用必须遵守许可协议。
 
-Read [the full license text](https://www.apache.org/licenses/LICENSE-2.0).
+阅读[完整的许可协议文本](https://www.apache.org/licenses/LICENSE-2.0)。
 
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
-WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
-License for the specific language governing permissions and limitations
-under the License.
+除非适用法律要求或书面同意，否则根据许可协议分发的软件均按“原样”提供，不附带任何明示或暗示的担保或条件。有关许可协议中具体规定权限和限制的条款，请参阅许可协议。
 
-Many libraries and 3rd party tools included into [CoMaps
-repository](https://codeberg.org/comaps/comaps) were developed by multiple
-people and organizations, and licensed in different ways. Please refer to
-their LICENSE, COPYING or NOTICE files for terms of use.
+[CoMaps
+代码仓库](https://codeberg.org/comaps/comaps)中包含的许多库和第三方工具由多个个人和组织开发，并以不同的方式获得许可。其使用条款请查阅对应的
+LICENSE、COPYING 或 NOTICE 文件。
 
-See
+有关 CoMaps 应用的完整版权声明列表，请参阅
 [data/copyright.html](https://codeberg.org/comaps/comaps/src/branch/main/data/copyright.html)
-file for a full list of copyright notices for the CoMaps application.
+文件。
 
-If you have any questions or suggestions, please contact us at
-legal@comaps.app
+如果您有任何疑问或建议，请联系我们：legal@comaps.app

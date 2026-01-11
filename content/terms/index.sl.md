@@ -6,7 +6,8 @@ weight: 1000
 This app is licensed under the Apache License, Version 2.0 (the "License");
 This application cannot be used except in compliance with the License.
 
-Read [the full license text](https://www.apache.org/licenses/LICENSE-2.0).
+Preberite [celotno besedilo
+dovoljenja](https://www.apache.org/licenses/LICENSE-2.0).
 
 Unless required by applicable law or agreed to in writing, software
 distributed under the License is distributed on an "AS IS" BASIS, WITHOUT

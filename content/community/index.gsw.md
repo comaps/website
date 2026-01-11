@@ -5,17 +5,17 @@ extra:
     description: "D App lebt vo dine Spende – hilf mit, sie z verbessere"
     title: Spende
   features:
-    - description: "Bugs melde, Idee diskutiere, Features vorschlaa"
+    - description: "Report bugs, discuss ideas, and propose features"
       icon: chats.svg
       link: https://codeberg.org/comaps/comaps/issues
       title: "**Meld** Bugs"
     - description: "Entwickle neui Features, fix Bugs und hilf bi Code Reviews"
       icon: CodeBlock.svg
-      link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md
+      link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md#code-contributions
       title: "**Entwickle** Funktionalität"
     - description: "Beiifluss d Richtung, wo das Produkt anegaht"
       icon: BezierCurve.svg
-      link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md
+      link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md#ui-ux-map-styling-and-icons
       title: "**Design** d Oberflächi"
     - description: "Träg Übersetzige bii, zum d App Mensche weltwiit zuegänglich z mache"
       icon: Translate.svg
@@ -27,7 +27,7 @@ extra:
       title: "Ortsinformatione **hinzuefüege**"
     - description: "Hilf Mensche, d App z nutze, und beantwort ihri Frage"
       icon: Headset.svg
-      link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md
+      link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md#day-to-day-activities
       title: "**Hilf** bim Support"
   preview_image: donate/donate.png
   stay_connected_section_title: "connect with us"

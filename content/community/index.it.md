@@ -5,17 +5,17 @@ extra:
     description: "L'app dipende dalle tue donazioni, contribuisci a migliorarla"
     title: Dona
   features:
-    - description: "Segnala i bug, discuti idee e proponi funzionalità"
+    - description: "Report bugs, discuss ideas, and propose features"
       icon: chats.svg
       link: https://codeberg.org/comaps/comaps/issues
       title: "**Segnala** i bug"
     - description: "Sviluppa delle nuove funzionalità, aiuta a correggere i bug e verifica il codice"
       icon: CodeBlock.svg
-      link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md
+      link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md#code-contributions
       title: "**Sviluppa** le funzionalità"
     - description: "Definisci la direzione dell'esperienza del prodotto"
       icon: BezierCurve.svg
-      link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md
+      link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md#ui-ux-map-styling-and-icons
       title: "**Progetta** l'interfaccia"
     - description: "Aggiungere traduzioni per renderlo accessibile a un maggior numero di persone in tutto il mondo"
       icon: Translate.svg
@@ -27,7 +27,7 @@ extra:
       title: "**Aggiungi** delle informazioni sui luoghi"
     - description: "Aiuta la gente ad utilizzare l'app e rispondi alle domande"
       icon: Headset.svg
-      link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md
+      link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md#day-to-day-activities
       title: "**Aiuta** il supporto"
   preview_image: donate/donate.png
   stay_connected_section_title: "connect with us"

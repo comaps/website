@@ -16,7 +16,7 @@ extra:
         text: "Actualmente non hai persoas traballando no desenvolvemento a xornada completa para engadir novas ferramentas e mellorar o servizo. Precisamos un equipo permanente para facer avanzar o proxecto."
         title: Desenvolvemento
       - media: /images/donate/infrastructure.webp
-        text: "We have to keep up fast servers, so anyone in the world can download free map data updates without delays. These maps data transfers make up large, and growing, amounts of data each month."
+        text: "Temos que manter uns servidores rápidos, para que calquera poida descargar os mapas gratuítamente en calquera lugar do mundo. As transferencias de mapas cada mes son moi grandes, e seguen aumentando."
         title: Infraestrutura
       - media: /images/donate/support.webp
         text: "As prioridades son axudar ás usuarias, arranxo de problemas, melloras na estabilidade da aplicación. A lista de peticións e arranxo de problemas aumentan a diario, e temos moitas consultas que responder na App Store, Google Play e o correo de axuda."

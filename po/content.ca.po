@@ -144,8 +144,9 @@ msgstr "Donatius"
 
 #. type: Yaml Front Matter Hash Value: extra features description
 #: content/community/index.md
-#, no-wrap
-msgid "Report bugs, discuss idea, and propose features"
+#, fuzzy, no-wrap
+#| msgid "Report bugs, discuss idea, and propose features"
+msgid "Report bugs, discuss ideas, and propose features"
 msgstr "Informa d'errors, discuteix idees i proposa funcionalitats"
 
 #. type: Yaml Front Matter Hash Value: extra features title

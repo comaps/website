@@ -143,8 +143,9 @@ msgstr "Dona"
 
 #. type: Yaml Front Matter Hash Value: extra features description
 #: content/community/index.md
-#, no-wrap
-msgid "Report bugs, discuss idea, and propose features"
+#, fuzzy, no-wrap
+#| msgid "Report bugs, discuss idea, and propose features"
+msgid "Report bugs, discuss ideas, and propose features"
 msgstr "Segnala i bug, discuti idee e proponi funzionalità"
 
 #. type: Yaml Front Matter Hash Value: extra features title

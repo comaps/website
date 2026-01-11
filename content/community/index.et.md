@@ -5,17 +5,17 @@ extra:
     description: "Selle rakenduse hooldus ja arendus põhineb vaid kasutajate toel - sinu osalemine on oluline"
     title: Anneta
   features:
-    - description: "Teata vigadest, kommenteeri ideid või paku välja mõni uus lahendus"
+    - description: "Report bugs, discuss ideas, and propose features"
       icon: chats.svg
       link: https://codeberg.org/comaps/comaps/issues
       title: "**Teata** vigadest"
     - description: "Arenda uusi funktsionaalsusi, aita parandada vigu või kontrolli olemasolevat koodi"
       icon: CodeBlock.svg
-      link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md
+      link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md#code-contributions
       title: "**Arenda** uut funktsionaalsust"
     - description: "Sul on võimalus mõjutada rakenduse kasutuskogemust"
       icon: BezierCurve.svg
-      link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md
+      link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md#ui-ux-map-styling-and-icons
       title: "**Kujunda** kasutajaliidest"
     - description: "Tõlgi rakenduse sisu ja võimalda seda paljudel inimestel üle maailma kasutada omas keeles"
       icon: Translate.svg
@@ -27,7 +27,7 @@ extra:
       title: "**Lisa** asukohateavet"
     - description: "Aita inimestel seda rakendust kasutada ning vasta nende küsimustele"
       icon: Headset.svg
-      link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md
+      link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md#day-to-day-activities
       title: "**Abiteave** ja kasutajatugi"
   preview_image: donate/donate.png
   stay_connected_section_title: "connect with us"

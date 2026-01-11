@@ -5,17 +5,17 @@ extra:
     description: "Această aplicație există datorită donațiilor voastre. Ajutați-ne să o îmbunătățim"
     title: Donează
   features:
-    - description: "Raportează erori, discută idei și propune funcționalități"
+    - description: "Report bugs, discuss ideas, and propose features"
       icon: chats.svg
       link: https://codeberg.org/comaps/comaps/issues
       title: "**Raportează** Erori"
     - description: "Dezvoltă funcționalități noi, ajută la remedierea erorilor și revizuiește codul"
       icon: CodeBlock.svg
-      link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md
+      link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md#code-contributions
       title: "**Dezvoltă** funcționalități"
     - description: "Dă formă experienței produsului"
       icon: BezierCurve.svg
-      link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md
+      link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md#ui-ux-map-styling-and-icons
       title: "**Proiectează** interfața"
     - description: "Adaugă traduceri pentru a-l face accesibil mai multor oameni din întreaga lume"
       icon: Translate.svg
@@ -27,7 +27,7 @@ extra:
       title: "**Adaugă** Informații locație"
     - description: "Ajută oamenii să folosească aplicația și răspunde la întrebări"
       icon: Headset.svg
-      link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md
+      link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md#day-to-day-activities
       title: "**Ajutor** Suport"
   preview_image: donate/donate.png
   stay_connected_section_title: "connect with us"

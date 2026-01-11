@@ -1,14 +1,12 @@
 ---
-title: Privacy
+title: 隐私
 weight: 900
 ---
 
-At CoMaps, we respect your privacy. CoMaps does not have any form of
-identification of people, advertising, or personal data collection.
+在 CoMaps，我们尊重您的隐私。CoMaps 不会以任何形式识别用户身份、投放广告或收集个人数据。
 
-CoMaps does not track you.
+CoMaps 不会跟踪您。
 
-If you have any questions or suggestions, please contact us at
-legal@comaps.app
+如果您有任何疑问或建议，请联系我们：legal@comaps.app
 
-Policy effective: 2025-05-01
+政策生效日期：2025年5月1日

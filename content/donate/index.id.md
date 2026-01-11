@@ -30,7 +30,7 @@ extra:
       text: "Kami adalah sekelompok pegiat yang berkontribusi di waktu luang kami. Kami mencintai apa yang kami kerjakan dan para pengguna kami"
     - icon: static/images/icons/donate/icon03.svg
       text: "Berkat dukunganmu, kami terus berupaya menghadirkan navigasi peta yang berfokus pada privasi sebagai pilihan utama di pasar"
-  service_text:
+  service_text: ~
   service_title: "Created with love by enthusiast volunteers"
 template: donate.html
 title: Donasi

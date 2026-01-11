@@ -5,17 +5,17 @@ extra:
     description: "برنامه بر روی کمک های مالی شما اجرا می شود، به بهبود آن کمک می کند"
     title: "کمک مالی بکنید"
   features:
-    - description: "اشکالات رو گذارش کن، بحث در مورد ایده و پیشنهاد ویژگی ها کن"
+    - description: "Report bugs, discuss ideas, and propose features"
       icon: chats.svg
       link: https://codeberg.org/comaps/comaps/issues
       title: "اشکالات رو گذارش بده"
     - description: "ویژگی های جدید توسعه کن، کمک کن به رفع اشکالات و بررسی کد"
       icon: CodeBlock.svg
-      link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md
+      link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md#code-contributions
       title: "­کاربرد ها را توسعه کن"
     - description: "به جهت ترجبه محصول شکن بده"
       icon: BezierCurve.svg
-      link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md
+      link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md#ui-ux-map-styling-and-icons
       title: "رابط توسعه کن"
     - description: "ترجمه اضافه کنید تا آن را برای افراد بیشتری در سراسر جهان در دسترس قرار دهید"
       icon: Translate.svg
@@ -27,7 +27,7 @@ extra:
       title: "اطلاعات محله **اضافه کردن**"
     - description: "به افراد کمک کنید از برنامه استفاده کنند و به سوالات پاسخ دهید"
       icon: Headset.svg
-      link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md
+      link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md#day-to-day-activities
       title: "پشتیبانی **کمک**"
   preview_image: donate/donate.png
   stay_connected_section_title: "connect with us"

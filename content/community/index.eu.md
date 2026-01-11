@@ -5,17 +5,17 @@ extra:
     description: "Aplikazio dohaintzen bidez funtzionatzen du, lagundu hobetzen"
     title: "Dohaintza eman"
   features:
-    - description: "Erroreen berri eman, ideiak eztabaidatu eta funtzioak proposatu"
+    - description: "Report bugs, discuss ideas, and propose features"
       icon: chats.svg
       link: https://codeberg.org/comaps/comaps/issues
       title: "Erroren **berri eman**"
     - description: "Garatu funtzio berriak, erroreak konpontzen lagundu eta berrikusi kodea"
       icon: CodeBlock.svg
-      link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md
+      link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md#code-contributions
       title: "**Garatu** funtzionalitatea"
     - description: "Produktuaren esperientziaren norabidea moldatu"
       icon: BezierCurve.svg
-      link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md
+      link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md#ui-ux-map-styling-and-icons
       title: "**Diseinua** interfazea"
     - description: "Gehitu itzulpenak munduan zeharreko jendeak eskuragarri izan dezan"
       icon: Translate.svg
@@ -27,7 +27,7 @@ extra:
       title: "**Gehitu** tokiko informazioa"
     - description: "Lagundu jendeari aplikazioa erabiltzen, eta erantzun galderak"
       icon: Headset.svg
-      link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md
+      link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md#day-to-day-activities
       title: "**Laguntza** zerbitzua"
   preview_image: donate/donate.png
   stay_connected_section_title: "connect with us"

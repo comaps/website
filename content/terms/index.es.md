@@ -1,20 +1,20 @@
 ---
-title: Terms
+title: Términos
 weight: 1000
 ---
 
-Esta aplicación está licenciada bajo la Licencia Apache, Versión 2.0 (la
-"Licencia"). No se puede utilizar esta aplicación excepto en cumplimiento
+Esta aplicación está disponible en virtud de la Licencia Apache, versión 2.0
+(la «Licencia»); no puede utilizar esta aplicación excepto en cumplimiento
 con la Licencia.
 
 Puedes leer [el texto completo de la
 licencia](https://www.apache.org/licenses/LICENSE-2.0).
 
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
-WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
-License for the specific language governing permissions and limitations
-under the License.
+Salvo que lo exija la ley aplicable o se acuerde por escrito, el software
+distribuido bajo esta Licencia se proporciona "TAL CUAL", SIN GARANTÍAS NI
+CONDICIONES DE NINGÚN TIPO, ya sean expresas o implícitas. Consulte la
+Licencia para conocer el lenguaje específico que rige los permisos y las
+limitaciones bajo la Licencia.
 
 Muchas bibliotecas y herramientas de terceros incluidas en [el repositorio
 de CoMaps](https://codeberg.org/comaps/comaps) han sido desarrolladas por

@@ -6,7 +6,6 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"PO-Revision-Date: 2026-01-08 13:21+0000\n"
 "Last-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>\n"
 "Language-Team: Russian <https://translate.codeberg.org/projects/comaps/website/ru/>\n"
 "Language: ru\n"
@@ -144,8 +143,9 @@ msgstr "Пожертвовать"
 
 #. type: Yaml Front Matter Hash Value: extra features description
 #: content/community/index.md
-#, no-wrap
-msgid "Report bugs, discuss idea, and propose features"
+#, fuzzy, no-wrap
+#| msgid "Report bugs, discuss idea, and propose features"
+msgid "Report bugs, discuss ideas, and propose features"
 msgstr "Сообщайте об ошибках, обсуждайте идеи и предлагайте функции"
 
 #. type: Yaml Front Matter Hash Value: extra features title
