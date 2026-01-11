@@ -6,6 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
+"PO-Revision-Date: 2026-01-11 03:21+0000\n"
 "Last-Translator: wirabdillah <wirabdillah@noreply.codeberg.org>\n"
 "Language-Team: Indonesian <https://translate.codeberg.org/projects/comaps/website/id/>\n"
 "Language: id\n"
@@ -17,10 +18,9 @@ msgstr ""
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
-#, fuzzy, no-wrap
-#| msgid "Discover more of your journey -<br/>Powered by the community"
+#, no-wrap
 msgid "Discover more of your journey - Powered by the community"
-msgstr "Temukan lebih banyak hal dalam perjalananmu -<br/>Didukung oleh komunitas"
+msgstr "Temukan lebih banyak hal dalam perjalananmu - Didukung oleh komunitas"
 
 #. type: Yaml Front Matter Hash Value: extra freedom description
 #: content/_index.md
@@ -42,10 +42,9 @@ msgstr "Komunitas + Peta Terbuka"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
-#, fuzzy, no-wrap
-#| msgid "Plan and navigate your trip abroad without the need for mobile data, and search waypoints while on a distant hike."
+#, no-wrap
 msgid "Plan and navigate your trip abroad with just GPS, no need for mobile data. Search waypoints while on distant hiking trails or bike paths."
-msgstr "Rencanakan dan navigasikan perjalanan ke luar negeri tanpa perlu paket data, serta cari titik jalan saat berada di pendakian terpencil."
+msgstr "Rencanakan dan navigasikan perjalanan ke luar negeri cukup dengan GPS, tanpa perlu paket data. Cari titik jalan saat berada di jalur pendakian terpencil atau jalur sepeda."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
@@ -63,7 +62,7 @@ msgstr "Pencarian dan Rute Offline"
 #: content/_index.md
 #, no-wrap
 msgid "The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information. CoMaps was also audited by <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-exodus\"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/)."
-msgstr ""
+msgstr "Aplikasi ini dirancang dengan mengutamakan privasi - tidak mengidentifikasi pengguna, tidak melakukan pelacakan, dan tidak mengumpulkan informasi apa pun. CoMaps juga telah diaudit oleh <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-exodus\"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/)."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
@@ -97,10 +96,9 @@ msgstr "Hemat Baterai"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
-#, fuzzy, no-wrap
-#| msgid "People like you helped build the app by adding locations to <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on Codeberg in the open-source community."
+#, no-wrap
 msgid "People like you are helping build the app by adding locations to <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> to create great maps together. The project is a fork of Organic Maps and Maps.Me, and driven by an open-source community."
-msgstr "Orang-orang seperti Anda turut membangun aplikasi ini dengan menambahkan lokasi ke <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, memberikan masukan mengenai fitur, serta berkontribusi kode di Codeberg dalam komunitas sumber terbuka."
+msgstr "Orang-orang sepertimu turut membangun aplikasi ini dengan menambahkan lokasi ke <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, memberikan masukan mengenai fitur, serta berkontribusi kode di <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> untuk menciptakan peta yang berkualitas bersama-sama. Proyek ini merupakan fork dari Organic Maps dan Maps.Me, serta digerakkan oleh komunitas sumber terbuka."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
@@ -146,8 +144,7 @@ msgstr "Donasi"
 
 #. type: Yaml Front Matter Hash Value: extra features description
 #: content/community/index.md
-#, fuzzy, no-wrap
-#| msgid "Report bugs, discuss idea, and propose features"
+#, no-wrap
 msgid "Report bugs, discuss ideas, and propose features"
 msgstr "Laporkan bug, diskusikan ide, dan usulkan fitur baru"
 
@@ -267,10 +264,9 @@ msgstr "Pengembang"
 
 #. type: Yaml Front Matter Hash Value: extra funding items text
 #: content/donate/index.md
-#, fuzzy, no-wrap
-#| msgid "We pay for fast servers, so anyone in the world can download free map data updates without delays. The maps data transfers are hundreds of terabytes monthly, and the amount is growing."
+#, no-wrap
 msgid "We have to keep up fast servers, so anyone in the world can download free map data updates without delays. These maps data transfers make up large, and growing, amounts of data each month."
-msgstr "Kami membiayai server berkecepatan tinggi agar siapa pun di dunia dapat mengunduh pembaruan data peta gratis tanpa kendala. Transfer data peta mencakup ratusan terabyte per bulan, dan angkanya terus meningkat."
+msgstr "Kami harus menjaga kecepatan server agar siapa pun di dunia ini dapat mengunduh pembaruan data peta gratis tanpa kendala. Transfer data peta ini memakan bandwidth yang sangat besar dan terus bertambah setiap bulannya."
 
 #. type: Yaml Front Matter Hash Value: extra funding items title
 #: content/donate/index.md
@@ -429,61 +425,60 @@ msgstr "API terdokumentasi di [comaps.at/api](https://comaps.at/api)."
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/privacy/index.md
-#, fuzzy, no-wrap
-#| msgid "Privacy-Centric"
+#, no-wrap
 msgid "Privacy"
-msgstr "Menjaga Privasi"
+msgstr "Privasi"
 
 #. type: Plain text
 #: content/privacy/index.md
 msgid "At CoMaps, we respect your privacy. CoMaps does not have any form of identification of people, advertising, or personal data collection."
-msgstr ""
+msgstr "Di CoMaps, kami menghormati privasi Anda. CoMaps tidak memiliki segala bentuk identifikasi individu, iklan, maupun pengumpulan data pribadi."
 
 #. type: Plain text
 #: content/privacy/index.md
 msgid "CoMaps does not track you."
-msgstr ""
+msgstr "CoMaps tidak melacak Anda."
 
 #. type: Plain text
 #: content/privacy/index.md content/terms/index.md
 msgid "If you have any questions or suggestions, please contact us at legal@comaps.app"
-msgstr ""
+msgstr "Jika Anda memiliki pertanyaan atau saran, silakan hubungi kami di legal@comaps.app"
 
 #. type: Plain text
 #: content/privacy/index.md
 msgid "Policy effective: 2025-05-01"
-msgstr ""
+msgstr "Kebijakan berlaku: 2025-05-01"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/terms/index.md
 #, no-wrap
 msgid "Terms"
-msgstr ""
+msgstr "Ketentuan"
 
 #. type: Plain text
 #: content/terms/index.md
 msgid "This app is licensed under the Apache License, Version 2.0 (the \"License\"); This application cannot be used except in compliance with the License."
-msgstr ""
+msgstr "Aplikasi ini dilisensikan di bawah Lisensi Apache, Versi 2.0 (\"Lisensi\"); Aplikasi ini tidak dapat digunakan kecuali sesuai dengan Lisensi."
 
 #. type: Plain text
 #: content/terms/index.md
 msgid "Read [the full license text](https://www.apache.org/licenses/LICENSE-2.0)."
-msgstr ""
+msgstr "Baca [teks lisensi lengkap](https://www.apache.org/licenses/LICENSE-2.0)."
 
 #. type: Plain text
 #: content/terms/index.md
 msgid "Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License."
-msgstr ""
+msgstr "Kecuali diwajibkan oleh hukum yang berlaku atau disetujui secara tertulis, perangkat lunak yang didistribusikan di bawah Lisensi didistribusikan ATAS DASAR \"APA ADANYA\", TANPA JAMINAN ATAU KONDISI APA PUN, baik tersurat maupun tersirat. Lihat Lisensi untuk ketentuan spesifik yang mengatur izin dan batasan di bawah Lisensi."
 
 #. type: Plain text
 #: content/terms/index.md
 msgid "Many libraries and 3rd party tools included into [CoMaps repository](https://codeberg.org/comaps/comaps) were developed by multiple people and organizations, and licensed in different ways.  Please refer to their LICENSE, COPYING or NOTICE files for terms of use."
-msgstr ""
+msgstr "Banyak pustaka dan alat pihak ketiga yang disertakan dalam [repositori CoMaps](https://codeberg.org/comaps/comaps) dikembangkan oleh berbagai orang dan organisasi, serta dilisensikan secara berbeda. Silakan merujuk pada berkas LICENSE, COPYING, atau NOTICE masing-masing untuk ketentuan penggunaan."
 
 #. type: Plain text
 #: content/terms/index.md
 msgid "See [data/copyright.html](https://codeberg.org/comaps/comaps/src/branch/main/data/copyright.html) file for a full list of copyright notices for the CoMaps application."
-msgstr ""
+msgstr "Lihat berkas [data/copyright.html](https://codeberg.org/comaps/comaps/src/branch/main/data/copyright.html) untuk daftar lengkap pemberitahuan hak cipta aplikasi CoMaps."
 
 #. type: Hash Value: all_title
 #: translations.yaml
