@@ -1,14 +1,16 @@
 <section class="section-involved">
     <div class="container">
         <div class="box-donate">
-            <h3 class="bd-title">{{ trans(key='inv_title', lang=lang) }}</h3>
+            <a href="/community/">
+                <h3 class="bd-title">{{ trans(key='inv_title', lang=lang) }}</h3>
+            </a>
             <div class="bd-content">
                 <a href="{{ get_url(path="donate/", lang=lang) }}" class="bd-item">
                     <div class="bd-item-icon">{{ load_data(path="static/images/icons/heart.svg") | safe }}</div>
                     <div class="bd-item-title">{{ trans(key='menu_donate', lang=lang) }}</div>
                     <div class="bd-item-text">{{ trans(key='donate-description', lang=lang) }}</div>
                 </a>
-                <a href="{{ get_url(path="community/", lang=lang) }}" class="bd-item">
+                <a href="https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md#code-contributions" class="bd-item">
                     <div class="bd-item-icon">{{ load_data(path="static/images/icons/codeblock.svg") | safe }}</div>
                     <div class="bd-item-title">{{ trans(key='inv_code_title', lang=lang) }}</div>
                     <div class="bd-item-text">{{ trans(key='inv_code_text', lang=lang) }}</div>

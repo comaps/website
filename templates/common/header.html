@@ -41,7 +41,9 @@
         <div class="header__mobile">
             <div class="header__item">
                 <div class="header-involved">
-                    <h3 class="h3-bold header__h3">Get Involved</h3>
+                    <a href="/community/">
+                        <h3 class="h3-bold header__h3">Get Involved</h3>
+                    </a>
                     <div class="header__card-holder">
                         <a href="/donate/" class="header__card">
                             {{ load_data(path="static/images/icons/heart.svg") | safe }}
@@ -49,7 +51,7 @@
                                 {{ trans(key='menu_donate', lang=lang) }}
                             </h5>
                         </a>
-                        <a href="/community/" class="header__card">
+                        <a href="https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md#code-contributions" class="header__card">
                             {{ load_data(path="static/images/icons/codeblock.svg") | safe }}
                             <h5 class="h4 header__icon-title">
                                 {{ trans(key='inv_code_title', lang=lang) }}
