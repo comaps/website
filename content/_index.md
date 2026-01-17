@@ -1,5 +1,5 @@
 ---
-title: "Hike, Bike, Drive Offline Navigate with Privacy"
+title: "Hike, Bike, Drive Offline – Navigate with Privacy"
 description: Discover more of your journey - Powered by the community
 template: home.html
 sort_by: weight
