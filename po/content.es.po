@@ -6,6 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
+"PO-Revision-Date: 2026-01-12 04:21+0000\n"
 "Last-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>\n"
 "Language-Team: Spanish <https://translate.codeberg.org/projects/comaps/website/es/>\n"
 "Language: es\n"
@@ -143,8 +144,7 @@ msgstr "Donar"
 
 #. type: Yaml Front Matter Hash Value: extra features description
 #: content/community/index.md
-#, fuzzy, no-wrap
-#| msgid "Report bugs, discuss idea, and propose features"
+#, no-wrap
 msgid "Report bugs, discuss ideas, and propose features"
 msgstr "Informa de errores, discute ideas y propón funcionalidades"
 
@@ -442,7 +442,7 @@ msgstr "CoMaps no te rastrea."
 #. type: Plain text
 #: content/privacy/index.md content/terms/index.md
 msgid "If you have any questions or suggestions, please contact us at legal@comaps.app"
-msgstr "Si tienes dudas o sugerencias, por favor, contáctanos en legal@comaps.app"
+msgstr "Si tiene preguntas o sugerencias, póngase en contacto con nosotros en legal@organicmaps.app"
 
 #. type: Plain text
 #: content/privacy/index.md

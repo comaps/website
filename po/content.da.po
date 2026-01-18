@@ -6,14 +6,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"Last-Translator: ERYpTION <eryption@noreply.codeberg.org>\n"
+"PO-Revision-Date: 2026-01-18 17:21+0000\n"
+"Last-Translator: Linus_W_Frische <linus_w_frische@noreply.codeberg.org>\n"
 "Language-Team: Danish <https://translate.codeberg.org/projects/comaps/website/da/>\n"
 "Language: da\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.15.1\n"
+"X-Generator: Weblate 5.15.2\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -103,7 +104,7 @@ msgstr "Folk som dig har bidraget til udviklingen af appen ved at tilføje lokat
 #: content/_index.md
 #, no-wrap
 msgid "Free for everyone, Made with love"
-msgstr "Gratis for alle, lavet med kærlighed"
+msgstr "Gratis for alle, lavet med kærlighed og omhu"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
@@ -235,55 +236,55 @@ msgstr "Donér for at holde projektet kørende"
 #: content/donate/index.md
 #, no-wrap
 msgid "Created with love by enthusiast volunteers"
-msgstr ""
+msgstr "Lavet med kærlighed og omhu af passionerede frivillige"
 
 #. type: Yaml Front Matter Hash Value: extra donate liberapay title
 #: content/donate/index.md
 #, no-wrap
 msgid "Donate via Liberapay"
-msgstr ""
+msgstr "Doner med Liberapay"
 
 #. type: Yaml Front Matter Hash Value: extra donate open_collective title
 #: content/donate/index.md
 #, no-wrap
 msgid "Donate via Open Collective"
-msgstr ""
+msgstr "Doner med Open Collective"
 
 #. type: Yaml Front Matter Hash Value: extra funding items text
 #: content/donate/index.md
 #, no-wrap
 msgid "Currently there is no full time team who is working to develop new features and improve the service. To consistently move the product forward, a core team is needed."
-msgstr ""
+msgstr "Der er endnu ikke nogen, der arbejder med nye funktioner eller forbedringer af Comaps på fuld tid. For at sikre stabil drift og udvikling af appen, er det nødvendigt med et fast personale."
 
 #. type: Yaml Front Matter Hash Value: extra funding items title
 #: content/donate/index.md
 #, no-wrap
 msgid "Developers"
-msgstr ""
+msgstr "Udviklere"
 
 #. type: Yaml Front Matter Hash Value: extra funding items text
 #: content/donate/index.md
 #, no-wrap
 msgid "We pay for fast servers, so anyone in the world can download free map data updates without delays. The maps data transfers are hundreds of terabytes monthly, and the amount is growing."
-msgstr ""
+msgstr "Vi betaler for hurtige server så alle verden over kan hente gratis kortopdateringer uden forsinkelse. Der overføres hundredevis af terabyte om måneden og datamængden stiger kun."
 
 #. type: Yaml Front Matter Hash Value: extra funding items title
 #: content/donate/index.md
 #, no-wrap
 msgid "Infrastructure"
-msgstr ""
+msgstr "Infrastruktur"
 
 #. type: Yaml Front Matter Hash Value: extra funding items text
 #: content/donate/index.md
 #, no-wrap
 msgid "User support, fixing bugs, and improving the stability of the app are our top priority. The list of requests and bug reports grows every day, and there are many support requests to respond to on the App Store, Google Play, and support emails."
-msgstr ""
+msgstr "Brugerservice, fejlretning og forbedret ydeevne er vores topprioriteter. Listen med ønsker til nye funktioner og meddelses om fejl stiger hver eneste dag, og der er mange kommentarer at svare på, i App Store, Google Play og per email."
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/donate/index.md content/support/_index.md
 #, no-wrap
 msgid "Support"
-msgstr ""
+msgstr "Support"
 
 #. type: Yaml Front Matter Hash Value: extra funding title
 #: content/donate/index.md

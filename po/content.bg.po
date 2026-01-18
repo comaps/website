@@ -6,14 +6,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"Last-Translator: x7z4w <x7z4w@noreply.codeberg.org>\n"
+"PO-Revision-Date: 2026-01-12 11:21+0000\n"
+"Last-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>\n"
 "Language-Team: Bulgarian <https://translate.codeberg.org/projects/comaps/website/bg/>\n"
 "Language: bg\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.13.3\n"
+"X-Generator: Weblate 5.15.1\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -103,7 +104,7 @@ msgstr ""
 #: content/_index.md
 #, no-wrap
 msgid "Free for everyone, Made with love"
-msgstr ""
+msgstr "Безплатно за всички, Направени с любов"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
@@ -115,7 +116,7 @@ msgstr ""
 #: content/_index.md
 #, no-wrap
 msgid "Hike, Bike, Drive Offline Navigate with Privacy"
-msgstr ""
+msgstr "Хайкинг, Велосипед, Пътуване без Интернет"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/news/_index.md
@@ -139,7 +140,7 @@ msgstr ""
 #: content/community/index.md content/donate/index.md translations.yaml
 #, no-wrap
 msgid "Donate"
-msgstr ""
+msgstr "Дарете"
 
 #. type: Yaml Front Matter Hash Value: extra features description
 #: content/community/index.md
@@ -259,7 +260,7 @@ msgstr ""
 #: content/donate/index.md
 #, no-wrap
 msgid "Developers"
-msgstr ""
+msgstr "Разработчици"
 
 #. type: Yaml Front Matter Hash Value: extra funding items text
 #: content/donate/index.md
@@ -271,7 +272,7 @@ msgstr ""
 #: content/donate/index.md
 #, no-wrap
 msgid "Infrastructure"
-msgstr ""
+msgstr "Инфраструктура"
 
 #. type: Yaml Front Matter Hash Value: extra funding items text
 #: content/donate/index.md

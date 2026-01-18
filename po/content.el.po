@@ -6,6 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
+"PO-Revision-Date: 2026-01-15 22:21+0000\n"
 "Last-Translator: jimkats <jimkats@noreply.codeberg.org>\n"
 "Language-Team: Greek <https://translate.codeberg.org/projects/comaps/website/el/>\n"
 "Language: el\n"
@@ -13,7 +14,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.12.2\n"
+"X-Generator: Weblate 5.15.1\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -31,13 +32,13 @@ msgstr ""
 #: content/_index.md
 #, no-wrap
 msgid "Freedom Is Here"
-msgstr ""
+msgstr "Η ελευθερία είναι εδώ"
 
 #. type: Yaml Front Matter Hash Value: extra map description
 #: content/_index.md
 #, no-wrap
 msgid "Community + Open Maps"
-msgstr ""
+msgstr "Κοινότητα + ανοιχτοί χάρτες"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
@@ -49,7 +50,7 @@ msgstr ""
 #: content/_index.md
 #, no-wrap
 msgid "No internet needed"
-msgstr ""
+msgstr "Δεν χρειάζεται διαδίκτυο"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
@@ -73,25 +74,25 @@ msgstr ""
 #: content/_index.md
 #, no-wrap
 msgid "No Data Collection"
-msgstr ""
+msgstr "Καμία συλλογή δεδομένων"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
 #, no-wrap
 msgid "Efficiently uses the battery, doesn’t drain your battery like other navigation apps."
-msgstr ""
+msgstr "Κάνει αποδοτική χρήση της μπαταρίας, δεν την εξαντλεί όπως άλλες εφαρμογές περιήγησης."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
 #, no-wrap
 msgid "Efficient battery use"
-msgstr ""
+msgstr "Αποδοτική χρήση μπαταρίας"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
 #, no-wrap
 msgid "Save Your Battery"
-msgstr ""
+msgstr "Σώστε την μπαταρία σας"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
@@ -103,13 +104,13 @@ msgstr ""
 #: content/_index.md
 #, no-wrap
 msgid "Free for everyone, Made with love"
-msgstr ""
+msgstr "Δωρεάν για όλους, φτιαγμένο με αγάπη"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
 #, no-wrap
 msgid "Free and Built by the Community"
-msgstr ""
+msgstr "Ελεύθερο και φτιαγμένο από την Κοινότητα"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/_index.md
@@ -121,37 +122,37 @@ msgstr ""
 #: content/news/_index.md
 #, no-wrap
 msgid "News and Releases"
-msgstr ""
+msgstr "Νέα και Εκδόσεις"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/community/index.md
 #, no-wrap
 msgid "CoMaps is created and maintained by people like you"
-msgstr ""
+msgstr "Το CoMaps δημιουργήθηκε και συντηρείται από άτομα σαν εσάς"
 
 #. type: Hash Value: donate-description
 #: content/community/index.md translations.yaml
 #, no-wrap
 msgid "The app runs on your donations, help improve it"
-msgstr ""
+msgstr "Η εφαρμογή τρέχει στις δικές σας δωρεές, βοηθείστε στη βελτίωση"
 
 #. type: Hash Value: menu_donate
 #: content/community/index.md content/donate/index.md translations.yaml
 #, no-wrap
 msgid "Donate"
-msgstr ""
+msgstr "Δωρεά"
 
 #. type: Yaml Front Matter Hash Value: extra features description
 #: content/community/index.md
 #, no-wrap
 msgid "Report bugs, discuss idea, and propose features"
-msgstr ""
+msgstr "Αναφέρετε προβλήματα, συζητείστε ιδέες και προτείνετε λειτουργίες"
 
 #. type: Yaml Front Matter Hash Value: extra features title
 #: content/community/index.md
 #, no-wrap
 msgid "**Report** Bugs"
-msgstr ""
+msgstr "**Αναφορά** προβλημάτων"
 
 #. type: Yaml Front Matter Hash Value: extra features description
 #: content/community/index.md
@@ -163,7 +164,7 @@ msgstr ""
 #: content/community/index.md
 #, no-wrap
 msgid "**Develop** Functionality"
-msgstr ""
+msgstr "**Ανάπτυξη** λειτουργικότητας"
 
 #. type: Yaml Front Matter Hash Value: extra features description
 #: content/community/index.md
@@ -175,7 +176,7 @@ msgstr ""
 #: content/community/index.md
 #, no-wrap
 msgid "**Design** Interface"
-msgstr ""
+msgstr "**Σχεδιασμός** διεπαφής"
 
 #. type: Yaml Front Matter Hash Value: extra features description
 #: content/community/index.md
@@ -187,7 +188,7 @@ msgstr ""
 #: content/community/index.md
 #, no-wrap
 msgid "**Translate** Text"
-msgstr ""
+msgstr "**Μετάφραση** κειμένου"
 
 #. type: Yaml Front Matter Hash Value: extra features description
 #: content/community/index.md
@@ -199,7 +200,7 @@ msgstr ""
 #: content/community/index.md
 #, no-wrap
 msgid "**Add** Place Info"
-msgstr ""
+msgstr "**Προσθήκη** πληροφοριών τοποθεσιών"
 
 #. type: Yaml Front Matter Hash Value: extra features description
 #: content/community/index.md
@@ -211,7 +212,7 @@ msgstr ""
 #: content/community/index.md
 #, no-wrap
 msgid "**Help** Support"
-msgstr ""
+msgstr "**Βοήθεια** υποστήριξης"
 
 #. type: Hash Value: menu_community
 #: content/community/index.md translations.yaml
@@ -223,7 +224,7 @@ msgstr "Κοινότητα"
 #: content/donate/index.md
 #, no-wrap
 msgid "Donate and create better maps together!"
-msgstr ""
+msgstr "Κάντε δωρεά και δημιουργήστε καλύτερους χάρτες μαζί!"
 
 #. type: Yaml Front Matter Hash Value: extra donate info description
 #: content/donate/index.md
@@ -241,13 +242,13 @@ msgstr ""
 #: content/donate/index.md
 #, no-wrap
 msgid "Donate via Liberapay"
-msgstr ""
+msgstr "Δωρεά μέσω Liberapay"
 
 #. type: Yaml Front Matter Hash Value: extra donate open_collective title
 #: content/donate/index.md
 #, no-wrap
 msgid "Donate via Open Collective"
-msgstr ""
+msgstr "Δωρεά μέσω Open Collective"
 
 #. type: Yaml Front Matter Hash Value: extra funding items text
 #: content/donate/index.md
@@ -397,7 +398,7 @@ msgstr "Όραμα"
 #: content/about-us/index.md translations.yaml
 #, no-wrap
 msgid "About Us"
-msgstr ""
+msgstr "Σχετικά με μας"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/download/index.md
@@ -421,7 +422,7 @@ msgstr ""
 #: content/download/index.md
 #, no-wrap
 msgid "No data collection"
-msgstr ""
+msgstr "Καμία συλλογή δεδομένων"
 
 #. type: Yaml Front Matter Array Element: extra steps items
 #: content/download/index.md
@@ -433,13 +434,13 @@ msgstr ""
 #: content/download/index.md
 #, no-wrap
 msgid "Already downloaded?"
-msgstr ""
+msgstr "Ήδη κατεβασμένο;"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/download/index.md
 #, no-wrap
 msgid "Download CoMaps"
-msgstr ""
+msgstr "Κατεβάστε το CoMaps"
 
 #. type: Plain text
 #: content/download/index.md
@@ -457,7 +458,7 @@ msgstr "Σελίδα API"
 #: content/api/index.md
 #, markdown-text
 msgid "The API is documented on [comaps.at/api](https://comaps.at/api)."
-msgstr ""
+msgstr "Το API τεκμηριώνεται στο [comaps.at/api](https://comaps.at/api)."
 
 #. type: Hash Value: all_title
 #: translations.yaml
@@ -499,13 +500,13 @@ msgstr ""
 #: translations.yaml
 #, no-wrap
 msgid "Contribute Code"
-msgstr ""
+msgstr "Συνεισφέρετε κώδικα"
 
 #. type: Hash Value: inv_info_text
 #: translations.yaml
 #, no-wrap
 msgid "Add info around you, and make the maps better for everyone"
-msgstr ""
+msgstr "Προσθέστε πληροφορίες γύρω σας, και κάντε τους χάρτες καλύτερους για όλους"
 
 #. type: Hash Value: inv_info_title
 #: translations.yaml
@@ -565,7 +566,7 @@ msgstr "Περισσότερα"
 #: translations.yaml
 #, no-wrap
 msgid "Releases"
-msgstr ""
+msgstr "Εκδόσεις"
 
 #. type: Hash Value: search_placeholder
 #: translations.yaml

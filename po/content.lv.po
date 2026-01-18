@@ -6,7 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"Last-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>\n"
+"PO-Revision-Date: 2026-01-13 09:21+0000\n"
+"Last-Translator: Edgarsons <edgarsons@noreply.codeberg.org>\n"
 "Language-Team: Latvian <https://translate.codeberg.org/projects/comaps/website/lv/>\n"
 "Language: lv\n"
 "MIME-Version: 1.0\n"
@@ -379,19 +380,19 @@ msgstr ""
 #: content/about-us/index.md
 #, no-wrap
 msgid "Mission"
-msgstr ""
+msgstr "Mērķis"
 
 #. type: Yaml Front Matter Hash Value: extra vm items text
 #: content/about-us/index.md
 #, no-wrap
 msgid "Create a world where navigating with maps is free, and privacy by default is the top choice on the planet."
-msgstr ""
+msgstr "Izveido pasauli, kurā pārvietošanās ar kartēm ir brīva, un uz planētas privātums ir galvenā izvēle pēc noklusējuma!"
 
 #. type: Yaml Front Matter Hash Value: extra vm items title
 #: content/about-us/index.md
 #, no-wrap
 msgid "Vision"
-msgstr ""
+msgstr "Redzējums"
 
 #. type: Hash Value: menu_about_us
 #: content/about-us/index.md translations.yaml

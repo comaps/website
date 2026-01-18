@@ -6,6 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
+"PO-Revision-Date: 2026-01-11 17:21+0000\n"
 "Last-Translator: ZeljkoBG <zeljkobg@noreply.codeberg.org>\n"
 "Language-Team: Serbian <https://translate.codeberg.org/projects/comaps/website/sr/>\n"
 "Language: sr\n"
@@ -143,10 +144,9 @@ msgstr "Донирајте"
 
 #. type: Yaml Front Matter Hash Value: extra features description
 #: content/community/index.md
-#, fuzzy, no-wrap
-#| msgid "Report bugs, discuss idea, and propose features"
+#, no-wrap
 msgid "Report bugs, discuss ideas, and propose features"
-msgstr "Пријавите грешке, разговарајте о идеји и предложе функције"
+msgstr "Пријавите грешке, разговарајте о идеји и предложите функције"
 
 #. type: Yaml Front Matter Hash Value: extra features title
 #: content/community/index.md

@@ -6,6 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
+"PO-Revision-Date: 2026-01-13 00:21+0000\n"
 "Last-Translator: ldmpub <ldmpub@noreply.codeberg.org>\n"
 "Language-Team: French <https://translate.codeberg.org/projects/comaps/website/fr/>\n"
 "Language: fr\n"
@@ -13,7 +14,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.14\n"
+"X-Generator: Weblate 5.15.1\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -143,10 +144,9 @@ msgstr "Faire un don"
 
 #. type: Yaml Front Matter Hash Value: extra features description
 #: content/community/index.md
-#, fuzzy, no-wrap
-#| msgid "Report bugs, discuss idea, and propose features"
+#, no-wrap
 msgid "Report bugs, discuss ideas, and propose features"
-msgstr "Signalez des bogues, discutez des fonctionnalités et proposez de nouvelles idées"
+msgstr "Signalez des anomalies, discutez des fonctionnalités et proposez de nouvelles idées"
 
 #. type: Yaml Front Matter Hash Value: extra features title
 #: content/community/index.md
@@ -425,61 +425,60 @@ msgstr "L’API est documentée sur [comaps.at/api](https://comaps.at/api)."
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/privacy/index.md
-#, fuzzy, no-wrap
-#| msgid "Privacy-Centric"
+#, no-wrap
 msgid "Privacy"
-msgstr "Centré sur la vie privée"
+msgstr "Vie privée"
 
 #. type: Plain text
 #: content/privacy/index.md
 msgid "At CoMaps, we respect your privacy. CoMaps does not have any form of identification of people, advertising, or personal data collection."
-msgstr ""
+msgstr "CoMpas respecte votre vie privée, ne possède aucune forme d'identification des utilisateurs, ne contient pas de publicité et ne collecte aucune donnée personnelle."
 
 #. type: Plain text
 #: content/privacy/index.md
 msgid "CoMaps does not track you."
-msgstr ""
+msgstr "CoMaps ne vous piste pas."
 
 #. type: Plain text
 #: content/privacy/index.md content/terms/index.md
 msgid "If you have any questions or suggestions, please contact us at legal@comaps.app"
-msgstr ""
+msgstr "Pour toute question ou suggestion, veuillez nous contacter à legal@comaps.app."
 
 #. type: Plain text
 #: content/privacy/index.md
 msgid "Policy effective: 2025-05-01"
-msgstr ""
+msgstr "Politique appliquée depuis le 01/05/2025"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/terms/index.md
 #, no-wrap
 msgid "Terms"
-msgstr ""
+msgstr "Conditions générales"
 
 #. type: Plain text
 #: content/terms/index.md
 msgid "This app is licensed under the Apache License, Version 2.0 (the \"License\"); This application cannot be used except in compliance with the License."
-msgstr ""
+msgstr "Cette application est distribuée sous licence \"Apache version 2.0\" (la « Licence »). Cette application doit être utilisée conformément à cette Licence."
 
 #. type: Plain text
 #: content/terms/index.md
 msgid "Read [the full license text](https://www.apache.org/licenses/LICENSE-2.0)."
-msgstr ""
+msgstr "Lisez [le texte intégral de la licence](https://www.apache.org/licenses/LICENSE-2.0)."
 
 #. type: Plain text
 #: content/terms/index.md
 msgid "Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License."
-msgstr ""
+msgstr "Sauf disposition contraire de la loi applicable ou accord écrit, le logiciel distribué sous la Licence est distribué « TEL QUEL », SANS GARANTIE D’AUCUNE SORTE, formelle ou implicite. Consultez la Licence pour connaître les autorisations et limitations qui y sont définies."
 
 #. type: Plain text
 #: content/terms/index.md
 msgid "Many libraries and 3rd party tools included into [CoMaps repository](https://codeberg.org/comaps/comaps) were developed by multiple people and organizations, and licensed in different ways.  Please refer to their LICENSE, COPYING or NOTICE files for terms of use."
-msgstr ""
+msgstr "De nombreuses bibliothèques et outils tiers inclus dans [CoMaps repository] (https://codeberg.org/comaps/comaps) ont été développés par plusieurs personnes et organisations et sont soumis à licences différentes. Veuillez consulter leurs fichiers LICENSE, COPYING ou NOTICE pour connaître les conditions d'utilisation."
 
 #. type: Plain text
 #: content/terms/index.md
 msgid "See [data/copyright.html](https://codeberg.org/comaps/comaps/src/branch/main/data/copyright.html) file for a full list of copyright notices for the CoMaps application."
-msgstr ""
+msgstr "Consultez le fichier [data/copyright.html](https://codeberg.org/comaps/comaps/src/branch/main/data/copyright.html) pour obtenir la liste complète des mentions légales relatives à l'application CoMaps."
 
 #. type: Hash Value: all_title
 #: translations.yaml

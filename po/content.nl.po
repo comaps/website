@@ -6,6 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
+"PO-Revision-Date: 2026-01-18 08:21+0000\n"
 "Last-Translator: Stephan-P <stephan-p@noreply.codeberg.org>\n"
 "Language-Team: Dutch <https://translate.codeberg.org/projects/comaps/website/nl/>\n"
 "Language: nl\n"
@@ -31,7 +32,7 @@ msgstr "Ontdek je reis, navigeer de wereld met privacy en de community voorop."
 #: content/_index.md
 #, no-wrap
 msgid "Freedom Is Here"
-msgstr "Vrijheid is hier"
+msgstr "Hier is vrijheid"
 
 #. type: Yaml Front Matter Hash Value: extra map description
 #: content/_index.md
@@ -103,13 +104,13 @@ msgstr "Mensen zoals jij helpen mee met het bouwen van de app door locaties toe 
 #: content/_index.md
 #, no-wrap
 msgid "Free for everyone, Made with love"
-msgstr "Vrij voor iedereen, met liefde gemaakt"
+msgstr "Voor iedereen vrij, met liefde gemaakt"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
 #, no-wrap
 msgid "Free and Built by the Community"
-msgstr "Vrij en gebouwd door de community"
+msgstr "Gratis en gebouwd door de community"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/_index.md
@@ -143,10 +144,9 @@ msgstr "Doneer"
 
 #. type: Yaml Front Matter Hash Value: extra features description
 #: content/community/index.md
-#, fuzzy, no-wrap
-#| msgid "Report bugs, discuss idea, and propose features"
+#, no-wrap
 msgid "Report bugs, discuss ideas, and propose features"
-msgstr "Rapporteer bugs, bespreek ideeën en stel functies voor"
+msgstr "Meld bugs, bespreek ideeën en stel functies voor"
 
 #. type: Yaml Front Matter Hash Value: extra features title
 #: content/community/index.md
@@ -266,7 +266,7 @@ msgstr "Ontwikkelaars"
 #: content/donate/index.md
 #, no-wrap
 msgid "We have to keep up fast servers, so anyone in the world can download free map data updates without delays. These maps data transfers make up large, and growing, amounts of data each month."
-msgstr "We moeten snelle servers bijhouden, zodat iedereen ter wereld zonder vertragingen gratis kaartgegevensupdates kan downloaden. Deze overdrachten vormen elke maand grote en groeiende hoeveelheden gegevens."
+msgstr "We hebben snelle servers nodig, zodat iedereen ter wereld zonder vertragingen gratis updates van kaarten kan downloaden. Deze overdrachten vormen elke maand grote en groeiende hoeveelheden gegevens."
 
 #. type: Yaml Front Matter Hash Value: extra funding items title
 #: content/donate/index.md
@@ -296,13 +296,13 @@ msgstr "Hoe zal de financiering worden gebruikt?"
 #: content/donate/index.md
 #, no-wrap
 msgid "We rely on your donations to keep CoMaps open and free"
-msgstr "Dankzij jouw donaties blijft CoMaps open en gratis"
+msgstr "Wij zijn afhankelijk van jouw donaties om CoMaps open en gratis te houden"
 
 #. type: Yaml Front Matter Hash Value: extra info text
 #: content/donate/index.md
 #, no-wrap
 msgid "We are a few enthusiasts contributing in our free time. We love what we do, and we love our users"
-msgstr "Wij zijn een paar enthousiastelingen die in hun vrije tijd bijdragen. We houden van wat we doen en van onze gebruikers"
+msgstr "Wij zijn een paar enthousiastelingen die bijdragen in hun vrije tijd. We houden van wat we doen en van onze gebruikers"
 
 #. type: Yaml Front Matter Hash Value: extra info text
 #: content/donate/index.md
@@ -386,7 +386,7 @@ msgstr "Missie"
 #: content/about-us/index.md
 #, no-wrap
 msgid "Create a world where navigating with maps is free, and privacy by default is the top choice on the planet."
-msgstr "Maak een wereld waarin navigeren met kaarten gratis is en privacy de standaard."
+msgstr "Maak een wereld waarin navigatie met kaarten gratis is en privacy de standaard."
 
 #. type: Yaml Front Matter Hash Value: extra vm items title
 #: content/about-us/index.md
@@ -442,7 +442,7 @@ msgstr "CoMaps volgt u niet."
 #. type: Plain text
 #: content/privacy/index.md content/terms/index.md
 msgid "If you have any questions or suggestions, please contact us at legal@comaps.app"
-msgstr "Als u vragen of suggesties heeft, neem dan contact met ons op via legal@comaps.app"
+msgstr "Als u vragen of opmerkingen heeft, neem dan contact met ons op via legal@comaps.app"
 
 #. type: Plain text
 #: content/privacy/index.md
