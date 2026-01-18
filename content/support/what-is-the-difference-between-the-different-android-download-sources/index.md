@@ -8,11 +8,14 @@ extra:
   order: 30
 ---
 
-You can download and install CoMaps for Android from different sources: Google Play, F-Droid, Huawei AppGallery or [CoMaps website](https://codeberg.org/comaps/comaps/releases/).
+You can download and install CoMaps for Android from different sources: Google Play, F-Droid, IzzyOnDroid or [Codeberg](https://codeberg.org/comaps/comaps/releases/).
 
-1. Play Store version has built-in world maps and may use Google Location services for faster location detection over WiFi or cellular networks (it can be disabled in CoMaps settings). Note that Location Services setting disappears if your device doesn't have them installed for whatever reason (degoogled device, for example). Releases may be delayed by Google Reviewers or by partial availability to see if there are any regressions.  
-With CoMaps from Google Play, you can disable Google Play Services for location search in the app’s settings menu:  
+1. Play Store version has built-in world maps. It's also the only version that can be used with Android Auto due to Google restrictions. Releases may be delayed by Google Reviewers or by partial availability to see if there are any regressions.
+2. Codeberg (Web) version is the same as Play Store except it doesn't have built-in World maps, which needt to be downloaded when first launching the app. You can auto-update it using Obtanium. It has a different App ID, so it can be installed alongside the Google, or F-Droid versions. And you can easily migrate your bookmarks. Available instantly. Note that the Google Fused Location Services setting disappears if your device doesn't have them installed.
+3. F-Droid version doesn't have built in world maps (see Codeberg above). It is usually updated in 3-7 days after Web version, but it may take even more time in case of issues. 
+
+All versions have [Google Fused Location Service](https://en.wikipedia.org/wiki/Google_Play_Services) available, but are using [microG re-implementation](https://github.com/microg/GmsCore/wiki) instead of the Google Play Services Location library and the feature is disabled in settings by default. Enabling Google Fused Location Services improves speed in detecting your location by using WiFi or cellular networks.
+Without Google Fused Location Service enabled, it can take a long time to detect your position by using only GPS satellites.  
+Note that the Google Fused Location Services setting disappears if your device doesn't have them installed for whatever reason (on a degoogled device, for example).
+
 ![Google Play Services](image30.png)
-2. Codeberg (Web) version is the same as Play Store except it doesn't have built-in World maps, which should be downloaded separately. You can auto-update it using Obtanium. It has a different ID so it can be installed separately with Google, Huawei, or Fdroid versions. And you can easily migrate your bookmarks. Available instantly. Note that Location Services setting disappears if your device doesn't have them installed.
-3. FDroid version doesn't have world maps and doesn't have Google Location services library in it. That is why it may take a looong time to detect your position using GPS satellites only. It is usually updated in 3-7 days after Web version, but it may take even more time in case of issues.  
-The F-Droid version comes without [Google Play Services](https://en.wikipedia.org/wiki/Google_Play_Services). These Services improve location accuracy using nearest cell towers and wifi hotspots if internet connection is available, so the F-Droid version uses only the device’s GPS sensor.
