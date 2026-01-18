@@ -9,3 +9,4 @@ extra:
 ---
 
 CarPlay support is available starting with the `2025-08-31` release of CoMaps. If you have an older version, please update to a version that supports CarPlay.
+You can find more details [here](https://support.apple.com/en-us/108415) to configure Apple CarPlay on your device.
