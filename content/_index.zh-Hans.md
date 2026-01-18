@@ -46,5 +46,5 @@ extra:
         title: 自由且社区共建
 sort_by: weight
 template: home.html
-title: 离线远足、骑行、驾驶⸺隐私保护下的导航
+title: 'Hike, Bike, Drive Offline – Navigate with Privacy'
 ---

@@ -8,6 +8,7 @@ identificación personal, publicidad ni datos personales.
 
 CoMaps no te rastrea.
 
-Si tienes dudas o sugerencias, por favor, contáctanos en legal@comaps.app
+Si tiene preguntas o sugerencias, póngase en contacto con nosotros en
+legal@organicmaps.app
 
 Política vigente desde el 2025-05-01

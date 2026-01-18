@@ -46,5 +46,5 @@ extra:
         title: 'இலவசம் மற்றும் சமூகத்தால் கட்டப்பட்டது'
 sort_by: weight
 template: home.html
-title: 'தனியுரிமையுடன் ஐக், பைக், இயக்கி இணைப்பில்லாத நேவிகேட்'
+title: 'Hike, Bike, Drive Offline – Navigate with Privacy'
 ---

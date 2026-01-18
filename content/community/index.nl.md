@@ -5,7 +5,7 @@ extra:
     description: "De app draait op jouw donaties, help de app te verbeteren"
     title: Doneer
   features:
-    - description: "Report bugs, discuss ideas, and propose features"
+    - description: "Meld bugs, bespreek ideeën en stel functies voor"
       icon: chats.svg
       link: https://codeberg.org/comaps/comaps/issues
       title: "**Rapporteer** bugs"

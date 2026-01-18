@@ -5,7 +5,7 @@ extra:
     description: "Aplikasi ini beroperasi berkat donasi, bantu kami untuk terus mengembangkannya"
     title: Donasi
   features:
-    - description: "Report bugs, discuss ideas, and propose features"
+    - description: "Laporkan bug, diskusikan ide, dan usulkan fitur baru"
       icon: chats.svg
       link: https://codeberg.org/comaps/comaps/issues
       title: "**Laporkan** Bug"

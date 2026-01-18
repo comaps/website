@@ -1,27 +1,30 @@
 ---
-title: Terms
+title: "Conditions générales"
 weight: 1000
 ---
 
-This app is licensed under the Apache License, Version 2.0 (the "License");
-This application cannot be used except in compliance with the License.
+Cette application est distribuée sous licence "Apache version 2.0" (la «
+Licence »). Cette application doit être utilisée conformément à cette
+Licence.
 
-Read [the full license text](https://www.apache.org/licenses/LICENSE-2.0).
+Lisez [le texte intégral de la
+licence](https://www.apache.org/licenses/LICENSE-2.0).
 
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
-WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
-License for the specific language governing permissions and limitations
-under the License.
+Sauf disposition contraire de la loi applicable ou accord écrit, le logiciel
+distribué sous la Licence est distribué « TEL QUEL », SANS GARANTIE D’AUCUNE
+SORTE, formelle ou implicite. Consultez la Licence pour connaître les
+autorisations et limitations qui y sont définies.
 
-Many libraries and 3rd party tools included into [CoMaps
-repository](https://codeberg.org/comaps/comaps) were developed by multiple
-people and organizations, and licensed in different ways. Please refer to
-their LICENSE, COPYING or NOTICE files for terms of use.
+De nombreuses bibliothèques et outils tiers inclus dans [CoMaps repository]
+(https://codeberg.org/comaps/comaps) ont été développés par plusieurs
+personnes et organisations et sont soumis à licences différentes. Veuillez
+consulter leurs fichiers LICENSE, COPYING ou NOTICE pour connaître les
+conditions d'utilisation.
 
-See
+Consultez le fichier
 [data/copyright.html](https://codeberg.org/comaps/comaps/src/branch/main/data/copyright.html)
-file for a full list of copyright notices for the CoMaps application.
+pour obtenir la liste complète des mentions légales relatives à
+l'application CoMaps.
 
-If you have any questions or suggestions, please contact us at
-legal@comaps.app
+Pour toute question ou suggestion, veuillez nous contacter à
+legal@comaps.app.

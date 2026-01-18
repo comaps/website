@@ -9,7 +9,7 @@ extra:
       title: "Donate via Liberapay"
     open_collective:
       title: "Donate via Open Collective"
-    title: Donate
+    title: Doniraj
   funding:
     items:
       - media: /images/donate/developers.webp
@@ -33,6 +33,6 @@ extra:
   service_text: ~
   service_title: "Created with love by enthusiast volunteers"
 template: donate.html
-title: Donate
+title: Doniraj
 weight: 10
 ---

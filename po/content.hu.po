@@ -113,8 +113,9 @@ msgstr "Ingyenes és a közösség által épített"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/_index.md
-#, no-wrap
-msgid "Hike, Bike, Drive Offline Navigate with Privacy"
+#, fuzzy, no-wrap
+#| msgid "Hike, Bike, Drive Offline Navigate with Privacy"
+msgid "Hike, Bike, Drive Offline – Navigate with Privacy"
 msgstr "Túrázás, kerékpározás, vezetés, internetkapcsolat nélküli navigálás adatvédelemmel"
 
 #. type: Yaml Front Matter Hash Value: title

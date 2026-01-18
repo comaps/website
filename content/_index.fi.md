@@ -46,5 +46,5 @@ extra:
         title: 'Ilmainen ja yhteisön luoma'
 sort_by: weight
 template: home.html
-title: 'Vaella, pyöräile tai aja ilman verkkoyhteyttä, yksityisesti'
+title: 'Hike, Bike, Drive Offline – Navigate with Privacy'
 ---

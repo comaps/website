@@ -5,7 +5,7 @@ extra:
     description: "Апликација ради на вашим донацијама, помозите да се побољша"
     title: Донирајте
   features:
-    - description: "Report bugs, discuss ideas, and propose features"
+    - description: "Пријавите грешке, разговарајте о идеји и предложите функције"
       icon: chats.svg
       link: https://codeberg.org/comaps/comaps/issues
       title: "**Извештај** Грешке"

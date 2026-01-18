@@ -46,5 +46,5 @@ extra:
         title: 'Libre y Creado por la Comunidad'
 sort_by: weight
 template: home.html
-title: 'Haz senderismo, monta en bicicleta, conduce sin conexión - Navega con privacidad'
+title: 'Hike, Bike, Drive Offline – Navigate with Privacy'
 ---

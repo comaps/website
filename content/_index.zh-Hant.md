@@ -46,5 +46,5 @@ extra:
         title: 由社群合作創建的免費應用
 sort_by: weight
 template: home.html
-title: 離線遠足、騎行、駕駛⸺隱私保護下的導航
+title: 'Hike, Bike, Drive Offline – Navigate with Privacy'
 ---

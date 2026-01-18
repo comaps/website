@@ -46,5 +46,5 @@ extra:
         title: 'Gratuït i Construït per la comunitat'
 sort_by: weight
 template: home.html
-title: 'Senderisme, ciclisme i conducció sense connexió - Navega amb privacitat'
+title: 'Hike, Bike, Drive Offline – Navigate with Privacy'
 ---

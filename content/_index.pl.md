@@ -46,5 +46,5 @@ extra:
         title: 'Darmowa i stworzona przez społeczność'
 sort_by: weight
 template: home.html
-title: 'Wędruj, jeździj rowerem, nawiguj offline z zachowaniem prywatności'
+title: 'Hike, Bike, Drive Offline – Navigate with Privacy'
 ---

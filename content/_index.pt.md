@@ -46,5 +46,5 @@ extra:
         title: 'Grátis e Construído pela Comunidade'
 sort_by: weight
 template: home.html
-title: 'Caminhadas, Ciclismo e Condução através de Navegação Privada e Offline'
+title: 'Hike, Bike, Drive Offline – Navigate with Privacy'
 ---

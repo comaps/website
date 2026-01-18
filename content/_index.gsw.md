@@ -46,5 +46,5 @@ extra:
         title: 'Gratis und vo de Community entwicklet'
 sort_by: weight
 template: home.html
-title: 'Wandere, Velofahre, Autofahre – Offline navigiere mit Dateschutz'
+title: 'Hike, Bike, Drive Offline – Navigate with Privacy'
 ---

@@ -27,4 +27,5 @@ Lee
 para ver la lista completa de avisos de derechos de autor de la aplicación
 CoMaps.
 
-Si tienes dudas o sugerencias, por favor, contáctanos en legal@comaps.app
+Si tiene preguntas o sugerencias, póngase en contacto con nosotros en
+legal@organicmaps.app

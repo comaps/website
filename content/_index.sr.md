@@ -46,5 +46,5 @@ extra:
         title: 'Бесплатно и изграђено од стране заједнице'
 sort_by: weight
 template: home.html
-title: 'Путовање пешице, бициклом, вожње у режиму ван мреже, поштујући приватност'
+title: 'Hike, Bike, Drive Offline – Navigate with Privacy'
 ---

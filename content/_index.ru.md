@@ -46,5 +46,5 @@ extra:
         title: 'Бесплатно и создано сообществом'
 sort_by: weight
 template: home.html
-title: 'Походы, велопрогулки, вождение. Навигация автономно и с конфиденциальностью'
+title: 'Hike, Bike, Drive Offline – Navigate with Privacy'
 ---

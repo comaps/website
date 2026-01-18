@@ -46,5 +46,5 @@ extra:
         title: 'Gratuit și Construit de Comunitate'
 sort_by: weight
 template: home.html
-title: 'Navighează Offline cu Confidențialitate. Pe Jos, cu Bicicleta sau cu Mașina'
+title: 'Hike, Bike, Drive Offline – Navigate with Privacy'
 ---

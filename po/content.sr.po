@@ -6,7 +6,6 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"PO-Revision-Date: 2026-01-11 17:21+0000\n"
 "Last-Translator: ZeljkoBG <zeljkobg@noreply.codeberg.org>\n"
 "Language-Team: Serbian <https://translate.codeberg.org/projects/comaps/website/sr/>\n"
 "Language: sr\n"
@@ -114,8 +113,9 @@ msgstr "Бесплатно и изграђено од стране заједн�
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/_index.md
-#, no-wrap
-msgid "Hike, Bike, Drive Offline Navigate with Privacy"
+#, fuzzy, no-wrap
+#| msgid "Hike, Bike, Drive Offline Navigate with Privacy"
+msgid "Hike, Bike, Drive Offline – Navigate with Privacy"
 msgstr "Путовање пешице, бициклом, вожње у режиму ван мреже, поштујући приватност"
 
 #. type: Yaml Front Matter Hash Value: title

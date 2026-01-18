@@ -115,8 +115,9 @@ msgstr "Безкоштовний і створений спільнотою"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/_index.md
-#, no-wrap
-msgid "Hike, Bike, Drive Offline Navigate with Privacy"
+#, fuzzy, no-wrap
+#| msgid "Hike, Bike, Drive Offline Navigate with Privacy"
+msgid "Hike, Bike, Drive Offline – Navigate with Privacy"
 msgstr "Походи, веломандрівки, поїздки — навігуйте офлайн, зберігаючи приватність"
 
 #. type: Yaml Front Matter Hash Value: title

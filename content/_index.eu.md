@@ -46,5 +46,5 @@ extra:
         title: 'Librea eta komunitateak egina'
 sort_by: weight
 template: home.html
-title: 'Oinez, bizikletaz, autoz nabigatu konexiorik gabe eta pribatutasunez'
+title: 'Hike, Bike, Drive Offline – Navigate with Privacy'
 ---

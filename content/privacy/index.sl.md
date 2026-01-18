@@ -8,7 +8,7 @@ katerikoli obliki, oglaševanja in ne zbira osebnih podatkov.
 
 CoMaps vam ne sledi.
 
-Če imate kakršnakoli vprašanja ali predloge, jih, prosimo, posredujte na
+Če imate kakršnakoli vprašanja ali predloge, jih posredujte na
 legal@comaps.app
 
 Pravilnik v veljavi od: 2025-05-01

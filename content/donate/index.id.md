@@ -16,7 +16,7 @@ extra:
         text: "Saat ini belum ada tim full-time yang bekerja mengembangkan fitur baru dan meningkatkan layanan. Agar produk terus berkembang secara konsisten, diperlukan sebuah tim inti."
         title: Pengembang
       - media: /images/donate/infrastructure.webp
-        text: "We have to keep up fast servers, so anyone in the world can download free map data updates without delays. These maps data transfers make up large, and growing, amounts of data each month."
+        text: "Kami harus menjaga kecepatan server agar siapa pun di dunia ini dapat mengunduh pembaruan data peta gratis tanpa kendala. Transfer data peta ini memakan bandwidth yang sangat besar dan terus bertambah setiap bulannya."
         title: Infrastruktur
       - media: /images/donate/support.webp
         text: "Membantu pengguna, memperbaiki bug, dan meningkatkan stabilitas aplikasi adalah prioritas utama kami. Daftar permintaan dan laporan bug bertambah setiap hari, begitu pula banyaknya pertanyaan yang masuk melalui App Store, Google Play, dan email."

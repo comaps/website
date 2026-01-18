@@ -5,7 +5,7 @@ extra:
     description: "Die App lebt von deinen Spenden – hilf mit, sie zu verbessern"
     title: Spenden
   features:
-    - description: "Report bugs, discuss ideas, and propose features"
+    - description: "Bugs melden, Ideen diskutieren, Features vorschlagen"
       icon: chats.svg
       link: https://codeberg.org/comaps/comaps/issues
       title: "**Melde** Fehler"

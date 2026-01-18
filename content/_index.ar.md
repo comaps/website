@@ -46,5 +46,5 @@ extra:
         title: 'مجاني و مبني بواسطة المجتمع'
 sort_by: weight
 template: home.html
-title: 'تنزه، تنقل، قُد بدون إتصال الإنترنت مع الخصوصية'
+title: 'Hike, Bike, Drive Offline – Navigate with Privacy'
 ---

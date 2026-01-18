@@ -5,7 +5,7 @@ extra:
     description: "Tuto aplikaci pohání vaše dary, pomozte ji vylepšit"
     title: Darovat
   features:
-    - description: "Report bugs, discuss ideas, and propose features"
+    - description: "Hlaste chyby, diskutujte o nápadech a navrhujte funkce"
       icon: chats.svg
       link: https://codeberg.org/comaps/comaps/issues
       title: "**Hlaste** chyby"

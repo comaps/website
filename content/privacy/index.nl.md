@@ -9,7 +9,7 @@ gegevens.
 
 CoMaps volgt u niet.
 
-Als u vragen of suggesties heeft, neem dan contact met ons op via
+Als u vragen of opmerkingen heeft, neem dan contact met ons op via
 legal@comaps.app
 
 Beleid effectief: 01-05-2025

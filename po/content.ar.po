@@ -116,8 +116,9 @@ msgstr "مجاني و مبني بواسطة المجتمع"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/_index.md
-#, no-wrap
-msgid "Hike, Bike, Drive Offline Navigate with Privacy"
+#, fuzzy, no-wrap
+#| msgid "Hike, Bike, Drive Offline Navigate with Privacy"
+msgid "Hike, Bike, Drive Offline – Navigate with Privacy"
 msgstr "تنزه، تنقل، قُد بدون إتصال الإنترنت مع الخصوصية"
 
 #. type: Yaml Front Matter Hash Value: title

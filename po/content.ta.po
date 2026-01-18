@@ -113,8 +113,9 @@ msgstr "இலவசம் மற்றும் சமூகத்தால் 
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/_index.md
-#, no-wrap
-msgid "Hike, Bike, Drive Offline Navigate with Privacy"
+#, fuzzy, no-wrap
+#| msgid "Hike, Bike, Drive Offline Navigate with Privacy"
+msgid "Hike, Bike, Drive Offline – Navigate with Privacy"
 msgstr "தனியுரிமையுடன் ஐக், பைக், இயக்கி இணைப்பில்லாத நேவிகேட்"
 
 #. type: Yaml Front Matter Hash Value: title

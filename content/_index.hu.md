@@ -46,5 +46,5 @@ extra:
         title: 'Ingyenes és a közösség által épített'
 sort_by: weight
 template: home.html
-title: 'Túrázás, kerékpározás, vezetés, internetkapcsolat nélküli navigálás adatvédelemmel'
+title: 'Hike, Bike, Drive Offline – Navigate with Privacy'
 ---

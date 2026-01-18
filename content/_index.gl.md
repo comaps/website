@@ -46,5 +46,5 @@ extra:
         title: 'Gratuíta e feita pola Comunidade'
 sort_by: weight
 template: home.html
-title: 'Camiñando, en Bicicleta ou Conducindo, sen Conexión e con Privacidade'
+title: 'Hike, Bike, Drive Offline – Navigate with Privacy'
 ---

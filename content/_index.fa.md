@@ -46,5 +46,5 @@ extra:
         title: 'رایگان و ساخته شده گروهی'
 sort_by: weight
 template: home.html
-title: 'Hike, Bike, Drive Offline Navigate with Privacy'
+title: 'Hike, Bike, Drive Offline – Navigate with Privacy'
 ---

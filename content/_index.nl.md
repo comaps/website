@@ -3,7 +3,7 @@ description: 'Ontdek meer van je reis - Mogelijk gemaakt door de community'
 extra:
   freedom:
     description: 'Ontdek je reis, navigeer de wereld met privacy en de community voorop.'
-    title: 'Vrijheid is hier'
+    title: 'Hier is vrijheid'
   map:
     description: 'Community + Open kaarten'
   services:
@@ -39,12 +39,12 @@ extra:
         description: 'Mensen zoals jij helpen mee met het bouwen van de app door locaties toe te voegen aan <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-open-street-map"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, feedback te geven op functies en code bij te dragen op <span class="text-icon"><svg viewbox="0 0 4.233 4.233"> <use href="#icon-codeberg"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> om samen fantastische kaarten te maken. Het project is een afsplitsing van Organic Maps en Maps.Me, en wordt aangestuurd door een open-source community.'
         highlight:
           icon: static/images/icons/home/heart.svg
-          text: 'Vrij voor iedereen, met liefde gemaakt'
+          text: 'Voor iedereen vrij, met liefde gemaakt'
         media:
           map: /images/sections/map-s-4.webp
           user: /images/sections/map-m-4.webp
-        title: 'Vrij en gebouwd door de community'
+        title: 'Gratis en gebouwd door de community'
 sort_by: weight
 template: home.html
-title: 'Wandel, fiets, rijd offline Navigeer met privacy'
+title: 'Hike, Bike, Drive Offline – Navigate with Privacy'
 ---

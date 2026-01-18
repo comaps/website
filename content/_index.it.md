@@ -46,5 +46,5 @@ extra:
         title: 'Gratuito e realizzato dalla comunità'
 sort_by: weight
 template: home.html
-title: 'Escursioni a piedi, in bicicletta, in auto Navigazione offline con privacy'
+title: 'Hike, Bike, Drive Offline – Navigate with Privacy'
 ---

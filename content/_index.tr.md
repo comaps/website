@@ -46,5 +46,5 @@ extra:
         title: 'Özgür ve topluluk tarafından inşa edildi'
 sort_by: weight
 template: home.html
-title: 'Yürüşüş, Bisiklet, Çevrimdışı Sürüş Gizlilikle Gezinin'
+title: 'Hike, Bike, Drive Offline – Navigate with Privacy'
 ---

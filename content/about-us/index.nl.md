@@ -27,7 +27,7 @@ extra:
         title: Missie
       - icon: /images/icons/about/vision.svg
         media: /images/about-us/vision.png
-        text: "Maak een wereld waarin navigeren met kaarten gratis is en privacy de standaard."
+        text: "Maak een wereld waarin navigatie met kaarten gratis is en privacy de standaard."
         title: Visie
 template: about-us.html
 title: "Over ons"

@@ -114,8 +114,9 @@ msgstr "Gratuït i Construït per la comunitat"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/_index.md
-#, no-wrap
-msgid "Hike, Bike, Drive Offline Navigate with Privacy"
+#, fuzzy, no-wrap
+#| msgid "Hike, Bike, Drive Offline Navigate with Privacy"
+msgid "Hike, Bike, Drive Offline – Navigate with Privacy"
 msgstr "Senderisme, ciclisme i conducció sense connexió - Navega amb privacitat"
 
 #. type: Yaml Front Matter Hash Value: title

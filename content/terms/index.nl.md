@@ -26,5 +26,5 @@ Bekijk het bestand
 [data/copyright.html](https://codeberg.org/comaps/comaps/src/branch/main/data/copyright.html)
 voor een volledige lijst met copyrightmeldingen voor de CoMaps-toepassing.
 
-Als u vragen of suggesties heeft, neem dan contact met ons op via
+Als u vragen of opmerkingen heeft, neem dan contact met ons op via
 legal@comaps.app

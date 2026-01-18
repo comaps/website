@@ -5,7 +5,7 @@ extra:
     description: "Orodje sloni na prostovoljnih prispevkih, pomagajte ga izboljšati"
     title: Darujte
   features:
-    - description: "Report bugs, discuss ideas, and propose features"
+    - description: "Poročajte o napakah, razpravljajte o zamislih in predlagajte zmogljivosti"
       icon: chats.svg
       link: https://codeberg.org/comaps/comaps/issues
       title: "**Poročajte** o napakah"

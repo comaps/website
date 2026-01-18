@@ -46,5 +46,5 @@ extra:
         title: 'Brezplačno in razvito s strani skupnosti'
 sort_by: weight
 template: home.html
-title: 'Peš, na kolesu ali v avtu brez povezave – usmerjajte se zasebno'
+title: 'Hike, Bike, Drive Offline – Navigate with Privacy'
 ---

@@ -5,7 +5,7 @@ extra:
     description: "Selle rakenduse hooldus ja arendus põhineb vaid kasutajate toel - sinu osalemine on oluline"
     title: Anneta
   features:
-    - description: "Report bugs, discuss ideas, and propose features"
+    - description: "Teata vigadest, kommenteeri ideid või paku välja mõni uus lahendus"
       icon: chats.svg
       link: https://codeberg.org/comaps/comaps/issues
       title: "**Teata** vigadest"

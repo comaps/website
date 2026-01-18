@@ -113,8 +113,9 @@ msgstr "自由且社区共建"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/_index.md
-#, no-wrap
-msgid "Hike, Bike, Drive Offline Navigate with Privacy"
+#, fuzzy, no-wrap
+#| msgid "Hike, Bike, Drive Offline Navigate with Privacy"
+msgid "Hike, Bike, Drive Offline – Navigate with Privacy"
 msgstr "离线远足、骑行、驾驶⸺隐私保护下的导航"
 
 #. type: Yaml Front Matter Hash Value: title

@@ -46,5 +46,5 @@ extra:
         title: 'Kostenlos und von der Community entwickelt'
 sort_by: weight
 template: home.html
-title: 'Wandern, Radfahren, Autofahren – Offline navigieren mit Datenschutz'
+title: 'Hike, Bike, Drive Offline – Navigate with Privacy'
 ---

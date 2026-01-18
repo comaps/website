@@ -113,8 +113,9 @@ msgstr "Özgür ve topluluk tarafından inşa edildi"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/_index.md
-#, no-wrap
-msgid "Hike, Bike, Drive Offline Navigate with Privacy"
+#, fuzzy, no-wrap
+#| msgid "Hike, Bike, Drive Offline Navigate with Privacy"
+msgid "Hike, Bike, Drive Offline – Navigate with Privacy"
 msgstr "Yürüşüş, Bisiklet, Çevrimdışı Sürüş Gizlilikle Gezinin"
 
 #. type: Yaml Front Matter Hash Value: title

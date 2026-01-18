@@ -46,5 +46,5 @@ extra:
         title: 'Безкоштовний і створений спільнотою'
 sort_by: weight
 template: home.html
-title: 'Походи, веломандрівки, поїздки — навігуйте офлайн, зберігаючи приватність'
+title: 'Hike, Bike, Drive Offline – Navigate with Privacy'
 ---

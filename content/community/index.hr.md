@@ -1,18 +1,18 @@
 ---
-description: "CoMaps is created and maintained by people like you"
+description: "CoMaps kreiraju i održavaju ljudi poput vas"
 extra:
   donate:
-    description: "The app runs on your donations, help improve it"
-    title: Donate
+    description: "Podržite razvoj aplikacije donacijom"
+    title: Doniraj
   features:
-    - description: "Report bugs, discuss ideas, and propose features"
+    - description: "Prijavite greške, raspravljajte o idejama i predlažite značajke"
       icon: chats.svg
       link: https://codeberg.org/comaps/comaps/issues
-      title: "**Report** Bugs"
-    - description: "Develop new features, help fix bugs, and review code"
+      title: "**Prijavi** greške"
+    - description: "Razvijajte nove značajke, pomažite u rješavanju grešaka i pregledavajte kod"
       icon: CodeBlock.svg
       link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md#code-contributions
-      title: "**Develop** Functionality"
+      title: "**Razvoj** funkcionalnosti"
     - description: "Shape the direction of the product experience"
       icon: BezierCurve.svg
       link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md#ui-ux-map-styling-and-icons
