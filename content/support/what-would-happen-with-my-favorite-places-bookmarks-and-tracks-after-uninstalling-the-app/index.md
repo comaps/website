@@ -8,5 +8,6 @@ extra:
   order: 130
 ---
 
-All your tracks and bookmarks are removed from the device when CoMaps is uninstalled. Please backup your bookmarks and tracks first using the export button.  
-Cloud bookmarks backup and sync is planned in future releases.
+All your tracks and bookmarks are removed from the device when CoMaps is uninstalled. Please backup your bookmarks and tracks first, using the export button.  
+
+On iOS, bookmarks can also be synced with iCloud. On Android, cloud bookmarks backup and syncing is planned for future releases.

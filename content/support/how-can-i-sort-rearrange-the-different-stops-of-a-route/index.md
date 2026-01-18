@@ -15,5 +15,3 @@ The “Manage Route” panel will pop-up, listing the starting and end point of 
 ![](image27.png)
 
 After rearranging the stops in the list, click on the “Plan” button to make the changes effective in the current route plan.
-
-This functionality of route stop sorting is not implemented (yet) on Android.

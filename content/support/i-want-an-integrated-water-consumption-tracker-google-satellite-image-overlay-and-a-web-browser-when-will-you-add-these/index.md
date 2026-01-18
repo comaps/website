@@ -8,4 +8,7 @@ extra:
   order: 60
 ---
 
-You can install [OSMand](https://en.wikipedia.org/wiki/OsmAnd) for all those features.
+We are working on a mission document in our [Governance repository](https://codeberg.org/comaps/Governance), to share our vision of what CoMaps as an app should be.
+
+In the meanwhile, we recommend having a look at [OSMand](https://en.wikipedia.org/wiki/OsmAnd), which is very feature-rich at the cost of a higher learning-curve.
+

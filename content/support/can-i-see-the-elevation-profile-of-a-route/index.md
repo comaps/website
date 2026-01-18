@@ -9,3 +9,4 @@ extra:
 ---
 
 Yes, you can see the elevation profile of the walking and cycling routes in the route preview page.
+It's planned to add elevation profile during navigation in the future.

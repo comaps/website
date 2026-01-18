@@ -8,4 +8,6 @@ extra:
   order: 100
 ---
 
-Currently, we are focused on creating high-quality offline maps. Currently, only hotels available on OpenStreetMap are displayed on the map. If you wish, you can add hotels to the map yourself. As for traffic data, the challenge is that it requires payment either in money or user data. We are exploring other options.
+Currently, we are focused on creating high-quality offline maps based on open data. Only hotels available on OpenStreetMap are displayed on the map. If you wish, you can [add hotels to the map yourself](/support/editing-with-CoMaps/). 
+
+As for traffic data, the challenge is finding open & privacy-preserving data sources and implementing those. We have already started work to develop our own traffic data server, stay tuned.
