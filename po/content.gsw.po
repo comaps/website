@@ -419,6 +419,25 @@ msgstr "Über eus"
 msgid "Unlock the potential of navigation! Discover offline maps, privacy-centric features, and a community-driven app"
 msgstr "Entdeck s Potenzial vo Navigation, mit Offline-Charte, dateschutzorientierte Features und enere vo de Community entwicklete App"
 
+#. type: Yaml Front Matter Hash Value: extra app_verifier description
+#: content/download/index.md
+#, no-wrap
+msgid "To verify the app when downloading it as an APK or via Obtainium you can use this fingerprint:"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: extra app_verifier title
+#: content/download/index.md
+#, no-wrap
+msgid "Verifying the Android app"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: extra releases title
+#: content/download/index.md
+#, fuzzy, no-wrap
+#| msgid "Releases"
+msgid "Latest Releases"
+msgstr "Releases"
+
 #. type: Yaml Front Matter Hash Value: title
 #: content/download/index.md
 #, no-wrap

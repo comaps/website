@@ -4,6 +4,11 @@ description: Unlock the potential of navigation! Discover offline maps, privacy-
 template: download.html
 weight: 10
 extra:
+  app_verifier:
+    title: "Verifying the Android app"
+    description: "To verify the app when downloading it as an APK or via Obtainium you can use this fingerprint:"
+  releases:
+    title: "Latest Releases"
   mobile_payment_title: Mobile
   desktop_payment_title: Desktop
   mobile_payment_methods_1: iOS

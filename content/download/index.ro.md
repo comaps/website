@@ -1,6 +1,9 @@
 ---
 description: "Dezlănțuie potențialul navigației! Descoperă hărți offline, funcții axate pe confidențialitate și o aplicație susținută de comunitate"
 extra:
+  app_verifier:
+    description: "To verify the app when downloading it as an APK or via Obtainium you can use this fingerprint:"
+    title: "Verifying the Android app"
   desktop_payment_methods_1: MacOS
   desktop_payment_methods_2: Linux
   desktop_payment_title: Desktop
@@ -14,6 +17,8 @@ extra:
   mobile_shop_name_3: F-Droid
   mobile_shop_name_4: AppGallery
   mobile_shop_name_5: Obtainium
+  releases:
+    title: "Latest Releases"
 template: download.html
 title: "Descarcă CoMaps"
 weight: 10

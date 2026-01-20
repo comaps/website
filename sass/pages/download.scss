@@ -51,6 +51,19 @@
       }
     }
   }
+    &__verification {
+        padding: 26rem 16rem 24rem;
+        margin-top: 10rem;
+        border-radius: 10rem;
+        // border: 1px solid var(--common-line-color);
+        display: flex;
+        gap: 10rem;
+        flex-direction: column;
+        justify-content: space-between;
+        overflow-wrap: break-word;
+        background: var(--bg-device-content);
+      }
+
 
     &__content-item {
         padding: 26rem 16rem 24rem;
@@ -100,6 +113,11 @@
     @media (max-width: $media-md) {
       flex-direction: column;
     }
+  }
+
+  &__release_title {
+    margin-top: 20rem;
+    margin-bottom: 30rem;
   }
 }
 

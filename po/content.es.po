@@ -418,6 +418,25 @@ msgstr "Acerca de"
 msgid "Unlock the potential of navigation! Discover offline maps, privacy-centric features, and a community-driven app"
 msgstr "¡Desbloquea el potencial de la navegación! Descubre los mapas sin conexión, funcionalidades centradas en la privacidad, y una aplicación dirigida por la comunidad"
 
+#. type: Yaml Front Matter Hash Value: extra app_verifier description
+#: content/download/index.md
+#, no-wrap
+msgid "To verify the app when downloading it as an APK or via Obtainium you can use this fingerprint:"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: extra app_verifier title
+#: content/download/index.md
+#, no-wrap
+msgid "Verifying the Android app"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: extra releases title
+#: content/download/index.md
+#, fuzzy, no-wrap
+#| msgid "Releases"
+msgid "Latest Releases"
+msgstr "Lanzamientos"
+
 #. type: Yaml Front Matter Hash Value: title
 #: content/download/index.md
 #, no-wrap

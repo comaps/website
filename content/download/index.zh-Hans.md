@@ -1,6 +1,9 @@
 ---
 description: 释放导航的潜能！探索以离线为模式、以隐私为中心、以社区为主导的地图应用
 extra:
+  app_verifier:
+    description: "To verify the app when downloading it as an APK or via Obtainium you can use this fingerprint:"
+    title: "Verifying the Android app"
   desktop_payment_methods_1: MacOS
   desktop_payment_methods_2: Linux
   desktop_payment_title: Desktop
@@ -14,6 +17,8 @@ extra:
   mobile_shop_name_3: F-Droid
   mobile_shop_name_4: AppGallery
   mobile_shop_name_5: Obtainium
+  releases:
+    title: "Latest Releases"
 template: download.html
 title: "下载 CoMaps"
 weight: 10
