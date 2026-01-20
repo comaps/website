@@ -65,7 +65,11 @@
     </div>
 </section> #}
 <section class="about-news">
-    {% set media_highlights = load_data(path="data/media-highlights.yaml") %}
+    {% set lang_media_file = "data/media-highlights." ~ lang ~ ".yaml" %}
+    {% set media_highlights = load_data(path=lang_media_file, required=False) %}
+    {% if not media_highlights %}
+        {% set media_highlights = load_data(path="data/media-highlights.yaml") %}
+    {% endif %}
     <div class="container about-news__row">
         <h2 class="h6-bold about-news__title">{{page.extra.media_highlights.title}}</h2>
         <div class="about-news__content">
