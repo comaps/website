@@ -100,6 +100,59 @@
 </section>
 {% endmacro card_post %}
 
+{% macro coverage_card_post(page) %}
+<section class="post-min" {% if page.translations | length <= 1 %} dir="auto"{% endif %}>
+    <!-- Display wide images below the text instead of to the right. -->
+    {% set_global noflex = '' %}
+    {% for photo in page.assets %}
+        {% set meta = get_image_metadata(path=photo) %}
+        {% if meta.width > meta.height %}
+            {% set_global noflex = '_noflex' %}
+            {% break %}
+        {% endif %}
+    {% endfor %}
+    <a class="post-min__img" href="{{ page.path | safe }}">
+        {% if page.assets %}
+            {% for photo in page.assets | sort %}
+                <img class="post-min__img post-min__img--one" src="{{ page.path | safe }}{{ photo | split(pat='/') | last }}"/>
+            {% endfor %}
+        {% else %}
+            <img class="post-min__img post-min__img--one" src="/images/post/img2.png"/>
+        {% endif %}
+    </a>
+    {% if page.title %}
+        <a class="post-min__title-holder" href="{{ page.path | safe }}">
+            <h2 class="h2-sub_v2 post-min__title">
+                {{ page.title | safe }}
+            </h2>
+        </a>
+    {% endif %}
+    <div class="line post-min__line"></div>
+    <div class="post-min__dates">
+        <div class="post-min__date">
+            <time class="p-sm post-min__date-title" datetime="{{ page.date }}">
+                {{ page.date | date(format='%B %e, %Y') }}
+            </time>
+            <!-- <span class="p-sm post-min__date-title">{{ page.date | date(format='%B %e, %Y') }}</span> -->
+        </div>
+        <div class="post-min__date">
+            <span class="p-sm post-min__date-title">
+                {% for term in page.taxonomies.coverage_type%}{{ term }}{% endfor %}
+            </span>
+        </div>
+    </div>
+    {% if page.description %}
+        <p class="p-card post-min__text">
+            {{ page.description | safe }}
+        </p>
+    {% endif %}
+    <div class="p-text">
+        {{ page.content | striptags | truncate(length=120) }}
+    </div>
+    <a class="p-sm post-min__link" href="{{ page.path | safe }}">{{ trans(key='more_title', lang=lang) }}</a>
+</section>
+{% endmacro coverage_card_post %}
+
 
 {% macro pagination(base_url) %}
 {% if paginator.number_pagers > 1 %}

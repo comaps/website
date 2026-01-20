@@ -371,6 +371,18 @@ msgstr "**CoMaps** 社区和非营利项目以 Organic Maps 源代码为基础�
 msgid "History"
 msgstr "历史沿革"
 
+#. type: Yaml Front Matter Hash Value: extra media_highlights description
+#: content/about-us/index.md
+#, no-wrap
+msgid "See the full list of media coverage about CoMaps."
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: extra media_highlights title
+#: content/about-us/index.md
+#, no-wrap
+msgid "Media Highlights"
+msgstr ""
+
 #. type: Yaml Front Matter Hash Value: extra vm items text
 #: content/about-us/index.md
 #, no-wrap

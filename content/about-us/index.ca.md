@@ -19,6 +19,9 @@ extra:
         text: "La comunitat i el projecte sense ànim de lucre **CoMaps** van ser fundats per antics col·laboradors d'Organic Maps, basant-se en el codi font d'Organic Maps."
         year: 2025
     title: Història
+  media_highlights:
+    description: "See the full list of media coverage about CoMaps."
+    title: "Media Highlights"
   vm:
     items:
       - icon: /images/icons/about/mission.svg

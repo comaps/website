@@ -19,6 +19,9 @@ extra:
         text: "Сообщество и некоммерческий проект **CoMaps** были основаны бывшими участниками Organic Maps на основе исходного кода Organic Maps."
         year: 2025
     title: История
+  media_highlights:
+    description: "See the full list of media coverage about CoMaps."
+    title: "Media Highlights"
   vm:
     items:
       - icon: /images/icons/about/mission.svg

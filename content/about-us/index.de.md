@@ -19,6 +19,9 @@ extra:
         text: "Das Projekt **CoMaps** wird als Gemeinschaftsprojekt ohne Gewinnorientierung von früheren Organic-Maps-Mitwirkenden basierend auf dem Quellcode von Organic Maps gegründet."
         year: 2025
     title: Geschichte
+  media_highlights:
+    description: "See the full list of media coverage about CoMaps."
+    title: "Media Highlights"
   vm:
     items:
       - icon: /images/icons/about/mission.svg

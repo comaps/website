@@ -19,6 +19,9 @@ extra:
         text: "A **CoMaps** közösségi és non-profit projektet az Organic Maps korábbi munkatársai alapították, az Organic Maps forráskódjára alapozva."
         year: 2025
     title: Előzmények
+  media_highlights:
+    description: "See the full list of media coverage about CoMaps."
+    title: "Media Highlights"
   vm:
     items:
       - icon: /images/icons/about/mission.svg

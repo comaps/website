@@ -370,6 +370,18 @@ msgstr "Varasemad Organic Mapsi kaasautorid loovad **CoMapsi** kogukonna ja mitt
 msgid "History"
 msgstr "Ajalugu"
 
+#. type: Yaml Front Matter Hash Value: extra media_highlights description
+#: content/about-us/index.md
+#, no-wrap
+msgid "See the full list of media coverage about CoMaps."
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: extra media_highlights title
+#: content/about-us/index.md
+#, no-wrap
+msgid "Media Highlights"
+msgstr ""
+
 #. type: Yaml Front Matter Hash Value: extra vm items text
 #: content/about-us/index.md
 #, no-wrap

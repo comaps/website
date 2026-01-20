@@ -19,6 +19,9 @@ extra:
         text: "**CoMaps** komunitatea eta irabazi asmorik gabeko proiektua Organic Maps-eko kolaboratzaile ohiek sortu zuten, Organic Maps iturburu-kodean oinarrituta."
         year: 2025
     title: Historia
+  media_highlights:
+    description: "See the full list of media coverage about CoMaps."
+    title: "Media Highlights"
   vm:
     items:
       - icon: /images/icons/about/mission.svg

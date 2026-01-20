@@ -19,6 +19,9 @@ extra:
         text: "Il progetto comunitario e no-profit **CoMaps** è stato fondato da ex collaboratori di Organic Maps, sulla base del codice sorgente di Organic Maps."
         year: 2025
     title: Cronologia
+  media_highlights:
+    description: "See the full list of media coverage about CoMaps."
+    title: "Media Highlights"
   vm:
     items:
       - icon: /images/icons/about/mission.svg

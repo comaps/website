@@ -19,6 +19,9 @@ extra:
         text: "Comunitatea și proiectul non-profit **CoMaps** au fost fondate de foști contribuitori la Organic Maps, pe baza codului sursă al acestuia."
         year: 2025
     title: Istoric
+  media_highlights:
+    description: "See the full list of media coverage about CoMaps."
+    title: "Media Highlights"
   vm:
     items:
       - icon: /images/icons/about/mission.svg

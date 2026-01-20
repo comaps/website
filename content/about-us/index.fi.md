@@ -19,6 +19,9 @@ extra:
         text: "**CoMaps**-yhteisön ja voittoa tavoittelematon projektin perustivat entiset Organic Maps -vapaaehtoiset. Pohjana käytettiin Organic Mapsin lähdekoodia."
         year: 2025
     title: Historia
+  media_highlights:
+    description: "See the full list of media coverage about CoMaps."
+    title: "Media Highlights"
   vm:
     items:
       - icon: /images/icons/about/mission.svg

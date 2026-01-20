@@ -14,7 +14,8 @@ feed_filenames = ["atom.xml", "rss.xml"]
 taxonomies = [
     # {name = "faq", feed = false},
     {name = "support", feed = false},
-    {name = "category", paginate_by = 50, feed = true}
+    {name = "category", paginate_by = 50, feed = true},
+    {name = "coverage_type", paginate_by = 50, feed = true},
 ]
 
 # Whether to build a search index to be used later on by a JavaScript library

@@ -67,7 +67,7 @@
 <section class="about-news">
     {% set media_highlights = load_data(path="data/media-highlights.yaml") %}
     <div class="container about-news__row">
-        <h2 class="h6-bold about-news__title">Media Highlights</h2>
+        <h2 class="h6-bold about-news__title">{{page.extra.media_highlights.title}}</h2>
         <div class="about-news__content">
             {% for i in media_highlights.items %}
                 <a href="{{ i.link }}" target="_blank" class="post-min">
@@ -87,6 +87,13 @@
                     <div class="p-sm post-min__link">More</div>
                 </a>
             {% endfor %}
+        </div>
+        <div class="about-news__footer">
+            <h3>
+                <a href="/media-coverage">
+                    {{ page.extra.media_highlights.description }}
+                </a>
+            </h3>
         </div>
     </div>
 </section>

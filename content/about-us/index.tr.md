@@ -19,6 +19,9 @@ extra:
         text: "**CoMaps** topluluğu ve kar amacı gütmeyen proje, Organic Maps kaynak koduna dayanarak eski Organic Maps katılımcıları tarafından kuruldu."
         year: 2025
     title: Geçmiş
+  media_highlights:
+    description: "See the full list of media coverage about CoMaps."
+    title: "Media Highlights"
   vm:
     items:
       - icon: /images/icons/about/mission.svg

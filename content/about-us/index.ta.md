@@ -19,6 +19,9 @@ extra:
         text: "**CoMaps** சமூகம் & இலாப நோக்கற்ற திட்டம், ஆர்கானிக் மேப்ச் மூலக் குறியீட்டின் அடிப்படையில் முன்னாள் ஆர்கானிக் வரைபட பங்களிப்பாளர்களால் நிறுவப்பட்டது."
         year: 2025
     title: வரலாறு
+  media_highlights:
+    description: "See the full list of media coverage about CoMaps."
+    title: "Media Highlights"
   vm:
     items:
       - icon: /images/icons/about/mission.svg

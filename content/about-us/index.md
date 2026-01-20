@@ -32,4 +32,7 @@ extra:
       - year: 2025
         text: The **CoMaps** community & non-profit project was founded by former Organic Maps contributors, based on the Organic Maps source code.
         highlight: true
+  media_highlights:
+    title: Media Highlights
+    description: See the full list of media coverage about CoMaps.
 ---

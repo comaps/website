@@ -19,6 +19,9 @@ extra:
         text: "**CoMaps** 社区和非营利项目以 Organic Maps 源代码为基础，由 Organic Maps 昔日的贡献者所创建。"
         year: 2025
     title: 历史沿革
+  media_highlights:
+    description: "See the full list of media coverage about CoMaps."
+    title: "Media Highlights"
   vm:
     items:
       - icon: /images/icons/about/mission.svg

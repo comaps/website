@@ -19,6 +19,9 @@ extra:
         text: "De **CoMaps** community & non-profitproject werden opgericht door voormalige bijdragers aan Organic Maps, gebaseerd op de Organic Maps-broncode."
         year: 2025
     title: Geschiedenis
+  media_highlights:
+    description: "See the full list of media coverage about CoMaps."
+    title: "Media Highlights"
   vm:
     items:
       - icon: /images/icons/about/mission.svg

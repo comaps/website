@@ -1,0 +1,45 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<br>
+<br>
+<br>
+<div class="single-news">
+  <div class="container single-news__row">
+    <div class="single-news__item">
+      <div style="height: var(--spacer);"></div>
+      <h1 class="h1 post-min__title">{{ resource.title | safe }}</h1>
+      <div class="line post-min__line"></div>
+      <div class="post-min">
+        <div class="post-min__dates">
+          <div class="post-min__date">
+            <span class="p-sm post-min__date-title">{{ resource.date | date(format='%B %e, %Y') }}</span>
+          </div>
+          <div class="post-min__date">
+            <span class="p-sm post-min__date-title">{% if page.extra.author %}{% if page.extra.author_username %}<a href="https://codeberg.org/{{ page.extra.author_username  }}">{% endif %}{{ page.extra.author  }}{% if page.extra.author_username %}</a>{% endif %}{% else %}The CoMaps Team{% endif %}</span>
+          </div>
+          <div class="post-min__date">
+            <span class="p-sm post-min__date-title">
+                {% for term in page.taxonomies.coverage_type%}{{ term }}{% endfor %}
+            </span>
+          </div>
+        </div>
+        <div style="height: calc(var(--spacer) / 2);"></div>
+        <div class="post-min__content">
+          <div class="post-min__img" href="{{ page.path | safe }}">
+              {% if page.assets %}
+                  {% for photo in page.assets | sort %}
+                      <img class="post-min__img post-min__img--one" src="{{ page.path | safe }}{{ photo | split(pat='/') | last }}"/>
+                  {% endfor %}
+              {% else %}
+                  <img class="post-min__img post-min__img--one" src="/images/post/img2.png"/>
+              {% endif %}
+          </div>
+          <div class="news-content">
+            {{ resource.content | safe }}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+{% endblock content %}

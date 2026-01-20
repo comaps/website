@@ -19,6 +19,9 @@ extra:
         text: "The **CoMaps** community & non-profit project was founded by former Organic Maps contributors, based on the Organic Maps source code."
         year: 2025
     title: تاریخ
+  media_highlights:
+    description: "See the full list of media coverage about CoMaps."
+    title: "Media Highlights"
   vm:
     items:
       - icon: /images/icons/about/mission.svg

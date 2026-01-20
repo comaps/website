@@ -1,0 +1,57 @@
+{% extends 'base.html' %}
+{% import "macros/macros.html" as macros %}
+
+{% block meta %}
+{# TODO: For translated pages the following code generates: Function call 'get_section' failed, Section `` not found  #}
+{# set latestStr = resource.subsections | sort | last #}
+{# set latestSection = get_section(path=latestStr) #}
+{# set latestPage = latestSection.pages | first #}
+{% set latestPage = section.pages | first %}
+<!-- <meta property="article:published_time" content="{# latestPage.date #}"> -->
+{% endblock meta %}
+
+{% block content %}
+{{ macros::showcase_inner(title=resource.title, desp=resource.description) }}
+<div class="container  main-news__nav">
+    <div class="main-news__nav-row">
+        <a class="button button--main" href="/media-coverage/">All</a>
+        {% set categories = get_taxonomy(kind="coverage_type") %}
+        {% for term in categories.items %}
+            <a class="button button--line" href="{{ term.permalink }}">{{ term.name }}</a>
+        {% endfor %}
+    </div>
+</div>
+<div class="container main-news__row">
+    {# Iterate and use en sections by default and use localized versions only if they are present #}
+    {% set enNewsSectionTranslation = section.translations | filter(attribute='lang', value='en') | first %}
+    {% set enNewsSection = get_section(path=enNewsSectionTranslation.path) %}
+
+    {# {% for sectionStr in enNewsSection.subsections | sort | reverse %}
+        {% set section = get_section(path=sectionStr) %}
+
+        {% for page in section.pages %}
+            {% set translatedPage = page.translations | filter(attribute='lang', value=lang) | first %}
+            {% if translatedPage %} #}
+                {# set page = get_page(path=translatedPage.path) #}
+            {# {% endif %}
+
+            {{ macros::coverage_card_post(page=page) }}
+
+        {% endfor %}
+    {% endfor %} #}
+
+    {% if paginator %}
+        {% set pages = paginator.pages %}
+    {% else %}
+        {% set pages = section.pages %}
+    {% endif %}
+    {% for page in pages %}
+        {{ macros::coverage_card_post(page=page) }}
+    {% endfor %}
+</div>
+{% if paginator %}
+    {{ macros::pagination(base_url=section.permalink) }}
+{% endif %}
+
+{% include 'section/donate.html' %}
+{% endblock content %}

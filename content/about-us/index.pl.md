@@ -19,6 +19,9 @@ extra:
         text: "Społeczność i projekt non-profit **CoMaps** zostały założone przez byłych współtwórców Organic Maps na bazie kodu źródłowego Organic Maps."
         year: 2025
     title: Historia
+  media_highlights:
+    description: "See the full list of media coverage about CoMaps."
+    title: "Media Highlights"
   vm:
     items:
       - icon: /images/icons/about/mission.svg

@@ -19,6 +19,9 @@ extra:
         text: "Komunitas & proyek nirlaba **CoMaps** didirikan oleh para mantan kontributor Organic Maps, berdasarkan kode sumber Organic Maps."
         year: 2025
     title: Sejarah
+  media_highlights:
+    description: "See the full list of media coverage about CoMaps."
+    title: "Media Highlights"
   vm:
     items:
       - icon: /images/icons/about/mission.svg

@@ -19,6 +19,9 @@ extra:
         text: "S Projekt **CoMaps** wird als Community- und nöd gwünnorientierts Projekt vo früehnere Organic Maps-Mitwirkende basierend uf em Quellcode vo Organic Maps gründet."
         year: 2025
     title: Gschicht
+  media_highlights:
+    description: "See the full list of media coverage about CoMaps."
+    title: "Media Highlights"
   vm:
     items:
       - icon: /images/icons/about/mission.svg

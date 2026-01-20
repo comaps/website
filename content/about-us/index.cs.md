@@ -19,6 +19,9 @@ extra:
         text: "Původní přispěvatelé Organic Maps založili komunitu a neziskový projekt **CoMaps**, založený na zdrojovém kódu projektu Organic Maps."
         year: 2025
     title: Historie
+  media_highlights:
+    description: "See the full list of media coverage about CoMaps."
+    title: "Media Highlights"
   vm:
     items:
       - icon: /images/icons/about/mission.svg

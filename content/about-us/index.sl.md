@@ -19,6 +19,9 @@ extra:
         text: "Skupnost in nepridobitni projekt **CoMaps** so ustanovili nekdanji sodelavci Organic Maps, na podlagi izvorne kode the Organic Maps."
         year: 2025
     title: Zgodovina
+  media_highlights:
+    description: "See the full list of media coverage about CoMaps."
+    title: "Media Highlights"
   vm:
     items:
       - icon: /images/icons/about/mission.svg
