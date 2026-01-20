@@ -3,6 +3,8 @@ title: "How can I edit the map in CoMaps?"
 description: "Frequently asked questions for CoMaps application"
 taxonomies:
   support: ["Map Editing"]
+aliases:
+  - support/editing-with-CoMaps
 extra:
   tags: ["Android", "iPhone & iPad"]
   order: 80

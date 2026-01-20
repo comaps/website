@@ -8,7 +8,7 @@ extra:
   order: 100
 ---
 
-CoMaps includes a simple and easy-to-use editor that you can use to [edit the map](@/support/editing-with-CoMaps/index.md). The editor is, however, limited and only allows to add and update simple point features, that means no building outlines, roads, lakes, towns, etc. If you want to change something that can not be edited with the built-in editor, this is the right FAQ page to read.
+CoMaps includes a simple and easy-to-use editor that you can use to [edit the map](@/support/editing-with-comaps/index.md). The editor is, however, limited and only allows to add and update simple point features, that means no building outlines, roads, lakes, towns, etc. If you want to change something that can not be edited with the built-in editor, this is the right FAQ page to read.
 
 As all map data used in CoMaps comes from [OpenStreetMap (OSM)](https://www.openstreetmap.org), you can directly update the map there. Your modifications will then be included into CoMaps with the next map update.
 
