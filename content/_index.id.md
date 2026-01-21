@@ -46,5 +46,5 @@ extra:
         title: 'Gratis dan Dibangun oleh Komunitas'
 sort_by: weight
 template: home.html
-title: 'Hike, Bike, Drive Offline – Navigate with Privacy'
+title: 'Mendaki, Bersepeda, Berkendara Offline - Navigasi dengan Privasi'
 ---

@@ -6,14 +6,14 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"Last-Translator: gedankenstuecke <gedankenstuecke@noreply.codeberg.org>\n"
+"Last-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>\n"
 "Language-Team: Ukrainian <https://translate.codeberg.org/projects/comaps/website/uk/>\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.13.2\n"
+"X-Generator: Weblate 5.15.2\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -478,7 +478,7 @@ msgstr ""
 #. type: Plain text
 #: content/privacy/index.md content/terms/index.md
 msgid "If you have any questions or suggestions, please contact us at legal@comaps.app"
-msgstr ""
+msgstr "Якщо у вас є запитання або пропозиції, будь ласка, зв'яжіться з нами за адресою legal@comaps.app"
 
 #. type: Plain text
 #: content/privacy/index.md
@@ -494,7 +494,7 @@ msgstr ""
 #. type: Plain text
 #: content/terms/index.md
 msgid "This app is licensed under the Apache License, Version 2.0 (the \"License\"); This application cannot be used except in compliance with the License."
-msgstr ""
+msgstr "Цей застосунок ліцензований згідно з Apache License, версії 2.0 (далі \"Ліцензія\"); Ви не можете використовувати цей застосунок, за винятком випадків, передбачених Ліцензією."
 
 #. type: Plain text
 #: content/terms/index.md
@@ -504,7 +504,7 @@ msgstr ""
 #. type: Plain text
 #: content/terms/index.md
 msgid "Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License."
-msgstr ""
+msgstr "Якщо цього не вимагає чинне законодавство або не погоджено в письмовій формі, програмне забезпечення, що розповсюджується за цією Ліцензією, розповсюджується на умовах \"ЯК Є\", БЕЗ ГАРАНТІЙ ТА УМОВ БУДЬ-ЯКОГО ВИДУ, явних або неявних. Дивіться Ліцензію, щоб дізнатися про конкретні формулювання, що регулюють дозволи та обмеження за цією Ліцензією."
 
 #. type: Plain text
 #: content/terms/index.md

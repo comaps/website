@@ -3,16 +3,17 @@ title: Terms
 weight: 1000
 ---
 
-This app is licensed under the Apache License, Version 2.0 (the "License");
-This application cannot be used except in compliance with the License.
+Цей застосунок ліцензований згідно з Apache License, версії 2.0 (далі
+"Ліцензія"); Ви не можете використовувати цей застосунок, за винятком
+випадків, передбачених Ліцензією.
 
 Read [the full license text](https://www.apache.org/licenses/LICENSE-2.0).
 
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
-WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
-License for the specific language governing permissions and limitations
-under the License.
+Якщо цього не вимагає чинне законодавство або не погоджено в письмовій
+формі, програмне забезпечення, що розповсюджується за цією Ліцензією,
+розповсюджується на умовах "ЯК Є", БЕЗ ГАРАНТІЙ ТА УМОВ БУДЬ-ЯКОГО ВИДУ,
+явних або неявних. Дивіться Ліцензію, щоб дізнатися про конкретні
+формулювання, що регулюють дозволи та обмеження за цією Ліцензією.
 
 Many libraries and 3rd party tools included into [CoMaps
 repository](https://codeberg.org/comaps/comaps) were developed by multiple
@@ -23,5 +24,5 @@ See
 [data/copyright.html](https://codeberg.org/comaps/comaps/src/branch/main/data/copyright.html)
 file for a full list of copyright notices for the CoMaps application.
 
-If you have any questions or suggestions, please contact us at
-legal@comaps.app
+Якщо у вас є запитання або пропозиції, будь ласка, зв'яжіться з нами за
+адресою legal@comaps.app

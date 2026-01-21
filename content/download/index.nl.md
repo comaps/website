@@ -2,8 +2,8 @@
 description: "Ontgrendel de mogelijkheden van navigatie! Ontdek offline kaarten, privacygerichte functies en een app die door de community is ontwikkeld"
 extra:
   app_verifier:
-    description: "To verify the app when downloading it as an APK or via Obtainium you can use this fingerprint:"
-    title: "Verifying the Android app"
+    description: "Om de app te verifiëren bij het downloaden als APK of via Obtainium kunt u deze vingerafdruk gebruiken:"
+    title: "Verifiëren van de Android app"
   desktop_payment_methods_1: MacOS
   desktop_payment_methods_2: Linux
   desktop_payment_title: Desktop
@@ -18,7 +18,7 @@ extra:
   mobile_shop_name_4: AppGallery
   mobile_shop_name_5: Obtainium
   releases:
-    title: "Latest Releases"
+    title: "Laatste releases"
 template: download.html
 title: "Download CoMaps"
 weight: 10

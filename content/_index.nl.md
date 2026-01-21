@@ -46,5 +46,5 @@ extra:
         title: 'Gratis en gebouwd door de community'
 sort_by: weight
 template: home.html
-title: 'Hike, Bike, Drive Offline – Navigate with Privacy'
+title: 'Wandel, fiets, rijd offline – Navigeren met privacy'
 ---

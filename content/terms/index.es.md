@@ -10,11 +10,11 @@ con la Licencia.
 Puedes leer [el texto completo de la
 licencia](https://www.apache.org/licenses/LICENSE-2.0).
 
-Salvo que lo exija la ley aplicable o se acuerde por escrito, el software
-distribuido bajo esta Licencia se proporciona "TAL CUAL", SIN GARANTÍAS NI
-CONDICIONES DE NINGÚN TIPO, ya sean expresas o implícitas. Consulte la
-Licencia para conocer el lenguaje específico que rige los permisos y las
-limitaciones bajo la Licencia.
+Salvo que lo exija la legislación aplicable o se acuerde por escrito, el
+software distribuido bajo la Licencia se distribuye «TAL CUAL», SIN
+GARANTÍAS NI CONDICIONES DE NINGÚN TIPO, ya sean expresas o
+implícitas. Consulte la Licencia para conocer el lenguaje específico que
+rige los permisos y limitaciones bajo la Licencia.
 
 Muchas bibliotecas y herramientas de terceros incluidas en [el repositorio
 de CoMaps](https://codeberg.org/comaps/comaps) han sido desarrolladas por

@@ -9,7 +9,7 @@ extra:
   services:
     items:
       - 
-        description: 'Plan and navigate your trip abroad with just GPS, no need for mobile data. Search waypoints while on distant hiking trails or bike paths.'
+        description: 'Planifikatu eta nabigatu atzerrirako bidaietan soilik GPSarekin, datu mugikorren beharrik gabe. Bilatu waypointak urruneko mendi-ibilbideetan edo bizikleta-bideetan.'
         highlight:
           icon: static/images/icons/home/wifi-off.svg
           text: 'Ez da internet behar'
@@ -46,5 +46,5 @@ extra:
         title: 'Librea eta komunitateak egina'
 sort_by: weight
 template: home.html
-title: 'Hike, Bike, Drive Offline – Navigate with Privacy'
+title: 'Oinez, bizikletaz, autoz – Nabigatu konexiorik gabe eta pribatutasunez'
 ---

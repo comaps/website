@@ -46,5 +46,5 @@ extra:
         title: 'Gratuíta e feita pola Comunidade'
 sort_by: weight
 template: home.html
-title: 'Hike, Bike, Drive Offline – Navigate with Privacy'
+title: 'A pé, na bici ou automóbil, sen conexión da datos e con Privacidade'
 ---

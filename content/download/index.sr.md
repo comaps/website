@@ -2,8 +2,8 @@
 description: "Откључајте потенцијал навигације! Откријте офлајн мапе, функције усмерене на приватност и апликацију којом управља заједница"
 extra:
   app_verifier:
-    description: "To verify the app when downloading it as an APK or via Obtainium you can use this fingerprint:"
-    title: "Verifying the Android app"
+    description: "Да бисте проверили апликацију када га преузимате као АПК или преко Обтаиниум можете користити овај отисак прста:"
+    title: "Провера Андроид апликације"
   desktop_payment_methods_1: MacOS
   desktop_payment_methods_2: Linux
   desktop_payment_title: Desktop
@@ -18,7 +18,7 @@ extra:
   mobile_shop_name_4: AppGallery
   mobile_shop_name_5: Obtainium
   releases:
-    title: "Latest Releases"
+    title: "Најновија издања"
 template: download.html
 title: "Преузми CoMaps"
 weight: 10

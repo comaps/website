@@ -46,5 +46,5 @@ extra:
         title: 'Vaba ja tasuta ning loodud kogukonna poolt'
 sort_by: weight
 template: home.html
-title: 'Hike, Bike, Drive Offline – Navigate with Privacy'
+title: 'CoMaps - sinu privaatne kaart, mis ei vaja võrguühendust'
 ---

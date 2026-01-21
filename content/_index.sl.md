@@ -36,7 +36,7 @@ extra:
           user: /images/sections/map-m-3.webp
         title: 'Prihrani vašo baterijo'
       - 
-        description: 'Ljudje kot ste vi, pomagajo razvijati to orodje z dodajanjem krajev na <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-open-street-map"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, dajanjem povratnih informacij o zmožnostih orodja in prispevanjem programske kode na <span class="text-icon"><svg viewbox="0 0 4.233 4.233"><use href="#icon-codeberg"></use></svg>[Codeberg](https://codeberg.org/comaps)</span>, da skupaj ustvarimo izvrsten zemljevid. Ta projekt je izpeljanka Organic mAps in Maps.Me in ga poganja odprtokodna skupnost.'
+        description: 'Ljudje kot ste vi, pomagajo razvijati to orodje z dodajanjem krajev na <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-open-street-map"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, dajanjem povratnih informacij o zmožnostih orodja in prispevanjem programske kode na <span class="text-icon"><svg viewbox="0 0 4.233 4.233"><use href="#icon-codeberg"></use></svg>[Codeberg](https://codeberg.org/comaps)</span>, da skupaj ustvarimo izvrsten zemljevid. Ta projekt je izpeljanka Organic Maps in Maps.Me in ga poganja odprtokodna skupnost.'
         highlight:
           icon: static/images/icons/home/heart.svg
           text: 'Brezplačno za vse, ustvarjeno s pozornostjo'

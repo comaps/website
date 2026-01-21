@@ -6,14 +6,14 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"Last-Translator: gedankenstuecke <gedankenstuecke@noreply.codeberg.org>\n"
+"Last-Translator: pestanzul <pestanzul@posteo.me>\n"
 "Language-Team: Italian <https://translate.codeberg.org/projects/comaps/website/it/>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.13.2\n"
+"X-Generator: Weblate 5.15.2\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -113,10 +113,9 @@ msgstr "Gratuito e realizzato dalla comunità"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/_index.md
-#, fuzzy, no-wrap
-#| msgid "Hike, Bike, Drive Offline Navigate with Privacy"
+#, no-wrap
 msgid "Hike, Bike, Drive Offline – Navigate with Privacy"
-msgstr "Escursioni a piedi, in bicicletta, in auto Navigazione offline con privacy"
+msgstr "Escursioni offline a piedi, in bicicletta, in auto – Navigazione con privacy"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/news/_index.md
@@ -144,8 +143,7 @@ msgstr "Dona"
 
 #. type: Yaml Front Matter Hash Value: extra features description
 #: content/community/index.md
-#, fuzzy, no-wrap
-#| msgid "Report bugs, discuss idea, and propose features"
+#, no-wrap
 msgid "Report bugs, discuss ideas, and propose features"
 msgstr "Segnala i bug, discuti idee e proponi funzionalità"
 
@@ -265,10 +263,9 @@ msgstr "Sviluppatori"
 
 #. type: Yaml Front Matter Hash Value: extra funding items text
 #: content/donate/index.md
-#, fuzzy, no-wrap
-#| msgid "We pay for fast servers, so anyone in the world can download free map data updates without delays. The maps data transfers are hundreds of terabytes monthly, and the amount is growing."
+#, no-wrap
 msgid "We have to keep up fast servers, so anyone in the world can download free map data updates without delays. These maps data transfers make up large, and growing, amounts of data each month."
-msgstr "Paghiamo per dei server veloci, in modo che chiunque nel mondo possa scaricare gratuitamente gli aggiornamenti delle mappe senza ritardi. I trasferimenti di dati delle mappe sono centinaia di terabyte al mese e la quantità è in continua crescita."
+msgstr "Dobbiamo mantenere dei server veloci, in modo che chiunque nel mondo possa scaricare gli aggiornamenti gratuiti delle mappe senza ritardi. Questi trasferimenti costituiscono una grande quantità mensile di dati e sono in aumento."
 
 #. type: Yaml Front Matter Hash Value: extra funding items title
 #: content/donate/index.md
@@ -461,58 +458,58 @@ msgstr "L'API è documentata su [comaps.at/api](https://comaps.at/api)."
 #, fuzzy, no-wrap
 #| msgid "Privacy-Centric"
 msgid "Privacy"
-msgstr "Incentrato sulla privacy"
+msgstr "Privacy"
 
 #. type: Plain text
 #: content/privacy/index.md
 msgid "At CoMaps, we respect your privacy. CoMaps does not have any form of identification of people, advertising, or personal data collection."
-msgstr ""
+msgstr "In CoMaps rispettiamo la tua privacy. CoMaps non usa alcuna forma di identificazione delle persone, di pubblicità o di raccolta di dati personali."
 
 #. type: Plain text
 #: content/privacy/index.md
 msgid "CoMaps does not track you."
-msgstr ""
+msgstr "CoMaps non ti traccia."
 
 #. type: Plain text
 #: content/privacy/index.md content/terms/index.md
 msgid "If you have any questions or suggestions, please contact us at legal@comaps.app"
-msgstr ""
+msgstr "Se hai domande o suggerimenti, contattaci a legal@comaps.app"
 
 #. type: Plain text
 #: content/privacy/index.md
 msgid "Policy effective: 2025-05-01"
-msgstr ""
+msgstr "Entrata in vigore della policy: 2025-05-01"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/terms/index.md
 #, no-wrap
 msgid "Terms"
-msgstr ""
+msgstr "Condizioni"
 
 #. type: Plain text
 #: content/terms/index.md
 msgid "This app is licensed under the Apache License, Version 2.0 (the \"License\"); This application cannot be used except in compliance with the License."
-msgstr ""
+msgstr "Questa applicazione è distribuita sotto la licenza Apache, versione 2.0 (la \"Licenza\"); Questa applicazione può essere usata solo secondo le condizioni della Licenza."
 
 #. type: Plain text
 #: content/terms/index.md
 msgid "Read [the full license text](https://www.apache.org/licenses/LICENSE-2.0)."
-msgstr ""
+msgstr "Leggi [il testo completo della licenza](https://www.apache.org/licenses/LICENSE-2.0)."
 
 #. type: Plain text
 #: content/terms/index.md
 msgid "Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License."
-msgstr ""
+msgstr "A meno che sia richiesto dalla legge applicabile o concordato per iscritto, il software distribuito sotto la Licenza è distribuito \"COSÌ COM'È\", SENZA ALCUNA GARANZIA O CONDIZIONE DI ALCUN TIPO, né espressa né tacita. Si veda la Licenza per il linguaggio specifico che regola permessi e limitazioni secondo la Licenza."
 
 #. type: Plain text
 #: content/terms/index.md
 msgid "Many libraries and 3rd party tools included into [CoMaps repository](https://codeberg.org/comaps/comaps) were developed by multiple people and organizations, and licensed in different ways.  Please refer to their LICENSE, COPYING or NOTICE files for terms of use."
-msgstr ""
+msgstr "Molte librerie e strumenti di terze parti inclusi nel [repository di CoMaps](https://codeberg.org/comaps/comaps) sono stati sviluppati da più persone e organizzazioni e distribuiti sotto licenze diverse.  Fai riferimento ai rispettivi file LICENSE, COPYING o NOTICE per le condizioni di utilizzo."
 
 #. type: Plain text
 #: content/terms/index.md
 msgid "See [data/copyright.html](https://codeberg.org/comaps/comaps/src/branch/main/data/copyright.html) file for a full list of copyright notices for the CoMaps application."
-msgstr ""
+msgstr "Vedi il file [data/copyright.html](https://codeberg.org/comaps/comaps/src/branch/main/data/copyright.html) per un elenco completo delle dichiarazioni di copyright per l'applicazione CoMaps."
 
 #. type: Hash Value: all_title
 #: translations.yaml

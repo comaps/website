@@ -46,5 +46,5 @@ extra:
         title: 'Bezplatné a postavené komunitou'
 sort_by: weight
 template: home.html
-title: 'Hike, Bike, Drive Offline – Navigate with Privacy'
+title: 'Pěšky, na kole a autem – Navigace se soukromím'
 ---

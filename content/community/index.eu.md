@@ -5,7 +5,7 @@ extra:
     description: "Aplikazio dohaintzen bidez funtzionatzen du, lagundu hobetzen"
     title: "Dohaintza eman"
   features:
-    - description: "Report bugs, discuss ideas, and propose features"
+    - description: "Erroreen berri eman, ideiak eztabaidatu eta funtzioak proposatu"
       icon: chats.svg
       link: https://codeberg.org/comaps/comaps/issues
       title: "Erroren **berri eman**"

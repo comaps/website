@@ -5,7 +5,7 @@ extra:
     description: "L'app dipende dalle tue donazioni, contribuisci a migliorarla"
     title: Dona
   features:
-    - description: "Report bugs, discuss ideas, and propose features"
+    - description: "Segnala i bug, discuti idee e proponi funzionalità"
       icon: chats.svg
       link: https://codeberg.org/comaps/comaps/issues
       title: "**Segnala** i bug"

@@ -8,7 +8,7 @@ identification of people, advertising, or personal data collection.
 
 CoMaps does not track you.
 
-If you have any questions or suggestions, please contact us at
-legal@comaps.app
+Якщо у вас є запитання або пропозиції, будь ласка, зв'яжіться з нами за
+адресою legal@comaps.app
 
 Policy effective: 2025-05-01

@@ -20,8 +20,8 @@ extra:
         year: 2025
     title: Historie
   media_highlights:
-    description: "See the full list of media coverage about CoMaps."
-    title: "Media Highlights"
+    description: "Podívejte se na celý seznam článků o CoMaps v médiích."
+    title: "Výběr z médií"
   vm:
     items:
       - icon: /images/icons/about/mission.svg

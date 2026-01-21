@@ -13,7 +13,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.15.1\n"
+"X-Generator: Weblate 5.15.2\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -113,8 +113,7 @@ msgstr "Бесплатно и изграђено од стране заједн�
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/_index.md
-#, fuzzy, no-wrap
-#| msgid "Hike, Bike, Drive Offline Navigate with Privacy"
+#, no-wrap
 msgid "Hike, Bike, Drive Offline – Navigate with Privacy"
 msgstr "Путовање пешице, бициклом, вожње у режиму ван мреже, поштујући приватност"
 
@@ -374,13 +373,13 @@ msgstr "Историја"
 #: content/about-us/index.md
 #, no-wrap
 msgid "See the full list of media coverage about CoMaps."
-msgstr ""
+msgstr "Погледајте комплетну листу медијског извјештавања о CoMaps-у."
 
 #. type: Yaml Front Matter Hash Value: extra media_highlights title
 #: content/about-us/index.md
 #, no-wrap
 msgid "Media Highlights"
-msgstr ""
+msgstr "Издвојени медији"
 
 #. type: Yaml Front Matter Hash Value: extra vm items text
 #: content/about-us/index.md
@@ -422,20 +421,19 @@ msgstr "Откључајте потенцијал навигације! Откр
 #: content/download/index.md
 #, no-wrap
 msgid "To verify the app when downloading it as an APK or via Obtainium you can use this fingerprint:"
-msgstr ""
+msgstr "Да бисте проверили апликацију када га преузимате као АПК или преко Обтаиниум можете користити овај отисак прста:"
 
 #. type: Yaml Front Matter Hash Value: extra app_verifier title
 #: content/download/index.md
 #, no-wrap
 msgid "Verifying the Android app"
-msgstr ""
+msgstr "Провера Андроид апликације"
 
 #. type: Yaml Front Matter Hash Value: extra releases title
 #: content/download/index.md
-#, fuzzy, no-wrap
-#| msgid "Releases"
+#, no-wrap
 msgid "Latest Releases"
-msgstr "Верзије"
+msgstr "Најновија издања"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/download/index.md

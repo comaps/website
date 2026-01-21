@@ -46,5 +46,5 @@ extra:
         title: 'Gratuit et développé par la communauté'
 sort_by: weight
 template: home.html
-title: 'Hike, Bike, Drive Offline – Navigate with Privacy'
+title: 'Randonnez, pédalez, conduisez hors-connexion - Déplacez-vous en toute confidentialité'
 ---
