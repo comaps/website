@@ -1,0 +1,22 @@
+items:
+    -
+        title: 'CoMaps, la nouvelle alternative privée à Google Maps est disponible sur iOS et Android'
+        date: 2025-07-04T08:45:00-08:00
+        category: News
+        text: CoMaps tombe à pic avant les sorties et balades estivales.
+        link: https://www.clubic.com/actualite-571410-comaps-la-nouvelle-alternative-privee-a-google-maps-est-disponible-sur-ios-et-android.html
+        media: /images/media/clubic.jpg
+    -
+        title: "Adieu Google Maps : voici CoMaps, l'appli de navigation libre et sans traçage"
+        date: 2025-07-22T00:00:00+00:00
+        category: News
+        text: "elle place le respect de l'utilisateur et l'efficacité au cœur de son fonctionnement"
+        link: https://www.generation-nt.com/actualites/comaps-carte-navigation-privee-batterie-alternative-2060467
+        media: /images/media/generation-nt.png
+    -
+        title: "Même la navigation peut être gratuite & communautaire"
+        date: 2026-01-06T00:00:00+00:00
+        category: News
+        text: "opensource, basé sur des cartes communautaires, totalement fonctionnel hors ligne et donc dans le respect total de la vie privée"
+        link: https://android.smartphonefrance.info/actu.asp?ID=6277
+        media: /images/media/logospf.png
