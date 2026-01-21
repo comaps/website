@@ -455,8 +455,8 @@ msgstr "பநிஇ பக்கம்"
 msgid "The API is documented on [comaps.at/api](https://comaps.at/api)."
 msgstr "பநிஇ ஆனது [comaps.at/api](https://comaps.at/api) இல் ஆவணப்படுத்தப்பட்டுள்ளது."
 
-#. type: Yaml Front Matter Hash Value: title
-#: content/privacy/index.md
+#. type: Hash Value: menu_privacy
+#: content/privacy/index.md translations.yaml
 #, no-wrap
 msgid "Privacy"
 msgstr ""

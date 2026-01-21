@@ -458,8 +458,8 @@ msgstr "Сторінка API"
 msgid "The API is documented on [comaps.at/api](https://comaps.at/api)."
 msgstr "API задокументовано на [comaps.at/api](https://comaps.at/api)."
 
-#. type: Yaml Front Matter Hash Value: title
-#: content/privacy/index.md
+#. type: Hash Value: menu_privacy
+#: content/privacy/index.md translations.yaml
 #, fuzzy, no-wrap
 #| msgid "Privacy-Centric"
 msgid "Privacy"

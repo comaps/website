@@ -457,8 +457,8 @@ msgstr "API orria"
 msgid "The API is documented on [comaps.at/api](https://comaps.at/api)."
 msgstr "APIa [comaps.at/api](https://comaps.at/api))-n dokumentatuta dago."
 
-#. type: Yaml Front Matter Hash Value: title
-#: content/privacy/index.md
+#. type: Hash Value: menu_privacy
+#: content/privacy/index.md translations.yaml
 #, fuzzy, no-wrap
 #| msgid "Privacy-Centric"
 msgid "Privacy"
