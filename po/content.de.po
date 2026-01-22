@@ -279,8 +279,8 @@ msgstr "Infrastruktur"
 msgid "User support, fixing bugs, and improving the stability of the app are our top priority. The list of requests and bug reports grows every day, and there are many support requests to respond to on the App Store, Google Play, and support emails."
 msgstr "Hilfestellung für Benutzer, Fehlerbehebungen und Verbesserung der Stabilität der App sind unsere höchsten Prioritäten. Die Liste der Anfragen und gemeldeten Fehler wächst täglich, und es gibt viele Supportanfragen im App Store, Google Play und via E-Mail."
 
-#. type: Yaml Front Matter Hash Value: title
-#: content/donate/index.md content/support/_index.md
+#. type: Yaml Front Matter Hash Value: extra funding items title
+#: content/donate/index.md
 #, no-wrap
 msgid "Support"
 msgstr "Support"
@@ -314,6 +314,12 @@ msgstr "Mit Deiner Hilfe arbeiten wir auf eine datenschutzorientierten Navigatio
 #, no-wrap
 msgid "Need assistance? Search for answers to common questions. Get the support you need and connect with others in the community for help."
 msgstr "Hilfe benötigt? Finde Antworten zu häufigen Fragen. Erhalte die Unterstützung, die Du brauchst, und tausche Dich mit anderen in der Community aus."
+
+#. type: Hash Value: menu_help
+#: content/support/_index.md translations.yaml
+#, no-wrap
+msgid "Help"
+msgstr "Hilfe"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/about-us/index.md
@@ -580,12 +586,6 @@ msgstr "Deutsch"
 #, no-wrap
 msgid "API"
 msgstr "API"
-
-#. type: Hash Value: menu_help
-#: translations.yaml
-#, no-wrap
-msgid "Help"
-msgstr "Hilfe"
 
 #. type: Hash Value: menu_home
 #: translations.yaml

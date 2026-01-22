@@ -283,8 +283,8 @@ msgstr "زیرساخت"
 msgid "User support, fixing bugs, and improving the stability of the app are our top priority. The list of requests and bug reports grows every day, and there are many support requests to respond to on the App Store, Google Play, and support emails."
 msgstr "پشتیبانی کاربر، رفع اشکالات و بهبود ثبات برنامه اولویت اصلی ما است. لیست درخواست ها و گزارش های باگ هر روز رشد می کند و درخواست های پشتیبانی زیادی برای پاسخ به فروشگاه App Store، Google Play و پشتیبانی از طریق ایمیل وجود دارد."
 
-#. type: Yaml Front Matter Hash Value: title
-#: content/donate/index.md content/support/_index.md
+#. type: Yaml Front Matter Hash Value: extra funding items title
+#: content/donate/index.md
 #, no-wrap
 msgid "Support"
 msgstr "پشتیبانی"
@@ -318,6 +318,12 @@ msgstr "با حمایت شما، ما در حال تلاش برای ناوبری
 #, no-wrap
 msgid "Need assistance? Search for answers to common questions. Get the support you need and connect with others in the community for help."
 msgstr "نیاز به کمک دارید؟ جستجو کنید برای پاسخ به سوالات رایج پشتیبانی مورد نیاز خود را دریافت کنید و با دیگران در جامعه برای کمک ارتباط برقرار کنید."
+
+#. type: Hash Value: menu_help
+#: content/support/_index.md translations.yaml
+#, no-wrap
+msgid "Help"
+msgstr "یاری"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/about-us/index.md
@@ -586,12 +592,6 @@ msgstr "پارسی"
 #, no-wrap
 msgid "API"
 msgstr ""
-
-#. type: Hash Value: menu_help
-#: translations.yaml
-#, no-wrap
-msgid "Help"
-msgstr "یاری"
 
 #. type: Hash Value: menu_home
 #: translations.yaml

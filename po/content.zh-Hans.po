@@ -281,8 +281,8 @@ msgstr "设施"
 msgid "User support, fixing bugs, and improving the stability of the app are our top priority. The list of requests and bug reports grows every day, and there are many support requests to respond to on the App Store, Google Play, and support emails."
 msgstr "用户支持、修复错误、提升应用稳定性是我们的首要任务。错误报告的数量与日俱增，而 App Store、Google Play 和客服邮箱里也有许多支持请求需要回复。"
 
-#. type: Yaml Front Matter Hash Value: title
-#: content/donate/index.md content/support/_index.md
+#. type: Yaml Front Matter Hash Value: extra funding items title
+#: content/donate/index.md
 #, no-wrap
 msgid "Support"
 msgstr "支持我们"
@@ -316,6 +316,12 @@ msgstr "在您的支持下，我们正在努力开发注重隐私的地图导航
 #, no-wrap
 msgid "Need assistance? Search for answers to common questions. Get the support you need and connect with others in the community for help."
 msgstr "需要帮助？搜索常见问题的已知解决方案。获取您所需的支持，并联系社区中的其他人互相帮忙。"
+
+#. type: Hash Value: menu_help
+#: content/support/_index.md translations.yaml
+#, no-wrap
+msgid "Help"
+msgstr "帮助"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/about-us/index.md
@@ -583,12 +589,6 @@ msgstr "简体中文"
 #, no-wrap
 msgid "API"
 msgstr "API"
-
-#. type: Hash Value: menu_help
-#: translations.yaml
-#, no-wrap
-msgid "Help"
-msgstr "帮助"
 
 #. type: Hash Value: menu_home
 #: translations.yaml

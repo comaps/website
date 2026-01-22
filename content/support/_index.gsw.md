@@ -2,6 +2,6 @@
 description: "Hilf brucht? Find Antworte zu hüüfige Frage. Bechum d Unterstützig, wo du bruuchsch, und tuusch dich mit anderne i de Community uus."
 extra:
   faq_title: FAQs
-title: Support
+title: Hilf
 weight: 10
 ---

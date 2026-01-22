@@ -281,8 +281,8 @@ msgstr "உள்கட்டமைப்பு"
 msgid "User support, fixing bugs, and improving the stability of the app are our top priority. The list of requests and bug reports grows every day, and there are many support requests to respond to on the App Store, Google Play, and support emails."
 msgstr "பயனர் உதவி, பிழைகளை சரிசெய்தல் மற்றும் பயன்பாட்டின் நிலைத்தன்மையை மேம்படுத்துதல் ஆகியவை எங்கள் முன்னுரிமை. கோரிக்கைகள் மற்றும் பிழை அறிக்கைகளின் பட்டியல் ஒவ்வொரு நாளும் வளர்ந்து வருகிறது, மேலும் பயன்பாடு Store, Google Play மற்றும் உதவி மின்னஞ்சல்களில் பதிலளிக்க பல உதவி கோரிக்கைகள் உள்ளன."
 
-#. type: Yaml Front Matter Hash Value: title
-#: content/donate/index.md content/support/_index.md
+#. type: Yaml Front Matter Hash Value: extra funding items title
+#: content/donate/index.md
 #, no-wrap
 msgid "Support"
 msgstr "ஆதரவு"
@@ -316,6 +316,12 @@ msgstr "உங்கள் ஆதரவுடன், சந்தையில்
 #, no-wrap
 msgid "Need assistance? Search for answers to common questions. Get the support you need and connect with others in the community for help."
 msgstr "உதவி தேவையா? பொதுவான கேள்விகளுக்கான பதில்களைத் தேடுங்கள். உங்களுக்குத் தேவையான ஆதரவைப் பெற்று, உதவிக்காக சமூகத்தில் உள்ள மற்றவர்களுடன் இணையுங்கள்."
+
+#. type: Hash Value: menu_help
+#: content/support/_index.md translations.yaml
+#, no-wrap
+msgid "Help"
+msgstr "உதவி"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/about-us/index.md
@@ -583,12 +589,6 @@ msgstr "தமிழ்"
 #, no-wrap
 msgid "API"
 msgstr "பநிஇ"
-
-#. type: Hash Value: menu_help
-#: translations.yaml
-#, no-wrap
-msgid "Help"
-msgstr "உதவி"
 
 #. type: Hash Value: menu_home
 #: translations.yaml

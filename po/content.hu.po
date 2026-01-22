@@ -282,8 +282,8 @@ msgstr "Infrastruktúra"
 msgid "User support, fixing bugs, and improving the stability of the app are our top priority. The list of requests and bug reports grows every day, and there are many support requests to respond to on the App Store, Google Play, and support emails."
 msgstr "A felhasználói támogatás, a hibák kijavítása és az alkalmazás stabilitásának javítása elsődleges fontosságú számunkra. A kérések és hibabejelentések listája napról napra növekszik, és számos támogatási kérelem érkezik az App Store-ba, a Google Play-be és a támogatási e-mailekbe."
 
-#. type: Yaml Front Matter Hash Value: title
-#: content/donate/index.md content/support/_index.md
+#. type: Yaml Front Matter Hash Value: extra funding items title
+#: content/donate/index.md
 #, no-wrap
 msgid "Support"
 msgstr "Támogatás"
@@ -317,6 +317,12 @@ msgstr "Az Önök támogatásával olyan adatvédelmi szempontú térképnavigá
 #, no-wrap
 msgid "Need assistance? Search for answers to common questions. Get the support you need and connect with others in the community for help."
 msgstr "Segítségre van szüksége? Keressen válaszokat a gyakori kérdésekre. Szerezze meg a szükséges támogatást, és vegye fel a kapcsolatot a közösség többi tagjával, hogy segítséget kapjon."
+
+#. type: Hash Value: menu_help
+#: content/support/_index.md translations.yaml
+#, no-wrap
+msgid "Help"
+msgstr "Súgó"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/about-us/index.md
@@ -585,12 +591,6 @@ msgstr "Magyar"
 #, no-wrap
 msgid "API"
 msgstr "API"
-
-#. type: Hash Value: menu_help
-#: translations.yaml
-#, no-wrap
-msgid "Help"
-msgstr "Súgó"
 
 #. type: Hash Value: menu_home
 #: translations.yaml

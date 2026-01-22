@@ -279,8 +279,8 @@ msgstr "Infrastruktur"
 msgid "User support, fixing bugs, and improving the stability of the app are our top priority. The list of requests and bug reports grows every day, and there are many support requests to respond to on the App Store, Google Play, and support emails."
 msgstr "Membantu pengguna, memperbaiki bug, dan meningkatkan stabilitas aplikasi adalah prioritas utama kami. Daftar permintaan dan laporan bug bertambah setiap hari, begitu pula banyaknya pertanyaan yang masuk melalui App Store, Google Play, dan email."
 
-#. type: Yaml Front Matter Hash Value: title
-#: content/donate/index.md content/support/_index.md
+#. type: Yaml Front Matter Hash Value: extra funding items title
+#: content/donate/index.md
 #, no-wrap
 msgid "Support"
 msgstr "Bantuan"
@@ -314,6 +314,12 @@ msgstr "Berkat dukunganmu, kami terus berupaya menghadirkan navigasi peta yang b
 #, no-wrap
 msgid "Need assistance? Search for answers to common questions. Get the support you need and connect with others in the community for help."
 msgstr "Butuh bantuan? Cari jawaban atas pertanyaan umum. Dapatkan dukungan yang diperlukan, serta terhubung dengan anggota komunitas lainnya untuk bantuan."
+
+#. type: Hash Value: menu_help
+#: content/support/_index.md translations.yaml
+#, no-wrap
+msgid "Help"
+msgstr "Bantuan"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/about-us/index.md
@@ -581,12 +587,6 @@ msgstr "Bahasa Indonesia"
 #, no-wrap
 msgid "API"
 msgstr "API"
-
-#. type: Hash Value: menu_help
-#: translations.yaml
-#, no-wrap
-msgid "Help"
-msgstr "Bantuan"
 
 #. type: Hash Value: menu_home
 #: translations.yaml
