@@ -1,5 +1,5 @@
 ---
-title: Privacy
+title: 隱私
 weight: 900
 ---
 

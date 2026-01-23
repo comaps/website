@@ -6,6 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
+"PO-Revision-Date: 2026-01-22 17:21+0000\n"
 "Last-Translator: Priit Jõerüüt <jrtcdbrg@noreply.codeberg.org>\n"
 "Language-Team: Estonian <https://translate.codeberg.org/projects/comaps/website/et/>\n"
 "Language: et\n"
@@ -382,13 +383,13 @@ msgstr "Ajalugu"
 #: content/about-us/index.md
 #, no-wrap
 msgid "See the full list of media coverage about CoMaps."
-msgstr ""
+msgstr "Vaata CoMapsi meediakajastuste täielikku loendit."
 
 #. type: Yaml Front Matter Hash Value: extra media_highlights title
 #: content/about-us/index.md
 #, no-wrap
 msgid "Media Highlights"
-msgstr ""
+msgstr "Esiletõstetud meediasündmused"
 
 #. type: Yaml Front Matter Hash Value: extra vm items text
 #: content/about-us/index.md
@@ -430,20 +431,19 @@ msgstr "Tee juhatamine kogu oma ilus! Tutvu vallasrežiimis toimivate kaartidega
 #: content/download/index.md
 #, no-wrap
 msgid "To verify the app when downloading it as an APK or via Obtainium you can use this fingerprint:"
-msgstr ""
+msgstr "Kui soovid kontrollida Obtainiumist või mujalt allalaaditud APK-faili õigsust, siis võid kasutada seda sõrmejälge:"
 
 #. type: Yaml Front Matter Hash Value: extra app_verifier title
 #: content/download/index.md
 #, no-wrap
 msgid "Verifying the Android app"
-msgstr ""
+msgstr "Androidi rakenduse kontrollimine"
 
 #. type: Yaml Front Matter Hash Value: extra releases title
 #: content/download/index.md
-#, fuzzy, no-wrap
-#| msgid "Releases"
+#, no-wrap
 msgid "Latest Releases"
-msgstr "Rakenduse versioonid"
+msgstr "Viimased versioonid"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/download/index.md

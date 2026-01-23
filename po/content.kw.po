@@ -6,6 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
+"PO-Revision-Date: 2026-01-22 20:21+0000\n"
 "Last-Translator: cirilla <cirilla@noreply.codeberg.org>\n"
 "Language-Team: Cornish <https://translate.codeberg.org/projects/comaps/website/kw/>\n"
 "Language: kw\n"
@@ -13,7 +14,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=6; plural=(n == 0) ? 0 : ((n == 1) ? 1 : (((n % 100 == 2 || n % 100 == 22 || n % 100 == 42 || n % 100 == 62 || n % 100 == 82) || n % 1000 == 0 && (n % 100000 >= 1000 && n % 100000 <= 20000 || n % 100000 == 40000 || n % 100000 == 60000 || n % 100000 == 80000) || n != 0 && n % 1000000 == 100000) ? 2 : ((n % 100 == 3 || n % 100 == 23 || n % 100 == 43 || n % 100 == 63 || n % 100 == 83) ? 3 : ((n != 1 && (n % 100 == 1 || n % 100 == 21 || n % 100 == 41 || n % 100 == 61 || n % 100 == 81)) ? 4 : 5))));\n"
-"X-Generator: Weblate 5.15.1\n"
+"X-Generator: Weblate 5.15.2\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -61,7 +62,7 @@ msgstr "Hwithrans Dhywarlinen ha Navigacyon"
 #: content/_index.md
 #, no-wrap
 msgid "The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information. CoMaps was also audited by <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-exodus\"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/)."
-msgstr "An app yw desinys gans privetter yn brys - na aswon tus, na helerghi tus, ha na kuntel neb kudhlow. CoMaps yw arhwilasys maga ta gans <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-exodus\"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/)."
+msgstr "An app yw desinys gans privetter yn brys - na aswon tus, na helerghi tus, ha na kuntel neb kedhlow. CoMaps yw arhwilasys maga ta gans <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-exodus\"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/)."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
@@ -313,7 +314,7 @@ msgstr "Gans dha skoodhyans, on ow lavurya troha navigacyon privedh yw an dewis 
 #: content/support/_index.md
 #, no-wrap
 msgid "Need assistance? Search for answers to common questions. Get the support you need and connect with others in the community for help."
-msgstr "Res gweres? Hwilas rag gorthebow dhe govynnow kemmyn. Kavos an gweres ty res ha omjunya gans re erel yn an kemeneth rag gweres."
+msgstr "Res gweres? Hwilas rag gorthebow dhe govynnow kemmyn. Kavos an gweres ty res ha omjunya gans re erel y'n kemeneth rag gweres."
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/about-us/index.md

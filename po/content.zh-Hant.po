@@ -6,6 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
+"PO-Revision-Date: 2026-01-23 09:21+0000\n"
 "Last-Translator: Supaplextw <supaplextw@noreply.codeberg.org>\n"
 "Language-Team: Chinese (Traditional Han script) <https://translate.codeberg.org/projects/comaps/website/zh_Hant/>\n"
 "Language: zh-Hant\n"
@@ -13,7 +14,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.15.1\n"
+"X-Generator: Weblate 5.15.2\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -61,7 +62,7 @@ msgstr "離線搜尋與路線"
 #: content/_index.md
 #, no-wrap
 msgid "The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information. CoMaps was also audited by <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-exodus\"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/)."
-msgstr ""
+msgstr "這款 app 設計時就考量隱私 - 不會識別人，不會追蹤您，也不會收集任何資訊。CoMaps 也由 <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-exodus\"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/) 來監督。"
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
@@ -95,10 +96,9 @@ msgstr "節省電池電力"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
-#, fuzzy, no-wrap
-#| msgid "People like you helped build the app by adding locations to <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> in the open-source community."
+#, no-wrap
 msgid "People like you are helping build the app by adding locations to <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> to create great maps together. The project is a fork of Organic Maps and Maps.Me, and driven by an open-source community."
-msgstr "如同您一樣的使用者透過向 <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span> 添加地點、測試功能並提供回饋、無私地在 <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> 上的開源社群裡貢獻自己的編碼技能，協力開發了 CoMaps。"
+msgstr "如同您一樣的使用者透過向 <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span> 添加地點、測試功能並提供回饋、無私地在 <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> 上一起創建偉大的地圖。CoMaps 專案是 Organic Maps 以及 Maps.Me 的分支計畫，並且由開源社群驅動。"
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
@@ -114,16 +114,15 @@ msgstr "由社群合作創建的免費應用"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/_index.md
-#, fuzzy, no-wrap
-#| msgid "Hike, Bike, Drive Offline Navigate with Privacy"
+#, no-wrap
 msgid "Hike, Bike, Drive Offline – Navigate with Privacy"
-msgstr "離線遠足、騎行、駕駛⸺隱私保護下的導航"
+msgstr "離線遠足、騎行、駕駛 - 隱私保護下的導航"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/news/_index.md
 #, no-wrap
 msgid "News and Releases"
-msgstr "最新消息和推出"
+msgstr "最新消息和釋出"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/community/index.md
@@ -145,8 +144,7 @@ msgstr "捐款贊助"
 
 #. type: Yaml Front Matter Hash Value: extra features description
 #: content/community/index.md
-#, fuzzy, no-wrap
-#| msgid "Report bugs, discuss idea, and propose features"
+#, no-wrap
 msgid "Report bugs, discuss ideas, and propose features"
 msgstr "報告功能問題、討論構想，並提出建議"
 
@@ -385,13 +383,13 @@ msgstr "歷史沿革"
 #: content/about-us/index.md
 #, no-wrap
 msgid "See the full list of media coverage about CoMaps."
-msgstr ""
+msgstr "詳閱 CoMaps 的完整媒體報導清單。"
 
 #. type: Yaml Front Matter Hash Value: extra media_highlights title
 #: content/about-us/index.md
 #, no-wrap
 msgid "Media Highlights"
-msgstr ""
+msgstr "媒體報導重點"
 
 #. type: Yaml Front Matter Hash Value: extra vm items text
 #: content/about-us/index.md
@@ -439,14 +437,13 @@ msgstr ""
 #: content/download/index.md
 #, no-wrap
 msgid "Verifying the Android app"
-msgstr ""
+msgstr "認證 Android app"
 
 #. type: Yaml Front Matter Hash Value: extra releases title
 #: content/download/index.md
-#, fuzzy, no-wrap
-#| msgid "Releases"
+#, no-wrap
 msgid "Latest Releases"
-msgstr "版本發布"
+msgstr "最新版本發布"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/download/index.md
@@ -467,10 +464,9 @@ msgstr "API 參考資料在 [comaps.at/api](https://comaps.at/api)。"
 
 #. type: Hash Value: menu_privacy
 #: content/privacy/index.md translations.yaml
-#, fuzzy, no-wrap
-#| msgid "Privacy-Centric"
+#, no-wrap
 msgid "Privacy"
-msgstr "以隱私為中心"
+msgstr "隱私"
 
 #. type: Plain text
 #: content/privacy/index.md

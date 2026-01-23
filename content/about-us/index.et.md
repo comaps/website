@@ -20,8 +20,8 @@ extra:
         year: 2025
     title: Ajalugu
   media_highlights:
-    description: "See the full list of media coverage about CoMaps."
-    title: "Media Highlights"
+    description: "Vaata CoMapsi meediakajastuste täielikku loendit."
+    title: "Esiletõstetud meediasündmused"
   vm:
     items:
       - icon: /images/icons/about/mission.svg

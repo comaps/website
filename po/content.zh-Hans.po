@@ -6,6 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
+"PO-Revision-Date: 2026-01-23 03:21+0000\n"
 "Last-Translator: Outbreak2096 <outbreak2096@noreply.codeberg.org>\n"
 "Language-Team: Chinese (Simplified Han script) <https://translate.codeberg.org/projects/comaps/website/zh_Hans/>\n"
 "Language: zh-Hans\n"
@@ -13,7 +14,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.15.1\n"
+"X-Generator: Weblate 5.15.2\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -113,10 +114,9 @@ msgstr "自由且社区共建"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/_index.md
-#, fuzzy, no-wrap
-#| msgid "Hike, Bike, Drive Offline Navigate with Privacy"
+#, no-wrap
 msgid "Hike, Bike, Drive Offline – Navigate with Privacy"
-msgstr "离线远足、骑行、驾驶⸺隐私保护下的导航"
+msgstr "离线远足、骑行、驾驶 – 隐私保护下的导航"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/news/_index.md
@@ -144,10 +144,9 @@ msgstr "捐助我们"
 
 #. type: Yaml Front Matter Hash Value: extra features description
 #: content/community/index.md
-#, fuzzy, no-wrap
-#| msgid "Report bugs, discuss idea, and propose features"
+#, no-wrap
 msgid "Report bugs, discuss ideas, and propose features"
-msgstr "报告功能问题、讨论想法，并提出建议"
+msgstr "报告错误、讨论想法、提出建议"
 
 #. type: Yaml Front Matter Hash Value: extra features title
 #: content/community/index.md
@@ -384,13 +383,13 @@ msgstr "历史沿革"
 #: content/about-us/index.md
 #, no-wrap
 msgid "See the full list of media coverage about CoMaps."
-msgstr ""
+msgstr "查看关于 CoMaps 的完整媒体报道列表。"
 
 #. type: Yaml Front Matter Hash Value: extra media_highlights title
 #: content/about-us/index.md
 #, no-wrap
 msgid "Media Highlights"
-msgstr ""
+msgstr "媒体精选"
 
 #. type: Yaml Front Matter Hash Value: extra vm items text
 #: content/about-us/index.md
@@ -432,20 +431,19 @@ msgstr "释放导航的潜能！探索以离线为模式、以隐私为中心、
 #: content/download/index.md
 #, no-wrap
 msgid "To verify the app when downloading it as an APK or via Obtainium you can use this fingerprint:"
-msgstr ""
+msgstr "下载 APK 或通过 Obtainium 下载时，您可以使用此指纹验证该应用："
 
 #. type: Yaml Front Matter Hash Value: extra app_verifier title
 #: content/download/index.md
 #, no-wrap
 msgid "Verifying the Android app"
-msgstr ""
+msgstr "验证 Android 应用"
 
 #. type: Yaml Front Matter Hash Value: extra releases title
 #: content/download/index.md
-#, fuzzy, no-wrap
-#| msgid "Releases"
+#, no-wrap
 msgid "Latest Releases"
-msgstr "发布"
+msgstr "最新发布"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/download/index.md

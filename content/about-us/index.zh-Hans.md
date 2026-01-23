@@ -20,8 +20,8 @@ extra:
         year: 2025
     title: 历史沿革
   media_highlights:
-    description: "See the full list of media coverage about CoMaps."
-    title: "Media Highlights"
+    description: "查看关于 CoMaps 的完整媒体报道列表。"
+    title: 媒体精选
   vm:
     items:
       - icon: /images/icons/about/mission.svg

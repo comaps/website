@@ -5,7 +5,7 @@ extra:
     description: "Această aplicație există datorită donațiilor voastre. Ajutați-ne să o îmbunătățim"
     title: Donează
   features:
-    - description: "Report bugs, discuss ideas, and propose features"
+    - description: "Raportați erori, discutați idei și propuneți funcții"
       icon: chats.svg
       link: https://codeberg.org/comaps/comaps/issues
       title: "**Raportează** Erori"

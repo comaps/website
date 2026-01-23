@@ -5,7 +5,7 @@ extra:
     description: 本应用依靠您的捐赠运行，请帮助改善它
     title: 捐助我们
   features:
-    - description: "Report bugs, discuss ideas, and propose features"
+    - description: 报告错误、讨论想法、提出建议
       icon: chats.svg
       link: https://codeberg.org/comaps/comaps/issues
       title: "**报告** 功能问题"
