@@ -12,22 +12,22 @@ extra:
     title: 捐助我们
   funding:
     items:
-      - media: /images/donate/developers.webp
-        text: 到目前为止，我们没有一个致力于开发新功能和改进服务的全职团队。然而，若要持续推动产品的发展，拥有一个核心团队至关重要。
-        title: 开发者们
       - media: /images/donate/infrastructure.webp
-        text: 我们需维持高速服务器，确保全球用户无延迟下载免费地图数据更新。这些地图数据传输量十分庞大，且每月都在持续增长。
+        text: "We have to keep up fast servers, to update the map files and for you to download them without delays. The maps data transfers make up large, and growing, amounts of data each month."
         title: 设施
       - media: /images/donate/support.webp
         text: "用户支持、修复错误、提升应用稳定性是我们的首要任务。错误报告的数量与日俱增，而 App Store、Google Play 和客服邮箱里也有许多支持请求需要回复。"
         title: 支持我们
+      - media: /images/donate/developers.webp
+        text: "Currently, all development is done by volunteers with limited time. To implement larger, more ambitious features, paying developers might be necessary in the future."
+        title: 开发者们
     title: 资金将用在何处？
   hero_description: "Donate and create better maps together!"
   info:
     - icon: static/images/icons/donate/icon01.svg
-      text: 您的捐款对于维持本应用的开放性和免费性至关重要
+      text: "We rely on your donations to keep CoMaps free to use"
     - icon: static/images/icons/donate/icon02.svg
-      text: 我们是一小群爱好者，利用闲暇之余做贡献，并为此项目花费家财。我们热爱我们的工作，也热爱我们的用户
+      text: "We are a community contributing in our free time. We love what we do, and we love our users"
     - icon: static/images/icons/donate/icon03.svg
       text: 在您的支持下，我们正在努力开发注重隐私的地图导航，成为市场上的首选
   service_text: ~

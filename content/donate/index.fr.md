@@ -12,22 +12,22 @@ extra:
     title: "Faire un don"
   funding:
     items:
-      - media: /images/donate/developers.webp
-        text: "Pour le moment, il n’y a pas d’équipe à temps plein qui travaille pour développer de nouvelles fonctionnalités et améliorer le service. Pour faire progresser le produit de manière constante, une équipe de base est nécessaire."
-        title: Développeurs
       - media: /images/donate/infrastructure.webp
-        text: "Nous exploitons des serveurs performants afin que tout le monde puisse télécharger les mises à jour des données cartographiques gratuitement et rapidement. Ces transferts de données représentent d'énormes volumes par mois et leur nombre augmente."
+        text: "We have to keep up fast servers, to update the map files and for you to download them without delays. The maps data transfers make up large, and growing, amounts of data each month."
         title: Infrastructure
       - media: /images/donate/support.webp
         text: "Le support utilisateur, la correction de bugs et l’amélioration de la stabilité de l’application sont nos priorités. La liste de demandes et de rapports de bugs grandit chaque jour et il faut répondre à de nombreuses demandes d’aide sur l’App Store, Google Play, et les mails de support."
         title: Aide
+      - media: /images/donate/developers.webp
+        text: "Currently, all development is done by volunteers with limited time. To implement larger, more ambitious features, paying developers might be necessary in the future."
+        title: Développeurs
     title: "Comment vos dons seront-ils utilisés ?"
   hero_description: "Donate and create better maps together!"
   info:
     - icon: static/images/icons/donate/icon01.svg
-      text: "Nous dépendons de vos dons pour garder CoMaps ouvert et gratuit"
+      text: "We rely on your donations to keep CoMaps free to use"
     - icon: static/images/icons/donate/icon02.svg
-      text: "Nous sommes quelques enthousiastes qui contribuent sur leur temps libre. Nous aimons ce que nous faisons, et nous aimons nos utilisateurs"
+      text: "We are a community contributing in our free time. We love what we do, and we love our users"
     - icon: static/images/icons/donate/icon03.svg
       text: "Avec votre soutien, nous nous efforçons de mettre en place une navigation cartographique respectueuse de la vie privée qui soit le choix privilégié sur le marché"
   service_text: ~

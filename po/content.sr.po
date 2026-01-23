@@ -251,20 +251,9 @@ msgstr "Донирајте путем Open Collective-a"
 
 #. type: Yaml Front Matter Hash Value: extra funding items text
 #: content/donate/index.md
-#, no-wrap
-msgid "Currently there is no full time team who is working to develop new features and improve the service. To consistently move the product forward, a core team is needed."
-msgstr "Тренутно не постоји тим који ради пуно радно време на развоју нових функционалности и унапређивању сервиса. Да би производ стално напредовао, потребан је посвећен тим."
-
-#. type: Yaml Front Matter Hash Value: extra funding items title
-#: content/donate/index.md
-#, no-wrap
-msgid "Developers"
-msgstr "Програмери"
-
-#. type: Yaml Front Matter Hash Value: extra funding items text
-#: content/donate/index.md
-#, no-wrap
-msgid "We have to keep up fast servers, so anyone in the world can download free map data updates without delays. These maps data transfers make up large, and growing, amounts of data each month."
+#, fuzzy, no-wrap
+#| msgid "We have to keep up fast servers, so anyone in the world can download free map data updates without delays. These maps data transfers make up large, and growing, amounts of data each month."
+msgid "We have to keep up fast servers, to update the map files and for you to download them without delays. The maps data transfers make up large, and growing, amounts of data each month."
 msgstr "Морамо да одржавамо брзе сервере како би свако на свету могао да преузме бесплатна ажурирања мапа без успоравања. Пренос података за мапе износи чини велики део података, који се сваког месеца увећава."
 
 #. type: Yaml Front Matter Hash Value: extra funding items title
@@ -285,6 +274,18 @@ msgstr "Корисничка подршка, исправке багова и п
 msgid "Support"
 msgstr "Подршка"
 
+#. type: Yaml Front Matter Hash Value: extra funding items text
+#: content/donate/index.md
+#, no-wrap
+msgid "Currently, all development is done by volunteers with limited time. To implement larger, more ambitious features, paying developers might be necessary in the future."
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: extra funding items title
+#: content/donate/index.md
+#, no-wrap
+msgid "Developers"
+msgstr "Програмери"
+
 #. type: Yaml Front Matter Hash Value: extra funding title
 #: content/donate/index.md
 #, no-wrap
@@ -293,14 +294,16 @@ msgstr "Како се донације користе?"
 
 #. type: Yaml Front Matter Hash Value: extra info text
 #: content/donate/index.md
-#, no-wrap
-msgid "We rely on your donations to keep CoMaps open and free"
+#, fuzzy, no-wrap
+#| msgid "We rely on your donations to keep CoMaps open and free"
+msgid "We rely on your donations to keep CoMaps free to use"
 msgstr "Ослањамо се на донације да би одржали *CoMaps* отвореним, слободним и бесплатним"
 
 #. type: Yaml Front Matter Hash Value: extra info text
 #: content/donate/index.md
-#, no-wrap
-msgid "We are a few enthusiasts contributing in our free time. We love what we do, and we love our users"
+#, fuzzy, no-wrap
+#| msgid "We are a few enthusiasts contributing in our free time. We love what we do, and we love our users"
+msgid "We are a community contributing in our free time. We love what we do, and we love our users"
 msgstr "Ми смо неколико ентузијаста који доприносе у своје слободно време. Волимо оно што радимо и волимо наше кориснике"
 
 #. type: Yaml Front Matter Hash Value: extra info text
@@ -634,6 +637,10 @@ msgstr "Претражи"
 #, no-wrap
 msgid "Connect with Us"
 msgstr "Контактирајте нас"
+
+#, no-wrap
+#~ msgid "Currently there is no full time team who is working to develop new features and improve the service. To consistently move the product forward, a core team is needed."
+#~ msgstr "Тренутно не постоји тим који ради пуно радно време на развоју нових функционалности и унапређивању сервиса. Да би производ стално напредовао, потребан је посвећен тим."
 
 #, no-wrap
 #~ msgid "The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information."

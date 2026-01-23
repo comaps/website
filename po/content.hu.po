@@ -253,21 +253,9 @@ msgstr "Adományozás az Open Collective-n"
 
 #. type: Yaml Front Matter Hash Value: extra funding items text
 #: content/donate/index.md
-#, no-wrap
-msgid "Currently there is no full time team who is working to develop new features and improve the service. To consistently move the product forward, a core team is needed."
-msgstr "Jelenleg nincs teljes munkaidős csapat, amely az új funkciók fejlesztésén és a szolgáltatás javításán dolgozna. Az alkalmazás következetes fejlesztéséhez szükség van egy alapcsapatra."
-
-#. type: Yaml Front Matter Hash Value: extra funding items title
-#: content/donate/index.md
-#, no-wrap
-msgid "Developers"
-msgstr "Fejlesztők"
-
-#. type: Yaml Front Matter Hash Value: extra funding items text
-#: content/donate/index.md
 #, fuzzy, no-wrap
 #| msgid "We pay for fast servers, so anyone in the world can download free map data updates without delays. The maps data transfers are hundreds of terabytes monthly, and the amount is growing."
-msgid "We have to keep up fast servers, so anyone in the world can download free map data updates without delays. These maps data transfers make up large, and growing, amounts of data each month."
+msgid "We have to keep up fast servers, to update the map files and for you to download them without delays. The maps data transfers make up large, and growing, amounts of data each month."
 msgstr "Fizetünk a gyors szerverekért, így a világon bárki késedelem nélkül letöltheti az ingyenes térképadat-frissítéseket. A térképek adatátvitele havonta több száz terabájtot tesz ki, és a mennyisége folyamatosan növekszik."
 
 #. type: Yaml Front Matter Hash Value: extra funding items title
@@ -288,6 +276,18 @@ msgstr "A felhasználói támogatás, a hibák kijavítása és az alkalmazás s
 msgid "Support"
 msgstr "Támogatás"
 
+#. type: Yaml Front Matter Hash Value: extra funding items text
+#: content/donate/index.md
+#, no-wrap
+msgid "Currently, all development is done by volunteers with limited time. To implement larger, more ambitious features, paying developers might be necessary in the future."
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: extra funding items title
+#: content/donate/index.md
+#, no-wrap
+msgid "Developers"
+msgstr "Fejlesztők"
+
 #. type: Yaml Front Matter Hash Value: extra funding title
 #: content/donate/index.md
 #, no-wrap
@@ -296,14 +296,16 @@ msgstr "Hogyan használjuk fel a befolyt adományokat?"
 
 #. type: Yaml Front Matter Hash Value: extra info text
 #: content/donate/index.md
-#, no-wrap
-msgid "We rely on your donations to keep CoMaps open and free"
+#, fuzzy, no-wrap
+#| msgid "We rely on your donations to keep CoMaps open and free"
+msgid "We rely on your donations to keep CoMaps free to use"
 msgstr "Adományokra támaszkodunk, hogy a CoMaps nyílt és ingyenes maradhasson"
 
 #. type: Yaml Front Matter Hash Value: extra info text
 #: content/donate/index.md
-#, no-wrap
-msgid "We are a few enthusiasts contributing in our free time. We love what we do, and we love our users"
+#, fuzzy, no-wrap
+#| msgid "We are a few enthusiasts contributing in our free time. We love what we do, and we love our users"
+msgid "We are a community contributing in our free time. We love what we do, and we love our users"
 msgstr "Mi csak néhány lelkes rajongó vagyunk, a szabadidőnkben járulunk hozzá a projekthez, szeretjük amit csinálunk, és szeretjük a felhasználóinkat"
 
 #. type: Yaml Front Matter Hash Value: extra info text
@@ -639,6 +641,10 @@ msgstr "Keresés"
 #, no-wrap
 msgid "Connect with Us"
 msgstr "Lépjen velünk kapcsolatba"
+
+#, no-wrap
+#~ msgid "Currently there is no full time team who is working to develop new features and improve the service. To consistently move the product forward, a core team is needed."
+#~ msgstr "Jelenleg nincs teljes munkaidős csapat, amely az új funkciók fejlesztésén és a szolgáltatás javításán dolgozna. Az alkalmazás következetes fejlesztéséhez szükség van egy alapcsapatra."
 
 #, no-wrap
 #~ msgid "Offline Maps"

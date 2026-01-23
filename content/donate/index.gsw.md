@@ -12,22 +12,22 @@ extra:
     title: Spende
   funding:
     items:
-      - media: /images/donate/developers.webp
-        text: "Momentan gits keis Team vo Entwickler*inne, zum neui Features z entwickle und d App z verbessere. Zum s Produkt kontinuierlich wiiterzentwickle, wird es Chernteam bruucht."
-        title: Entwickler*inne
       - media: /images/donate/infrastructure.webp
-        text: "Mir müend schnelli Server paratstelle, demit mer weltwiit gratis Charteupdates ohni Verzögerige abelade cha. Die Chartedateüberträgige mached jede Monet grossi und stetig wachsendi Datemengene us."
+        text: "We have to keep up fast servers, to update the map files and for you to download them without delays. The maps data transfers make up large, and growing, amounts of data each month."
         title: Infrastruktur
       - media: /images/donate/support.webp
         text: "User-Support, Bugfixes und Verbesserig vo de Stabilität vo de App sind eusi höchste Prioritäte. D Lischte vo de Aafrage und gmeldete Bugs wachst täglich, und es git vieli Supportaafrage im App Store, Google Play und via Email."
         title: Support
+      - media: /images/donate/developers.webp
+        text: "Currently, all development is done by volunteers with limited time. To implement larger, more ambitious features, paying developers might be necessary in the future."
+        title: Entwickler*inne
     title: "Für was werded d Spende bruucht?"
   hero_description: "Donate and create better maps together!"
   info:
     - icon: static/images/icons/donate/icon01.svg
-      text: "Mir sind uf Spende aagwise, demit CoMaps offe und gratis bliibt"
+      text: "We rely on your donations to keep CoMaps free to use"
     - icon: static/images/icons/donate/icon02.svg
-      text: "Mir sind Enthusiaschte wo i eusere Freiziit biiträged. Mir liebed, was mir mached, und mir liebed eusi Benutzer*inne"
+      text: "We are a community contributing in our free time. We love what we do, and we love our users"
     - icon: static/images/icons/donate/icon03.svg
       text: "Mit diinere Hilf schaffemer an ere dateschutzorientierte Navigationsapp als ersti Wahl uf em Määrt"
   service_text: ~

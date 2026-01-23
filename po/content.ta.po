@@ -253,20 +253,9 @@ msgstr "ஓபன் கலெக்டிவ் மூலம் நன்கொ
 
 #. type: Yaml Front Matter Hash Value: extra funding items text
 #: content/donate/index.md
-#, no-wrap
-msgid "Currently there is no full time team who is working to develop new features and improve the service. To consistently move the product forward, a core team is needed."
-msgstr "தற்போது புதிய அம்சங்களை உருவாக்குவதற்கும் சேவையை மேம்படுத்துவதற்கும் பணிபுரியும் முழுநேர குழு எதுவும் இல்லை. தயாரிப்பை தொடர்ந்து முன்னோக்கி நகர்த்த, ஒரு முக்கிய குழு தேவை."
-
-#. type: Yaml Front Matter Hash Value: extra funding items title
-#: content/donate/index.md
-#, no-wrap
-msgid "Developers"
-msgstr "உருவாக்குநர்கள்"
-
-#. type: Yaml Front Matter Hash Value: extra funding items text
-#: content/donate/index.md
-#, no-wrap
-msgid "We have to keep up fast servers, so anyone in the world can download free map data updates without delays. These maps data transfers make up large, and growing, amounts of data each month."
+#, fuzzy, no-wrap
+#| msgid "We have to keep up fast servers, so anyone in the world can download free map data updates without delays. These maps data transfers make up large, and growing, amounts of data each month."
+msgid "We have to keep up fast servers, to update the map files and for you to download them without delays. The maps data transfers make up large, and growing, amounts of data each month."
 msgstr "நாங்கள் வேகமான சேவையகங்களை வைத்திருக்க வேண்டும், எனவே உலகில் உள்ள எவரும் தாமதமின்றி இலவச வரைபட தரவு புதுப்பிப்புகளை பதிவிறக்கம் செய்யலாம். இந்த வரைபட தரவு பரிமாற்றங்கள் ஒவ்வொரு மாதமும் பெரிய அளவிலான தரவுகளை உருவாக்குகின்றன."
 
 #. type: Yaml Front Matter Hash Value: extra funding items title
@@ -287,6 +276,18 @@ msgstr "பயனர் உதவி, பிழைகளை சரிசெய�
 msgid "Support"
 msgstr "ஆதரவு"
 
+#. type: Yaml Front Matter Hash Value: extra funding items text
+#: content/donate/index.md
+#, no-wrap
+msgid "Currently, all development is done by volunteers with limited time. To implement larger, more ambitious features, paying developers might be necessary in the future."
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: extra funding items title
+#: content/donate/index.md
+#, no-wrap
+msgid "Developers"
+msgstr "உருவாக்குநர்கள்"
+
 #. type: Yaml Front Matter Hash Value: extra funding title
 #: content/donate/index.md
 #, no-wrap
@@ -295,14 +296,16 @@ msgstr "பொருள் எவ்வாறு பயன்படுத்த�
 
 #. type: Yaml Front Matter Hash Value: extra info text
 #: content/donate/index.md
-#, no-wrap
-msgid "We rely on your donations to keep CoMaps open and free"
+#, fuzzy, no-wrap
+#| msgid "We rely on your donations to keep CoMaps open and free"
+msgid "We rely on your donations to keep CoMaps free to use"
 msgstr "CoMaps திறந்த மற்றும் இலவசமாக இருக்க உங்கள் நன்கொடைகளை நம்பியுள்ளோம்"
 
 #. type: Yaml Front Matter Hash Value: extra info text
 #: content/donate/index.md
-#, no-wrap
-msgid "We are a few enthusiasts contributing in our free time. We love what we do, and we love our users"
+#, fuzzy, no-wrap
+#| msgid "We are a few enthusiasts contributing in our free time. We love what we do, and we love our users"
+msgid "We are a community contributing in our free time. We love what we do, and we love our users"
 msgstr "எங்களின் ஓய்வு நேரத்தில் பங்களிக்கும் சில ஆர்வலர்கள் நாங்கள். நாங்கள் செய்வதை விரும்புகிறோம், மேலும் எங்கள் பயனர்களையும் நாங்கள் விரும்புகிறோம்"
 
 #. type: Yaml Front Matter Hash Value: extra info text
@@ -637,3 +640,7 @@ msgstr "தேடல்"
 #, no-wrap
 msgid "Connect with Us"
 msgstr "எங்களுடன் இணையுங்கள்"
+
+#, no-wrap
+#~ msgid "Currently there is no full time team who is working to develop new features and improve the service. To consistently move the product forward, a core team is needed."
+#~ msgstr "தற்போது புதிய அம்சங்களை உருவாக்குவதற்கும் சேவையை மேம்படுத்துவதற்கும் பணிபுரியும் முழுநேர குழு எதுவும் இல்லை. தயாரிப்பை தொடர்ந்து முன்னோக்கி நகர்த்த, ஒரு முக்கிய குழு தேவை."

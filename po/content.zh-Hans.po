@@ -253,20 +253,9 @@ msgstr "使用 Open Collective 捐款"
 
 #. type: Yaml Front Matter Hash Value: extra funding items text
 #: content/donate/index.md
-#, no-wrap
-msgid "Currently there is no full time team who is working to develop new features and improve the service. To consistently move the product forward, a core team is needed."
-msgstr "到目前为止，我们没有一个致力于开发新功能和改进服务的全职团队。然而，若要持续推动产品的发展，拥有一个核心团队至关重要。"
-
-#. type: Yaml Front Matter Hash Value: extra funding items title
-#: content/donate/index.md
-#, no-wrap
-msgid "Developers"
-msgstr "开发者们"
-
-#. type: Yaml Front Matter Hash Value: extra funding items text
-#: content/donate/index.md
-#, no-wrap
-msgid "We have to keep up fast servers, so anyone in the world can download free map data updates without delays. These maps data transfers make up large, and growing, amounts of data each month."
+#, fuzzy, no-wrap
+#| msgid "We have to keep up fast servers, so anyone in the world can download free map data updates without delays. These maps data transfers make up large, and growing, amounts of data each month."
+msgid "We have to keep up fast servers, to update the map files and for you to download them without delays. The maps data transfers make up large, and growing, amounts of data each month."
 msgstr "我们需维持高速服务器，确保全球用户无延迟下载免费地图数据更新。这些地图数据传输量十分庞大，且每月都在持续增长。"
 
 #. type: Yaml Front Matter Hash Value: extra funding items title
@@ -287,6 +276,18 @@ msgstr "用户支持、修复错误、提升应用稳定性是我们的首要任
 msgid "Support"
 msgstr "支持我们"
 
+#. type: Yaml Front Matter Hash Value: extra funding items text
+#: content/donate/index.md
+#, no-wrap
+msgid "Currently, all development is done by volunteers with limited time. To implement larger, more ambitious features, paying developers might be necessary in the future."
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: extra funding items title
+#: content/donate/index.md
+#, no-wrap
+msgid "Developers"
+msgstr "开发者们"
+
 #. type: Yaml Front Matter Hash Value: extra funding title
 #: content/donate/index.md
 #, no-wrap
@@ -295,14 +296,16 @@ msgstr "资金将用在何处？"
 
 #. type: Yaml Front Matter Hash Value: extra info text
 #: content/donate/index.md
-#, no-wrap
-msgid "We rely on your donations to keep CoMaps open and free"
+#, fuzzy, no-wrap
+#| msgid "We rely on your donations to keep CoMaps open and free"
+msgid "We rely on your donations to keep CoMaps free to use"
 msgstr "您的捐款对于维持本应用的开放性和免费性至关重要"
 
 #. type: Yaml Front Matter Hash Value: extra info text
 #: content/donate/index.md
-#, no-wrap
-msgid "We are a few enthusiasts contributing in our free time. We love what we do, and we love our users"
+#, fuzzy, no-wrap
+#| msgid "We are a few enthusiasts contributing in our free time. We love what we do, and we love our users"
+msgid "We are a community contributing in our free time. We love what we do, and we love our users"
 msgstr "我们是一小群爱好者，利用闲暇之余做贡献，并为此项目花费家财。我们热爱我们的工作，也热爱我们的用户"
 
 #. type: Yaml Front Matter Hash Value: extra info text
@@ -637,6 +640,10 @@ msgstr "搜索"
 #, no-wrap
 msgid "Connect with Us"
 msgstr "联系我们"
+
+#, no-wrap
+#~ msgid "Currently there is no full time team who is working to develop new features and improve the service. To consistently move the product forward, a core team is needed."
+#~ msgstr "到目前为止，我们没有一个致力于开发新功能和改进服务的全职团队。然而，若要持续推动产品的发展，拥有一个核心团队至关重要。"
 
 #, no-wrap
 #~ msgid "Offline Maps"

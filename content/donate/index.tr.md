@@ -12,22 +12,22 @@ extra:
     title: "Bağış yapın"
   funding:
     items:
-      - media: /images/donate/developers.webp
-        text: "Şu anda yeni özellikler geliştirmek ve hizmeti iyileştirmek için çalışan tam zamanlı bir ekip yok. Ürünü sürekli olarak ileriye taşımak için bir çekirdek ekibe ihtiyaç var."
-        title: "Kod Gelistiricileri"
       - media: /images/donate/infrastructure.webp
-        text: "Dünyadaki herkesin ücretsiz harita verisi güncellemelerini gecikme olmadan indirebilmesi için hızlı sunuculara ihtiyacımız var. Aylık harita veri aktarım boyutu oldukça büyük ve bu rakam giderek artıyor."
+        text: "We have to keep up fast servers, to update the map files and for you to download them without delays. The maps data transfers make up large, and growing, amounts of data each month."
         title: Altyapı
       - media: /images/donate/support.webp
         text: "Kullanıcı desteği, hataların giderilmesi ve uygulamanın kararlılığının iyileştirilmesi en büyük önceliğimizdir. Talep ve hata bildirimlerinin listesi her geçen gün büyüyor ve App Store, Google Play ve destek e-postalarında yanıtlanması gereken birçok destek talebi bulunuyor."
         title: Destek
+      - media: /images/donate/developers.webp
+        text: "Currently, all development is done by volunteers with limited time. To implement larger, more ambitious features, paying developers might be necessary in the future."
+        title: "Kod Gelistiricileri"
     title: "Finansman nasıl kullanılacak?"
   hero_description: "Donate and create better maps together!"
   info:
     - icon: static/images/icons/donate/icon01.svg
-      text: "CoMaps'in açık ve ücretsiz kalmasını sağlamak için bağışlarınıza güveniyoruz"
+      text: "We rely on your donations to keep CoMaps free to use"
     - icon: static/images/icons/donate/icon02.svg
-      text: "Boş zamanlarımızda katkıda bulunan birkaç meraklıdan oluşuyoruz. Yaptığımız işi, ve kullanıcılarımızı seviyoruz"
+      text: "We are a community contributing in our free time. We love what we do, and we love our users"
     - icon: static/images/icons/donate/icon03.svg
       text: "Desteğinizle, piyasada tercih edilen seçenek olan gizlilik odaklı harita navigasyonuna doğru çalışıyoruz"
   service_text: ~

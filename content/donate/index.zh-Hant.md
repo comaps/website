@@ -12,22 +12,22 @@ extra:
     title: 捐款贊助
   funding:
     items:
-      - media: /images/donate/developers.webp
-        text: 到目前為止，我們沒有一個致力於開發新功能和改進服務的全職團隊。然而，若要持續推動產品的發展，擁有一個核心團隊事關重大。
-        title: 開發人員
       - media: /images/donate/infrastructure.webp
-        text: "We have to keep up fast servers, so anyone in the world can download free map data updates without delays. These maps data transfers make up large, and growing, amounts of data each month."
+        text: "We have to keep up fast servers, to update the map files and for you to download them without delays. The maps data transfers make up large, and growing, amounts of data each month."
         title: 設施
       - media: /images/donate/support.webp
         text: "使用者支援、修正錯誤、提升應用穩定性是我們當前的首要任務。錯誤報告的數量與日俱增，而 App Store、Google Play 和客服信箱裡也有大量支援請求需要回覆。"
         title: 支持我們
+      - media: /images/donate/developers.webp
+        text: "Currently, all development is done by volunteers with limited time. To implement larger, more ambitious features, paying developers might be necessary in the future."
+        title: 開發人員
     title: 資金用途？
   hero_description: "Donate and create better maps together!"
   info:
     - icon: static/images/icons/donate/icon01.svg
-      text: 您的捐款對於維持本應用的開放性和免費性至關重要
+      text: "We rely on your donations to keep CoMaps free to use"
     - icon: static/images/icons/donate/icon02.svg
-      text: "我們是一小群愛好者，利用閒暇時間做貢獻，並為开发 CoMaps 自掏腰包。我們熱愛 CoMaps，也熱愛 CoMaps 的使用者"
+      text: "We are a community contributing in our free time. We love what we do, and we love our users"
     - icon: static/images/icons/donate/icon03.svg
       text: 在您的支持下，我們正在努力開發注重隱私的地圖導航，成為市場的領導者
   service_text: ~

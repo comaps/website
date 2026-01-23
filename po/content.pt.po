@@ -251,20 +251,9 @@ msgstr "Donativos pela Open Collective"
 
 #. type: Yaml Front Matter Hash Value: extra funding items text
 #: content/donate/index.md
-#, no-wrap
-msgid "Currently there is no full time team who is working to develop new features and improve the service. To consistently move the product forward, a core team is needed."
-msgstr "Atualmente não temos um equipa que esteja a tempo inteiro a trabalhar no desenvolvimento de novas funcionalidades e na melhoria do serviço. De modo ao projeto poder seguir em frente de modo consistente, necessitamos de uma equipa principal."
-
-#. type: Yaml Front Matter Hash Value: extra funding items title
-#: content/donate/index.md
-#, no-wrap
-msgid "Developers"
-msgstr "Desenvolvedores"
-
-#. type: Yaml Front Matter Hash Value: extra funding items text
-#: content/donate/index.md
-#, no-wrap
-msgid "We have to keep up fast servers, so anyone in the world can download free map data updates without delays. These maps data transfers make up large, and growing, amounts of data each month."
+#, fuzzy, no-wrap
+#| msgid "We have to keep up fast servers, so anyone in the world can download free map data updates without delays. These maps data transfers make up large, and growing, amounts of data each month."
+msgid "We have to keep up fast servers, to update the map files and for you to download them without delays. The maps data transfers make up large, and growing, amounts of data each month."
 msgstr "Temos que manter servidores rápidos, assim qualquer pessoa no mundo pode transferir os dados dos mapas atualizados sem atrasos. As transferências de dados dos mapas representam grandes, e crescentes, tamanhos de dados a cada mês."
 
 #. type: Yaml Front Matter Hash Value: extra funding items title
@@ -285,6 +274,18 @@ msgstr "O apoio aos utilizadores, correção de erros e melhorar a estabilidade 
 msgid "Support"
 msgstr "Suporte"
 
+#. type: Yaml Front Matter Hash Value: extra funding items text
+#: content/donate/index.md
+#, no-wrap
+msgid "Currently, all development is done by volunteers with limited time. To implement larger, more ambitious features, paying developers might be necessary in the future."
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: extra funding items title
+#: content/donate/index.md
+#, no-wrap
+msgid "Developers"
+msgstr "Desenvolvedores"
+
 #. type: Yaml Front Matter Hash Value: extra funding title
 #: content/donate/index.md
 #, no-wrap
@@ -293,14 +294,16 @@ msgstr "Como serão usados os fundos?"
 
 #. type: Yaml Front Matter Hash Value: extra info text
 #: content/donate/index.md
-#, no-wrap
-msgid "We rely on your donations to keep CoMaps open and free"
+#, fuzzy, no-wrap
+#| msgid "We rely on your donations to keep CoMaps open and free"
+msgid "We rely on your donations to keep CoMaps free to use"
 msgstr "Nós dependemos dos vossos donativos para manter o CoMaps aberto e gratuito"
 
 #. type: Yaml Front Matter Hash Value: extra info text
 #: content/donate/index.md
-#, no-wrap
-msgid "We are a few enthusiasts contributing in our free time. We love what we do, and we love our users"
+#, fuzzy, no-wrap
+#| msgid "We are a few enthusiasts contributing in our free time. We love what we do, and we love our users"
+msgid "We are a community contributing in our free time. We love what we do, and we love our users"
 msgstr "Somos uma equipa de alguns entusiastas que contribuem para o projeto no nosso tempo livre. Nós adoramos o que fazemos, e adoramos os nossos utilizadores"
 
 #. type: Yaml Front Matter Hash Value: extra info text
@@ -635,6 +638,10 @@ msgstr "Pesquisar"
 #, no-wrap
 msgid "Connect with Us"
 msgstr "Entra em contacto connosco"
+
+#, no-wrap
+#~ msgid "Currently there is no full time team who is working to develop new features and improve the service. To consistently move the product forward, a core team is needed."
+#~ msgstr "Atualmente não temos um equipa que esteja a tempo inteiro a trabalhar no desenvolvimento de novas funcionalidades e na melhoria do serviço. De modo ao projeto poder seguir em frente de modo consistente, necessitamos de uma equipa principal."
 
 #, no-wrap
 #~ msgid "Offline Maps"

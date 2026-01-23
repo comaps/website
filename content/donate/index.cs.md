@@ -12,22 +12,22 @@ extra:
     title: Darovat
   funding:
     items:
-      - media: /images/donate/developers.webp
-        text: "V současné době nemáme žádný full-time tým, který by pracoval na vyvíjení nových funkcí a zlepšování služby. Abychom mohli konzistentně posouvat produkt vpřed, potřebujeme základní tým."
-        title: Vývojáři
       - media: /images/donate/infrastructure.webp
-        text: "Musíme udržovat rychlé servery, aby si kdokoli na světě mohl bez prodlení stahovat bezplatné aktualizace mapových dat. Tyto přenosy mapových dat představují každý měsíc velké a stále rostoucí objemy dat."
+        text: "We have to keep up fast servers, to update the map files and for you to download them without delays. The maps data transfers make up large, and growing, amounts of data each month."
         title: Infrastruktura
       - media: /images/donate/support.webp
         text: "Uživatelská podpora, oprava chyb a vylepšování stability jsou našimi hlavními prioritami. Seznam žádostí a hlášení o chybách roste každým dnem a máme spoustu žádostí o podporu, které čekají na odpověď na App Store, Google Play a v e-mailech."
         title: Podpora
+      - media: /images/donate/developers.webp
+        text: "Currently, all development is done by volunteers with limited time. To implement larger, more ambitious features, paying developers might be necessary in the future."
+        title: Vývojáři
     title: "Jak budou finance využity?"
   hero_description: "Donate and create better maps together!"
   info:
     - icon: static/images/icons/donate/icon01.svg
-      text: "Spoléháme na vaše dary, abychom mohli CoMaps udržet otevřené a bezplatné"
+      text: "We rely on your donations to keep CoMaps free to use"
     - icon: static/images/icons/donate/icon02.svg
-      text: "Jsme několik nadšenců, kteří na projekt přispívají ve svém volném čase. Máme rádi to, co děláme, a máme rádi naše uživatele"
+      text: "We are a community contributing in our free time. We love what we do, and we love our users"
     - icon: static/images/icons/donate/icon03.svg
       text: "S vaší podporou můžeme pracovat na mapové navigaci zaměřené na soukromí, která bude hlavní volbou na trhu"
   service_text: ~

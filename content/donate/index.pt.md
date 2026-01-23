@@ -12,22 +12,22 @@ extra:
     title: Donativos
   funding:
     items:
-      - media: /images/donate/developers.webp
-        text: "Atualmente não temos um equipa que esteja a tempo inteiro a trabalhar no desenvolvimento de novas funcionalidades e na melhoria do serviço. De modo ao projeto poder seguir em frente de modo consistente, necessitamos de uma equipa principal."
-        title: Desenvolvedores
       - media: /images/donate/infrastructure.webp
-        text: "Temos que manter servidores rápidos, assim qualquer pessoa no mundo pode transferir os dados dos mapas atualizados sem atrasos. As transferências de dados dos mapas representam grandes, e crescentes, tamanhos de dados a cada mês."
+        text: "We have to keep up fast servers, to update the map files and for you to download them without delays. The maps data transfers make up large, and growing, amounts of data each month."
         title: Infraestrutura
       - media: /images/donate/support.webp
         text: "O apoio aos utilizadores, correção de erros e melhorar a estabilidade da aplicação são as nossas prioridades. A lista de pedidos de funcionalidades e relatórios de erros cresce todos os dias e há também muitos pedidos de apoio por responder na App Store, Google Play e emails de apoio ao utilizador."
         title: Suporte
+      - media: /images/donate/developers.webp
+        text: "Currently, all development is done by volunteers with limited time. To implement larger, more ambitious features, paying developers might be necessary in the future."
+        title: Desenvolvedores
     title: "Como serão usados os fundos?"
   hero_description: "Donate and create better maps together!"
   info:
     - icon: static/images/icons/donate/icon01.svg
-      text: "Nós dependemos dos vossos donativos para manter o CoMaps aberto e gratuito"
+      text: "We rely on your donations to keep CoMaps free to use"
     - icon: static/images/icons/donate/icon02.svg
-      text: "Somos uma equipa de alguns entusiastas que contribuem para o projeto no nosso tempo livre. Nós adoramos o que fazemos, e adoramos os nossos utilizadores"
+      text: "We are a community contributing in our free time. We love what we do, and we love our users"
     - icon: static/images/icons/donate/icon03.svg
       text: "Com o vosso apoio, estamos a trabalhar para uma navegação orientada à privacidade que seja a escolha preferida do mercado"
   service_text: ~

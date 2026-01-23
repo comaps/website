@@ -12,22 +12,22 @@ extra:
     title: Donatius
   funding:
     items:
-      - media: /images/donate/developers.webp
-        text: "Actualment no hi ha un equip treballant a temps complet en el desenvolupament de noves funcionalitats i la millora del servei. Per a fer avançar el producte de manera constant, es necessita un equip base."
-        title: Desenvolupadors
       - media: /images/donate/infrastructure.webp
-        text: "We have to keep up fast servers, so anyone in the world can download free map data updates without delays. These maps data transfers make up large, and growing, amounts of data each month."
+        text: "We have to keep up fast servers, to update the map files and for you to download them without delays. The maps data transfers make up large, and growing, amounts of data each month."
         title: Infraestructura
       - media: /images/donate/support.webp
         text: "El suport a l'usuari, correcció d'errors i la millora de l'estabilitat de l'aplicació són les nostres prioritats principals. La llista de sol·licituds i informes d'errors augmenten cada dia i hi ha moltes sol·licituds de suport de l'App Store, Google Play i els correus electrònics de suport."
         title: Suport
+      - media: /images/donate/developers.webp
+        text: "Currently, all development is done by volunteers with limited time. To implement larger, more ambitious features, paying developers might be necessary in the future."
+        title: Desenvolupadors
     title: "Com s'usaran els fons?"
   hero_description: "Donate and create better maps together!"
   info:
     - icon: static/images/icons/donate/icon01.svg
-      text: "Depenem de les vostres donacions per a mantenir CoMaps obert i gratuït"
+      text: "We rely on your donations to keep CoMaps free to use"
     - icon: static/images/icons/donate/icon02.svg
-      text: "Som uns pocs entusiastes contribuint en el nostre temps lliure. Estimem el que fem, i estimem els nostres usuaris"
+      text: "We are a community contributing in our free time. We love what we do, and we love our users"
     - icon: static/images/icons/donate/icon03.svg
       text: "Amb el teu suport, treballem cap a una navegació enfocada a la privacitat i que sigui l'opció preferida al mercat"
   service_text: ~
