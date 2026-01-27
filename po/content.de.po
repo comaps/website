@@ -596,6 +596,12 @@ msgstr "API"
 msgid "Home"
 msgstr "Home"
 
+#. type: Hash Value: menu_media_coverage
+#: translations.yaml
+#, no-wrap
+msgid "Media Coverage"
+msgstr ""
+
 #. type: Hash Value: menu_news
 #: translations.yaml
 #, no-wrap
