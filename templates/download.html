@@ -80,7 +80,8 @@
                 </small>
             </div>
         </div>
-        <!--
+    </div>
+    <div class="container section-device__container">
         <div class="section-device__item">
             <div class="section-device__title-row">
                 <h3 class="h5 section-device__title">{{ page.extra.desktop_payment_title | safe }}</h3>
@@ -88,8 +89,8 @@
                     {% include 'ui/icons/social/upload.html' %}
                 </div> #}
             </div>
-
             <div class="section-device__content">
+        <!--
                 <div class="section-device__content-item">
                     <p class="p-15-bold section-device__content-title">{{ page.extra.desktop_payment_methods_1 | safe }}</p>
                     <div class="section-device__card">
@@ -100,20 +101,20 @@
                         </a>
                     </div>
                 </div>
+        -->
                 <div class="section-device__content-item">
                     <p class="p-15-bold section-device__content-title">{{ page.extra.desktop_payment_methods_2 | safe }}</p>
                     <div class="section-device__card">
                         {# <p class="p-15 section-device__text">{{ page.extra.desktop_shop_name_2 | safe }}</p> #}
-                        <a href="#" class="button--appdownload">
+                        <a href="https://flathub.org/en/apps/app.comaps.comaps" class="button--appdownload">
                             {{ load_data(path="static/images/icons/download/flathub.svg") | safe }}
-                            FLATHUB
+                            Flathub
                         </a>
                     </div>
                 </div>
 
             </div>
         </div>
-        -->
     </div>
     <div class="container ">
         <h2 class="section-device__release_title">{{page.extra.releases.title}}</h2>

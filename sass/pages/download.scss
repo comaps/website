@@ -7,6 +7,7 @@
   &__container {
     display: flex;
     gap: 10rem;
+    margin-bottom: 10rem;
     @media (max-width: $media-md) {
       flex-direction: column;
     }
