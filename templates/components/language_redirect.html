@@ -6,10 +6,12 @@ if (null === window.localStorage.getItem('lang')) {
   // ["en", "ru", ...]
     var pageTranslations = {{ resource | get(key="translations", default=[]) | map(attribute="lang") | sort | json_encode() | safe }};
   var userPreferredLanguages = navigator.languages ? navigator.languages : [navigator.language];
+  var candidateLanguages = [];
   outerLoop:
   for (var i = 0; i < userPreferredLanguages.length; i++) {
     for (var j = 0; j < pageTranslations.length; j++) {
-      if (userPreferredLanguages[i].indexOf(pageTranslations[j]) == 0) {
+      // perfect language match, just use this one! (e.g 'pt-BR')
+      if (userPreferredLanguages[i] == pageTranslations[j]) {
         window.localStorage.setItem('lang', pageTranslations[j]);
         // Do not redirect the default 'en' language.
         if (pageTranslations[j] != '{{ config.default_language }}') {
@@ -17,7 +19,19 @@ if (null === window.localStorage.getItem('lang')) {
         }
         break outerLoop;
       }
+      // partial match, i.e. same language but different locale/variant (e.g. pref is de-CH, match de)
+      else if (userPreferredLanguages[i].indexOf(pageTranslations[j]) == 0) {
+        candidateLanguages.push(pageTranslations[j]);
+      }
     }
   }
+  // if we got candidates, apply first one as most preferred one
+  if (candidateLanguages.length > 0) {
+    window.localStorage.setItem('lang', candidateLanguages[0]);
+    // Do not redirect the default 'en' language.
+    if (pageTranslations[j] != '{{ config.default_language }}') {
+      window.location.pathname = '/' + pageTranslations[j] + window.location.pathname;
+    }
+   }
 }
 </script>
