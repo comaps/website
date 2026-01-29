@@ -6,7 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"Last-Translator: pestanzul <pestanzul@posteo.me>\n"
+"PO-Revision-Date: 2026-01-26 18:21+0000\n"
+"Last-Translator: loscati <loscati@noreply.codeberg.org>\n"
 "Language-Team: Italian <https://translate.codeberg.org/projects/comaps/website/it/>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
@@ -251,10 +252,9 @@ msgstr "Dona con Open Collective"
 
 #. type: Yaml Front Matter Hash Value: extra funding items text
 #: content/donate/index.md
-#, fuzzy, no-wrap
-#| msgid "We have to keep up fast servers, so anyone in the world can download free map data updates without delays. These maps data transfers make up large, and growing, amounts of data each month."
+#, no-wrap
 msgid "We have to keep up fast servers, to update the map files and for you to download them without delays. The maps data transfers make up large, and growing, amounts of data each month."
-msgstr "Dobbiamo mantenere dei server veloci, in modo che chiunque nel mondo possa scaricare gli aggiornamenti gratuiti delle mappe senza ritardi. Questi trasferimenti costituiscono una grande quantità mensile di dati e sono in aumento."
+msgstr "Dobbiamo mantenere dei server veloci, in modo da mantenere le mappe aggiornate e permettervi di scaricarle senza ritardi. Questi trasferimenti costituiscono una grande quantità mensile di dati e sono in aumento."
 
 #. type: Yaml Front Matter Hash Value: extra funding items title
 #: content/donate/index.md
@@ -294,17 +294,15 @@ msgstr "Come saranno utilizzate le tue donazioni?"
 
 #. type: Yaml Front Matter Hash Value: extra info text
 #: content/donate/index.md
-#, fuzzy, no-wrap
-#| msgid "We rely on your donations to keep CoMaps open and free"
+#, no-wrap
 msgid "We rely on your donations to keep CoMaps free to use"
-msgstr "Contiamo sulle vostre donazioni per mantenere CoMaps aperta e gratuita"
+msgstr "Contiamo sulle vostre donazioni per mantenere CoMaps gratuita"
 
 #. type: Yaml Front Matter Hash Value: extra info text
 #: content/donate/index.md
-#, fuzzy, no-wrap
-#| msgid "We are a few enthusiasts contributing in our free time. We love what we do, and we love our users"
+#, no-wrap
 msgid "We are a community contributing in our free time. We love what we do, and we love our users"
-msgstr "Siamo alcuni appassionati che contribuiscono nel tempo libero. Amiamo quello che facciamo e amiamo i nostri utenti"
+msgstr "Siamo una comunità che contribuiscono nel tempo libero. Amiamo quello che facciamo e amiamo i nostri utenti"
 
 #. type: Yaml Front Matter Hash Value: extra info text
 #: content/donate/index.md
@@ -440,10 +438,9 @@ msgstr ""
 
 #. type: Yaml Front Matter Hash Value: extra releases title
 #: content/download/index.md
-#, fuzzy, no-wrap
-#| msgid "Releases"
+#, no-wrap
 msgid "Latest Releases"
-msgstr "Rilasci"
+msgstr "Ultimi rilasci"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/download/index.md

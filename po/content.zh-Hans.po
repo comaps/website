@@ -251,10 +251,9 @@ msgstr "使用 Open Collective 捐款"
 
 #. type: Yaml Front Matter Hash Value: extra funding items text
 #: content/donate/index.md
-#, fuzzy, no-wrap
-#| msgid "We have to keep up fast servers, so anyone in the world can download free map data updates without delays. These maps data transfers make up large, and growing, amounts of data each month."
+#, no-wrap
 msgid "We have to keep up fast servers, to update the map files and for you to download them without delays. The maps data transfers make up large, and growing, amounts of data each month."
-msgstr "我们需维持高速服务器，确保全球用户无延迟下载免费地图数据更新。这些地图数据传输量十分庞大，且每月都在持续增长。"
+msgstr "我们需维持高速服务器，以便及时更新地图文件并确保您能够无延迟下载。地图数据传输量十分庞大，且每月都在持续增长。"
 
 #. type: Yaml Front Matter Hash Value: extra funding items title
 #: content/donate/index.md
@@ -278,7 +277,7 @@ msgstr "支持我们"
 #: content/donate/index.md
 #, no-wrap
 msgid "Currently, all development is done by volunteers with limited time. To implement larger, more ambitious features, paying developers might be necessary in the future."
-msgstr ""
+msgstr "目前，所有开发工作都是由时间有限的志愿者完成的。为了实现更宏大、更具雄心的功能，未来或许有必要聘请专职开发者。"
 
 #. type: Yaml Front Matter Hash Value: extra funding items title
 #: content/donate/index.md
@@ -294,17 +293,15 @@ msgstr "资金将用在何处？"
 
 #. type: Yaml Front Matter Hash Value: extra info text
 #: content/donate/index.md
-#, fuzzy, no-wrap
-#| msgid "We rely on your donations to keep CoMaps open and free"
+#, no-wrap
 msgid "We rely on your donations to keep CoMaps free to use"
-msgstr "您的捐款对于维持本应用的开放性和免费性至关重要"
+msgstr "我们依靠您的捐赠来维持 CoMaps 的免费使用"
 
 #. type: Yaml Front Matter Hash Value: extra info text
 #: content/donate/index.md
-#, fuzzy, no-wrap
-#| msgid "We are a few enthusiasts contributing in our free time. We love what we do, and we love our users"
+#, no-wrap
 msgid "We are a community contributing in our free time. We love what we do, and we love our users"
-msgstr "我们是一小群爱好者，利用闲暇之余做贡献，并为此项目花费家财。我们热爱我们的工作，也热爱我们的用户"
+msgstr "我们是一个利用业余时间投身其中的社区。我们热爱这份事业，也珍视每一位用户"
 
 #. type: Yaml Front Matter Hash Value: extra info text
 #: content/donate/index.md
@@ -540,7 +537,7 @@ msgstr "语言"
 #: translations.yaml
 #, no-wrap
 msgid "CoMaps - F.A.Q."
-msgstr "CoMaps—常见问题"
+msgstr "CoMaps - 常见问题"
 
 #. type: Hash Value: how_can_help
 #: translations.yaml

@@ -6,14 +6,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"Last-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>\n"
+"PO-Revision-Date: 2026-01-25 07:21+0000\n"
+"Last-Translator: astro-ray <astro-ray@noreply.codeberg.org>\n"
 "Language-Team: Bengali <https://translate.codeberg.org/projects/comaps/website/bn/>\n"
 "Language: bn\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.14.3\n"
+"X-Generator: Weblate 5.15.2\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -67,7 +68,7 @@ msgstr "অ্যাপটি গোপনীয়তা মাথায় র
 #: content/_index.md
 #, no-wrap
 msgid "Privacy by default"
-msgstr "ডিফল্টভাবে গোপনীয়তা"
+msgstr "গোপনীয়তাই ডিফল্ট"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
@@ -151,7 +152,7 @@ msgstr "বাগ রিপোর্ট করুন, ধারণা নিয�
 #: content/community/index.md
 #, no-wrap
 msgid "**Report** Bugs"
-msgstr "**বাগ রিপোর্ট করুন**"
+msgstr "বাগ **রিপোর্ট করুন**"
 
 #. type: Yaml Front Matter Hash Value: extra features description
 #: content/community/index.md
@@ -223,55 +224,55 @@ msgstr "সম্প্রদায়"
 #: content/donate/index.md
 #, no-wrap
 msgid "Donate and create better maps together!"
-msgstr ""
+msgstr "দান করুন এবং একসঙ্গে আরও ভালো মানচিত্র তৈরি করুন!"
 
 #. type: Yaml Front Matter Hash Value: extra donate info description
 #: content/donate/index.md
 #, no-wrap
 msgid "Donate to keep the project running"
-msgstr ""
+msgstr "প্রকল্পটি চালিয়ে রাখার জন্য দান করুন"
 
 #. type: Yaml Front Matter Hash Value: extra donate info title
 #: content/donate/index.md
 #, no-wrap
 msgid "Created with love by enthusiast volunteers"
-msgstr ""
+msgstr "উৎসাহী স্বেচ্ছাসেবকদের ভালোবাসা দিয়ে তৈরি"
 
 #. type: Yaml Front Matter Hash Value: extra donate liberapay title
 #: content/donate/index.md
 #, no-wrap
 msgid "Donate via Liberapay"
-msgstr ""
+msgstr "Liberapay দ্বারা দান করুন"
 
 #. type: Yaml Front Matter Hash Value: extra donate open_collective title
 #: content/donate/index.md
 #, no-wrap
 msgid "Donate via Open Collective"
-msgstr ""
+msgstr "Open Collective দ্বারা দান করুন"
 
 #. type: Yaml Front Matter Hash Value: extra funding items text
 #: content/donate/index.md
 #, no-wrap
 msgid "Currently there is no full time team who is working to develop new features and improve the service. To consistently move the product forward, a core team is needed."
-msgstr ""
+msgstr "বর্তমানে নতুন ফিচার তৈরি এবং পরিষেবা উন্নত করার জন্য কোনো পূর্ণকালীন দল নেই। প্রোডাক্টটি ধারাবাহিকভাবে এগিয়ে নিয়ে যেতে, একটি মূল দল প্রয়োজন।"
 
 #. type: Yaml Front Matter Hash Value: extra funding items title
 #: content/donate/index.md
 #, no-wrap
 msgid "Developers"
-msgstr ""
+msgstr "ডেভেলপার"
 
 #. type: Yaml Front Matter Hash Value: extra funding items text
 #: content/donate/index.md
 #, no-wrap
 msgid "We pay for fast servers, so anyone in the world can download free map data updates without delays. The maps data transfers are hundreds of terabytes monthly, and the amount is growing."
-msgstr ""
+msgstr "আমরা দ্রুত সার্ভারের জন্য অর্থ ব্যায় করি, যাতে বিশ্বের যে কেউ বিলম্ব ছাড়াই বিনামূল্যে মানচিত্র ডেটা আপডেট ডাউনলোড করতে পারে। প্রতি মাসে শতাধিক টেরাবাইট মানচিত্র ডেটা স্থানান্তর হয়, এবং এই পরিমাণ ক্রমশ বাড়ছে।"
 
 #. type: Yaml Front Matter Hash Value: extra funding items title
 #: content/donate/index.md
 #, no-wrap
 msgid "Infrastructure"
-msgstr ""
+msgstr "পরিকাঠামো"
 
 #. type: Yaml Front Matter Hash Value: extra funding items text
 #: content/donate/index.md
@@ -283,13 +284,13 @@ msgstr ""
 #: content/donate/index.md content/support/_index.md
 #, no-wrap
 msgid "Support"
-msgstr ""
+msgstr "সমর্থন"
 
 #. type: Yaml Front Matter Hash Value: extra funding title
 #: content/donate/index.md
 #, no-wrap
 msgid "How will funding be used?"
-msgstr ""
+msgstr "ফান্ড কীভাবে করা হবে?"
 
 #. type: Yaml Front Matter Hash Value: extra info text
 #: content/donate/index.md
@@ -319,7 +320,7 @@ msgstr ""
 #: content/about-us/index.md
 #, no-wrap
 msgid "Free and open navigation with privacy -<br/>Built by the community"
-msgstr ""
+msgstr "গোপনীয়তার সাথে মুক্ত ও উন্মুক্ত নেভিগেশন -<br/>সম্প্রদায়ের দ্বারা নির্মিত"
 
 #. type: Yaml Front Matter Hash Value: extra about text
 #: content/about-us/index.md
@@ -331,19 +332,19 @@ msgstr ""
 #: content/about-us/index.md
 #, no-wrap
 msgid "Free and open navigation with privacy, built by the community"
-msgstr ""
+msgstr "সম্প্রদায়ের দ্বারা নির্মিত, গোপনীয়তার সাথে মুক্ত ও উন্মুক্ত নেভিগেশন"
 
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md
 #, no-wrap
 msgid "MapsWithMe navigation app created (later renamed to Maps.me)."
-msgstr ""
+msgstr "MapsWithMe নেভিগেশন অ্যাপ তৈরি করা হয়েছিল (পরে Maps.me নামে পুনঃনামকরণ করা হয়)।"
 
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md
 #, no-wrap
 msgid "Maps.me opened the source code under Apache 2.0 license."
-msgstr ""
+msgstr "Maps.me তাদের সোর্স কোড Apache 2.0 লাইসেন্সের অধীনে উন্মুক্ত করেছিল।"
 
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md
@@ -367,7 +368,7 @@ msgstr ""
 #: content/about-us/index.md
 #, no-wrap
 msgid "History"
-msgstr ""
+msgstr "ইতিহাস"
 
 #. type: Yaml Front Matter Hash Value: extra vm items text
 #: content/about-us/index.md
@@ -409,13 +410,13 @@ msgstr ""
 #: content/download/index.md
 #, no-wrap
 msgid "Offline Maps"
-msgstr ""
+msgstr "অনলাইন মানচিত্র"
 
 #. type: Yaml Front Matter Array Element: extra steps items
 #: content/download/index.md
 #, no-wrap
 msgid "Privacy-Centric"
-msgstr ""
+msgstr "গোপনীয়তা বান্ধব"
 
 #. type: Yaml Front Matter Array Element: extra steps items
 #: content/download/index.md
@@ -439,7 +440,7 @@ msgstr ""
 #: content/download/index.md
 #, no-wrap
 msgid "Download CoMaps"
-msgstr ""
+msgstr "CoMaps ডাউনলোড করুন"
 
 #. type: Plain text
 #: content/download/index.md
@@ -469,13 +470,13 @@ msgstr ""
 #: translations.yaml
 #, no-wrap
 msgid "Download"
-msgstr ""
+msgstr "ডাউনলোড"
 
 #. type: Hash Value: const_lang
 #: translations.yaml
 #, no-wrap
 msgid "Language"
-msgstr ""
+msgstr "ভাষা"
 
 #. type: Hash Value: faq_content
 #: translations.yaml
@@ -487,7 +488,7 @@ msgstr ""
 #: translations.yaml
 #, no-wrap
 msgid "How can we help?"
-msgstr ""
+msgstr "আমরা কিভাবে সাহায্য করতে পারি?"
 
 #. type: Hash Value: inv_code_text
 #: translations.yaml

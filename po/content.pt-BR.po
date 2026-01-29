@@ -6,14 +6,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"Last-Translator: matheusgomesms <matheusgomesms@noreply.codeberg.org>\n"
+"PO-Revision-Date: 2026-01-28 12:01+0000\n"
+"Last-Translator: fbausch <fbausch@noreply.codeberg.org>\n"
 "Language-Team: Portuguese (Brazil) <https://translate.codeberg.org/projects/comaps/website/pt_BR/>\n"
 "Language: pt-BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.14\n"
+"X-Generator: Weblate 5.15.2\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -113,10 +114,9 @@ msgstr "Grátis e Construído pela Comunidade"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/_index.md
-#, fuzzy, no-wrap
-#| msgid "Hike, Bike, Drive Offline Navigate with Privacy"
+#, no-wrap
 msgid "Hike, Bike, Drive Offline – Navigate with Privacy"
-msgstr "Caminhe, Ande de Bicicleta e Dirija Offline — Navegue com Privacidade"
+msgstr "Caminhe, Ande de Bicicleta e Dirija Off-line — Navegue com Privacidade"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/news/_index.md
@@ -144,8 +144,7 @@ msgstr "Doar"
 
 #. type: Yaml Front Matter Hash Value: extra features description
 #: content/community/index.md
-#, fuzzy, no-wrap
-#| msgid "Report bugs, discuss idea, and propose features"
+#, no-wrap
 msgid "Report bugs, discuss ideas, and propose features"
 msgstr "Reporte erros, discuta ideias e proponha novos recursos"
 
@@ -253,10 +252,9 @@ msgstr "Doe via Open Collective"
 
 #. type: Yaml Front Matter Hash Value: extra funding items text
 #: content/donate/index.md
-#, fuzzy, no-wrap
-#| msgid "We have to keep up fast servers, so anyone in the world can download free map data updates without delays. These maps data transfers make up large, and growing, amounts of data each month."
+#, no-wrap
 msgid "We have to keep up fast servers, to update the map files and for you to download them without delays. The maps data transfers make up large, and growing, amounts of data each month."
-msgstr "Temos que manter servidores rápidos, para que qualquer pessoa no mundo possa baixar atualizações gratuitas de dados de mapas sem atrasos. Estas transferências de dados de mapas representam grandes quantidades de dados a cada mês, que não param de crescer."
+msgstr "Temos que manter servidores rápidos, para atualizar os arquivos dos mapas e para que você possa baixá-los sem atrasos. As transferências de dados dos mapas representam grandes quantidades de dados a cada mês, e esse volume está crescendo."
 
 #. type: Yaml Front Matter Hash Value: extra funding items title
 #: content/donate/index.md
@@ -280,7 +278,7 @@ msgstr "Suporte"
 #: content/donate/index.md
 #, no-wrap
 msgid "Currently, all development is done by volunteers with limited time. To implement larger, more ambitious features, paying developers might be necessary in the future."
-msgstr ""
+msgstr "Atualmente, todo o desenvolvimento é feito por voluntários com tempo limitado. Para implementar recursos maiores e mais ambiciosos, pode ser necessário contratar desenvolvedores remunerados no futuro."
 
 #. type: Yaml Front Matter Hash Value: extra funding items title
 #: content/donate/index.md
@@ -296,17 +294,15 @@ msgstr "Como o financiamento será usado?"
 
 #. type: Yaml Front Matter Hash Value: extra info text
 #: content/donate/index.md
-#, fuzzy, no-wrap
-#| msgid "We rely on your donations to keep CoMaps open and free"
+#, no-wrap
 msgid "We rely on your donations to keep CoMaps free to use"
-msgstr "Contamos com suas doações para manter o CoMaps aberto e gratuito"
+msgstr "Contamos com suas doações para manter o CoMaps gratuito para uso"
 
 #. type: Yaml Front Matter Hash Value: extra info text
 #: content/donate/index.md
-#, fuzzy, no-wrap
-#| msgid "We are a few enthusiasts contributing in our free time. We love what we do, and we love our users"
+#, no-wrap
 msgid "We are a community contributing in our free time. We love what we do, and we love our users"
-msgstr "Somos alguns entusiastas que contribuem em nosso tempo livre. Amamos o que fazemos e amamos nossos usuários"
+msgstr "Somos uma comunidade que contribui no nosso tempo livre. Amamos o que fazemos e amamos nossos usuários"
 
 #. type: Yaml Front Matter Hash Value: extra info text
 #: content/donate/index.md
@@ -384,13 +380,13 @@ msgstr "Histórico"
 #: content/about-us/index.md
 #, no-wrap
 msgid "See the full list of media coverage about CoMaps."
-msgstr ""
+msgstr "Veja a lista completa da cobertura da mídia sobre o CoMaps."
 
 #. type: Yaml Front Matter Hash Value: extra media_highlights title
 #: content/about-us/index.md
 #, no-wrap
 msgid "Media Highlights"
-msgstr ""
+msgstr "Destaques da mídia"
 
 #. type: Yaml Front Matter Hash Value: extra vm items text
 #: content/about-us/index.md
@@ -432,7 +428,7 @@ msgstr "Desbloqueie o potencial da navegação! Descubra mapas offline, funciona
 #: content/download/index.md
 #, no-wrap
 msgid "To verify the app when downloading it as an APK or via Obtainium you can use this fingerprint:"
-msgstr ""
+msgstr "Para verificar o aplicativo ao baixá-lo como um APK ou através do Obtainium, você pode usar esta impressão digital:"
 
 #. type: Yaml Front Matter Hash Value: extra app_verifier title
 #: content/download/index.md
@@ -442,10 +438,9 @@ msgstr ""
 
 #. type: Yaml Front Matter Hash Value: extra releases title
 #: content/download/index.md
-#, fuzzy, no-wrap
-#| msgid "Releases"
+#, no-wrap
 msgid "Latest Releases"
-msgstr "Lançamentos"
+msgstr "Últimos lançamentos"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/download/index.md
@@ -466,10 +461,9 @@ msgstr "A API está documentada em [comaps.at/api](https://comaps.at/api)."
 
 #. type: Hash Value: menu_privacy
 #: content/privacy/index.md translations.yaml
-#, fuzzy, no-wrap
-#| msgid "Privacy-Centric"
+#, no-wrap
 msgid "Privacy"
-msgstr "Centrado na Privacidade"
+msgstr "Privacidade"
 
 #. type: Plain text
 #: content/privacy/index.md
@@ -479,12 +473,12 @@ msgstr ""
 #. type: Plain text
 #: content/privacy/index.md
 msgid "CoMaps does not track you."
-msgstr ""
+msgstr "O CoMaps não rastreia você."
 
 #. type: Plain text
 #: content/privacy/index.md content/terms/index.md
 msgid "If you have any questions or suggestions, please contact us at legal@comaps.app"
-msgstr ""
+msgstr "Se você tiver alguma dúvida ou sugestão, entre em contato conosco pelo e-mail legal@comaps.app"
 
 #. type: Plain text
 #: content/privacy/index.md
@@ -495,7 +489,7 @@ msgstr ""
 #: content/terms/index.md
 #, no-wrap
 msgid "Terms"
-msgstr ""
+msgstr "Termos de uso"
 
 #. type: Plain text
 #: content/terms/index.md

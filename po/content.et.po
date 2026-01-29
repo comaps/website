@@ -251,10 +251,9 @@ msgstr "Toeta Open Collective'i vahendusel"
 
 #. type: Yaml Front Matter Hash Value: extra funding items text
 #: content/donate/index.md
-#, fuzzy, no-wrap
-#| msgid "We have to keep up fast servers, so anyone in the world can download free map data updates without delays. These maps data transfers make up large, and growing, amounts of data each month."
+#, no-wrap
 msgid "We have to keep up fast servers, to update the map files and for you to download them without delays. The maps data transfers make up large, and growing, amounts of data each month."
-msgstr "Et kes iganes maailmas saaks tasuta ja viivitusteta laadida alla vajalikke kaarte, maksame me kiire võrguühendusega serverite eest. Need kaardiandmete andmeedastusmahud moodustavad suure ja ainult kasvava osa meie andmeliiklusest."
+msgstr "Et kes iganes maailmas saaks tasuta ja viivitusteta laadida alla vajalikke kaarte, haldame uuendusi kui selleks vajalikke servereid. Kkaardiandmete andmeedastusmahud moodustavad suure ja ainult kasvava osa meie andmeliiklusest."
 
 #. type: Yaml Front Matter Hash Value: extra funding items title
 #: content/donate/index.md
@@ -278,7 +277,7 @@ msgstr "Kasutajatugi"
 #: content/donate/index.md
 #, no-wrap
 msgid "Currently, all development is done by volunteers with limited time. To implement larger, more ambitious features, paying developers might be necessary in the future."
-msgstr ""
+msgstr "Hetkel teevad kogu arenduse vabatahtlikud oma vähesest vabast ajast. Suuremate ja ambitsioonikamate eesmärkide täitmiseks võib meil tulevikus vaja olla kasutada palgatud arendajaid."
 
 #. type: Yaml Front Matter Hash Value: extra funding items title
 #: content/donate/index.md
@@ -294,17 +293,15 @@ msgstr "Kuidas me kasutame rahastust?"
 
 #. type: Yaml Front Matter Hash Value: extra info text
 #: content/donate/index.md
-#, fuzzy, no-wrap
-#| msgid "We rely on your donations to keep CoMaps open and free"
+#, no-wrap
 msgid "We rely on your donations to keep CoMaps free to use"
-msgstr "Sinu rahaline toetus aitab meil CoMapsi hoida tasuta, vaba ja avatuna"
+msgstr "Sinu rahaline toetus aitab meil CoMapsi hoida tasuta, vabana ja avatuna"
 
 #. type: Yaml Front Matter Hash Value: extra info text
 #: content/donate/index.md
-#, fuzzy, no-wrap
-#| msgid "We are a few enthusiasts contributing in our free time. We love what we do, and we love our users"
+#, no-wrap
 msgid "We are a community contributing in our free time. We love what we do, and we love our users"
-msgstr "Me oleme väikene arendajate tiim, kes vabast ajast veab seda projekti edasi. Meile meeldib see, mida me teeme ning loomulikult armastame oma kasutajaid"
+msgstr "Me oleme kogukond, kes vabast ajast veab seda projekti edasi. Meile meeldib see, mida me teeme ning loomulikult armastame oma kasutajaid"
 
 #. type: Yaml Front Matter Hash Value: extra info text
 #: content/donate/index.md

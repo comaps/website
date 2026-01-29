@@ -251,10 +251,9 @@ msgstr "使用 Open Collective 捐款"
 
 #. type: Yaml Front Matter Hash Value: extra funding items text
 #: content/donate/index.md
-#, fuzzy, no-wrap
-#| msgid "We pay for fast servers, so anyone in the world can download free map data updates without delays. The maps data transfers are hundreds of terabytes monthly, and the amount is growing."
+#, no-wrap
 msgid "We have to keep up fast servers, to update the map files and for you to download them without delays. The maps data transfers make up large, and growing, amounts of data each month."
-msgstr "我們定期支付快速伺服器的費用，以便全世界任何人都可以無延遲地下載免費地圖資料更新。地圖資料傳輸量每月高達數百 TB，而且還在持續增加中。"
+msgstr "我們定期支付速度快的伺服器的費用，以便全世界任何人都可以無延遲地下載地圖資料。地圖資料傳輸量都相當大，而且每個月還在持續增加中。"
 
 #. type: Yaml Front Matter Hash Value: extra funding items title
 #: content/donate/index.md
@@ -278,7 +277,7 @@ msgstr "支持我們"
 #: content/donate/index.md
 #, no-wrap
 msgid "Currently, all development is done by volunteers with limited time. To implement larger, more ambitious features, paying developers might be necessary in the future."
-msgstr ""
+msgstr "目前，所有的開發工作都是以志工型式，花費他們有限的時間。要實作較大，比較有野心的功能，未來可能必須僱用開發者。"
 
 #. type: Yaml Front Matter Hash Value: extra funding items title
 #: content/donate/index.md
@@ -294,17 +293,15 @@ msgstr "資金用途？"
 
 #. type: Yaml Front Matter Hash Value: extra info text
 #: content/donate/index.md
-#, fuzzy, no-wrap
-#| msgid "We rely on your donations to keep CoMaps open and free"
+#, no-wrap
 msgid "We rely on your donations to keep CoMaps free to use"
-msgstr "您的捐款對於維持本應用的開放性和免費性至關重要"
+msgstr "您的捐款對於維持 CoMaps 的開放與免費至關重要"
 
 #. type: Yaml Front Matter Hash Value: extra info text
 #: content/donate/index.md
-#, fuzzy, no-wrap
-#| msgid "We are a few enthusiasts contributing in our free time. We love what we do, and we love our users"
+#, no-wrap
 msgid "We are a community contributing in our free time. We love what we do, and we love our users"
-msgstr "我們是一小群愛好者，利用閒暇時間做貢獻，並為开发 CoMaps 自掏腰包。我們熱愛 CoMaps，也熱愛 CoMaps 的使用者"
+msgstr "我們是社群貢獻者，利用閒暇時間做出貢獻，並為開發 CoMaps 自掏腰包。我們熱愛 CoMaps，也熱愛 CoMaps 的使用者"
 
 #. type: Yaml Front Matter Hash Value: extra info text
 #: content/donate/index.md
@@ -430,7 +427,7 @@ msgstr "發掘導航的潛能！探索以離線為模式、以隱私為中心、
 #: content/download/index.md
 #, no-wrap
 msgid "To verify the app when downloading it as an APK or via Obtainium you can use this fingerprint:"
-msgstr ""
+msgstr "要確認以 APK 或是透過 Obtainium下載，您可以用指紋確認："
 
 #. type: Yaml Front Matter Hash Value: extra app_verifier title
 #: content/download/index.md
@@ -470,53 +467,53 @@ msgstr "隱私"
 #. type: Plain text
 #: content/privacy/index.md
 msgid "At CoMaps, we respect your privacy. CoMaps does not have any form of identification of people, advertising, or personal data collection."
-msgstr ""
+msgstr "當您使用 CoMaps 時，我們尊重您的隱私，CoMaps 並沒有任何形式的識別使用者，打廣告或是收集個人資料。"
 
 #. type: Plain text
 #: content/privacy/index.md
 msgid "CoMaps does not track you."
-msgstr ""
+msgstr "CoMaps 並不會追蹤您。"
 
 #. type: Plain text
 #: content/privacy/index.md content/terms/index.md
 msgid "If you have any questions or suggestions, please contact us at legal@comaps.app"
-msgstr ""
+msgstr "如果您有任何問題或是建議，請寄信到 legal@comaps.app 聯繫我們"
 
 #. type: Plain text
 #: content/privacy/index.md
 msgid "Policy effective: 2025-05-01"
-msgstr ""
+msgstr "隱私政策生效日：2025-05-01"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/terms/index.md
 #, no-wrap
 msgid "Terms"
-msgstr ""
+msgstr "條款"
 
 #. type: Plain text
 #: content/terms/index.md
 msgid "This app is licensed under the Apache License, Version 2.0 (the \"License\"); This application cannot be used except in compliance with the License."
-msgstr ""
+msgstr "這款 app 以 Apache 2.0 版本授權條款 (授權條款) 釋出；如果不符合授權條款的條文則無法使用。"
 
 #. type: Plain text
 #: content/terms/index.md
 msgid "Read [the full license text](https://www.apache.org/licenses/LICENSE-2.0)."
-msgstr ""
+msgstr "閱讀[完整授權條款文字](https://www.apache.org/licenses/LICENSE-2.0)。"
 
 #. type: Plain text
 #: content/terms/index.md
 msgid "Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License."
-msgstr ""
+msgstr "除非適用法律或是撰寫的內容，依據條款的軟體散佈是「依據」基礎，沒有提供擔保，或是其他條件，無論是表現或是套用。請檢視依據條款的特定政府許可以及限制。"
 
 #. type: Plain text
 #: content/terms/index.md
 msgid "Many libraries and 3rd party tools included into [CoMaps repository](https://codeberg.org/comaps/comaps) were developed by multiple people and organizations, and licensed in different ways.  Please refer to their LICENSE, COPYING or NOTICE files for terms of use."
-msgstr ""
+msgstr "許多函式庫以及第三方工具都包括在 [CoMaps 儲存庫](https://codeberg.org/comaps/comaps)，由許多人以及組織來開發，而且以不同的授權條款發佈。請依據授權條款，複雜或是注意檔案的使用條款。"
 
 #. type: Plain text
 #: content/terms/index.md
 msgid "See [data/copyright.html](https://codeberg.org/comaps/comaps/src/branch/main/data/copyright.html) file for a full list of copyright notices for the CoMaps application."
-msgstr ""
+msgstr "請檢視 [data/copyright.html](https://codeberg.org/comaps/comaps/src/branch/main/data/copyright.html) 檔案來取得 CoMaps 應用程式的著作權聲明的完整清單。"
 
 #. type: Hash Value: all_title
 #: translations.yaml

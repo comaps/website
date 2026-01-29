@@ -6,7 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"Last-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>\n"
+"PO-Revision-Date: 2026-01-26 19:03+0000\n"
+"Last-Translator: Kefir2105 <kefir2105@noreply.codeberg.org>\n"
 "Language-Team: Ukrainian <https://translate.codeberg.org/projects/comaps/website/uk/>\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
@@ -68,7 +69,7 @@ msgstr ""
 #: content/_index.md
 #, no-wrap
 msgid "Privacy by default"
-msgstr "Приватність за замовчуванням"
+msgstr "Типова приватність"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
@@ -105,13 +106,13 @@ msgstr "Такі люди, як ви, допомогли створити зас
 #: content/_index.md
 #, no-wrap
 msgid "Free for everyone, Made with love"
-msgstr "Безкоштовно для всіх, зроблено з любов'ю"
+msgstr "Безплатно для всіх, зроблено з любов'ю"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
 #, no-wrap
 msgid "Free and Built by the Community"
-msgstr "Безкоштовний і створений спільнотою"
+msgstr "Безплатний і створений спільнотою"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/_index.md
@@ -185,7 +186,7 @@ msgstr "**Проєктуйте** інтерфейс"
 #: content/community/index.md
 #, no-wrap
 msgid "Add translations to make it accessible for more people around the world"
-msgstr "Додати переклади, щоб зробити його доступним для більшої кількості людей по всьому світу"
+msgstr "Додайте переклади, щоб зробити його доступним для більшої кількості людей по всьому світу"
 
 #. type: Yaml Front Matter Hash Value: extra features title
 #: content/community/index.md
@@ -209,7 +210,7 @@ msgstr "**Додайте** інформацію про місце"
 #: content/community/index.md
 #, no-wrap
 msgid "Help people use the app, and answer questions"
-msgstr "Допомагайте людям користуватися додатком та відповідайте на запитання"
+msgstr "Допомагайте людям користуватися застосунком та відповідайте на запитання"
 
 #. type: Yaml Front Matter Hash Value: extra features title
 #: content/community/index.md
@@ -270,7 +271,7 @@ msgstr "Інфраструктура"
 #: content/donate/index.md
 #, no-wrap
 msgid "User support, fixing bugs, and improving the stability of the app are our top priority. The list of requests and bug reports grows every day, and there are many support requests to respond to on the App Store, Google Play, and support emails."
-msgstr "Підтримка користувачів, виправлення помилок і покращення стабільності додатку є нашим головним пріоритетом. Список запитів та повідомлень про помилки зростає щодня, і ми маємо багато звернень до служби підтримки в App Store, Google Play та на електронну пошту, на які потрібно відповідати."
+msgstr "Підтримка користувачів, виправлення помилок і покращення стабільності застосунку і є нашим головним пріоритетом. Список запитів та повідомлень про помилки зростає щодня, і ми маємо багато звернень до служби підтримки в App Store, Google Play та на електронну пошту, на які потрібно відповідати."
 
 #. type: Yaml Front Matter Hash Value: extra funding items title
 #: content/donate/index.md
@@ -314,7 +315,7 @@ msgstr "Ми — кілька ентузіастів, які роблять св
 #: content/donate/index.md
 #, no-wrap
 msgid "With your support, we are working toward privacy-focused map navigation that is the preferred choice on the market"
-msgstr "Завдяки вашій підтримці ми працюємо над створенням навігаційного додатку з фокусом на приватність, який стане кращим вибором на ринку"
+msgstr "Завдяки вашій підтримці ми працюємо над створенням навігаційного застосунку з фокусом на приватність, який стане кращим вибором на ринку"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/support/_index.md
@@ -338,7 +339,7 @@ msgstr "Безкоштовна та відкрита навігація з фо�
 #: content/about-us/index.md
 #, no-wrap
 msgid "CoMaps is a community-focused privacy navigation app for travelers - drivers, hikers, and cyclists. It uses the crowd-sourced OpenStreetMap data with contributors from all over the globe. It offers navigation with privacy - no identifying people and no data collection. CoMaps features can operate without an active internet connection for offline navigation at urban or distant locations, where cellular service is not available. CoMaps is an open-source project, and prioritizes community development."
-msgstr "CoMaps — це орієнтований на спільноту навігаційний додаток, що піклується про приватність мандрівників: водіїв, туристів та велосипедистів. Він використовує дані OpenStreetMap, які створюються учасниками з усього світу. Додаток пропонує навігацію із захистом приватності — без ідентифікації осіб та збору даних. Функції CoMaps можуть працювати без активного інтернет-з'єднання для офлайн-навігації в містах або віддалених місцях, де немає мобільного зв'язку. CoMaps — це відкритий проєкт, пріоритетом якого є розвиток спільноти."
+msgstr "CoMaps — це орієнтований на спільноту навігаційний застосунок, що піклується про приватність мандрівників: водіїв, туристів та велосипедистів. Він використовує дані OpenStreetMap, які створюються учасниками з усього світу. Додаток пропонує навігацію із захистом приватності — без ідентифікації осіб та збору даних. Функції CoMaps можуть працювати без активного інтернет-з'єднання для автономної навігації в містах або віддалених місцях, де немає мобільного зв'язку. CoMaps — це відкритий проєкт, пріоритетом якого є розвиток спільноти."
 
 #. type: Yaml Front Matter Hash Value: extra about title
 #: content/about-us/index.md
@@ -428,7 +429,7 @@ msgstr "Про нас"
 #: content/download/index.md
 #, no-wrap
 msgid "Unlock the potential of navigation! Discover offline maps, privacy-centric features, and a community-driven app"
-msgstr "Розкрийте потенціал навігації! Відкрийте для себе офлайн-карти, функції, орієнтовані на приватність, та додаток, створений спільнотою"
+msgstr "Розкрийте потенціал навігації! Відкрийте для себе автономні мапи, функції, орієнтовані на приватність, та застосунок, створений спільнотою"
 
 #. type: Yaml Front Matter Hash Value: extra app_verifier description
 #: content/download/index.md

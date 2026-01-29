@@ -6,6 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
+"PO-Revision-Date: 2026-01-24 05:21+0000\n"
 "Last-Translator: Stephan-P <stephan-p@noreply.codeberg.org>\n"
 "Language-Team: Dutch <https://translate.codeberg.org/projects/comaps/website/nl/>\n"
 "Language: nl\n"
@@ -251,10 +252,9 @@ msgstr "Doneer via Open Collective"
 
 #. type: Yaml Front Matter Hash Value: extra funding items text
 #: content/donate/index.md
-#, fuzzy, no-wrap
-#| msgid "We have to keep up fast servers, so anyone in the world can download free map data updates without delays. These maps data transfers make up large, and growing, amounts of data each month."
+#, no-wrap
 msgid "We have to keep up fast servers, to update the map files and for you to download them without delays. The maps data transfers make up large, and growing, amounts of data each month."
-msgstr "We hebben snelle servers nodig, zodat iedereen ter wereld zonder vertragingen gratis updates van kaarten kan downloaden. Deze overdrachten vormen elke maand grote en groeiende hoeveelheden gegevens."
+msgstr "We moeten snelle servers bijhouden om de kaartbestanden bij te werken en jou deze zonder vertragingen te laten downloaden. Deze overdrachten vormen elke maand grote en groeiende hoeveelheden gegevens."
 
 #. type: Yaml Front Matter Hash Value: extra funding items title
 #: content/donate/index.md
@@ -278,7 +278,7 @@ msgstr "Ondersteuning"
 #: content/donate/index.md
 #, no-wrap
 msgid "Currently, all development is done by volunteers with limited time. To implement larger, more ambitious features, paying developers might be necessary in the future."
-msgstr ""
+msgstr "Momenteel wordt alle ontwikkeling gedaan door vrijwilligers in hun vrije tijd. Voor de implementatie van grotere, ambitieuzere functies, kunnen in de toekomst betalende ontwikkelaars nodig zijn."
 
 #. type: Yaml Front Matter Hash Value: extra funding items title
 #: content/donate/index.md
@@ -294,17 +294,15 @@ msgstr "Hoe zal de financiering worden gebruikt?"
 
 #. type: Yaml Front Matter Hash Value: extra info text
 #: content/donate/index.md
-#, fuzzy, no-wrap
-#| msgid "We rely on your donations to keep CoMaps open and free"
+#, no-wrap
 msgid "We rely on your donations to keep CoMaps free to use"
-msgstr "Wij zijn afhankelijk van jouw donaties om CoMaps open en gratis te houden"
+msgstr "Wij zijn afhankelijk van jouw donaties om CoMaps vrij in gebruik te houden"
 
 #. type: Yaml Front Matter Hash Value: extra info text
 #: content/donate/index.md
-#, fuzzy, no-wrap
-#| msgid "We are a few enthusiasts contributing in our free time. We love what we do, and we love our users"
+#, no-wrap
 msgid "We are a community contributing in our free time. We love what we do, and we love our users"
-msgstr "Wij zijn een paar enthousiastelingen die bijdragen in hun vrije tijd. We houden van wat we doen en van onze gebruikers"
+msgstr "Wij zijn een gemeenschap die bijdragen in hun vrije tijd. We houden van wat we doen en van onze gebruikers"
 
 #. type: Yaml Front Matter Hash Value: extra info text
 #: content/donate/index.md
