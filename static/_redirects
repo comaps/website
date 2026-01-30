@@ -5,3 +5,5 @@
 /privacy.html /privacy/ 301
 /policy/ /privacy/ 301
 /:lang/policy/ /:lang/privacy/ 301
+/whatsnew https://codeberg.org/comaps/comaps/releases 301
+/latest https://codeberg.org/comaps/comaps/releases 301
