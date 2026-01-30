@@ -1,6 +1,6 @@
 ---
 title: "AlternativeTo: Organic Maps fork CoMaps launches first preview release, but limited to Android users"
-description: 
+description: "CoMaps launches first preview release, on Android only"
 date: 2025-06-02T09:30:00+01:00
 slug: "Organic-Maps-fork-CoMaps-launches-first-preview-release-but-limited-to-Android-users"
 taxonomies:

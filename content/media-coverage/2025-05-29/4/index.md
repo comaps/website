@@ -1,6 +1,6 @@
 ---
 title: "Arabian Post: Organic Maps Fork Spurs Governance Debate"
-description: 
+description: "CoMaps forks Organic Maps over trust concerns."
 date: 2025-05-29T0:00:00+03:00
 slug: "Organic-Maps-Fork-Spurs-Governance-Debate"
 taxonomies:

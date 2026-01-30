@@ -1,6 +1,6 @@
 ---
 title: "IT'S FOSS NEWS: Look Google, We Have This New Private, Offline Alternative Now"
-description: 
+description: "IT'S FOSS compares CoMaps to Google Maps."
 date: 2025-07-04T12:30:00+05:30
 slug: "ITS-FOSS-NEWS-Look-Google-We-Have-This-New-Private-Offline-Alternative-Now"
 taxonomies:

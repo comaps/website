@@ -1,6 +1,6 @@
 ---
 title: "CoMaps Release 2025.06.30 is out!"
-description: 
+description: "CoMaps version 2025.06.30-22 adds automatic bookmark and track backups, improved isolines, and more."
 date: 2025-06-30T09:00:00-00:00
 slug: "2025.06.30-release-is-out"
 taxonomies:

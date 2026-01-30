@@ -1,6 +1,6 @@
 ---
 title: "Android Release 2025.06.22 is out - Rework of the map colors and more..."
-description: 
+description: "CoMaps version 2025.06.22 brings many user interface changes for an improved UI."
 date: 2025-06-22T09:00:00-00:00
 slug: "Release-2025.06.22-is-out-Rework-of-the-map-colors-and-more"
 taxonomies:

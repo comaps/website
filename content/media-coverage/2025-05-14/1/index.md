@@ -1,6 +1,6 @@
 ---
 title: "AlternativeTo: Organic Maps contributors fork project as concerns over governance and transparency grow"
-description: 
+description: "CoMaps, a new fork of Organic Maps, seeks reform of governance and openness"
 date: 2025-05-14T02:15:00-08:00
 slug: "AlternativeTo-Organic Maps-contributors-fork-project-as-concerns-over-governance-and-transparency-grow"
 taxonomies:

@@ -1,6 +1,6 @@
 ---
 title: "Altus Intel: CoMaps Launches ORGANIC MAPS App Fork Development"
-description: 
+description: "CoMaps was established by community participants due to dissatisfaction with the project's dependence on the interests of shareholders of the commercial company Organic Maps Oü"
 date: 2025-05-06T05:45:00+00:00
 slug: "CoMaps-Launches-ORGANIC-MAPS-App-Fork-Development"
 taxonomies:

@@ -1,6 +1,6 @@
 ---
 title: "Wikibooks: MAPS.ME to Organic Maps/OM Crisis"
-description:
+description: "Read about the Organic Maps crisis on Wikibooks."
 date: 2025-04-20T22:33:00-08:00
 slug: "CoMaps-Launches-ORGANIC-MAPS-App-Fork-Development"
 taxonomies:

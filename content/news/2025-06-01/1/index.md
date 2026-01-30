@@ -1,6 +1,6 @@
 ---
 title: "CoMaps Android preview release is out!"
-description: 
+description: "The CoMaps Android preview release is out as a downloadable APK. Featuring OpenStreetMap data as of May 15th."
 date: 2025-06-01T00:00:00-00:00
 slug: "CoMaps-Android-preview-release"
 taxonomies:

@@ -1,6 +1,6 @@
 ---
 title: "Announcing CoMaps! Navigate with Privacy - Discover more of your journey!"
-description:
+description: "CoMaps is now available on Google Play, the Apple App store, and F-Droid"
 date: 2025-07-03T08:00:00-00:00
 slug: "Announcing-Navigate-with-Privacy-Discover-more-of-your-journey"
 taxonomies:

@@ -1,6 +1,6 @@
 ---
 title: "AlternativeTo: Organic Maps fork CoMaps launches on major app stores for iOS and Android"
-description: 
+description: "AlternativeTo announces CoMaps is now available on Google Play, the Apple App store, and F-Droid"
 date: 2025-07-03T16:30:00-07:00
 slug: "AlternativeTo-Organic-Maps-fork-CoMaps-launches-on-major-app-stores-for-iOS-and-Android"
 taxonomies:

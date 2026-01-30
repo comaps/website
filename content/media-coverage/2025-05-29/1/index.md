@@ -1,6 +1,6 @@
 ---
 title: "IT'S FOSS NEWS: Organic Maps Forked Over Governance Concerns: CoMaps is Born"
-description: 
+description: "CoMaps, a fork of Organic Maps, raises concerns over Organic Map's governance."
 date: 2025-05-29T12:00:00+05:30
 slug: "ITs-FOSS-NEWS--Organic-Maps-Forked-Over-Governance-Concerns-CoMaps-is-Born"
 taxonomies:

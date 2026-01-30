@@ -1,6 +1,6 @@
 ---
 title: "Winner of the Project Name Vote!"
-description: 
+description: "The CoMaps community has spoken! CoMaps will retain the name CoMaps."
 date: 2025-05-21T08:22:00-08:00
 slug: "Winner-of-the-Project-Name-Vote"
 taxonomies:

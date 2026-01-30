@@ -1,6 +1,6 @@
 ---
 title: "Codeberg: Community Spotlight - welcome to the maintainers of CoMaps"
-description: 
+description: "Codeberg welcomes the CoMaps community"
 date: 2025-06-12T09:00:00+00:00
 slug: "Codeberg-Community-Spotlight-welcome-to-the-maintainers-of-CoMaps"
 taxonomies:

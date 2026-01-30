@@ -1,6 +1,6 @@
 ---
 title: "MENAFN: Organic Maps Fork Spurs Governance Debate"
-description: 
+description: "CoMaps forks from Organic Maps over governance and trust concerns."
 date: 2025-05-29T02:14:55+03:00
 slug: "MENAFN-Organic Maps-Fork-Spurs-Governance-Debate"
 taxonomies:

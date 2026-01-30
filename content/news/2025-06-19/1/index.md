@@ -1,6 +1,6 @@
 ---
 title: "CoMaps is now on F-Droid!"
-description: 
+description: "The first CoMaps release on F-Droid is now available for download."
 date: 2025-06-19T08:00:00-00:00
 slug: "CoMaps-is-now-on-F-Droid"
 taxonomies:
