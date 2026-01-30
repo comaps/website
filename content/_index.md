@@ -44,6 +44,9 @@ extra:
                 media:
                     map: /images/sections/map-s-4.webp
                     user: /images/sections/map-m-4.webp
+                cta: 
+                    href: community/
+                    text: inv_title
     freedom:                
         title: Freedom Is Here
         description: Discover your journey, navigate the world with privacy and community at the forefront.

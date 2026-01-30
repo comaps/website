@@ -13,6 +13,7 @@
                 <div class="services__content">
                     <h3 class="h2 services__title">{{ i.title }}</h3>
                     <div class="p services__description">{{ i.description | markdown | safe }}</div>
+                    {% if i.cta %} <a class="button button--white" href="{{ get_url(path=i.cta.href, lang=lang) }}">{{trans(key=i.cta.text, lang=lang)}}</a>  {% endif %}
                 </div>
                 <div class="services__card">
                     <img class="services__img services__img--first animation-item" src="{{ i.media.user }}" alt="">
