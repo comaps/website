@@ -17,6 +17,7 @@ if (null === window.localStorage.getItem('lang')) {
         if (pageTranslations[j] != '{{ config.default_language }}') {
           window.location.pathname = '/' + pageTranslations[j] + window.location.pathname;
         }
+        candidateLanguages = [];
         break outerLoop;
       }
       // partial match, i.e. same language but different locale/variant (e.g. pref is de-CH, match de)
@@ -29,8 +30,8 @@ if (null === window.localStorage.getItem('lang')) {
   if (candidateLanguages.length > 0) {
     window.localStorage.setItem('lang', candidateLanguages[0]);
     // Do not redirect the default 'en' language.
-    if (pageTranslations[j] != '{{ config.default_language }}') {
-      window.location.pathname = '/' + pageTranslations[j] + window.location.pathname;
+    if (candidateLanguages[0] != '{{ config.default_language }}') {
+      window.location.pathname = '/' + candidateLanguages[0] + window.location.pathname;
     }
    }
 }
