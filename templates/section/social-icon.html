@@ -1,7 +1,23 @@
-<div class="container section-social__row">
-    {% if config.extra.social %}
-        {% for soc in config.extra.social %}
-            <a href="{{ soc.link }}" aria-label="{{ soc.title }}" class="section-social__item {% if soc.class %}{{ soc.class }}{% endif %}">{{ load_data(path="static/images/icons/social/" ~ soc.icon) | safe }}</a>
-        {% endfor %}
-    {% endif %}
+<div class="container">
+    <div class="section-social__row">
+        {% if config.extra.social_media %}
+            {% for soc in config.extra.social_media %}
+                <a href="{{ soc.link }}" aria-label="{{ soc.title }}" class="section-social__item {% if soc.class %}{{ soc.class }}{% endif %}">{{ load_data(path="static/images/icons/social/" ~ soc.icon) | safe }}</a>
+            {% endfor %}
+        {% endif %}
+    </div>
+    <div class="section-social__row">
+        {% if config.extra.chat %}
+            {% for soc in config.extra.chat %}
+                <a href="{{ soc.link }}" aria-label="{{ soc.title }}" class="section-social__item {% if soc.class %}{{ soc.class }}{% endif %}">{{ load_data(path="static/images/icons/social/" ~ soc.icon) | safe }}</a>
+            {% endfor %}
+        {% endif %}
+    </div>
+    <div class="section-social__row">
+        {% if config.extra.miscellaneous %}
+            {% for soc in config.extra.miscellaneous %}
+                <a href="{{ soc.link }}" aria-label="{{ soc.title }}" class="section-social__item {% if soc.class %}{{ soc.class }}{% endif %}">{{ load_data(path="static/images/icons/social/" ~ soc.icon) | safe }}</a>
+            {% endfor %}
+        {% endif %}
+    </div>
 </div>

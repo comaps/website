@@ -58,106 +58,105 @@ external_links_target_blank = true
 paths = "safe"
 taxonomies = "on"
 
-# [extra]
-# stripe = "https://donate.comaps.app/"
-
-[[extra.social]]
+[[extra.social_media]]
 title = "mastodon"
 icon = "mastodon.svg"
 link = "https://floss.social/@CoMaps"
 
-[[extra.social]]
-title = "matrix"
-icon = "matrix.svg"
-link = "https://matrix.to/#/%23comaps:matrix.org"
+[[extra.social_media]]
+title = "pixelfed"
+icon = "pixelfed.svg"
+link = "https://pixelfed.social/CoMaps"
 
-[[extra.social]]
+[[extra.social_media]]
 title = "Bluesky"
 icon = "bluesky.svg"
 link = "https://bsky.app/profile/comaps.app"
 
-[[extra.social]]
-title = "telegram"
-icon = "telegram.svg"
-link = "https://t.me/CoMapsApp"
-
-[[extra.social]]
+[[extra.social_media]]
 title = "Lemmy"
 icon = "lemmy.svg"
 link = "https://sopuli.xyz/c/CoMaps"
 
-[[extra.social]]
-title = "Instagram"
-icon = "insta.svg"
-link = "https://www.instagram.com/comaps.app/"
-
-[[extra.social]]
-title = "facebook"
-icon = "fb.svg"
-link = "https://www.facebook.com/CoMapsApp/"
-
-[[extra.social]]
-title = "linkedin"
-icon = "linkedin.svg"
-link = "https://www.linkedin.com/company/comapsapp/"
-
-[[extra.social]]
+[[extra.social_media]]
 title = "reddit"
 icon = "reddit.svg"
 link = "https://www.reddit.com/r/CoMaps/"
 
-[[extra.social]]
-title = "signal"
-icon = "signal.svg"
-link = "https://signal.group/#CjQKIJdCAMWLYeBmBNJzSFtkMyPjMgCqDmmtpxRG7fVs865MEhCn40qur9UqObYzsH8FI0bs"
+# [[extra.social_media]]
+# title = "Instagram"
+# icon = "insta.svg"
+# link = "https://www.instagram.com/comaps.app/"
 
-[[extra.social]]
-title = "threads"
-icon = "threads.svg"
-link = "https://www.threads.com/@comaps.app"
+# [[extra.social_media]]
+# title = "facebook"
+# icon = "fb.svg"
+# link = "https://www.facebook.com/CoMapsApp/"
 
-[[extra.social]]
+# [[extra.social_media]]
+# title = "linkedin"
+# icon = "linkedin.svg"
+# link = "https://www.linkedin.com/company/comapsapp/"
+
+# [[extra.social_media]]
+# title = "threads"
+# icon = "threads.svg"
+# link = "https://www.threads.com/@comaps.app"
+
+# [[extra.social_media]]
+# title = "x"
+# icon = "x.svg"
+# link = "https://x.com/comapsapp"
+# class= "icon-x"
+
+[[extra.chat]]
+title = "matrix"
+icon = "matrix.svg"
+link = "https://matrix.to/#/#comaps-space:matrix.org"
+
+[[extra.chat]]
 title = "SimpleX"
 icon = "simplex.svg"
 link = "https://simplex.chat/contact#/?v=2-7&smp=smp%3A%2F%2FZKe4uxF4Z_aLJJOEsC-Y6hSkXgQS5-oc442JQGkyP8M%3D%40smp17.simplex.im%2FGXVXWYUwygUQ_pl4tXlHKOHZHy4keMs_%23%2F%3Fv%3D1-4%26dh%3DMCowBQYDK2VuAyEAO0uHOTEel8n1JH8nNXUedXcEO235LiM9tIdySXo0Ahs%253D%26q%3Dc%26srv%3Dogtwfxyi3h2h5weftjjpjmxclhb5ugufa5rcyrmg7j4xlch7qsr5nuqd.onion&data=%7B%22groupLinkId%22%3A%22Gg3cxlN3gwtVJhiGH0WuZw%3D%3D%22%7D"
 
-# [[extra.social]]
+[[extra.chat]]
+title = "signal"
+icon = "signal.svg"
+link = "https://signal.group/#CjQKIJdCAMWLYeBmBNJzSFtkMyPjMgCqDmmtpxRG7fVs865MEhCn40qur9UqObYzsH8FI0bs"
+
+[[extra.chat]]
+title = "telegram"
+icon = "telegram.svg"
+link = "https://codeberg.org/comaps/communication/wiki/Chat-Rooms"
+
+[[extra.miscellaneous]]
+title = "opencollective"
+icon = "opencollective.svg"
+link = "https://opencollective.com/comaps"
+
+[[extra.miscellaneous]]
+title = "email"
+icon = "email.svg"
+link = "mailto:hello@comaps.app"
+
+# [extra]
+# stripe = "https://donate.comaps.app/"
+
+# [[extra.social_media]]
 # title = "tiktok"
 # icon = "tiktok.svg"
 # link = "https://www.tiktok.com/@comapscommunity"
 
-# [[extra.social]]
+# [[extra.social_media]]
 # title = "youtube"
 # icon = "youtube.svg"
 # link = ""
-
- [[extra.social]]
- title = "x"
- icon = "x.svg"
- link = "https://x.com/comapsapp"
- class= "icon-x"
 
 # [[extra.social]]
 # title = "github"
 # icon = "github-circle.svg"
 # link = ""
 # class= "icon-github"
-
-[[extra.social]]
-title = "pixelfed"
-icon = "pixelfed.svg"
-link = "https://pixelfed.social/CoMaps"
-
-[[extra.social]]
-title = "opencollective"
-icon = "opencollective.svg"
-link = "https://opencollective.com/comaps"
-
-[[extra.social]]
-title = "email"
-icon = "email.svg"
-link = "mailto:hello@comaps.app"
-
 
 # Default English translation
 [translations]
