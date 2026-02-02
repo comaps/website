@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"PO-Revision-Date: 2026-01-25 07:21+0000\n"
-"Last-Translator: astro-ray <astro-ray@noreply.codeberg.org>\n"
+"PO-Revision-Date: 2026-02-02 14:29+0000\n"
+"Last-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>\n"
 "Language-Team: Bengali <https://translate.codeberg.org/projects/comaps/website/bn/>\n"
 "Language: bn\n"
 "MIME-Version: 1.0\n"
@@ -278,7 +278,7 @@ msgstr "পরিকাঠামো"
 #: content/donate/index.md
 #, no-wrap
 msgid "User support, fixing bugs, and improving the stability of the app are our top priority. The list of requests and bug reports grows every day, and there are many support requests to respond to on the App Store, Google Play, and support emails."
-msgstr ""
+msgstr "ব্যবহারকারী সহায়তা, বাগ ফিক্স করা এবং অ্যাপের স্থিতিশীলতা উন্নত করা আমাদের শীর্ষ অগ্রাধিকার। অনুরোধ ও বাগ রিপোর্টের তালিকা প্রতিদিনই বাড়ছে, এবং অ্যাপ স্টোর, গুগল প্লে ও সহায়তা ইমেইলে প্রতিক্রিয়া জানাতে অনেক সহায়তা অনুরোধ রয়েছে।"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/donate/index.md content/support/_index.md
@@ -296,25 +296,25 @@ msgstr "ফান্ড কীভাবে করা হবে?"
 #: content/donate/index.md
 #, no-wrap
 msgid "We rely on your donations to keep CoMaps open and free"
-msgstr ""
+msgstr "আমরা CoMaps-কে উন্মুক্ত ও বিনামূল্যে রাখতে আপনার অনুদানের ওপর নির্ভর করি"
 
 #. type: Yaml Front Matter Hash Value: extra info text
 #: content/donate/index.md
 #, no-wrap
 msgid "We are a few enthusiasts contributing in our free time. We love what we do, and we love our users"
-msgstr ""
+msgstr "আমরা কয়েকজন উৎসাহী ব্যক্তি যারা আমাদের অবসর সময়ে অবদান রাখি। আমরা যা করি তা ভালোবাসি, এবং আমাদের ব্যবহারকারীদের ভালোবাসি"
 
 #. type: Yaml Front Matter Hash Value: extra info text
 #: content/donate/index.md
 #, no-wrap
 msgid "With your support, we are working toward privacy-focused map navigation that is the preferred choice on the market"
-msgstr ""
+msgstr "আপনার সমর্থনে, আমরা গোপনীয়তা-কেন্দ্রিক মানচিত্র নেভিগেশনের দিকে কাজ করছি যা বাজারে পছন্দের বিকল্প"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/support/_index.md
 #, no-wrap
 msgid "Need assistance? Search for answers to common questions. Get the support you need and connect with others in the community for help."
-msgstr ""
+msgstr "সহায়তা প্রয়োজন? সাধারণ প্রশ্নের উত্তর খুঁজুন। প্রয়োজনীয় সহায়তা পান এবং সম্প্রদায়ের অন্যদের সাথে সংযোগ করুন।"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/about-us/index.md
@@ -350,19 +350,19 @@ msgstr "Maps.me তাদের সোর্স কোড Apache 2.0 লাই�
 #: content/about-us/index.md
 #, no-wrap
 msgid "The Organic Maps project & company were founded, based on the Maps.Me source code."
-msgstr ""
+msgstr "Organic Maps প্রকল্প ও কোম্পানি Maps.Me-এর সোর্স কোডের উপর ভিত্তি করে প্রতিষ্ঠিত হয়েছিল।"
 
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md
 #, no-wrap
 msgid "Governance issues and community concerns not addressed by company shareholders stalled the development of Organic Maps for months."
-msgstr ""
+msgstr "কোম্পানির সেয়ারহোল্ডাররা প্রতিষ্ঠানমূলক এবং সাম্প্রদায়িক উদ্বেগগুলি সমাধান করেনি এবং তার কারণে Organic Maps-এর উন্নয়ন মাসের পর মাস থমকে গিয়েছিল।"
 
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md
 #, no-wrap
 msgid "The **CoMaps** community & non-profit project was founded by former Organic Maps contributors, based on the Organic Maps source code."
-msgstr ""
+msgstr "**CoMaps** সম্প্রদায় ও নন্-প্রফিট প্রকল্পটি প্রাক্তন Organic Maps অবদানকারীদের দ্বারা Organic Maps সোর্স কোডের ভিত্তিতে প্রতিষ্ঠিত হয়েছিল।"
 
 #. type: Yaml Front Matter Hash Value: extra history title
 #: content/about-us/index.md
@@ -398,7 +398,7 @@ msgstr ""
 #: content/about-us/index.md translations.yaml
 #, no-wrap
 msgid "About Us"
-msgstr ""
+msgstr "আমাদের সম্বন্ধে"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/download/index.md
@@ -428,13 +428,13 @@ msgstr ""
 #: content/download/index.md
 #, no-wrap
 msgid "Community-Driven"
-msgstr ""
+msgstr "সম্প্রদায়-চালিত"
 
 #. type: Yaml Front Matter Hash Value: extra steps title
 #: content/download/index.md
 #, no-wrap
 msgid "Already downloaded?"
-msgstr ""
+msgstr "ইতিমধ্যেই ডাউনলোড করেছেন?"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/download/index.md
@@ -452,19 +452,19 @@ msgstr ""
 #: content/api/index.md
 #, no-wrap
 msgid "API Page"
-msgstr ""
+msgstr "API পৃষ্ঠা"
 
 #. type: Plain text
 #: content/api/index.md
 #, markdown-text
 msgid "The API is documented on [comaps.at/api](https://comaps.at/api)."
-msgstr ""
+msgstr "API-টি [comaps.at/api](https://comaps.at/api)-এ ডকুমেন্ট করা হয়েছে।"
 
 #. type: Hash Value: all_title
 #: translations.yaml
 #, no-wrap
 msgid "All"
-msgstr ""
+msgstr "সব"
 
 #. type: Hash Value: button-download
 #: translations.yaml
@@ -494,19 +494,19 @@ msgstr "আমরা কিভাবে সাহায্য করতে প�
 #: translations.yaml
 #, no-wrap
 msgid "Build the app used by people around the world"
-msgstr ""
+msgstr "বিশ্বজুড়ে মানুষ যে অ্যাপটি ব্যবহার করে, সেটি তৈরি করুন"
 
 #. type: Hash Value: inv_code_title
 #: translations.yaml
 #, no-wrap
 msgid "Contribute Code"
-msgstr ""
+msgstr "কোড অবদান করুন"
 
 #. type: Hash Value: inv_info_text
 #: translations.yaml
 #, no-wrap
 msgid "Add info around you, and make the maps better for everyone"
-msgstr ""
+msgstr "আপনার চারপাশের তথ্য যোগ করুন, এবং সবার জন্য মানচিত্রগুলো আরও উন্নত করুন"
 
 #. type: Hash Value: inv_info_title
 #: translations.yaml

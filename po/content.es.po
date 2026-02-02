@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"PO-Revision-Date: 2026-01-28 03:21+0000\n"
-"Last-Translator: patepelo <patepelo@noreply.codeberg.org>\n"
+"PO-Revision-Date: 2026-01-30 12:08+0000\n"
+"Last-Translator: gedankenstuecke <gedankenstuecke@noreply.codeberg.org>\n"
 "Language-Team: Spanish <https://translate.codeberg.org/projects/comaps/website/es/>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
@@ -252,10 +252,9 @@ msgstr "Donar vía Open Collective"
 
 #. type: Yaml Front Matter Hash Value: extra funding items text
 #: content/donate/index.md
-#, fuzzy, no-wrap
-#| msgid "We have to keep up fast servers, so anyone in the world can download free map data updates without delays. These maps data transfers make up large, and growing, amounts of data each month."
+#, no-wrap
 msgid "We have to keep up fast servers, to update the map files and for you to download them without delays. The maps data transfers make up large, and growing, amounts of data each month."
-msgstr "Pagamos por servidores veloces, para que cualquier persona del mundo pueda descargar gratis actualizaciones de mapas rápidamente. Las transferencias de datos de mapas son cientos de TB al mes, y la cantidad sigue creciendo."
+msgstr "Pagamos por servidores veloces, para actualizar los mapas y para que cualquier persona pueda descargarlos rápidamente. Las transferencias de datos de mapas son cientos de TB al mes, y la cantidad sigue creciendo."
 
 #. type: Yaml Front Matter Hash Value: extra funding items title
 #: content/donate/index.md

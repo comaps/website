@@ -6,6 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
+"PO-Revision-Date: 2026-01-30 22:29+0000\n"
 "Last-Translator: JanezPavelZebovec <janezpavelzebovec@noreply.codeberg.org>\n"
 "Language-Team: Slovenian <https://translate.codeberg.org/projects/comaps/website/sl/>\n"
 "Language: sl\n"
@@ -113,8 +114,7 @@ msgstr "Brezplačno in razvito s strani skupnosti"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/_index.md
-#, fuzzy, no-wrap
-#| msgid "Hike, Bike, Drive Offline Navigate with Privacy"
+#, no-wrap
 msgid "Hike, Bike, Drive Offline – Navigate with Privacy"
 msgstr "Peš, na kolesu ali v avtu brez povezave – usmerjajte se zasebno"
 
@@ -252,10 +252,9 @@ msgstr "Darujte preko Open Collective"
 
 #. type: Yaml Front Matter Hash Value: extra funding items text
 #: content/donate/index.md
-#, fuzzy, no-wrap
-#| msgid "We have to keep up fast servers, so anyone in the world can download free map data updates without delays. These maps data transfers make up large, and growing, amounts of data each month."
+#, no-wrap
 msgid "We have to keep up fast servers, to update the map files and for you to download them without delays. The maps data transfers make up large, and growing, amounts of data each month."
-msgstr "Vzdržujemo hitre strežnike, da bi lahko vsakdo zastonj prenesel posodobitve podatkov zemljevida brez zamud. Ti pretoki podatkov zemljevida pomenijo ogromne in rastoče količine podatkov vsak mesec."
+msgstr "Za posodabljanje podatkov zemljevida in njihovo prenašanje brez zamud moramo vzdrževati hitre strežnike. Ti pretoki podatkov zemljevida pomenijo ogromne in vsak mesec rastoče količine podatko."
 
 #. type: Yaml Front Matter Hash Value: extra funding items title
 #: content/donate/index.md
@@ -279,7 +278,7 @@ msgstr "Podpora"
 #: content/donate/index.md
 #, no-wrap
 msgid "Currently, all development is done by volunteers with limited time. To implement larger, more ambitious features, paying developers might be necessary in the future."
-msgstr ""
+msgstr "Trenutno ves razvoj opravijo prostovoljci z omejenim časom. Za uvedbo večjih, velikopoteznejših zmogljivosti bo v prihodnosti morda potrebno plačevati razvijalcem."
 
 #. type: Yaml Front Matter Hash Value: extra funding items title
 #: content/donate/index.md
@@ -295,17 +294,15 @@ msgstr "Kako bodo sredstva porabljena?"
 
 #. type: Yaml Front Matter Hash Value: extra info text
 #: content/donate/index.md
-#, fuzzy, no-wrap
-#| msgid "We rely on your donations to keep CoMaps open and free"
+#, no-wrap
 msgid "We rely on your donations to keep CoMaps free to use"
-msgstr "Zanašamo se na darove, da ohranimo CoMaps odprt in brezplačen"
+msgstr "Zanašamo se na vaše darove, da ohranimo CoMaps brezplačen"
 
 #. type: Yaml Front Matter Hash Value: extra info text
 #: content/donate/index.md
-#, fuzzy, no-wrap
-#| msgid "We are a few enthusiasts contributing in our free time. We love what we do, and we love our users"
+#, no-wrap
 msgid "We are a community contributing in our free time. We love what we do, and we love our users"
-msgstr "Smo skupina navdušencev, ki v prostem času prispevamo k temu projektu. Radi imamo to, kar počnemo in naše uporabnike"
+msgstr "Smo skupnost ljudi, ki v prostem času prispevamo k temu projektu. Radi imamo to, kar počnemo in naše uporabnike"
 
 #. type: Yaml Front Matter Hash Value: extra info text
 #: content/donate/index.md
@@ -383,13 +380,13 @@ msgstr "Zgodovina"
 #: content/about-us/index.md
 #, no-wrap
 msgid "See the full list of media coverage about CoMaps."
-msgstr ""
+msgstr "Poglejte si celotni seznam omemb CoMapsa na omrežjih."
 
 #. type: Yaml Front Matter Hash Value: extra media_highlights title
 #: content/about-us/index.md
 #, no-wrap
 msgid "Media Highlights"
-msgstr ""
+msgstr "Izpostavljene omembe"
 
 #. type: Yaml Front Matter Hash Value: extra vm items text
 #: content/about-us/index.md
@@ -431,20 +428,19 @@ msgstr "Izkoristite zmožnosti potnega usmerjanja! Odkrijte zemljevide brez pove
 #: content/download/index.md
 #, no-wrap
 msgid "To verify the app when downloading it as an APK or via Obtainium you can use this fingerprint:"
-msgstr ""
+msgstr "Za potrditev orodja v primeru njegovega prenašanja kot APK ali preko Obtainium lahko uporabite ta prstni odtis:"
 
 #. type: Yaml Front Matter Hash Value: extra app_verifier title
 #: content/download/index.md
 #, no-wrap
 msgid "Verifying the Android app"
-msgstr ""
+msgstr "Potrjevanje Androidovega orodja"
 
 #. type: Yaml Front Matter Hash Value: extra releases title
 #: content/download/index.md
-#, fuzzy, no-wrap
-#| msgid "Releases"
+#, no-wrap
 msgid "Latest Releases"
-msgstr "Izdaje"
+msgstr "Zadnje izdaje"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/download/index.md
@@ -602,7 +598,7 @@ msgstr "Domov"
 #: translations.yaml
 #, no-wrap
 msgid "Media Coverage"
-msgstr ""
+msgstr "Pokritost omrežij"
 
 #. type: Hash Value: menu_news
 #: translations.yaml

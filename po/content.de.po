@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"PO-Revision-Date: 2026-01-23 17:21+0000\n"
+"PO-Revision-Date: 2026-01-30 20:29+0000\n"
 "Last-Translator: codebergian42 <codebergian42@noreply.codeberg.org>\n"
 "Language-Team: German <https://translate.codeberg.org/projects/comaps/website/de/>\n"
 "Language: de\n"
@@ -598,7 +598,7 @@ msgstr "Home"
 #: translations.yaml
 #, no-wrap
 msgid "Media Coverage"
-msgstr ""
+msgstr "In den Medien"
 
 #. type: Hash Value: menu_news
 #: translations.yaml

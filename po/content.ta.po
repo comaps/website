@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"PO-Revision-Date: 2026-01-26 16:21+0000\n"
+"PO-Revision-Date: 2026-02-01 06:29+0000\n"
 "Last-Translator: tace16 <tace16@noreply.codeberg.org>\n"
 "Language-Team: Tamil <https://translate.codeberg.org/projects/comaps/website/ta/>\n"
 "Language: ta\n"
@@ -598,7 +598,7 @@ msgstr "வீடு"
 #: translations.yaml
 #, no-wrap
 msgid "Media Coverage"
-msgstr ""
+msgstr "ஊடக முழுத் தழுவு அளவு"
 
 #. type: Hash Value: menu_news
 #: translations.yaml
