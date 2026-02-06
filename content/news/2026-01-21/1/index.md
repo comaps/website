@@ -33,7 +33,7 @@ Wikipedia is licensed under the [Creative Commons Attribution-ShareAlike License
 {{ image(src="screenshot-comaps-edit-fire-station.webp" classes="max-w-40")
 }}
 
-<small>Screenshot depicts editing an OpenStreetMap place with CoMaps. Data in screenshot © [OpenStreetMap](https//openstreetmap.org) contributors, [ODbL](http://opendatacommons.org/licenses/odbl/).</small>
+<small>Screenshot depicts editing an OpenStreetMap place with CoMaps. Data in screenshot © [OpenStreetMap](https://openstreetmap.org) contributors, [ODbL](http://opendatacommons.org/licenses/odbl/).</small>
 
 ### You can help improve CoMaps by improving OpenStreetMap and other data sources we use
 OpenStreetMap is a strong supporter of open source data, and so are we! OSM works primarily through crowd-sourced data, meaning from data it's users create. This means:
