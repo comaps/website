@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"PO-Revision-Date: 2026-02-02 14:29+0000\n"
-"Last-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>\n"
+"PO-Revision-Date: 2026-02-04 07:29+0000\n"
+"Last-Translator: astro-ray <astro-ray@noreply.codeberg.org>\n"
 "Language-Team: Bengali <https://translate.codeberg.org/projects/comaps/website/bn/>\n"
 "Language: bn\n"
 "MIME-Version: 1.0\n"
@@ -44,7 +44,7 @@ msgstr "সম্প্রদায় + উন্মুক্ত ম্যা�
 #: content/_index.md
 #, no-wrap
 msgid "Plan and navigate your trip abroad without the need for mobile data, and search waypoints while on a distant hike."
-msgstr "আপনার বিদেশী ভ্রমণ পরিকল্পনা করুন এবং নেভিগেট করুন মোবাইল ডেটার প্রয়োজন ছাড়াই, এবং দূরবর্তী হাইকিং করার সময় ওয়ে পয়েন্টগুলি সন্ধান করুন।"
+msgstr "আপনার বিদেশী ভ্রমণ পরিকল্পনা করুন এবং নেভিগেট করুন মোবাইল ডেটার প্রয়োজন ছাড়াই, এবং দূরবর্তী হাইকিং করার সময় ওয়ে পয়েন্টগুলি খুঁজুন।"
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
@@ -326,7 +326,7 @@ msgstr "গোপনীয়তার সাথে মুক্ত ও উন�
 #: content/about-us/index.md
 #, no-wrap
 msgid "CoMaps is a community-focused privacy navigation app for travelers - drivers, hikers, and cyclists. It uses the crowd-sourced OpenStreetMap data with contributors from all over the globe. It offers navigation with privacy - no identifying people and no data collection. CoMaps features can operate without an active internet connection for offline navigation at urban or distant locations, where cellular service is not available. CoMaps is an open-source project, and prioritizes community development."
-msgstr ""
+msgstr "CoMaps একটি সম্প্রদায় ও গোপনীয়তা-কেন্দ্রিক নেভিগেশন অ্যাপ ভ্রমণকারী - ড্রাইভার, হাইকার এবং সাইক্লিস্টদের জন্য। এটি সারা বিশ্ব থেকে অবদানকারীদের দ্বারা তৈরি করা ক্রাউড-সোর্সড ওপেনস্ট্রিটম্যাপের তথ্য ব্যবহার করে। এটি গোপনীয়তার সাথে নেভিগেশন অফার করে – কোন ব্যক্তি সনাক্তকরণ এবং ডেটা সংগ্রহ হয় না। শহুরে বা দূরবর্তী এলাকায়, যেখানে সেলুলার সেবা নেই, CoMaps-এর ফিচারগুলো সক্রিয় ইন্টারনেট সংযোগ ছাড়াই সেখানে অফলাইন নেভিগেশনের জন্য কাজ করতে পারে। CoMaps একটি ওপেন-সোর্স প্রকল্প, এবং এটি সম্প্রদায় উন্নয়নকে অগ্রাধিকার দেয়।"
 
 #. type: Yaml Front Matter Hash Value: extra about title
 #: content/about-us/index.md
@@ -374,25 +374,25 @@ msgstr "ইতিহাস"
 #: content/about-us/index.md
 #, no-wrap
 msgid "Unlock the freedom to easily navigate offline, with privacy-focused maps for drivers, hikers, and cyclists, powered by the community."
-msgstr ""
+msgstr "ড্রাইভার, হাইকার এবং সাইক্লিস্টদের জন্য সম্প্রদায়-চালিত, গোপনীয়তা-কেন্দ্রিক মানচিত্রের মাধ্যমে অফলাইনে সহজে নেভিগেট করার স্বাধীনতা উপভোগ করুন।"
 
 #. type: Yaml Front Matter Hash Value: extra vm items title
 #: content/about-us/index.md
 #, no-wrap
 msgid "Mission"
-msgstr ""
+msgstr "মিসন"
 
 #. type: Yaml Front Matter Hash Value: extra vm items text
 #: content/about-us/index.md
 #, no-wrap
 msgid "Create a world where navigating with maps is free, and privacy by default is the top choice on the planet."
-msgstr ""
+msgstr "এমন একটি বিশ্ব তৈরি করুন যেখানে গোপনীয়তাই ডিফল্ট এবং বিনামূল্যে মানচিত্র দ্বারা নেভিগেশন পৃথিবীর শীর্ষ পছন্দ।"
 
 #. type: Yaml Front Matter Hash Value: extra vm items title
 #: content/about-us/index.md
 #, no-wrap
 msgid "Vision"
-msgstr ""
+msgstr "দৃষ্টিভঙ্গি"
 
 #. type: Hash Value: menu_about_us
 #: content/about-us/index.md translations.yaml
@@ -404,7 +404,7 @@ msgstr "আমাদের সম্বন্ধে"
 #: content/download/index.md
 #, no-wrap
 msgid "Unlock the potential of navigation! Discover offline maps, privacy-centric features, and a community-driven app"
-msgstr ""
+msgstr "নেভিগেশনের সম্ভাবনা উনলক করুন! অফলাইন ম্যাপ, গোপনীয়তা-কেন্দ্রিক ফিচার এবং সম্প্রদায়-চালিত অ্যাপ আবিষ্কার করুন"
 
 #. type: Yaml Front Matter Array Element: extra steps items
 #: content/download/index.md
@@ -422,7 +422,7 @@ msgstr "গোপনীয়তা বান্ধব"
 #: content/download/index.md
 #, no-wrap
 msgid "No data collection"
-msgstr ""
+msgstr "কোন তথ্য সংগ্রহ হয়না"
 
 #. type: Yaml Front Matter Array Element: extra steps items
 #: content/download/index.md
@@ -512,13 +512,13 @@ msgstr "আপনার চারপাশের তথ্য যোগ কর�
 #: translations.yaml
 #, no-wrap
 msgid "Add Place Info"
-msgstr ""
+msgstr "স্থানটির সম্পর্কে তথ্য যোগ করুন"
 
 #. type: Hash Value: inv_title
 #: translations.yaml
 #, no-wrap
 msgid "Get Involved"
-msgstr ""
+msgstr "অংশগ্রহণ করুন"
 
 #. type: Hash Value: language
 #: translations.yaml
@@ -536,52 +536,52 @@ msgstr ""
 #: translations.yaml
 #, no-wrap
 msgid "Help"
-msgstr ""
+msgstr "সাহায্য"
 
 #. type: Hash Value: menu_home
 #: translations.yaml
 #, no-wrap
 msgid "Home"
-msgstr ""
+msgstr "হোম"
 
 #. type: Hash Value: menu_news
 #: translations.yaml
 #, no-wrap
 msgid "News"
-msgstr ""
+msgstr "সংবাদ"
 
 #. type: Hash Value: menu_source_code
 #: translations.yaml
 #, no-wrap
 msgid "Source Code"
-msgstr ""
+msgstr "সোর্স কোড"
 
 #. type: Hash Value: more_title
 #: translations.yaml
 #, no-wrap
 msgid "More"
-msgstr ""
+msgstr "আরো"
 
 #. type: Hash Value: releases_title
 #: translations.yaml
 #, no-wrap
 msgid "Releases"
-msgstr ""
+msgstr "রিলিজগুলি"
 
 #. type: Hash Value: search_placeholder
 #: translations.yaml
 #, no-wrap
 msgid "Describe the issue"
-msgstr ""
+msgstr "সমস্যাটি বর্ণনা করুন"
 
 #. type: Hash Value: search_placeholder_simple
 #: translations.yaml
 #, no-wrap
 msgid "Search"
-msgstr ""
+msgstr "খুঁজুন"
 
 #. type: Hash Value: social_title
 #: translations.yaml
 #, no-wrap
 msgid "Connect with Us"
-msgstr ""
+msgstr "আমাদের সাথে যোগাযোগ করুন"

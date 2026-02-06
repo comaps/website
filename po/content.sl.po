@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"PO-Revision-Date: 2026-01-30 22:29+0000\n"
+"PO-Revision-Date: 2026-02-04 12:29+0000\n"
 "Last-Translator: JanezPavelZebovec <janezpavelzebovec@noreply.codeberg.org>\n"
 "Language-Team: Slovenian <https://translate.codeberg.org/projects/comaps/website/sl/>\n"
 "Language: sl\n"
@@ -140,7 +140,7 @@ msgstr "Orodje sloni na prostovoljnih prispevkih, pomagajte ga izboljšati"
 #: content/community/index.md content/donate/index.md translations.yaml
 #, no-wrap
 msgid "Donate"
-msgstr "Darujte"
+msgstr "Daruj"
 
 #. type: Yaml Front Matter Hash Value: extra features description
 #: content/community/index.md

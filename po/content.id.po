@@ -6,6 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
+"PO-Revision-Date: 2026-02-04 01:29+0000\n"
 "Last-Translator: wirabdillah <wirabdillah@noreply.codeberg.org>\n"
 "Language-Team: Indonesian <https://translate.codeberg.org/projects/comaps/website/id/>\n"
 "Language: id\n"
@@ -251,10 +252,9 @@ msgstr "Donasi via Open Collective"
 
 #. type: Yaml Front Matter Hash Value: extra funding items text
 #: content/donate/index.md
-#, fuzzy, no-wrap
-#| msgid "We have to keep up fast servers, so anyone in the world can download free map data updates without delays. These maps data transfers make up large, and growing, amounts of data each month."
+#, no-wrap
 msgid "We have to keep up fast servers, to update the map files and for you to download them without delays. The maps data transfers make up large, and growing, amounts of data each month."
-msgstr "Kami harus menjaga kecepatan server agar siapa pun di dunia ini dapat mengunduh pembaruan data peta gratis tanpa kendala. Transfer data peta ini memakan bandwidth yang sangat besar dan terus bertambah setiap bulannya."
+msgstr "Kami harus memelihara server yang cepat untuk memperbarui berkas peta agar dapat diunduh tanpa hambatan. Transfer data peta ini sangat besar dan terus bertambah setiap bulannya."
 
 #. type: Yaml Front Matter Hash Value: extra funding items title
 #: content/donate/index.md
@@ -278,7 +278,7 @@ msgstr "Bantuan"
 #: content/donate/index.md
 #, no-wrap
 msgid "Currently, all development is done by volunteers with limited time. To implement larger, more ambitious features, paying developers might be necessary in the future."
-msgstr ""
+msgstr "Saat ini, seluruh pengembangan dilakukan oleh para sukarelawan dengan waktu terbatas. Untuk mengimplementasikan fitur yang lebih besar dan ambisius, mungkin diperlukan pengembang berbayar di masa mendatang."
 
 #. type: Yaml Front Matter Hash Value: extra funding items title
 #: content/donate/index.md
@@ -294,17 +294,15 @@ msgstr "Bagaimana pendanaan akan digunakan?"
 
 #. type: Yaml Front Matter Hash Value: extra info text
 #: content/donate/index.md
-#, fuzzy, no-wrap
-#| msgid "We rely on your donations to keep CoMaps open and free"
+#, no-wrap
 msgid "We rely on your donations to keep CoMaps free to use"
-msgstr "Kami mengandalkan donasi untuk menjaga CoMaps tetap terbuka dan gratis"
+msgstr "Kami mengandalkan donasi untuk menjaga CoMaps tetap gratis"
 
 #. type: Yaml Front Matter Hash Value: extra info text
 #: content/donate/index.md
-#, fuzzy, no-wrap
-#| msgid "We are a few enthusiasts contributing in our free time. We love what we do, and we love our users"
+#, no-wrap
 msgid "We are a community contributing in our free time. We love what we do, and we love our users"
-msgstr "Kami adalah sekelompok pegiat yang berkontribusi di waktu luang kami. Kami mencintai apa yang kami kerjakan dan para pengguna kami"
+msgstr "Kami adalah komunitas yang berkontribusi di waktu luang kami. Kami mencintai apa yang kami kerjakan dan para pengguna kami"
 
 #. type: Yaml Front Matter Hash Value: extra info text
 #: content/donate/index.md
@@ -382,13 +380,13 @@ msgstr "Sejarah"
 #: content/about-us/index.md
 #, no-wrap
 msgid "See the full list of media coverage about CoMaps."
-msgstr ""
+msgstr "Lihat daftar lengkap liputan media tentang CoMaps."
 
 #. type: Yaml Front Matter Hash Value: extra media_highlights title
 #: content/about-us/index.md
 #, no-wrap
 msgid "Media Highlights"
-msgstr ""
+msgstr "Sorotan Media"
 
 #. type: Yaml Front Matter Hash Value: extra vm items text
 #: content/about-us/index.md
@@ -430,20 +428,19 @@ msgstr "Gali potensi navigasi! Jelajahi peta offline, fitur yang menjaga privasi
 #: content/download/index.md
 #, no-wrap
 msgid "To verify the app when downloading it as an APK or via Obtainium you can use this fingerprint:"
-msgstr ""
+msgstr "Untuk memverifikasi aplikasi saat mengunduh APK atau melalui Obtainium, gunakan sidik jari ini:"
 
 #. type: Yaml Front Matter Hash Value: extra app_verifier title
 #: content/download/index.md
 #, no-wrap
 msgid "Verifying the Android app"
-msgstr ""
+msgstr "Memverifikasi aplikasi Android"
 
 #. type: Yaml Front Matter Hash Value: extra releases title
 #: content/download/index.md
-#, fuzzy, no-wrap
-#| msgid "Releases"
+#, no-wrap
 msgid "Latest Releases"
-msgstr "Rilis"
+msgstr "Rilis Terbaru"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/download/index.md
@@ -601,7 +598,7 @@ msgstr "Beranda"
 #: translations.yaml
 #, no-wrap
 msgid "Media Coverage"
-msgstr ""
+msgstr "Liputan Media"
 
 #. type: Hash Value: menu_news
 #: translations.yaml

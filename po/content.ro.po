@@ -6,6 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
+"PO-Revision-Date: 2026-02-05 00:29+0000\n"
 "Last-Translator: teletext <teletext@noreply.codeberg.org>\n"
 "Language-Team: Romanian <https://translate.codeberg.org/projects/comaps/website/ro/>\n"
 "Language: ro\n"
@@ -329,7 +330,7 @@ msgstr "Ajutor"
 #: content/about-us/index.md
 #, no-wrap
 msgid "Free and open navigation with privacy -<br/>Built by the community"
-msgstr "Navigație liberă și deschisă, cu respect pentru intimitate –<br/>Creată de comunitate"
+msgstr "Navigație liberă și deschisă, cu confidențialitate –<br/>Creată de comunitate"
 
 #. type: Yaml Front Matter Hash Value: extra about text
 #: content/about-us/index.md

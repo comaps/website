@@ -6,21 +6,19 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"PO-Revision-Date: 2026-02-05 19:29+0000\n"
-"Last-Translator: SharkStudios <sharkstudios@noreply.codeberg.org>\n"
-"Language-Team: Slovak <https://translate.codeberg.org/projects/comaps/website/sk/>\n"
-"Language: sk\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: es_419\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 5.15.2\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
 #, no-wrap
-msgid "Discover more of your journey -<br/>Powered by the community"
-msgstr "Objav viac z cesty-<br/>Funguje vďaka komunite"
+msgid "Discover more of your journey - Powered by the community"
+msgstr ""
 
 #. type: Yaml Front Matter Hash Value: extra freedom description
 #: content/_index.md
@@ -32,90 +30,90 @@ msgstr ""
 #: content/_index.md
 #, no-wrap
 msgid "Freedom Is Here"
-msgstr "Sloboda je tu"
+msgstr ""
 
 #. type: Yaml Front Matter Hash Value: extra map description
 #: content/_index.md
 #, no-wrap
 msgid "Community + Open Maps"
-msgstr "Komunita + Open Maps"
+msgstr ""
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
 #, no-wrap
-msgid "Plan and navigate your trip abroad without the need for mobile data, and search waypoints while on a distant hike."
-msgstr "Plánuj a naviguj svoj výlet do zahraničia bez potreby mobilných dát, vyhladávaj miesta počas vzdialenej túry."
+msgid "Plan and navigate your trip abroad with just GPS, no need for mobile data. Search waypoints while on distant hiking trails or bike paths."
+msgstr ""
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
 #, no-wrap
 msgid "No internet needed"
-msgstr "Internet není potrebný"
+msgstr ""
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
 #, no-wrap
 msgid "Offline Search and Route"
-msgstr "Offline Vyhladávanie a Trasa"
+msgstr ""
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
 #, no-wrap
-msgid "The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information."
-msgstr "Táto aplikácia je nadizajnovaná s ohľadom na súkromie - Neidentifikuje ľudí, nesleduje ťa, a nezhromažduje žiadne informácie."
+msgid "The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information. CoMaps was also audited by <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-exodus\"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/)."
+msgstr ""
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
 #, no-wrap
 msgid "Privacy by default"
-msgstr "Súkromie je prvoradé"
+msgstr ""
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
 #, no-wrap
 msgid "No Data Collection"
-msgstr "Žiadne Zbieranie Dát"
+msgstr ""
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
 #, no-wrap
 msgid "Efficiently uses the battery, doesn’t drain your battery like other navigation apps."
-msgstr "Efektívne používa batériu, naopak ako ostatné navigačné aplikácie."
+msgstr ""
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
 #, no-wrap
 msgid "Efficient battery use"
-msgstr "Efektívne využívanie batérie"
+msgstr ""
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
 #, no-wrap
 msgid "Save Your Battery"
-msgstr "Nemínaj baterku"
+msgstr ""
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
 #, no-wrap
-msgid "People like you helped build the app by adding locations to <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on Codeberg in the open-source community."
-msgstr "Ľudia ako ty pomohli vytvoriť túto aplikáciu pridaním lokácií do <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, poskytovaním spätnej väzby a prispievaním ku kódu na Codeberg v Open Source komunite."
+msgid "People like you are helping build the app by adding locations to <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> to create great maps together. The project is a fork of Organic Maps and Maps.Me, and driven by an open-source community."
+msgstr ""
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
 #, no-wrap
 msgid "Free for everyone, Made with love"
-msgstr "Zadarmo pre každého, urobené z láskou"
+msgstr ""
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
 #, no-wrap
 msgid "Free and Built by the Community"
-msgstr "Zadarmo a Vytvorené Komunitou"
+msgstr ""
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/_index.md
 #, no-wrap
-msgid "Hike, Bike, Drive Offline Navigate with Privacy"
+msgid "Hike, Bike, Drive Offline – Navigate with Privacy"
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: title
@@ -128,7 +126,7 @@ msgstr ""
 #: content/community/index.md
 #, no-wrap
 msgid "CoMaps is created and maintained by people like you"
-msgstr "CoMaps je vytvorená a udržiavaná ľudmi ako ste vy"
+msgstr ""
 
 #. type: Hash Value: donate-description
 #: content/community/index.md translations.yaml
@@ -140,19 +138,19 @@ msgstr ""
 #: content/community/index.md content/donate/index.md translations.yaml
 #, no-wrap
 msgid "Donate"
-msgstr "Daruj"
+msgstr ""
 
 #. type: Yaml Front Matter Hash Value: extra features description
 #: content/community/index.md
 #, no-wrap
-msgid "Report bugs, discuss idea, and propose features"
-msgstr "Nahlás chyby, diskutuj nápady a navrhy zmeny"
+msgid "Report bugs, discuss ideas, and propose features"
+msgstr ""
 
 #. type: Yaml Front Matter Hash Value: extra features title
 #: content/community/index.md
 #, no-wrap
 msgid "**Report** Bugs"
-msgstr "**Nahlás**Chyby"
+msgstr ""
 
 #. type: Yaml Front Matter Hash Value: extra features description
 #: content/community/index.md
@@ -253,19 +251,7 @@ msgstr ""
 #. type: Yaml Front Matter Hash Value: extra funding items text
 #: content/donate/index.md
 #, no-wrap
-msgid "Currently there is no full time team who is working to develop new features and improve the service. To consistently move the product forward, a core team is needed."
-msgstr ""
-
-#. type: Yaml Front Matter Hash Value: extra funding items title
-#: content/donate/index.md
-#, no-wrap
-msgid "Developers"
-msgstr ""
-
-#. type: Yaml Front Matter Hash Value: extra funding items text
-#: content/donate/index.md
-#, no-wrap
-msgid "We pay for fast servers, so anyone in the world can download free map data updates without delays. The maps data transfers are hundreds of terabytes monthly, and the amount is growing."
+msgid "We have to keep up fast servers, to update the map files and for you to download them without delays. The maps data transfers make up large, and growing, amounts of data each month."
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: extra funding items title
@@ -280,10 +266,22 @@ msgstr ""
 msgid "User support, fixing bugs, and improving the stability of the app are our top priority. The list of requests and bug reports grows every day, and there are many support requests to respond to on the App Store, Google Play, and support emails."
 msgstr ""
 
-#. type: Yaml Front Matter Hash Value: title
-#: content/donate/index.md content/support/_index.md
+#. type: Yaml Front Matter Hash Value: extra funding items title
+#: content/donate/index.md
 #, no-wrap
 msgid "Support"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: extra funding items text
+#: content/donate/index.md
+#, no-wrap
+msgid "Currently, all development is done by volunteers with limited time. To implement larger, more ambitious features, paying developers might be necessary in the future."
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: extra funding items title
+#: content/donate/index.md
+#, no-wrap
+msgid "Developers"
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: extra funding title
@@ -295,13 +293,13 @@ msgstr ""
 #. type: Yaml Front Matter Hash Value: extra info text
 #: content/donate/index.md
 #, no-wrap
-msgid "We rely on your donations to keep CoMaps open and free"
+msgid "We rely on your donations to keep CoMaps free to use"
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: extra info text
 #: content/donate/index.md
 #, no-wrap
-msgid "We are a few enthusiasts contributing in our free time. We love what we do, and we love our users"
+msgid "We are a community contributing in our free time. We love what we do, and we love our users"
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: extra info text
@@ -314,6 +312,12 @@ msgstr ""
 #: content/support/_index.md
 #, no-wrap
 msgid "Need assistance? Search for answers to common questions. Get the support you need and connect with others in the community for help."
+msgstr ""
+
+#. type: Hash Value: menu_help
+#: content/support/_index.md translations.yaml
+#, no-wrap
+msgid "Help"
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: description
@@ -370,6 +374,18 @@ msgstr ""
 msgid "History"
 msgstr ""
 
+#. type: Yaml Front Matter Hash Value: extra media_highlights description
+#: content/about-us/index.md
+#, no-wrap
+msgid "See the full list of media coverage about CoMaps."
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: extra media_highlights title
+#: content/about-us/index.md
+#, no-wrap
+msgid "Media Highlights"
+msgstr ""
+
 #. type: Yaml Front Matter Hash Value: extra vm items text
 #: content/about-us/index.md
 #, no-wrap
@@ -406,46 +422,28 @@ msgstr ""
 msgid "Unlock the potential of navigation! Discover offline maps, privacy-centric features, and a community-driven app"
 msgstr ""
 
-#. type: Yaml Front Matter Array Element: extra steps items
+#. type: Yaml Front Matter Hash Value: extra app_verifier description
 #: content/download/index.md
 #, no-wrap
-msgid "Offline Maps"
+msgid "To verify the app when downloading it as an APK or via Obtainium you can use this fingerprint:"
 msgstr ""
 
-#. type: Yaml Front Matter Array Element: extra steps items
+#. type: Yaml Front Matter Hash Value: extra app_verifier title
 #: content/download/index.md
 #, no-wrap
-msgid "Privacy-Centric"
+msgid "Verifying the Android app"
 msgstr ""
 
-#. type: Yaml Front Matter Array Element: extra steps items
+#. type: Yaml Front Matter Hash Value: extra releases title
 #: content/download/index.md
 #, no-wrap
-msgid "No data collection"
-msgstr ""
-
-#. type: Yaml Front Matter Array Element: extra steps items
-#: content/download/index.md
-#, no-wrap
-msgid "Community-Driven"
-msgstr ""
-
-#. type: Yaml Front Matter Hash Value: extra steps title
-#: content/download/index.md
-#, no-wrap
-msgid "Already downloaded?"
+msgid "Latest Releases"
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/download/index.md
 #, no-wrap
 msgid "Download CoMaps"
-msgstr ""
-
-#. type: Plain text
-#: content/download/index.md
-#, markdown-text
-msgid "CoMaps is available on Google Play, F-Droid, and as an APK download now! We are still working on publishing on the iOS App Store as well, please stay tuned!"
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: title
@@ -458,6 +456,72 @@ msgstr ""
 #: content/api/index.md
 #, markdown-text
 msgid "The API is documented on [comaps.at/api](https://comaps.at/api)."
+msgstr ""
+
+#. type: Hash Value: menu_privacy
+#: content/privacy/index.md translations.yaml
+#, no-wrap
+msgid "Privacy"
+msgstr ""
+
+#. type: Plain text
+#: content/privacy/index.md
+#, markdown-text
+msgid "At CoMaps, we respect your privacy. CoMaps does not have any form of identification of people, advertising, or personal data collection."
+msgstr ""
+
+#. type: Plain text
+#: content/privacy/index.md
+#, markdown-text
+msgid "CoMaps does not track you."
+msgstr ""
+
+#. type: Plain text
+#: content/privacy/index.md content/terms/index.md
+#, markdown-text
+msgid "If you have any questions or suggestions, please contact us at legal@comaps.app"
+msgstr ""
+
+#. type: Plain text
+#: content/privacy/index.md
+#, markdown-text
+msgid "Policy effective: 2025-05-01"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/terms/index.md
+#, no-wrap
+msgid "Terms"
+msgstr ""
+
+#. type: Plain text
+#: content/terms/index.md
+#, markdown-text
+msgid "This app is licensed under the Apache License, Version 2.0 (the \"License\"); This application cannot be used except in compliance with the License."
+msgstr ""
+
+#. type: Plain text
+#: content/terms/index.md
+#, markdown-text
+msgid "Read [the full license text](https://www.apache.org/licenses/LICENSE-2.0)."
+msgstr ""
+
+#. type: Plain text
+#: content/terms/index.md
+#, markdown-text
+msgid "Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License."
+msgstr ""
+
+#. type: Plain text
+#: content/terms/index.md
+#, markdown-text
+msgid "Many libraries and 3rd party tools included into [CoMaps repository](https://codeberg.org/comaps/comaps) were developed by multiple people and organizations, and licensed in different ways.  Please refer to their LICENSE, COPYING or NOTICE files for terms of use."
+msgstr ""
+
+#. type: Plain text
+#: content/terms/index.md
+#, markdown-text
+msgid "See [data/copyright.html](https://codeberg.org/comaps/comaps/src/branch/main/data/copyright.html) file for a full list of copyright notices for the CoMaps application."
 msgstr ""
 
 #. type: Hash Value: all_title
@@ -524,7 +588,7 @@ msgstr ""
 #: translations.yaml
 #, no-wrap
 msgid "English"
-msgstr "Slovenčina"
+msgstr ""
 
 #. type: Hash Value: menu_api
 #: translations.yaml
@@ -532,16 +596,16 @@ msgstr "Slovenčina"
 msgid "API"
 msgstr ""
 
-#. type: Hash Value: menu_help
-#: translations.yaml
-#, no-wrap
-msgid "Help"
-msgstr ""
-
 #. type: Hash Value: menu_home
 #: translations.yaml
 #, no-wrap
 msgid "Home"
+msgstr ""
+
+#. type: Hash Value: menu_media_coverage
+#: translations.yaml
+#, no-wrap
+msgid "Media Coverage"
 msgstr ""
 
 #. type: Hash Value: menu_news
