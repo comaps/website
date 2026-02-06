@@ -1,27 +1,28 @@
 ---
-title: Terms
+title: விதிமுறைகள்
 weight: 1000
 ---
 
-This app is licensed under the Apache License, Version 2.0 (the "License");
-This application cannot be used except in compliance with the License.
+இந்த ஆப்ச் அப்பாச்சி உரிமத்தின் கீழ் உரிமம் பெற்றது, பதிப்பு 2.0 ("உரிமம்");
+உரிமத்துடன் இணங்குவதைத் தவிர இந்தப் பயன்பாட்டைப் பயன்படுத்த முடியாது.
 
-Read [the full license text](https://www.apache.org/licenses/LICENSE-2.0).
+[முழு உரிம உரையை](https://www.apache.org/licenses/LICENSE-2.0) படிக்கவும்.
 
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
-WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
-License for the specific language governing permissions and limitations
-under the License.
+பொருந்தக்கூடிய சட்டத்தால் தேவைப்படாவிட்டால் அல்லது எழுத்துப்பூர்வமாக ஒப்புக்
+கொள்ளப்படாவிட்டால், உரிமத்தின் கீழ் விநியோகிக்கப்படும் மென்பொருள்
+"உள்ளபடியே" என்ற அடிப்படையில், எந்தவிதமான உத்தரவாதங்கள் அல்லது நிபந்தனைகள்
+இல்லாமல், வெளிப்படையான அல்லது மறைமுகமாக விநியோகிக்கப்படுகிறது. உரிமத்தின்
+கீழ் குறிப்பிட்ட மொழி ஆளும் அனுமதிகள் மற்றும் வரம்புகளுக்கான உரிமத்தைப்
+பார்க்கவும்.
 
-Many libraries and 3rd party tools included into [CoMaps
-repository](https://codeberg.org/comaps/comaps) were developed by multiple
-people and organizations, and licensed in different ways. Please refer to
-their LICENSE, COPYING or NOTICE files for terms of use.
+[CoMaps களஞ்சியத்தில்](https://codeberg.org/comaps/comaps) சேர்க்கப்பட்டுள்ள
+பல நூலகங்கள் மற்றும் மூன்றாம் தரப்பு கருவிகள் பல நபர்களாலும் நிறுவனங்களாலும்
+உருவாக்கப்பட்டு வெவ்வேறு வழிகளில் உரிமம் பெற்றவை. பயன்பாட்டு விதிமுறைகளுக்கு
+அவர்களின் உரிமம், நகலெடுக்கும் அல்லது அறிவிப்பு கோப்புகளைப் பார்க்கவும்.
 
-See
+CoMaps பயன்பாட்டிற்கான பதிப்புரிமை அறிவிப்புகளின் முழுப் பட்டியலுக்கு
 [data/copyright.html](https://codeberg.org/comaps/comaps/src/branch/main/data/copyright.html)
-file for a full list of copyright notices for the CoMaps application.
+கோப்பைப் பார்க்கவும்.
 
-If you have any questions or suggestions, please contact us at
-legal@comaps.app
+உங்களிடம் ஏதேனும் கேள்விகள் அல்லது பரிந்துரைகள் இருந்தால், எங்களை
+legal@comaps.app இல் தொடர்பு கொள்ளவும்

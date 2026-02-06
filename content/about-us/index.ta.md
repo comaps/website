@@ -20,8 +20,8 @@ extra:
         year: 2025
     title: வரலாறு
   media_highlights:
-    description: "See the full list of media coverage about CoMaps."
-    title: "Media Highlights"
+    description: "CoMaps பற்றிய முழு ஊடகப் பட்டியலையும் பார்க்கவும்."
+    title: "மீடியா ஐலைட்ச்"
   vm:
     items:
       - icon: /images/icons/about/mission.svg

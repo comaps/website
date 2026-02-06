@@ -36,6 +36,9 @@ extra:
           user: /images/sections/map-m-3.webp
         title: 'Estalvia bateria'
       - 
+        cta:
+          href: community/
+          text: inv_title
         description: 'People like you are helping build the app by adding locations to <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-open-street-map"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on <span class="text-icon"><svg viewbox="0 0 4.233 4.233"> <use href="#icon-codeberg"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> to create great maps together. The project is a fork of Organic Maps and Maps.Me, and driven by an open-source community.'
         highlight:
           icon: static/images/icons/home/heart.svg

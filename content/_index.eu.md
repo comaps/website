@@ -36,6 +36,9 @@ extra:
           user: /images/sections/map-m-3.webp
         title: 'Gorde zure bateria'
       - 
+        cta:
+          href: community/
+          text: inv_title
         description: 'Zu bezalako pertsonek aplikazioa eraikitzen laguntzen ari zatere kokalekuak gehituz <span class="text-icon"><svg viewBox="0 0 19"><use href="#icon-open-street-map"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span> helbidean, ezaugarriei buruzko feedbacka emanez, eta kodean ekarpenak eginez  <span class="text-icon"><svg viewbox="0 0 4.233 4.233"> <use href="#icon-codeberg"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> elkarrekin mapa hobeak sortzeko. Proiektua Organic Maps eta Maps.Me aplikazioen aldaera edo fork ba da eta software librearen komunitate batek gidatzen du.'
         highlight:
           icon: static/images/icons/home/heart.svg

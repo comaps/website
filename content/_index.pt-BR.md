@@ -36,6 +36,9 @@ extra:
           user: /images/sections/map-m-3.webp
         title: 'Economiza Sua Bateria'
       - 
+        cta:
+          href: community/
+          text: inv_title
         description: 'Pessoas como você estão ajudando a desenvolver o aplicativo adicionando locais ao <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-open-street-map"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, dando feedback sobre funcionalidades, e contribuindo com código no <span class="text-icon"><svg viewbox="0 0 4.233 4.233"> <use href="#icon-codeberg"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> para criarmos incríveis mapas juntos. O projeto é uma ramificação do Organic Maps e do Maps.Me, e é conduzido por uma comunidade de código aberto.'
         highlight:
           icon: static/images/icons/home/heart.svg
@@ -46,5 +49,5 @@ extra:
         title: 'Grátis e Construído pela Comunidade'
 sort_by: weight
 template: home.html
-title: 'Hike, Bike, Drive Offline – Navigate with Privacy'
+title: 'Caminhe, Ande de Bicicleta e Dirija Off-line — Navegue com Privacidade'
 ---

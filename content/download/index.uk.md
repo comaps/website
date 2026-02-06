@@ -1,5 +1,5 @@
 ---
-description: "Розкрийте потенціал навігації! Відкрийте для себе офлайн-карти, функції, орієнтовані на приватність, та додаток, створений спільнотою"
+description: "Розкрийте потенціал навігації! Відкрийте для себе автономні мапи, функції, орієнтовані на приватність, та застосунок, створений спільнотою"
 extra:
   app_verifier:
     description: "To verify the app when downloading it as an APK or via Obtainium you can use this fingerprint:"

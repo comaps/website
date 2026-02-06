@@ -36,6 +36,9 @@ extra:
           user: /images/sections/map-m-3.webp
         title: 'Salvează-ți bateria'
       - 
+        cta:
+          href: community/
+          text: inv_title
         description: 'Oameni ca tine ajută la dezvoltarea aplicației adăugând locații pe <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-open-street-map"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, oferind feedback despre funcționalități și contribuind cu cod pe <span class="text-icon"><svg viewbox="0 0 4.233 4.233"> <use href="#icon-codeberg"></use></svg> [Codeberg](https://codeberg.org/comaps)</span>, pentru a crea împreună hărți grozave. Proiectul este un fork al Organic Maps și Maps.Me și este susținut de o comunitate open-source.'
         highlight:
           icon: static/images/icons/home/heart.svg

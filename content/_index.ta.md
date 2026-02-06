@@ -36,6 +36,9 @@ extra:
           user: /images/sections/map-m-3.webp
         title: 'உங்கள் பேட்டரியைச் சேமிக்கவும்'
       - 
+        cta:
+          href: community/
+          text: inv_title
         description: 'உங்களைப் போன்றவர்கள், <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-open-street-map"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span> இல் நற்பொருத்தங்கள் மற்றும் கருத்துகளை வழங்குதல் இல் இருப்பிடங்களைச் சேர்ப்பதன் மூலம் பயன்பாட்டை உருவாக்க உதவுகிறார்கள். <span class="text-icon"><svg viewbox="0 0 4.233 4.233"> <use href="#icon-codeberg"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> சிறந்த வரைபடங்களை ஒன்றாக உருவாக்கவும். திட்டமானது ஆர்கானிக் மேப்ச் மற்றும் மேப்ச்.மீ ஆகியவற்றின் ஒரு பகுதியாகும், மேலும் இது திறந்த மூல சமூகத்தால் இயக்கப்படுகிறது.'
         highlight:
           icon: static/images/icons/home/heart.svg
@@ -46,5 +49,5 @@ extra:
         title: 'இலவசம் மற்றும் சமூகத்தால் கட்டப்பட்டது'
 sort_by: weight
 template: home.html
-title: 'Hike, Bike, Drive Offline – Navigate with Privacy'
+title: 'ஐக், பைக், ஆஃப்லைனில் ஓட்டுங்கள் - தனியுரிமையுடன் செல்லவும்'
 ---

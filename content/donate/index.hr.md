@@ -1,27 +1,27 @@
 ---
-description: "Donate and create better maps together!"
+description: "Doniraj i napravi bolje karte zajedno!"
 extra:
   donate:
     info:
-      description: "Donate to keep the project running"
+      description: "Doniraj da projekt nastavi razvijanje"
       title: "Created with love by enthusiast volunteers"
     liberapay:
-      title: "Donate via Liberapay"
+      title: "Doniraj preko Liberapay-a"
     open_collective:
-      title: "Donate via Open Collective"
+      title: "Doniraj preko Open Collective"
     title: Doniraj
   funding:
     items:
       - media: /images/donate/infrastructure.webp
         text: "We have to keep up fast servers, to update the map files and for you to download them without delays. The maps data transfers make up large, and growing, amounts of data each month."
-        title: Infrastructure
+        title: Infrakstrura
       - media: /images/donate/support.webp
-        text: "User support, fixing bugs, and improving the stability of the app are our top priority. The list of requests and bug reports grows every day, and there are many support requests to respond to on the App Store, Google Play, and support emails."
-        title: Support
+        text: "Korisnička pomoč, popravljana problema, i poboljšenja stabilnost aplikacije su naši največi pririoteti. Lista zahtjeva i problemi raste svaki dan, i ima previše zahtjeva da se odgovori na App store-u, Google Play-u, i email-ovima za zahtjeva za pomoč."
+        title: Pomoč
       - media: /images/donate/developers.webp
-        text: "Currently, all development is done by volunteers with limited time. To implement larger, more ambitious features, paying developers might be necessary in the future."
-        title: Developers
-    title: "How will funding be used?"
+        text: "Trenutno, sva razvijanja su napravljena od voluntera sa limitiranim vremenom. Da se razviju veče, više ambizijozne ideje, plačanje programera možda bude potrebno u budučnosti."
+        title: Programeri
+    title: "Kako bi novci bili korišteni?"
   hero_description: "Donate and create better maps together!"
   info:
     - icon: static/images/icons/donate/icon01.svg

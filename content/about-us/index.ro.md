@@ -1,5 +1,5 @@
 ---
-description: "Navigație liberă și deschisă, cu respect pentru intimitate –<br/>Creată de comunitate"
+description: "Navigație liberă și deschisă, cu confidențialitate –<br/>Creată de comunitate"
 extra:
   about:
     media: /images/about-us/about.png

@@ -13,21 +13,21 @@ extra:
   funding:
     items:
       - media: /images/donate/infrastructure.webp
-        text: "We have to keep up fast servers, to update the map files and for you to download them without delays. The maps data transfers make up large, and growing, amounts of data each month."
+        text: "Temos que manter servidores rápidos, para atualizar os ficheiros de mapas e para você os descarregar sem atrasos. As transferências de dados dos mapas representam grandes, e crescentes, tamanhos de dados a cada mês."
         title: Infraestrutura
       - media: /images/donate/support.webp
         text: "O apoio aos utilizadores, correção de erros e melhorar a estabilidade da aplicação são as nossas prioridades. A lista de pedidos de funcionalidades e relatórios de erros cresce todos os dias e há também muitos pedidos de apoio por responder na App Store, Google Play e emails de apoio ao utilizador."
         title: Suporte
       - media: /images/donate/developers.webp
-        text: "Currently, all development is done by volunteers with limited time. To implement larger, more ambitious features, paying developers might be necessary in the future."
+        text: "De momento, todo o desenvolvimento é feito por voluntários com tempo limitado. Para implementar funcionalidades maiores e mais ambiciosas, pagar aos desenvolvedores poderá ser necessário no futuro."
         title: Desenvolvedores
     title: "Como serão usados os fundos?"
   hero_description: "Donate and create better maps together!"
   info:
     - icon: static/images/icons/donate/icon01.svg
-      text: "We rely on your donations to keep CoMaps free to use"
+      text: "Dependemos dos vossos donativos para manter o CoMaps gratuito para todos"
     - icon: static/images/icons/donate/icon02.svg
-      text: "We are a community contributing in our free time. We love what we do, and we love our users"
+      text: "Somos uma comunidade que contribui para o projeto no nosso tempo livre. Adoramos o que fazemos, e adoramos os nossos utilizadores"
     - icon: static/images/icons/donate/icon03.svg
       text: "Com o vosso apoio, estamos a trabalhar para uma navegação orientada à privacidade que seja a escolha preferida do mercado"
   service_text: ~

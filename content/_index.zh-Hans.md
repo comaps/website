@@ -36,6 +36,9 @@ extra:
           user: /images/sections/map-m-3.webp
         title: 节省电池电量
       - 
+        cta:
+          href: community/
+          text: inv_title
         description: '如同您一样的用户通过向 <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-open-street-map"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span> 添加地点、测试功能并提供反馈、无私地通过 <span class="text-icon"><svg viewbox="0 0 4.233 4.233"> <use href="#icon-codeberg"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> 贡献代码，共同打造卓越的地图服务。项目衍生自Organic Maps和Maps.Me，由开源社区共同推动发展。'
         highlight:
           icon: static/images/icons/home/heart.svg

@@ -36,6 +36,9 @@ extra:
           user: /images/sections/map-m-3.webp
         title: 'Säästa nutiseadme akut'
       - 
+        cta:
+          href: community/
+          text: inv_title
         description: 'Lisades kohti <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-open-street-map"></use></svg> [OpenStreetMappi](https://openstreetmap.org)</span>, jagades tagasisidet ning täiendades rakenduse koodi <span class="text-icon"><svg viewbox="0 0 4.233 4.233"> <use href="#icon-codeberg"></use></svg> [Codebergi](https://codeberg.org/comaps)</span> on kogukonna liikmed, kes tegelikult on tavalised inimesed nagu sinagi, üheskoos kaarti parandanud ja täiendanud. CoMaps on Organic Mapsi ja Maps.Me edasiarendus.'
         highlight:
           icon: static/images/icons/home/heart.svg

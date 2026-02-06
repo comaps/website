@@ -5,7 +5,7 @@ extra:
     description: "உங்கள் நன்கொடைகளில் பயன்பாடு இயங்குகிறது, அதை மேம்படுத்த உதவுங்கள்"
     title: நன்கொடை
   features:
-    - description: "Report bugs, discuss ideas, and propose features"
+    - description: "பிழைகளைப் புகாரளிக்கவும், யோசனைகளைப் பற்றி விவாதிக்கவும் மற்றும் அம்சங்களை முன்மொழியவும்"
       icon: chats.svg
       link: https://codeberg.org/comaps/comaps/issues
       title: "**அறிக்கை** பிழைகள்"

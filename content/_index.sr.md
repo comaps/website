@@ -36,6 +36,9 @@ extra:
           user: /images/sections/map-m-3.webp
         title: 'Штеди батерију'
       - 
+        cta:
+          href: community/
+          text: inv_title
         description: 'Људи као што сте ви су помажу да се развија апликација додавањем локација на <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-open-street-map"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, давањем повратних информација о функцијама и писањем изворног кода путем <span class="text-icon"><svg viewbox="0 0 4.233 4.233"> <use href="#icon-codeberg"></use></svg> [Codeberg](https://codeberg.org/comaps)</span>-а, како бисмо заједно направили изузетне мапе. Овај пројекат наследник пројеката Organic Maps и Maps.Me и покреће га заједница отвореног кода.'
         highlight:
           icon: static/images/icons/home/heart.svg

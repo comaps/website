@@ -36,6 +36,9 @@ extra:
           user: /images/sections/map-m-3.webp
         title: 'Štedite bateriju'
       - 
+        cta:
+          href: community/
+          text: inv_title
         description: 'Ljudi poput vas pomažu u izgradnji aplikacije dodavanjem lokacija na <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-open-street-map"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, davanjem povratnih informacija o značajkama i doprinosom kodu na <span class="text-icon"><svg viewbox="0 0 4.233 4.233"> <use href="#icon-codeberg"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> kako bi zajedno stvarali sjajne karte. Projekt je ogranak Organic Maps i Maps.Me, a pokreće ga zajednica otvorenog koda.'
         highlight:
           icon: static/images/icons/home/heart.svg
@@ -46,5 +49,5 @@ extra:
         title: 'Besplatno i stvoreno uz pomoć zajednice'
 sort_by: weight
 template: home.html
-title: 'Hike, Bike, Drive Offline – Navigate with Privacy'
+title: 'Planinari, bicikliraj, vozi izvan-mrežno - Navigiraj sa privatnosti'
 ---

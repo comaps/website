@@ -36,6 +36,9 @@ extra:
           user: /images/sections/map-m-3.webp
         title: 節省電池電力
       - 
+        cta:
+          href: community/
+          text: inv_title
         description: '如同您一樣的使用者透過向 <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-open-street-map"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span> 添加地點、測試功能並提供回饋、無私地在 <span class="text-icon"><svg viewbox="0 0 4.233 4.233"> <use href="#icon-codeberg"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> 上一起創建偉大的地圖。CoMaps 專案是 Organic Maps 以及 Maps.Me 的分支計畫，並且由開源社群驅動。'
         highlight:
           icon: static/images/icons/home/heart.svg

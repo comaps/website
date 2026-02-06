@@ -6,7 +6,6 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"PO-Revision-Date: 2026-02-04 07:29+0000\n"
 "Last-Translator: astro-ray <astro-ray@noreply.codeberg.org>\n"
 "Language-Team: Bengali <https://translate.codeberg.org/projects/comaps/website/bn/>\n"
 "Language: bn\n"
@@ -18,8 +17,9 @@ msgstr ""
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
-#, no-wrap
-msgid "Discover more of your journey -<br/>Powered by the community"
+#, fuzzy, no-wrap
+#| msgid "Discover more of your journey -<br/>Powered by the community"
+msgid "Discover more of your journey - Powered by the community"
 msgstr "আপনার যাত্রা সম্পর্কে আরও আবিষ্কার করুন -<br/>সম্প্রদায় দ্বারা চালিত"
 
 #. type: Yaml Front Matter Hash Value: extra freedom description
@@ -42,8 +42,9 @@ msgstr "সম্প্রদায় + উন্মুক্ত ম্যা�
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
-#, no-wrap
-msgid "Plan and navigate your trip abroad without the need for mobile data, and search waypoints while on a distant hike."
+#, fuzzy, no-wrap
+#| msgid "Plan and navigate your trip abroad without the need for mobile data, and search waypoints while on a distant hike."
+msgid "Plan and navigate your trip abroad with just GPS, no need for mobile data. Search waypoints while on distant hiking trails or bike paths."
 msgstr "আপনার বিদেশী ভ্রমণ পরিকল্পনা করুন এবং নেভিগেট করুন মোবাইল ডেটার প্রয়োজন ছাড়াই, এবং দূরবর্তী হাইকিং করার সময় ওয়ে পয়েন্টগুলি খুঁজুন।"
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
@@ -61,8 +62,8 @@ msgstr "অফলাইন অনুসন্ধান এবং রুট"
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
 #, no-wrap
-msgid "The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information."
-msgstr "অ্যাপটি গোপনীয়তা মাথায় রেখে ডিজাইন করা হয়েছে - এটি মানুষের পরিচয় নির্ধারণ করে না, আপনাকে ট্র্যাক করে না এবং কোনো তথ্য সংগ্রহ করে না।"
+msgid "The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information. CoMaps was also audited by <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-exodus\"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/)."
+msgstr ""
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
@@ -94,10 +95,17 @@ msgstr "কার্যকর ব্যাটারি ব্যবহার"
 msgid "Save Your Battery"
 msgstr "আপনার ব্যাটারি বাঁচান"
 
-#. type: Yaml Front Matter Hash Value: extra services items description
+#. type: Yaml Front Matter Hash Value: extra services items cta text
 #: content/_index.md
 #, no-wrap
-msgid "People like you helped build the app by adding locations to <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on Codeberg in the open-source community."
+msgid "inv_title"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: extra services items description
+#: content/_index.md
+#, fuzzy, no-wrap
+#| msgid "People like you helped build the app by adding locations to <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on Codeberg in the open-source community."
+msgid "People like you are helping build the app by adding locations to <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> to create great maps together. The project is a fork of Organic Maps and Maps.Me, and driven by an open-source community."
 msgstr "আপনার মতো মানুষরা অ্যাপটি তৈরিতে সাহায্য করেছেন স্থান যোগ করে <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span> এ, বৈশিষ্ট্যগুলোর উপর প্রতিক্রিয়া দিয়ে এবং ওপেন-সোর্স কমিউনিটিতে কোডবার্গে কোড অবদান রেখে।"
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
@@ -114,8 +122,9 @@ msgstr "বিনামূল্যে এবং সম্প্রদায় 
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/_index.md
-#, no-wrap
-msgid "Hike, Bike, Drive Offline Navigate with Privacy"
+#, fuzzy, no-wrap
+#| msgid "Hike, Bike, Drive Offline Navigate with Privacy"
+msgid "Hike, Bike, Drive Offline – Navigate with Privacy"
 msgstr "হাইকিং, বাইকিং, ড্রাইভিং অফলাইনে গোপনীয়তার সাথে নেভিগেট করুন"
 
 #. type: Yaml Front Matter Hash Value: title
@@ -144,8 +153,9 @@ msgstr "অনুদান"
 
 #. type: Yaml Front Matter Hash Value: extra features description
 #: content/community/index.md
-#, no-wrap
-msgid "Report bugs, discuss idea, and propose features"
+#, fuzzy, no-wrap
+#| msgid "Report bugs, discuss idea, and propose features"
+msgid "Report bugs, discuss ideas, and propose features"
 msgstr "বাগ রিপোর্ট করুন, ধারণা নিয়ে আলোচনা করুন এবং বৈশিষ্ট্যগুলি প্রস্তাব করুন"
 
 #. type: Yaml Front Matter Hash Value: extra features title
@@ -252,20 +262,9 @@ msgstr "Open Collective দ্বারা দান করুন"
 
 #. type: Yaml Front Matter Hash Value: extra funding items text
 #: content/donate/index.md
-#, no-wrap
-msgid "Currently there is no full time team who is working to develop new features and improve the service. To consistently move the product forward, a core team is needed."
-msgstr "বর্তমানে নতুন ফিচার তৈরি এবং পরিষেবা উন্নত করার জন্য কোনো পূর্ণকালীন দল নেই। প্রোডাক্টটি ধারাবাহিকভাবে এগিয়ে নিয়ে যেতে, একটি মূল দল প্রয়োজন।"
-
-#. type: Yaml Front Matter Hash Value: extra funding items title
-#: content/donate/index.md
-#, no-wrap
-msgid "Developers"
-msgstr "ডেভেলপার"
-
-#. type: Yaml Front Matter Hash Value: extra funding items text
-#: content/donate/index.md
-#, no-wrap
-msgid "We pay for fast servers, so anyone in the world can download free map data updates without delays. The maps data transfers are hundreds of terabytes monthly, and the amount is growing."
+#, fuzzy, no-wrap
+#| msgid "We pay for fast servers, so anyone in the world can download free map data updates without delays. The maps data transfers are hundreds of terabytes monthly, and the amount is growing."
+msgid "We have to keep up fast servers, to update the map files and for you to download them without delays. The maps data transfers make up large, and growing, amounts of data each month."
 msgstr "আমরা দ্রুত সার্ভারের জন্য অর্থ ব্যায় করি, যাতে বিশ্বের যে কেউ বিলম্ব ছাড়াই বিনামূল্যে মানচিত্র ডেটা আপডেট ডাউনলোড করতে পারে। প্রতি মাসে শতাধিক টেরাবাইট মানচিত্র ডেটা স্থানান্তর হয়, এবং এই পরিমাণ ক্রমশ বাড়ছে।"
 
 #. type: Yaml Front Matter Hash Value: extra funding items title
@@ -280,11 +279,23 @@ msgstr "পরিকাঠামো"
 msgid "User support, fixing bugs, and improving the stability of the app are our top priority. The list of requests and bug reports grows every day, and there are many support requests to respond to on the App Store, Google Play, and support emails."
 msgstr "ব্যবহারকারী সহায়তা, বাগ ফিক্স করা এবং অ্যাপের স্থিতিশীলতা উন্নত করা আমাদের শীর্ষ অগ্রাধিকার। অনুরোধ ও বাগ রিপোর্টের তালিকা প্রতিদিনই বাড়ছে, এবং অ্যাপ স্টোর, গুগল প্লে ও সহায়তা ইমেইলে প্রতিক্রিয়া জানাতে অনেক সহায়তা অনুরোধ রয়েছে।"
 
-#. type: Yaml Front Matter Hash Value: title
-#: content/donate/index.md content/support/_index.md
+#. type: Yaml Front Matter Hash Value: extra funding items title
+#: content/donate/index.md
 #, no-wrap
 msgid "Support"
 msgstr "সমর্থন"
+
+#. type: Yaml Front Matter Hash Value: extra funding items text
+#: content/donate/index.md
+#, no-wrap
+msgid "Currently, all development is done by volunteers with limited time. To implement larger, more ambitious features, paying developers might be necessary in the future."
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: extra funding items title
+#: content/donate/index.md
+#, no-wrap
+msgid "Developers"
+msgstr "ডেভেলপার"
 
 #. type: Yaml Front Matter Hash Value: extra funding title
 #: content/donate/index.md
@@ -294,14 +305,16 @@ msgstr "ফান্ড কীভাবে করা হবে?"
 
 #. type: Yaml Front Matter Hash Value: extra info text
 #: content/donate/index.md
-#, no-wrap
-msgid "We rely on your donations to keep CoMaps open and free"
+#, fuzzy, no-wrap
+#| msgid "We rely on your donations to keep CoMaps open and free"
+msgid "We rely on your donations to keep CoMaps free to use"
 msgstr "আমরা CoMaps-কে উন্মুক্ত ও বিনামূল্যে রাখতে আপনার অনুদানের ওপর নির্ভর করি"
 
 #. type: Yaml Front Matter Hash Value: extra info text
 #: content/donate/index.md
-#, no-wrap
-msgid "We are a few enthusiasts contributing in our free time. We love what we do, and we love our users"
+#, fuzzy, no-wrap
+#| msgid "We are a few enthusiasts contributing in our free time. We love what we do, and we love our users"
+msgid "We are a community contributing in our free time. We love what we do, and we love our users"
 msgstr "আমরা কয়েকজন উৎসাহী ব্যক্তি যারা আমাদের অবসর সময়ে অবদান রাখি। আমরা যা করি তা ভালোবাসি, এবং আমাদের ব্যবহারকারীদের ভালোবাসি"
 
 #. type: Yaml Front Matter Hash Value: extra info text
@@ -315,6 +328,12 @@ msgstr "আপনার সমর্থনে, আমরা গোপনীয�
 #, no-wrap
 msgid "Need assistance? Search for answers to common questions. Get the support you need and connect with others in the community for help."
 msgstr "সহায়তা প্রয়োজন? সাধারণ প্রশ্নের উত্তর খুঁজুন। প্রয়োজনীয় সহায়তা পান এবং সম্প্রদায়ের অন্যদের সাথে সংযোগ করুন।"
+
+#. type: Hash Value: menu_help
+#: content/support/_index.md translations.yaml
+#, no-wrap
+msgid "Help"
+msgstr "সাহায্য"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/about-us/index.md
@@ -370,6 +389,18 @@ msgstr "**CoMaps** সম্প্রদায় ও নন্-প্রফি�
 msgid "History"
 msgstr "ইতিহাস"
 
+#. type: Yaml Front Matter Hash Value: extra media_highlights description
+#: content/about-us/index.md
+#, no-wrap
+msgid "See the full list of media coverage about CoMaps."
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: extra media_highlights title
+#: content/about-us/index.md
+#, no-wrap
+msgid "Media Highlights"
+msgstr ""
+
 #. type: Yaml Front Matter Hash Value: extra vm items text
 #: content/about-us/index.md
 #, no-wrap
@@ -406,47 +437,30 @@ msgstr "আমাদের সম্বন্ধে"
 msgid "Unlock the potential of navigation! Discover offline maps, privacy-centric features, and a community-driven app"
 msgstr "নেভিগেশনের সম্ভাবনা উনলক করুন! অফলাইন ম্যাপ, গোপনীয়তা-কেন্দ্রিক ফিচার এবং সম্প্রদায়-চালিত অ্যাপ আবিষ্কার করুন"
 
-#. type: Yaml Front Matter Array Element: extra steps items
+#. type: Yaml Front Matter Hash Value: extra app_verifier description
 #: content/download/index.md
 #, no-wrap
-msgid "Offline Maps"
-msgstr "অনলাইন মানচিত্র"
+msgid "To verify the app when downloading it as an APK or via Obtainium you can use this fingerprint:"
+msgstr ""
 
-#. type: Yaml Front Matter Array Element: extra steps items
+#. type: Yaml Front Matter Hash Value: extra app_verifier title
 #: content/download/index.md
 #, no-wrap
-msgid "Privacy-Centric"
-msgstr "গোপনীয়তা বান্ধব"
+msgid "Verifying the Android app"
+msgstr ""
 
-#. type: Yaml Front Matter Array Element: extra steps items
+#. type: Yaml Front Matter Hash Value: extra releases title
 #: content/download/index.md
-#, no-wrap
-msgid "No data collection"
-msgstr "কোন তথ্য সংগ্রহ হয়না"
-
-#. type: Yaml Front Matter Array Element: extra steps items
-#: content/download/index.md
-#, no-wrap
-msgid "Community-Driven"
-msgstr "সম্প্রদায়-চালিত"
-
-#. type: Yaml Front Matter Hash Value: extra steps title
-#: content/download/index.md
-#, no-wrap
-msgid "Already downloaded?"
-msgstr "ইতিমধ্যেই ডাউনলোড করেছেন?"
+#, fuzzy, no-wrap
+#| msgid "Releases"
+msgid "Latest Releases"
+msgstr "রিলিজগুলি"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/download/index.md
 #, no-wrap
 msgid "Download CoMaps"
 msgstr "CoMaps ডাউনলোড করুন"
-
-#. type: Plain text
-#: content/download/index.md
-#, markdown-text
-msgid "CoMaps is available on Google Play, F-Droid, and as an APK download now! We are still working on publishing on the iOS App Store as well, please stay tuned!"
-msgstr ""
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/api/index.md
@@ -456,9 +470,66 @@ msgstr "API পৃষ্ঠা"
 
 #. type: Plain text
 #: content/api/index.md
-#, markdown-text
 msgid "The API is documented on [comaps.at/api](https://comaps.at/api)."
 msgstr "API-টি [comaps.at/api](https://comaps.at/api)-এ ডকুমেন্ট করা হয়েছে।"
+
+#. type: Hash Value: menu_privacy
+#: content/privacy/index.md translations.yaml
+#, fuzzy, no-wrap
+#| msgid "Privacy-Centric"
+msgid "Privacy"
+msgstr "গোপনীয়তা বান্ধব"
+
+#. type: Plain text
+#: content/privacy/index.md
+msgid "At CoMaps, we respect your privacy. CoMaps does not have any form of identification of people, advertising, or personal data collection."
+msgstr ""
+
+#. type: Plain text
+#: content/privacy/index.md
+msgid "CoMaps does not track you."
+msgstr ""
+
+#. type: Plain text
+#: content/privacy/index.md content/terms/index.md
+msgid "If you have any questions or suggestions, please contact us at legal@comaps.app"
+msgstr ""
+
+#. type: Plain text
+#: content/privacy/index.md
+msgid "Policy effective: 2025-05-01"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/terms/index.md
+#, no-wrap
+msgid "Terms"
+msgstr ""
+
+#. type: Plain text
+#: content/terms/index.md
+msgid "This app is licensed under the Apache License, Version 2.0 (the \"License\"); This application cannot be used except in compliance with the License."
+msgstr ""
+
+#. type: Plain text
+#: content/terms/index.md
+msgid "Read [the full license text](https://www.apache.org/licenses/LICENSE-2.0)."
+msgstr ""
+
+#. type: Plain text
+#: content/terms/index.md
+msgid "Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License."
+msgstr ""
+
+#. type: Plain text
+#: content/terms/index.md
+msgid "Many libraries and 3rd party tools included into [CoMaps repository](https://codeberg.org/comaps/comaps) were developed by multiple people and organizations, and licensed in different ways.  Please refer to their LICENSE, COPYING or NOTICE files for terms of use."
+msgstr ""
+
+#. type: Plain text
+#: content/terms/index.md
+msgid "See [data/copyright.html](https://codeberg.org/comaps/comaps/src/branch/main/data/copyright.html) file for a full list of copyright notices for the CoMaps application."
+msgstr ""
 
 #. type: Hash Value: all_title
 #: translations.yaml
@@ -532,17 +603,17 @@ msgstr "বাংলা"
 msgid "API"
 msgstr ""
 
-#. type: Hash Value: menu_help
-#: translations.yaml
-#, no-wrap
-msgid "Help"
-msgstr "সাহায্য"
-
 #. type: Hash Value: menu_home
 #: translations.yaml
 #, no-wrap
 msgid "Home"
 msgstr "হোম"
+
+#. type: Hash Value: menu_media_coverage
+#: translations.yaml
+#, no-wrap
+msgid "Media Coverage"
+msgstr ""
 
 #. type: Hash Value: menu_news
 #: translations.yaml
@@ -585,3 +656,27 @@ msgstr "খুঁজুন"
 #, no-wrap
 msgid "Connect with Us"
 msgstr "আমাদের সাথে যোগাযোগ করুন"
+
+#, no-wrap
+#~ msgid "The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information."
+#~ msgstr "অ্যাপটি গোপনীয়তা মাথায় রেখে ডিজাইন করা হয়েছে - এটি মানুষের পরিচয় নির্ধারণ করে না, আপনাকে ট্র্যাক করে না এবং কোনো তথ্য সংগ্রহ করে না।"
+
+#, no-wrap
+#~ msgid "Currently there is no full time team who is working to develop new features and improve the service. To consistently move the product forward, a core team is needed."
+#~ msgstr "বর্তমানে নতুন ফিচার তৈরি এবং পরিষেবা উন্নত করার জন্য কোনো পূর্ণকালীন দল নেই। প্রোডাক্টটি ধারাবাহিকভাবে এগিয়ে নিয়ে যেতে, একটি মূল দল প্রয়োজন।"
+
+#, no-wrap
+#~ msgid "Offline Maps"
+#~ msgstr "অনলাইন মানচিত্র"
+
+#, no-wrap
+#~ msgid "No data collection"
+#~ msgstr "কোন তথ্য সংগ্রহ হয়না"
+
+#, no-wrap
+#~ msgid "Community-Driven"
+#~ msgstr "সম্প্রদায়-চালিত"
+
+#, no-wrap
+#~ msgid "Already downloaded?"
+#~ msgstr "ইতিমধ্যেই ডাউনলোড করেছেন?"

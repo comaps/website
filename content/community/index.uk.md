@@ -17,7 +17,7 @@ extra:
       icon: BezierCurve.svg
       link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md#ui-ux-map-styling-and-icons
       title: "**Проєктуйте** інтерфейс"
-    - description: "Додати переклади, щоб зробити його доступним для більшої кількості людей по всьому світу"
+    - description: "Додайте переклади, щоб зробити його доступним для більшої кількості людей по всьому світу"
       icon: Translate.svg
       link: https://codeberg.org/comaps/comaps/src/branch/main/docs/TRANSLATIONS.md
       title: "**Перекладіть** текст"
@@ -25,7 +25,7 @@ extra:
       icon: MapPinLine.svg
       link: /support/editing-with-CoMaps
       title: "**Додайте** інформацію про місце"
-    - description: "Допомагайте людям користуватися додатком та відповідайте на запитання"
+    - description: "Допомагайте людям користуватися застосунком та відповідайте на запитання"
       icon: Headset.svg
       link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md#day-to-day-activities
       title: "**Допомога** та підтримка"

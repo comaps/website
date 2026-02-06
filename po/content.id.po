@@ -6,7 +6,6 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"PO-Revision-Date: 2026-02-04 01:29+0000\n"
 "Last-Translator: wirabdillah <wirabdillah@noreply.codeberg.org>\n"
 "Language-Team: Indonesian <https://translate.codeberg.org/projects/comaps/website/id/>\n"
 "Language: id\n"
@@ -93,6 +92,12 @@ msgstr "Hemat Baterai"
 #, no-wrap
 msgid "Save Your Battery"
 msgstr "Hemat Baterai"
+
+#. type: Yaml Front Matter Hash Value: extra services items cta text
+#: content/_index.md
+#, no-wrap
+msgid "inv_title"
+msgstr ""
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md

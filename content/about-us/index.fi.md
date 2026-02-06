@@ -20,8 +20,8 @@ extra:
         year: 2025
     title: Historia
   media_highlights:
-    description: "See the full list of media coverage about CoMaps."
-    title: "Media Highlights"
+    description: "Katso lista CoMapsin saamasta mediahuomiosta."
+    title: Mediahuomiot
   vm:
     items:
       - icon: /images/icons/about/mission.svg

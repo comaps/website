@@ -13,21 +13,21 @@ extra:
   funding:
     items:
       - media: /images/donate/infrastructure.webp
-        text: "We have to keep up fast servers, to update the map files and for you to download them without delays. The maps data transfers make up large, and growing, amounts of data each month."
+        text: "வரைபடக் கோப்புகளைப் புதுப்பிக்கவும், தாமதமின்றி அவற்றைப் பதிவிறக்கவும் நாங்கள் வேகமான சர்வர்களை வைத்திருக்க வேண்டும். வரைபட தரவு பரிமாற்றங்கள் ஒவ்வொரு மாதமும் பெரிய மற்றும் வளர்ந்து வரும் தரவுகளின் அளவை உருவாக்குகின்றன."
         title: உள்கட்டமைப்பு
       - media: /images/donate/support.webp
         text: "பயனர் உதவி, பிழைகளை சரிசெய்தல் மற்றும் பயன்பாட்டின் நிலைத்தன்மையை மேம்படுத்துதல் ஆகியவை எங்கள் முன்னுரிமை. கோரிக்கைகள் மற்றும் பிழை அறிக்கைகளின் பட்டியல் ஒவ்வொரு நாளும் வளர்ந்து வருகிறது, மேலும் பயன்பாடு Store, Google Play மற்றும் உதவி மின்னஞ்சல்களில் பதிலளிக்க பல உதவி கோரிக்கைகள் உள்ளன."
         title: ஆதரவு
       - media: /images/donate/developers.webp
-        text: "Currently, all development is done by volunteers with limited time. To implement larger, more ambitious features, paying developers might be necessary in the future."
+        text: "தற்போது, அனைத்து வளர்ச்சியும் குறைந்த நேரத்துடன் தன்னார்வலர்களால் செய்யப்படுகிறது. பெரிய, அதிக லட்சிய அம்சங்களை செயல்படுத்த, டெவலப்பர்களுக்கு பணம் செலுத்துவது எதிர்காலத்தில் அவசியமாக இருக்கலாம்."
         title: உருவாக்குநர்கள்
     title: "பொருள் எவ்வாறு பயன்படுத்தப்படும்?"
   hero_description: "Donate and create better maps together!"
   info:
     - icon: static/images/icons/donate/icon01.svg
-      text: "We rely on your donations to keep CoMaps free to use"
+      text: "CoMaps ஐ இலவசமாகப் பயன்படுத்த உங்கள் நன்கொடைகளை நாங்கள் நம்பியுள்ளோம்"
     - icon: static/images/icons/donate/icon02.svg
-      text: "We are a community contributing in our free time. We love what we do, and we love our users"
+      text: "நாங்கள் எங்கள் ஓய்வு நேரத்தில் பங்களிக்கும் ஒரு சமூகம். நாங்கள் செய்வதை விரும்புகிறோம், மேலும் எங்கள் பயனர்களையும் நாங்கள் விரும்புகிறோம்"
     - icon: static/images/icons/donate/icon03.svg
       text: "உங்கள் ஆதரவுடன், சந்தையில் விருப்பமான தேர்வாக இருக்கும் தனியுரிமையை மையமாகக் கொண்ட வரைபட வழிசெலுத்தலை நோக்கிச் செயல்படுகிறோம்"
   service_text: ~

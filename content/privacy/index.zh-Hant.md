@@ -3,12 +3,10 @@ title: 隱私
 weight: 900
 ---
 
-At CoMaps, we respect your privacy. CoMaps does not have any form of
-identification of people, advertising, or personal data collection.
+當您使用 CoMaps 時，我們尊重您的隱私，CoMaps 並沒有任何形式的識別使用者，打廣告或是收集個人資料。
 
-CoMaps does not track you.
+CoMaps 並不會追蹤您。
 
-If you have any questions or suggestions, please contact us at
-legal@comaps.app
+如果您有任何問題或是建議，請寄信到 legal@comaps.app 聯繫我們
 
-Policy effective: 2025-05-01
+隱私政策生效日：2025-05-01

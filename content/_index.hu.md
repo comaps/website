@@ -36,6 +36,9 @@ extra:
           user: /images/sections/map-m-3.webp
         title: 'Kíméli az akkumulátort'
       - 
+        cta:
+          href: community/
+          text: inv_title
         description: 'Az Önhöz hasonló emberek segítettek az alkalmazás felépítésében, a térképészeti helyek hozzáadásával az <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-open-street-map"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span> oldalon, kóddal járultak hozzá, és visszajelzést adtak a funkciókról a <span class="text-icon"><svg viewbox="0 0 4.233 4.233"> <use href="#icon-codeberg"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> oldalon. A projekt az Organic Maps és a Maps.Me elágazása, és nyílt forráskódú közösség működteti.'
         highlight:
           icon: static/images/icons/home/heart.svg

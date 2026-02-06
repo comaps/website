@@ -36,6 +36,9 @@ extra:
           user: /images/sections/map-m-3.webp
         title: 'Schon din Akku'
       - 
+        cta:
+          href: community/
+          text: inv_title
         description: 'Mensche wie du helfed bi de Entwicklig vo de App, indem sie Ort zu <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-open-street-map"></use></svg>[OpenStreetMap](https://openstreetmap.org)</span> hinzuegfüeged, Feedback zur Funktionalität gänd und Code uf <span class="text-icon"><svg viewbox="0 0 4.233 4.233"> <use href="#icon-codeberg"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> biiträged, zum gmeinsam grossartigi Chartene z erstelle. Das Projekt isch en Fork vo Organic Maps und Maps.Me und wird vonere Open-Source-Gmeinschaft voraa bracht.'
         highlight:
           icon: static/images/icons/home/heart.svg
@@ -46,5 +49,5 @@ extra:
         title: 'Gratis und vo de Community entwicklet'
 sort_by: weight
 template: home.html
-title: 'Hike, Bike, Drive Offline – Navigate with Privacy'
+title: 'Wandere, Velofahre, Autofahre – Offline navigiere mit Dateschutz'
 ---

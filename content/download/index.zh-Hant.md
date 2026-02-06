@@ -2,7 +2,7 @@
 description: 發掘導航的潛能！探索以離線為模式、以隱私為中心、以社群為主導的地圖應用
 extra:
   app_verifier:
-    description: "To verify the app when downloading it as an APK or via Obtainium you can use this fingerprint:"
+    description: "要確認以 APK 或是透過 Obtainium下載，您可以用指紋確認："
     title: "認證 Android app"
   desktop_payment_methods_1: MacOS
   desktop_payment_methods_2: Linux

@@ -16,7 +16,7 @@ extra:
         text: "We have to keep up fast servers, to update the map files and for you to download them without delays. The maps data transfers make up large, and growing, amounts of data each month."
         title: Інфраструктура
       - media: /images/donate/support.webp
-        text: "Підтримка користувачів, виправлення помилок і покращення стабільності додатку є нашим головним пріоритетом. Список запитів та повідомлень про помилки зростає щодня, і ми маємо багато звернень до служби підтримки в App Store, Google Play та на електронну пошту, на які потрібно відповідати."
+        text: "Підтримка користувачів, виправлення помилок і покращення стабільності застосунку і є нашим головним пріоритетом. Список запитів та повідомлень про помилки зростає щодня, і ми маємо багато звернень до служби підтримки в App Store, Google Play та на електронну пошту, на які потрібно відповідати."
         title: Підтримка
       - media: /images/donate/developers.webp
         text: "Currently, all development is done by volunteers with limited time. To implement larger, more ambitious features, paying developers might be necessary in the future."
@@ -29,7 +29,7 @@ extra:
     - icon: static/images/icons/donate/icon02.svg
       text: "We are a community contributing in our free time. We love what we do, and we love our users"
     - icon: static/images/icons/donate/icon03.svg
-      text: "Завдяки вашій підтримці ми працюємо над створенням навігаційного додатку з фокусом на приватність, який стане кращим вибором на ринку"
+      text: "Завдяки вашій підтримці ми працюємо над створенням навігаційного застосунку з фокусом на приватність, який стане кращим вибором на ринку"
   service_text: ~
   service_title: "Created with love by enthusiast volunteers"
 template: donate.html

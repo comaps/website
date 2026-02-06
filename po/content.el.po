@@ -6,7 +6,6 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"PO-Revision-Date: 2026-02-01 20:08+0000\n"
 "Last-Translator: jimkats <jimkats@noreply.codeberg.org>\n"
 "Language-Team: Greek <https://translate.codeberg.org/projects/comaps/website/el/>\n"
 "Language: el\n"

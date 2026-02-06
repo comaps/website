@@ -2,8 +2,8 @@
 description: "Izkoristite zmožnosti potnega usmerjanja! Odkrijte zemljevide brez povezave, zmogljivosti, osredotočene na zasebnost in orodje, ki ga vzdržuje skupnost"
 extra:
   app_verifier:
-    description: "To verify the app when downloading it as an APK or via Obtainium you can use this fingerprint:"
-    title: "Verifying the Android app"
+    description: "Za potrditev orodja v primeru njegovega prenašanja kot APK ali preko Obtainium lahko uporabite ta prstni odtis:"
+    title: "Potrjevanje Androidovega orodja"
   desktop_payment_methods_1: MacOS
   desktop_payment_methods_2: Linux
   desktop_payment_title: Desktop
@@ -18,7 +18,7 @@ extra:
   mobile_shop_name_4: AppGallery
   mobile_shop_name_5: Obtainium
   releases:
-    title: "Latest Releases"
+    title: "Zadnje izdaje"
 template: download.html
 title: "Prenesi CoMaps"
 weight: 10

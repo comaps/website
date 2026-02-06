@@ -27,7 +27,7 @@ extra:
     - icon: static/images/icons/donate/icon01.svg
       text: "We rely on your donations to keep CoMaps free to use"
     - icon: static/images/icons/donate/icon02.svg
-      text: "We are a community contributing in our free time. We love what we do, and we love our users"
+      text: "Somos unha comunidade colaborando no seu tempo libre. Gústanos o que facemos, e apreciamos ás nosas usuarias"
     - icon: static/images/icons/donate/icon03.svg
       text: "Coa túa axuda, traballamos a prol da navegación con mapas centrada na privacidade, que é a opción preferida no mercado"
   service_text: ~

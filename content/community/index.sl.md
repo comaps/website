@@ -3,7 +3,7 @@ description: "CoMaps ustvarjajo in vzdržujejo ljudje kot ste vi"
 extra:
   donate:
     description: "Orodje sloni na prostovoljnih prispevkih, pomagajte ga izboljšati"
-    title: Darujte
+    title: Daruj
   features:
     - description: "Poročajte o napakah, razpravljajte o zamislih in predlagajte zmogljivosti"
       icon: chats.svg

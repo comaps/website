@@ -17,21 +17,21 @@ extra:
       icon: BezierCurve.svg
       link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md#ui-ux-map-styling-and-icons
       title: "**Design** Interface"
-    - description: "Add translations to make it accessible for more people around the world"
+    - description: "Dodaj prevode da napraviš aplikaciju pristupno za više ljudi oko svijeta"
       icon: Translate.svg
       link: https://codeberg.org/comaps/comaps/src/branch/main/docs/TRANSLATIONS.md
-      title: "**Translate** Text"
-    - description: "Add info about shops, points of interest, trails, and public transport to OpenStreetMap"
+      title: "**Prevodi** tekst"
+    - description: "Dodaj informacije o trgovinama, mjestima, putovima i javni transport na OpenStreetMap's"
       icon: MapPinLine.svg
       link: /support/editing-with-CoMaps
-      title: "**Add** Place Info"
-    - description: "Help people use the app, and answer questions"
+      title: "**Dodaj** informacije mjesta"
+    - description: "Pomogni ljudima da koriste aplikaciju, i odgovori na pitanja"
       icon: Headset.svg
       link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md#day-to-day-activities
-      title: "**Help** Support"
+      title: "**Pomogni**"
   preview_image: donate/donate.png
   stay_connected_section_title: "connect with us"
 template: community.html
-title: Community
+title: Zajednica
 weight: 10
 ---

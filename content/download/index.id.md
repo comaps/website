@@ -2,8 +2,8 @@
 description: "Gali potensi navigasi! Jelajahi peta offline, fitur yang menjaga privasi, serta aplikasi yang digerakkan oleh komunitas"
 extra:
   app_verifier:
-    description: "To verify the app when downloading it as an APK or via Obtainium you can use this fingerprint:"
-    title: "Verifying the Android app"
+    description: "Untuk memverifikasi aplikasi saat mengunduh APK atau melalui Obtainium, gunakan sidik jari ini:"
+    title: "Memverifikasi aplikasi Android"
   desktop_payment_methods_1: MacOS
   desktop_payment_methods_2: Linux
   desktop_payment_title: Desktop
@@ -18,7 +18,7 @@ extra:
   mobile_shop_name_4: AppGallery
   mobile_shop_name_5: Obtainium
   releases:
-    title: "Latest Releases"
+    title: "Rilis Terbaru"
 template: download.html
 title: "Unduh CoMaps"
 weight: 10

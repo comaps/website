@@ -18,7 +18,7 @@ extra:
   mobile_shop_name_4: AppGallery
   mobile_shop_name_5: Obtainium
   releases:
-    title: "Latest Releases"
+    title: "Ultimi rilasci"
 template: download.html
 title: "Scarica CoMaps"
 weight: 10

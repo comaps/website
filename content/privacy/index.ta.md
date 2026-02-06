@@ -1,14 +1,15 @@
 ---
-title: Privacy
+title: தனியுரிமை
 weight: 900
 ---
 
-At CoMaps, we respect your privacy. CoMaps does not have any form of
-identification of people, advertising, or personal data collection.
+CoMaps இல், உங்கள் தனியுரிமையை நாங்கள் மதிக்கிறோம். CoMaps ஆனது நபர்களை
+அடையாளம் காண்பது, விளம்பரம் செய்தல் அல்லது தனிப்பட்ட தரவு சேகரிப்பு
+ஆகியவற்றைக் கொண்டிருக்கவில்லை.
 
-CoMaps does not track you.
+CoMaps உங்களைக் கண்காணிக்காது.
 
-If you have any questions or suggestions, please contact us at
-legal@comaps.app
+உங்களிடம் ஏதேனும் கேள்விகள் அல்லது பரிந்துரைகள் இருந்தால், எங்களை
+legal@comaps.app இல் தொடர்பு கொள்ளவும்
 
-Policy effective: 2025-05-01
+கொள்கை நடைமுறைக்கு: 2025-05-01

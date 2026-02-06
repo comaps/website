@@ -36,6 +36,9 @@ extra:
           user: /images/sections/map-m-3.webp
         title: 'Bespaar je batterij'
       - 
+        cta:
+          href: community/
+          text: inv_title
         description: 'Mensen zoals jij helpen mee met het bouwen van de app door locaties toe te voegen aan <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-open-street-map"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, feedback te geven op functies en code bij te dragen op <span class="text-icon"><svg viewbox="0 0 4.233 4.233"> <use href="#icon-codeberg"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> om samen fantastische kaarten te maken. Het project is een afsplitsing van Organic Maps en Maps.Me, en wordt aangestuurd door een open-source community.'
         highlight:
           icon: static/images/icons/home/heart.svg

@@ -1,5 +1,5 @@
 ---
-title: Terms
+title: "Termos de uso"
 weight: 1000
 ---
 
@@ -23,5 +23,5 @@ See
 [data/copyright.html](https://codeberg.org/comaps/comaps/src/branch/main/data/copyright.html)
 file for a full list of copyright notices for the CoMaps application.
 
-If you have any questions or suggestions, please contact us at
-legal@comaps.app
+Se você tiver alguma dúvida ou sugestão, entre em contato conosco pelo
+e-mail legal@comaps.app

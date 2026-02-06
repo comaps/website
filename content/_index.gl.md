@@ -36,6 +36,9 @@ extra:
           user: /images/sections/map-m-3.webp
         title: 'Aforra batería'
       - 
+        cta:
+          href: community/
+          text: inv_title
         description: 'Persoas coma ti axudan a mellorar a aplicación engadindo localizacións a <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-open-street-map"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, facendo recensións das novas características, e aportando ao código en <span class="text-icon"><svg viewbox="0 0 4.233 4.233"> <use href="#icon-codeberg"></use></svg>[Codeberg](https://codeberg.org/comaps)</span> para crear mellores mapas. O proxecto é unha derivación de Organic Maps e Maps.Me, xestionado por unha comunidade do código aberto.'
         highlight:
           icon: static/images/icons/home/heart.svg

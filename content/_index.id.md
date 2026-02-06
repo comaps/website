@@ -36,6 +36,9 @@ extra:
           user: /images/sections/map-m-3.webp
         title: 'Hemat Baterai'
       - 
+        cta:
+          href: community/
+          text: inv_title
         description: 'Orang-orang sepertimu turut membangun aplikasi ini dengan menambahkan lokasi ke <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-open-street-map"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, memberikan masukan mengenai fitur, serta berkontribusi kode di <span class="text-icon"><svg viewbox="0 0 4.233 4.233"> <use href="#icon-codeberg"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> untuk menciptakan peta yang berkualitas bersama-sama. Proyek ini merupakan fork dari Organic Maps dan Maps.Me, serta digerakkan oleh komunitas sumber terbuka.'
         highlight:
           icon: static/images/icons/home/heart.svg

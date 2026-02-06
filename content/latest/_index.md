@@ -1,3 +1,3 @@
 ---
-redirect_to:  "https://codeberg.org/comaps/comaps/releases"
+redirect_to: "https://codeberg.org/comaps/comaps/releases"
 ---

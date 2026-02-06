@@ -23,5 +23,5 @@ See
 [data/copyright.html](https://codeberg.org/comaps/comaps/src/branch/main/data/copyright.html)
 file for a full list of copyright notices for the CoMaps application.
 
-If you have any questions or suggestions, please contact us at
+Jos sinulla on kysymyksiä tai ehdotuksia, ota meihin yhteyttä osoitteessa
 legal@comaps.app

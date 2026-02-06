@@ -2,8 +2,8 @@
 description: "Avaa navigoinnin potentiaali! Tutustu ei-verkkotilassa oleviin karttoihin, yksityisyyttä suojaaviin ominaisuuksiin ja yhteisölähtöiseen sovellukseen"
 extra:
   app_verifier:
-    description: "To verify the app when downloading it as an APK or via Obtainium you can use this fingerprint:"
-    title: "Verifying the Android app"
+    description: "Varmentaaksesi sovelluksen latauksen aitouden joko APK:n tai Obtainiumin kautta, voit käyttää seuraavaa sormenjälkeä:"
+    title: "Varmenna Android sovellus"
   desktop_payment_methods_1: MacOS
   desktop_payment_methods_2: Linux
   desktop_payment_title: Desktop
@@ -18,7 +18,7 @@ extra:
   mobile_shop_name_4: AppGallery
   mobile_shop_name_5: Obtainium
   releases:
-    title: "Latest Releases"
+    title: "Viimeisimmät julkaisut"
 template: download.html
 title: "Lataa CoMaps"
 weight: 10

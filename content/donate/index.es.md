@@ -13,21 +13,21 @@ extra:
   funding:
     items:
       - media: /images/donate/infrastructure.webp
-        text: "We have to keep up fast servers, to update the map files and for you to download them without delays. The maps data transfers make up large, and growing, amounts of data each month."
+        text: "Pagamos por servidores veloces, para actualizar los mapas y para que cualquier persona pueda descargarlos rápidamente. Las transferencias de datos de mapas son cientos de TB al mes, y la cantidad sigue creciendo."
         title: Infraestructura
       - media: /images/donate/support.webp
         text: "El soporte al usuario, solucionar fallos, y mejorar la estabilidad de la aplicación son nuestras principales prioridades. La lista de solicitudes y los informes de fallos aumentan cada día, y hay muchas solicitudes de soporte a las que responder en la App Store, en Google Play, y en correos electrónicos de solicitud de ayuda."
         title: Soporte
       - media: /images/donate/developers.webp
-        text: "Currently, all development is done by volunteers with limited time. To implement larger, more ambitious features, paying developers might be necessary in the future."
+        text: "De momento, todo el desarrollo está hecho por voluntarios con tiempo limitado. Para implementar funcionalidades de más impacto, es posible que sea necesario pagar a desarrolladores en el futuro."
         title: Desarrolladores
     title: "¿Cómo se utilizarán los fondos?"
   hero_description: "Donate and create better maps together!"
   info:
     - icon: static/images/icons/donate/icon01.svg
-      text: "We rely on your donations to keep CoMaps free to use"
+      text: "Dependemos de tus donaciones para mantener CoMaps de uso gratuito"
     - icon: static/images/icons/donate/icon02.svg
-      text: "We are a community contributing in our free time. We love what we do, and we love our users"
+      text: "Somos una comunidad contribuyendo en nuestro tiempo libre. Nos encanta lo que hacemos y nos encantan nuestros usuarios"
     - icon: static/images/icons/donate/icon03.svg
       text: "Con tu soporte, estamos trabajando hacia una navegación de mapas enfocada a la privacidad, que es la opción preferida en el mercado"
   service_text: ~

@@ -13,21 +13,21 @@ extra:
   funding:
     items:
       - media: /images/donate/infrastructure.webp
-        text: "We have to keep up fast servers, to update the map files and for you to download them without delays. The maps data transfers make up large, and growing, amounts of data each month."
+        text: "Мы должны поддерживать работу быстрых серверов, обновлять файлы карт и предоставлять вам возможность загружать их без задержек. Передача картографических данных приводит к увеличению объема данных, который растет с каждым месяцем."
         title: Инфраструктура
       - media: /images/donate/support.webp
         text: "Поддержка пользователей, исправление ошибок и повышение стабильности приложения являются нашими главными приоритетами. Список запросов и отчётов об ошибках растёт с каждым днём, и в App Store, Google Play и по электронной почте службы поддержки есть много запросов на поддержку, на которые нужно ответить."
         title: Поддержка
       - media: /images/donate/developers.webp
-        text: "Currently, all development is done by volunteers with limited time. To implement larger, more ambitious features, paying developers might be necessary in the future."
+        text: "В настоящее время все разработки ведутся добровольцами в условиях ограниченного времени. Для реализации более масштабных и амбициозных функций в будущем может потребоваться оплата труда разработчиков."
         title: Разработчики
     title: "Как будет использоваться финансирование?"
   hero_description: "Donate and create better maps together!"
   info:
     - icon: static/images/icons/donate/icon01.svg
-      text: "We rely on your donations to keep CoMaps free to use"
+      text: "Мы рассчитываем на ваши пожертвования, чтобы CoMaps оставался открытым и бесплатным"
     - icon: static/images/icons/donate/icon02.svg
-      text: "We are a community contributing in our free time. We love what we do, and we love our users"
+      text: "Мы — сообщество и вносим свой вклад в свободное время. Мы любим то, что делаем, и любим наших пользователей"
     - icon: static/images/icons/donate/icon03.svg
       text: "С вашей поддержкой мы работаем над картографической навигацией, ориентированной на конфиденциальность, которая является предпочтительным выбором на рынке"
   service_text: ~

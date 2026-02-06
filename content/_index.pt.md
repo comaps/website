@@ -36,6 +36,9 @@ extra:
           user: /images/sections/map-m-3.webp
         title: 'Economize Bateria'
       - 
+        cta:
+          href: community/
+          text: inv_title
         description: 'Pessoas como tu estão a ajudar a construir esta aplicação adicionando lugares ao <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-open-street-map"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, fornecendo feedback sobre funcionalidades, e contribuindo com código no <span class="text-icon"><svg viewbox="0 0 4.233 4.233"> <use href="#icon-codeberg"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> para criar grandes mapas juntos. O projeto é um ‘fork’ de Organic Maps e Maps.Me, motivado por uma comunidade open-source.'
         highlight:
           icon: static/images/icons/home/heart.svg

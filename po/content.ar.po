@@ -95,6 +95,12 @@ msgstr "كفاءة في إستخدام البطارية"
 msgid "Save Your Battery"
 msgstr "حافظ علي بطاريتك"
 
+#. type: Yaml Front Matter Hash Value: extra services items cta text
+#: content/_index.md
+#, no-wrap
+msgid "inv_title"
+msgstr ""
+
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
 #, fuzzy, no-wrap

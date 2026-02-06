@@ -36,6 +36,9 @@ extra:
           user: /images/sections/map-m-3.webp
         title: 'Pilinizi kurtarın'
       - 
+        cta:
+          href: community/
+          text: inv_title
         description: "Sizin gibi insanlar, birlikte ortaya harika bir harita uygulaması çıkarmak için <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span> 'e yeni yerler ekleyerek, <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> 'de özellikler hakkında geri bildirim vererek ve kod katkısında bulunarak bu uygulamanın var olmasına yardım ediyor. Bu proje Organic Maps ve Maps.Me'nin bir çatalıdır ve açık kaynak topluluğu tarafından yönetilmektedir."
         highlight:
           icon: static/images/icons/home/heart.svg

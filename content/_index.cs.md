@@ -36,6 +36,9 @@ extra:
           user: /images/sections/map-m-3.webp
         title: 'Šetří vaší baterii'
       - 
+        cta:
+          href: community/
+          text: inv_title
         description: 'Lidé jako vy pomáhají vytvářet tuto aplikaci přidáváním míst do projektu <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-open-street-map"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, posíláním zpětné vazby a přispíváním kódu na <span class="text-icon"><svg viewbox="0 0 4.233 4.233"> <use href="#icon-codeberg"></use></svg> [Codebergu](https://codeberg.org/comaps)</span> pro společné vytváření skvělých map. Projekt je odnoží (forkem) aplikací Organic Maps a Maps.Me a je řízen open-source komunitou.'
         highlight:
           icon: static/images/icons/home/heart.svg

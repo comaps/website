@@ -1,14 +1,14 @@
 ---
-title: Privacy
+title: Dateschutz
 weight: 900
 ---
 
-At CoMaps, we respect your privacy. CoMaps does not have any form of
-identification of people, advertising, or personal data collection.
+Bi CoMaps respektiered mir dini Privatsphäri. CoMaps het keinerlei Form vo
+persönlicher Identifizierig, Werbig oder Sammlig vo persönliche Date.
 
-CoMaps does not track you.
+CoMaps trackt dich nöd.
 
-If you have any questions or suggestions, please contact us at
+Falls du Frage oder Vorschläg hesch, kontaktier eus bitte under
 legal@comaps.app
 
-Policy effective: 2025-05-01
+Gültig sit: 01.05.2025

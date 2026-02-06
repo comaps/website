@@ -36,6 +36,9 @@ extra:
           user: /images/sections/map-m-3.webp
         title: 'Экономьте свою батарею'
       - 
+        cta:
+          href: community/
+          text: inv_title
         description: 'Люди, как вы, помогаете улучшить приложение, добавляя локации в <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-open-street-map"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, оставляя отзывы о функциях и внося улучшения кода на <span class="text-icon"><svg viewbox="0 0 4.233 4.233"> <use href="#icon-codeberg"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> – мы создаём прекрасные карты вместе. CoMaps — ответвление от Organic Maps (и Maps.Me), развиваемое сообществом свободного ПО.'
         highlight:
           icon: static/images/icons/home/heart.svg
@@ -46,5 +49,5 @@ extra:
         title: 'Бесплатно и создано сообществом'
 sort_by: weight
 template: home.html
-title: 'Hike, Bike, Drive Offline – Navigate with Privacy'
+title: 'Пешие походы, велопрогулки, вождение. Навигация автономно и с конфиденциальностью'
 ---
