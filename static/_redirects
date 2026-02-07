@@ -1,9 +1,0 @@
-/docs/screenshots/1.jpg /images/screenshots/hiking.jpg 301
-/en / 302
-/en/* /:splat 302
-/terms.html /terms/ 301
-/privacy.html /privacy/ 301
-/policy/ /privacy/ 301
-/:lang/policy/ /:lang/privacy/ 301
-/whatsnew https://codeberg.org/comaps/comaps/releases 301
-/latest https://codeberg.org/comaps/comaps/releases 301
