@@ -31,8 +31,14 @@
 
   {% block rss %}
   <link rel="alternate" type="application/rss+xml" title="CoMaps" href="{{ get_url(path="rss.xml", trailing_slash=false) }}">
+  <link rel="alternate" type="application/rss+xml" title="CoMaps - {{ trans(key='menu_media_coverage', lang=lang) }}" href="{{ get_url(path="media-coverage/rss.xml", trailing_slash=false) }}">
+
   {% if term %}
-  {% set rss_path = "category/" ~ term.slug~ "/rss.xml" %}
+    {%if taxonomy.name != "coverage_type" %}
+      {% set rss_path = "category/" ~ term.slug~ "/rss.xml" %}
+    {% elif taxonomy.name == "coverage_type" %}
+      {% set rss_path = "coverage-type/" ~ term.slug~ "/rss.xml" %}
+    {% endif %}
   <link rel="alternate" type="application/rss+xml" title="CoMaps - {{ term.name }}" href="{{ get_url(path=rss_path, trailing_slash=false) }}">
   {% endif %}
   {% endblock %}
