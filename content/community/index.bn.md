@@ -5,7 +5,7 @@ extra:
     description: "অ্যাপটি আপনার অনুদানের উপর চলে, এটি উন্নত করতে সাহায্য করুন"
     title: অনুদান
   features:
-    - description: "Report bugs, discuss ideas, and propose features"
+    - description: "বাগ রিপোর্ট করুন, ধারণাগুলি নিয়ে আলোচনা করুন এবং বৈশিষ্ট্যগুলি প্রস্তাব করুন"
       icon: chats.svg
       link: https://codeberg.org/comaps/comaps/issues
       title: "বাগ **রিপোর্ট করুন**"

@@ -17,8 +17,9 @@ msgstr ""
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
-#, no-wrap
-msgid "Discover more of your journey -<br/>Powered by the community"
+#, fuzzy, no-wrap
+#| msgid "Discover more of your journey -<br/>Powered by the community"
+msgid "Discover more of your journey - Powered by the community"
 msgstr "Turiningesnės kelionės –<br/>su bendruomenės vystoma programa"
 
 #. type: Yaml Front Matter Hash Value: extra freedom description
@@ -41,8 +42,9 @@ msgstr "Bendruomenės pildomi atvirieji žemėlapiai"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
-#, no-wrap
-msgid "Plan and navigate your trip abroad without the need for mobile data, and search waypoints while on a distant hike."
+#, fuzzy, no-wrap
+#| msgid "Plan and navigate your trip abroad without the need for mobile data, and search waypoints while on a distant hike."
+msgid "Plan and navigate your trip abroad with just GPS, no need for mobile data. Search waypoints while on distant hiking trails or bike paths."
 msgstr "Planuokite maršrutus ir keliaukite užsienyje be mobiliojo ryšio. Ieškokite kelionės taškų tolimuose žygiuose."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
@@ -60,8 +62,8 @@ msgstr "Vietų paieška ir maršruto planavimas neprisijungus"
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
 #, no-wrap
-msgid "The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information."
-msgstr "Programėlė sukurta, teikiant prioritetą privatumui: neidentifikuoja žmonių, neseka ir nerenka asmeninės informacijos."
+msgid "The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information. CoMaps was also audited by <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-exodus\"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/)."
+msgstr ""
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
@@ -93,10 +95,17 @@ msgstr "Efektyvus baterijos naudojimas"
 msgid "Save Your Battery"
 msgstr "Taupus baterijos naudojimas"
 
-#. type: Yaml Front Matter Hash Value: extra services items description
+#. type: Yaml Front Matter Hash Value: extra services items cta text
 #: content/_index.md
 #, no-wrap
-msgid "People like you helped build the app by adding locations to <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on Codeberg in the open-source community."
+msgid "inv_title"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: extra services items description
+#: content/_index.md
+#, fuzzy, no-wrap
+#| msgid "People like you helped build the app by adding locations to <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on Codeberg in the open-source community."
+msgid "People like you are helping build the app by adding locations to <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> to create great maps together. The project is a fork of Organic Maps and Maps.Me, and driven by an open-source community."
 msgstr "Paprasti žmonės – kaip jūs – padėjo sukurti šią programą, pildydami <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [„OpenStreetMap“](https://openstreetmap.org)</span> žemėlapį, išbandydami ir pateikdami atsiliepimus apie funkcijas bei prisidėdami savo programavimo įgūdžiais atviroje „Codeberg“ platformoje."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
@@ -113,8 +122,9 @@ msgstr "Atvira, nemokama ir kuriama bendruomenės"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/_index.md
-#, no-wrap
-msgid "Hike, Bike, Drive Offline Navigate with Privacy"
+#, fuzzy, no-wrap
+#| msgid "Hike, Bike, Drive Offline Navigate with Privacy"
+msgid "Hike, Bike, Drive Offline – Navigate with Privacy"
 msgstr "Žygiuokite, minkite dviratį, vairuokite automobilį su privačia navigacija"
 
 #. type: Yaml Front Matter Hash Value: title
@@ -143,8 +153,9 @@ msgstr "Paremti"
 
 #. type: Yaml Front Matter Hash Value: extra features description
 #: content/community/index.md
-#, no-wrap
-msgid "Report bugs, discuss idea, and propose features"
+#, fuzzy, no-wrap
+#| msgid "Report bugs, discuss idea, and propose features"
+msgid "Report bugs, discuss ideas, and propose features"
 msgstr "Praneškite apie klaidas, aptarkite savo idėjas, siūlykite naujas funkcijas"
 
 #. type: Yaml Front Matter Hash Value: extra features title
@@ -251,20 +262,9 @@ msgstr "Paremti per „Open Collective“"
 
 #. type: Yaml Front Matter Hash Value: extra funding items text
 #: content/donate/index.md
-#, no-wrap
-msgid "Currently there is no full time team who is working to develop new features and improve the service. To consistently move the product forward, a core team is needed."
-msgstr "Šiuo metu nėra komandos, kuri prie naujų funkcijų kūrimo ir paslaugų tobulinimo dirbtų visą darbo dieną. Kad produktas nuosekliai tobulėtų, pamatinė komanda būtina."
-
-#. type: Yaml Front Matter Hash Value: extra funding items title
-#: content/donate/index.md
-#, no-wrap
-msgid "Developers"
-msgstr "Programuotojai"
-
-#. type: Yaml Front Matter Hash Value: extra funding items text
-#: content/donate/index.md
-#, no-wrap
-msgid "We pay for fast servers, so anyone in the world can download free map data updates without delays. The maps data transfers are hundreds of terabytes monthly, and the amount is growing."
+#, fuzzy, no-wrap
+#| msgid "We pay for fast servers, so anyone in the world can download free map data updates without delays. The maps data transfers are hundreds of terabytes monthly, and the amount is growing."
+msgid "We have to keep up fast servers, to update the map files and for you to download them without delays. The maps data transfers make up large, and growing, amounts of data each month."
 msgstr "Mes kas mėnesį mokame už sparčius serverius tam, kad bet kas pasaulyje galėtų ilgai nelaukdami parsisiųsti programos atnaujinimus ir žemėlapius. Vien žemėlapių parsisiuntimai kiekvieną mėnesį sudaro šimtus terabaitų, ir šis dydis tik auga."
 
 #. type: Yaml Front Matter Hash Value: extra funding items title
@@ -279,11 +279,23 @@ msgstr "Infrastruktūra"
 msgid "User support, fixing bugs, and improving the stability of the app are our top priority. The list of requests and bug reports grows every day, and there are many support requests to respond to on the App Store, Google Play, and support emails."
 msgstr "Naudotojų palaikymas, klaidų taisymas ir programėlės stabilumo užtikrinimas yra mūsų pagrindiniai prioritetai. Įvairiais kanalais mūsų gaunamų pagalbos užklausų ir klaidų pranešimų skaičius auga sulig kiekviena diena."
 
-#. type: Yaml Front Matter Hash Value: title
-#: content/donate/index.md content/support/_index.md
+#. type: Yaml Front Matter Hash Value: extra funding items title
+#: content/donate/index.md
 #, no-wrap
 msgid "Support"
 msgstr "Pagalba"
+
+#. type: Yaml Front Matter Hash Value: extra funding items text
+#: content/donate/index.md
+#, no-wrap
+msgid "Currently, all development is done by volunteers with limited time. To implement larger, more ambitious features, paying developers might be necessary in the future."
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: extra funding items title
+#: content/donate/index.md
+#, no-wrap
+msgid "Developers"
+msgstr "Programuotojai"
 
 #. type: Yaml Front Matter Hash Value: extra funding title
 #: content/donate/index.md
@@ -293,14 +305,16 @@ msgstr "Kaip naudojamos paramos lėšos?"
 
 #. type: Yaml Front Matter Hash Value: extra info text
 #: content/donate/index.md
-#, no-wrap
-msgid "We rely on your donations to keep CoMaps open and free"
+#, fuzzy, no-wrap
+#| msgid "We rely on your donations to keep CoMaps open and free"
+msgid "We rely on your donations to keep CoMaps free to use"
 msgstr "„CoMaps“ išlieka laisva ir nemokama tik jūsų aukų dėka"
 
 #. type: Yaml Front Matter Hash Value: extra info text
 #: content/donate/index.md
-#, no-wrap
-msgid "We are a few enthusiasts contributing in our free time. We love what we do, and we love our users"
+#, fuzzy, no-wrap
+#| msgid "We are a few enthusiasts contributing in our free time. We love what we do, and we love our users"
+msgid "We are a community contributing in our free time. We love what we do, and we love our users"
 msgstr "Mes esame keletas entuziastų, ties programėle dirbančių savo laisvu laiku. Mes mėgaujamės šia veikla ir džiaugiamės, jog programėle naudojasi vis daugiau žmonių"
 
 #. type: Yaml Front Matter Hash Value: extra info text
@@ -314,6 +328,12 @@ msgstr "Jums remiant, mes ir toliau dirbame ties bene populiariausia privačia m
 #, no-wrap
 msgid "Need assistance? Search for answers to common questions. Get the support you need and connect with others in the community for help."
 msgstr "Reikia pagalbos? Čia rasite atsakymus į dažniausius klausimus, gausite patarimų ir galėsite jais dalintis su kitais bendruomenės nariais."
+
+#. type: Hash Value: menu_help
+#: content/support/_index.md translations.yaml
+#, no-wrap
+msgid "Help"
+msgstr "Pagalba"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/about-us/index.md
@@ -369,6 +389,18 @@ msgstr "Buvę „Organic Maps“ bendraautoriai įkuria **CoMaps** bendruomenę 
 msgid "History"
 msgstr "Projekto istorija"
 
+#. type: Yaml Front Matter Hash Value: extra media_highlights description
+#: content/about-us/index.md
+#, no-wrap
+msgid "See the full list of media coverage about CoMaps."
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: extra media_highlights title
+#: content/about-us/index.md
+#, no-wrap
+msgid "Media Highlights"
+msgstr ""
+
 #. type: Yaml Front Matter Hash Value: extra vm items text
 #: content/about-us/index.md
 #, no-wrap
@@ -405,47 +437,30 @@ msgstr "Apie mus"
 msgid "Unlock the potential of navigation! Discover offline maps, privacy-centric features, and a community-driven app"
 msgstr "Atrakinkite navigacijos potencialą! Atraskite žemėlapius, veikiančius be interneto, privatumą pabrėžiančias funkcijas ir bendruomenės vystomą programėlę"
 
-#. type: Yaml Front Matter Array Element: extra steps items
+#. type: Yaml Front Matter Hash Value: extra app_verifier description
 #: content/download/index.md
 #, no-wrap
-msgid "Offline Maps"
-msgstr "Žemėlapiai neprisijungus"
+msgid "To verify the app when downloading it as an APK or via Obtainium you can use this fingerprint:"
+msgstr ""
 
-#. type: Yaml Front Matter Array Element: extra steps items
+#. type: Yaml Front Matter Hash Value: extra app_verifier title
 #: content/download/index.md
 #, no-wrap
-msgid "Privacy-Centric"
-msgstr "Privatumas – dėmesio centre"
+msgid "Verifying the Android app"
+msgstr ""
 
-#. type: Yaml Front Matter Array Element: extra steps items
+#. type: Yaml Front Matter Hash Value: extra releases title
 #: content/download/index.md
-#, no-wrap
-msgid "No data collection"
-msgstr "Jokio duomenų rinkimo"
-
-#. type: Yaml Front Matter Array Element: extra steps items
-#: content/download/index.md
-#, no-wrap
-msgid "Community-Driven"
-msgstr "Bendruomenės vystomas projektas"
-
-#. type: Yaml Front Matter Hash Value: extra steps title
-#: content/download/index.md
-#, no-wrap
-msgid "Already downloaded?"
-msgstr "Jau parsisiuntėte?"
+#, fuzzy, no-wrap
+#| msgid "Releases"
+msgid "Latest Releases"
+msgstr "Leidimai"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/download/index.md
 #, no-wrap
 msgid "Download CoMaps"
 msgstr "„CoMaps“ parsisiuntimas"
-
-#. type: Plain text
-#: content/download/index.md
-#, markdown-text
-msgid "CoMaps is available on Google Play, F-Droid, and as an APK download now! We are still working on publishing on the iOS App Store as well, please stay tuned!"
-msgstr "„CoMaps“ galite parsisiųsti iš „Google Play“, „F-Droid“, arba kaip APK failą. Šiuo metu dirbame ties programėlės pateikimu į „iOS App Store“ – sekite naujienas!"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/api/index.md
@@ -455,9 +470,66 @@ msgstr "API sąsaja"
 
 #. type: Plain text
 #: content/api/index.md
-#, markdown-text
 msgid "The API is documented on [comaps.at/api](https://comaps.at/api)."
 msgstr "Programos API sąsaja yra dokumentuota adresu [comaps.at/api](https://comaps.at/api)."
+
+#. type: Hash Value: menu_privacy
+#: content/privacy/index.md translations.yaml
+#, fuzzy, no-wrap
+#| msgid "Privacy-Centric"
+msgid "Privacy"
+msgstr "Privatumas – dėmesio centre"
+
+#. type: Plain text
+#: content/privacy/index.md
+msgid "At CoMaps, we respect your privacy. CoMaps does not have any form of identification of people, advertising, or personal data collection."
+msgstr ""
+
+#. type: Plain text
+#: content/privacy/index.md
+msgid "CoMaps does not track you."
+msgstr ""
+
+#. type: Plain text
+#: content/privacy/index.md content/terms/index.md
+msgid "If you have any questions or suggestions, please contact us at legal@comaps.app"
+msgstr ""
+
+#. type: Plain text
+#: content/privacy/index.md
+msgid "Policy effective: 2025-05-01"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/terms/index.md
+#, no-wrap
+msgid "Terms"
+msgstr ""
+
+#. type: Plain text
+#: content/terms/index.md
+msgid "This app is licensed under the Apache License, Version 2.0 (the \"License\"); This application cannot be used except in compliance with the License."
+msgstr ""
+
+#. type: Plain text
+#: content/terms/index.md
+msgid "Read [the full license text](https://www.apache.org/licenses/LICENSE-2.0)."
+msgstr ""
+
+#. type: Plain text
+#: content/terms/index.md
+msgid "Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License."
+msgstr ""
+
+#. type: Plain text
+#: content/terms/index.md
+msgid "Many libraries and 3rd party tools included into [CoMaps repository](https://codeberg.org/comaps/comaps) were developed by multiple people and organizations, and licensed in different ways.  Please refer to their LICENSE, COPYING or NOTICE files for terms of use."
+msgstr ""
+
+#. type: Plain text
+#: content/terms/index.md
+msgid "See [data/copyright.html](https://codeberg.org/comaps/comaps/src/branch/main/data/copyright.html) file for a full list of copyright notices for the CoMaps application."
+msgstr ""
 
 #. type: Hash Value: all_title
 #: translations.yaml
@@ -531,17 +603,17 @@ msgstr "Lietuvių"
 msgid "API"
 msgstr "API sąsaja"
 
-#. type: Hash Value: menu_help
-#: translations.yaml
-#, no-wrap
-msgid "Help"
-msgstr "Pagalba"
-
 #. type: Hash Value: menu_home
 #: translations.yaml
 #, no-wrap
 msgid "Home"
 msgstr "Pradžia"
+
+#. type: Hash Value: menu_media_coverage
+#: translations.yaml
+#, no-wrap
+msgid "Media Coverage"
+msgstr ""
 
 #. type: Hash Value: menu_news
 #: translations.yaml
@@ -584,3 +656,30 @@ msgstr "Ieškoti"
 #, no-wrap
 msgid "Connect with Us"
 msgstr "Susisiekite su mumis"
+
+#, no-wrap
+#~ msgid "The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information."
+#~ msgstr "Programėlė sukurta, teikiant prioritetą privatumui: neidentifikuoja žmonių, neseka ir nerenka asmeninės informacijos."
+
+#, no-wrap
+#~ msgid "Currently there is no full time team who is working to develop new features and improve the service. To consistently move the product forward, a core team is needed."
+#~ msgstr "Šiuo metu nėra komandos, kuri prie naujų funkcijų kūrimo ir paslaugų tobulinimo dirbtų visą darbo dieną. Kad produktas nuosekliai tobulėtų, pamatinė komanda būtina."
+
+#, no-wrap
+#~ msgid "Offline Maps"
+#~ msgstr "Žemėlapiai neprisijungus"
+
+#, no-wrap
+#~ msgid "No data collection"
+#~ msgstr "Jokio duomenų rinkimo"
+
+#, no-wrap
+#~ msgid "Community-Driven"
+#~ msgstr "Bendruomenės vystomas projektas"
+
+#, no-wrap
+#~ msgid "Already downloaded?"
+#~ msgstr "Jau parsisiuntėte?"
+
+#~ msgid "CoMaps is available on Google Play, F-Droid, and as an APK download now! We are still working on publishing on the iOS App Store as well, please stay tuned!"
+#~ msgstr "„CoMaps“ galite parsisiųsti iš „Google Play“, „F-Droid“, arba kaip APK failą. Šiuo metu dirbame ties programėlės pateikimu į „iOS App Store“ – sekite naujienas!"

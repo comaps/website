@@ -1,9 +1,9 @@
 ---
-description: "Desbloqueie o potencial da navegação! Descubra mapas offline, funcionalidades centradas em privacidade e um aplicativo desenvolvido pela comunidade"
+description: "Atrakinkite navigacijos potencialą! Atraskite žemėlapius, veikiančius be interneto, privatumą pabrėžiančias funkcijas ir bendruomenės vystomą programėlę"
 extra:
   app_verifier:
-    description: "Para verificar o aplicativo ao baixá-lo como um APK ou através do Obtainium, você pode usar esta impressão digital:"
-    title: "Verificando o aplicativo de Android"
+    description: "To verify the app when downloading it as an APK or via Obtainium you can use this fingerprint:"
+    title: "Verifying the Android app"
   desktop_payment_methods_1: MacOS
   desktop_payment_methods_2: Linux
   desktop_payment_title: Desktop
@@ -18,8 +18,8 @@ extra:
   mobile_shop_name_4: AppGallery
   mobile_shop_name_5: Obtainium
   releases:
-    title: "Últimos lançamentos"
+    title: "Latest Releases"
 template: download.html
-title: "Baixar CoMaps"
+title: "„CoMaps“ parsisiuntimas"
 weight: 10
 ---

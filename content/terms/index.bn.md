@@ -1,27 +1,27 @@
 ---
-title: Terms
+title: শর্তাবলী
 weight: 1000
 ---
 
-This app is licensed under the Apache License, Version 2.0 (the "License");
-This application cannot be used except in compliance with the License.
+এই অ্যাপটি Apache লাইসেন্স, সংস্করণ ২.০ (যা "লাইসেন্স" নামে পরিচিত) এর অধীনে
+লাইসেন্সপ্রাপ্ত; লাইসেন্সের শর্তাবলী মেনে চললে ছাড়া এই অ্যাপ্লিকেশনটি
+ব্যবহার করা যাবে না।
 
-Read [the full license text](https://www.apache.org/licenses/LICENSE-2.0).
+[পূর্ণ লাইসেন্সের পাঠ্য](https://www.apache.org/licenses/LICENSE-2.0) পড়ুন।
 
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
-WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
-License for the specific language governing permissions and limitations
-under the License.
+প্রযোজ্য আইন দ্বারা বাধ্যতামূলক না হলে বা লিখিতভাবে সম্মত না হলে, লাইসেন্সের
+অধীনে বিতরণকৃত সফটওয়্যারটি কোনো ধরনের প্রকাশ্য বা অন্তর্নিহিত নিশ্চয়তা বা
+শর্ত ছাড়াই "যেমন আছে" ভিত্তিতে বিতরণ করা হয়। লাইসেন্সের অধীনে অনুমোদন ও
+সীমাবদ্ধতা সংক্রান্ত নির্দিষ্ট ভাষ্য জানতে লাইসেন্সটি দেখুন।
 
-Many libraries and 3rd party tools included into [CoMaps
-repository](https://codeberg.org/comaps/comaps) were developed by multiple
-people and organizations, and licensed in different ways. Please refer to
-their LICENSE, COPYING or NOTICE files for terms of use.
+[CoMaps রিপজিটোরি](https://codeberg.org/comaps/comaps)-তে অন্তর্ভুক্ত অনেক
+লাইব্রেরি এবং তৃতীয় পক্ষের টুল একাধিক ব্যক্তি ও সংস্থা দ্বারা তৈরি এবং
+বিভিন্নভাবে লাইসেন্সপ্রাপ্ত। ব্যবহারের শর্তাবলীর জন্য অনুগ্রহ করে তাদের
+LICENSE, COPYING বা NOTICE ফাইলগুলো দেখুন।
 
-See
+CoMaps অ্যাপ্লিকেশনের কপিরাইট নোটিশের সম্পূর্ণ তালিকা দেখতে
 [data/copyright.html](https://codeberg.org/comaps/comaps/src/branch/main/data/copyright.html)
-file for a full list of copyright notices for the CoMaps application.
+ফাইলটি দেখুন।
 
-If you have any questions or suggestions, please contact us at
-legal@comaps.app
+যদি আপনার কোনো প্রশ্ন বা পরামর্শ থাকে, অনুগ্রহ করে legal@comaps.app এ আমাদের
+সাথে যোগাযোগ করুন

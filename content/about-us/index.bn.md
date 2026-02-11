@@ -20,8 +20,8 @@ extra:
         year: 2025
     title: ইতিহাস
   media_highlights:
-    description: "See the full list of media coverage about CoMaps."
-    title: "Media Highlights"
+    description: "CoMaps সম্পর্কিত সংবাদমাধ্যমে কভারেজের সম্পূর্ণ তালিকা দেখুন।"
+    title: "সংবাদমাধ্যমে মূখ্য আকর্ষণ"
   vm:
     items:
       - icon: /images/icons/about/mission.svg

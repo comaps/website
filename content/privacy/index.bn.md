@@ -1,14 +1,14 @@
 ---
-title: Privacy
+title: গোপনীয়তা
 weight: 900
 ---
 
-At CoMaps, we respect your privacy. CoMaps does not have any form of
-identification of people, advertising, or personal data collection.
+CoMaps-এ, আমরা আপনার গোপনীয়তাকে সম্মান করি। CoMaps-এ কোনো ধরনের ব্যক্তি
+শনাক্তকরণ, বিজ্ঞাপন বা ব্যক্তিগত তথ্য সংগ্রহ হয় না।
 
-CoMaps does not track you.
+CoMaps আপনাকে ট্র্যাক করে না।
 
-If you have any questions or suggestions, please contact us at
-legal@comaps.app
+যদি আপনার কোনো প্রশ্ন বা পরামর্শ থাকে, অনুগ্রহ করে legal@comaps.app এ আমাদের
+সাথে যোগাযোগ করুন
 
-Policy effective: 2025-05-01
+নীতি কার্যকর: ২০২৫-০৫-০১
