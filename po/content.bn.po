@@ -6,6 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
+"PO-Revision-Date: 2026-02-08 07:29+0000\n"
 "Last-Translator: astro-ray <astro-ray@noreply.codeberg.org>\n"
 "Language-Team: Bengali <https://translate.codeberg.org/projects/comaps/website/bn/>\n"
 "Language: bn\n"
@@ -17,10 +18,9 @@ msgstr ""
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
-#, fuzzy, no-wrap
-#| msgid "Discover more of your journey -<br/>Powered by the community"
+#, no-wrap
 msgid "Discover more of your journey - Powered by the community"
-msgstr "আপনার যাত্রা সম্পর্কে আরও আবিষ্কার করুন -<br/>সম্প্রদায় দ্বারা চালিত"
+msgstr "আপনার যাত্রা সম্পর্কে আরও আবিষ্কার করুন - সম্প্রদায় দ্বারা চালিত"
 
 #. type: Yaml Front Matter Hash Value: extra freedom description
 #: content/_index.md
@@ -38,14 +38,13 @@ msgstr "স্বাধীনতা এখানে"
 #: content/_index.md
 #, no-wrap
 msgid "Community + Open Maps"
-msgstr "সম্প্রদায় + উন্মুক্ত ম্যাপ"
+msgstr "সম্প্রদায় + উন্মুক্ত মানচিত্র"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
-#, fuzzy, no-wrap
-#| msgid "Plan and navigate your trip abroad without the need for mobile data, and search waypoints while on a distant hike."
+#, no-wrap
 msgid "Plan and navigate your trip abroad with just GPS, no need for mobile data. Search waypoints while on distant hiking trails or bike paths."
-msgstr "আপনার বিদেশী ভ্রমণ পরিকল্পনা করুন এবং নেভিগেট করুন মোবাইল ডেটার প্রয়োজন ছাড়াই, এবং দূরবর্তী হাইকিং করার সময় ওয়ে পয়েন্টগুলি খুঁজুন।"
+msgstr "আপনার বিদেশ ভ্রমণ পরিকল্পনা করুন শুধুমাত্র GPS এর সাহায্যে, কোন ইন্টারনেট ডাটা ছাড়াই। দূরবর্তী হাইকিং ট্রেইল বা সাইকেল পথে থাকাকালীন ওয়াপয়েন্ট খুঁজুন।"
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
@@ -63,7 +62,7 @@ msgstr "অফলাইন অনুসন্ধান এবং রুট"
 #: content/_index.md
 #, no-wrap
 msgid "The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information. CoMaps was also audited by <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-exodus\"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/)."
-msgstr ""
+msgstr "এই অ্যাপটি গোপনীয়তাকে মাথায় রেখে ডিজাইন করা হয়েছে - এটি লোকজনদের শনাক্ত করে না, আপনাকে ট্র্যাক করে না, এবং কোনো তথ্য সংগ্রহ করে না। CoMaps-কে <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-exodus\"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/) দ্বারা নিরীক্ষা করা হয়েছিল।"
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
@@ -103,10 +102,9 @@ msgstr ""
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
-#, fuzzy, no-wrap
-#| msgid "People like you helped build the app by adding locations to <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on Codeberg in the open-source community."
+#, no-wrap
 msgid "People like you are helping build the app by adding locations to <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> to create great maps together. The project is a fork of Organic Maps and Maps.Me, and driven by an open-source community."
-msgstr "আপনার মতো মানুষরা অ্যাপটি তৈরিতে সাহায্য করেছেন স্থান যোগ করে <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span> এ, বৈশিষ্ট্যগুলোর উপর প্রতিক্রিয়া দিয়ে এবং ওপেন-সোর্স কমিউনিটিতে কোডবার্গে কোড অবদান রেখে।"
+msgstr "আপনার মতো মানুষরা অ্যাপটি তৈরিতে সাহায্য করেছেন <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span> এ স্থান যোগ করে, বৈশিষ্ট্যগুলোর উপর প্রতিক্রিয়া দিয়ে এবং <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> এ কোড অবদান করে একসাথে একটি অসাধারণ মানচিত্র তৈরী করে। এই প্রকল্পটি ওপেন-সোর্স সম্প্রদায়ের দ্বারা চালিত Organic Maps এবং Maps.Me এর ফোর্ক।"
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
@@ -122,10 +120,9 @@ msgstr "বিনামূল্যে এবং সম্প্রদায় 
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/_index.md
-#, fuzzy, no-wrap
-#| msgid "Hike, Bike, Drive Offline Navigate with Privacy"
+#, no-wrap
 msgid "Hike, Bike, Drive Offline – Navigate with Privacy"
-msgstr "হাইকিং, বাইকিং, ড্রাইভিং অফলাইনে গোপনীয়তার সাথে নেভিগেট করুন"
+msgstr "হাইকিং, বাইকিং, ড্রাইভিং অফলাইনে – গোপনীয়তার সাথে নেভিগেট করুন"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/news/_index.md
@@ -153,10 +150,9 @@ msgstr "অনুদান"
 
 #. type: Yaml Front Matter Hash Value: extra features description
 #: content/community/index.md
-#, fuzzy, no-wrap
-#| msgid "Report bugs, discuss idea, and propose features"
+#, no-wrap
 msgid "Report bugs, discuss ideas, and propose features"
-msgstr "বাগ রিপোর্ট করুন, ধারণা নিয়ে আলোচনা করুন এবং বৈশিষ্ট্যগুলি প্রস্তাব করুন"
+msgstr "বাগ রিপোর্ট করুন, ধারণাগুলি নিয়ে আলোচনা করুন এবং বৈশিষ্ট্যগুলি প্রস্তাব করুন"
 
 #. type: Yaml Front Matter Hash Value: extra features title
 #: content/community/index.md
@@ -262,10 +258,9 @@ msgstr "Open Collective দ্বারা দান করুন"
 
 #. type: Yaml Front Matter Hash Value: extra funding items text
 #: content/donate/index.md
-#, fuzzy, no-wrap
-#| msgid "We pay for fast servers, so anyone in the world can download free map data updates without delays. The maps data transfers are hundreds of terabytes monthly, and the amount is growing."
+#, no-wrap
 msgid "We have to keep up fast servers, to update the map files and for you to download them without delays. The maps data transfers make up large, and growing, amounts of data each month."
-msgstr "আমরা দ্রুত সার্ভারের জন্য অর্থ ব্যায় করি, যাতে বিশ্বের যে কেউ বিলম্ব ছাড়াই বিনামূল্যে মানচিত্র ডেটা আপডেট ডাউনলোড করতে পারে। প্রতি মাসে শতাধিক টেরাবাইট মানচিত্র ডেটা স্থানান্তর হয়, এবং এই পরিমাণ ক্রমশ বাড়ছে।"
+msgstr "আমাদের দ্রুত সার্ভারগুলো বজায় রাখতে হয়, যাতে আমরা ম্যাপ ফাইলগুলো আপডেট করতে পারি এবং আপনি সেগুলো কোনো বিলম্ব ছাড়াই ডাউনলোড করতে পারেন। ম্যাপের ডেটা স্থানান্তর প্রতি মাসে বিশাল এবং ক্রমবর্ধমান পরিমাণ ডেটা তৈরি করে।"
 
 #. type: Yaml Front Matter Hash Value: extra funding items title
 #: content/donate/index.md
@@ -289,7 +284,7 @@ msgstr "সমর্থন"
 #: content/donate/index.md
 #, no-wrap
 msgid "Currently, all development is done by volunteers with limited time. To implement larger, more ambitious features, paying developers might be necessary in the future."
-msgstr ""
+msgstr "বর্তমানে সমস্ত উন্নয়ন স্বেচ্ছাসেবকদের দ্বারা করা হচ্ছে যাদের সময় সীমিত। বৃহত্তর ও আরও উচ্চাকাঙ্ক্ষী বৈশিষ্ট্যগুলি বাস্তবায়ন করতে ভবিষ্যতে বেতনভুক্ত ডেভেলপার নিয়োগ করা প্রয়োজন হতে পারে।"
 
 #. type: Yaml Front Matter Hash Value: extra funding items title
 #: content/donate/index.md
@@ -305,17 +300,15 @@ msgstr "ফান্ড কীভাবে করা হবে?"
 
 #. type: Yaml Front Matter Hash Value: extra info text
 #: content/donate/index.md
-#, fuzzy, no-wrap
-#| msgid "We rely on your donations to keep CoMaps open and free"
+#, no-wrap
 msgid "We rely on your donations to keep CoMaps free to use"
-msgstr "আমরা CoMaps-কে উন্মুক্ত ও বিনামূল্যে রাখতে আপনার অনুদানের ওপর নির্ভর করি"
+msgstr "আমরা CoMaps-কে বিনামূল্যে রাখতে আপনার অনুদানের ওপর নির্ভর করি"
 
 #. type: Yaml Front Matter Hash Value: extra info text
 #: content/donate/index.md
-#, fuzzy, no-wrap
-#| msgid "We are a few enthusiasts contributing in our free time. We love what we do, and we love our users"
+#, no-wrap
 msgid "We are a community contributing in our free time. We love what we do, and we love our users"
-msgstr "আমরা কয়েকজন উৎসাহী ব্যক্তি যারা আমাদের অবসর সময়ে অবদান রাখি। আমরা যা করি তা ভালোবাসি, এবং আমাদের ব্যবহারকারীদের ভালোবাসি"
+msgstr "আমরা একটি সম্প্রদায় যারা আমাদের অবসর সময়ে অবদান রাখি। আমরা যা করি তা ভালোবাসি, এবং আমাদের ব্যবহারকারীদের ভালোবাসি"
 
 #. type: Yaml Front Matter Hash Value: extra info text
 #: content/donate/index.md
@@ -393,13 +386,13 @@ msgstr "ইতিহাস"
 #: content/about-us/index.md
 #, no-wrap
 msgid "See the full list of media coverage about CoMaps."
-msgstr ""
+msgstr "CoMaps সম্পর্কিত সংবাদমাধ্যমে কভারেজের সম্পূর্ণ তালিকা দেখুন।"
 
 #. type: Yaml Front Matter Hash Value: extra media_highlights title
 #: content/about-us/index.md
 #, no-wrap
 msgid "Media Highlights"
-msgstr ""
+msgstr "সংবাদমাধ্যমে মূখ্য আকর্ষণ"
 
 #. type: Yaml Front Matter Hash Value: extra vm items text
 #: content/about-us/index.md
@@ -441,20 +434,19 @@ msgstr "নেভিগেশনের সম্ভাবনা উনলক ক
 #: content/download/index.md
 #, no-wrap
 msgid "To verify the app when downloading it as an APK or via Obtainium you can use this fingerprint:"
-msgstr ""
+msgstr "APK আকারে অথবা Obtainium দ্বারা ডাউনলোড করলে এই ফিন্গারপ্রিন্টটি দিয়ে যাচাই করুন:"
 
 #. type: Yaml Front Matter Hash Value: extra app_verifier title
 #: content/download/index.md
 #, no-wrap
 msgid "Verifying the Android app"
-msgstr ""
+msgstr "অ্যান্ড্রয়েড অ্যাপটি যাচাই করণ"
 
 #. type: Yaml Front Matter Hash Value: extra releases title
 #: content/download/index.md
-#, fuzzy, no-wrap
-#| msgid "Releases"
+#, no-wrap
 msgid "Latest Releases"
-msgstr "রিলিজগুলি"
+msgstr "সর্বাধুনিক রিলিজগুলি"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/download/index.md
@@ -475,61 +467,60 @@ msgstr "API-টি [comaps.at/api](https://comaps.at/api)-এ ডকুমেন
 
 #. type: Hash Value: menu_privacy
 #: content/privacy/index.md translations.yaml
-#, fuzzy, no-wrap
-#| msgid "Privacy-Centric"
+#, no-wrap
 msgid "Privacy"
-msgstr "গোপনীয়তা বান্ধব"
+msgstr "গোপনীয়তা"
 
 #. type: Plain text
 #: content/privacy/index.md
 msgid "At CoMaps, we respect your privacy. CoMaps does not have any form of identification of people, advertising, or personal data collection."
-msgstr ""
+msgstr "CoMaps-এ, আমরা আপনার গোপনীয়তাকে সম্মান করি। CoMaps-এ কোনো ধরনের ব্যক্তি শনাক্তকরণ, বিজ্ঞাপন বা ব্যক্তিগত তথ্য সংগ্রহ হয় না।"
 
 #. type: Plain text
 #: content/privacy/index.md
 msgid "CoMaps does not track you."
-msgstr ""
+msgstr "CoMaps আপনাকে ট্র্যাক করে না।"
 
 #. type: Plain text
 #: content/privacy/index.md content/terms/index.md
 msgid "If you have any questions or suggestions, please contact us at legal@comaps.app"
-msgstr ""
+msgstr "যদি আপনার কোনো প্রশ্ন বা পরামর্শ থাকে, অনুগ্রহ করে legal@comaps.app এ আমাদের সাথে যোগাযোগ করুন"
 
 #. type: Plain text
 #: content/privacy/index.md
 msgid "Policy effective: 2025-05-01"
-msgstr ""
+msgstr "নীতি কার্যকর: ২০২৫-০৫-০১"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/terms/index.md
 #, no-wrap
 msgid "Terms"
-msgstr ""
+msgstr "শর্তাবলী"
 
 #. type: Plain text
 #: content/terms/index.md
 msgid "This app is licensed under the Apache License, Version 2.0 (the \"License\"); This application cannot be used except in compliance with the License."
-msgstr ""
+msgstr "এই অ্যাপটি Apache লাইসেন্স, সংস্করণ ২.০ (যা \"লাইসেন্স\" নামে পরিচিত) এর অধীনে লাইসেন্সপ্রাপ্ত; লাইসেন্সের শর্তাবলী মেনে চললে ছাড়া এই অ্যাপ্লিকেশনটি ব্যবহার করা যাবে না।"
 
 #. type: Plain text
 #: content/terms/index.md
 msgid "Read [the full license text](https://www.apache.org/licenses/LICENSE-2.0)."
-msgstr ""
+msgstr "[পূর্ণ লাইসেন্সের পাঠ্য](https://www.apache.org/licenses/LICENSE-2.0) পড়ুন।"
 
 #. type: Plain text
 #: content/terms/index.md
 msgid "Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License."
-msgstr ""
+msgstr "প্রযোজ্য আইন দ্বারা বাধ্যতামূলক না হলে বা লিখিতভাবে সম্মত না হলে, লাইসেন্সের অধীনে বিতরণকৃত সফটওয়্যারটি কোনো ধরনের প্রকাশ্য বা অন্তর্নিহিত নিশ্চয়তা বা শর্ত ছাড়াই \"যেমন আছে\" ভিত্তিতে বিতরণ করা হয়। লাইসেন্সের অধীনে অনুমোদন ও সীমাবদ্ধতা সংক্রান্ত নির্দিষ্ট ভাষ্য জানতে লাইসেন্সটি দেখুন।"
 
 #. type: Plain text
 #: content/terms/index.md
 msgid "Many libraries and 3rd party tools included into [CoMaps repository](https://codeberg.org/comaps/comaps) were developed by multiple people and organizations, and licensed in different ways.  Please refer to their LICENSE, COPYING or NOTICE files for terms of use."
-msgstr ""
+msgstr "[CoMaps রিপজিটোরি](https://codeberg.org/comaps/comaps)-তে অন্তর্ভুক্ত অনেক লাইব্রেরি এবং তৃতীয় পক্ষের টুল একাধিক ব্যক্তি ও সংস্থা দ্বারা তৈরি এবং বিভিন্নভাবে লাইসেন্সপ্রাপ্ত।  ব্যবহারের শর্তাবলীর জন্য অনুগ্রহ করে তাদের LICENSE, COPYING বা NOTICE ফাইলগুলো দেখুন।"
 
 #. type: Plain text
 #: content/terms/index.md
 msgid "See [data/copyright.html](https://codeberg.org/comaps/comaps/src/branch/main/data/copyright.html) file for a full list of copyright notices for the CoMaps application."
-msgstr ""
+msgstr "CoMaps অ্যাপ্লিকেশনের কপিরাইট নোটিশের সম্পূর্ণ তালিকা দেখতে [data/copyright.html](https://codeberg.org/comaps/comaps/src/branch/main/data/copyright.html) ফাইলটি দেখুন।"
 
 #. type: Hash Value: all_title
 #: translations.yaml
@@ -553,7 +544,7 @@ msgstr "ভাষা"
 #: translations.yaml
 #, no-wrap
 msgid "CoMaps - F.A.Q."
-msgstr ""
+msgstr "CoMaps - F.A.Q।"
 
 #. type: Hash Value: how_can_help
 #: translations.yaml
@@ -601,7 +592,7 @@ msgstr "বাংলা"
 #: translations.yaml
 #, no-wrap
 msgid "API"
-msgstr ""
+msgstr "API"
 
 #. type: Hash Value: menu_home
 #: translations.yaml
@@ -613,7 +604,7 @@ msgstr "হোম"
 #: translations.yaml
 #, no-wrap
 msgid "Media Coverage"
-msgstr ""
+msgstr "সংবাদমাধ্যমে কভারেজ"
 
 #. type: Hash Value: menu_news
 #: translations.yaml

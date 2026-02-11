@@ -6,7 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"Last-Translator: fbausch <fbausch@noreply.codeberg.org>\n"
+"PO-Revision-Date: 2026-02-08 00:29+0000\n"
+"Last-Translator: matheusgomesms <matheusgomesms@noreply.codeberg.org>\n"
 "Language-Team: Portuguese (Brazil) <https://translate.codeberg.org/projects/comaps/website/pt_BR/>\n"
 "Language: pt-BR\n"
 "MIME-Version: 1.0\n"
@@ -439,7 +440,7 @@ msgstr "Para verificar o aplicativo ao baixá-lo como um APK ou através do Obta
 #: content/download/index.md
 #, no-wrap
 msgid "Verifying the Android app"
-msgstr ""
+msgstr "Verificando o aplicativo de Android"
 
 #. type: Yaml Front Matter Hash Value: extra releases title
 #: content/download/index.md
@@ -473,7 +474,7 @@ msgstr "Privacidade"
 #. type: Plain text
 #: content/privacy/index.md
 msgid "At CoMaps, we respect your privacy. CoMaps does not have any form of identification of people, advertising, or personal data collection."
-msgstr ""
+msgstr "Na CoMaps, respeitamos a sua privacidade. O CoMaps não utiliza qualquer forma de identificação pessoal, publicidade ou coleta de dados pessoais."
 
 #. type: Plain text
 #: content/privacy/index.md
@@ -488,7 +489,7 @@ msgstr "Se você tiver alguma dúvida ou sugestão, entre em contato conosco pel
 #. type: Plain text
 #: content/privacy/index.md
 msgid "Policy effective: 2025-05-01"
-msgstr ""
+msgstr "Política em vigor a partir de: 01/05/2025"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/terms/index.md
@@ -499,27 +500,27 @@ msgstr "Termos de uso"
 #. type: Plain text
 #: content/terms/index.md
 msgid "This app is licensed under the Apache License, Version 2.0 (the \"License\"); This application cannot be used except in compliance with the License."
-msgstr ""
+msgstr "Este aplicativo está licenciado sob a Licença Apache, Versão 2.0 (a \"Licença\"); este aplicativo não pode ser usado, exceto em conformidade com a Licença."
 
 #. type: Plain text
 #: content/terms/index.md
 msgid "Read [the full license text](https://www.apache.org/licenses/LICENSE-2.0)."
-msgstr ""
+msgstr "Leia [o texto completo da licença](https://www.apache.org/licenses/LICENSE-2.0)."
 
 #. type: Plain text
 #: content/terms/index.md
 msgid "Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License."
-msgstr ""
+msgstr "A menos que exigido pela legislação aplicável ou acordado por escrito, o software distribuído sob a Licença é distribuído \"COMO ESTÁ\", SEM GARANTIAS OU CONDIÇÕES DE QUALQUER TIPO, expressas ou implícitas. Consulte a Licença para obter informações sobre os direitos e limitações específicos que regem o uso do software."
 
 #. type: Plain text
 #: content/terms/index.md
 msgid "Many libraries and 3rd party tools included into [CoMaps repository](https://codeberg.org/comaps/comaps) were developed by multiple people and organizations, and licensed in different ways.  Please refer to their LICENSE, COPYING or NOTICE files for terms of use."
-msgstr ""
+msgstr "Muitas bibliotecas e ferramentas de terceiros incluídas no [repositório do CoMaps](https://codeberg.org/comaps/comaps) foram desenvolvidas por diversas pessoas e organizações e licenciadas de maneiras diferentes. Consulte os arquivos LICENSE, COPYING ou NOTICE para obter os termos de uso."
 
 #. type: Plain text
 #: content/terms/index.md
 msgid "See [data/copyright.html](https://codeberg.org/comaps/comaps/src/branch/main/data/copyright.html) file for a full list of copyright notices for the CoMaps application."
-msgstr ""
+msgstr "Consulte o arquivo [data/copyright.html](https://codeberg.org/comaps/comaps/src/branch/main/data/copyright.html) para obter uma lista completa dos avisos de direitos autorais do aplicativo CoMaps."
 
 #. type: Hash Value: all_title
 #: translations.yaml
@@ -603,7 +604,7 @@ msgstr "Início"
 #: translations.yaml
 #, no-wrap
 msgid "Media Coverage"
-msgstr ""
+msgstr "Cobertura da Mídia"
 
 #. type: Hash Value: menu_news
 #: translations.yaml

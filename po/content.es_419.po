@@ -6,13 +6,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2026-02-08 15:48+0000\n"
+"Last-Translator: gedankenstuecke <gedankenstuecke@noreply.codeberg.org>\n"
+"Language-Team: Spanish (Latin America) <https://translate.codeberg.org/projects/comaps/website/es_419/>\n"
 "Language: es_419\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.15.2\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -36,7 +38,7 @@ msgstr ""
 #: content/_index.md
 #, no-wrap
 msgid "Community + Open Maps"
-msgstr ""
+msgstr "Comunidad y Mapas Abiertos"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
@@ -72,7 +74,7 @@ msgstr ""
 #: content/_index.md
 #, no-wrap
 msgid "No Data Collection"
-msgstr ""
+msgstr "No colección de datos"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md

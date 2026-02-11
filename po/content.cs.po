@@ -6,6 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
+"PO-Revision-Date: 2026-02-07 13:29+0000\n"
 "Last-Translator: Fjuro <fjuro@alius.cz>\n"
 "Language-Team: Czech <https://translate.codeberg.org/projects/comaps/website/cs/>\n"
 "Language: cs\n"
@@ -97,7 +98,7 @@ msgstr "Šetří vaší baterii"
 #: content/_index.md
 #, no-wrap
 msgid "inv_title"
-msgstr ""
+msgstr "inv_title"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
