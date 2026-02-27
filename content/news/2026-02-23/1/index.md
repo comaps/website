@@ -14,7 +14,7 @@ taxonomies:
 - Added tree rows - by @yannikbloscheck
 - Android: Display an indicator and a notice about rerouting and similar messages in navigation panel - by @gpesquero
 - Android: Display opening hours in shifts instead of non-business hours - by @Roniscend via OM and @ggs
-- Android: Added "Show speed limits" navigation setting - by @jeanbaptisteC
+- Android: Improved download notifications - by @ggs
 - iOS: Show multi-line titles in favorites lists screen - by @dvdmrtnz via OM
 
 ...and many other improvements, see [the full list](https://codeberg.org/comaps/comaps/releases/tag/v2026.02.23-9)
