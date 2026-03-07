@@ -1,0 +1,4 @@
+<div class="blockquote-container">
+<blockquote{% if url %} cite="{{ url | safe }}"{% endif %}>{{ text }}</blockquote>
+<p>&mdash; {{ author }}{% if work %}, {% if url %}<a href="{{ url | safe}}">{% endif %}<cite>{{ work }}</cite>{% if url %}</a>{% endif %}{% endif %}</p>
+</div>
