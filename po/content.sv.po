@@ -6,26 +6,27 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"Last-Translator: rchk <rchk@noreply.codeberg.org>\n"
+"PO-Revision-Date: 2026-02-23 00:29+0000\n"
+"Last-Translator: freddux <freddux@noreply.codeberg.org>\n"
 "Language-Team: Swedish <https://translate.codeberg.org/projects/comaps/website/sv/>\n"
 "Language: sv\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.14\n"
+"X-Generator: Weblate 5.15.2\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
 #, no-wrap
 msgid "Discover more of your journey -<br/>Powered by the community"
-msgstr ""
+msgstr "Upptäck mer av din resa -<br/>Gemenskapsdrivet"
 
 #. type: Yaml Front Matter Hash Value: extra freedom description
 #: content/_index.md
 #, no-wrap
 msgid "Discover your journey, navigate the world with privacy and community at the forefront."
-msgstr ""
+msgstr "Upptäck din resa - navigera världen med integritet och gemenskap i fokus."
 
 #. type: Yaml Front Matter Hash Value: extra freedom title
 #: content/_index.md
@@ -37,7 +38,7 @@ msgstr "Friheten Är Här"
 #: content/_index.md
 #, no-wrap
 msgid "Community + Open Maps"
-msgstr ""
+msgstr "Gemenskap och fria kartor"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
@@ -49,31 +50,31 @@ msgstr ""
 #: content/_index.md
 #, no-wrap
 msgid "No internet needed"
-msgstr ""
+msgstr "Ingen uppkoppling behövs"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
 #, no-wrap
 msgid "Offline Search and Route"
-msgstr ""
+msgstr "Sök och planera utan uppkoppling"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
 #, no-wrap
 msgid "The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information."
-msgstr ""
+msgstr "Utformad med integritet i fokus - ingen identifiering, ingen spårning, ingen datainsamling."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
 #, no-wrap
 msgid "Privacy by default"
-msgstr ""
+msgstr "Integritet som standard"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
 #, no-wrap
 msgid "No Data Collection"
-msgstr ""
+msgstr "Ingen datainsamling"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
@@ -85,7 +86,7 @@ msgstr ""
 #: content/_index.md
 #, no-wrap
 msgid "Efficient battery use"
-msgstr ""
+msgstr "Skonsam mot batteriet"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
@@ -103,7 +104,7 @@ msgstr ""
 #: content/_index.md
 #, no-wrap
 msgid "Free for everyone, Made with love"
-msgstr ""
+msgstr "Fritt för alla, skapat med kärlek"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md

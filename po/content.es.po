@@ -6,7 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"Last-Translator: gedankenstuecke <gedankenstuecke@noreply.codeberg.org>\n"
+"PO-Revision-Date: 2026-02-16 22:29+0000\n"
+"Last-Translator: CertainBot <certainbot@noreply.codeberg.org>\n"
 "Language-Team: Spanish <https://translate.codeberg.org/projects/comaps/website/es/>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
@@ -603,7 +604,7 @@ msgstr "Inicio"
 #: translations.yaml
 #, no-wrap
 msgid "Media Coverage"
-msgstr ""
+msgstr "Cobertura Mediática"
 
 #. type: Hash Value: menu_news
 #: translations.yaml

@@ -6,6 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
+"PO-Revision-Date: 2026-02-25 13:29+0000\n"
 "Last-Translator: metehan <metehan@noreply.codeberg.org>\n"
 "Language-Team: Turkish <https://translate.codeberg.org/projects/comaps/website/tr/>\n"
 "Language: tr\n"
@@ -13,7 +14,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.15.1\n"
+"X-Generator: Weblate 5.15.2\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -286,7 +287,7 @@ msgstr "Destek"
 #: content/donate/index.md
 #, no-wrap
 msgid "Currently, all development is done by volunteers with limited time. To implement larger, more ambitious features, paying developers might be necessary in the future."
-msgstr ""
+msgstr "Şu anda tüm geliştirme süreci, sınırlı zamanı olan gönüllüler tarafından yapılıyor. Daha büyük ve öne çıkan özelliklerin eklenmesi için gelecekte ücretli geliştiricilere ihtiyaç duyulabilir."
 
 #. type: Yaml Front Matter Hash Value: extra funding items title
 #: content/donate/index.md
@@ -390,13 +391,13 @@ msgstr "Geçmiş"
 #: content/about-us/index.md
 #, no-wrap
 msgid "See the full list of media coverage about CoMaps."
-msgstr ""
+msgstr "CoMaps hakkındaki paylaşımların tamamına bakın."
 
 #. type: Yaml Front Matter Hash Value: extra media_highlights title
 #: content/about-us/index.md
 #, no-wrap
 msgid "Media Highlights"
-msgstr ""
+msgstr "Medyada Öne Çıkanlar"
 
 #. type: Yaml Front Matter Hash Value: extra vm items text
 #: content/about-us/index.md
@@ -438,13 +439,13 @@ msgstr "Navigasyonun potansiyelini açığa çıkarın! Çevrimdışı haritalar
 #: content/download/index.md
 #, no-wrap
 msgid "To verify the app when downloading it as an APK or via Obtainium you can use this fingerprint:"
-msgstr ""
+msgstr "Uygulamayı APK veya Obtainium ile kurarken doğrulamak için şu parmak izini kullanabilirsiniz:"
 
 #. type: Yaml Front Matter Hash Value: extra app_verifier title
 #: content/download/index.md
 #, no-wrap
 msgid "Verifying the Android app"
-msgstr ""
+msgstr "Android uygulamasını doğrulama"
 
 #. type: Yaml Front Matter Hash Value: extra releases title
 #: content/download/index.md
@@ -480,38 +481,38 @@ msgstr "Gizlilik-Odaklı"
 #. type: Plain text
 #: content/privacy/index.md
 msgid "At CoMaps, we respect your privacy. CoMaps does not have any form of identification of people, advertising, or personal data collection."
-msgstr ""
+msgstr "CoMaps olarak gizliliğinize saygı duyuyoruz. CoMaps'te hiçbir şekilde profilleme, reklam veya kişisel veri toplama yoktur."
 
 #. type: Plain text
 #: content/privacy/index.md
 msgid "CoMaps does not track you."
-msgstr ""
+msgstr "CoMaps sizi takip etmez."
 
 #. type: Plain text
 #: content/privacy/index.md content/terms/index.md
 msgid "If you have any questions or suggestions, please contact us at legal@comaps.app"
-msgstr ""
+msgstr "Eğer bir soru veya öneriniz varsa lütfen legal@comaps.app adresinden iletişime geçin"
 
 #. type: Plain text
 #: content/privacy/index.md
 msgid "Policy effective: 2025-05-01"
-msgstr ""
+msgstr "Politika başlangıcı: 2025-05-01"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/terms/index.md
 #, no-wrap
 msgid "Terms"
-msgstr ""
+msgstr "Koşullar"
 
 #. type: Plain text
 #: content/terms/index.md
 msgid "This app is licensed under the Apache License, Version 2.0 (the \"License\"); This application cannot be used except in compliance with the License."
-msgstr ""
+msgstr "Bu uygulama Apache License, Sürüm 2.0 (\"Lisans\") kapsamında lisanslanmıştır. Bu uygulama, Lisans'a uygun olmayan koşullarda kullanılamaz."
 
 #. type: Plain text
 #: content/terms/index.md
 msgid "Read [the full license text](https://www.apache.org/licenses/LICENSE-2.0)."
-msgstr ""
+msgstr "[Lisans metninin tamamını](https://www.apache.org/licenses/LICENSE-2.0) okuyun."
 
 #. type: Plain text
 #: content/terms/index.md

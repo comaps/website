@@ -6,6 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
+"PO-Revision-Date: 2026-02-16 14:29+0000\n"
 "Last-Translator: cirilla <cirilla@noreply.codeberg.org>\n"
 "Language-Team: Cornish <https://translate.codeberg.org/projects/comaps/website/kw/>\n"
 "Language: kw\n"
@@ -325,7 +326,7 @@ msgstr "Navigacyon rydh hay ygor gans privetter -<br/>Byldya gans an kemeneth"
 #: content/about-us/index.md
 #, no-wrap
 msgid "CoMaps is a community-focused privacy navigation app for travelers - drivers, hikers, and cyclists. It uses the crowd-sourced OpenStreetMap data with contributors from all over the globe. It offers navigation with privacy - no identifying people and no data collection. CoMaps features can operate without an active internet connection for offline navigation at urban or distant locations, where cellular service is not available. CoMaps is an open-source project, and prioritizes community development."
-msgstr "CoMaps yw unn app navigacyon fogellys war kemeneth rag tremenysi - lewyoryon, kerdhoryon, ha diwrosyoryon. Y'n devnydhya an data routh-gwrys OpenStreetMap gans kevriysi a dres oll an bys. Y'n offra navigacyon gans privetter - owth aswon tus vyth ha kuntel data vyth. Nasyow CoMaps gallos oberi heb unn junyans kesrosweyth byw rag navigation dhywarlinen yn tylleryow trevel po pell, le may gonis kellgowser yw ankavadow. CoMaps yw ynn ragdres rydh, ha ragwirhe displegyans kemeneth."
+msgstr "CoMaps yw unn app navigacyon fogellys war kemeneth rag tremenysi - lewyoryon, kerdhoryon, ha diwrosyoryon. Y'n devnydhya an data routh-gwrys OpenStreetMap gans kevriysi a dres oll an bys. Y'n offra navigacyon gans privetter - owth aswon tus vyth ha kuntel data vyth. Nasyow CoMaps gallos oberi heb unn junyans kesrosweyth byw rag navigation dhywarlinen yn tylleryow trevel po pell, le may gonis klapkodh yw ankavadow. CoMaps yw ynn ragdres rydh, ha ragwirhe displegyans kemeneth."
 
 #. type: Yaml Front Matter Hash Value: extra about title
 #: content/about-us/index.md

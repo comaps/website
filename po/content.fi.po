@@ -6,6 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
+"PO-Revision-Date: 2026-02-28 14:42+0000\n"
 "Last-Translator: phama <phama@noreply.codeberg.org>\n"
 "Language-Team: Finnish <https://translate.codeberg.org/projects/comaps/website/fi/>\n"
 "Language: fi\n"
@@ -502,12 +503,12 @@ msgstr ""
 #. type: Plain text
 #: content/terms/index.md
 msgid "This app is licensed under the Apache License, Version 2.0 (the \"License\"); This application cannot be used except in compliance with the License."
-msgstr ""
+msgstr "Tämä sovellus on lisensoitu Apache-lisenssillä, versio 2.0 ( \"Lisenssi\"); Sovellusta ei saa käyttää muutoin kuin lisenssin ehtojen mukaisesti."
 
 #. type: Plain text
 #: content/terms/index.md
 msgid "Read [the full license text](https://www.apache.org/licenses/LICENSE-2.0)."
-msgstr ""
+msgstr "Lue [koko lisenssi](https://www.apache.org/licenses/LICENSE-2.0)."
 
 #. type: Plain text
 #: content/terms/index.md
@@ -522,7 +523,7 @@ msgstr ""
 #. type: Plain text
 #: content/terms/index.md
 msgid "See [data/copyright.html](https://codeberg.org/comaps/comaps/src/branch/main/data/copyright.html) file for a full list of copyright notices for the CoMaps application."
-msgstr ""
+msgstr "Katso [data/copyright.html](https://codeberg.org/comaps/comaps/src/branch/main/data/copyright.html) tiedosto saadaksesi täyden listan CoMaps-sovelluksen tekijänoikeusilmoituksista."
 
 #. type: Hash Value: all_title
 #: translations.yaml
@@ -606,7 +607,7 @@ msgstr "Etusivu"
 #: translations.yaml
 #, no-wrap
 msgid "Media Coverage"
-msgstr ""
+msgstr "Medianäkyvyys"
 
 #. type: Hash Value: menu_news
 #: translations.yaml

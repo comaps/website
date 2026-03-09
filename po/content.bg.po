@@ -6,7 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"Last-Translator: clippy25 <clippy25@noreply.codeberg.org>\n"
+"PO-Revision-Date: 2026-03-03 19:29+0000\n"
+"Last-Translator: x7z4w <x7z4w@noreply.codeberg.org>\n"
 "Language-Team: Bulgarian <https://translate.codeberg.org/projects/comaps/website/bg/>\n"
 "Language: bg\n"
 "MIME-Version: 1.0\n"
@@ -103,7 +104,7 @@ msgstr ""
 #: content/_index.md
 #, no-wrap
 msgid "Free for everyone, Made with love"
-msgstr "Безплатно за всички, Направени с любов"
+msgstr "Свободен за всички, Направени с любов"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md

@@ -6,13 +6,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2026-03-08 01:29+0000\n"
+"Last-Translator: khangreat <khangreat@noreply.codeberg.org>\n"
+"Language-Team: Brahui <https://translate.codeberg.org/projects/comaps/website/brh/>\n"
 "Language: brh\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.15.2\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -30,13 +32,13 @@ msgstr ""
 #: content/_index.md
 #, no-wrap
 msgid "Freedom Is Here"
-msgstr ""
+msgstr "آجوی ہنداڈے"
 
 #. type: Yaml Front Matter Hash Value: extra map description
 #: content/_index.md
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "Community + Open Maps"
-msgstr ""
+msgstr "Community + Open Maps"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
@@ -48,7 +50,7 @@ msgstr ""
 #: content/_index.md
 #, no-wrap
 msgid "No internet needed"
-msgstr ""
+msgstr "انٹرنیٹ خواپک"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
@@ -90,7 +92,7 @@ msgstr ""
 #: content/_index.md
 #, no-wrap
 msgid "Save Your Battery"
-msgstr ""
+msgstr "تینا بیٹری اے گچین کر"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
@@ -588,7 +590,7 @@ msgstr ""
 #: translations.yaml
 #, no-wrap
 msgid "English"
-msgstr ""
+msgstr "براہوئی"
 
 #. type: Hash Value: menu_api
 #: translations.yaml
