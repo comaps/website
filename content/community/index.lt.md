@@ -5,7 +5,7 @@ extra:
     description: "Programėlė vystoma aukų dėka – prisidėkite prie jos tobulinimo!"
     title: Paremti
   features:
-    - description: "Report bugs, discuss ideas, and propose features"
+    - description: "Praneškite apie klaidas, aptarkite savo idėjas, siūlykite naujas funkcijas"
       icon: chats.svg
       link: https://codeberg.org/comaps/comaps/issues
       title: "**Praneškite** apie klaidas"

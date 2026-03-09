@@ -20,8 +20,8 @@ extra:
         year: 2025
     title: Geçmiş
   media_highlights:
-    description: "See the full list of media coverage about CoMaps."
-    title: "Media Highlights"
+    description: "CoMaps hakkındaki paylaşımların tamamına bakın."
+    title: "Medyada Öne Çıkanlar"
   vm:
     items:
       - icon: /images/icons/about/mission.svg

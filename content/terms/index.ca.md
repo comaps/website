@@ -1,12 +1,12 @@
 ---
-title: Terms
+title: Termes
 weight: 1000
 ---
 
 This app is licensed under the Apache License, Version 2.0 (the "License");
 This application cannot be used except in compliance with the License.
 
-Read [the full license text](https://www.apache.org/licenses/LICENSE-2.0).
+Llegiu [la llicència sencera](https://www.apache.org/licenses/LICENSE-2.0).
 
 Unless required by applicable law or agreed to in writing, software
 distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
@@ -23,5 +23,5 @@ See
 [data/copyright.html](https://codeberg.org/comaps/comaps/src/branch/main/data/copyright.html)
 file for a full list of copyright notices for the CoMaps application.
 
-If you have any questions or suggestions, please contact us at
+Si teniu alguna pregunta o suggerència, per favor contacteu-nos a l'adreça
 legal@comaps.app

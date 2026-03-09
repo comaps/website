@@ -2,8 +2,8 @@
 description: "Navigasyonun potansiyelini açığa çıkarın! Çevrimdışı haritaları, gizlilik odaklı özellikleri ve topluluk odaklı bir uygulamayı keşfedin"
 extra:
   app_verifier:
-    description: "To verify the app when downloading it as an APK or via Obtainium you can use this fingerprint:"
-    title: "Verifying the Android app"
+    description: "Uygulamayı APK veya Obtainium ile kurarken doğrulamak için şu parmak izini kullanabilirsiniz:"
+    title: "Android uygulamasını doğrulama"
   desktop_payment_methods_1: MacOS
   desktop_payment_methods_2: Linux
   desktop_payment_title: Desktop

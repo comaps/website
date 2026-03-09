@@ -2,8 +2,8 @@
 description: "Atrakinkite navigacijos potencialą! Atraskite žemėlapius, veikiančius be interneto, privatumą pabrėžiančias funkcijas ir bendruomenės vystomą programėlę"
 extra:
   app_verifier:
-    description: "To verify the app when downloading it as an APK or via Obtainium you can use this fingerprint:"
-    title: "Verifying the Android app"
+    description: "Programėlės autentiškumo patikrinimui, jei ją parsisiųsite kaip APK failą arba iš „Obtainium“, galite pasinaudoti šiuo kontroliniu kodu:"
+    title: "„Android“ programėlės autentiškumo patikrinimas"
   desktop_payment_methods_1: MacOS
   desktop_payment_methods_2: Linux
   desktop_payment_title: Desktop
@@ -18,7 +18,7 @@ extra:
   mobile_shop_name_4: AppGallery
   mobile_shop_name_5: Obtainium
   releases:
-    title: "Latest Releases"
+    title: "Naujausi leidimai"
 template: download.html
 title: "„CoMaps“ parsisiuntimas"
 weight: 10

@@ -1,27 +1,28 @@
 ---
-title: Terms
+title: Baldintzak
 weight: 1000
 ---
 
-This app is licensed under the Apache License, Version 2.0 (the "License");
-This application cannot be used except in compliance with the License.
+Aplikazio honek Apache lizentziapean dago, 2.0 bertsioa ("Lizentzia");
+Aplikazio hau ezin da erabili Lizentzia betez izan ezik.
 
-Read [the full license text](https://www.apache.org/licenses/LICENSE-2.0).
+Irakurri [lizentziaren testu
+osoa](https://www.apache.org/licenses/LICENSE-2.0).
 
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
-WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
-License for the specific language governing permissions and limitations
-under the License.
+Indarrean dagoen legeak eskatzen ez badu edo idatziz adostu ezean,
+Lizentziaren arabera banatzen den softwarea "DEN BEZALA" banatzen da,
+INOLAKO BERME EDO BALDINTZAK GABE, ez espresuki edo inplizituki. Ikus
+Lizentzia Lizentziaren araberako baimenak eta mugak arautzen dituzten
+hizkuntza espezifikoak ikusteko.
 
-Many libraries and 3rd party tools included into [CoMaps
-repository](https://codeberg.org/comaps/comaps) were developed by multiple
-people and organizations, and licensed in different ways. Please refer to
-their LICENSE, COPYING or NOTICE files for terms of use.
+[CoMaps biltegiko](https://codeberg.org/comaps/comaps) liburutegi eta
+hirugarrenen tresna asko pertsona eta erakunde askok garatu dituzte, eta
+modu ezberdinetan lizentziatu dira. Mesedez, kontsultatu haien LIZENTZIA,
+KOPIATZEA edo OHARRAK fitxategietara erabilera-baldintzak ikusteko.
 
-See
+Ikusi
 [data/copyright.html](https://codeberg.org/comaps/comaps/src/branch/main/data/copyright.html)
-file for a full list of copyright notices for the CoMaps application.
+fitxategia CoMaps aplikazioaren copyright-oharraren zerrenda osoa lortzeko.
 
-If you have any questions or suggestions, please contact us at
-legal@comaps.app
+Galdera edo iradokizunik baduzu, jar zaitez gurekin harremanetan
+legal@comaps.app helbidera

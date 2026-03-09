@@ -1,5 +1,5 @@
 ---
-description: 'Discover more of your journey - Powered by the community'
+description: 'Turiningesnės kelionės – su bendruomenės vystoma programa'
 extra:
   freedom:
     description: 'Atraskite turiningesnes keliones, naviguokite po pasaulį – privačiai, su bendruomenės kuriama programa.'
@@ -9,7 +9,7 @@ extra:
   services:
     items:
       - 
-        description: 'Plan and navigate your trip abroad with just GPS, no need for mobile data. Search waypoints while on distant hiking trails or bike paths.'
+        description: 'Planuokite maršrutus ir keliaukite užsienyje, naudodamiesi tik GPS, bet ne mobiliaisiais duomenimis. Ieškokite kelionės taškų tolimuose žygiavimo ir dviračių trasose.'
         highlight:
           icon: static/images/icons/home/wifi-off.svg
           text: 'Internetas – nebūtinas'
@@ -18,7 +18,7 @@ extra:
           user: /images/sections/map-m-1.webp
         title: 'Vietų paieška ir maršruto planavimas neprisijungus'
       - 
-        description: 'The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information. CoMaps was also audited by <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-exodus"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/).'
+        description: 'Programėlė sukurta, teikiant prioritetą privatumui: ji neidentifikuoja asmenų, nestebi jūsų ir nerenka jokios informacijos. „CoMaps“ privatumo audito rezultatai pasiekiami <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-exodus"></use></svg> [„Exodus“](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/) platformoje.'
         highlight:
           icon: static/images/icons/home/shield.svg
           text: 'Privatumas be atskiro prašymo'
@@ -39,7 +39,7 @@ extra:
         cta:
           href: community/
           text: inv_title
-        description: 'People like you are helping build the app by adding locations to <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-open-street-map"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on <span class="text-icon"><svg viewbox="0 0 4.233 4.233"> <use href="#icon-codeberg"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> to create great maps together. The project is a fork of Organic Maps and Maps.Me, and driven by an open-source community.'
+        description: 'Paprasti žmonės – kaip jūs – padeda kurti šią programą, pildydami <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-open-street-map"></use></svg> [„OpenStreetMap“](https://openstreetmap.org)</span> žemėlapį, išbandydami ir pateikdami atsiliepimus apie funkcijas bei prisidėdami savo programavimo įgūdžiais atviroje <span class="text-icon"><svg viewbox="0 0 4.233 4.233"> <use href="#icon-codeberg"></use></svg> [„Codeberg“](https://codeberg.org/comaps)</span> platformoje. Šis projektas yra kilęs iš „Organic Maps“ ir „Maps.Me“ projektų ir vedamas į priekį atviro kodo bendruomenės.'
         highlight:
           icon: static/images/icons/home/heart.svg
           text: 'Nemokama visiems, sukurta su meile'
@@ -49,5 +49,5 @@ extra:
         title: 'Atvira, nemokama ir kuriama bendruomenės'
 sort_by: weight
 template: home.html
-title: 'Hike, Bike, Drive Offline – Navigate with Privacy'
+title: 'Žygiuokite, minkite dviratį, vairuokite automobilį – su privačia navigacija'
 ---

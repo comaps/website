@@ -19,7 +19,7 @@ extra:
         text: "Gure lehentasunak erabiltzailearen laguntza, akatsak konpontzea eta aplikazioaren egonkortasuna hobetzea dira. Egunero hazten da akatsen eskaeren eta txostenen zerrenda, eta laguntza-eskaera asko daude erantzuteko App Store-n, Google Play-n eta posta elektronikoan."
         title: "Laguntza zerbitzua"
       - media: /images/donate/developers.webp
-        text: "Currently, all development is done by volunteers with limited time. To implement larger, more ambitious features, paying developers might be necessary in the future."
+        text: "Gaur egun, garapen guztia denbora mugatuko boluntarioek egiten dute. Funtzio handiagoak eta anbiziotsuagoak ezartzeko, baliteke garatzaileei ordaintzea beharrezkoa izatea etorkizunean."
         title: Garatzaileak
     title: "Nola erabiliko da finantziazioa?"
   hero_description: "Donate and create better maps together!"

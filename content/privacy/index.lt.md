@@ -1,14 +1,14 @@
 ---
-title: Privacy
+title: Privatumas
 weight: 900
 ---
 
-At CoMaps, we respect your privacy. CoMaps does not have any form of
-identification of people, advertising, or personal data collection.
+„CoMaps“ kūrėjai gerbia jūsų privatumą. „CoMaps“ jokia forma neužsiima
+asmenų identifikavimu, reklama ar asmeninių duomenų rinkimu.
 
-CoMaps does not track you.
+„CoMaps“ nestebi jūsų.
 
-If you have any questions or suggestions, please contact us at
-legal@comaps.app
+Jei turite kokių nors klausimų ar pasiūlymų, prašome susisiekti su mumis
+adresu legal@comaps.app.
 
-Policy effective: 2025-05-01
+Šie nuostatai taikomi nuo 2025-05-01

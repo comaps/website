@@ -20,8 +20,8 @@ extra:
         year: 2025
     title: "Projekto istorija"
   media_highlights:
-    description: "See the full list of media coverage about CoMaps."
-    title: "Media Highlights"
+    description: "Pamatykite visą spaudos straipsnių apie „CoMaps“ sąrašą."
+    title: "Rinktinės apžvalgos"
   vm:
     items:
       - icon: /images/icons/about/mission.svg

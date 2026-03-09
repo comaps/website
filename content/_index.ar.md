@@ -1,5 +1,5 @@
 ---
-description: 'Discover more of your journey - Powered by the community'
+description: 'اكتشف المزيد عن رحلتك<br/>مدعوم من المجتمع'
 extra:
   freedom:
     description: 'إكتشف رحلتك و تنقل حول العالم مع الخصوصية و المجتمع في المقدمة.'
@@ -18,7 +18,7 @@ extra:
           user: /images/sections/map-m-1.webp
         title: 'البحث و السير بدون اتصال الإنترنت'
       - 
-        description: 'The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information. CoMaps was also audited by <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-exodus"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/).'
+        description: 'هذا التطبيق يحترم الخصوصية في تصميمه - لا يكشف هوية الأشخاص, ولا يتعقّبك, ولا يجمع أي معلومات. قد فُحِصَ أيضاً بـاستخدام <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-exodus"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/).'
         highlight:
           icon: static/images/icons/home/shield.svg
           text: 'الخصوصية بشكل إفتراضي'
@@ -39,7 +39,7 @@ extra:
         cta:
           href: community/
           text: inv_title
-        description: 'People like you are helping build the app by adding locations to <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-open-street-map"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on <span class="text-icon"><svg viewbox="0 0 4.233 4.233"> <use href="#icon-codeberg"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> to create great maps together. The project is a fork of Organic Maps and Maps.Me, and driven by an open-source community.'
+        description: 'يساعد الناس أمثالك في بناء هذا التطبيق بإضافة المزيد من المواقع في  <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-open-street-map"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, ومشاركة الآراء عن الميزات, والمشاركة في كتابة الأكواد على  <span class="text-icon"><svg viewbox="0 0 4.233 4.233"> <use href="#icon-codeberg"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> لصناعة خرائط رائعة سوياَ. هذا التطبيق هو تفَرٌع من Organic Maps و Maps.Me, ومدعوم من المجتمع.'
         highlight:
           icon: static/images/icons/home/heart.svg
           text: 'مجاني للجميع،مصنوع بالحب'

@@ -19,7 +19,7 @@ extra:
         text: "Kullanıcı desteği, hataların giderilmesi ve uygulamanın kararlılığının iyileştirilmesi en büyük önceliğimizdir. Talep ve hata bildirimlerinin listesi her geçen gün büyüyor ve App Store, Google Play ve destek e-postalarında yanıtlanması gereken birçok destek talebi bulunuyor."
         title: Destek
       - media: /images/donate/developers.webp
-        text: "Currently, all development is done by volunteers with limited time. To implement larger, more ambitious features, paying developers might be necessary in the future."
+        text: "Şu anda tüm geliştirme süreci, sınırlı zamanı olan gönüllüler tarafından yapılıyor. Daha büyük ve öne çıkan özelliklerin eklenmesi için gelecekte ücretli geliştiricilere ihtiyaç duyulabilir."
         title: "Kod Gelistiricileri"
     title: "Finansman nasıl kullanılacak?"
   hero_description: "Donate and create better maps together!"

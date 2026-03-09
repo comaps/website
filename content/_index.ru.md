@@ -42,7 +42,7 @@ extra:
         description: 'Люди, как вы, помогаете улучшить приложение, добавляя локации в <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-open-street-map"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, оставляя отзывы о функциях и внося улучшения кода на <span class="text-icon"><svg viewbox="0 0 4.233 4.233"> <use href="#icon-codeberg"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> – мы создаём прекрасные карты вместе. CoMaps — ответвление от Organic Maps (и Maps.Me), развиваемое сообществом свободного ПО.'
         highlight:
           icon: static/images/icons/home/heart.svg
-          text: 'Бесплатно для всех, сделано с любовью'
+          text: 'Свободно для всех, сделано с любовью'
         media:
           map: /images/sections/map-s-4.webp
           user: /images/sections/map-m-4.webp
