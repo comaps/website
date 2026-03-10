@@ -30,10 +30,7 @@ OpenStreetMap is under the [ODbL](https://opendatacommons.org/licenses/odbl/), w
 
 Wikipedia is licensed under the [Creative Commons Attribution-ShareAlike License](https://creativecommons.org/licenses/by-sa/4.0/). That means we can provide Wikipedia articles without licensing fees. It also means you can help improve CoMaps data by improving and adding new Wikipedia place articles.
 
-{{ image(src="screenshot-comaps-edit-fire-station.webp" classes="max-w-40")
-}}
-
-<small>Screenshot depicts editing an OpenStreetMap place with CoMaps. Data in screenshot © [OpenStreetMap](https://openstreetmap.org) contributors, [ODbL](http://opendatacommons.org/licenses/odbl/).</small>
+{{ image(src="screenshot-comaps-edit-fire-station.webp" classes="max-w-40" caption="Screenshot depicts editing an OpenStreetMap place with CoMaps. Data in screenshot © [OpenStreetMap](https://openstreetmap.org) contributors, [ODbL](https://opendatacommons.org/licenses/odbl/).") }}
 
 ### You can help improve CoMaps by improving OpenStreetMap and other data sources we use
 OpenStreetMap is a strong supporter of open source data, and so are we! OSM works primarily through crowd-sourced data, meaning from data it's users create. This means:
@@ -48,9 +45,7 @@ There are other projects you can volunteer for to help make CoMaps better too, i
 - [Panoramax](https://panoramax.fr/) - Upload 360&deg; images, or even wide-angle shots, to Panoramax and tag them with the location. Some of your images might get a link on the place in CoMaps, so other users can see the place too! You can help by logging into your OSM account on [mapcomplete.org](https://mapcomplete.org/) or one of the other Panoramax servers found [here](https://panoramax.fr/).
 
 {{ image(src="screenshot-comaps-wikipage-hazen.webp"
-classes="max-w-40") }}
-
-<small>Screenshot depicts reading a Wikipedia article preview inside CoMaps. Text in screenshot © Wikipedia; [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/)</small>
+classes="max-w-40" caption="Screenshot depicts reading a Wikipedia article preview inside CoMaps. Text in screenshot © Wikipedia; [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/)") }}
 
 ### Sharing is caring
 Open source data allows us all to work together for our common good. When you help improve something open source, whether it's CoMaps, OpenStreetMap, or something else, you're not just helping yourself, but all other users as well. That's why we, all of us CoMaps volunteers, are hooked on open source! Whether you contribute more for ethical reasons or just as a hobby, open source is quite fun!
