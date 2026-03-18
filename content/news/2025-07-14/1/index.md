@@ -11,6 +11,8 @@ We're proud to reveal the logo for CoMaps — designed and chosen by the **commu
 
 From maps to code to design, CoMaps is 100% community-powered — and this logo is no different. It’s a symbol of what we’re building together: free, open, and offline map navigation for everyone.
 
-The winning logo was created by @Flummic. The initial round had 21 logos submitted, resulting in 6 finalists, followed by an iteration process where people collaborated to make improvements (https://codeberg.org/comaps/Governance/issues/78).
+The winning logo was created by @Flummic. The initial round had 21 logos submitted, resulting in 6 finalists, followed by an iteration process where people collaborated to make improvements: [https://codeberg.org/comaps/Governance/issues/78](https://codeberg.org/comaps/Governance/issues/78)
+
+To access the logo and other press/media assets, visit our communication repo: [https://codeberg.org/comaps/communication](https://codeberg.org/comaps/communication)
 
 Thank you to everyone who shaped this milestone. We’re just getting started!
