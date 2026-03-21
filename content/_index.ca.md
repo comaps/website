@@ -39,7 +39,7 @@ extra:
         cta:
           href: community/
           text: inv_title
-        description: 'People like you are helping build the app by adding locations to <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-open-street-map"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on <span class="text-icon"><svg viewbox="0 0 4.233 4.233"> <use href="#icon-codeberg"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> to create great maps together. The project is a fork of Organic Maps and Maps.Me, and driven by an open-source community.'
+        description: "Les persones com tu han ajudat a construir l'aplicació afegint llocs a <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, donant la seva opinió sobre funcionalitats, i contribuint amb codi a <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> per fer millors mapes entre tots. El projecte és una bifurcació de Organic Maps i Maps.me, i està dirigit per la comunitat de codi obert."
         highlight:
           icon: static/images/icons/home/heart.svg
           text: 'Gratuït per a tothom, fet amb amor'

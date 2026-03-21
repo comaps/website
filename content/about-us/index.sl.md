@@ -9,7 +9,7 @@ extra:
     items:
       - text: "Ustvarjeno usmerjevalno orodje MapsWithMe (kasneje preimenovano v Maps.me)."
         year: 2011
-      - text: "Maps.me je odprl svojo kodo pod dovoljenji Apacge 2.0."
+      - text: "Maps.me je odprl svojo kodo pod dovoljenji Apache 2.0."
         year: 2015
       - text: "Ustanovljena sta bila Organic Maps in podjetje, na podlagi kode Maps.Me."
         year: 2021

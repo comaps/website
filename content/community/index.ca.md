@@ -5,7 +5,7 @@ extra:
     description: "L'aplicació depèn de les vostres donacions. Ajuda a millorar-la"
     title: Donatius
   features:
-    - description: "Report bugs, discuss ideas, and propose features"
+    - description: "Informa d'errors, discuteix idees i proposa funcionalitats"
       icon: chats.svg
       link: https://codeberg.org/comaps/comaps/issues
       title: "**Reporta** Errors"
