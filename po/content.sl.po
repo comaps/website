@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"PO-Revision-Date: 2026-02-22 02:44+0000\n"
-"Last-Translator: JanezPavelZebovec <janezpavelzebovec@noreply.codeberg.org>\n"
+"PO-Revision-Date: 2026-03-14 00:29+0000\n"
+"Last-Translator: stefanb <stefanb@noreply.codeberg.org>\n"
 "Language-Team: Slovenian <https://translate.codeberg.org/projects/comaps/website/sl/>\n"
 "Language: sl\n"
 "MIME-Version: 1.0\n"
@@ -356,7 +356,7 @@ msgstr "Ustvarjeno usmerjevalno orodje MapsWithMe (kasneje preimenovano v Maps.m
 #: content/about-us/index.md
 #, no-wrap
 msgid "Maps.me opened the source code under Apache 2.0 license."
-msgstr "Maps.me je odprl svojo kodo pod dovoljenji Apacge 2.0."
+msgstr "Maps.me je odprl svojo kodo pod dovoljenji Apache 2.0."
 
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md

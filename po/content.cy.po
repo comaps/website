@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"PO-Revision-Date: 2026-03-06 00:29+0000\n"
+"PO-Revision-Date: 2026-03-19 23:29+0000\n"
 "Last-Translator: ceirios <ceirios@noreply.codeberg.org>\n"
 "Language-Team: Welsh <https://translate.codeberg.org/projects/comaps/website/cy/>\n"
 "Language: cy\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=6; plural=(n==0) ? 0 : (n==1) ? 1 : (n==2) ? 2 : (n==3) ? 3 :(n==6) ? 4 : 5;\n"
-"X-Generator: Weblate 5.15.2\n"
+"X-Generator: Weblate 5.16.2\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -56,7 +56,7 @@ msgstr "Dim angen y rhyngrwyd"
 #: content/_index.md
 #, no-wrap
 msgid "Offline Search and Route"
-msgstr ""
+msgstr "Chwilio a Theithio All-lein"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
@@ -68,13 +68,13 @@ msgstr ""
 #: content/_index.md
 #, no-wrap
 msgid "Privacy by default"
-msgstr ""
+msgstr "Preifatrwydd yn ddiofyn"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
 #, no-wrap
 msgid "No Data Collection"
-msgstr ""
+msgstr "Dim Prosesau Casglu Data"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
@@ -224,7 +224,7 @@ msgstr ""
 #: content/community/index.md translations.yaml
 #, no-wrap
 msgid "Community"
-msgstr ""
+msgstr "Cymuned"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/donate/index.md
@@ -248,13 +248,13 @@ msgstr ""
 #: content/donate/index.md
 #, no-wrap
 msgid "Donate via Liberapay"
-msgstr ""
+msgstr "Rhoi drwy Liberapay"
 
 #. type: Yaml Front Matter Hash Value: extra donate open_collective title
 #: content/donate/index.md
 #, no-wrap
 msgid "Donate via Open Collective"
-msgstr ""
+msgstr "Rhoi drwy Open Collective"
 
 #. type: Yaml Front Matter Hash Value: extra funding items text
 #: content/donate/index.md
@@ -266,7 +266,7 @@ msgstr ""
 #: content/donate/index.md
 #, no-wrap
 msgid "Infrastructure"
-msgstr ""
+msgstr "Seilwaith"
 
 #. type: Yaml Front Matter Hash Value: extra funding items text
 #: content/donate/index.md
@@ -278,7 +278,7 @@ msgstr ""
 #: content/donate/index.md
 #, no-wrap
 msgid "Support"
-msgstr ""
+msgstr "Cymorth"
 
 #. type: Yaml Front Matter Hash Value: extra funding items text
 #: content/donate/index.md
@@ -290,7 +290,7 @@ msgstr ""
 #: content/donate/index.md
 #, no-wrap
 msgid "Developers"
-msgstr ""
+msgstr "Datblygwyr"
 
 #. type: Yaml Front Matter Hash Value: extra funding title
 #: content/donate/index.md
@@ -326,7 +326,7 @@ msgstr ""
 #: content/support/_index.md translations.yaml
 #, no-wrap
 msgid "Help"
-msgstr ""
+msgstr "Cymorth"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/about-us/index.md
@@ -380,7 +380,7 @@ msgstr ""
 #: content/about-us/index.md
 #, no-wrap
 msgid "History"
-msgstr ""
+msgstr "Hanes"
 
 #. type: Yaml Front Matter Hash Value: extra media_highlights description
 #: content/about-us/index.md
@@ -392,7 +392,7 @@ msgstr ""
 #: content/about-us/index.md
 #, no-wrap
 msgid "Media Highlights"
-msgstr ""
+msgstr "Yn y Cyfryngau"
 
 #. type: Yaml Front Matter Hash Value: extra vm items text
 #: content/about-us/index.md
@@ -404,7 +404,7 @@ msgstr ""
 #: content/about-us/index.md
 #, no-wrap
 msgid "Mission"
-msgstr ""
+msgstr "Cenhadaeth"
 
 #. type: Yaml Front Matter Hash Value: extra vm items text
 #: content/about-us/index.md
@@ -416,13 +416,13 @@ msgstr ""
 #: content/about-us/index.md
 #, no-wrap
 msgid "Vision"
-msgstr ""
+msgstr "Gweledigaeth"
 
 #. type: Hash Value: menu_about_us
 #: content/about-us/index.md translations.yaml
 #, no-wrap
 msgid "About Us"
-msgstr ""
+msgstr "Amdanom ni"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/download/index.md
@@ -440,37 +440,37 @@ msgstr ""
 #: content/download/index.md
 #, no-wrap
 msgid "Verifying the Android app"
-msgstr ""
+msgstr "Dilysu'r ap Android"
 
 #. type: Yaml Front Matter Hash Value: extra releases title
 #: content/download/index.md
 #, no-wrap
 msgid "Latest Releases"
-msgstr ""
+msgstr "Fersiynau Diweddaraf"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/download/index.md
 #, no-wrap
 msgid "Download CoMaps"
-msgstr ""
+msgstr "Lawrlwytho CoMaps"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/api/index.md
 #, no-wrap
 msgid "API Page"
-msgstr ""
+msgstr "Tudalen API"
 
 #. type: Plain text
 #: content/api/index.md
 #, markdown-text
 msgid "The API is documented on [comaps.at/api](https://comaps.at/api)."
-msgstr ""
+msgstr "Caiff yr API ei ddogfennu ar [comaps.at/api](https://comaps.at/api)."
 
 #. type: Hash Value: menu_privacy
 #: content/privacy/index.md translations.yaml
 #, no-wrap
 msgid "Privacy"
-msgstr ""
+msgstr "Preifatrwydd"
 
 #. type: Plain text
 #: content/privacy/index.md
@@ -482,7 +482,7 @@ msgstr ""
 #: content/privacy/index.md
 #, markdown-text
 msgid "CoMaps does not track you."
-msgstr ""
+msgstr "Nid yw CoMaps yn eich olrhain."
 
 #. type: Plain text
 #: content/privacy/index.md content/terms/index.md
@@ -500,7 +500,7 @@ msgstr ""
 #: content/terms/index.md
 #, no-wrap
 msgid "Terms"
-msgstr ""
+msgstr "Telerau"
 
 #. type: Plain text
 #: content/terms/index.md
@@ -536,31 +536,31 @@ msgstr ""
 #: translations.yaml
 #, no-wrap
 msgid "All"
-msgstr ""
+msgstr "Popeth"
 
 #. type: Hash Value: button-download
 #: translations.yaml
 #, no-wrap
 msgid "Download"
-msgstr ""
+msgstr "Lawrlwytho"
 
 #. type: Hash Value: const_lang
 #: translations.yaml
 #, no-wrap
 msgid "Language"
-msgstr ""
+msgstr "Iaith"
 
 #. type: Hash Value: faq_content
 #: translations.yaml
 #, no-wrap
 msgid "CoMaps - F.A.Q."
-msgstr ""
+msgstr "CoMaps - Cwestiynau Cyffredin"
 
 #. type: Hash Value: how_can_help
 #: translations.yaml
 #, no-wrap
 msgid "How can we help?"
-msgstr ""
+msgstr "Sut allwn ni helpu?"
 
 #. type: Hash Value: inv_code_text
 #: translations.yaml
@@ -572,7 +572,7 @@ msgstr ""
 #: translations.yaml
 #, no-wrap
 msgid "Contribute Code"
-msgstr ""
+msgstr "Cyfrannu Cod"
 
 #. type: Hash Value: inv_info_text
 #: translations.yaml

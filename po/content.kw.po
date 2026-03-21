@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"PO-Revision-Date: 2026-02-16 14:29+0000\n"
+"PO-Revision-Date: 2026-03-14 16:29+0000\n"
 "Last-Translator: cirilla <cirilla@noreply.codeberg.org>\n"
 "Language-Team: Cornish <https://translate.codeberg.org/projects/comaps/website/kw/>\n"
 "Language: kw\n"
@@ -194,13 +194,13 @@ msgstr "**Treylya** Tekst"
 #: content/community/index.md
 #, no-wrap
 msgid "Add info about shops, points of interest, trails, and public transport to OpenStreetMap"
-msgstr "Addya kudhlow a-dro gwerthjiow, leow, lerghow, ha karyans poblek dhe OpenStreetMap"
+msgstr "Addya kedhlow a-dro dhe gwerthjiow, leow, lerghow, ha karyans poblek dhe OpenStreetMap"
 
 #. type: Yaml Front Matter Hash Value: extra features title
 #: content/community/index.md
 #, no-wrap
 msgid "**Add** Place Info"
-msgstr "**Addya** Kudhlow Le"
+msgstr "**Addya** Kedhlow Le"
 
 #. type: Yaml Front Matter Hash Value: extra features description
 #: content/community/index.md
@@ -398,7 +398,7 @@ msgstr "Gwel"
 #: content/about-us/index.md translations.yaml
 #, no-wrap
 msgid "About Us"
-msgstr "A-dro Ni"
+msgstr "A-dro Dhe Ni"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/download/index.md
@@ -470,13 +470,13 @@ msgstr "Kevri Kod"
 #: translations.yaml
 #, no-wrap
 msgid "Add info around you, and make the maps better for everyone"
-msgstr "Addya kudhlow a-dro ty, ha gwellhe an mappys rag peub"
+msgstr "Addya kedhlow a-dro dhe ty, ha gwellhe an mappys rag oll"
 
 #. type: Hash Value: inv_info_title
 #: translations.yaml
 #, no-wrap
 msgid "Add Place Info"
-msgstr "Addya Kudhlow Le"
+msgstr "Addya Kedhlow Le"
 
 #. type: Hash Value: inv_title
 #: translations.yaml
