@@ -6,6 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
+"PO-Revision-Date: 2026-03-23 08:29+0000\n"
 "Last-Translator: khangreat <khangreat@noreply.codeberg.org>\n"
 "Language-Team: Brahui <https://translate.codeberg.org/projects/comaps/website/brh/>\n"
 "Language: brh\n"
@@ -13,7 +14,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.15.2\n"
+"X-Generator: Weblate 5.16.2\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -127,7 +128,7 @@ msgstr ""
 #: content/community/index.md
 #, no-wrap
 msgid "CoMaps is created and maintained by people like you"
-msgstr ""
+msgstr "CoMaps نمے انبار انگا بندغ آ تیان جوڑ مسنے و چلییفنگسہ اے"
 
 #. type: Hash Value: donate-description
 #: content/community/index.md translations.yaml
@@ -643,4 +644,4 @@ msgstr ""
 #: translations.yaml
 #, no-wrap
 msgid "Connect with Us"
-msgstr ""
+msgstr "نن تون اوار مہ"

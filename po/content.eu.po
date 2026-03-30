@@ -6,14 +6,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"Last-Translator: alexgabi <alexgabi@noreply.codeberg.org>\n"
+"PO-Revision-Date: 2026-03-25 23:57+0000\n"
+"Last-Translator: Oier <oier@noreply.codeberg.org>\n"
 "Language-Team: Basque <https://translate.codeberg.org/projects/comaps/website/eu/>\n"
 "Language: eu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.15.2\n"
+"X-Generator: Weblate 5.16.2\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -257,10 +258,9 @@ msgstr "Dohaintza egin Open Collective-ren bidez"
 
 #. type: Yaml Front Matter Hash Value: extra funding items text
 #: content/donate/index.md
-#, fuzzy, no-wrap
-#| msgid "We pay for fast servers, so anyone in the world can download free map data updates without delays. The maps data transfers are hundreds of terabytes monthly, and the amount is growing."
+#, no-wrap
 msgid "We have to keep up fast servers, to update the map files and for you to download them without delays. The maps data transfers make up large, and growing, amounts of data each month."
-msgstr "Zerbitzari azkarrak ordaintzen ditugu, munduko edonork mapen datuen doako eguneraketak deskarga ditzan atzerapenik gabe. Mapen datu-transferentziak ehunka terabytekoak dira hilero, eta kopurua hazten ari da."
+msgstr "Zerbitzari azkarrak izaten jarraitu behar dugu, mapa-fitxategiak eguneratzeko eta atzerapenik gabe deskargatzeko. Mapen datu-transferentziek datu-kopuru handiak eta gero eta handiagoak osatzen dituzte hilero."
 
 #. type: Yaml Front Matter Hash Value: extra funding items title
 #: content/donate/index.md
@@ -300,17 +300,15 @@ msgstr "Nola erabiliko da finantziazioa?"
 
 #. type: Yaml Front Matter Hash Value: extra info text
 #: content/donate/index.md
-#, fuzzy, no-wrap
-#| msgid "We rely on your donations to keep CoMaps open and free"
+#, no-wrap
 msgid "We rely on your donations to keep CoMaps free to use"
-msgstr "Zure dohaintzetan oinarritzen gara CoMaps irekita eta doan mantentzeko"
+msgstr "Zure dohaintzetan oinarritzen gara CoMaps erabiltzeko doan mantentzeko"
 
 #. type: Yaml Front Matter Hash Value: extra info text
 #: content/donate/index.md
-#, fuzzy, no-wrap
-#| msgid "We are a few enthusiasts contributing in our free time. We love what we do, and we love our users"
+#, no-wrap
 msgid "We are a community contributing in our free time. We love what we do, and we love our users"
-msgstr "Gure denbora librean ekarpenak egiten dituzten zale batzuk gara. Maite dugu egiten duguna, eta maite ditugu gure erabiltzaileak"
+msgstr "Gure denbora librean auzolanean lan egiten duen komunitate bat gara. Maite dugu egiten duguna, eta maite ditugu gure erabiltzaileak"
 
 #. type: Yaml Front Matter Hash Value: extra info text
 #: content/donate/index.md
@@ -401,13 +399,13 @@ msgstr "Historia"
 #: content/about-us/index.md
 #, no-wrap
 msgid "See the full list of media coverage about CoMaps."
-msgstr ""
+msgstr "Ikusi CoMaps-i buruzko komunikabideen zerrenda osoa."
 
 #. type: Yaml Front Matter Hash Value: extra media_highlights title
 #: content/about-us/index.md
 #, no-wrap
 msgid "Media Highlights"
-msgstr ""
+msgstr "Komunikabideetan nabarmenduak"
 
 #. type: Yaml Front Matter Hash Value: extra vm items text
 #: content/about-us/index.md
@@ -449,18 +447,17 @@ msgstr "Desblokeatu nabigazioaren potentziala! Ezagutu lineaz kanpoko mapak, pri
 #: content/download/index.md
 #, no-wrap
 msgid "To verify the app when downloading it as an APK or via Obtainium you can use this fingerprint:"
-msgstr ""
+msgstr "Aplikazioa APK gisa edo Obtaniumen bidez deskargatzen duzunean, aztarna hau erabil dezakezu egiaztatzeko:"
 
 #. type: Yaml Front Matter Hash Value: extra app_verifier title
 #: content/download/index.md
 #, no-wrap
 msgid "Verifying the Android app"
-msgstr ""
+msgstr "Android aplikazioa egiaztatu"
 
 #. type: Yaml Front Matter Hash Value: extra releases title
 #: content/download/index.md
-#, fuzzy, no-wrap
-#| msgid "Releases"
+#, no-wrap
 msgid "Latest Releases"
 msgstr "Bertsio berriak"
 
@@ -483,15 +480,14 @@ msgstr "APIa [comaps.at/api](https://comaps.at/api))-n dokumentatuta dago."
 
 #. type: Hash Value: menu_privacy
 #: content/privacy/index.md translations.yaml
-#, fuzzy, no-wrap
-#| msgid "Privacy-Centric"
+#, no-wrap
 msgid "Privacy"
-msgstr "Pribatutasunean zentratua"
+msgstr "Pribatutasuna"
 
 #. type: Plain text
 #: content/privacy/index.md
 msgid "At CoMaps, we respect your privacy. CoMaps does not have any form of identification of people, advertising, or personal data collection."
-msgstr ""
+msgstr "CoMaps-ek zure pribatutasuna errespetatzen du. CoMaps-ek ez du inolako identifikazio pertsonalik, publizitaterik edo datu pertsonalik biltzen."
 
 #. type: Plain text
 #: content/privacy/index.md
@@ -506,7 +502,7 @@ msgstr "Galdera edo iradokizunik baduzu, jar zaitez gurekin harremanetan legal@c
 #. type: Plain text
 #: content/privacy/index.md
 msgid "Policy effective: 2025-05-01"
-msgstr ""
+msgstr "Politika indarrean dagoen data: 2025-05-01"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/terms/index.md
@@ -621,7 +617,7 @@ msgstr "Hasiera"
 #: translations.yaml
 #, no-wrap
 msgid "Media Coverage"
-msgstr ""
+msgstr "Estaldura mediatikoa"
 
 #. type: Hash Value: menu_news
 #: translations.yaml
