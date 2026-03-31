@@ -3,8 +3,14 @@ description: "Navigation gratuïta i oberta respectant la privacitat -<br/>Creat
 extra:
   about:
     media: /images/about-us/about.png
-    text: "CoMaps és una aplicació de navegació enfocada a la comunitat i la privacitat per a viatgers - conductors, senderistes i ciclistes. Fa servir dades comunitàries d'OpenStreetMap de contribuïdors arreu del món. Ofereix una experiència de navegació privada: no identifica ni recull dades dels usuaris. Les funcionalitats de CoMaps poden funcionar sense connexió a internet, permetent navegar fora de línia en zones urbanes o remotes, on no hi ha cobertura mòbil. CoMaps és un projecte de codi obert i prioritza el desenvolupament comunitari."
+    text: "CoMaps is a community-focused privacy navigation app for travelers - drivers, hikers, and cyclists. It offers navigation with privacy - no identifying people and no data collection. CoMaps features can operate without an active internet connection for offline navigation at urban or distant locations, where cellular service is not available. CoMaps is an open-source project, and prioritizes community development."
     title: "Navegació gratuïta i oberta respectant la privacitat, fet per la comunitat"
+  data:
+    link_text: "Learn more about all of our open data sources"
+    media_osm: /images/about-us/OSM.png
+    media_wikipedia: /images/about-us/Wikidata_stamp.png
+    text: "CoMaps is made possible thanks to the labor of communities who help create and maintain the open data that powers our app: Our maps use OpenStreetMap data, made and maintained by thousands of contributors from all over the world. In order to link to, and provide offline details about cities, attractions and many other points-of-interest, we rely on the articles and photos of the global Wikipedia, Wikidata, and Wikimedia Commons communities."
+    title: "Powered by open data commons"
   history:
     items:
       - text: "Creació de l'aplicació de navegació MapsWithMe (posteriorment anomenada Maps.me)."

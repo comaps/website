@@ -3,8 +3,14 @@ description: "Gratis en open navigatie met privacy -<br/>Gemaakt door de communi
 extra:
   about:
     media: /images/about-us/about.png
-    text: "CoMaps is een op de community gerichte privacy vriendelijke navigatie app voor reizigers - chauffeurs, wandelaars en fietsers. Het maakt gebruik van de crowd-sourced OpenStreetMap kaarten met bijdragen van over de hele wereld. Het biedt navigatie met privacy - zonder gegevensverzameling. De functies van CoMaps kunnen werken zonder een internetverbinding voor offline navigatie op stedelijke of afgelegen locaties, waar internet niet beschikbaar is. CoMaps is een open source project en geeft prioriteit aan ontwikkeling met de community."
+    text: "CoMaps is a community-focused privacy navigation app for travelers - drivers, hikers, and cyclists. It offers navigation with privacy - no identifying people and no data collection. CoMaps features can operate without an active internet connection for offline navigation at urban or distant locations, where cellular service is not available. CoMaps is an open-source project, and prioritizes community development."
     title: "Gratis en open navigatie met privacy, gemaakt door de community"
+  data:
+    link_text: "Learn more about all of our open data sources"
+    media_osm: /images/about-us/OSM.png
+    media_wikipedia: /images/about-us/Wikidata_stamp.png
+    text: "CoMaps is made possible thanks to the labor of communities who help create and maintain the open data that powers our app: Our maps use OpenStreetMap data, made and maintained by thousands of contributors from all over the world. In order to link to, and provide offline details about cities, attractions and many other points-of-interest, we rely on the articles and photos of the global Wikipedia, Wikidata, and Wikimedia Commons communities."
+    title: "Powered by open data commons"
   history:
     items:
       - text: "De MapsWithMe navigatie-app is gemaakt (later hernoemd naar Maps.me)."

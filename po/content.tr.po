@@ -6,7 +6,6 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"PO-Revision-Date: 2026-02-25 13:29+0000\n"
 "Last-Translator: metehan <metehan@noreply.codeberg.org>\n"
 "Language-Team: Turkish <https://translate.codeberg.org/projects/comaps/website/tr/>\n"
 "Language: tr\n"
@@ -341,8 +340,9 @@ msgstr "Özgür, ücretsiz, açık kaynaklı ve mahremiyetli navigasyon -<br/>To
 
 #. type: Yaml Front Matter Hash Value: extra about text
 #: content/about-us/index.md
-#, no-wrap
-msgid "CoMaps is a community-focused privacy navigation app for travelers - drivers, hikers, and cyclists. It uses the crowd-sourced OpenStreetMap data with contributors from all over the globe. It offers navigation with privacy - no identifying people and no data collection. CoMaps features can operate without an active internet connection for offline navigation at urban or distant locations, where cellular service is not available. CoMaps is an open-source project, and prioritizes community development."
+#, fuzzy, no-wrap
+#| msgid "CoMaps is a community-focused privacy navigation app for travelers - drivers, hikers, and cyclists. It uses the crowd-sourced OpenStreetMap data with contributors from all over the globe. It offers navigation with privacy - no identifying people and no data collection. CoMaps features can operate without an active internet connection for offline navigation at urban or distant locations, where cellular service is not available. CoMaps is an open-source project, and prioritizes community development."
+msgid "CoMaps is a community-focused privacy navigation app for travelers - drivers, hikers, and cyclists. It offers navigation with privacy - no identifying people and no data collection. CoMaps features can operate without an active internet connection for offline navigation at urban or distant locations, where cellular service is not available. CoMaps is an open-source project, and prioritizes community development."
 msgstr "CoMaps, seyahat edenler - sürücüler, dağcılar ve bisikletliler için topluluk odaklı bir gizlilik navigasyon uygulamasıdır. Tüm dünyadan katkıda bulunanların yer aldığı, topluluk tarafından oluşturulan OpenStreetMap verilerini kullanır. Gizlilik ile navigasyon sunar - kimlik bilgisi toplamaz ve veri toplamaz. CoMaps, hücresel hizmetin bulunmadığı kentsel veya uzak bölgelerde çevrimdışı navigasyon için aktif bir internet bağlantısı olmadan çalışabilir. CoMaps, açık kaynaklı bir projedir ve topluluk gelişimini önceliklendirir."
 
 #. type: Yaml Front Matter Hash Value: extra about title
@@ -350,6 +350,18 @@ msgstr "CoMaps, seyahat edenler - sürücüler, dağcılar ve bisikletliler içi
 #, no-wrap
 msgid "Free and open navigation with privacy, built by the community"
 msgstr "Özgür, ücretsiz, açık kaynaklı ve mahremiyetli navigasyon. Topluluk tarafından yapıldı"
+
+#. type: Yaml Front Matter Hash Value: extra data text
+#: content/about-us/index.md
+#, no-wrap
+msgid "CoMaps is made possible thanks to the labor of communities who help create and maintain the open data that powers our app: Our maps use OpenStreetMap data, made and maintained by thousands of contributors from all over the world. In order to link to, and provide offline details about cities, attractions and many other points-of-interest, we rely on the articles and photos of the global Wikipedia, Wikidata, and Wikimedia Commons communities."
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: extra data title
+#: content/about-us/index.md
+#, no-wrap
+msgid "Powered by open data commons"
+msgstr ""
 
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md

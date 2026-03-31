@@ -3,8 +3,14 @@ description: "Nabigazio doakoa eta irekia pribatutasunarekin -<br/>Komunitateak 
 extra:
   about:
     media: /images/about-us/about.png
-    text: "CoMaps pribatutasunean oinarritutako nabigazio komunitarioko aplikazioa da bidaiarientzat - gidariak, txangozaleak eta txirrindulariak. OpenStreetMapeko datu publikoak mundu osoko kolaboratzaileekin erabiltzen ditu. Nabigazioa pribatutasunez eskaintzen du - ez du jendea identifikatzen eta ez du datu bilketarik. CoMaps-en eginbideek Interneteko konexio aktiborik gabe funtziona dezakete, hiriko edo urruneko tokietan lineaz kanpo nabigatzeko, zerbitzu zelularra erabilgarri ez dagoenean. CoMaps kode irekiko proiektu bat da, eta komunitatearen garapena lehenesten du."
+    text: "CoMaps is a community-focused privacy navigation app for travelers - drivers, hikers, and cyclists. It offers navigation with privacy - no identifying people and no data collection. CoMaps features can operate without an active internet connection for offline navigation at urban or distant locations, where cellular service is not available. CoMaps is an open-source project, and prioritizes community development."
     title: "Nabigazio doakoa eta irekia pribatutasunarekin, komunitateak eraikia"
+  data:
+    link_text: "Learn more about all of our open data sources"
+    media_osm: /images/about-us/OSM.png
+    media_wikipedia: /images/about-us/Wikidata_stamp.png
+    text: "CoMaps is made possible thanks to the labor of communities who help create and maintain the open data that powers our app: Our maps use OpenStreetMap data, made and maintained by thousands of contributors from all over the world. In order to link to, and provide offline details about cities, attractions and many other points-of-interest, we rely on the articles and photos of the global Wikipedia, Wikidata, and Wikimedia Commons communities."
+    title: "Powered by open data commons"
   history:
     items:
       - text: "MapsWithMe nabigazio-aplikazioa sortu zen (geroago Maps.me izena hartuko zuena)."

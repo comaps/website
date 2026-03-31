@@ -34,6 +34,20 @@
         </div>
     </div>
 </section>
+<section class="data-sources">
+    <div class="container data-sources__container">
+        <div class="data-sources__content">
+            <h2 class="h6 data-sources__title">{{ page.extra.data.title | safe }}</h2>
+            <div class="line data-sources__line"></div>
+            <div class="data-sources__img-row">
+                <img class="data-sources__img" src="{{ page.extra.data.media_osm }}" alt="the openstreetmap logo">
+                <img class="data-sources__img" src="{{ page.extra.data.media_wikipedia }}" alt="a powered-by-wikidata logo">
+            </div>
+            <p class="p-15 data-sources__text">{{ page.extra.data.text | safe }}</p>
+            <p class="p-15 data-sources__text"><a href="/support/which-data-sources-does-comaps-use/">{{ page.extra.data.link_text | safe }}</a></p>
+        </div>
+    </div>
+</section>
 <section class="about-history">
     <div class="container about-history__container">
         <h2 class="h6-bold about-history__title">{{ page.extra.history.title | safe }}</h2>

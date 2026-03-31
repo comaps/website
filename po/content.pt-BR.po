@@ -335,8 +335,9 @@ msgstr "Navegação livre e aberta com privacidade -<br/>Construído pela comuni
 
 #. type: Yaml Front Matter Hash Value: extra about text
 #: content/about-us/index.md
-#, no-wrap
-msgid "CoMaps is a community-focused privacy navigation app for travelers - drivers, hikers, and cyclists. It uses the crowd-sourced OpenStreetMap data with contributors from all over the globe. It offers navigation with privacy - no identifying people and no data collection. CoMaps features can operate without an active internet connection for offline navigation at urban or distant locations, where cellular service is not available. CoMaps is an open-source project, and prioritizes community development."
+#, fuzzy, no-wrap
+#| msgid "CoMaps is a community-focused privacy navigation app for travelers - drivers, hikers, and cyclists. It uses the crowd-sourced OpenStreetMap data with contributors from all over the globe. It offers navigation with privacy - no identifying people and no data collection. CoMaps features can operate without an active internet connection for offline navigation at urban or distant locations, where cellular service is not available. CoMaps is an open-source project, and prioritizes community development."
+msgid "CoMaps is a community-focused privacy navigation app for travelers - drivers, hikers, and cyclists. It offers navigation with privacy - no identifying people and no data collection. CoMaps features can operate without an active internet connection for offline navigation at urban or distant locations, where cellular service is not available. CoMaps is an open-source project, and prioritizes community development."
 msgstr "O CoMaps é um aplicativo de navegação com foco na comunidade, voltado para viajantes – motoristas, caminhantes e ciclistas. Utiliza dados do OpenStreetMap fornecido por pessoas de todo o mundo. O app oferece navegação com privacidade – sem identificação de pessoas e sem coleta de dados. As funcionalidades do CoMaps podem operar sem uma conexão ativa com a internet para navegação offline em locais urbanos ou rurais, onde o serviço de internet móvel pode não estar disponível. O CoMaps é um projeto de código aberto e prioriza o desenvolvimento pela comunidade."
 
 #. type: Yaml Front Matter Hash Value: extra about title
@@ -344,6 +345,18 @@ msgstr "O CoMaps é um aplicativo de navegação com foco na comunidade, voltado
 #, no-wrap
 msgid "Free and open navigation with privacy, built by the community"
 msgstr "Navegação livre e aberta com privacidade, construído pela comunidade"
+
+#. type: Yaml Front Matter Hash Value: extra data text
+#: content/about-us/index.md
+#, no-wrap
+msgid "CoMaps is made possible thanks to the labor of communities who help create and maintain the open data that powers our app: Our maps use OpenStreetMap data, made and maintained by thousands of contributors from all over the world. In order to link to, and provide offline details about cities, attractions and many other points-of-interest, we rely on the articles and photos of the global Wikipedia, Wikidata, and Wikimedia Commons communities."
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: extra data title
+#: content/about-us/index.md
+#, no-wrap
+msgid "Powered by open data commons"
+msgstr ""
 
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md

@@ -3,8 +3,14 @@ description: "Navegación libre y abierta con privacidad -<br/>Construido por la
 extra:
   about:
     media: /images/about-us/about.png
-    text: "CoMaps es una aplicación de navegación enfocada en la comunidad y en la privacidad para viajeros - conductores, senderistas y ciclistas. Utiliza datos de OpenStreetMap, generados colectivamente por colaboradores de todo el mundo. Ofrece navegación con privacidad, sin identificar a las personas ni recopilar sus datos. Las funcionalidades de CoMaps pueden funcionar sin una conexión a internet activa, proporcionando una navegación sin conexión en zonas urbanas o remotas, donde no hay cobertura móvil. CoMaps es un proyecto de código abierto, que prioriza el desarrollo comunitario."
+    text: "CoMaps is a community-focused privacy navigation app for travelers - drivers, hikers, and cyclists. It offers navigation with privacy - no identifying people and no data collection. CoMaps features can operate without an active internet connection for offline navigation at urban or distant locations, where cellular service is not available. CoMaps is an open-source project, and prioritizes community development."
     title: "Navegación libre y abierta con privacidad, construida por la comunidad"
+  data:
+    link_text: "Learn more about all of our open data sources"
+    media_osm: /images/about-us/OSM.png
+    media_wikipedia: /images/about-us/Wikidata_stamp.png
+    text: "CoMaps is made possible thanks to the labor of communities who help create and maintain the open data that powers our app: Our maps use OpenStreetMap data, made and maintained by thousands of contributors from all over the world. In order to link to, and provide offline details about cities, attractions and many other points-of-interest, we rely on the articles and photos of the global Wikipedia, Wikidata, and Wikimedia Commons communities."
+    title: "Powered by open data commons"
   history:
     items:
       - text: "Creada aplicación de navegación MapsWithMe (después renombrada a Maps.me)."

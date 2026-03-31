@@ -3,8 +3,14 @@ description: "Navigație liberă și deschisă, cu confidențialitate –<br/>Cr
 extra:
   about:
     media: /images/about-us/about.png
-    text: "CoMaps este o aplicație de navigație orientată către comunitate, dedicată călătorilor – șoferi, drumeți și cicliști. Ea folosește datele colaborative din OpenStreetMap, la care contribuie oameni din întreaga lume. Oferă navigație cu respectarea intimității – fără identificarea persoanelor și fără colectare de date. Funcțiile CoMaps pot fi utilizate și fără conexiune activă la internet, pentru navigație offline atât în zone urbane, cât și în locuri îndepărtate unde nu există semnal. CoMaps este un proiect open-source și pune pe primul loc dezvoltarea comunității."
+    text: "CoMaps is a community-focused privacy navigation app for travelers - drivers, hikers, and cyclists. It offers navigation with privacy - no identifying people and no data collection. CoMaps features can operate without an active internet connection for offline navigation at urban or distant locations, where cellular service is not available. CoMaps is an open-source project, and prioritizes community development."
     title: "Navigație liberă și deschisă cu intimitatea protejată, construită de comunitate"
+  data:
+    link_text: "Learn more about all of our open data sources"
+    media_osm: /images/about-us/OSM.png
+    media_wikipedia: /images/about-us/Wikidata_stamp.png
+    text: "CoMaps is made possible thanks to the labor of communities who help create and maintain the open data that powers our app: Our maps use OpenStreetMap data, made and maintained by thousands of contributors from all over the world. In order to link to, and provide offline details about cities, attractions and many other points-of-interest, we rely on the articles and photos of the global Wikipedia, Wikidata, and Wikimedia Commons communities."
+    title: "Powered by open data commons"
   history:
     items:
       - text: "Aplicația de navigație MapsWithMe a fost creată (mai târziu redenumită în Maps.me)."

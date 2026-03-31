@@ -3,8 +3,14 @@ description: "Özgür, ücretsiz, açık kaynaklı ve mahremiyetli navigasyon -<
 extra:
   about:
     media: /images/about-us/about.png
-    text: "CoMaps, seyahat edenler - sürücüler, dağcılar ve bisikletliler için topluluk odaklı bir gizlilik navigasyon uygulamasıdır. Tüm dünyadan katkıda bulunanların yer aldığı, topluluk tarafından oluşturulan OpenStreetMap verilerini kullanır. Gizlilik ile navigasyon sunar - kimlik bilgisi toplamaz ve veri toplamaz. CoMaps, hücresel hizmetin bulunmadığı kentsel veya uzak bölgelerde çevrimdışı navigasyon için aktif bir internet bağlantısı olmadan çalışabilir. CoMaps, açık kaynaklı bir projedir ve topluluk gelişimini önceliklendirir."
+    text: "CoMaps is a community-focused privacy navigation app for travelers - drivers, hikers, and cyclists. It offers navigation with privacy - no identifying people and no data collection. CoMaps features can operate without an active internet connection for offline navigation at urban or distant locations, where cellular service is not available. CoMaps is an open-source project, and prioritizes community development."
     title: "Özgür, ücretsiz, açık kaynaklı ve mahremiyetli navigasyon. Topluluk tarafından yapıldı"
+  data:
+    link_text: "Learn more about all of our open data sources"
+    media_osm: /images/about-us/OSM.png
+    media_wikipedia: /images/about-us/Wikidata_stamp.png
+    text: "CoMaps is made possible thanks to the labor of communities who help create and maintain the open data that powers our app: Our maps use OpenStreetMap data, made and maintained by thousands of contributors from all over the world. In order to link to, and provide offline details about cities, attractions and many other points-of-interest, we rely on the articles and photos of the global Wikipedia, Wikidata, and Wikimedia Commons communities."
+    title: "Powered by open data commons"
   history:
     items:
       - text: "MapsWithMe navigasyon uygulaması oluşturuldu (daha sonra adı Maps.me olarak değiştirildi)."

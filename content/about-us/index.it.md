@@ -3,8 +3,14 @@ description: "Navigazione libera e aperta con privacy -<br/>Fatta dalla comunit�
 extra:
   about:
     media: /images/about-us/about.png
-    text: "CoMaps è un'applicazione di navigazione privata incentrata sulla comunità per viaggiatori - automobilisti, escursionisti e ciclisti. Utilizza i dati di OpenStreetMap forniti dalla gente e da collaboratori in tutto il mondo. Offre una navigazione privata: nessuna identificazione degli utenti e nessuna raccolta di dati. Le funzioni di CoMaps possono essere utilizzate senza una connessione Internet attiva per la navigazione offline in luoghi urbani o lontani, dove il servizio cellulare non è disponibile. CoMaps è un progetto open-source che privilegia lo sviluppo della comunità."
+    text: "CoMaps is a community-focused privacy navigation app for travelers - drivers, hikers, and cyclists. It offers navigation with privacy - no identifying people and no data collection. CoMaps features can operate without an active internet connection for offline navigation at urban or distant locations, where cellular service is not available. CoMaps is an open-source project, and prioritizes community development."
     title: "Navigazione libera e aperta con privacy, fatta dalla comunità"
+  data:
+    link_text: "Learn more about all of our open data sources"
+    media_osm: /images/about-us/OSM.png
+    media_wikipedia: /images/about-us/Wikidata_stamp.png
+    text: "CoMaps is made possible thanks to the labor of communities who help create and maintain the open data that powers our app: Our maps use OpenStreetMap data, made and maintained by thousands of contributors from all over the world. In order to link to, and provide offline details about cities, attractions and many other points-of-interest, we rely on the articles and photos of the global Wikipedia, Wikidata, and Wikimedia Commons communities."
+    title: "Powered by open data commons"
   history:
     items:
       - text: "Creazione dell'app di navigazione MapsWithMe (successivamente rinominata in Maps.me)."

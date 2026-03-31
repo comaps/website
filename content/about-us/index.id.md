@@ -3,8 +3,14 @@ description: "Navigasi gratis dan terbuka yang menjaga privasi -<br/>Dibangun ol
 extra:
   about:
     media: /images/about-us/about.png
-    text: "CoMaps adalah aplikasi navigasi yang menjaga privasi dan berfokus pada komunitas untuk para wisatawan dan petualang — baik pengemudi, pendaki, maupun pesepeda. Aplikasi ini memanfaatkan data OpenStreetMap hasil urun daya dari para kontributor di seluruh dunia. CoMaps menawarkan navigasi yang menjaga privasi — tanpa identifikasi pengguna dan tanpa pengumpulan data. Fitur CoMaps dapat beroperasi tanpa koneksi internet aktif untuk navigasi offline di perkotaan atau lokasi terpencil yang tidak terjangkau sinyal seluler. CoMaps adalah proyek sumber terbuka yang memprioritaskan pengembangan komunitas."
+    text: "CoMaps is a community-focused privacy navigation app for travelers - drivers, hikers, and cyclists. It offers navigation with privacy - no identifying people and no data collection. CoMaps features can operate without an active internet connection for offline navigation at urban or distant locations, where cellular service is not available. CoMaps is an open-source project, and prioritizes community development."
     title: "Navigasi gratis dan terbuka yang menjaga privasi, dibangun oleh komunitas"
+  data:
+    link_text: "Learn more about all of our open data sources"
+    media_osm: /images/about-us/OSM.png
+    media_wikipedia: /images/about-us/Wikidata_stamp.png
+    text: "CoMaps is made possible thanks to the labor of communities who help create and maintain the open data that powers our app: Our maps use OpenStreetMap data, made and maintained by thousands of contributors from all over the world. In order to link to, and provide offline details about cities, attractions and many other points-of-interest, we rely on the articles and photos of the global Wikipedia, Wikidata, and Wikimedia Commons communities."
+    title: "Powered by open data commons"
   history:
     items:
       - text: "Aplikasi navigasi MapsWithMe dibuat (kemudian berganti nama menjadi Maps.me)."
