@@ -3,14 +3,14 @@ description: "Vaba, avatud ja tasuta kaardirakendus, mis arvestab privaatsusega 
 extra:
   about:
     media: /images/about-us/about.png
-    text: "CoMaps is a community-focused privacy navigation app for travelers - drivers, hikers, and cyclists. It offers navigation with privacy - no identifying people and no data collection. CoMaps features can operate without an active internet connection for offline navigation at urban or distant locations, where cellular service is not available. CoMaps is an open-source project, and prioritizes community development."
+    text: "CoMaps on kogukonnale suunatud privaatne kaardirakendus reisijatele - autojuhtidele, matkajatele ja jalgratturitele. Tee juhatamine toimib privaatselt - rakendus ei tuvasta kasutajaid ega kogu nende kohta andmeid. CoMap töötab ilma aktiivse internetiühenduseta ja seega võimaldab tee juhatamist kohtades, kus mobiilsideteenus ei ole kättesaadav või asjatult kallis. CoMaps on avatud lähtekoodiga projekt, mis seab esikohale kogukonna arengu."
     title: "Vaba, avatud ja tasuta kaardirakendus, mis arvestab privaatsusega, loodud kogukonna poolt"
   data:
     link_text: "Learn more about all of our open data sources"
     media_osm: /images/about-us/OSM.png
     media_wikipedia: /images/about-us/Wikidata_stamp.png
-    text: "CoMaps is made possible thanks to the labor of communities who help create and maintain the open data that powers our app: Our maps use OpenStreetMap data, made and maintained by thousands of contributors from all over the world. In order to link to, and provide offline details about cities, attractions and many other points-of-interest, we rely on the articles and photos of the global Wikipedia, Wikidata, and Wikimedia Commons communities."
-    title: "Powered by open data commons"
+    text: "CoMaps on saanud teoks tänu kogukondadele, kes aitavad luua ja hooldada avaandmeid, millel meie rakendus põhineb: meie kaartidel kasutatakse OpenStreetMapi andmeid, mida loovad ja hooldavad tuhanded kaastöötajad üle kogu maailma. Linnade, vaatamisväärsuste ja paljude teiste huviväärsuste kohta viidete loomiseks ning nende kohta vallasrežiimis kasutatava teabe pakkumiseks toetume ülemaailmsete Vikipeedia, Wikidata ja Wikimedia Commonsi kogukondade artiklitele ja fotodele."
+    title: "Aluseks on üldised avaandmed"
   history:
     items:
       - text: "MapsWithMe kaardirakendus on saadaval (hilisema nimega Maps.me)."

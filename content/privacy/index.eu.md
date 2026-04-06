@@ -1,14 +1,14 @@
 ---
-title: Privacy
+title: Pribatutasuna
 weight: 900
 ---
 
-At CoMaps, we respect your privacy. CoMaps does not have any form of
-identification of people, advertising, or personal data collection.
+CoMaps-ek zure pribatutasuna errespetatzen du. CoMaps-ek ez du inolako
+identifikazio pertsonalik, publizitaterik edo datu pertsonalik biltzen.
 
 CoMaps-ek ez dizu jarraipena egiten.
 
 Galdera edo iradokizunik baduzu, jar zaitez gurekin harremanetan
 legal@comaps.app helbidera
 
-Policy effective: 2025-05-01
+Politika indarrean dagoen data: 2025-05-01

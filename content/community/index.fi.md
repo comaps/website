@@ -5,7 +5,7 @@ extra:
     description: "Sovelluksen ylläpito ja kehitys mahdollistetaan lahjoituksilla, auta parantamaan sitä"
     title: Lahjoita
   features:
-    - description: "Report bugs, discuss ideas, and propose features"
+    - description: "Raportoi virheistä, keskustele ideoista ja ehdota ominaisuuksia"
       icon: chats.svg
       link: https://codeberg.org/comaps/comaps/issues
       title: "**Raportoi** virheistä"

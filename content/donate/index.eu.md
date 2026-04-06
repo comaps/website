@@ -13,7 +13,7 @@ extra:
   funding:
     items:
       - media: /images/donate/infrastructure.webp
-        text: "We have to keep up fast servers, to update the map files and for you to download them without delays. The maps data transfers make up large, and growing, amounts of data each month."
+        text: "Zerbitzari azkarrak izaten jarraitu behar dugu, mapa-fitxategiak eguneratzeko eta atzerapenik gabe deskargatzeko. Mapen datu-transferentziek datu-kopuru handiak eta gero eta handiagoak osatzen dituzte hilero."
         title: Azpiegitura
       - media: /images/donate/support.webp
         text: "Gure lehentasunak erabiltzailearen laguntza, akatsak konpontzea eta aplikazioaren egonkortasuna hobetzea dira. Egunero hazten da akatsen eskaeren eta txostenen zerrenda, eta laguntza-eskaera asko daude erantzuteko App Store-n, Google Play-n eta posta elektronikoan."
@@ -25,9 +25,9 @@ extra:
   hero_description: "Donate and create better maps together!"
   info:
     - icon: static/images/icons/donate/icon01.svg
-      text: "We rely on your donations to keep CoMaps free to use"
+      text: "Zure dohaintzetan oinarritzen gara CoMaps erabiltzeko doan mantentzeko"
     - icon: static/images/icons/donate/icon02.svg
-      text: "We are a community contributing in our free time. We love what we do, and we love our users"
+      text: "Gure denbora librean auzolanean lan egiten duen komunitate bat gara. Maite dugu egiten duguna, eta maite ditugu gure erabiltzaileak"
     - icon: static/images/icons/donate/icon03.svg
       text: "Zure laguntzarekin, pribatutasunean oinarritutako mapetan nabigatzeko lan egiten dugu, merkatuko aukerarik gogokoena"
   service_text: ~

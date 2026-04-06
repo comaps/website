@@ -3,14 +3,14 @@ description: "Kostenlose, quelloffene Navigation mit Fokus auf Datenschutz -<br/
 extra:
   about:
     media: /images/about-us/about.png
-    text: "CoMaps is a community-focused privacy navigation app for travelers - drivers, hikers, and cyclists. It offers navigation with privacy - no identifying people and no data collection. CoMaps features can operate without an active internet connection for offline navigation at urban or distant locations, where cellular service is not available. CoMaps is an open-source project, and prioritizes community development."
+    text: "CoMaps ist eine community-orientierte Navigationsapp mit Fokus auf Datenschutz für Reisende - mit dem Auto, beim Wandern, beim Radfahren. Sie bietet Navigation mit Privatsphäre - keine Identifizierung von Personen und keine Datenerfassung. CoMaps funktioniert auch ohne Internetverbindung für die Offline-Navigation in Städten oder an entfernten Orten, wo kein Mobilfunknetz verfügbar ist. CoMaps ist ein Open-Source-Projekt, bei dem die Entwicklung der Community im Vordergrund steht."
     title: "Kostenlose, quelloffene Navigation mit Fokus auf Datenschutz, entwickelt von der Community"
   data:
     link_text: "Learn more about all of our open data sources"
     media_osm: /images/about-us/OSM.png
     media_wikipedia: /images/about-us/Wikidata_stamp.png
-    text: "CoMaps is made possible thanks to the labor of communities who help create and maintain the open data that powers our app: Our maps use OpenStreetMap data, made and maintained by thousands of contributors from all over the world. In order to link to, and provide offline details about cities, attractions and many other points-of-interest, we rely on the articles and photos of the global Wikipedia, Wikidata, and Wikimedia Commons communities."
-    title: "Powered by open data commons"
+    text: "CoMaps wird ermöglicht durch die Arbeit von Communities, welche die offenen Daten erstellen und pflegen, auf denen unsere App basiert: Unsere Karten nutzen Daten von OpenStreetMap, welche von Tausenden von Mitwirkenden weltweit erstellt und gepflegt werden. Um auf Städte, Sehenswürdigkeiten und viele andere interessante Orte zu verlinken und Offline-Informationen darüber bereitzustellen, greifen wir auf die Artikel und Fotos der globalen Wikipedia-, Wikidata- und anderer Wikimedia Commons-Gemeinschaften zurück."
+    title: "Ermöglicht durch offene Daten"
   history:
     items:
       - text: "MapsWithMe Navigations-App erstellt (später zu Maps.me umbenannt)."

@@ -3,7 +3,7 @@ description: "Avaa navigoinnin potentiaali! Tutustu ei-verkkotilassa oleviin kar
 extra:
   app_verifier:
     description: "Varmentaaksesi sovelluksen latauksen aitouden joko APK:n tai Obtainiumin kautta, voit käyttää seuraavaa sormenjälkeä:"
-    title: "Varmenna Android sovellus"
+    title: "Varmenna Android-sovellus"
   desktop_payment_methods_1: MacOS
   desktop_payment_methods_2: Linux
   desktop_payment_title: Desktop

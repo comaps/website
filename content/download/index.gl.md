@@ -2,8 +2,8 @@
 description: "Desbloquea o potencial da navegación! Descubre a aplicación de mapas sen conexión, ferramentas privadas, e xestionada pola comunidade"
 extra:
   app_verifier:
-    description: "To verify the app when downloading it as an APK or via Obtainium you can use this fingerprint:"
-    title: "Verifying the Android app"
+    description: "Podes usar esta impresión dixital para verificar a descarga da app tanto como APK como usando Obtainium:"
+    title: "Verificar a app Android"
   desktop_payment_methods_1: MacOS
   desktop_payment_methods_2: Linux
   desktop_payment_title: Desktop
@@ -18,7 +18,7 @@ extra:
   mobile_shop_name_4: AppGallery
   mobile_shop_name_5: Obtainium
   releases:
-    title: "Latest Releases"
+    title: "Últimas versións"
 template: download.html
 title: "Descarga CoMaps"
 weight: 10

@@ -26,8 +26,8 @@ extra:
         year: 2025
     title: Előzmények
   media_highlights:
-    description: "See the full list of media coverage about CoMaps."
-    title: "Media Highlights"
+    description: "Tekintse meg a CoMaps-ről szóló médiamegjelenések teljes listáját."
+    title: Médiamegjelenések
   vm:
     items:
       - icon: /images/icons/about/mission.svg

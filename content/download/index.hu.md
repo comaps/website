@@ -2,8 +2,8 @@
 description: "Fedezze fel a navigációban rejlő lehetőségeket! Fedezze fel az offline térképeket, az adatvédelemre összpontosító funkciókat és a közösség által irányított alkalmazást"
 extra:
   app_verifier:
-    description: "To verify the app when downloading it as an APK or via Obtainium you can use this fingerprint:"
-    title: "Verifying the Android app"
+    description: "Az alkalmazás hitelesítéséhez, ha APK-ként vagy Obtainiumon keresztül tölti le, az alábbi ujjlenyomatot használhatja:"
+    title: "Az Android-alkalmazás ellenőrzése"
   desktop_payment_methods_1: MacOS
   desktop_payment_methods_2: Linux
   desktop_payment_title: Desktop

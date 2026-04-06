@@ -3,14 +3,14 @@ description: "Navigation gratuite et ouverte respectant la vie privée -<br/>Cr�
 extra:
   about:
     media: /images/about-us/about.png
-    text: "CoMaps is a community-focused privacy navigation app for travelers - drivers, hikers, and cyclists. It offers navigation with privacy - no identifying people and no data collection. CoMaps features can operate without an active internet connection for offline navigation at urban or distant locations, where cellular service is not available. CoMaps is an open-source project, and prioritizes community development."
+    text: "CoMaps est une application de navigation respectueuse de la vie privée, axée sur la communauté, destinée aux voyageurs – automobilistes, randonneurs et cyclistes. Elle offre une navigation respectueuse de la vie privée : aucune identification des personnes et aucune collecte de données. Les fonctionnalités de CoMaps peuvent fonctionner sans connexion Internet active, permettant ainsi une navigation hors ligne en milieu urbain ou dans des zones reculées où le réseau mobile n'est pas disponible. CoMaps est un projet open source qui accorde la priorité au développement communautaire."
     title: "Navigation gratuite et ouverte respectant la vie privée, faite par la communauté"
   data:
     link_text: "Learn more about all of our open data sources"
     media_osm: /images/about-us/OSM.png
     media_wikipedia: /images/about-us/Wikidata_stamp.png
-    text: "CoMaps is made possible thanks to the labor of communities who help create and maintain the open data that powers our app: Our maps use OpenStreetMap data, made and maintained by thousands of contributors from all over the world. In order to link to, and provide offline details about cities, attractions and many other points-of-interest, we rely on the articles and photos of the global Wikipedia, Wikidata, and Wikimedia Commons communities."
-    title: "Powered by open data commons"
+    text: "CoMaps est rendu possible grâce aux travail de la communauté qui crée et maintient les données ouvertes qui alimentent notre application : notre carte utilise les données d'OpenStreetMap, faites et maintenues par des milliers de contributeurs autour du monde. De façon à mettre en lien et fournir des informations hors ligne sur les villes, attractions et nombreux autres points d'intérêt, nous nous appuyons sur les articles et photos de Wikipédia, Wikidata et de Wikimedia Commons communities."
+    title: "Propulsé par Open Data Commons"
   history:
     items:
       - text: "Création de l'application de navigation MapsWithMe (plus tard renommée Maps.me)."

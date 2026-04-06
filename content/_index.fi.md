@@ -18,7 +18,7 @@ extra:
           user: /images/sections/map-m-1.webp
         title: 'Ei-verkotilassa haku ja reititys'
       - 
-        description: 'Sovellus on suunniteltu yksityisyys edellä - se ei tunnista, seuraa tai kerää mitään tietoja käyttäjistä. CoMaps on myös auditoitu <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-exodus"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/) toimesta.'
+        description: 'Sovellus on suunniteltu yksityisyys edellä - se ei tunnista, seuraa tai kerää mitään tietoja käyttäjistä. CoMaps on myös auditoitu <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-exodus"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/)in toimesta.'
         highlight:
           icon: static/images/icons/home/shield.svg
           text: 'Yksityisyyttä oletuksena'
@@ -49,5 +49,5 @@ extra:
         title: 'Ilmainen ja yhteisön luoma'
 sort_by: weight
 template: home.html
-title: 'Hike, Bike, Drive Offline – Navigate with Privacy'
+title: 'Vaella, pyöräile tai aja ilman verkkoyhteyttä – yksityisesti'
 ---

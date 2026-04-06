@@ -3,12 +3,13 @@ title: Privacy
 weight: 900
 ---
 
-At CoMaps, we respect your privacy. CoMaps does not have any form of
-identification of people, advertising, or personal data collection.
+A CoMaps-nél tiszteletben tartjuk az Ön magánéletét. A CoMaps semmilyen
+formában nem azonosítja a felhasználókat, nem tartalmaz hirdetéseket és nem
+gyűjt személyes adatokat.
 
-CoMaps does not track you.
+A CoMaps nem követi Önt.
 
-If you have any questions or suggestions, please contact us at
-legal@comaps.app
+Ha bármilyen kérdése vagy javaslata van, kérjük, vegye fel velünk a
+kapcsolatot a legal@comaps.app e-mail címen
 
-Policy effective: 2025-05-01
+Az irányelv hatálybalépése: 2025-05-01

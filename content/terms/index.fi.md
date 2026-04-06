@@ -1,5 +1,5 @@
 ---
-title: Terms
+title: Ehdot
 weight: 1000
 ---
 
@@ -14,10 +14,11 @@ WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
 License for the specific language governing permissions and limitations
 under the License.
 
-Many libraries and 3rd party tools included into [CoMaps
-repository](https://codeberg.org/comaps/comaps) were developed by multiple
-people and organizations, and licensed in different ways. Please refer to
-their LICENSE, COPYING or NOTICE files for terms of use.
+Monet kirjastot ja kolmannen osapuolen työkalut, jotka on sisällytetty
+[CoMapsin tietovarastoon](https://codeberg.org/comaps/comaps), kehitettiin
+useiden eri ihmisten ja organisaatioiden toimesta, ja lisensoitiin eri
+tavoin. Näet kyseisten ohjelmistojen käyttöehdot niiden LICENSE-, COPYING-
+tai NOTICE-tiedostoista.
 
 Katso
 [data/copyright.html](https://codeberg.org/comaps/comaps/src/branch/main/data/copyright.html)

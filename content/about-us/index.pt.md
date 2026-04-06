@@ -3,14 +3,14 @@ description: "Navegação livre e gratuita com total privacidade -<br/>Construí
 extra:
   about:
     media: /images/about-us/about.png
-    text: "CoMaps is a community-focused privacy navigation app for travelers - drivers, hikers, and cyclists. It offers navigation with privacy - no identifying people and no data collection. CoMaps features can operate without an active internet connection for offline navigation at urban or distant locations, where cellular service is not available. CoMaps is an open-source project, and prioritizes community development."
+    text: "O CoMaps é um aplicação de navegação privada e centrada na comunidade feita para viajantes, condutores, caminhantes e ciclistas. Oferece navegação privada sem identificação e coleção de dados do utilizador. As funcionalidades do CoMaps estão disponíveis sem internet para uma navegação offline na cidade ou para grandes distâncias onde os dados moveis podem não estar disponíveis. O CoMaps é um projeto open-source e prioritiza o desenvolvimento pela comunidade."
     title: "Gratuito com navegação privada e aberta, construido pela comunidade"
   data:
     link_text: "Learn more about all of our open data sources"
     media_osm: /images/about-us/OSM.png
     media_wikipedia: /images/about-us/Wikidata_stamp.png
-    text: "CoMaps is made possible thanks to the labor of communities who help create and maintain the open data that powers our app: Our maps use OpenStreetMap data, made and maintained by thousands of contributors from all over the world. In order to link to, and provide offline details about cities, attractions and many other points-of-interest, we rely on the articles and photos of the global Wikipedia, Wikidata, and Wikimedia Commons communities."
-    title: "Powered by open data commons"
+    text: "Só é possível operar o CoMaps graças ao trabalho de comunidades que ajudam a criar e manter os dados abertos que fazem a aplicação funcionar: Os nossos mapas utilizam dados do OpenStreetMap, criados e mantidos por milhares de contribuidores do mundo inteiro. Para criar ligações e dar detalhes offline sobre cidades, atrações e outros pontos de interesse, utilizamos artigos e fotos das comunidades globais de Wikipedia, Wikidata e Wikimedia Commons."
+    title: "Possível graças a Open Data Commons"
   history:
     items:
       - text: "A aplicação de navegação MapsWithMe foi criada (mais tarde renomeada para Maps.me)."

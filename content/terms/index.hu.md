@@ -1,27 +1,31 @@
 ---
-title: Terms
+title: Feltételek
 weight: 1000
 ---
 
-This app is licensed under the Apache License, Version 2.0 (the "License");
-This application cannot be used except in compliance with the License.
+Ez az alkalmazás az Apache Licenc 2.0-s verziója (a „Licenc”) hatálya alá
+tartozik; az alkalmazás csak a Licencben foglaltaknak megfelelően
+használható.
 
-Read [the full license text](https://www.apache.org/licenses/LICENSE-2.0).
+Olvasd el a [teljes
+licencszöveget](https://www.apache.org/licenses/LICENSE-2.0).
 
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
-WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
-License for the specific language governing permissions and limitations
-under the License.
+Hacsak az alkalmazandó jogszabályok másként nem rendelkeznek, vagy írásos
+megállapodás nem születik, a Licenc alapján terjesztett szoftverek „ADOTT
+ÁLLAPOTBAN”, BÁRMILYEN KIFEJEZETT VAGY HALLGATÓLAGOS GARANCIA VAGY FELTÉTEL
+NÉLKÜL kerülnek terjesztésre. A Licenc szerinti konkrét jogosultságokért és
+korlátozásokért tekintse meg a Licencet.
 
-Many libraries and 3rd party tools included into [CoMaps
-repository](https://codeberg.org/comaps/comaps) were developed by multiple
-people and organizations, and licensed in different ways. Please refer to
-their LICENSE, COPYING or NOTICE files for terms of use.
+A [CoMaps repozitóriumban](https://codeberg.org/comaps/comaps) található
+számos könyvtárat és külső eszközt több különböző személy és szervezet
+fejlesztette és eltérő feltételekkel licencelték őket. A felhasználási
+feltételekért kérjük, olvassa el a hozzájuk tartozó LICENSE, COPYING vagy
+NOTICE fájlokat.
 
-See
+A CoMaps alkalmazással kapcsolatos szerzői jogi nyilatkozatok teljes
+listájáért tekintse meg a
 [data/copyright.html](https://codeberg.org/comaps/comaps/src/branch/main/data/copyright.html)
-file for a full list of copyright notices for the CoMaps application.
+fájlt.
 
-If you have any questions or suggestions, please contact us at
-legal@comaps.app
+Ha bármilyen kérdése vagy javaslata van, kérjük, vegye fel velünk a
+kapcsolatot a legal@comaps.app e-mail címen

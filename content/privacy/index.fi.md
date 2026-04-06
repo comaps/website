@@ -1,5 +1,5 @@
 ---
-title: Privacy
+title: Yksityisyys
 weight: 900
 ---
 

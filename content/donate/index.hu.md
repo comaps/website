@@ -19,7 +19,7 @@ extra:
         text: "A felhasználói támogatás, a hibák kijavítása és az alkalmazás stabilitásának javítása elsődleges fontosságú számunkra. A kérések és hibabejelentések listája napról napra növekszik, és számos támogatási kérelem érkezik az App Store-ba, a Google Play-be és a támogatási e-mailekbe."
         title: Támogatás
       - media: /images/donate/developers.webp
-        text: "Currently, all development is done by volunteers with limited time. To implement larger, more ambitious features, paying developers might be necessary in the future."
+        text: "Jelenleg a teljes fejlesztést önkéntesek végzik korlátozott szabadidőben. A nagyobb, ambiciózusabb funkciók megvalósításához a jövőben szükségessé válhat fizetett fejlesztők bevonása."
         title: Fejlesztők
     title: "Hogyan használjuk fel a befolyt adományokat?"
   hero_description: "Donate and create better maps together!"
