@@ -6,14 +6,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"Last-Translator: Fjuro <fjuro@alius.cz>\n"
+"PO-Revision-Date: 2026-04-03 00:57+0000\n"
+"Last-Translator: Fjuro <fjuro@noreply.codeberg.org>\n"
 "Language-Team: Czech <https://translate.codeberg.org/projects/comaps/website/cs/>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 5.15.2\n"
+"X-Generator: Weblate 5.16.2\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -335,10 +336,9 @@ msgstr "Bezplatná a otevřená navigace se soukromím -<br/>Vytvořená komunit
 
 #. type: Yaml Front Matter Hash Value: extra about text
 #: content/about-us/index.md
-#, fuzzy, no-wrap
-#| msgid "CoMaps is a community-focused privacy navigation app for travelers - drivers, hikers, and cyclists. It uses the crowd-sourced OpenStreetMap data with contributors from all over the globe. It offers navigation with privacy - no identifying people and no data collection. CoMaps features can operate without an active internet connection for offline navigation at urban or distant locations, where cellular service is not available. CoMaps is an open-source project, and prioritizes community development."
+#, no-wrap
 msgid "CoMaps is a community-focused privacy navigation app for travelers - drivers, hikers, and cyclists. It offers navigation with privacy - no identifying people and no data collection. CoMaps features can operate without an active internet connection for offline navigation at urban or distant locations, where cellular service is not available. CoMaps is an open-source project, and prioritizes community development."
-msgstr "CoMaps je komunitně zaměřená navigační aplikace pro cestovatele – řidiče, turisty a cyklisty – která dbá na ochranu soukromí. Využívá data z projektu OpenStreetMap, která jsou tvořena přispěvateli z celého světa. Nabízí navigaci s důrazem na soukromí – bez identifikace uživatelů a bez sběru dat. Funkce CoMaps lze používat i bez aktivního připojení k internetu, což umožňuje offline navigaci ve městech i na odlehlých místech, kde není dostupný mobilní signál. CoMaps je projekt s otevřeným zdrojovým kódem a klade důraz na konunitní vývoj."
+msgstr "CoMaps je komunitně zaměřená navigační aplikace pro cestovatele – řidiče, turisty a cyklisty – která dbá na ochranu soukromí. Nabízí navigaci s důrazem na soukromí – bez identifikace uživatelů a bez sběru dat. Funkce CoMaps lze používat i bez aktivního připojení k internetu, což umožňuje offline navigaci ve městech i na odlehlých místech, kde není dostupný mobilní signál. CoMaps je projekt s otevřeným zdrojovým kódem a klade důraz na konunitní vývoj."
 
 #. type: Yaml Front Matter Hash Value: extra about title
 #: content/about-us/index.md
@@ -350,13 +350,13 @@ msgstr "Bezplatná a otevřená navigace se soukromím, vytvořená komunitou"
 #: content/about-us/index.md
 #, no-wrap
 msgid "CoMaps is made possible thanks to the labor of communities who help create and maintain the open data that powers our app: Our maps use OpenStreetMap data, made and maintained by thousands of contributors from all over the world. In order to link to, and provide offline details about cities, attractions and many other points-of-interest, we rely on the articles and photos of the global Wikipedia, Wikidata, and Wikimedia Commons communities."
-msgstr ""
+msgstr "Aplikace CoMaps funguje díky práci komunit, které pomáhají vytvářet a spravovat otevřená data, na nichž je naše aplikace založena: Naše mapy využívají data z OpenStreetMap, která vytvářejí a spravují tisíce přispěvatelů z celého světa. Abychom mohli odkazovat na města, památky a mnoho dalších zajímavých míst a poskytovat o nich informace i v režimu offline, využíváme články a fotografie globálních komunit Wikipedie, Wikidat a Wikimedia Commons."
 
 #. type: Yaml Front Matter Hash Value: extra data title
 #: content/about-us/index.md
 #, no-wrap
 msgid "Powered by open data commons"
-msgstr ""
+msgstr "S využitím Open Data Commons"
 
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md

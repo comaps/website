@@ -6,6 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
+"PO-Revision-Date: 2026-04-03 22:57+0000\n"
 "Last-Translator: Mickael81 <mickael81@noreply.codeberg.org>\n"
 "Language-Team: French <https://translate.codeberg.org/projects/comaps/website/fr/>\n"
 "Language: fr\n"
@@ -13,7 +14,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.15.2\n"
+"X-Generator: Weblate 5.16.2\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -335,10 +336,9 @@ msgstr "Navigation gratuite et ouverte respectant la vie privée -<br/>Créée p
 
 #. type: Yaml Front Matter Hash Value: extra about text
 #: content/about-us/index.md
-#, fuzzy, no-wrap
-#| msgid "CoMaps is a community-focused privacy navigation app for travelers - drivers, hikers, and cyclists. It uses the crowd-sourced OpenStreetMap data with contributors from all over the globe. It offers navigation with privacy - no identifying people and no data collection. CoMaps features can operate without an active internet connection for offline navigation at urban or distant locations, where cellular service is not available. CoMaps is an open-source project, and prioritizes community development."
+#, no-wrap
 msgid "CoMaps is a community-focused privacy navigation app for travelers - drivers, hikers, and cyclists. It offers navigation with privacy - no identifying people and no data collection. CoMaps features can operate without an active internet connection for offline navigation at urban or distant locations, where cellular service is not available. CoMaps is an open-source project, and prioritizes community development."
-msgstr "CoMaps est une application de navigation créée par la communauté et privée pour les voyageurs - conducteurs, randonneurs et cyclistes. Elle utilise les données communautaires OpenStreetMap avec des contributeurs du monde entier. Elle offre une expérience de navigation privée - n’identifie pas les utilisateurs et ne collecte pas de données. Les fonctionnalités de CoMaps peuvent fonctionner sans connexion internet active pour une navigation hors-ligne dans les zones urbaines ou éloignées, où le réseau mobile n’est pas disponible. CoMaps est un projet open source et priorise le développement communautaire."
+msgstr "CoMaps est une application de navigation respectueuse de la vie privée, axée sur la communauté, destinée aux voyageurs – automobilistes, randonneurs et cyclistes. Elle offre une navigation respectueuse de la vie privée : aucune identification des personnes et aucune collecte de données. Les fonctionnalités de CoMaps peuvent fonctionner sans connexion Internet active, permettant ainsi une navigation hors ligne en milieu urbain ou dans des zones reculées où le réseau mobile n'est pas disponible. CoMaps est un projet open source qui accorde la priorité au développement communautaire."
 
 #. type: Yaml Front Matter Hash Value: extra about title
 #: content/about-us/index.md
@@ -350,13 +350,13 @@ msgstr "Navigation gratuite et ouverte respectant la vie privée, faite par la c
 #: content/about-us/index.md
 #, no-wrap
 msgid "CoMaps is made possible thanks to the labor of communities who help create and maintain the open data that powers our app: Our maps use OpenStreetMap data, made and maintained by thousands of contributors from all over the world. In order to link to, and provide offline details about cities, attractions and many other points-of-interest, we rely on the articles and photos of the global Wikipedia, Wikidata, and Wikimedia Commons communities."
-msgstr ""
+msgstr "CoMaps est rendu possible grâce aux travail de la communauté qui crée et maintient les données ouvertes qui alimentent notre application : notre carte utilise les données d'OpenStreetMap, faites et maintenues par des milliers de contributeurs autour du monde. De façon à mettre en lien et fournir des informations hors ligne sur les villes, attractions et nombreux autres points d'intérêt, nous nous appuyons sur les articles et photos de Wikipédia, Wikidata et de Wikimedia Commons communities."
 
 #. type: Yaml Front Matter Hash Value: extra data title
 #: content/about-us/index.md
 #, no-wrap
 msgid "Powered by open data commons"
-msgstr ""
+msgstr "Propulsé par Open Data Commons"
 
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md
