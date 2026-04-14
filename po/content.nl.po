@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"PO-Revision-Date: 2026-04-03 04:57+0000\n"
-"Last-Translator: Stephan-P <stephan-p@noreply.codeberg.org>\n"
+"PO-Revision-Date: 2026-04-06 20:57+0000\n"
+"Last-Translator: Bovi887 <bovi887@noreply.codeberg.org>\n"
 "Language-Team: Dutch <https://translate.codeberg.org/projects/comaps/website/nl/>\n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
@@ -338,7 +338,7 @@ msgstr "Gratis en open navigatie met privacy -<br/>Gemaakt door de community"
 #: content/about-us/index.md
 #, no-wrap
 msgid "CoMaps is a community-focused privacy navigation app for travelers - drivers, hikers, and cyclists. It offers navigation with privacy - no identifying people and no data collection. CoMaps features can operate without an active internet connection for offline navigation at urban or distant locations, where cellular service is not available. CoMaps is an open-source project, and prioritizes community development."
-msgstr "CoMaps is een op de community gerichte privacy vriendelijke navigatie app voor reizigers - chauffeurs, wandelaars en fietsers. Het biedt navigatie met privacy - zonder gegevensverzameling. De functies van CoMaps kunnen werken zonder een internetverbinding voor offline navigatie op stedelijke of afgelegen locaties, waar internet niet beschikbaar is. CoMaps is een open source project en geeft prioriteit aan ontwikkeling met de community."
+msgstr "CoMaps is een communitygerichte, privacygerichte navigatie-app voor reizigers - automobilisten, wandelaars en fietsers. Het biedt navigatie met privacy - zonder identificatie van personen en zonder gegevensverzameling. De functies van CoMaps werken ook zonder actieve internetverbinding voor offline navigatie op stedelijke of afgelegen locaties, waar geen mobiel netwerk beschikbaar is. CoMaps is een open source-project en geeft prioriteit aan ontwikkeling met de community."
 
 #. type: Yaml Front Matter Hash Value: extra about title
 #: content/about-us/index.md

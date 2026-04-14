@@ -6,6 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
+"PO-Revision-Date: 2026-04-07 08:57+0000\n"
 "Last-Translator: Outbreak2096 <outbreak2096@noreply.codeberg.org>\n"
 "Language-Team: Chinese (Simplified Han script) <https://translate.codeberg.org/projects/comaps/website/zh_Hans/>\n"
 "Language: zh-Hans\n"
@@ -13,7 +14,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.15.2\n"
+"X-Generator: Weblate 5.16.2\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -335,10 +336,9 @@ msgstr "隐私保护下的免费开放导航 -<br/>由社区共同创建"
 
 #. type: Yaml Front Matter Hash Value: extra about text
 #: content/about-us/index.md
-#, fuzzy, no-wrap
-#| msgid "CoMaps is a community-focused privacy navigation app for travelers - drivers, hikers, and cyclists. It uses the crowd-sourced OpenStreetMap data with contributors from all over the globe. It offers navigation with privacy - no identifying people and no data collection. CoMaps features can operate without an active internet connection for offline navigation at urban or distant locations, where cellular service is not available. CoMaps is an open-source project, and prioritizes community development."
+#, no-wrap
 msgid "CoMaps is a community-focused privacy navigation app for travelers - drivers, hikers, and cyclists. It offers navigation with privacy - no identifying people and no data collection. CoMaps features can operate without an active internet connection for offline navigation at urban or distant locations, where cellular service is not available. CoMaps is an open-source project, and prioritizes community development."
-msgstr "CoMaps 是一个以社区为中心的隐私导航应用，适用于旅行者⸺司机、驴友和骑友。本应用使用众包的 OpenStreetMap 数据，贡献者来自世界各地。本应用无法识别用户身份，也无法收集用户数据⸺在整个导航过程中，您的隐私都会受到双管齐下的保护。CoMaps 功能无需网络连接即可运行，以便在没有移动网络的城市或偏远地区进行离线导航。CoMaps 是一个优先考虑社区发展的开源项目。"
+msgstr "CoMaps 是一款面向旅行者（包括驾驶者、徒步者和骑行者）的、以社区为中心的隐私导航应用。本应用提供注重隐私的导航服务，不识别用户身份，也不收集数据。CoMaps 功能无需互联网连接即可运行，以便在无网络连接的城市或偏远地区进行离线导航。CoMaps 是一个优先考虑社区发展的开源项目。"
 
 #. type: Yaml Front Matter Hash Value: extra about title
 #: content/about-us/index.md
@@ -350,13 +350,13 @@ msgstr "隐私保护下的免费开放导航，由社区共同创建"
 #: content/about-us/index.md
 #, no-wrap
 msgid "CoMaps is made possible thanks to the labor of communities who help create and maintain the open data that powers our app: Our maps use OpenStreetMap data, made and maintained by thousands of contributors from all over the world. In order to link to, and provide offline details about cities, attractions and many other points-of-interest, we rely on the articles and photos of the global Wikipedia, Wikidata, and Wikimedia Commons communities."
-msgstr ""
+msgstr "CoMaps 的实现离不开众多社区的辛勤付出，正是他们协助创建并维护了支撑我们应用的开放数据：我们的地图使用 OpenStreetMap 数据，这些数据由来自世界各地的数千名贡献者创建和维护。为了链接到城市、景点和许多其他兴趣点并提供离线详情，我们依赖于全球维基百科、维基数据和维基共享资源社区的文章和照片。"
 
 #. type: Yaml Front Matter Hash Value: extra data title
 #: content/about-us/index.md
 #, no-wrap
 msgid "Powered by open data commons"
-msgstr ""
+msgstr "由开放数据共享平台提供支持"
 
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md
