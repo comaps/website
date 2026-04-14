@@ -18,21 +18,28 @@ Since the split in April 2025, CoMaps has developed a number of features:
 - Routing options: Can avoid paved or unpaved roads, as well as steps
 - More dense/detailed altitude contour lines for many regions
 - Customizable button on home screen
-- Improved OpenStreetMap functionality: 
+- Improved built-in OpenStreetMap editor: 
   - Improved editor and support for OSM Notes
-  display of POI "last checked" date
-  - option to mark businesses as vacant
+  - add/update "last checked" date when adding/editing POI
+  - option to mark businesses as vacant or disused
   - more objects and POI can be added to OSM (e.g. addresses, vending machines, visitor centers, religion-specific places of worship)
 - Better visibility for many map objects, and enhanced map colors for light and dark modes
 - Improvements to search
 - Additional Points of Interest on the map
 - Removed semi-transparent background from Subway layer
 - Improved layouts for Right-to-Left languages
-- Panoramax picture links in Points of Interest
+- Added further languages for offline Wikipedia articles
+- Included country-specific road shields for more countries
+- Added more details to POI pages:
+  - Display the "last checked" date of POI
+  - Added Panoramax picture links where available
+  - Display population of localities
+  - Display number of rooms of venues
+  - Add links to Mastodon & Bluesky where available
+  - Display availability of organic options
 - On Android: 
   - Automatic backups for favorites (bookmarks, tracks)
   - Increased details about charging stations for electrical vehicles and ability to add/edit these
-  - Customizable button on home screen
   - Ability to use a custom map server.
   - Improved UI and zoom handling during navigation 
   - New Material 3 UI 
