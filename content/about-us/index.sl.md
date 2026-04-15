@@ -3,14 +3,14 @@ description: "Brezplačno, odprto in zasebno usmerjanje – <br/>Ustvarjeno v sk
 extra:
   about:
     media: /images/about-us/about.png
-    text: "CoMaps is a community-focused privacy navigation app for travelers - drivers, hikers, and cyclists. It offers navigation with privacy - no identifying people and no data collection. CoMaps features can operate without an active internet connection for offline navigation at urban or distant locations, where cellular service is not available. CoMaps is an open-source project, and prioritizes community development."
+    text: "CoMaps je orodje za potno usmerjanje, ki je osredotočeno na skupnost in namenjena popotnikom – voznikom, pohodnikom in kolesarjem. Omogoča zasebno usmerjanje – brez prepoznave oseb in zbiranja podatkov. Zmogljivosti CoMaps delujejo tudi brez spletne povezave za potno usmerjanje v mestnih ali odročnih krajih, kjer mobilni podatki niso na voljo. CoMaps je odprtokodni projekt, ki daje prednost razvoju v skupnosti."
     title: "Brezplačno in odprto usmerjanje, zasebno in narejeno s strani skupnosti"
   data:
     link_text: "Learn more about all of our open data sources"
     media_osm: /images/about-us/OSM.png
     media_wikipedia: /images/about-us/Wikidata_stamp.png
-    text: "CoMaps is made possible thanks to the labor of communities who help create and maintain the open data that powers our app: Our maps use OpenStreetMap data, made and maintained by thousands of contributors from all over the world. In order to link to, and provide offline details about cities, attractions and many other points-of-interest, we rely on the articles and photos of the global Wikipedia, Wikidata, and Wikimedia Commons communities."
-    title: "Powered by open data commons"
+    text: "Orodje CoMaps deluje zahvaljujoč prizadevanjem skupnosti, ki pomaga ustvarjati in vzdrževati odprte podatke, na katerih temelji naše orodje: naši zemljevidi uporabljajo podatke OpenStreetMap, ki jih ustvarjajo in vzdržujejo tisoči sodelavcev z vsega sveta. Da bi lahko prikazovali povezave in zagotavljali podatke za uporabo brez internetne povezave o mestih, znamenitostih in številnih drugih točkah zanimanja, se opiramo na članke in fotografije svetovnih skupnosti Wikipedije, Wikipodatkov in Wikimedijine zbirke."
+    title: "Osnovano na odprtih podatkih"
   history:
     items:
       - text: "Ustvarjeno usmerjevalno orodje MapsWithMe (kasneje preimenovano v Maps.me)."

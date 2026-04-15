@@ -2,7 +2,7 @@
 description: "Desbloqueie o potencial da navegação! Descubra mapas offline, funcionalidades centradas em privacidade e um aplicativo desenvolvido pela comunidade"
 extra:
   app_verifier:
-    description: "Para verificar o aplicativo ao baixá-lo como um APK ou através do Obtainium, você pode usar esta impressão digital:"
+    description: "Para verificar o aplicativo ao baixá-lo como um APK ou através do Obtainium, você pode usar esta fingerprint:"
     title: "Verificando o aplicativo de Android"
   desktop_payment_methods_1: MacOS
   desktop_payment_methods_2: Linux

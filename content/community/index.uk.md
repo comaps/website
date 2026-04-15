@@ -5,7 +5,7 @@ extra:
     description: "Застосунок працює завдяки вашим пожертвам, допоможіть покращити його"
     title: Пожертвувати
   features:
-    - description: "Report bugs, discuss ideas, and propose features"
+    - description: "Повідомляйте про помилки, обговорюйте ідеї та пропонуйте функції"
       icon: chats.svg
       link: https://codeberg.org/comaps/comaps/issues
       title: "**Повідомте** про помилки"

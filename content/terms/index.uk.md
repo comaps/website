@@ -1,5 +1,5 @@
 ---
-title: Terms
+title: Умови
 weight: 1000
 ---
 
@@ -7,7 +7,8 @@ weight: 1000
 "Ліцензія"); Ви не можете використовувати цей застосунок, за винятком
 випадків, передбачених Ліцензією.
 
-Read [the full license text](https://www.apache.org/licenses/LICENSE-2.0).
+Прочитайте [повний текст
+ліцензії](https://www.apache.org/licenses/LICENSE-2.0).
 
 Якщо цього не вимагає чинне законодавство або не погоджено в письмовій
 формі, програмне забезпечення, що розповсюджується за цією Ліцензією,
@@ -15,14 +16,14 @@ Read [the full license text](https://www.apache.org/licenses/LICENSE-2.0).
 явних або неявних. Дивіться Ліцензію, щоб дізнатися про конкретні
 формулювання, що регулюють дозволи та обмеження за цією Ліцензією.
 
-Many libraries and 3rd party tools included into [CoMaps
-repository](https://codeberg.org/comaps/comaps) were developed by multiple
-people and organizations, and licensed in different ways. Please refer to
-their LICENSE, COPYING or NOTICE files for terms of use.
+Багато бібліотек та сторонніх інструментів, включених до [репозиторію
+CoMaps](https://codeberg.org/comaps/comaps), були розроблені різними людьми
+та організаціями та ліцензовані на різних умовах. Зверніться до їхніх файлів
+LICENSE, COPYING або NOTICE, щоб ознайомитися з умовами використання.
 
-See
-[data/copyright.html](https://codeberg.org/comaps/comaps/src/branch/main/data/copyright.html)
-file for a full list of copyright notices for the CoMaps application.
+Повний список повідомлень про авторські права для застосунку CoMaps дивіться
+у файлі
+[data/copyright.html](https://codeberg.org/comaps/comaps/src/branch/main/data/copyright.html).
 
 Якщо у вас є запитання або пропозиції, будь ласка, зв'яжіться з нами за
 адресою legal@comaps.app

@@ -49,5 +49,5 @@ extra:
         title: 'Grátis e Construído pela Comunidade'
 sort_by: weight
 template: home.html
-title: 'Caminhe, Ande de Bicicleta e Dirija Off-line — Navegue com Privacidade'
+title: 'Caminhe, Ande de Bicicleta e Dirija Offline — Navegue com Privacidade'
 ---

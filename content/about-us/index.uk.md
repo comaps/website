@@ -3,14 +3,14 @@ description: "Безкоштовна та відкрита навігація з
 extra:
   about:
     media: /images/about-us/about.png
-    text: "CoMaps is a community-focused privacy navigation app for travelers - drivers, hikers, and cyclists. It offers navigation with privacy - no identifying people and no data collection. CoMaps features can operate without an active internet connection for offline navigation at urban or distant locations, where cellular service is not available. CoMaps is an open-source project, and prioritizes community development."
+    text: "CoMaps — це орієнтований на спільноту навігаційний застосунок, що піклується про приватність мандрівників: водіїв, туристів та велосипедистів. Застосунок пропонує навігацію із захистом приватності — без ідентифікації осіб та збору даних. Функції CoMaps можуть працювати без активного інтернет-з’єднання для автономної навігації в містах або віддалених місцях, де немає мобільного зв’язку. CoMaps — це відкритий проєкт, пріоритетом якого є розвиток спільноти."
     title: "Вільна та відкрита навігація з фокусом на приватність, створена спільнотою"
   data:
     link_text: "Learn more about all of our open data sources"
     media_osm: /images/about-us/OSM.png
     media_wikipedia: /images/about-us/Wikidata_stamp.png
-    text: "CoMaps is made possible thanks to the labor of communities who help create and maintain the open data that powers our app: Our maps use OpenStreetMap data, made and maintained by thousands of contributors from all over the world. In order to link to, and provide offline details about cities, attractions and many other points-of-interest, we rely on the articles and photos of the global Wikipedia, Wikidata, and Wikimedia Commons communities."
-    title: "Powered by open data commons"
+    text: "CoMaps став можливим завдяки праці спільнот, які допомагають створювати та підтримувати відкриті дані, що забезпечують роботу нашого застосунку: наші мапи використовують дані OpenStreetMap, створені та підтримувані тисячами учасників з усього світу. Щоби посилатися на міста, пам’ятки та багато інших цікавих місць, а також надавати інформацію про них без мережі, ми покладаємося на статті та фотографії глобальних спільнот Вікіпедії, Вікіданих та Вікісховища."
+    title: "На основі Open Data Commons"
   history:
     items:
       - text: "Застосунок для навігації MapsWithMe було створено (пізніше перейменовано на Maps.me)."
@@ -26,8 +26,8 @@ extra:
         year: 2025
     title: Історія
   media_highlights:
-    description: "See the full list of media coverage about CoMaps."
-    title: "Media Highlights"
+    description: "Перегляньте повний список згадок про CoMaps у медіа."
+    title: "Головне у ЗМІ"
   vm:
     items:
       - icon: /images/icons/about/mission.svg

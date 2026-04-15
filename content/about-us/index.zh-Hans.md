@@ -3,14 +3,14 @@ description: "隐私保护下的免费开放导航 -<br/>由社区共同创建"
 extra:
   about:
     media: /images/about-us/about.png
-    text: "CoMaps is a community-focused privacy navigation app for travelers - drivers, hikers, and cyclists. It offers navigation with privacy - no identifying people and no data collection. CoMaps features can operate without an active internet connection for offline navigation at urban or distant locations, where cellular service is not available. CoMaps is an open-source project, and prioritizes community development."
+    text: "CoMaps 是一款面向旅行者（包括驾驶者、徒步者和骑行者）的、以社区为中心的隐私导航应用。本应用提供注重隐私的导航服务，不识别用户身份，也不收集数据。CoMaps 功能无需互联网连接即可运行，以便在无网络连接的城市或偏远地区进行离线导航。CoMaps 是一个优先考虑社区发展的开源项目。"
     title: 隐私保护下的免费开放导航，由社区共同创建
   data:
     link_text: "Learn more about all of our open data sources"
     media_osm: /images/about-us/OSM.png
     media_wikipedia: /images/about-us/Wikidata_stamp.png
-    text: "CoMaps is made possible thanks to the labor of communities who help create and maintain the open data that powers our app: Our maps use OpenStreetMap data, made and maintained by thousands of contributors from all over the world. In order to link to, and provide offline details about cities, attractions and many other points-of-interest, we rely on the articles and photos of the global Wikipedia, Wikidata, and Wikimedia Commons communities."
-    title: "Powered by open data commons"
+    text: "CoMaps 的实现离不开众多社区的辛勤付出，正是他们协助创建并维护了支撑我们应用的开放数据：我们的地图使用 OpenStreetMap 数据，这些数据由来自世界各地的数千名贡献者创建和维护。为了链接到城市、景点和许多其他兴趣点并提供离线详情，我们依赖于全球维基百科、维基数据和维基共享资源社区的文章和照片。"
+    title: 由开放数据共享平台提供支持
   history:
     items:
       - text: "MapsWithMe 导航应用诞生（后更名为 Maps.me）。"
