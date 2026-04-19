@@ -1,9 +1,9 @@
 ---
-description: "Ontdek de potentie van navigatie! Verken offline kaarten, privacygerichte functies en een door de community ontwikkelde app"
+description: "Dialwedha an potencyal a navigacyon! Trovya mappys dhywarlinen, nasyow privedh, hag app selys war'n gemeneth"
 extra:
   app_verifier:
-    description: "Om de app te verifiëren bij het downloaden als APK of via Obtainium kunt u deze vingerafdruk gebruiken:"
-    title: "Verifiëren van de Android app"
+    description: "To verify the app when downloading it as an APK or via Obtainium you can use this fingerprint:"
+    title: "Verifying the Android app"
   desktop_payment_methods_1: MacOS
   desktop_payment_methods_2: Linux
   desktop_payment_title: Desktop
@@ -18,8 +18,8 @@ extra:
   mobile_shop_name_4: AppGallery
   mobile_shop_name_5: Obtainium
   releases:
-    title: "Laatste releases"
+    title: "Latest Releases"
 template: download.html
-title: "Download CoMaps"
+title: "Iskarga CoMaps"
 weight: 10
 ---

@@ -21,7 +21,7 @@ extra:
       icon: Translate.svg
       link: https://codeberg.org/comaps/comaps/src/branch/main/docs/TRANSLATIONS.md
       title: "**Vertaal** tekst"
-    - description: "Voeg informatie over winkels, punten van interesse, trails en openbaar vervoer toe aan OpenStreetMap"
+    - description: "Voeg informatie over winkels, bezienswaardigheden, paden en openbaar vervoer toe aan OpenStreetMap"
       icon: MapPinLine.svg
       link: /support/editing-with-CoMaps
       title: "**Voeg** plaatsinfo toe"

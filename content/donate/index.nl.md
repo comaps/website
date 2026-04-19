@@ -13,13 +13,13 @@ extra:
   funding:
     items:
       - media: /images/donate/infrastructure.webp
-        text: "We moeten snelle servers bijhouden om de kaartbestanden bij te werken en jou deze zonder vertragingen te laten downloaden. Deze overdrachten vormen elke maand grote en groeiende hoeveelheden gegevens."
-        title: infrastructuur
+        text: "We moeten snelle servers onderhouden om de kaartbestanden bij te werken en jou deze zonder vertragingen te laten downloaden. Deze overdrachten vormen elke maand grote en groeiende hoeveelheden gegevens."
+        title: Infrastructuur
       - media: /images/donate/support.webp
-        text: "Gebruikerssupport, het oplossen van bugs en het verbeteren van de stabiliteit van de app hebben onze hoogste prioriteit. De lijst met verzoeken en bugs groeit dagelijks, en er zijn veel vragen die beantwoord moeten worden in de App Store, Google Play en via e-mail."
+        text: "Gebruikerssupport, het oplossen van bugs en het verbeteren van de stabiliteit van de app hebben onze hoogste prioriteit. De lijst met verzoeken en bugs groeit dagelijks en er zijn veel vragen om te beantwoorden in de App Store, Google Play en via e-mail."
         title: Ondersteuning
       - media: /images/donate/developers.webp
-        text: "Momenteel wordt alle ontwikkeling gedaan door vrijwilligers in hun vrije tijd. Voor de implementatie van grotere, ambitieuzere functies, kunnen in de toekomst betalende ontwikkelaars nodig zijn."
+        text: "Momenteel wordt alle ontwikkeling gedaan door vrijwilligers in hun vrije tijd. Voor de implementatie van grotere, ambitieuzere functies kunnen in de toekomst betaalde ontwikkelaars nodig zijn."
         title: Ontwikkelaars
     title: "Hoe zal de financiering worden gebruikt?"
   hero_description: "Donate and create better maps together!"
