@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"PO-Revision-Date: 2026-04-06 20:57+0000\n"
+"PO-Revision-Date: 2026-04-18 05:57+0000\n"
 "Last-Translator: Bovi887 <bovi887@noreply.codeberg.org>\n"
 "Language-Team: Dutch <https://translate.codeberg.org/projects/comaps/website/nl/>\n"
 "Language: nl\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.16.2\n"
+"X-Generator: Weblate 5.17\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -26,7 +26,7 @@ msgstr "Ontdek meer van je reis - Mogelijk gemaakt door de community"
 #: content/_index.md
 #, no-wrap
 msgid "Discover your journey, navigate the world with privacy and community at the forefront."
-msgstr "Ontdek je reis, navigeer de wereld met privacy en de community voorop."
+msgstr "Ontdek je reis. Navigeer de wereld met privacy en de community voorop."
 
 #. type: Yaml Front Matter Hash Value: extra freedom title
 #: content/_index.md
@@ -44,7 +44,7 @@ msgstr "Community + Open kaarten"
 #: content/_index.md
 #, no-wrap
 msgid "Plan and navigate your trip abroad with just GPS, no need for mobile data. Search waypoints while on distant hiking trails or bike paths."
-msgstr "Plan en navigeer je reis in het buitenland met alleen GPS en zonder mobiele data. Zoek routepunten terwijl je op verre wandel- of fietspaden bent."
+msgstr "Plan en navigeer je reis in het buitenland met alleen gps, zonder mobiele data. Zoek plekken langs je route op afgelegen wandel- of fietspaden."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
@@ -56,13 +56,13 @@ msgstr "Geen internet nodig"
 #: content/_index.md
 #, no-wrap
 msgid "Offline Search and Route"
-msgstr "Offline zoeken en route planning"
+msgstr "Offline zoeken en routes plannen"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
 #, no-wrap
 msgid "The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information. CoMaps was also audited by <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-exodus\"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/)."
-msgstr "De app is ontworpen met het oog op privacy - het identificeert geen personen, volgt niemand en verzamelt geen informatie. CoMaps is ook gecontroleerd door <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-exodus\"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/)."
+msgstr "De app is ontworpen met oog voor privacy - identificeert geen personen, volgt je niet en verzamelt geen gegevens. CoMaps is ook gecontroleerd door <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-exodus\"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/)."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
@@ -80,7 +80,7 @@ msgstr "Geen dataverzameling"
 #: content/_index.md
 #, no-wrap
 msgid "Efficiently uses the battery, doesn’t drain your battery like other navigation apps."
-msgstr "Maakt efficiënt gebruik van de batterij en raakt niet zo snel leeg als andere navigatie apps."
+msgstr "Gebruikt weinig energie, zodat je batterij minder snel leegloopt dan bij andere navigatie-apps."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
@@ -104,7 +104,7 @@ msgstr "inv_title"
 #: content/_index.md
 #, no-wrap
 msgid "People like you are helping build the app by adding locations to <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> to create great maps together. The project is a fork of Organic Maps and Maps.Me, and driven by an open-source community."
-msgstr "Mensen zoals jij helpen mee met het bouwen van de app door locaties toe te voegen aan <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, feedback te geven op functies en code bij te dragen op <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> om samen fantastische kaarten te maken. Het project is een afsplitsing van Organic Maps en Maps.Me, en wordt aangestuurd door een open-source community."
+msgstr "Mensen zoals jij helpen de app te bouwen door locaties toe te voegen aan <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, feedback te geven op functies en code bij te dragen op <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> om samen geweldige kaarten te maken. Het project is een afsplitsing van Organic Maps en Maps.Me, en wordt aangestuurd door een open-source community."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
@@ -200,7 +200,7 @@ msgstr "**Vertaal** tekst"
 #: content/community/index.md
 #, no-wrap
 msgid "Add info about shops, points of interest, trails, and public transport to OpenStreetMap"
-msgstr "Voeg informatie over winkels, punten van interesse, trails en openbaar vervoer toe aan OpenStreetMap"
+msgstr "Voeg informatie over winkels, bezienswaardigheden, paden en openbaar vervoer toe aan OpenStreetMap"
 
 #. type: Yaml Front Matter Hash Value: extra features title
 #: content/community/index.md
@@ -260,19 +260,19 @@ msgstr "Doneer via Open Collective"
 #: content/donate/index.md
 #, no-wrap
 msgid "We have to keep up fast servers, to update the map files and for you to download them without delays. The maps data transfers make up large, and growing, amounts of data each month."
-msgstr "We moeten snelle servers bijhouden om de kaartbestanden bij te werken en jou deze zonder vertragingen te laten downloaden. Deze overdrachten vormen elke maand grote en groeiende hoeveelheden gegevens."
+msgstr "We moeten snelle servers onderhouden om de kaartbestanden bij te werken en jou deze zonder vertragingen te laten downloaden. Deze overdrachten vormen elke maand grote en groeiende hoeveelheden gegevens."
 
 #. type: Yaml Front Matter Hash Value: extra funding items title
 #: content/donate/index.md
 #, no-wrap
 msgid "Infrastructure"
-msgstr "infrastructuur"
+msgstr "Infrastructuur"
 
 #. type: Yaml Front Matter Hash Value: extra funding items text
 #: content/donate/index.md
 #, no-wrap
 msgid "User support, fixing bugs, and improving the stability of the app are our top priority. The list of requests and bug reports grows every day, and there are many support requests to respond to on the App Store, Google Play, and support emails."
-msgstr "Gebruikerssupport, het oplossen van bugs en het verbeteren van de stabiliteit van de app hebben onze hoogste prioriteit. De lijst met verzoeken en bugs groeit dagelijks, en er zijn veel vragen die beantwoord moeten worden in de App Store, Google Play en via e-mail."
+msgstr "Gebruikerssupport, het oplossen van bugs en het verbeteren van de stabiliteit van de app hebben onze hoogste prioriteit. De lijst met verzoeken en bugs groeit dagelijks en er zijn veel vragen om te beantwoorden in de App Store, Google Play en via e-mail."
 
 #. type: Yaml Front Matter Hash Value: extra funding items title
 #: content/donate/index.md
@@ -284,7 +284,7 @@ msgstr "Ondersteuning"
 #: content/donate/index.md
 #, no-wrap
 msgid "Currently, all development is done by volunteers with limited time. To implement larger, more ambitious features, paying developers might be necessary in the future."
-msgstr "Momenteel wordt alle ontwikkeling gedaan door vrijwilligers in hun vrije tijd. Voor de implementatie van grotere, ambitieuzere functies, kunnen in de toekomst betalende ontwikkelaars nodig zijn."
+msgstr "Momenteel wordt alle ontwikkeling gedaan door vrijwilligers in hun vrije tijd. Voor de implementatie van grotere, ambitieuzere functies kunnen in de toekomst betaalde ontwikkelaars nodig zijn."
 
 #. type: Yaml Front Matter Hash Value: extra funding items title
 #: content/donate/index.md
@@ -440,7 +440,7 @@ msgstr "Over ons"
 #: content/download/index.md
 #, no-wrap
 msgid "Unlock the potential of navigation! Discover offline maps, privacy-centric features, and a community-driven app"
-msgstr "Ontgrendel de mogelijkheden van navigatie! Ontdek offline kaarten, privacygerichte functies en een app die door de community is ontwikkeld"
+msgstr "Ontdek de potentie van navigatie! Verken offline kaarten, privacygerichte functies en een door de community ontwikkelde app"
 
 #. type: Yaml Front Matter Hash Value: extra app_verifier description
 #: content/download/index.md
@@ -568,7 +568,7 @@ msgstr "Hoe kunnen we je helpen?"
 #: translations.yaml
 #, no-wrap
 msgid "Build the app used by people around the world"
-msgstr "Bouw de app die wereldwijd wordt gebruikt"
+msgstr "Bouw aan de app die wereldwijd wordt gebruikt"
 
 #. type: Hash Value: inv_code_title
 #: translations.yaml
@@ -580,7 +580,7 @@ msgstr "Code bijdragen"
 #: translations.yaml
 #, no-wrap
 msgid "Add info around you, and make the maps better for everyone"
-msgstr "Voeg informatie van je omgeving toe en verbeter de kaarten voor iedereen"
+msgstr "Voeg informatie in je omgeving toe en verbeter de kaarten voor iedereen"
 
 #. type: Hash Value: inv_info_title
 #: translations.yaml
@@ -658,7 +658,7 @@ msgstr "Zoeken"
 #: translations.yaml
 #, no-wrap
 msgid "Connect with Us"
-msgstr "Verbind met ons"
+msgstr "Blijf met ons in contact"
 
 #, no-wrap
 #~ msgid "Currently there is no full time team who is working to develop new features and improve the service. To consistently move the product forward, a core team is needed."

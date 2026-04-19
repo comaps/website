@@ -6,6 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
+"PO-Revision-Date: 2026-04-15 03:57+0000\n"
 "Last-Translator: wirabdillah <wirabdillah@noreply.codeberg.org>\n"
 "Language-Team: Indonesian <https://translate.codeberg.org/projects/comaps/website/id/>\n"
 "Language: id\n"
@@ -13,7 +14,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.15.2\n"
+"X-Generator: Weblate 5.16.2\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -335,10 +336,9 @@ msgstr "Navigasi gratis dan terbuka yang menjaga privasi -<br/>Dibangun oleh kom
 
 #. type: Yaml Front Matter Hash Value: extra about text
 #: content/about-us/index.md
-#, fuzzy, no-wrap
-#| msgid "CoMaps is a community-focused privacy navigation app for travelers - drivers, hikers, and cyclists. It uses the crowd-sourced OpenStreetMap data with contributors from all over the globe. It offers navigation with privacy - no identifying people and no data collection. CoMaps features can operate without an active internet connection for offline navigation at urban or distant locations, where cellular service is not available. CoMaps is an open-source project, and prioritizes community development."
+#, no-wrap
 msgid "CoMaps is a community-focused privacy navigation app for travelers - drivers, hikers, and cyclists. It offers navigation with privacy - no identifying people and no data collection. CoMaps features can operate without an active internet connection for offline navigation at urban or distant locations, where cellular service is not available. CoMaps is an open-source project, and prioritizes community development."
-msgstr "CoMaps adalah aplikasi navigasi yang menjaga privasi dan berfokus pada komunitas untuk para wisatawan dan petualang — baik pengemudi, pendaki, maupun pesepeda. Aplikasi ini memanfaatkan data OpenStreetMap hasil urun daya dari para kontributor di seluruh dunia. CoMaps menawarkan navigasi yang menjaga privasi — tanpa identifikasi pengguna dan tanpa pengumpulan data. Fitur CoMaps dapat beroperasi tanpa koneksi internet aktif untuk navigasi offline di perkotaan atau lokasi terpencil yang tidak terjangkau sinyal seluler. CoMaps adalah proyek sumber terbuka yang memprioritaskan pengembangan komunitas."
+msgstr "CoMaps adalah aplikasi navigasi yang menjaga privasi dan berfokus pada komunitas untuk para wisatawan dan petualang — baik pengemudi, pendaki, maupun pesepeda. CoMaps menawarkan navigasi yang menjaga privasi - tanpa identifikasi pengguna dan tanpa pengumpulan data. Fitur CoMaps dapat beroperasi tanpa koneksi internet aktif untuk navigasi offline di perkotaan atau lokasi terpencil yang tidak terjangkau sinyal seluler. CoMaps adalah proyek sumber terbuka yang memprioritaskan pengembangan komunitas."
 
 #. type: Yaml Front Matter Hash Value: extra about title
 #: content/about-us/index.md
@@ -350,13 +350,13 @@ msgstr "Navigasi gratis dan terbuka yang menjaga privasi, dibangun oleh komunita
 #: content/about-us/index.md
 #, no-wrap
 msgid "CoMaps is made possible thanks to the labor of communities who help create and maintain the open data that powers our app: Our maps use OpenStreetMap data, made and maintained by thousands of contributors from all over the world. In order to link to, and provide offline details about cities, attractions and many other points-of-interest, we rely on the articles and photos of the global Wikipedia, Wikidata, and Wikimedia Commons communities."
-msgstr ""
+msgstr "CoMaps dapat terwujud berkat kerja keras komunitas yang membantu membuat dan memelihara data terbuka yang mendukung aplikasi kami: Peta kami menggunakan data OpenStreetMap, yang dibuat dan dipelihara oleh ribuan kontributor dari seluruh dunia. Untuk menautkan dan menyediakan detail offline mengenai kota, tempat wisata, dan berbagai tempat menarik lainnya, kami mengandalkan artikel dan foto dari komunitas global Wikipedia, Wikidata, dan Wikimedia Commons."
 
 #. type: Yaml Front Matter Hash Value: extra data title
 #: content/about-us/index.md
 #, no-wrap
 msgid "Powered by open data commons"
-msgstr ""
+msgstr "Didukung oleh Open Data Commons"
 
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md
