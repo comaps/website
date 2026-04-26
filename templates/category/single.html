@@ -6,7 +6,7 @@
 {% endblock %}
 
 {% block content %}
-{{ macros::showcase_inner(title=term.name) }}
+{{ macros::showcase_inner(title=term.name, rss= "/category/" ~ term.slug~ "/rss.xml") }}
 
 {# {{ config.title }} &middot; <a href="/tags">Tags</a> &middot; {{ term.name | capitalize }} #}
 <div class="container  main-news__nav">

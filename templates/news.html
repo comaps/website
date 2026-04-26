@@ -11,7 +11,8 @@
 {% endblock meta %}
 
 {% block content %}
-{{ macros::showcase_inner(title=resource.title, desp=resource.description) }}
+{{ macros::showcase_inner(title=resource.title, desp=resource.description, rss='/rss.xml') }}
+
 <div class="container  main-news__nav">
     <div class="main-news__nav-row">
         <a class="button button--main" href="/news/">All</a>

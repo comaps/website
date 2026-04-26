@@ -1,4 +1,4 @@
-{% macro showcase_inner(title, desp="", donate=false, tax_section=false, tax_section_permalink="") %}
+{% macro showcase_inner(title, desp="", donate=false, tax_section=false, tax_section_permalink="",rss=false) %}
 <svg class="hidden" viewBox="0 0 5 7" xmlns="http://www.w3.org/2000/svg">
     <path id="sep" d="M4.18752 3.50002C4.18752 3.42809 4.16003 3.35609 4.10511 3.30117L1.29261 0.488674C1.18271 0.378775 1.00475 0.378775 0.894924 0.488674C0.785096 0.598572 0.785025 0.776533 0.894924 0.886361L3.50858 3.50002L0.894924 6.11367C0.785025 6.22357 0.785025 6.40153 0.894924 6.51136C1.00482 6.62119 1.18278 6.62126 1.29261 6.51136L4.10511 3.69886C4.16003 3.64395 4.18752 3.57195 4.18752 3.50002Z" />
 </svg>    
@@ -34,7 +34,7 @@
             {% endif %}
         </div> #}
         <div class="si-header">
-            <h1 class="si-title">{{ title | safe }}</h1>
+            <h1 class="si-title">{{ title | safe }} {% if rss %} <a href='{{rss}}' class="news-rss">{{ load_data(path="static/images/icons/social/rss.svg") | safe }}</a> {% endif %} </h1>
             {% if desp %}<div class="si-subtitle">{{ desp | markdown | safe }}</div>{% endif %}
         </div>
         {% if donate %}
