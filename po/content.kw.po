@@ -6,6 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
+"PO-Revision-Date: 2026-04-19 17:57+0000\n"
 "Last-Translator: cirilla <cirilla@noreply.codeberg.org>\n"
 "Language-Team: Cornish <https://translate.codeberg.org/projects/comaps/website/kw/>\n"
 "Language: kw\n"
@@ -13,7 +14,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=6; plural=(n == 0) ? 0 : ((n == 1) ? 1 : (((n % 100 == 2 || n % 100 == 22 || n % 100 == 42 || n % 100 == 62 || n % 100 == 82) || n % 1000 == 0 && (n % 100000 >= 1000 && n % 100000 <= 20000 || n % 100000 == 40000 || n % 100000 == 60000 || n % 100000 == 80000) || n != 0 && n % 1000000 == 100000) ? 2 : ((n % 100 == 3 || n % 100 == 23 || n % 100 == 43 || n % 100 == 63 || n % 100 == 83) ? 3 : ((n != 1 && (n % 100 == 1 || n % 100 == 21 || n % 100 == 41 || n % 100 == 61 || n % 100 == 81)) ? 4 : 5))));\n"
-"X-Generator: Weblate 5.16.2\n"
+"X-Generator: Weblate 5.17\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -119,10 +120,9 @@ msgstr "Rydh ha Byldys gans an Gemeneth"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/_index.md
-#, fuzzy, no-wrap
-#| msgid "Hike, Bike, Drive Offline Navigate with Privacy"
+#, no-wrap
 msgid "Hike, Bike, Drive Offline – Navigate with Privacy"
-msgstr "Gwandra, Diwrosa, Lewa Dhywarlinen Viajya gans Privetter"
+msgstr "Gwandra, Diwrosa, Lewa Dhywarlinen – Viajya gans Privetter"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/news/_index.md
@@ -150,8 +150,7 @@ msgstr "Argevri"
 
 #. type: Yaml Front Matter Hash Value: extra features description
 #: content/community/index.md
-#, fuzzy, no-wrap
-#| msgid "Report bugs, discuss idea, and propose features"
+#, no-wrap
 msgid "Report bugs, discuss ideas, and propose features"
 msgstr "Derivas kudynnow, omgussulya tybyansow, ha profya nasyow"
 
@@ -259,10 +258,9 @@ msgstr "Argevri der Open Collective"
 
 #. type: Yaml Front Matter Hash Value: extra funding items text
 #: content/donate/index.md
-#, fuzzy, no-wrap
-#| msgid "We have to keep up fast servers, so anyone in the world can download free map data updates without delays. These maps data transfers make up large, and growing, amounts of data each month."
+#, no-wrap
 msgid "We have to keep up fast servers, to update the map files and for you to download them without delays. The maps data transfers make up large, and growing, amounts of data each month."
-msgstr "Res yw dhyn gwitha servellow uskis, rag may nebonan war'n nor a yll iskarga nowedhyansow mappys rydh heb lettys. An dreusporthow data mappys ma moghhe pub mis."
+msgstr "Res yw dhyn gwitha servellow uskis, rag nowedhi an restrennow mappa ha rag iskargowgh heb lettys. An dreusporthow data mappys ma moghhe pub mis."
 
 #. type: Yaml Front Matter Hash Value: extra funding items title
 #: content/donate/index.md
@@ -286,7 +284,7 @@ msgstr "Skoodhyans"
 #: content/donate/index.md
 #, no-wrap
 msgid "Currently, all development is done by volunteers with limited time. To implement larger, more ambitious features, paying developers might be necessary in the future."
-msgstr ""
+msgstr "A-lemmyn, oll displetyans yw gwrys gans bodhegyon gans termyn strothys. Rag kowlwul nasyow brassa ha moy ughelhwansek, martesen a vydh res rag ow pe awtours yn termyn a dheu."
 
 #. type: Yaml Front Matter Hash Value: extra funding items title
 #: content/donate/index.md
@@ -302,17 +300,15 @@ msgstr "Fatel wren arghasans devnydhys?"
 
 #. type: Yaml Front Matter Hash Value: extra info text
 #: content/donate/index.md
-#, fuzzy, no-wrap
-#| msgid "We rely on your donations to keep CoMaps open and free"
+#, no-wrap
 msgid "We rely on your donations to keep CoMaps free to use"
-msgstr "Ni fydhya war dha argevrohow rag gwitha CoMaps ygor ha rydh"
+msgstr "Ni fydhya war dha argevrohow rag gwitha CoMaps heb kost rag devnydh"
 
 #. type: Yaml Front Matter Hash Value: extra info text
 #: content/donate/index.md
-#, fuzzy, no-wrap
-#| msgid "We are a few enthusiasts contributing in our free time. We love what we do, and we love our users"
+#, no-wrap
 msgid "We are a community contributing in our free time. We love what we do, and we love our users"
-msgstr "Nebes tus dhiwysyk on ow kevri yn agan termyn rydh. Ni kara an pyth a wren ni, ha ni kara agan devnydhyoryon"
+msgstr "Kemeneth on ni ow kevri yn agan termyn rydh. Ni a garsa an pyth a wren ni, ha ni a garsa agan devnydhyoryon"
 
 #. type: Yaml Front Matter Hash Value: extra info text
 #: content/donate/index.md
@@ -340,10 +336,9 @@ msgstr "Navigacyon rydh hag ygor gans privetter -<br/>Byldya gans an gemeneth"
 
 #. type: Yaml Front Matter Hash Value: extra about text
 #: content/about-us/index.md
-#, fuzzy, no-wrap
-#| msgid "CoMaps is a community-focused privacy navigation app for travelers - drivers, hikers, and cyclists. It uses the crowd-sourced OpenStreetMap data with contributors from all over the globe. It offers navigation with privacy - no identifying people and no data collection. CoMaps features can operate without an active internet connection for offline navigation at urban or distant locations, where cellular service is not available. CoMaps is an open-source project, and prioritizes community development."
+#, no-wrap
 msgid "CoMaps is a community-focused privacy navigation app for travelers - drivers, hikers, and cyclists. It offers navigation with privacy - no identifying people and no data collection. CoMaps features can operate without an active internet connection for offline navigation at urban or distant locations, where cellular service is not available. CoMaps is an open-source project, and prioritizes community development."
-msgstr "CoMaps yw app navigacyon fogellys war gemeneth rag tremenysi - lewyoryon, kerdhoryon, ha diwrosyoryon. Ow tevnydhya an data routh-gwrys OpenStreetMap gans kevriysi dres oll an bys tw. Owth offra navigacyon gans privetter yw - owth aswon tus vyth ha kuntel data vyth. Nasyow CoMaps a yll oberi heb junyans kesrosweyth byw rag navigation dhywarlinen yn tylleryow trevel po pell, le may gonis klapkodh yw ankavadow. CoMaps yw ragdres rydh, ha ragwirhe displegyans kemeneth."
+msgstr "CoMaps yw app navigacyon fogellys war gemeneth rag tremenysi - lewyoryon, kerdhoryon, ha diwrosyoryon. Owth offra navigacyon gans privetter yw - owth aswon tus vyth ha kuntel data vyth. Nasyow CoMaps a yll oberi heb junyans kesrosweyth byw rag navigation dhywarlinen yn tylleryow trevel po pell, le may gonis klapkodh yw ankavadow. CoMaps yw ragdres rydh, ha ragwirhe displegyans kemeneth."
 
 #. type: Yaml Front Matter Hash Value: extra about title
 #: content/about-us/index.md
@@ -355,13 +350,13 @@ msgstr "Navigacyon rydh hag ygor gans privetter, byldys gans an gemeneth"
 #: content/about-us/index.md
 #, no-wrap
 msgid "CoMaps is made possible thanks to the labor of communities who help create and maintain the open data that powers our app: Our maps use OpenStreetMap data, made and maintained by thousands of contributors from all over the world. In order to link to, and provide offline details about cities, attractions and many other points-of-interest, we rely on the articles and photos of the global Wikipedia, Wikidata, and Wikimedia Commons communities."
-msgstr ""
+msgstr "CoMaps yw possybyl meur ras dhe'n ober a gemenethow neb a weres ha gwitha an data rydh y'gan app: Agan mappys devnydhya data OpenStreetMap, gwrys ha gwithys gans milyow a gevriysi a dhres oll an bys. Rag junya dhe, ha provia manylyon dhywarlinen a-dro dhe citys, leow ha moy poyntys-a-les, ni a fydhya war'n erthyglow ha skeusennow a'n kemenethow ollvysel Wikipedya, Wikidata, ha Wikimedia Commons."
 
 #. type: Yaml Front Matter Hash Value: extra data title
 #: content/about-us/index.md
 #, no-wrap
 msgid "Powered by open data commons"
-msgstr ""
+msgstr "Gwrys galladow gans kemmynyon data rydh"
 
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md
@@ -403,13 +398,13 @@ msgstr "Istori"
 #: content/about-us/index.md
 #, no-wrap
 msgid "See the full list of media coverage about CoMaps."
-msgstr ""
+msgstr "Gweles an rol leun a les media a-dro dhe CoMaps."
 
 #. type: Yaml Front Matter Hash Value: extra media_highlights title
 #: content/about-us/index.md
 #, no-wrap
 msgid "Media Highlights"
-msgstr ""
+msgstr "Golowboyntyansow Media"
 
 #. type: Yaml Front Matter Hash Value: extra vm items text
 #: content/about-us/index.md
@@ -451,20 +446,19 @@ msgstr "Dialwedha an potencyal a navigacyon! Trovya mappys dhywarlinen, nasyow p
 #: content/download/index.md
 #, no-wrap
 msgid "To verify the app when downloading it as an APK or via Obtainium you can use this fingerprint:"
-msgstr ""
+msgstr "Rag gwirhe an app dres owth iskarga avel APK po der Obtainium hwi a yll devnydhya an bysbrynt ma:"
 
 #. type: Yaml Front Matter Hash Value: extra app_verifier title
 #: content/download/index.md
 #, no-wrap
 msgid "Verifying the Android app"
-msgstr ""
+msgstr "Ow Kwirhe an app Android"
 
 #. type: Yaml Front Matter Hash Value: extra releases title
 #: content/download/index.md
-#, fuzzy, no-wrap
-#| msgid "Releases"
+#, no-wrap
 msgid "Latest Releases"
-msgstr "Dyllansow"
+msgstr "Dyllansow Diwettha"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/download/index.md
@@ -487,43 +481,43 @@ msgstr "An API yw deskrifys war [comaps.at/api](https://comaps.at/api)."
 #: content/privacy/index.md translations.yaml
 #, no-wrap
 msgid "Privacy"
-msgstr ""
+msgstr "Privetter"
 
 #. type: Plain text
 #: content/privacy/index.md
 msgid "At CoMaps, we respect your privacy. CoMaps does not have any form of identification of people, advertising, or personal data collection."
-msgstr ""
+msgstr "Yn CoMaps, ni a wul revrons dh'gas privetter. Nyns eus furv a helerghyans dhyn rag tus, argemmynnow, po kuntel data personel."
 
 #. type: Plain text
 #: content/privacy/index.md
 msgid "CoMaps does not track you."
-msgstr ""
+msgstr "Ny helerghi dhywgh CoMaps."
 
 #. type: Plain text
 #: content/privacy/index.md content/terms/index.md
 msgid "If you have any questions or suggestions, please contact us at legal@comaps.app"
-msgstr ""
+msgstr "Mars eus govynnow po profyans dhywgh, kestavewgh mar pleg dre legal@comaps.app"
 
 #. type: Plain text
 #: content/privacy/index.md
 msgid "Policy effective: 2025-05-01"
-msgstr ""
+msgstr "Polici yn effeyth: 2025-05-01"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/terms/index.md
 #, no-wrap
 msgid "Terms"
-msgstr ""
+msgstr "Termow"
 
 #. type: Plain text
 #: content/terms/index.md
 msgid "This app is licensed under the Apache License, Version 2.0 (the \"License\"); This application cannot be used except in compliance with the License."
-msgstr ""
+msgstr "An app ma yw leshys y'n Leshyans Apache, Veryson 2.0 (an \"Leshyans\"); Ny yllowgh devnydhya an app ma saw yn akord gans an Leshyans."
 
 #. type: Plain text
 #: content/terms/index.md
 msgid "Read [the full license text](https://www.apache.org/licenses/LICENSE-2.0)."
-msgstr ""
+msgstr "Redyewgh [an tekst leshyans leun](https://www.apache.org/licenses/LICENSE-2.0)."
 
 #. type: Plain text
 #: content/terms/index.md
