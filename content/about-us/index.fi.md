@@ -3,7 +3,7 @@ description: "Ilmainen ja avoin navigointi yksityisesti <br/>Yhteisön luoma"
 extra:
   about:
     media: /images/about-us/about.png
-    text: "CoMaps is a community-focused privacy navigation app for travelers - drivers, hikers, and cyclists. It offers navigation with privacy - no identifying people and no data collection. CoMaps features can operate without an active internet connection for offline navigation at urban or distant locations, where cellular service is not available. CoMaps is an open-source project, and prioritizes community development."
+    text: "CoMaps on yksityisyys- ja yhteisökeskeinen navigointisovellus autoilijoille, pyöräilijöille ja kävelijöille. Se tarjoaa yksityisen navigoinnin - sovellus ei tunnista käyttäjää tai kerää tietoja. CoMapsin ominaisuuksiin kuuluu jopa kaukaisissa sijainneissa toimiva navigointi ilman verkkoyhteyttä. CoMaps on avoimen lähdekoodin projekti, jonka painopisteenä on yhteisön kehittäminen."
     title: "Ilmainen ja avoin navigointi yksityisesti, yhteisön luoma"
   data:
     link_text: "Learn more about all of our open data sources"

@@ -9,7 +9,7 @@ extra:
   services:
     items:
       - 
-        description: 'Plan and navigate your trip abroad with just GPS, no need for mobile data. Search waypoints while on distant hiking trails or bike paths.'
+        description: 'خطط لرحلتك الخارجية وتنقل بها باستخدام نظام تحديد المواقع العالمي (GPS) فقط، دون الحاجة إلى بيانات الهاتف المحمول. ابحث عن نقاط الطريق أثناء وجودك على مسارات المشي لمسافات طويلة أو مسارات الدراجات.'
         highlight:
           icon: static/images/icons/home/wifi-off.svg
           text: 'لا حاجة لإتصال الإنترنت'
@@ -49,5 +49,5 @@ extra:
         title: 'مجاني و مبني بواسطة المجتمع'
 sort_by: weight
 template: home.html
-title: 'Hike, Bike, Drive Offline – Navigate with Privacy'
+title: 'استمتع بالمشي والتنزه وركوب الدراجات والقيادة دون اتصال بالإنترنت – تنقل مع الحفاظ على خصوصيتك'
 ---

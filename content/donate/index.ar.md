@@ -1,35 +1,35 @@
 ---
-description: "Donate and create better maps together!"
+description: "تبرعوا واصنعوا خرائط أفضل معاً!"
 extra:
   donate:
     info:
-      description: "Donate to keep the project running"
-      title: "Created with love by enthusiast volunteers"
+      description: "تبرع للحفاظ على استمرارية المشروع"
+      title: "صُنع بحب من قبل متطوعين متحمسين"
     liberapay:
-      title: "Donate via Liberapay"
+      title: "تبرع عبر Liberapay"
     open_collective:
-      title: "Donate via Open Collective"
+      title: "تبرع عبر منصة Open Collective"
     title: تبرع
   funding:
     items:
       - media: /images/donate/infrastructure.webp
-        text: "We have to keep up fast servers, to update the map files and for you to download them without delays. The maps data transfers make up large, and growing, amounts of data each month."
-        title: Infrastructure
+        text: "علينا الحفاظ على سرعة الخوادم لتحديث ملفات الخرائط ولتمكينكم من تحميلها دون تأخير. تشكل عمليات نقل بيانات الخرائط كميات كبيرة ومتزايدة من البيانات شهرياً."
+        title: "البنية التحتية"
       - media: /images/donate/support.webp
-        text: "User support, fixing bugs, and improving the stability of the app are our top priority. The list of requests and bug reports grows every day, and there are many support requests to respond to on the App Store, Google Play, and support emails."
-        title: Support
+        text: "يُعدّ دعم المستخدمين وإصلاح الأخطاء وتحسين استقرار التطبيق من أهم أولوياتنا. تتزايد قائمة الطلبات وتقارير الأخطاء يوميًا، وهناك العديد من طلبات الدعم التي يجب الرد عليها عبر متجر التطبيقات وجوجل بلاي ورسائل البريد الإلكتروني الخاصة بالدعم."
+        title: "مدعمة أو مثبتة على"
       - media: /images/donate/developers.webp
-        text: "Currently, all development is done by volunteers with limited time. To implement larger, more ambitious features, paying developers might be necessary in the future."
-        title: Developers
-    title: "How will funding be used?"
+        text: "حالياً، يتم تطوير جميع المشاريع بواسطة متطوعين ذوي وقت محدود. ولتنفيذ ميزات أكبر وأكثر طموحاً، قد يكون من الضروري توظيف مطورين بأجر في المستقبل."
+        title: المطورون
+    title: "كيف سيتم استخدام التمويل؟"
   hero_description: "Donate and create better maps together!"
   info:
     - icon: static/images/icons/donate/icon01.svg
-      text: "We rely on your donations to keep CoMaps free to use"
+      text: "نعتمد على تبرعاتكم للحفاظ على استخدام CoMaps مجاناً"
     - icon: static/images/icons/donate/icon02.svg
-      text: "We are a community contributing in our free time. We love what we do, and we love our users"
+      text: "نحن مجتمع نساهم في أوقات فراغنا. نحب ما نقوم به، ونحب مستخدمينا"
     - icon: static/images/icons/donate/icon03.svg
-      text: "With your support, we are working toward privacy-focused map navigation that is the preferred choice on the market"
+      text: "بدعمكم، نعمل على تطوير نظام ملاحة خرائط يركز على الخصوصية ليكون الخيار المفضل في السوق"
   service_text: ~
   service_title: "Created with love by enthusiast volunteers"
 template: donate.html

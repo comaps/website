@@ -1,27 +1,26 @@
 ---
-title: Terms
+title: شروط
 weight: 1000
 ---
 
-This app is licensed under the Apache License, Version 2.0 (the "License");
-This application cannot be used except in compliance with the License.
+تم ترخيص هذا التطبيق تحت ترخيص Apache، الإصدار 2.0 ("الترخيص") ؛ لا يجوز لك
+استخدام هذا التطبيق إلا بما يتوافق مع الترخيص.
 
-Read [the full license text](https://www.apache.org/licenses/LICENSE-2.0).
+اقرأ [نص الترخيص الكامل](https://www.apache.org/licenses/LICENSE-2.0).
 
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
-WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
-License for the specific language governing permissions and limitations
-under the License.
+ما لم يكن مطلوبًا بموجب القانون المعمول به أو تم الاتفاق عليه كتابيًا ، يتم
+توزيع البرامج الموزعة بموجب الترخيص "كما هي" ، دون أي ضمانات أو شروط من أي
+نوع ، سواء كانت صريحة أو ضمنية. راجع الترخيص لمعرفة الأذونات والقيود التي
+تحكم اللغة المحددة بموجب الترخيص.
 
-Many libraries and 3rd party tools included into [CoMaps
-repository](https://codeberg.org/comaps/comaps) were developed by multiple
-people and organizations, and licensed in different ways. Please refer to
-their LICENSE, COPYING or NOTICE files for terms of use.
+تم تطوير العديد من المكتبات والأدوات الخارجية المضمنة في [مستودع
+CoMaps](https://codeberg.org/comaps/comaps) من قِبل أفراد ومنظمات متعددة،
+وترخيصها بطرق مختلفة. يُرجى الرجوع إلى ملفات الترخيص أو النسخ أو الإشعار
+الخاصة بها للاطلاع على شروط الاستخدام.
 
-See
+راجع ملف
 [data/copyright.html](https://codeberg.org/comaps/comaps/src/branch/main/data/copyright.html)
-file for a full list of copyright notices for the CoMaps application.
+للاطلاع على القائمة الكاملة لإشعارات حقوق النشر الخاصة بتطبيق CoMaps.
 
-If you have any questions or suggestions, please contact us at
-legal@comaps.app
+إذا كانت لديك أي أسئلة أو اقتراحات، يرجى التواصل معنا على
+[legal@organicmaps.app (mailto:legal@organicmaps.app).

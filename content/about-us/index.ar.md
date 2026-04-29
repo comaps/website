@@ -1,44 +1,44 @@
 ---
-description: "Free and open navigation with privacy -<br/>Built by the community"
+description: "تصفح حر ومفتوح مع الحفاظ على الخصوصية -<br/>تم بناؤه بواسطة المجتمع"
 extra:
   about:
     media: /images/about-us/about.png
-    text: "CoMaps is a community-focused privacy navigation app for travelers - drivers, hikers, and cyclists. It offers navigation with privacy - no identifying people and no data collection. CoMaps features can operate without an active internet connection for offline navigation at urban or distant locations, where cellular service is not available. CoMaps is an open-source project, and prioritizes community development."
-    title: "Free and open navigation with privacy, built by the community"
+    text: "CoMaps هو تطبيق ملاحة يركز على خصوصية المستخدمين، وهو مصمم خصيصًا للمسافرين من سائقين ومتنزهين وراكبي دراجات. يوفر التطبيق خدمة ملاحة آمنة تضمن الخصوصية التامة، دون الكشف عن هوية المستخدمين أو جمع أي بيانات. كما يمكن استخدام ميزات CoMaps دون اتصال بالإنترنت، مما يتيح التنقل دون اتصال في المناطق الحضرية أو النائية حيث لا تتوفر تغطية شبكة الهاتف المحمول. CoMaps مشروع مفتوح المصدر، ويولي اهتمامًا كبيرًا لتطويره من قبل المجتمع."
+    title: "تصفح حر ومفتوح مع الحفاظ على الخصوصية، تم بناؤه بواسطة المجتمع"
   data:
     link_text: "Learn more about all of our open data sources"
     media_osm: /images/about-us/OSM.png
     media_wikipedia: /images/about-us/Wikidata_stamp.png
-    text: "CoMaps is made possible thanks to the labor of communities who help create and maintain the open data that powers our app: Our maps use OpenStreetMap data, made and maintained by thousands of contributors from all over the world. In order to link to, and provide offline details about cities, attractions and many other points-of-interest, we rely on the articles and photos of the global Wikipedia, Wikidata, and Wikimedia Commons communities."
-    title: "Powered by open data commons"
+    text: "أصبح تطبيق CoMaps ممكنًا بفضل جهود المجتمعات التي تُساهم في إنشاء وصيانة البيانات المفتوحة التي تُشغّل تطبيقنا: تستخدم خرائطنا بيانات OpenStreetMap، التي أنشأها ويُحافظ عليها آلاف المساهمين من جميع أنحاء العالم. ولربط المواقع السياحية والمعالم الأخرى، وتوفير تفاصيل عنها دون اتصال بالإنترنت، نعتمد على مقالات وصور مجتمعات ويكيبيديا وويكي بيانات وويكيميديا كومنز العالمية."
+    title: "مدعوم من مصادر البيانات المفتوحة"
   history:
     items:
-      - text: "MapsWithMe navigation app created (later renamed to Maps.me)."
+      - text: "تم إنشاء تطبيق الملاحة MapsWithMe (ثم أعيدت تسميته لاحقًا إلى Maps.me)."
         year: 2011
-      - text: "Maps.me opened the source code under Apache 2.0 license."
+      - text: "فتح موقع Maps.me شفرة المصدر بموجب ترخيص Apache 2.0."
         year: 2015
-      - text: "The Organic Maps project & company were founded, based on the Maps.Me source code."
+      - text: "تم تأسيس مشروع وشركة الخرائط العضوية، استنادًا إلى الشيفرة المصدرية لـ Maps.Me."
         year: 2021
-      - text: "Governance issues and community concerns not addressed by company shareholders stalled the development of Organic Maps for months."
+      - text: "أدت قضايا الحوكمة ومخاوف المجتمع التي لم يعالجها مساهمو الشركة إلى توقف تطوير خرائط Organic لعدة أشهر."
         year: 2025
       - highlight: true
-        text: "The **CoMaps** community & non-profit project was founded by former Organic Maps contributors, based on the Organic Maps source code."
+        text: "تم تأسيس مشروع **CoMaps** المجتمعي وغير الربحي من قبل مساهمين سابقين في مشروع Organic Maps، استنادًا إلى شفرة المصدر الخاصة بمشروع Organic Maps."
         year: 2025
-    title: History
+    title: "سجل البحث"
   media_highlights:
-    description: "See the full list of media coverage about CoMaps."
-    title: "Media Highlights"
+    description: "اطلع على القائمة الكاملة للتغطية الإعلامية حول CoMaps."
+    title: "أبرز الأحداث الإعلامية"
   vm:
     items:
       - icon: /images/icons/about/mission.svg
         media: /images/about-us/mission.png
-        text: "Unlock the freedom to easily navigate offline, with privacy-focused maps for drivers, hikers, and cyclists, powered by the community."
-        title: Mission
+        text: "أطلق العنان لحرية التنقل بسهولة دون اتصال بالإنترنت، مع خرائط تركز على الخصوصية للسائقين والمتنزهين وراكبي الدراجات، مدعومة من المجتمع."
+        title: المهمة
       - icon: /images/icons/about/vision.svg
         media: /images/about-us/vision.png
-        text: "Create a world where navigating with maps is free, and privacy by default is the top choice on the planet."
-        title: Vision
+        text: "أنشئ عالماً يكون فيه التنقل باستخدام الخرائط مجانياً، وتكون فيه الخصوصية هي الخيار الأول على هذا الكوكب."
+        title: رؤية
 template: about-us.html
-title: "About Us"
+title: عنا
 weight: 10
 ---

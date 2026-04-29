@@ -1,7 +1,7 @@
 ---
 description: ""
-title: "API Page"
+title: "صفحة واجهة برمجة التطبيقات"
 weight: 10
 ---
 
-The API is documented on [comaps.at/api](https://comaps.at/api).
+واجهة برمجة التطبيقات موثقة على [comaps.at/api](https://comaps.at/api).

@@ -2,8 +2,8 @@
 description: "Dialwedha an potencyal a navigacyon! Trovya mappys dhywarlinen, nasyow privedh, hag app selys war'n gemeneth"
 extra:
   app_verifier:
-    description: "To verify the app when downloading it as an APK or via Obtainium you can use this fingerprint:"
-    title: "Verifying the Android app"
+    description: "Rag gwirhe an app dres owth iskarga avel APK po der Obtainium hwi a yll devnydhya an bysbrynt ma:"
+    title: "Ow Kwirhe an app Android"
   desktop_payment_methods_1: MacOS
   desktop_payment_methods_2: Linux
   desktop_payment_title: Desktop
@@ -18,7 +18,7 @@ extra:
   mobile_shop_name_4: AppGallery
   mobile_shop_name_5: Obtainium
   releases:
-    title: "Latest Releases"
+    title: "Dyllansow Diwettha"
 template: download.html
 title: "Iskarga CoMaps"
 weight: 10

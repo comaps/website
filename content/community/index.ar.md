@@ -2,36 +2,36 @@
 description: "برنامج CoMaps تم إنشاءه و المحافظة عليه بواسطة الناس مثلك"
 extra:
   donate:
-    description: "The app runs on your donations, help improve it"
+    description: "يعتمد التطبيق على تبرعاتكم، ساعدونا في تحسينه"
     title: تبرع
   features:
-    - description: "Report bugs, discuss ideas, and propose features"
+    - description: "أبلغ عن الأخطاء، وناقش الأفكار، واقترح ميزات جديدة"
       icon: chats.svg
       link: https://codeberg.org/comaps/comaps/issues
       title: "**أبلغ عن اخطاء**"
-    - description: "Develop new features, help fix bugs, and review code"
+    - description: "طور ميزات جديدة، ساعد في إصلاح الأخطاء، وراجع الشيفرة البرمجية"
       icon: CodeBlock.svg
       link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md#code-contributions
-      title: "**Develop** Functionality"
-    - description: "Shape the direction of the product experience"
+      title: "**تطوير** الوظائف"
+    - description: "ساهم في توجيه تجربة المنتج"
       icon: BezierCurve.svg
       link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md#ui-ux-map-styling-and-icons
-      title: "**Design** Interface"
-    - description: "Add translations to make it accessible for more people around the world"
+      title: "**تصميم** واجهة المستخدم"
+    - description: "أضف ترجمات لجعلها متاحة لعدد أكبر من الناس حول العالم"
       icon: Translate.svg
       link: https://codeberg.org/comaps/comaps/src/branch/main/docs/TRANSLATIONS.md
-      title: "**Translate** Text"
-    - description: "Add info about shops, points of interest, trails, and public transport to OpenStreetMap"
+      title: "**ترجمة** النص"
+    - description: "أضف معلومات حول المتاجر، والمعالم السياحية، والمسارات، ووسائل النقل العام إلى OpenStreetMap"
       icon: MapPinLine.svg
       link: /support/editing-with-CoMaps
-      title: "**Add** Place Info"
-    - description: "Help people use the app, and answer questions"
+      title: "**إضافة** معلومات عن المكان"
+    - description: "ساعد الناس على استخدام التطبيق، وأجب عن أسئلتهم"
       icon: Headset.svg
       link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md#day-to-day-activities
-      title: "**Help** Support"
+      title: "دعم **المساعدة**"
   preview_image: donate/donate.png
   stay_connected_section_title: "connect with us"
 template: community.html
-title: Community
+title: المجتمع
 weight: 10
 ---

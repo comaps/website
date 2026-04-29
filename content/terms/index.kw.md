@@ -1,12 +1,13 @@
 ---
-title: Terms
+title: Termow
 weight: 1000
 ---
 
-This app is licensed under the Apache License, Version 2.0 (the "License");
-This application cannot be used except in compliance with the License.
+An app ma yw leshys y'n Leshyans Apache, Veryson 2.0 (an "Leshyans"); Ny
+yllowgh devnydhya an app ma saw yn akord gans an Leshyans.
 
-Read [the full license text](https://www.apache.org/licenses/LICENSE-2.0).
+Redyewgh [an tekst leshyans
+leun](https://www.apache.org/licenses/LICENSE-2.0).
 
 Unless required by applicable law or agreed to in writing, software
 distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
@@ -23,5 +24,5 @@ See
 [data/copyright.html](https://codeberg.org/comaps/comaps/src/branch/main/data/copyright.html)
 file for a full list of copyright notices for the CoMaps application.
 
-If you have any questions or suggestions, please contact us at
+Mars eus govynnow po profyans dhywgh, kestavewgh mar pleg dre
 legal@comaps.app

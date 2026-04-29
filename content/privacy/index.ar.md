@@ -1,14 +1,14 @@
 ---
-title: Privacy
+title: خصوصية
 weight: 900
 ---
 
-At CoMaps, we respect your privacy. CoMaps does not have any form of
-identification of people, advertising, or personal data collection.
+في CoMaps، نحترم خصوصيتك. لا تستخدم CoMaps أي شكل من أشكال تحديد هوية
+الأشخاص، أو الإعلانات، أو جمع البيانات الشخصية.
 
-CoMaps does not track you.
+لا يقوم تطبيق CoMaps بتتبعك.
 
-If you have any questions or suggestions, please contact us at
-legal@comaps.app
+إذا كانت لديك أي أسئلة أو اقتراحات، يرجى التواصل معنا على
+[legal@organicmaps.app (mailto:legal@organicmaps.app).
 
-Policy effective: 2025-05-01
+تاريخ سريان السياسة: 2025-05-01

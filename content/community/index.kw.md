@@ -5,7 +5,7 @@ extra:
     description: "An app oberi war dha argevrohow, gwerewgh rag gwellhe"
     title: Argevri
   features:
-    - description: "Report bugs, discuss ideas, and propose features"
+    - description: "Derivas kudynnow, omgussulya tybyansow, ha profya nasyow"
       icon: chats.svg
       link: https://codeberg.org/comaps/comaps/issues
       title: "**Derivas** Kudynnow"

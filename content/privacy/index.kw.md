@@ -1,14 +1,14 @@
 ---
-title: Privacy
+title: Privetter
 weight: 900
 ---
 
-At CoMaps, we respect your privacy. CoMaps does not have any form of
-identification of people, advertising, or personal data collection.
+Yn CoMaps, ni a wul revrons dh'gas privetter. Nyns eus furv a helerghyans
+dhyn rag tus, argemmynnow, po kuntel data personel.
 
-CoMaps does not track you.
+Ny helerghi dhywgh CoMaps.
 
-If you have any questions or suggestions, please contact us at
+Mars eus govynnow po profyans dhywgh, kestavewgh mar pleg dre
 legal@comaps.app
 
-Policy effective: 2025-05-01
+Polici yn effeyth: 2025-05-01

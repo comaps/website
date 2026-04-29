@@ -1,9 +1,9 @@
 ---
-description: "Unlock the potential of navigation! Discover offline maps, privacy-centric features, and a community-driven app"
+description: "أطلق العنان لإمكانيات الملاحة! اكتشف الخرائط غير المتصلة بالإنترنت، والميزات التي تركز على الخصوصية، وتطبيقًا مدعومًا من المجتمع"
 extra:
   app_verifier:
-    description: "To verify the app when downloading it as an APK or via Obtainium you can use this fingerprint:"
-    title: "Verifying the Android app"
+    description: "للتحقق من التطبيق عند تنزيله كملف APK أو عبر Obtainium، يمكنك استخدام هذه البصمة:"
+    title: "التحقق من تطبيق أندرويد"
   desktop_payment_methods_1: MacOS
   desktop_payment_methods_2: Linux
   desktop_payment_title: Desktop
@@ -20,6 +20,6 @@ extra:
   releases:
     title: "Latest Releases"
 template: download.html
-title: "Download CoMaps"
+title: "نزل CoMaps"
 weight: 10
 ---

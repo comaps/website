@@ -49,5 +49,5 @@ extra:
         title: 'Rydh ha Byldys gans an Gemeneth'
 sort_by: weight
 template: home.html
-title: 'Hike, Bike, Drive Offline – Navigate with Privacy'
+title: 'Gwandra, Diwrosa, Lewa Dhywarlinen – Viajya gans Privetter'
 ---

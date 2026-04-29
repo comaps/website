@@ -1,7 +1,7 @@
 ---
-description: "Need assistance? Search for answers to common questions. Get the support you need and connect with others in the community for help."
+description: "هل تحتاج إلى مساعدة؟ ابحث عن إجابات للأسئلة الشائعة. احصل على الدعم الذي تحتاجه وتواصل مع الآخرين في المجتمع للحصول على المساعدة."
 extra:
   faq_title: FAQs
-title: Help
+title: مساعدة
 weight: 10
 ---

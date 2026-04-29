@@ -3,14 +3,14 @@ description: "Navigacyon rydh hag ygor gans privetter -<br/>Byldya gans an gemen
 extra:
   about:
     media: /images/about-us/about.png
-    text: "CoMaps is a community-focused privacy navigation app for travelers - drivers, hikers, and cyclists. It offers navigation with privacy - no identifying people and no data collection. CoMaps features can operate without an active internet connection for offline navigation at urban or distant locations, where cellular service is not available. CoMaps is an open-source project, and prioritizes community development."
+    text: "CoMaps yw app navigacyon fogellys war gemeneth rag tremenysi - lewyoryon, kerdhoryon, ha diwrosyoryon. Owth offra navigacyon gans privetter yw - owth aswon tus vyth ha kuntel data vyth. Nasyow CoMaps a yll oberi heb junyans kesrosweyth byw rag navigation dhywarlinen yn tylleryow trevel po pell, le may gonis klapkodh yw ankavadow. CoMaps yw ragdres rydh, ha ragwirhe displegyans kemeneth."
     title: "Navigacyon rydh hag ygor gans privetter, byldys gans an gemeneth"
   data:
     link_text: "Learn more about all of our open data sources"
     media_osm: /images/about-us/OSM.png
     media_wikipedia: /images/about-us/Wikidata_stamp.png
-    text: "CoMaps is made possible thanks to the labor of communities who help create and maintain the open data that powers our app: Our maps use OpenStreetMap data, made and maintained by thousands of contributors from all over the world. In order to link to, and provide offline details about cities, attractions and many other points-of-interest, we rely on the articles and photos of the global Wikipedia, Wikidata, and Wikimedia Commons communities."
-    title: "Powered by open data commons"
+    text: "CoMaps yw possybyl meur ras dhe'n ober a gemenethow neb a weres ha gwitha an data rydh y'gan app: Agan mappys devnydhya data OpenStreetMap, gwrys ha gwithys gans milyow a gevriysi a dhres oll an bys. Rag junya dhe, ha provia manylyon dhywarlinen a-dro dhe citys, leow ha moy poyntys-a-les, ni a fydhya war'n erthyglow ha skeusennow a'n kemenethow ollvysel Wikipedya, Wikidata, ha Wikimedia Commons."
+    title: "Gwrys galladow gans kemmynyon data rydh"
   history:
     items:
       - text: "App navigacyon MapsWithMe gwrys (dashenwelys diwettha dhe Vaps.me)."
@@ -26,8 +26,8 @@ extra:
         year: 2025
     title: Istori
   media_highlights:
-    description: "See the full list of media coverage about CoMaps."
-    title: "Media Highlights"
+    description: "Gweles an rol leun a les media a-dro dhe CoMaps."
+    title: "Golowboyntyansow Media"
   vm:
     items:
       - icon: /images/icons/about/mission.svg
