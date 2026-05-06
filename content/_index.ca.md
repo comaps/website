@@ -3,7 +3,7 @@ description: 'Descobreix més del teu viatge - Fet per la comunitat'
 extra:
   freedom:
     description: 'Descobreix el teu viatge, navega pel món amb privacitat i la comunitat en primer pla.'
-    title: 'La llibertat està aquí'
+    title: 'La llibertat és aquí'
   map:
     description: 'Comunitat + Mapes Lliures'
   services:
