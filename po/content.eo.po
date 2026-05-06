@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"PO-Revision-Date: 2026-04-29 00:57+0000\n"
+"PO-Revision-Date: 2026-04-30 23:14+0000\n"
 "Last-Translator: GalaxyShard <galaxyshard@noreply.codeberg.org>\n"
 "Language-Team: Esperanto <https://translate.codeberg.org/projects/comaps/website/eo/>\n"
 "Language: eo\n"
@@ -20,7 +20,7 @@ msgstr ""
 #: content/_index.md
 #, no-wrap
 msgid "Discover more of your journey - Powered by the community"
-msgstr "Malkovru pli pri via vojaĝo - Subtenata de la komunumo"
+msgstr "Malkovru pli pri via vojaĝo - Subtenata per la komunumo"
 
 #. type: Yaml Front Matter Hash Value: extra freedom description
 #: content/_index.md
@@ -392,7 +392,7 @@ msgstr "Kreu mondon kie navigado per mapoj estas senpaga, kaj privateco defaŭlt
 #: content/about-us/index.md
 #, no-wrap
 msgid "Vision"
-msgstr "Vido"
+msgstr "Vizio"
 
 #. type: Hash Value: menu_about_us
 #: content/about-us/index.md translations.yaml
