@@ -4,10 +4,10 @@ extra:
   app_verifier:
     description: "To verify the app when downloading it as an APK or via Obtainium you can use this fingerprint:"
     title: "Verifying the Android app"
-  desktop_payment_methods_1: MacOS
+  desktop_payment_methods_1: macOS
   desktop_payment_methods_2: Linux
   desktop_payment_title: Desktop
-  desktop_shop_name_1: MacOS
+  desktop_shop_name_1: "App Store"
   desktop_shop_name_2: Linux
   mobile_payment_methods_1: iOS
   mobile_payment_methods_2: Android

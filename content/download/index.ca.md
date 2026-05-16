@@ -4,10 +4,10 @@ extra:
   app_verifier:
     description: "Per a verificar l'aplicació quan es descarregui com a APK o via Obtainium, podeu emprar aquesta empremta dactilar:"
     title: "Verifying the Android app"
-  desktop_payment_methods_1: MacOS
+  desktop_payment_methods_1: macOS
   desktop_payment_methods_2: Linux
   desktop_payment_title: Desktop
-  desktop_shop_name_1: MacOS
+  desktop_shop_name_1: "App Store"
   desktop_shop_name_2: Linux
   mobile_payment_methods_1: iOS
   mobile_payment_methods_2: Android

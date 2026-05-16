@@ -4,10 +4,10 @@ extra:
   app_verifier:
     description: "下载 APK 或通过 Obtainium 下载时，您可以使用此指纹验证该应用："
     title: "验证 Android 应用"
-  desktop_payment_methods_1: MacOS
+  desktop_payment_methods_1: macOS
   desktop_payment_methods_2: Linux
   desktop_payment_title: Desktop
-  desktop_shop_name_1: MacOS
+  desktop_shop_name_1: "App Store"
   desktop_shop_name_2: Linux
   mobile_payment_methods_1: iOS
   mobile_payment_methods_2: Android

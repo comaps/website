@@ -4,10 +4,10 @@ extra:
   app_verifier:
     description: "Om de app te verifiëren bij het downloaden als APK of via Obtainium kunt u deze vingerafdruk gebruiken:"
     title: "Verifiëren van de Android app"
-  desktop_payment_methods_1: MacOS
+  desktop_payment_methods_1: macOS
   desktop_payment_methods_2: Linux
   desktop_payment_title: Desktop
-  desktop_shop_name_1: MacOS
+  desktop_shop_name_1: "App Store"
   desktop_shop_name_2: Linux
   mobile_payment_methods_1: iOS
   mobile_payment_methods_2: Android

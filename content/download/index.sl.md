@@ -4,10 +4,10 @@ extra:
   app_verifier:
     description: "Za potrditev orodja v primeru njegovega prenašanja kot APK ali preko Obtainium lahko uporabite ta prstni odtis:"
     title: "Potrjevanje Androidovega orodja"
-  desktop_payment_methods_1: MacOS
+  desktop_payment_methods_1: macOS
   desktop_payment_methods_2: Linux
   desktop_payment_title: Desktop
-  desktop_shop_name_1: MacOS
+  desktop_shop_name_1: "App Store"
   desktop_shop_name_2: Linux
   mobile_payment_methods_1: iOS
   mobile_payment_methods_2: Android

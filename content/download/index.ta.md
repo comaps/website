@@ -4,10 +4,10 @@ extra:
   app_verifier:
     description: "ஆப்சை APK ஆகப் பதிவிறக்கும் போது அல்லது Obtainium வழியாகச் சரிபார்க்க, இந்தக் கைரேகையைப் பயன்படுத்தலாம்:"
     title: "ஆண்ட்ராய்டு பயன்பாட்டைச் சரிபார்க்கிறது"
-  desktop_payment_methods_1: MacOS
+  desktop_payment_methods_1: macOS
   desktop_payment_methods_2: Linux
   desktop_payment_title: Desktop
-  desktop_shop_name_1: MacOS
+  desktop_shop_name_1: "App Store"
   desktop_shop_name_2: Linux
   mobile_payment_methods_1: iOS
   mobile_payment_methods_2: Android

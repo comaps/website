@@ -4,10 +4,10 @@ extra:
   app_verifier:
     description: "Да бисте проверили апликацију када га преузимате као АПК или преко Обтаиниум можете користити овај отисак прста:"
     title: "Провера Андроид апликације"
-  desktop_payment_methods_1: MacOS
+  desktop_payment_methods_1: macOS
   desktop_payment_methods_2: Linux
   desktop_payment_title: Desktop
-  desktop_shop_name_1: MacOS
+  desktop_shop_name_1: "App Store"
   desktop_shop_name_2: Linux
   mobile_payment_methods_1: iOS
   mobile_payment_methods_2: Android

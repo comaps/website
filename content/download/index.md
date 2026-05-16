@@ -13,13 +13,13 @@ extra:
   desktop_payment_title: Desktop
   mobile_payment_methods_1: iOS
   mobile_payment_methods_2: Android
-  desktop_payment_methods_1: MacOS
+  desktop_payment_methods_1: macOS
   desktop_payment_methods_2: Linux
   mobile_shop_name_1: App Store
   mobile_shop_name_2: Play Store
   mobile_shop_name_3: F-Droid
   mobile_shop_name_4: AppGallery
   mobile_shop_name_5: Obtainium
-  desktop_shop_name_1: MacOS
+  desktop_shop_name_1: "App Store"
   desktop_shop_name_2: Linux
 ---

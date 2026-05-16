@@ -4,10 +4,10 @@ extra:
   app_verifier:
     description: "De Fingerabdruck cha bruucht werde zum CoMaps z verifiziere, wenn d App als APK oder via Obtanium abeglade worde isch:"
     title: "Verifizier CoMaps"
-  desktop_payment_methods_1: MacOS
+  desktop_payment_methods_1: macOS
   desktop_payment_methods_2: Linux
   desktop_payment_title: Desktop
-  desktop_shop_name_1: MacOS
+  desktop_shop_name_1: "App Store"
   desktop_shop_name_2: Linux
   mobile_payment_methods_1: iOS
   mobile_payment_methods_2: Android
