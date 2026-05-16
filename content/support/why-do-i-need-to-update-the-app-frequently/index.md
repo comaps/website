@@ -8,5 +8,4 @@ extra:
   order: 50
 ---
 
-We constantly work on improvements and bug fixes. New map data is distributed with new app releases.
-We are working to separate app updates and maps updates to be less dependent on app stores, release cycles and the potentially allow the use of more custom maps in the future.
+We constantly work on improvements and bug fixes. Even though map updates are now possible without updating the app, eventually the app will no longer be compatible with new maps, so you'll need to update anyway.
