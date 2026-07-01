@@ -46,6 +46,39 @@ redirect_to: "https://codeberg.org/comaps/comaps/releases"
 ---
 ```
 
+### Shortcodes
+
+Shortcodes are little templates that can be embedded in your markdown pages. Here are some shortcodes that are currently available.
+
+#### Image
+
+Use the image shortcode to add an image to your page.
+For example:
+
+```
+{{ image(src="javi-and-rebecca-bikepackers.webp", alt="Javi and Rebecca", caption="Javi and Rebecca", classes="max-w-40") }}
+```
+
+- `src` (required) is the file name of the image. It assumes the image is placed in the same folder as the markdown page.
+- `alt` (optional) is the alt tag you want to use for the image. Alt tags are always recommended to add for those who use screen readers.
+- `caption` (optional), when used, puts the image in a frame (`<figure>`) and adds a visible caption that describes what's in the image. Usually `alt` and `caption` use the same value, but not always.
+- `classes` (optional) any class names you want to assign to the image.
+
+#### Quote
+Use the quote shortcode to add a blockquote to your page. For example:
+
+```
+{% quote(author="Brandon" work="Tuta Blog" url="https://tuta.com/blog/google-maps-alternatives-foss" date="2026-01-07") %}
+CoMaps can be used offline with or without network connection, comes with no annoying ads, and it doesn’t drain your mobile’s battery (unlike Google Maps). It’s available on Google Play, F-droid, IzzyOnDroid, Obtainium or APK download for Android, and on the App store for iOS.
+{% end %}
+```
+
+- The main quote goes between the `{% quote %}` block and the `{% end %}` block.
+- `author` (required) the person who made the statement you're quoting. In some cases this could be a group or a company.
+- `work` (optional) the name of the published work, like a book, website, etc, that the quote comes from. Think of it like the title in a citation.
+- `url` (optional) a link to read the quote from it's source, if online.
+- `date` (optional) adds a date representing when the quote was made.
+
 ## Deployment
 
 The latest site is automatically deployed from `main` on the merging of a pull request.
