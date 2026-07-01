@@ -8,9 +8,13 @@ extra:
   order: 40
 ---
 
-First, make sure that you have installed the updated app from AppStore, Google Play, FDroid, or Huawei AppGallery. If the map data is outdated, you will see a red warning in the settings button of the main screen bottom menu:  
-![red warning](image34.png)
+First, make sure that you have installed the latest app update from the AppStore, Google Play, or FDroid.
 
-In that case, you can download the latest maps from the “Download Maps” menu.
+Then go to the Download Maps menu, you can find it under _burger icon_ and then _“Download Maps”_.
 
-![Download Maps](image3.png)
+{{ image(src="image34.png" alt="Main menu" classes="max-w-40") }}
+{{ image(src="image3.png" alt="Download maps" classes="max-w-40") }}
+
+In the Download Maps menu, first use the _Check for updates_ button. After that, you can download the latest map data using the _Update All_ button (When the button is not visible, then your map data is already up to date).
+
+{{ image(src="download-maps-menu.jpg" alt="Download Maps menu" classes="max-w-40") }}
