@@ -1,32 +1,32 @@
 name: Publish to host
-
-env:
-  ZOLA_VERSION: 0.22.1
-
 on:
  workflow_dispatch:
  push:
    branches:
      - main
+
 jobs:
   publish:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-latest-large
     name: Publish to host
-    env: 
-      SSHPASS: "${{secrets.SFTP_PASS}}"
-      TMP_PATH: /home/dh_zzxxrk/website-upload-tmp
+    container:
+      env:
+        ZOLA_VERSION: 0.22.1
+        SSHPASS: "${{secrets.SFTP_PASS}}"
+        TMP_PATH: /home/dh_zzxxrk/website-upload-tmp
     steps:
       - name: Echo test
-        run: | 
+        run: |
            echo '${{env.TMP_PATH}}'
 
       - name: Get dependencies
-        run: | 
+        run: |
            apt update -y && apt install -y sshpass openssh-client lftp sudo
 
       - name: Checkout repo
         uses: actions/checkout@v4
-        fetch-depth: 0
+        with:
+          fetch-depth: 0
 
       - name: Setup Zola
         run: |
@@ -34,11 +34,11 @@ jobs:
           tar -zxvf zola.tar.gz
 
       - name: Build Site
-        run: | 
+        run: |
           ./zola build
 
       - name: Prep ssh config for deployer
-        run: | 
+        run: |
            mkdir -p ~/.ssh
            touch ~/.ssh/config
 
