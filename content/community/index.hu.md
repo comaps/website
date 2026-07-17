@@ -5,7 +5,7 @@ extra:
     description: "Az alkalmazás adományokból működik, segítsen javítani ezen"
     title: Adományozás
   features:
-    - description: "Report bugs, discuss ideas, and propose features"
+    - description: "Hibák jelentése, ötletek megvitatása, és funkciók javaslata"
       icon: chats.svg
       link: https://codeberg.org/comaps/comaps/issues
       title: "**Hibajelentés**"

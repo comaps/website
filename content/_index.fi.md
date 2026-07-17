@@ -16,7 +16,7 @@ extra:
         media:
           map: /images/sections/map-s-1.webp
           user: /images/sections/map-m-1.webp
-        title: 'Ei-verkotilassa haku ja reititys'
+        title: 'Haku ja reititys ilman verkkoyhteyttä'
       - 
         description: 'Sovellus on suunniteltu yksityisyys edellä - se ei tunnista, seuraa tai kerää mitään tietoja käyttäjistä. CoMaps on myös auditoitu <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-exodus"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/)in toimesta.'
         highlight:
@@ -39,7 +39,7 @@ extra:
         cta:
           href: community/
           text: inv_title
-        description: 'Käyttäjät, kuten sinä, auttavat sovelluksen kehityksen kanssa lisäämällä paikkoja <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-open-street-map"></use></svg> [OpenStreetMapiin](https://openstreetmap.org)</span>, antamalla palautetta ja osallistumalla sovelluskehitykseen <span class="text-icon"><svg viewbox="0 0 4.233 4.233"> <use href="#icon-codeberg"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> luodaksemme yhdessä mahtavia karttoja. Projekti on Organic Mapsin ja Maps.Me:n haarukka, ja sitä ohjaa avoimen lähdekoodin yhteisö.'
+        description: 'Käyttäjät, kuten sinä, auttavat sovelluksen kehityksen kanssa lisäämällä paikkoja <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-open-street-map"></use></svg> [OpenStreetMapiin](https://openstreetmap.org)</span>, antamalla palautetta ja osallistumalla sovelluskehitykseen <span class="text-icon"><svg viewbox="0 0 4.233 4.233"> <use href="#icon-codeberg"></use></svg> [Codebergissä](https://codeberg.org/comaps)</span> - tavoitteena luoda mahtavia karttoja yhdessä. Projekti pohjautuu Organic Mapsiin ja Maps.Me:hen, mutta on eriytetty niistä, ja sitä ohjaa avoimen lähdekoodin yhteisö.'
         highlight:
           icon: static/images/icons/home/heart.svg
           text: 'Ilmainen kaikille, tehty rakkaudella'

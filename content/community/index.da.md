@@ -5,7 +5,7 @@ extra:
     description: "Appen lever af dine donationer, hjælp med at forbedre den"
     title: Donér
   features:
-    - description: "Report bugs, discuss ideas, and propose features"
+    - description: "Rapporter fejl, diskuter ideer og foreslå funktioner"
       icon: chats.svg
       link: https://codeberg.org/comaps/comaps/issues
       title: "**Rapportér** fejl"

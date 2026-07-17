@@ -19,7 +19,7 @@ extra:
         text: "Il supporto agli utenti, la correzione dei bug e il miglioramento della stabilità dell'applicazione sono la nostra priorità assoluta. L'elenco delle richieste e delle segnalazioni di bug cresce ogni giorno e sono molte le richieste di assistenza a cui rispondere su App Store, Google Play e nelle e-mail di supporto."
         title: Supporto
       - media: /images/donate/developers.webp
-        text: "Currently, all development is done by volunteers with limited time. To implement larger, more ambitious features, paying developers might be necessary in the future."
+        text: "Attualmente, tutto lo sviluppo viene fatto da volontari con tempo limitato. Per implementare funzionalità più vaste e ambiziose, potrebbe essere necessario pagare sviluppatori nel futuro."
         title: Sviluppatori
     title: "Come saranno utilizzate le tue donazioni?"
   hero_description: "Donate and create better maps together!"

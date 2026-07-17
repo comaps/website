@@ -1,5 +1,5 @@
 ---
-title: Terms
+title: Termeni
 weight: 1000
 ---
 

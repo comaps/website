@@ -15,11 +15,11 @@ distribué sous la Licence est distribué « TEL QUEL », SANS GARANTIE D’AU
 SORTE, formelle ou implicite. Consultez la Licence pour connaître les
 autorisations et limitations qui y sont définies.
 
-De nombreuses bibliothèques et outils tiers inclus dans [CoMaps repository]
-(https://codeberg.org/comaps/comaps) ont été développés par plusieurs
-personnes et organisations et sont soumis à licences différentes. Veuillez
-consulter leurs fichiers LICENSE, COPYING ou NOTICE pour connaître les
-conditions d'utilisation.
+De nombreuses bibliothèques et outils tiers inclus dans [CoMaps
+repository](https://codeberg.org/comaps/comaps) ont été développés par
+plusieurs personnes et organisations et sont soumis à licences
+différentes. Veuillez consulter leurs fichiers LICENSE, COPYING ou NOTICE
+pour connaître les conditions d'utilisation.
 
 Consultez le fichier
 [data/copyright.html](https://codeberg.org/comaps/comaps/src/branch/main/data/copyright.html)

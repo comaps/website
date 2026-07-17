@@ -1,10 +1,10 @@
 ---
-description: "隐私保护下的免费开放导航 -<br/>由社区共同创建"
+description: "自由开放的隐私导航 -<br/>由社区打造"
 extra:
   about:
     media: /images/about-us/about.png
     text: "CoMaps 是一款面向旅行者（包括驾驶者、徒步者和骑行者）的、以社区为中心的隐私导航应用。本应用提供注重隐私的导航服务，不识别用户身份，也不收集数据。CoMaps 功能无需互联网连接即可运行，以便在无网络连接的城市或偏远地区进行离线导航。CoMaps 是一个优先考虑社区发展的开源项目。"
-    title: 隐私保护下的免费开放导航，由社区共同创建
+    title: 由社区打造的自由开放的隐私导航
   data:
     link_text: "Learn more about all of our open data sources"
     media_osm: /images/about-us/OSM.png
@@ -15,11 +15,11 @@ extra:
     items:
       - text: "MapsWithMe 导航应用诞生（后更名为 Maps.me）。"
         year: 2011
-      - text: "Maps.me 依据 Apache 许可证 2.0 版开放源代码。"
+      - text: "Maps.me 根据 Apache 2.0 许可开源了源代码。"
         year: 2015
-      - text: "基于 Maps.Me 源代码的 Organic Maps 项目和公司被创立。"
+      - text: "Organic Maps 项目和公司基于 Maps.Me 源代码成立。"
         year: 2021
-      - text: "公司股东迄今未回应社区成员关于治理问题提出来的担忧，导致 Organic Maps 的发展停滞数月之久。"
+      - text: "公司股东迄今未回应社区成员关于治理问题提出来的担忧，Organic Maps 的开发停滞了数月。"
         year: 2025
       - highlight: true
         text: "**CoMaps** 社区和非营利项目以 Organic Maps 源代码为基础，由 Organic Maps 昔日的贡献者所创建。"

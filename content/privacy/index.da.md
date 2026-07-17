@@ -1,14 +1,14 @@
 ---
-title: Privacy
+title: Privatliv
 weight: 900
 ---
 
-At CoMaps, we respect your privacy. CoMaps does not have any form of
-identification of people, advertising, or personal data collection.
+Hos CoMaps respekterer vi dit privatliv. CoMaps har ingen form for
+identifikation af personer, reklame eller indsamling af personoplysninger.
 
-CoMaps does not track you.
+CoMaps sporer dig ikke.
 
-If you have any questions or suggestions, please contact us at
+Hvis du har spørgsmål eller forslag, er du velkommen til at kontakte os på
 legal@comaps.app
 
-Policy effective: 2025-05-01
+Politikken gældende fra: 2025-05-01

@@ -42,7 +42,7 @@ extra:
         description: 'Menschen wie du helfen bei der Entwicklung der App, indem sie Orte zu <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-open-street-map"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span> hinzufügen, Feedback zu Funktionen geben und mit Code auf <span class="text-icon"><svg viewbox="0 0 4.233 4.233"> <use href="#icon-codeberg"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> beitragen, um gemeinsam großartige Karten zu erstellen. Das Projekt ist ein Fork von Oranic Maps und Maps.Me; und wird von einer Open-Source-Community voran gebracht.'
         highlight:
           icon: static/images/icons/home/heart.svg
-          text: 'Kostenlos für alle, mit Liebe gemacht'
+          text: 'Frei für alle, aus Leidenschaft'
         media:
           map: /images/sections/map-s-4.webp
           user: /images/sections/map-m-4.webp

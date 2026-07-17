@@ -1,5 +1,5 @@
 ---
-description: 'Discover more of your journey - Powered by the community'
+description: 'Få mere ud af din rejse - Drevet af fællesskabet'
 extra:
   freedom:
     description: 'Udforsk din rejse, naviger i verden med privatliv og fællesskab i højsædet.'
@@ -9,7 +9,7 @@ extra:
   services:
     items:
       - 
-        description: 'Plan and navigate your trip abroad with just GPS, no need for mobile data. Search waypoints while on distant hiking trails or bike paths.'
+        description: 'Planlæg og naviger på din rejse i udlandet med kun gps, uden mobildata. Søg efter rutepunkter, mens du er på lange vandre- eller cykelture.'
         highlight:
           icon: static/images/icons/home/wifi-off.svg
           text: 'Internet ikke nødvendigt'
@@ -18,7 +18,7 @@ extra:
           user: /images/sections/map-m-1.webp
         title: 'Offline søgning og ruteberegning'
       - 
-        description: 'The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information. CoMaps was also audited by <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-exodus"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/).'
+        description: 'Appen er udviklet med fokus på beskyttelse af privatlivets fred - den identificerer ikke brugere, sporer dig ikke og indsamler ingen oplysninger. CoMaps er også blevet kontrolleret af <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-exodus"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/).'
         highlight:
           icon: static/images/icons/home/shield.svg
           text: 'Privatliv som standard'
@@ -39,7 +39,7 @@ extra:
         cta:
           href: community/
           text: inv_title
-        description: 'People like you are helping build the app by adding locations to <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-open-street-map"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on <span class="text-icon"><svg viewbox="0 0 4.233 4.233"> <use href="#icon-codeberg"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> to create great maps together. The project is a fork of Organic Maps and Maps.Me, and driven by an open-source community.'
+        description: 'Folk som dig er med til at udvikle appen ved at tilføje steder til <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-open-street-map"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, give feedback på funktioner og bidrage med kode på <span class="text-icon"><svg viewbox="0 0 4.233 4.233"> <use href="#icon-codeberg"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> for sammen at skabe fantastiske kort. Projektet er en udløber af Organic Maps og Maps.Me og drives af et open source-fællesskab.'
         highlight:
           icon: static/images/icons/home/heart.svg
           text: 'Fri for alle, lavet med kærlighed'
@@ -49,5 +49,5 @@ extra:
         title: 'Gratis og udviklet af fællesskabet'
 sort_by: weight
 template: home.html
-title: 'Hike, Bike, Drive Offline – Navigate with Privacy'
+title: 'Vandr, cykl, kør offline – Naviger med privatlivsbeskyttelse'
 ---

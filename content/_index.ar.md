@@ -27,7 +27,7 @@ extra:
           user: /images/sections/map-m-2.webp
         title: 'لا تجميع للبيانات'
       - 
-        description: 'يستخدم البطارية بكفاءة،‏ لا يستنزف البطارية مثل برامج التنقل الأخري.'
+        description: 'يستخدم البطارية بكفاءة، ولا يستنزف بطاريتك مثل تطبيقات الملاحة الأخرى.'
         highlight:
           icon: static/images/icons/home/battery.svg
           text: 'كفاءة في إستخدام البطارية'
@@ -42,7 +42,7 @@ extra:
         description: 'يساعد الناس أمثالك في بناء هذا التطبيق بإضافة المزيد من المواقع في  <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-open-street-map"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, ومشاركة الآراء عن الميزات, والمشاركة في كتابة الأكواد على  <span class="text-icon"><svg viewbox="0 0 4.233 4.233"> <use href="#icon-codeberg"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> لصناعة خرائط رائعة سوياَ. هذا التطبيق هو تفَرٌع من Organic Maps و Maps.Me, ومدعوم من المجتمع.'
         highlight:
           icon: static/images/icons/home/heart.svg
-          text: 'مجاني للجميع،مصنوع بالحب'
+          text: 'مفتوح للجميع، صنع بحب'
         media:
           map: /images/sections/map-s-4.webp
           user: /images/sections/map-m-4.webp

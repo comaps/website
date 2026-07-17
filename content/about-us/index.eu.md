@@ -9,8 +9,8 @@ extra:
     link_text: "Learn more about all of our open data sources"
     media_osm: /images/about-us/OSM.png
     media_wikipedia: /images/about-us/Wikidata_stamp.png
-    text: "CoMaps is made possible thanks to the labor of communities who help create and maintain the open data that powers our app: Our maps use OpenStreetMap data, made and maintained by thousands of contributors from all over the world. In order to link to, and provide offline details about cities, attractions and many other points-of-interest, we rely on the articles and photos of the global Wikipedia, Wikidata, and Wikimedia Commons communities."
-    title: "Powered by open data commons"
+    text: "CoMaps gure aplikazioak erabiltzen dituen datu irekiak sortzen eta mantentzen laguntzen duten komunitateen lanari esker egin da posible: gure mapek OpenStreetMap datuak erabiltzen dituzte, mundu osoko milaka laguntzailek eginak eta mantentzen dituztenak. Hiriei, erakarpenei eta beste interes-puntu askori buruzko esteka eta lineaz kanpoko xehetasunak emateko, Wikipedia, Wikidata eta Wikimedia Commons komunitate globaletako artikulu eta argazkietan oinarritzen gara."
+    title: "Open Data Commons-ek bultzatuta"
   history:
     items:
       - text: "MapsWithMe nabigazio-aplikazioa sortu zen (geroago Maps.me izena hartuko zuena)."

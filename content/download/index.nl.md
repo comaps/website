@@ -2,7 +2,7 @@
 description: "Ontdek de potentie van navigatie! Verken offline kaarten, privacygerichte functies en een door de community ontwikkelde app"
 extra:
   app_verifier:
-    description: "Om de app te verifiëren bij het downloaden als APK of via Obtainium kunt u deze vingerafdruk gebruiken:"
+    description: "Om de app te verifiëren bij het downloaden als APK of via Obtainium kan deze vingerafdruk worden gebruikt:"
     title: "Verifiëren van de Android app"
   desktop_payment_methods_1: macOS
   desktop_payment_methods_2: Linux

@@ -3,14 +3,14 @@ description: "Ingyenes és nyílt navigáció adatvédelemmel -<br/>A közössé
 extra:
   about:
     media: /images/about-us/about.png
-    text: "CoMaps is a community-focused privacy navigation app for travelers - drivers, hikers, and cyclists. It offers navigation with privacy - no identifying people and no data collection. CoMaps features can operate without an active internet connection for offline navigation at urban or distant locations, where cellular service is not available. CoMaps is an open-source project, and prioritizes community development."
+    text: "A CoMaps egy közösség- és adatvédelem-központú navigációs alkalmazás utazók – autósok, túrázók és kerékpárosok – számára. Adatvédelmet is biztosító navigációt kínál – nem azonosítja az embereket és nem gyűjt adatokat. A CoMaps funkciói aktív internetkapcsolat nélkül is működnek, így offline navigációra is alkalmas a városokban vagy az olyan távoli helyeken, ahol nincs mobilhálózati lefedettség. A CoMaps egy nyílt forráskódú projekt, amely a közösségi fejlesztést helyezi előtérbe."
     title: "Ingyenes és nyílt navigáció adatvédelemmel, a közösség által létrehozva"
   data:
     link_text: "Learn more about all of our open data sources"
     media_osm: /images/about-us/OSM.png
     media_wikipedia: /images/about-us/Wikidata_stamp.png
-    text: "CoMaps is made possible thanks to the labor of communities who help create and maintain the open data that powers our app: Our maps use OpenStreetMap data, made and maintained by thousands of contributors from all over the world. In order to link to, and provide offline details about cities, attractions and many other points-of-interest, we rely on the articles and photos of the global Wikipedia, Wikidata, and Wikimedia Commons communities."
-    title: "Powered by open data commons"
+    text: "A CoMaps működését azoknak a közösségeknek köszönhetjük, amelyek segítik az alkalmazásunk alapját képező nyílt adatok létrehozását és karbantartását: térképeink az OpenStreetMap adatait használják, amelyeket világszerte több ezer közreműködő állít össze és tart karban. A városokhoz, látnivalókhoz és számos egyéb nevezetességhez való hivatkozás, valamint az ezekről szóló offline információk biztosítása érdekében a globális Wikipédia-, Wikidata- és Wikimedia Commons-közösségek cikkeit és fényképeit használjuk."
+    title: "Nyílt közadatokra építve"
   history:
     items:
       - text: "Létrejött a MapsWithMe navigációs alkalmazás (később Maps.me lett a neve)."

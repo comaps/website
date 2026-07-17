@@ -25,7 +25,7 @@ extra:
   hero_description: "Donate and create better maps together!"
   info:
     - icon: static/images/icons/donate/icon01.svg
-      text: "Olemme riippuvaisia lahjoituksistasi, jotta CoMaps ilmaisena"
+      text: "Olemme riippuvaisia lahjoituksista, jotta CoMaps pysyy ilmaisena"
     - icon: static/images/icons/donate/icon02.svg
       text: "Olemme yhteisö, joka käyttää projektiin vapaa-aikaansa. Rakastamme työtämme ja käyttäjiämme"
     - icon: static/images/icons/donate/icon03.svg

@@ -9,7 +9,7 @@ extra:
     link_text: "Learn more about all of our open data sources"
     media_osm: /images/about-us/OSM.png
     media_wikipedia: /images/about-us/Wikidata_stamp.png
-    text: "CoMaps wird ermöglicht durch die Arbeit von Communities, welche die offenen Daten erstellen und pflegen, auf denen unsere App basiert: Unsere Karten nutzen Daten von OpenStreetMap, welche von Tausenden von Mitwirkenden weltweit erstellt und gepflegt werden. Um auf Städte, Sehenswürdigkeiten und viele andere interessante Orte zu verlinken und Offline-Informationen darüber bereitzustellen, greifen wir auf die Artikel und Fotos der globalen Wikipedia-, Wikidata- und anderer Wikimedia Commons-Gemeinschaften zurück."
+    text: "CoMaps wird ermöglicht durch die Arbeit von Freiwilligen, welche die offenen Daten erstellen und pflegen, auf denen unsere App basiert: Unsere Karten nutzen Daten von OpenStreetMap, welche von Tausenden von Mitwirkenden weltweit erstellt und gepflegt werden. Um auf Städte, Sehenswürdigkeiten und viele andere interessante Orte zu verlinken und Offline-Informationen darüber bereitzustellen, greifen wir auf die Artikel und Fotos der globalen Wikipedia-, Wikidata- und anderer Wikimedia Commons-Gemeinschaften zurück."
     title: "Ermöglicht durch offene Daten"
   history:
     items:

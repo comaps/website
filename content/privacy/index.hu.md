@@ -1,5 +1,5 @@
 ---
-title: Privacy
+title: Adatvédelem
 weight: 900
 ---
 
@@ -9,7 +9,7 @@ gyűjt személyes adatokat.
 
 A CoMaps nem követi Önt.
 
-Ha bármilyen kérdése vagy javaslata van, kérjük, vegye fel velünk a
-kapcsolatot a legal@comaps.app e-mail címen
+Ha bármilyen kérdése vagy javaslata van, vegye fel velünk a kapcsolatot a
+legal@comaps.app e-mail-címen
 
 Az irányelv hatálybalépése: 2025-05-01

@@ -13,7 +13,7 @@ extra:
   funding:
     items:
       - media: /images/donate/infrastructure.webp
-        text: "We have to keep up fast servers, to update the map files and for you to download them without delays. The maps data transfers make up large, and growing, amounts of data each month."
+        text: "Gyors kiszolgálókat kell üzemeltetnünk, hogy frissítsük a térképfájlokat, és bárki késedelem nélkül letölthesse azokat. A térképek átvitele nagy mennyiségű adatforgalmat jelent, és a mennyisége folyamatosan növekszik."
         title: Infrastruktúra
       - media: /images/donate/support.webp
         text: "A felhasználói támogatás, a hibák kijavítása és az alkalmazás stabilitásának javítása elsődleges fontosságú számunkra. A kérések és hibabejelentések listája napról napra növekszik, és számos támogatási kérelem érkezik az App Store-ba, a Google Play-be és a támogatási e-mailekbe."
@@ -25,9 +25,9 @@ extra:
   hero_description: "Donate and create better maps together!"
   info:
     - icon: static/images/icons/donate/icon01.svg
-      text: "We rely on your donations to keep CoMaps free to use"
+      text: "Az adományaikra támaszkodunk, hogy a CoMaps ingyenes maradhasson"
     - icon: static/images/icons/donate/icon02.svg
-      text: "We are a community contributing in our free time. We love what we do, and we love our users"
+      text: "Olyan közösség vagyunk, akik a szabadidőnkben működünk közre a projektben. Szeretjük amit csinálunk, és szeretjük a felhasználóinkat."
     - icon: static/images/icons/donate/icon03.svg
       text: "Az Önök támogatásával olyan adatvédelmi szempontú térképnavigáció kidolgozásán dolgozunk, amely a piac legkedveltebb választása lesz"
   service_text: ~

@@ -42,7 +42,7 @@ extra:
         description: 'আপনার মতো মানুষরা অ্যাপটি তৈরিতে সাহায্য করেছেন <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-open-street-map"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span> এ স্থান যোগ করে, বৈশিষ্ট্যগুলোর উপর প্রতিক্রিয়া দিয়ে এবং <span class="text-icon"><svg viewbox="0 0 4.233 4.233"> <use href="#icon-codeberg"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> এ কোড অবদান করে একসাথে একটি অসাধারণ মানচিত্র তৈরী করে। এই প্রকল্পটি ওপেন-সোর্স সম্প্রদায়ের দ্বারা চালিত Organic Maps এবং Maps.Me এর ফোর্ক।'
         highlight:
           icon: static/images/icons/home/heart.svg
-          text: 'সবার জন্য বিনামূল্যে, ভালোবাসা দিয়ে তৈরি'
+          text: 'সবার জন্য মুক্ত, ভালোবাসা দিয়ে তৈরি'
         media:
           map: /images/sections/map-s-4.webp
           user: /images/sections/map-m-4.webp

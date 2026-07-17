@@ -3,7 +3,7 @@ description: "如同您一样的人创建和维护着 CoMaps"
 extra:
   donate:
     description: 本应用依靠您的捐赠运行，请帮助改善它
-    title: 捐助我们
+    title: 捐赠
   features:
     - description: 报告错误、讨论想法、提出建议
       icon: chats.svg

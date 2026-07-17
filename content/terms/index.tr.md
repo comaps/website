@@ -21,9 +21,9 @@ repository](https://codeberg.org/comaps/comaps) were developed by multiple
 people and organizations, and licensed in different ways. Please refer to
 their LICENSE, COPYING or NOTICE files for terms of use.
 
-See
+CoMaps uygulamasının bütün telif hakkı bildirilerinin bir listesi için
 [data/copyright.html](https://codeberg.org/comaps/comaps/src/branch/main/data/copyright.html)
-file for a full list of copyright notices for the CoMaps application.
+dosyasına göz atın.
 
 Eğer bir soru veya öneriniz varsa lütfen legal@comaps.app adresinden
 iletişime geçin
