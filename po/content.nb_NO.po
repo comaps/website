@@ -6,6 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
+"PO-Revision-Date: 2026-06-02 15:07+0000\n"
 "Last-Translator: tsobuskerudbyen <tsobuskerudbyen@noreply.codeberg.org>\n"
 "Language-Team: Norwegian Bokmål <https://translate.codeberg.org/projects/comaps/website/nb_NO/>\n"
 "Language: nb_NO\n"
@@ -13,7 +14,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.15.2\n"
+"X-Generator: Weblate 2026.5\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -25,7 +26,7 @@ msgstr "Opplev mere på din reise -<br/>Drevet av fellesskapet"
 #: content/_index.md
 #, no-wrap
 msgid "Discover your journey, navigate the world with privacy and community at the forefront."
-msgstr "Oppdag din rute, naviger verden med personvern og felleskap i fokus."
+msgstr "Finn din reise og naviger verden med personvern og åpen kildekode i fokus."
 
 #. type: Yaml Front Matter Hash Value: extra freedom title
 #: content/_index.md
@@ -181,13 +182,13 @@ msgstr ""
 #: content/community/index.md
 #, no-wrap
 msgid "Add translations to make it accessible for more people around the world"
-msgstr ""
+msgstr "Bidra med oversettelser for å gjøre løsningen tilgjengelig for flere"
 
 #. type: Yaml Front Matter Hash Value: extra features title
 #: content/community/index.md
 #, no-wrap
 msgid "**Translate** Text"
-msgstr ""
+msgstr "**Oversett** tekst"
 
 #. type: Yaml Front Matter Hash Value: extra features description
 #: content/community/index.md

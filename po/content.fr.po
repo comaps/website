@@ -6,6 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
+"PO-Revision-Date: 2026-07-06 17:07+0000\n"
 "Last-Translator: Mickael81 <mickael81@noreply.codeberg.org>\n"
 "Language-Team: French <https://translate.codeberg.org/projects/comaps/website/fr/>\n"
 "Language: fr\n"
@@ -13,7 +14,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.16.2\n"
+"X-Generator: Weblate 2026.6.1\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -349,13 +350,13 @@ msgstr "Navigation gratuite et ouverte respectant la vie privée, faite par la c
 #: content/about-us/index.md
 #, no-wrap
 msgid "CoMaps is made possible thanks to the labor of communities who help create and maintain the open data that powers our app: Our maps use OpenStreetMap data, made and maintained by thousands of contributors from all over the world. In order to link to, and provide offline details about cities, attractions and many other points-of-interest, we rely on the articles and photos of the global Wikipedia, Wikidata, and Wikimedia Commons communities."
-msgstr "CoMaps est rendu possible grâce aux travail de la communauté qui crée et maintient les données ouvertes qui alimentent notre application : notre carte utilise les données d'OpenStreetMap, faites et maintenues par des milliers de contributeurs autour du monde. De façon à mettre en lien et fournir des informations hors ligne sur les villes, attractions et nombreux autres points d'intérêt, nous nous appuyons sur les articles et photos de Wikipédia, Wikidata et de Wikimedia Commons communities."
+msgstr "CoMaps est rendu possible grâce au travail des communautés qui créent et maintiennent les données ouvertes qui alimentent notre application : notre carte utilise les données d'OpenStreetMap, faites et maintenues par des milliers de contributeurs autour du monde. De façon à mettre en lien et fournir des informations hors ligne sur les villes, attractions et nombreux autres points d'intérêt, nous nous appuyons sur les articles et photos des communautés mondiales de Wikipédia, Wikidata et Wikimedia Commons."
 
 #. type: Yaml Front Matter Hash Value: extra data title
 #: content/about-us/index.md
 #, no-wrap
 msgid "Powered by open data commons"
-msgstr "Propulsé par Open Data Commons"
+msgstr "Basé sur des communs et des données ouvertes"
 
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md
@@ -526,7 +527,7 @@ msgstr "Sauf disposition contraire de la loi applicable ou accord écrit, le log
 #. type: Plain text
 #: content/terms/index.md
 msgid "Many libraries and 3rd party tools included into [CoMaps repository](https://codeberg.org/comaps/comaps) were developed by multiple people and organizations, and licensed in different ways.  Please refer to their LICENSE, COPYING or NOTICE files for terms of use."
-msgstr "De nombreuses bibliothèques et outils tiers inclus dans [CoMaps repository] (https://codeberg.org/comaps/comaps) ont été développés par plusieurs personnes et organisations et sont soumis à licences différentes. Veuillez consulter leurs fichiers LICENSE, COPYING ou NOTICE pour connaître les conditions d'utilisation."
+msgstr "De nombreuses bibliothèques et outils tiers inclus dans [CoMaps repository](https://codeberg.org/comaps/comaps) ont été développés par plusieurs personnes et organisations et sont soumis à licences différentes. Veuillez consulter leurs fichiers LICENSE, COPYING ou NOTICE pour connaître les conditions d'utilisation."
 
 #. type: Plain text
 #: content/terms/index.md

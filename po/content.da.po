@@ -6,21 +6,21 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"Last-Translator: Bovi887 <bovi887@noreply.codeberg.org>\n"
+"PO-Revision-Date: 2026-05-07 22:58+0000\n"
+"Last-Translator: ERYpTION <eryption@noreply.codeberg.org>\n"
 "Language-Team: Danish <https://translate.codeberg.org/projects/comaps/website/da/>\n"
 "Language: da\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.17\n"
+"X-Generator: Weblate 5.17.1\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
-#, fuzzy, no-wrap
-#| msgid "Discover more of your journey -<br/>Powered by the community"
+#, no-wrap
 msgid "Discover more of your journey - Powered by the community"
-msgstr "Få mere ud af din rejse -<br/>Drevet af fællesskabet"
+msgstr "Få mere ud af din rejse - Drevet af fællesskabet"
 
 #. type: Yaml Front Matter Hash Value: extra freedom description
 #: content/_index.md
@@ -42,10 +42,9 @@ msgstr "Fællesskab + Åbne kort"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
-#, fuzzy, no-wrap
-#| msgid "Plan and navigate your trip abroad without the need for mobile data, and search waypoints while on a distant hike."
+#, no-wrap
 msgid "Plan and navigate your trip abroad with just GPS, no need for mobile data. Search waypoints while on distant hiking trails or bike paths."
-msgstr "Planlæg og naviger på din rejse i udlandet uden behov for mobildata, og søg efter rutepunkter, mens du er på en lang vandretur."
+msgstr "Planlæg og naviger på din rejse i udlandet med kun gps, uden mobildata. Søg efter rutepunkter, mens du er på lange vandre- eller cykelture."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
@@ -63,7 +62,7 @@ msgstr "Offline søgning og ruteberegning"
 #: content/_index.md
 #, no-wrap
 msgid "The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information. CoMaps was also audited by <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-exodus\"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/)."
-msgstr ""
+msgstr "Appen er udviklet med fokus på beskyttelse af privatlivets fred - den identificerer ikke brugere, sporer dig ikke og indsamler ingen oplysninger. CoMaps er også blevet kontrolleret af <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-exodus\"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/)."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
@@ -103,10 +102,9 @@ msgstr ""
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
-#, fuzzy, no-wrap
-#| msgid "People like you helped build the app by adding locations to <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on Codeberg in the open-source community."
+#, no-wrap
 msgid "People like you are helping build the app by adding locations to <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> to create great maps together. The project is a fork of Organic Maps and Maps.Me, and driven by an open-source community."
-msgstr "Folk som dig har bidraget til udviklingen af appen ved at tilføje lokationer til <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, give feedback på funktioner og bidrage med kode på Codeberg i open source-fællesskabet."
+msgstr "Folk som dig er med til at udvikle appen ved at tilføje steder til <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, give feedback på funktioner og bidrage med kode på <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> for sammen at skabe fantastiske kort. Projektet er en udløber af Organic Maps og Maps.Me og drives af et open source-fællesskab."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
@@ -122,10 +120,9 @@ msgstr "Gratis og udviklet af fællesskabet"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/_index.md
-#, fuzzy, no-wrap
-#| msgid "Hike, Bike, Drive Offline Navigate with Privacy"
+#, no-wrap
 msgid "Hike, Bike, Drive Offline – Navigate with Privacy"
-msgstr "Vandr, cykl, kør offline, naviger med privatliv"
+msgstr "Vandr, cykl, kør offline – Naviger med privatlivsbeskyttelse"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/news/_index.md
@@ -153,8 +150,7 @@ msgstr "Donér"
 
 #. type: Yaml Front Matter Hash Value: extra features description
 #: content/community/index.md
-#, fuzzy, no-wrap
-#| msgid "Report bugs, discuss idea, and propose features"
+#, no-wrap
 msgid "Report bugs, discuss ideas, and propose features"
 msgstr "Rapporter fejl, diskuter ideer og foreslå funktioner"
 
@@ -262,10 +258,9 @@ msgstr "Doner med Open Collective"
 
 #. type: Yaml Front Matter Hash Value: extra funding items text
 #: content/donate/index.md
-#, fuzzy, no-wrap
-#| msgid "We pay for fast servers, so anyone in the world can download free map data updates without delays. The maps data transfers are hundreds of terabytes monthly, and the amount is growing."
+#, no-wrap
 msgid "We have to keep up fast servers, to update the map files and for you to download them without delays. The maps data transfers make up large, and growing, amounts of data each month."
-msgstr "Vi betaler for hurtige server så alle verden over kan hente gratis kortopdateringer uden forsinkelse. Der overføres hundredevis af terabyte om måneden og datamængden stiger kun."
+msgstr "Vi er nødt til at sikre hurtige servere, så kortfilerne kan opdateres, og du kan downloade dem uden forsinkelser. Overførslerne af kortdata udgør store og stadigt voksende datamængder hver måned."
 
 #. type: Yaml Front Matter Hash Value: extra funding items title
 #: content/donate/index.md
@@ -289,7 +284,7 @@ msgstr "Support"
 #: content/donate/index.md
 #, no-wrap
 msgid "Currently, all development is done by volunteers with limited time. To implement larger, more ambitious features, paying developers might be necessary in the future."
-msgstr ""
+msgstr "I øjeblikket varetages al udvikling af frivillige, der har begrænset tid til rådighed. For at kunne implementere større og mere ambitiøse funktioner kan det i fremtiden blive nødvendigt at ansætte betalte udviklere."
 
 #. type: Yaml Front Matter Hash Value: extra funding items title
 #: content/donate/index.md
@@ -305,17 +300,15 @@ msgstr "Hvordan vil midlerne blive anvendt?"
 
 #. type: Yaml Front Matter Hash Value: extra info text
 #: content/donate/index.md
-#, fuzzy, no-wrap
-#| msgid "We rely on your donations to keep CoMaps open and free"
+#, no-wrap
 msgid "We rely on your donations to keep CoMaps free to use"
-msgstr "Vi er afhængige af dine donationer for at holde CoMaps åben og gratis"
+msgstr "Vi er afhængige af dine donationer for at kunne tilbyde CoMaps gratis"
 
 #. type: Yaml Front Matter Hash Value: extra info text
 #: content/donate/index.md
-#, fuzzy, no-wrap
-#| msgid "We are a few enthusiasts contributing in our free time. We love what we do, and we love our users"
+#, no-wrap
 msgid "We are a community contributing in our free time. We love what we do, and we love our users"
-msgstr "Vi er en gruppe entusiaster, der bidrager i vores fritid. Vi elsker det, vi laver, og vi elsker vores brugere"
+msgstr "Vi er et fællesskab, der bidrager i vores fritid. Vi elsker det, vi laver, og vi elsker vores brugere"
 
 #. type: Yaml Front Matter Hash Value: extra info text
 #: content/donate/index.md
@@ -343,10 +336,9 @@ msgstr "Fri og åben navigation med privatlivsbeskyttelse -<br/>Bygget af fælle
 
 #. type: Yaml Front Matter Hash Value: extra about text
 #: content/about-us/index.md
-#, fuzzy, no-wrap
-#| msgid "CoMaps is a community-focused privacy navigation app for travelers - drivers, hikers, and cyclists. It uses the crowd-sourced OpenStreetMap data with contributors from all over the globe. It offers navigation with privacy - no identifying people and no data collection. CoMaps features can operate without an active internet connection for offline navigation at urban or distant locations, where cellular service is not available. CoMaps is an open-source project, and prioritizes community development."
+#, no-wrap
 msgid "CoMaps is a community-focused privacy navigation app for travelers - drivers, hikers, and cyclists. It offers navigation with privacy - no identifying people and no data collection. CoMaps features can operate without an active internet connection for offline navigation at urban or distant locations, where cellular service is not available. CoMaps is an open-source project, and prioritizes community development."
-msgstr "CoMaps er en fællesskabsorienteret navigationsapp med fokus på beskyttelse af privatlivets fred for rejsende – bilister, vandrere og cyklister. Den bruger crowd-sourcede OpenStreetMap-data med bidrag fra hele verden. Den tilbyder navigation med beskyttelse af privatlivets fred – ingen identifikation af personer og ingen dataindsamling. CoMaps-funktionerne fungerer uden en aktiv internetforbindelse, så der kan navigeres offline i byområder eller afsides egne, hvor der ikke er mobildækning. CoMaps er et open source-projekt, der prioriterer udvikling af fællesskabet."
+msgstr "CoMaps er en fællesskabsorienteret navigationsapp for rejsende – bilister, vandrere og cyklister. Den tilbyder navigation med beskyttelse af privatlivets fred – ingen identifikation af personer og ingen dataindsamling. CoMaps-funktionerne fungerer uden en aktiv internetforbindelse, så der kan navigeres offline i byområder eller afsides egne, hvor der ikke er mobildækning. CoMaps er et open source-projekt, der prioriterer udvikling af fællesskab."
 
 #. type: Yaml Front Matter Hash Value: extra about title
 #: content/about-us/index.md
@@ -358,13 +350,13 @@ msgstr "Fri og åben navigation med privatlivsbeskyttelse, udviklet af fællessk
 #: content/about-us/index.md
 #, no-wrap
 msgid "CoMaps is made possible thanks to the labor of communities who help create and maintain the open data that powers our app: Our maps use OpenStreetMap data, made and maintained by thousands of contributors from all over the world. In order to link to, and provide offline details about cities, attractions and many other points-of-interest, we rely on the articles and photos of the global Wikipedia, Wikidata, and Wikimedia Commons communities."
-msgstr ""
+msgstr "CoMaps er blevet til takket være indsatsen fra de fællesskaber, der er med til at skabe og vedligeholde de åbne data, som vores app bygger på: Vores kort bruger data fra OpenStreetMap, som er udarbejdet og vedligeholdt af tusindvis af bidragydere fra hele verden. For at kunne linke til og give offline-oplysninger om byer, seværdigheder og mange andre interessante steder benytter vi os af artikler og fotos fra de globale fællesskaber på Wikipedia, Wikidata og Wikimedia Commons."
 
 #. type: Yaml Front Matter Hash Value: extra data title
 #: content/about-us/index.md
 #, no-wrap
 msgid "Powered by open data commons"
-msgstr ""
+msgstr "Drevet af fælles åbne data"
 
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md
@@ -406,13 +398,13 @@ msgstr "Historie"
 #: content/about-us/index.md
 #, no-wrap
 msgid "See the full list of media coverage about CoMaps."
-msgstr ""
+msgstr "Se den fulde liste over medieomtale af CoMaps."
 
 #. type: Yaml Front Matter Hash Value: extra media_highlights title
 #: content/about-us/index.md
 #, no-wrap
 msgid "Media Highlights"
-msgstr ""
+msgstr "Medieomtale"
 
 #. type: Yaml Front Matter Hash Value: extra vm items text
 #: content/about-us/index.md
@@ -454,20 +446,19 @@ msgstr "Udnyt navigationens potentiale! Oplev offline kort, privatlivsfokuserede
 #: content/download/index.md
 #, no-wrap
 msgid "To verify the app when downloading it as an APK or via Obtainium you can use this fingerprint:"
-msgstr ""
+msgstr "For at bekræfte appen, når du downloader den som en APK-fil eller via Obtainium, kan du bruge dette fingeraftryk:"
 
 #. type: Yaml Front Matter Hash Value: extra app_verifier title
 #: content/download/index.md
 #, no-wrap
 msgid "Verifying the Android app"
-msgstr ""
+msgstr "Bekræftelse af Android-appen"
 
 #. type: Yaml Front Matter Hash Value: extra releases title
 #: content/download/index.md
-#, fuzzy, no-wrap
-#| msgid "Releases"
+#, no-wrap
 msgid "Latest Releases"
-msgstr "Udgivelser"
+msgstr "Seneste udgivelser"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/download/index.md
@@ -488,61 +479,60 @@ msgstr "API'en er dokumenteret på [comaps.at/api](https://comaps.at/api)."
 
 #. type: Hash Value: menu_privacy
 #: content/privacy/index.md translations.yaml
-#, fuzzy, no-wrap
-#| msgid "Privacy-Centric"
+#, no-wrap
 msgid "Privacy"
-msgstr "Fokus på privatlivets fred"
+msgstr "Privatliv"
 
 #. type: Plain text
 #: content/privacy/index.md
 msgid "At CoMaps, we respect your privacy. CoMaps does not have any form of identification of people, advertising, or personal data collection."
-msgstr ""
+msgstr "Hos CoMaps respekterer vi dit privatliv. CoMaps har ingen form for identifikation af personer, reklame eller indsamling af personoplysninger."
 
 #. type: Plain text
 #: content/privacy/index.md
 msgid "CoMaps does not track you."
-msgstr ""
+msgstr "CoMaps sporer dig ikke."
 
 #. type: Plain text
 #: content/privacy/index.md content/terms/index.md
 msgid "If you have any questions or suggestions, please contact us at legal@comaps.app"
-msgstr ""
+msgstr "Hvis du har spørgsmål eller forslag, er du velkommen til at kontakte os på legal@comaps.app"
 
 #. type: Plain text
 #: content/privacy/index.md
 msgid "Policy effective: 2025-05-01"
-msgstr ""
+msgstr "Politikken gældende fra: 2025-05-01"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/terms/index.md
 #, no-wrap
 msgid "Terms"
-msgstr ""
+msgstr "Vilkår"
 
 #. type: Plain text
 #: content/terms/index.md
 msgid "This app is licensed under the Apache License, Version 2.0 (the \"License\"); This application cannot be used except in compliance with the License."
-msgstr ""
+msgstr "Denne app er udgivet under Apache-licensen, version 2.0 (herefter benævnt \"licensen\"); Denne applikation må kun anvendes i overensstemmelse med licensen."
 
 #. type: Plain text
 #: content/terms/index.md
 msgid "Read [the full license text](https://www.apache.org/licenses/LICENSE-2.0)."
-msgstr ""
+msgstr "Læs [the full license text](https://www.apache.org/licenses/LICENSE-2.0)."
 
 #. type: Plain text
 #: content/terms/index.md
 msgid "Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License."
-msgstr ""
+msgstr "Medmindre andet er påkrævet i henhold til gældende lovgivning eller aftalt skriftligt, distribueres software, der udbydes under denne licens, \"som den er\", UDEN GARANTIER ELLER BETINGELSER AF NOGEN ART, hverken udtrykkelige eller underforståede. Se licensen for den præcise formulering vedrørende rettigheder og begrænsninger i henhold til licensen."
 
 #. type: Plain text
 #: content/terms/index.md
 msgid "Many libraries and 3rd party tools included into [CoMaps repository](https://codeberg.org/comaps/comaps) were developed by multiple people and organizations, and licensed in different ways.  Please refer to their LICENSE, COPYING or NOTICE files for terms of use."
-msgstr ""
+msgstr "Mange biblioteker og tredjepartsværktøjer, der er inkluderet i [CoMaps repository](https://codeberg.org/comaps/comaps), er udviklet af forskellige personer og organisationer og er underlagt forskellige licensvilkår. Se filerne LICENSE, COPYING eller NOTICE for at få oplysninger om brugsbetingelserne."
 
 #. type: Plain text
 #: content/terms/index.md
 msgid "See [data/copyright.html](https://codeberg.org/comaps/comaps/src/branch/main/data/copyright.html) file for a full list of copyright notices for the CoMaps application."
-msgstr ""
+msgstr "Se filen [data/copyright.html](https://codeberg.org/comaps/comaps/src/branch/main/data/copyright.html) for en komplet liste over ophavsretsmeddelelser vedrørende CoMaps-applikationen."
 
 #. type: Hash Value: all_title
 #: translations.yaml
@@ -626,7 +616,7 @@ msgstr "Hjem"
 #: translations.yaml
 #, no-wrap
 msgid "Media Coverage"
-msgstr ""
+msgstr "Mediedækning"
 
 #. type: Hash Value: menu_news
 #: translations.yaml

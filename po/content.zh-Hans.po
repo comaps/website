@@ -6,6 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
+"PO-Revision-Date: 2026-07-10 03:47+0000\n"
 "Last-Translator: Outbreak2096 <outbreak2096@noreply.codeberg.org>\n"
 "Language-Team: Chinese (Simplified Han script) <https://translate.codeberg.org/projects/comaps/website/zh_Hans/>\n"
 "Language: zh-Hans\n"
@@ -13,7 +14,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.16.2\n"
+"X-Generator: Weblate 2026.6.1\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -103,7 +104,7 @@ msgstr ""
 #: content/_index.md
 #, no-wrap
 msgid "People like you are helping build the app by adding locations to <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> to create great maps together. The project is a fork of Organic Maps and Maps.Me, and driven by an open-source community."
-msgstr "如同您一样的用户通过向 <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span> 添加地点、测试功能并提供反馈、无私地通过 <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> 贡献代码，共同打造卓越的地图服务。项目衍生自Organic Maps和Maps.Me，由开源社区共同推动发展。"
+msgstr "像您这样的用户正在通过向 <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span> 添加位置信息、提供功能反馈以及在 <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> 上贡献代码来帮助构建这款应用，共同打造卓越的地图。该项目是 Organic Maps 和 Maps.Me 的一个分支，由开源社区驱动。"
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
@@ -145,7 +146,7 @@ msgstr "本应用依靠您的捐赠运行，请帮助改善它"
 #: content/community/index.md content/donate/index.md translations.yaml
 #, no-wrap
 msgid "Donate"
-msgstr "捐助我们"
+msgstr "捐赠"
 
 #. type: Yaml Front Matter Hash Value: extra features description
 #: content/community/index.md
@@ -229,37 +230,37 @@ msgstr "社区"
 #: content/donate/index.md
 #, no-wrap
 msgid "Donate and create better maps together!"
-msgstr "捐助我们，共同创建更好的地图！"
+msgstr "请捐赠，共同创建更好的地图！"
 
 #. type: Yaml Front Matter Hash Value: extra donate info description
 #: content/donate/index.md
 #, no-wrap
 msgid "Donate to keep the project running"
-msgstr "您的捐款将用于维持本项目的运行"
+msgstr "请捐赠以保持项目运行"
 
 #. type: Yaml Front Matter Hash Value: extra donate info title
 #: content/donate/index.md
 #, no-wrap
 msgid "Created with love by enthusiast volunteers"
-msgstr "本应用由热心志愿者用爱制成"
+msgstr "由热心志愿者倾情打造"
 
 #. type: Yaml Front Matter Hash Value: extra donate liberapay title
 #: content/donate/index.md
 #, no-wrap
 msgid "Donate via Liberapay"
-msgstr "使用 Liberapay 捐款"
+msgstr "通过 Liberapay 捐赠"
 
 #. type: Yaml Front Matter Hash Value: extra donate open_collective title
 #: content/donate/index.md
 #, no-wrap
 msgid "Donate via Open Collective"
-msgstr "使用 Open Collective 捐款"
+msgstr "通过 Open Collective 捐赠"
 
 #. type: Yaml Front Matter Hash Value: extra funding items text
 #: content/donate/index.md
 #, no-wrap
 msgid "We have to keep up fast servers, to update the map files and for you to download them without delays. The maps data transfers make up large, and growing, amounts of data each month."
-msgstr "我们需维持高速服务器，以便及时更新地图文件并确保您能够无延迟下载。地图数据传输量十分庞大，且每月都在持续增长。"
+msgstr "我们必须保持高速服务器，更新地图文件并确保您无延迟下载。地图数据传输量十分庞大，且每月都在持续增长。"
 
 #. type: Yaml Front Matter Hash Value: extra funding items title
 #: content/donate/index.md
@@ -277,7 +278,7 @@ msgstr "用户支持、修复错误、提升应用稳定性是我们的首要任
 #: content/donate/index.md
 #, no-wrap
 msgid "Support"
-msgstr "支持我们"
+msgstr "支持"
 
 #. type: Yaml Front Matter Hash Value: extra funding items text
 #: content/donate/index.md
@@ -289,7 +290,7 @@ msgstr "目前，所有开发工作都是由时间有限的志愿者完成的。
 #: content/donate/index.md
 #, no-wrap
 msgid "Developers"
-msgstr "开发者们"
+msgstr "开发者"
 
 #. type: Yaml Front Matter Hash Value: extra funding title
 #: content/donate/index.md
@@ -301,7 +302,7 @@ msgstr "资金将用在何处？"
 #: content/donate/index.md
 #, no-wrap
 msgid "We rely on your donations to keep CoMaps free to use"
-msgstr "我们依靠您的捐赠来维持 CoMaps 的免费使用"
+msgstr "我们依靠您的捐赠来保持 CoMaps 免费使用"
 
 #. type: Yaml Front Matter Hash Value: extra info text
 #: content/donate/index.md
@@ -331,7 +332,7 @@ msgstr "帮助"
 #: content/about-us/index.md
 #, no-wrap
 msgid "Free and open navigation with privacy -<br/>Built by the community"
-msgstr "隐私保护下的免费开放导航 -<br/>由社区共同创建"
+msgstr "自由开放的隐私导航 -<br/>由社区打造"
 
 #. type: Yaml Front Matter Hash Value: extra about text
 #: content/about-us/index.md
@@ -343,7 +344,7 @@ msgstr "CoMaps 是一款面向旅行者（包括驾驶者、徒步者和骑行�
 #: content/about-us/index.md
 #, no-wrap
 msgid "Free and open navigation with privacy, built by the community"
-msgstr "隐私保护下的免费开放导航，由社区共同创建"
+msgstr "由社区打造的自由开放的隐私导航"
 
 #. type: Yaml Front Matter Hash Value: extra data text
 #: content/about-us/index.md
@@ -367,19 +368,19 @@ msgstr "MapsWithMe 导航应用诞生（后更名为 Maps.me）。"
 #: content/about-us/index.md
 #, no-wrap
 msgid "Maps.me opened the source code under Apache 2.0 license."
-msgstr "Maps.me 依据 Apache 许可证 2.0 版开放源代码。"
+msgstr "Maps.me 根据 Apache 2.0 许可开源了源代码。"
 
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md
 #, no-wrap
 msgid "The Organic Maps project & company were founded, based on the Maps.Me source code."
-msgstr "基于 Maps.Me 源代码的 Organic Maps 项目和公司被创立。"
+msgstr "Organic Maps 项目和公司基于 Maps.Me 源代码成立。"
 
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md
 #, no-wrap
 msgid "Governance issues and community concerns not addressed by company shareholders stalled the development of Organic Maps for months."
-msgstr "公司股东迄今未回应社区成员关于治理问题提出来的担忧，导致 Organic Maps 的发展停滞数月之久。"
+msgstr "公司股东迄今未回应社区成员关于治理问题提出来的担忧，Organic Maps 的开发停滞了数月。"
 
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md

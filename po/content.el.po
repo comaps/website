@@ -6,14 +6,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"Last-Translator: jimkats <jimkats@noreply.codeberg.org>\n"
+"PO-Revision-Date: 2026-06-18 16:07+0000\n"
+"Last-Translator: \"Lefteris T.\" <trlef19@noreply.codeberg.org>\n"
 "Language-Team: Greek <https://translate.codeberg.org/projects/comaps/website/el/>\n"
 "Language: el\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.15.2\n"
+"X-Generator: Weblate 2026.6.1\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -25,7 +26,7 @@ msgstr "Ανακαλύψτε περισσότερα από το ταξίδι σ�
 #: content/_index.md
 #, no-wrap
 msgid "Discover your journey, navigate the world with privacy and community at the forefront."
-msgstr ""
+msgstr "Ανακαλύψτε το ταξίδι σας, πλοηγηθείτε στον κόσμο με προτεραιότητα στην ιδιωτικότητα και την κοινότητα."
 
 #. type: Yaml Front Matter Hash Value: extra freedom title
 #: content/_index.md
@@ -55,7 +56,7 @@ msgstr "Δεν χρειάζεται διαδίκτυο"
 #: content/_index.md
 #, no-wrap
 msgid "Offline Search and Route"
-msgstr ""
+msgstr "Αναζήτηση Εκτός Σύνδεσης και Διαδρομή"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
@@ -67,7 +68,7 @@ msgstr ""
 #: content/_index.md
 #, no-wrap
 msgid "Privacy by default"
-msgstr "Απόρρητο από προεπιλογή"
+msgstr "Ιδιωτικό από προεπιλογή"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
@@ -91,7 +92,7 @@ msgstr "Αποδοτική χρήση μπαταρίας"
 #: content/_index.md
 #, no-wrap
 msgid "Save Your Battery"
-msgstr "Σώστε την μπαταρία σας"
+msgstr "Εξοικονομήστε την μπαταρία σας"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
@@ -103,7 +104,7 @@ msgstr ""
 #: content/_index.md
 #, no-wrap
 msgid "Free for everyone, Made with love"
-msgstr "Δωρεάν για όλους, φτιαγμένο με αγάπη"
+msgstr "Ελεύθερο για όλους, Φτιαγμένο με αγάπη"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
@@ -121,7 +122,7 @@ msgstr ""
 #: content/news/_index.md
 #, no-wrap
 msgid "News and Releases"
-msgstr "Νέα και Εκδόσεις"
+msgstr "Νέα και Κυκλοφορίες"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/community/index.md
@@ -133,7 +134,7 @@ msgstr "Το CoMaps δημιουργήθηκε και συντηρείται α�
 #: content/community/index.md translations.yaml
 #, no-wrap
 msgid "The app runs on your donations, help improve it"
-msgstr "Η εφαρμογή τρέχει στις δικές σας δωρεές, βοηθείστε στη βελτίωση"
+msgstr "Η εφαρμογή τρέχει με τις δικές σας δωρεές, βοηθήστε στη βελτίωσή της"
 
 #. type: Hash Value: menu_donate
 #: content/community/index.md content/donate/index.md translations.yaml
@@ -151,67 +152,67 @@ msgstr "Αναφέρετε προβλήματα, συζητείστε ιδέες
 #: content/community/index.md
 #, no-wrap
 msgid "**Report** Bugs"
-msgstr "**Αναφορά** προβλημάτων"
+msgstr "**Αναφορά** Σφαλμάτων"
 
 #. type: Yaml Front Matter Hash Value: extra features description
 #: content/community/index.md
 #, no-wrap
 msgid "Develop new features, help fix bugs, and review code"
-msgstr ""
+msgstr "Αναπτύξτε νέα χαρακτηριστικά, βοηθήστε στην επιδιόρθωση σφαλμάτων και εξετάστε τον κώδικα"
 
 #. type: Yaml Front Matter Hash Value: extra features title
 #: content/community/index.md
 #, no-wrap
 msgid "**Develop** Functionality"
-msgstr "**Ανάπτυξη** λειτουργικότητας"
+msgstr "**Ανάπτυξη** Λειτουργικότητας"
 
 #. type: Yaml Front Matter Hash Value: extra features description
 #: content/community/index.md
 #, no-wrap
 msgid "Shape the direction of the product experience"
-msgstr ""
+msgstr "Διαμορφώστε την κατεύθυνση της εμπειρίας προϊόντος"
 
 #. type: Yaml Front Matter Hash Value: extra features title
 #: content/community/index.md
 #, no-wrap
 msgid "**Design** Interface"
-msgstr "**Σχεδιασμός** διεπαφής"
+msgstr "**Σχεδιασμός** Διεπαφής"
 
 #. type: Yaml Front Matter Hash Value: extra features description
 #: content/community/index.md
 #, no-wrap
 msgid "Add translations to make it accessible for more people around the world"
-msgstr ""
+msgstr "Προσθέστε μεταφράσεις για να τη κάνετε προσβάσιμη σε περισσότερους ανθρώπους στον κόσμο"
 
 #. type: Yaml Front Matter Hash Value: extra features title
 #: content/community/index.md
 #, no-wrap
 msgid "**Translate** Text"
-msgstr "**Μετάφραση** κειμένου"
+msgstr "**Μετάφραση** Κειμένου"
 
 #. type: Yaml Front Matter Hash Value: extra features description
 #: content/community/index.md
 #, no-wrap
 msgid "Add info about shops, points of interest, trails, and public transport to OpenStreetMap"
-msgstr ""
+msgstr "Προσθήκη πληροφοριών για καταστήματα, σημεία ενδιαφέροντος, μονοπάτια και δημόσια συγκοινωνία στο OpenStreetMap"
 
 #. type: Yaml Front Matter Hash Value: extra features title
 #: content/community/index.md
 #, no-wrap
 msgid "**Add** Place Info"
-msgstr "**Προσθήκη** πληροφοριών τοποθεσιών"
+msgstr "**Προσθήκη** Πληροφοριών Τοποθεσιών"
 
 #. type: Yaml Front Matter Hash Value: extra features description
 #: content/community/index.md
 #, no-wrap
 msgid "Help people use the app, and answer questions"
-msgstr ""
+msgstr "Βοηθήστε τον κόσμο να χρησιμοποιεί την εφαρμογή και απαντήστε σε ερωτήσεις"
 
 #. type: Yaml Front Matter Hash Value: extra features title
 #: content/community/index.md
 #, no-wrap
 msgid "**Help** Support"
-msgstr "**Βοήθεια** υποστήριξης"
+msgstr "**Βοήθεια** Υποστήριξη"
 
 #. type: Hash Value: menu_community
 #: content/community/index.md translations.yaml
@@ -229,13 +230,13 @@ msgstr "Κάντε δωρεά και δημιουργήστε καλύτερου
 #: content/donate/index.md
 #, no-wrap
 msgid "Donate to keep the project running"
-msgstr ""
+msgstr "Δωρίστε για να κρατήσετε το έργο ζωντανό"
 
 #. type: Yaml Front Matter Hash Value: extra donate info title
 #: content/donate/index.md
 #, no-wrap
 msgid "Created with love by enthusiast volunteers"
-msgstr ""
+msgstr "Φτιαγμένο με αγάπη από ενθουσιώδεις εθελοντές"
 
 #. type: Yaml Front Matter Hash Value: extra donate liberapay title
 #: content/donate/index.md
@@ -259,7 +260,7 @@ msgstr ""
 #: content/donate/index.md
 #, no-wrap
 msgid "Developers"
-msgstr ""
+msgstr "Προγραμματιστές"
 
 #. type: Yaml Front Matter Hash Value: extra funding items text
 #: content/donate/index.md
@@ -277,7 +278,7 @@ msgstr "Υποδομή"
 #: content/donate/index.md
 #, no-wrap
 msgid "User support, fixing bugs, and improving the stability of the app are our top priority. The list of requests and bug reports grows every day, and there are many support requests to respond to on the App Store, Google Play, and support emails."
-msgstr ""
+msgstr "Η υποστήριξη των χρηστών, η διόρθωση σφαλμάτων και η βελτίωση της σταθερότητας της εφαρμογής αποτελούν την πρώτη μας προτεραιότητα. Ο κατάλογος των αιτημάτων και των αναφορών σφαλμάτων αυξάνεται καθημερινά, ενώ υπάρχουν πολλά αιτήματα υποστήριξης στα οποία πρέπει να απαντήσουμε στο App Store, στο Google Play και μέσω των email υποστήριξης."
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/donate/index.md content/support/_index.md
@@ -289,7 +290,7 @@ msgstr "Υποστήριξη"
 #: content/donate/index.md
 #, no-wrap
 msgid "How will funding be used?"
-msgstr ""
+msgstr "Πώς θα αξιοποιηθεί η χρηματοδότηση;"
 
 #. type: Yaml Front Matter Hash Value: extra info text
 #: content/donate/index.md
@@ -307,19 +308,19 @@ msgstr ""
 #: content/donate/index.md
 #, no-wrap
 msgid "With your support, we are working toward privacy-focused map navigation that is the preferred choice on the market"
-msgstr ""
+msgstr "Με τη στήριξή σας, εργαζόμαστε για την ανάπτυξη μιας υπηρεσίας πλοήγησης με έμφαση στην προστασία της ιδιωτικότητας, η οποία θα αποτελεί την προτιμώμενη επιλογή στην αγορά"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/support/_index.md
 #, no-wrap
 msgid "Need assistance? Search for answers to common questions. Get the support you need and connect with others in the community for help."
-msgstr ""
+msgstr "Χρειάζεστε βοήθεια; Αναζητήστε απαντήσεις σε συχνές ερωτήσεις. Λάβετε την υποστήριξη που χρειάζεστε και επικοινωνήστε με άλλα μέλη της κοινότητας για βοήθεια."
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/about-us/index.md
 #, no-wrap
 msgid "Free and open navigation with privacy -<br/>Built by the community"
-msgstr ""
+msgstr "Δωρεάν και ανοιχτή πλοήγηση με ιδιωτικότητα -<br/>Φτιάχτηκε απ' την κοινότητα"
 
 #. type: Yaml Front Matter Hash Value: extra about text
 #: content/about-us/index.md
@@ -331,37 +332,37 @@ msgstr ""
 #: content/about-us/index.md
 #, no-wrap
 msgid "Free and open navigation with privacy, built by the community"
-msgstr ""
+msgstr "Δωρεάν και ανοιχτή πλοήγηση με ιδιωτικότητα, φτιάχτηκε απ' την κοινότητα"
 
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md
 #, no-wrap
 msgid "MapsWithMe navigation app created (later renamed to Maps.me)."
-msgstr ""
+msgstr "Δημιουργήθηκε η εφαρμογή MapsWithMe (αργότερα μετονομάστηκε σε Maps.me)."
 
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md
 #, no-wrap
 msgid "Maps.me opened the source code under Apache 2.0 license."
-msgstr ""
+msgstr "Η Maps.me κυκλοφόρησε τον πηγαίο κώδικα υπό την άδεια Apache 2.0."
 
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md
 #, no-wrap
 msgid "The Organic Maps project & company were founded, based on the Maps.Me source code."
-msgstr ""
+msgstr "Το έργο & εταιρεία Organic Maps ιδρύθηκαν, βασιζόμενα στον πηγαίο κώδικα του Maps.Me."
 
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md
 #, no-wrap
 msgid "Governance issues and community concerns not addressed by company shareholders stalled the development of Organic Maps for months."
-msgstr ""
+msgstr "Κυβερνητικά ζητήματα και ανησυχίες της κοινότητας οι οποίες δεν διευθετήθηκαν από μετόχους της εταιρείας καθυστέρησαν την ανάπτυξη του Organic Maps για μήνες."
 
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md
 #, no-wrap
 msgid "The **CoMaps** community & non-profit project was founded by former Organic Maps contributors, based on the Organic Maps source code."
-msgstr ""
+msgstr "Το κοινοτικό και μη κερδοσκοπικό έργο **CoMaps** ιδρύθηκε από πρώην συνεισφέροντες του Organic Maps, με βάση τον πηγαίο κώδικα του Organic Maps."
 
 #. type: Yaml Front Matter Hash Value: extra history title
 #: content/about-us/index.md
@@ -373,7 +374,7 @@ msgstr "Ιστορικό"
 #: content/about-us/index.md
 #, no-wrap
 msgid "Unlock the freedom to easily navigate offline, with privacy-focused maps for drivers, hikers, and cyclists, powered by the community."
-msgstr ""
+msgstr "Ξεκλειδώστε την ελευθερία να περιηγήστε εύκολα χωρίς σύνδεση, με χάρτες που δίνουν έμφαση στην προστασία της ιδιωτικότητας για οδηγούς, πεζοπόρους και ποδηλάτες, οι οποίοι δημιουργούνται από την κοινότητα."
 
 #. type: Yaml Front Matter Hash Value: extra vm items title
 #: content/about-us/index.md
@@ -385,7 +386,7 @@ msgstr "Αποστολή"
 #: content/about-us/index.md
 #, no-wrap
 msgid "Create a world where navigating with maps is free, and privacy by default is the top choice on the planet."
-msgstr ""
+msgstr "Να δημιουργήσουμε έναν κόσμο όπου η πλοήγηση με χάρτες θα είναι δωρεάν και η προστασία της ιδιωτικότητας ως προεπιλογή θα αποτελεί την πρώτη επιλογή σε ολόκληρο τον πλανήτη."
 
 #. type: Yaml Front Matter Hash Value: extra vm items title
 #: content/about-us/index.md
@@ -403,7 +404,7 @@ msgstr "Σχετικά με μας"
 #: content/download/index.md
 #, no-wrap
 msgid "Unlock the potential of navigation! Discover offline maps, privacy-centric features, and a community-driven app"
-msgstr ""
+msgstr "Αξιοποιήστε στο έπακρο τις δυνατότητες της πλοήγησης! Ανακαλύψτε χάρτες χωρίς σύνδεση, λειτουργίες με έμφαση στην προστασία της ιδιωτικότητας και μια εφαρμογή που βασίζεται στην κοινότητα"
 
 #. type: Yaml Front Matter Array Element: extra steps items
 #: content/download/index.md
@@ -493,7 +494,7 @@ msgstr "Πώς μπορούμε να βοηθήσουμε;"
 #: translations.yaml
 #, no-wrap
 msgid "Build the app used by people around the world"
-msgstr ""
+msgstr "Δημιουργήστε την εφαρμογή που χρησιμοποιούν άνθρωποι σε όλο τον κόσμο"
 
 #. type: Hash Value: inv_code_title
 #: translations.yaml

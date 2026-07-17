@@ -6,6 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
+"PO-Revision-Date: 2026-06-08 04:07+0000\n"
 "Last-Translator: Bovi887 <bovi887@noreply.codeberg.org>\n"
 "Language-Team: Dutch <https://translate.codeberg.org/projects/comaps/website/nl/>\n"
 "Language: nl\n"
@@ -13,7 +14,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.17\n"
+"X-Generator: Weblate 2026.5\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -445,7 +446,7 @@ msgstr "Ontdek de potentie van navigatie! Verken offline kaarten, privacygericht
 #: content/download/index.md
 #, no-wrap
 msgid "To verify the app when downloading it as an APK or via Obtainium you can use this fingerprint:"
-msgstr "Om de app te verifiëren bij het downloaden als APK of via Obtainium kunt u deze vingerafdruk gebruiken:"
+msgstr "Om de app te verifiëren bij het downloaden als APK of via Obtainium kan deze vingerafdruk worden gebruikt:"
 
 #. type: Yaml Front Matter Hash Value: extra app_verifier title
 #: content/download/index.md

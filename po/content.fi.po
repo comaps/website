@@ -6,6 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
+"PO-Revision-Date: 2026-07-07 09:07+0000\n"
 "Last-Translator: artnay <artnay@noreply.codeberg.org>\n"
 "Language-Team: Finnish <https://translate.codeberg.org/projects/comaps/website/fi/>\n"
 "Language: fi\n"
@@ -13,7 +14,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.17\n"
+"X-Generator: Weblate 2026.6.1\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -55,7 +56,7 @@ msgstr "Ilman verkkoyhteyttä"
 #: content/_index.md
 #, no-wrap
 msgid "Offline Search and Route"
-msgstr "Ei-verkotilassa haku ja reititys"
+msgstr "Haku ja reititys ilman verkkoyhteyttä"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
@@ -103,7 +104,7 @@ msgstr ""
 #: content/_index.md
 #, no-wrap
 msgid "People like you are helping build the app by adding locations to <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> to create great maps together. The project is a fork of Organic Maps and Maps.Me, and driven by an open-source community."
-msgstr "Käyttäjät, kuten sinä, auttavat sovelluksen kehityksen kanssa lisäämällä paikkoja <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMapiin](https://openstreetmap.org)</span>, antamalla palautetta ja osallistumalla sovelluskehitykseen <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> luodaksemme yhdessä mahtavia karttoja. Projekti on Organic Mapsin ja Maps.Me:n haarukka, ja sitä ohjaa avoimen lähdekoodin yhteisö."
+msgstr "Käyttäjät, kuten sinä, auttavat sovelluksen kehityksen kanssa lisäämällä paikkoja <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMapiin](https://openstreetmap.org)</span>, antamalla palautetta ja osallistumalla sovelluskehitykseen <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codebergissä](https://codeberg.org/comaps)</span> - tavoitteena luoda mahtavia karttoja yhdessä. Projekti pohjautuu Organic Mapsiin ja Maps.Me:hen, mutta on eriytetty niistä, ja sitä ohjaa avoimen lähdekoodin yhteisö."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
@@ -301,7 +302,7 @@ msgstr "Miten rahoitusta käytetään?"
 #: content/donate/index.md
 #, no-wrap
 msgid "We rely on your donations to keep CoMaps free to use"
-msgstr "Olemme riippuvaisia lahjoituksistasi, jotta CoMaps ilmaisena"
+msgstr "Olemme riippuvaisia lahjoituksista, jotta CoMaps pysyy ilmaisena"
 
 #. type: Yaml Front Matter Hash Value: extra info text
 #: content/donate/index.md

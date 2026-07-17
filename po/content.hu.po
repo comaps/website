@@ -6,26 +6,27 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"Last-Translator: asrob <asrob@noreply.codeberg.org>\n"
+"PO-Revision-Date: 2026-06-05 13:07+0000\n"
+"Last-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>\n"
 "Language-Team: Hungarian <https://translate.codeberg.org/projects/comaps/website/hu/>\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.16.2\n"
+"X-Generator: Weblate 2026.5\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
 #, no-wrap
 msgid "Discover more of your journey - Powered by the community"
-msgstr "Fedezzen fel többet az utazásai közben - A közösség erejével"
+msgstr "Fedezzen fel többet az utazásai közben – A közösség erejével"
 
 #. type: Yaml Front Matter Hash Value: extra freedom description
 #: content/_index.md
 #, no-wrap
 msgid "Discover your journey, navigate the world with privacy and community at the forefront."
-msgstr "Fedezze fel az utakat, navigáljon a világban, ahol a magánélet és a közösség áll az előtérben."
+msgstr "Fedezze fel az utakat, navigáljon a világban, ahol az adatvédelem és a közösség áll az előtérben."
 
 #. type: Yaml Front Matter Hash Value: extra freedom title
 #: content/_index.md
@@ -109,7 +110,7 @@ msgstr "Az Önhöz hasonló emberek segítettek az alkalmazás felépítésében
 #: content/_index.md
 #, no-wrap
 msgid "Free for everyone, Made with love"
-msgstr "Szeretettel készült, és mindenki számára ingyenes"
+msgstr "Szabadon mindenkinek, szeretettel készítve"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
@@ -149,10 +150,9 @@ msgstr "Adományozás"
 
 #. type: Yaml Front Matter Hash Value: extra features description
 #: content/community/index.md
-#, fuzzy, no-wrap
-#| msgid "Report bugs, discuss idea, and propose features"
+#, no-wrap
 msgid "Report bugs, discuss ideas, and propose features"
-msgstr "Hibák jelentése, ötletek megvitatása, és funkciók javaslása"
+msgstr "Hibák jelentése, ötletek megvitatása, és funkciók javaslata"
 
 #. type: Yaml Front Matter Hash Value: extra features title
 #: content/community/index.md
@@ -258,10 +258,9 @@ msgstr "Adományozás az Open Collective-n"
 
 #. type: Yaml Front Matter Hash Value: extra funding items text
 #: content/donate/index.md
-#, fuzzy, no-wrap
-#| msgid "We pay for fast servers, so anyone in the world can download free map data updates without delays. The maps data transfers are hundreds of terabytes monthly, and the amount is growing."
+#, no-wrap
 msgid "We have to keep up fast servers, to update the map files and for you to download them without delays. The maps data transfers make up large, and growing, amounts of data each month."
-msgstr "Fizetünk a gyors szerverekért, így a világon bárki késedelem nélkül letöltheti az ingyenes térképadat-frissítéseket. A térképek adatátvitele havonta több száz terabájtot tesz ki, és a mennyisége folyamatosan növekszik."
+msgstr "Gyors kiszolgálókat kell üzemeltetnünk, hogy frissítsük a térképfájlokat, és bárki késedelem nélkül letölthesse azokat. A térképek átvitele nagy mennyiségű adatforgalmat jelent, és a mennyisége folyamatosan növekszik."
 
 #. type: Yaml Front Matter Hash Value: extra funding items title
 #: content/donate/index.md
@@ -301,17 +300,15 @@ msgstr "Hogyan használjuk fel a befolyt adományokat?"
 
 #. type: Yaml Front Matter Hash Value: extra info text
 #: content/donate/index.md
-#, fuzzy, no-wrap
-#| msgid "We rely on your donations to keep CoMaps open and free"
+#, no-wrap
 msgid "We rely on your donations to keep CoMaps free to use"
-msgstr "Adományokra támaszkodunk, hogy a CoMaps nyílt és ingyenes maradhasson"
+msgstr "Az adományaikra támaszkodunk, hogy a CoMaps ingyenes maradhasson"
 
 #. type: Yaml Front Matter Hash Value: extra info text
 #: content/donate/index.md
-#, fuzzy, no-wrap
-#| msgid "We are a few enthusiasts contributing in our free time. We love what we do, and we love our users"
+#, no-wrap
 msgid "We are a community contributing in our free time. We love what we do, and we love our users"
-msgstr "Mi csak néhány lelkes rajongó vagyunk, a szabadidőnkben járulunk hozzá a projekthez, szeretjük amit csinálunk, és szeretjük a felhasználóinkat"
+msgstr "Olyan közösség vagyunk, akik a szabadidőnkben működünk közre a projektben. Szeretjük amit csinálunk, és szeretjük a felhasználóinkat."
 
 #. type: Yaml Front Matter Hash Value: extra info text
 #: content/donate/index.md
@@ -339,10 +336,9 @@ msgstr "Ingyenes és nyílt navigáció adatvédelemmel -<br/>A közösség ált
 
 #. type: Yaml Front Matter Hash Value: extra about text
 #: content/about-us/index.md
-#, fuzzy, no-wrap
-#| msgid "CoMaps is a community-focused privacy navigation app for travelers - drivers, hikers, and cyclists. It uses the crowd-sourced OpenStreetMap data with contributors from all over the globe. It offers navigation with privacy - no identifying people and no data collection. CoMaps features can operate without an active internet connection for offline navigation at urban or distant locations, where cellular service is not available. CoMaps is an open-source project, and prioritizes community development."
+#, no-wrap
 msgid "CoMaps is a community-focused privacy navigation app for travelers - drivers, hikers, and cyclists. It offers navigation with privacy - no identifying people and no data collection. CoMaps features can operate without an active internet connection for offline navigation at urban or distant locations, where cellular service is not available. CoMaps is an open-source project, and prioritizes community development."
-msgstr "A CoMaps egy közösségközpontú, adatvédelmi navigációs alkalmazás utazók – autósok, túrázók és kerékpárosok – számára. A világ minden tájáról származó közreműködők által létrehozott, közösségi alapú OpenStreetMap adatokat használja. Adatvédelmi navigációt kínál – nem azonosítja az embereket és nem gyűjt adatokat. A CoMaps funkciói aktív internetkapcsolat nélkül is működnek, így offline navigációra is alkalmas városi vagy távoli helyeken, ahol nincs mobilhálózati lefedettség. A CoMaps egy nyílt forráskódú projekt, amelynek elsődleges célja a közösség fejlesztése."
+msgstr "A CoMaps egy közösség- és adatvédelem-központú navigációs alkalmazás utazók – autósok, túrázók és kerékpárosok – számára. Adatvédelmet is biztosító navigációt kínál – nem azonosítja az embereket és nem gyűjt adatokat. A CoMaps funkciói aktív internetkapcsolat nélkül is működnek, így offline navigációra is alkalmas a városokban vagy az olyan távoli helyeken, ahol nincs mobilhálózati lefedettség. A CoMaps egy nyílt forráskódú projekt, amely a közösségi fejlesztést helyezi előtérbe."
 
 #. type: Yaml Front Matter Hash Value: extra about title
 #: content/about-us/index.md
@@ -354,13 +350,13 @@ msgstr "Ingyenes és nyílt navigáció adatvédelemmel, a közösség által l�
 #: content/about-us/index.md
 #, no-wrap
 msgid "CoMaps is made possible thanks to the labor of communities who help create and maintain the open data that powers our app: Our maps use OpenStreetMap data, made and maintained by thousands of contributors from all over the world. In order to link to, and provide offline details about cities, attractions and many other points-of-interest, we rely on the articles and photos of the global Wikipedia, Wikidata, and Wikimedia Commons communities."
-msgstr ""
+msgstr "A CoMaps működését azoknak a közösségeknek köszönhetjük, amelyek segítik az alkalmazásunk alapját képező nyílt adatok létrehozását és karbantartását: térképeink az OpenStreetMap adatait használják, amelyeket világszerte több ezer közreműködő állít össze és tart karban. A városokhoz, látnivalókhoz és számos egyéb nevezetességhez való hivatkozás, valamint az ezekről szóló offline információk biztosítása érdekében a globális Wikipédia-, Wikidata- és Wikimedia Commons-közösségek cikkeit és fényképeit használjuk."
 
 #. type: Yaml Front Matter Hash Value: extra data title
 #: content/about-us/index.md
 #, no-wrap
 msgid "Powered by open data commons"
-msgstr ""
+msgstr "Nyílt közadatokra építve"
 
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md
@@ -460,10 +456,9 @@ msgstr "Az Android-alkalmazás ellenőrzése"
 
 #. type: Yaml Front Matter Hash Value: extra releases title
 #: content/download/index.md
-#, fuzzy, no-wrap
-#| msgid "Releases"
+#, no-wrap
 msgid "Latest Releases"
-msgstr "Kiadások"
+msgstr "Legfrissebb kiadások"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/download/index.md
@@ -484,10 +479,9 @@ msgstr "Az API-dokumentációja a [comaps.at/api](https://comaps.at/api) oldalon
 
 #. type: Hash Value: menu_privacy
 #: content/privacy/index.md translations.yaml
-#, fuzzy, no-wrap
-#| msgid "Privacy-Centric"
+#, no-wrap
 msgid "Privacy"
-msgstr "Adatvédelem-központú"
+msgstr "Adatvédelem"
 
 #. type: Plain text
 #: content/privacy/index.md
@@ -502,7 +496,7 @@ msgstr "A CoMaps nem követi Önt."
 #. type: Plain text
 #: content/privacy/index.md content/terms/index.md
 msgid "If you have any questions or suggestions, please contact us at legal@comaps.app"
-msgstr "Ha bármilyen kérdése vagy javaslata van, kérjük, vegye fel velünk a kapcsolatot a legal@comaps.app e-mail címen"
+msgstr "Ha bármilyen kérdése vagy javaslata van, vegye fel velünk a kapcsolatot a legal@comaps.app e-mail-címen"
 
 #. type: Plain text
 #: content/privacy/index.md
@@ -528,7 +522,7 @@ msgstr "Olvasd el a [teljes licencszöveget](https://www.apache.org/licenses/LIC
 #. type: Plain text
 #: content/terms/index.md
 msgid "Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License."
-msgstr "Hacsak az alkalmazandó jogszabályok másként nem rendelkeznek, vagy írásos megállapodás nem születik, a Licenc alapján terjesztett szoftverek „ADOTT ÁLLAPOTBAN”, BÁRMILYEN KIFEJEZETT VAGY HALLGATÓLAGOS GARANCIA VAGY FELTÉTEL NÉLKÜL kerülnek terjesztésre. A Licenc szerinti konkrét jogosultságokért és korlátozásokért tekintse meg a Licencet."
+msgstr "Hacsak a vonatkozó törvények nem írják elő, vagy hacsak írásban nem állapodtak meg, a Licenc alapján terjesztett szoftver „JELENLEGI ÁLLAPOTÁBAN” kerül közreadásra, MINDEN KIFEJEZETT, vagy hallgatólagos JÓTÁLLÁS ÉS FELTÉTELEK NÉLKÜL. A Licenc szerinti engedélyekre és korlátozásokra vonatkozó konkrét nyelvezetet lásd a Licencben."
 
 #. type: Plain text
 #: content/terms/index.md
@@ -562,7 +556,7 @@ msgstr "Nyelv"
 #: translations.yaml
 #, no-wrap
 msgid "CoMaps - F.A.Q."
-msgstr "CoMaps - GYIK"
+msgstr "CoMaps – GYIK"
 
 #. type: Hash Value: how_can_help
 #: translations.yaml
