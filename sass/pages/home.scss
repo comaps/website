@@ -492,6 +492,39 @@
     }
 }
 
+.preinstalls-section {
+
+  &__item {
+    display: flex;
+    align-items: center;
+    gap: 50rem;
+
+    @media (max-width: $media-sm) {
+      gap: 20rem;
+      flex-direction: column;
+    }
+  }
+
+  &__grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+
+  &__card {
+    background-color: var(--section-highlight-bg);
+    position: relative;
+    display: flex;
+    justify-content: flex-end;
+    overflow: hidden;
+    padding: var(--container-mob-padding);
+    margin: 10rem;
+    border-radius: var(--border-r-8);
+
+    @media (max-width: $media-sm) {
+        justify-content: center;
+    }
+  }
+}
 
 
 // Singl

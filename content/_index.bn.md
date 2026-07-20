@@ -6,6 +6,9 @@ extra:
     title: 'স্বাধীনতা এখানে'
   map:
     description: 'সম্প্রদায় + উন্মুক্ত মানচিত্র'
+  preinstalls:
+    description: 'CoMaps comes preinstalled on these operating systems as their default map app.'
+    title: 'Trusted by these projects'
   services:
     items:
       - 

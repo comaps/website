@@ -1,5 +1,5 @@
 ---
-description: ""
+description:
 title: "Páxina da API"
 weight: 10
 ---

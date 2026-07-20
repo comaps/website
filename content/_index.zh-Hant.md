@@ -6,6 +6,9 @@ extra:
     title: 自由在此
   map:
     description: '社群 + 開放地圖'
+  preinstalls:
+    description: 'CoMaps comes preinstalled on these operating systems as their default map app.'
+    title: 'Trusted by these projects'
   services:
     items:
       - 

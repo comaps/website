@@ -6,6 +6,9 @@ extra:
     title: 'Itt a szabadság'
   map:
     description: 'Közösségi és nyílt hozzáférésű térképek'
+  preinstalls:
+    description: 'CoMaps comes preinstalled on these operating systems as their default map app.'
+    title: 'Trusted by these projects'
   services:
     items:
       - 

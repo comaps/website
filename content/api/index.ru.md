@@ -1,5 +1,5 @@
 ---
-description: ""
+description:
 title: "Страница API"
 weight: 10
 ---

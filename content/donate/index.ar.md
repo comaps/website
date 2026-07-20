@@ -30,7 +30,7 @@ extra:
       text: "نحن مجتمع نساهم في أوقات فراغنا. نحب ما نقوم به، ونحب مستخدمينا"
     - icon: static/images/icons/donate/icon03.svg
       text: "بدعمكم، نعمل على تطوير نظام ملاحة خرائط يركز على الخصوصية ليكون الخيار المفضل في السوق"
-  service_text: ~
+  service_text:
   service_title: "Created with love by enthusiast volunteers"
 template: donate.html
 title: تبرع

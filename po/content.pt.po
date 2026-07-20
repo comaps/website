@@ -39,6 +39,18 @@ msgstr "A Liberdade chegou"
 msgid "Community + Open Maps"
 msgstr "Comunidade + Open Maps"
 
+#. type: Yaml Front Matter Hash Value: extra preinstalls description
+#: content/_index.md
+#, no-wrap
+msgid "CoMaps comes preinstalled on these operating systems as their default map app."
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: extra preinstalls title
+#: content/_index.md
+#, no-wrap
+msgid "Trusted by these projects"
+msgstr ""
+
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
 #, no-wrap

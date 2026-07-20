@@ -30,7 +30,7 @@ extra:
       text: "We are a community contributing in our free time. We love what we do, and we love our users"
     - icon: static/images/icons/donate/icon03.svg
       text: "با حمایت شما، ما در حال تلاش برای ناوبری نقشه بر حریم خصوصی هستیم که انتخاب ترجیحی در بازار است"
-  service_text: ~
+  service_text:
   service_title: "Created with love by enthusiast volunteers"
 template: donate.html
 title: "کمک مالی بکنید"

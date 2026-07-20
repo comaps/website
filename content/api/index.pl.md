@@ -1,5 +1,5 @@
 ---
-description: ""
+description:
 title: "Strona API"
 weight: 10
 ---

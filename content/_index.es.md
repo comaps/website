@@ -6,6 +6,9 @@ extra:
     title: 'La libertad está aquí'
   map:
     description: 'Comunidad + Mapas Libres'
+  preinstalls:
+    description: 'CoMaps comes preinstalled on these operating systems as their default map app.'
+    title: 'Trusted by these projects'
   services:
     items:
       - 

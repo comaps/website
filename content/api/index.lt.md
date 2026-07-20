@@ -1,5 +1,5 @@
 ---
-description: ""
+description:
 title: "API sąsaja"
 weight: 10
 ---

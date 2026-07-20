@@ -30,7 +30,7 @@ extra:
       text: "Vi er et fællesskab, der bidrager i vores fritid. Vi elsker det, vi laver, og vi elsker vores brugere"
     - icon: static/images/icons/donate/icon03.svg
       text: "Med din støtte arbejder vi på at udvikle en privatlivsfokuseret kortnavigation, der bliver det foretrukne valg på markedet"
-  service_text: ~
+  service_text:
   service_title: "Created with love by enthusiast volunteers"
 template: donate.html
 title: Donér

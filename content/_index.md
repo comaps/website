@@ -47,6 +47,9 @@ extra:
                 cta: 
                     href: community/
                     text: inv_title
+    preinstalls:
+        title: Trusted by these projects
+        description: CoMaps comes preinstalled on these operating systems as their default map app.
     freedom:                
         title: Freedom Is Here
         description: Discover your journey, navigate the world with privacy and community at the forefront.

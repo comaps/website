@@ -34,11 +34,11 @@
   <link rel="alternate" type="application/rss+xml" title="CoMaps - {{ trans(key='menu_media_coverage', lang=lang) }}" href="{{ get_url(path="media-coverage/rss.xml", trailing_slash=false) }}">
 
   {% if term %}
-    {%if taxonomy.name != "coverage_type" %}
-      {% set rss_path = "category/" ~ term.slug~ "/rss.xml" %}
-    {% elif taxonomy.name == "coverage_type" %}
-      {% set rss_path = "coverage-type/" ~ term.slug~ "/rss.xml" %}
-    {% endif %}
+  {%if taxonomy.name != "coverage_type" %}
+  {% set rss_path = "category/" ~ term.slug~ "/rss.xml" %}
+  {% elif taxonomy.name == "coverage_type" %}
+  {% set rss_path = "coverage-type/" ~ term.slug~ "/rss.xml" %}
+  {% endif %}
   <link rel="alternate" type="application/rss+xml" title="CoMaps - {{ term.name }}" href="{{ get_url(path=rss_path, trailing_slash=false) }}">
   {% endif %}
   {% endblock %}
@@ -118,17 +118,22 @@
         const ua = navigator.userAgent;
 
         if (/android/i.test(ua)) {
-          return "{{ get_url(path="download/", lang=lang) }}";
+          return "{{ get_url(path="
+          download / ", lang=lang) }}";
         } else if (/iPad|iPhone|iPod/.test(ua) && !window.MSStream) {
           return "https://apps.apple.com/app/comaps/id6747180809";
         } else if (/linux/i.test(ua)) {
-          return "{{ get_url(path="download/", lang=lang) }}";
+          return "{{ get_url(path="
+          download / ", lang=lang) }}";
         } else if (/macintosh|mac os x/i.test(ua)) {
-          return "{{ get_url(path="download/", lang=lang) }}";
+          return "{{ get_url(path="
+          download / ", lang=lang) }}";
         } else if (/windows|win32/i.test(ua)) {
-          return "{{ get_url(path="download/", lang=lang) }}";
+          return "{{ get_url(path="
+          download / ", lang=lang) }}";
         } else {
-          return "{{ get_url(path="download/", lang=lang) }}";
+          return "{{ get_url(path="
+          download / ", lang=lang) }}";
         }
       }
       btnDownload.forEach(item => {

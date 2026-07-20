@@ -6,6 +6,9 @@ extra:
     title: 'விடுதலை இங்கே உள்ளது'
   map:
     description: 'சமூகம் + திறந்த வரைபடங்கள்'
+  preinstalls:
+    description: 'CoMaps comes preinstalled on these operating systems as their default map app.'
+    title: 'Trusted by these projects'
   services:
     items:
       - 
