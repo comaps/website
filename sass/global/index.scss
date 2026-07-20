@@ -115,6 +115,11 @@ img.max-w-40 { max-width: 40%;
         max-width: 100%;
     }
 }
+img.max-w-20 { max-width: 20%;
+    @media (max-width: $media-sm) {
+        max-width: 100%;
+    }
+}
 img.center {
     margin-right: auto;
     margin-left: auto;
