@@ -1,0 +1,77 @@
+name: Create site preview
+
+env:
+  ZOLA_VERSION: 0.22.1
+  ZOLA_HASH: 0ca09aa40376aaa9ddfb512ff9ad963262ef95edb0d0f2d5ec6961b6f5cf22ef
+  BASE_URL: https://${{ forgejo.event.repository.owner.username }}.preview.codeberg.page/${{ forgejo.event.repository.name }}@${{ forgejo.event.number }}
+  COMMENT_URL: ${{ forgejo.event.repository.url }}/issues/${{ forgejo.event.number }}/comments
+
+on:
+  pull_request:
+
+jobs:
+  check:
+    runs-on: comaps-android
+    name: Create site preview
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Build with Zola
+        run: |
+          set -e
+          wget -O zola.tar.gz -c https://github.com/getzola/zola/releases/download/v${ZOLA_VERSION}/zola-v${ZOLA_VERSION}-x86_64-unknown-linux-gnu.tar.gz
+          echo "$ZOLA_HASH  zola.tar.gz" | sha256sum -c -
+          tar -zxvf zola.tar.gz
+          ./zola build --base-url "$BASE_URL"
+
+      - name: Rewrite webroot
+        run: |
+          find public/ -name '*.html' -exec sed -i -e "s%\\(href\\|src\\)=[\"']/%\\1=\"${BASE_URL}/%g" -e "s%\\(href\\|src\\)=[\"']&#x2F;%\\1=\"${BASE_URL}/%g" {} +
+          find public/ -name '*.css' -exec sed -i -e "s%url\(([\"']\\)/%url\\1${BASE_URL}/%g" -e "s%@import \\([\"']\\)/%@import \\1${BASE_URL}%g" -e "s%url(/%url(${BASE_URL}/%g" {} +
+          find public/ -name 'manifest.json' -exec sed -i -e "s%\"src\": \"/%\"src\": \"${BASE_URL}/%g" {} +
+
+      - name: Publish to preview page
+        uses: actions/git-pages@v2
+        with:
+          site: https://${{ forgejo.event.repository.owner.username }}.preview.codeberg.page/${{ forgejo.event.repository.name }}@${{ forgejo.event.number }}/
+          token: ${{ forgejo.token }}
+          source: public/
+          expires: 3
+
+      - name: Set success
+        if: success()
+        run: |
+          echo "PUBLISH_SUCCESS=1" >> $GITHUB_ENV
+
+      - name: Notify
+        if: success() || failure()
+        run: |
+          echo "PR comments URL: $COMMENT_URL"
+
+          NOW="$(date -u +'%A, %d %B %Y %H:%M:%S') UTC"
+          EXPIRES="$(date -d '3 days' -u +'%A, %d %B %Y %H:%M:%S') UTC"
+          COMMIT="$(git rev-parse HEAD)"
+
+          COMMENT="{\"body\":\"<!--PR-PREVIEW-MARKER--><h3>Site preview</h3>"
+          if [ -n "$PUBLISH_SUCCESS" ]; then
+            COMMENT="$COMMENT<p><b>Build succeeeded</b> for commit $COMMIT at $NOW.</p><p>Preview URL: <a href=\\\"${{ env.BASE_URL }}\\\" target=\\\"_blank\\\">${{ env.BASE_URL }}</a></p><p><i>Build expires at $EXPIRES.</i></p>\"}"
+          else
+            COMMENT="$COMMENT<p><b>Build failed</b> for commit $COMMIT at $NOW!</p>\"}"
+          fi
+
+          EXISTING_ID=$(curl -s "$COMMENT_URL" | jq -r 'first(.[] | select(.body | contains("<!--PR-PREVIEW-MARKER-->")) | .id)')
+
+          echo "Comment: $COMMENT"
+
+          if [ -z "$EXISTING_ID" ]; then
+            echo -n 'Posting comment: '
+            curl -s -X POST "$COMMENT_URL" \
+              -H 'Authorization: token ${{ forgejo.token }}' \
+              --json "$COMMENT"
+          else
+            echo -n 'Editing comment: '
+            curl -s -X PATCH "$COMMENT_URL/$EXISTING_ID" \
+              -H 'Authorization: token ${{ forgejo.token }}' \
+              --json "$COMMENT"
+          fi

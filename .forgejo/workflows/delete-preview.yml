@@ -1,0 +1,51 @@
+name: Delete site preview
+
+env:
+  BASE_URL: https://${{ forgejo.event.repository.owner.username }}.preview.codeberg.page/${{ forgejo.event.repository.name }}@${{ forgejo.event.number }}
+  COMMENT_URL: ${{ forgejo.event.repository.url }}/issues/${{ forgejo.event.number }}/comments
+
+on:
+  pull_request:
+    types: [closed]
+
+jobs:
+  check:
+    runs-on: comaps-android
+    name: Delete site preview
+    steps:
+      - name: Make empty dir
+        run: |
+          mkdir _empty
+
+      - name: Publish empty dir to preview page
+        uses: actions/git-pages@v2
+        with:
+          site: https://${{ forgejo.event.repository.owner.username }}.preview.codeberg.page/${{ forgejo.event.repository.name }}@${{ forgejo.event.number }}/
+          token: ${{ forgejo.token }}
+          source: _empty/
+
+      - name: Set success
+        if: success()
+        run: |
+          echo "DELETE_SUCCESS=1" >> $GITHUB_ENV
+
+      - name: Notify
+        if: success() || failure()
+        run: |
+          echo "PR comments URL: $COMMENT_URL"
+
+          NOW="$(date -u +'%A, %d %B %Y %H:%M:%S') UTC"
+
+          COMMENT="{\"body\":\""
+          if [ -n "$DELETE_SUCCESS" ]; then
+            COMMENT="$COMMENT<p>Successfully deleted site preview on $NOW.</p>\"}"
+          else
+            COMMENT="$COMMENT<p><b>Failed</b> to delete site preview at $NOW!</p>\"}"
+          fi
+
+          echo "Comment: $COMMENT"
+
+          echo -n 'Posting comment: '
+          curl -s -X POST "$COMMENT_URL" \
+            -H 'Authorization: token ${{ forgejo.token }}' \
+            --json "$COMMENT"
