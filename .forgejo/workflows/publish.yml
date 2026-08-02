@@ -21,12 +21,13 @@ jobs:
 
       - name: Get dependencies
         run: |
-           apt update -y && apt install -y sshpass openssh-client lftp sudo
+           apt update -y && apt install -y sshpass openssh-client lftp sudo git-lfs
 
       - name: Checkout repo
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+          lfs: true
 
       - name: Setup Zola
         run: |

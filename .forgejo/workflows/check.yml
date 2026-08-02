@@ -11,8 +11,14 @@ jobs:
     runs-on: ubuntu-latest
     name: Check Zola build
     steps:
+      - name: Install git-lfs
+        run: |
+          apt update -y && apt install -y git-lfs
+          
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          lfs: true
 
       - name: Build with Zola
         run: |

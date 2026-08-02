@@ -14,8 +14,14 @@ jobs:
     runs-on: comaps-android
     name: Create site preview
     steps:
+      - name: Install git lfs
+        run: |
+          apt update -y && apt install -y git-lfs
+
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          lfs: true
 
       - name: Build with Zola
         run: |
