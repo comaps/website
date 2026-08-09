@@ -6,7 +6,6 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"PO-Revision-Date: 2026-07-11 16:07+0000\n"
 "Last-Translator: astro-ray <astro-ray@noreply.codeberg.org>\n"
 "Language-Team: Bengali <https://translate.codeberg.org/projects/comaps/website/bn/>\n"
 "Language: bn\n"
@@ -54,8 +53,9 @@ msgstr ""
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
-#, no-wrap
-msgid "Plan and navigate your trip abroad with just GPS, no need for mobile data. Search waypoints while on distant hiking trails or bike paths."
+#, fuzzy, no-wrap
+#| msgid "Plan and navigate your trip abroad with just GPS, no need for mobile data. Search waypoints while on distant hiking trails or bike paths."
+msgid "Plan and navigate your trip abroad with just GPS, no need for mobile data. Search waypoints while on remote hiking trails or bike paths. Navigate with turn-by-turn instructions by foot, bike or car, including voice announcements."
 msgstr "আপনার বিদেশ ভ্রমণ পরিকল্পনা করুন শুধুমাত্র GPS এর সাহায্যে, কোন ইন্টারনেট ডাটা ছাড়াই। দূরবর্তী হাইকিং ট্রেইল বা সাইকেল পথে থাকাকালীন ওয়াপয়েন্ট খুঁজুন।"
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
@@ -66,27 +66,28 @@ msgstr "ইন্টারনেটের প্রয়োজন নেই"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
-#, no-wrap
-msgid "Offline Search and Route"
+#, fuzzy, no-wrap
+#| msgid "Offline Search and Route"
+msgid "Offline Search and Routing"
 msgstr "অফলাইন অনুসন্ধান এবং রুট"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
 #, no-wrap
-msgid "The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information. CoMaps was also audited by <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-exodus\"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/)."
-msgstr "এই অ্যাপটি গোপনীয়তাকে মাথায় রেখে ডিজাইন করা হয়েছে - এটি লোকজনদের শনাক্ত করে না, আপনাকে ট্র্যাক করে না, এবং কোনো তথ্য সংগ্রহ করে না। CoMaps-কে <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-exodus\"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/) দ্বারা নিরীক্ষা করা হয়েছিল।"
+msgid "Use the outdoor mode to highlight hiking trails, campsites, and water sources. Enable contour lines to plan your trip. Spot an interesting peak along the way? Use the offline *Wikipedia* articles to learn more about it!"
+msgstr ""
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
 #, no-wrap
-msgid "Privacy by default"
-msgstr "গোপনীয়তাই ডিফল্ট"
+msgid "Explore nature"
+msgstr ""
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
 #, no-wrap
-msgid "No Data Collection"
-msgstr "কোনো তথ্য সংগ্রহ করে না"
+msgid "Hike with the Information you Need"
+msgstr ""
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
@@ -105,6 +106,61 @@ msgstr "কার্যকর ব্যাটারি ব্যবহার"
 #, no-wrap
 msgid "Save Your Battery"
 msgstr "আপনার ব্যাটারি বাঁচান"
+
+#. type: Yaml Front Matter Hash Value: extra services items description
+#: content/_index.md
+#, no-wrap
+msgid "Use the public transport layer to plan your subway and light rail journeys in a growing list of cities."
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: extra services items highlight text
+#: content/_index.md
+#, no-wrap
+msgid "Explore the city"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: extra services items title
+#: content/_index.md
+#, no-wrap
+msgid "Get around the City"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: extra services items description
+#: content/_index.md
+#, fuzzy, no-wrap
+#| msgid "The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information. CoMaps was also audited by <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-exodus\"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/)."
+msgid "The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information. CoMaps was also audited by <span class=\"text-icon\"><svg viewbox=\"0 0 19 19\"><use href=\"#icon-exodus\"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/), a privacy auditor."
+msgstr "এই অ্যাপটি গোপনীয়তাকে মাথায় রেখে ডিজাইন করা হয়েছে - এটি লোকজনদের শনাক্ত করে না, আপনাকে ট্র্যাক করে না, এবং কোনো তথ্য সংগ্রহ করে না। CoMaps-কে <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-exodus\"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/) দ্বারা নিরীক্ষা করা হয়েছিল।"
+
+#. type: Yaml Front Matter Hash Value: extra services items highlight text
+#: content/_index.md
+#, no-wrap
+msgid "Privacy by default"
+msgstr "গোপনীয়তাই ডিফল্ট"
+
+#. type: Yaml Front Matter Hash Value: extra services items title
+#: content/_index.md
+#, no-wrap
+msgid "No Data Collection"
+msgstr "কোনো তথ্য সংগ্রহ করে না"
+
+#. type: Yaml Front Matter Hash Value: extra services items description
+#: content/_index.md
+#, no-wrap
+msgid "CoMaps is recommended by *[Switching Software](https://switching.software/replace/google-maps/)*, *[European & Open Source Alternatives](https://european-alternatives.cloud/en/browse?category=maps)*, *[Digital Independence Day](https://di.day/en/digital-switch-recipes/maps)* ,and *[Framastart](https://framastart.org/smartphone/)* as an ethical, easy-to-use and privacy-conscious alternative to commercial maps."
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: extra services items highlight text
+#: content/_index.md
+#, no-wrap
+msgid "Independent maps"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: extra services items title
+#: content/_index.md
+#, no-wrap
+msgid "A True Alternative"
+msgstr ""
 
 #. type: Yaml Front Matter Hash Value: extra services items cta text
 #: content/_index.md

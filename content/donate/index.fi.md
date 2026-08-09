@@ -30,7 +30,7 @@ extra:
       text: "Olemme yhteisö, joka käyttää projektiin vapaa-aikaansa. Rakastamme työtämme ja käyttäjiämme"
     - icon: static/images/icons/donate/icon03.svg
       text: "Työskentelemme käyttäjien tuella kehittääksemme yksityisyyteen panostavaan karttanavigoinnin"
-  service_text:
+  service_text: ~
   service_title: "Created with love by enthusiast volunteers"
 template: donate.html
 title: Lahjoita

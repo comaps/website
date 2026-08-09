@@ -53,8 +53,9 @@ msgstr ""
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
-#, no-wrap
-msgid "Plan and navigate your trip abroad with just GPS, no need for mobile data. Search waypoints while on distant hiking trails or bike paths."
+#, fuzzy, no-wrap
+#| msgid "Plan and navigate your trip abroad with just GPS, no need for mobile data. Search waypoints while on distant hiking trails or bike paths."
+msgid "Plan and navigate your trip abroad with just GPS, no need for mobile data. Search waypoints while on remote hiking trails or bike paths. Navigate with turn-by-turn instructions by foot, bike or car, including voice announcements."
 msgstr "Planeje e navegue em sua viagem ao exterior apenas com GPS, sem necessidade de dados móveis. Busque pontos de referência enquanto você faz grandes trechos de trilha ou ciclismo."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
@@ -65,27 +66,28 @@ msgstr "Não precisa de internet"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
-#, no-wrap
-msgid "Offline Search and Route"
+#, fuzzy, no-wrap
+#| msgid "Offline Search and Route"
+msgid "Offline Search and Routing"
 msgstr "Busca e Roteamento Offline"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
 #, no-wrap
-msgid "The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information. CoMaps was also audited by <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-exodus\"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/)."
-msgstr "O aplicativo foi projetado com foco na privacidade: não identifica pessoas, não rastreia você e não coleta nenhuma informação. O CoMaps também foi auditado por <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-exodus\"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/)."
+msgid "Use the outdoor mode to highlight hiking trails, campsites, and water sources. Enable contour lines to plan your trip. Spot an interesting peak along the way? Use the offline *Wikipedia* articles to learn more about it!"
+msgstr ""
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
 #, no-wrap
-msgid "Privacy by default"
-msgstr "Privacidade por padrão"
+msgid "Explore nature"
+msgstr ""
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
 #, no-wrap
-msgid "No Data Collection"
-msgstr "Sem Coleta de Dados"
+msgid "Hike with the Information you Need"
+msgstr ""
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
@@ -104,6 +106,61 @@ msgstr "Uso eficiente da bateria"
 #, no-wrap
 msgid "Save Your Battery"
 msgstr "Economiza Sua Bateria"
+
+#. type: Yaml Front Matter Hash Value: extra services items description
+#: content/_index.md
+#, no-wrap
+msgid "Use the public transport layer to plan your subway and light rail journeys in a growing list of cities."
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: extra services items highlight text
+#: content/_index.md
+#, no-wrap
+msgid "Explore the city"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: extra services items title
+#: content/_index.md
+#, no-wrap
+msgid "Get around the City"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: extra services items description
+#: content/_index.md
+#, fuzzy, no-wrap
+#| msgid "The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information. CoMaps was also audited by <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-exodus\"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/)."
+msgid "The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information. CoMaps was also audited by <span class=\"text-icon\"><svg viewbox=\"0 0 19 19\"><use href=\"#icon-exodus\"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/), a privacy auditor."
+msgstr "O aplicativo foi projetado com foco na privacidade: não identifica pessoas, não rastreia você e não coleta nenhuma informação. O CoMaps também foi auditado por <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-exodus\"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/)."
+
+#. type: Yaml Front Matter Hash Value: extra services items highlight text
+#: content/_index.md
+#, no-wrap
+msgid "Privacy by default"
+msgstr "Privacidade por padrão"
+
+#. type: Yaml Front Matter Hash Value: extra services items title
+#: content/_index.md
+#, no-wrap
+msgid "No Data Collection"
+msgstr "Sem Coleta de Dados"
+
+#. type: Yaml Front Matter Hash Value: extra services items description
+#: content/_index.md
+#, no-wrap
+msgid "CoMaps is recommended by *[Switching Software](https://switching.software/replace/google-maps/)*, *[European & Open Source Alternatives](https://european-alternatives.cloud/en/browse?category=maps)*, *[Digital Independence Day](https://di.day/en/digital-switch-recipes/maps)* ,and *[Framastart](https://framastart.org/smartphone/)* as an ethical, easy-to-use and privacy-conscious alternative to commercial maps."
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: extra services items highlight text
+#: content/_index.md
+#, no-wrap
+msgid "Independent maps"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: extra services items title
+#: content/_index.md
+#, no-wrap
+msgid "A True Alternative"
+msgstr ""
 
 #. type: Yaml Front Matter Hash Value: extra services items cta text
 #: content/_index.md

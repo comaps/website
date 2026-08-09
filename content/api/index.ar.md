@@ -1,5 +1,5 @@
 ---
-description:
+description: ""
 title: "صفحة واجهة برمجة التطبيقات"
 weight: 10
 ---

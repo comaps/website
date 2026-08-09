@@ -30,7 +30,7 @@ extra:
       text: "আমরা একটি সম্প্রদায় যারা আমাদের অবসর সময়ে অবদান রাখি। আমরা যা করি তা ভালোবাসি, এবং আমাদের ব্যবহারকারীদের ভালোবাসি"
     - icon: static/images/icons/donate/icon03.svg
       text: "আপনার সমর্থনে, আমরা গোপনীয়তা-কেন্দ্রিক মানচিত্র নেভিগেশনের দিকে কাজ করছি যা বাজারে পছন্দের বিকল্প"
-  service_text:
+  service_text: ~
   service_title: "Created with love by enthusiast volunteers"
 template: donate.html
 title: অনুদান

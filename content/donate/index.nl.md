@@ -30,7 +30,7 @@ extra:
       text: "Wij zijn een gemeenschap die bijdragen in hun vrije tijd. We houden van wat we doen en van onze gebruikers"
     - icon: static/images/icons/donate/icon03.svg
       text: "Met jouw steun werken we aan privacygerichte kaartnavigatie die de beste keuze op de markt is"
-  service_text:
+  service_text: ~
   service_title: "Created with love by enthusiast volunteers"
 template: donate.html
 title: Doneer

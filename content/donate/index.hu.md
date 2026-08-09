@@ -30,7 +30,7 @@ extra:
       text: "Olyan közösség vagyunk, akik a szabadidőnkben működünk közre a projektben. Szeretjük amit csinálunk, és szeretjük a felhasználóinkat."
     - icon: static/images/icons/donate/icon03.svg
       text: "Az Önök támogatásával olyan adatvédelmi szempontú térképnavigáció kidolgozásán dolgozunk, amely a piac legkedveltebb választása lesz"
-  service_text:
+  service_text: ~
   service_title: "Created with love by enthusiast volunteers"
 template: donate.html
 title: Adományozás

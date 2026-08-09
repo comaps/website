@@ -30,7 +30,7 @@ extra:
       text: "Mes esame bendruomenė, kurios nariai ties programėle dirba savo laisvu laiku. Mes mėgaujamės šia veikla ir džiaugiamės, jog programėle naudojasi vis daugiau žmonių"
     - icon: static/images/icons/donate/icon03.svg
       text: "Jums remiant, mes ir toliau dirbame ties bene populiariausia privačia mobiliosios navigacijos programėle"
-  service_text:
+  service_text: ~
   service_title: "Created with love by enthusiast volunteers"
 template: donate.html
 title: Paremti

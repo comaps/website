@@ -1,5 +1,5 @@
 ---
-description:
+description: ""
 title: "Stran API"
 weight: 10
 ---

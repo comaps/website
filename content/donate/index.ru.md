@@ -30,7 +30,7 @@ extra:
       text: "Мы — сообщество и вносим свой вклад в свободное время. Мы любим то, что делаем, и любим наших пользователей"
     - icon: static/images/icons/donate/icon03.svg
       text: "С вашей поддержкой мы работаем над картографической навигацией, ориентированной на конфиденциальность, которая является предпочтительным выбором на рынке"
-  service_text:
+  service_text: ~
   service_title: "Created with love by enthusiast volunteers"
 template: donate.html
 title: Пожертвовать

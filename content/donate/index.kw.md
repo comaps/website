@@ -30,7 +30,7 @@ extra:
       text: "Kemeneth on ni ow kevri yn agan termyn rydh. Ni a garsa an pyth a wren ni, ha ni a garsa agan devnydhyoryon"
     - icon: static/images/icons/donate/icon03.svg
       text: "Gans dha skoodhyans, on ow lavurya troha navigacyon privedh yw an dewis dewisek war'n varghas"
-  service_text:
+  service_text: ~
   service_title: "Created with love by enthusiast volunteers"
 template: donate.html
 title: Argevri
