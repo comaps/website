@@ -6,6 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
+"PO-Revision-Date: 2026-07-22 10:07+0000\n"
 "Last-Translator: dobridabar <dobridabar@noreply.codeberg.org>\n"
 "Language-Team: Serbian <https://translate.codeberg.org/projects/comaps/website/sr/>\n"
 "Language: sr\n"
@@ -13,13 +14,13 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.16.2\n"
+"X-Generator: Weblate 2026.6.1\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
 #, no-wrap
 msgid "Discover more of your journey - Powered by the community"
-msgstr "Откријте више о свом путовању - Покреће га заједница"
+msgstr "Откријте више о свом путовању - Снагом заједнице"
 
 #. type: Yaml Front Matter Hash Value: extra freedom description
 #: content/_index.md
@@ -43,13 +44,13 @@ msgstr "Заједница + Отворене мапе"
 #: content/_index.md
 #, no-wrap
 msgid "CoMaps comes preinstalled on these operating systems as their default map app."
-msgstr ""
+msgstr "CoMaps је подразумевана апликација за мапе на овим оперативним системима."
 
 #. type: Yaml Front Matter Hash Value: extra preinstalls title
 #: content/_index.md
 #, no-wrap
 msgid "Trusted by these projects"
-msgstr ""
+msgstr "Ови пројекти су јој указали поверење"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
@@ -62,7 +63,7 @@ msgstr "Планирајте и крените се својим путовањ�
 #: content/_index.md
 #, no-wrap
 msgid "No internet needed"
-msgstr "Није потребан интернет"
+msgstr "Не захтева интернет"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
@@ -172,7 +173,7 @@ msgstr "inv_title"
 #: content/_index.md
 #, no-wrap
 msgid "People like you are helping build the app by adding locations to <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> to create great maps together. The project is a fork of Organic Maps and Maps.Me, and driven by an open-source community."
-msgstr "Људи као што сте ви су помажу да се развија апликација додавањем локација на <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, давањем повратних информација о функцијама и писањем изворног кода путем <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span>-а, како бисмо заједно направили изузетне мапе. Овај пројекат наследник пројеката Organic Maps и Maps.Me и покреће га заједница отвореног кода."
+msgstr "Људи као што сте ви су помажу да се развија апликација додавањем локација на <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, давањем повратних информација о функцијама и писањем изворног кода путем <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span>-а, како бисмо заједно направили изузетне мапе. Овај пројекат наследник пројеката Organic Maps и Maps.Me и њиме управља заједница отвореног кода."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
@@ -190,7 +191,7 @@ msgstr "Бесплатно и изграђено од стране заједн�
 #: content/_index.md
 #, no-wrap
 msgid "Hike, Bike, Drive Offline – Navigate with Privacy"
-msgstr "Путовање пешице, бициклом, вожње у режиму ван мреже, поштујући приватност"
+msgstr "Пешачите, возите бицикл или ауто у <i>offline</i> режиму и уз приватност"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/news/_index.md
@@ -208,7 +209,7 @@ msgstr "CoMaps стварају и одржавају људи попут вас
 #: content/community/index.md translations.yaml
 #, no-wrap
 msgid "The app runs on your donations, help improve it"
-msgstr "Апликација ради на вашим донацијама, помозите да се побољша"
+msgstr "Апликација расте на вашим донацијама, помозите да се побољша"
 
 #. type: Hash Value: menu_donate
 #: content/community/index.md content/donate/index.md translations.yaml
@@ -304,7 +305,7 @@ msgstr "Донирајмо и направимо боље мапе заједн�
 #: content/donate/index.md
 #, no-wrap
 msgid "Donate to keep the project running"
-msgstr "Донирајте да би пројекат радио"
+msgstr "Донирајте да би пројекат наставио да функционише"
 
 #. type: Yaml Front Matter Hash Value: extra donate info title
 #: content/donate/index.md
@@ -316,7 +317,7 @@ msgstr "Креиран с љубављу од стране ентузијаст�
 #: content/donate/index.md
 #, no-wrap
 msgid "Donate via Liberapay"
-msgstr "Донирајте путем Liberapay"
+msgstr "Донирајте путем Liberapay-а"
 
 #. type: Yaml Front Matter Hash Value: extra donate open_collective title
 #: content/donate/index.md
@@ -400,7 +401,7 @@ msgstr "Помоћ"
 #: content/about-us/index.md
 #, no-wrap
 msgid "Free and open navigation with privacy -<br/>Built by the community"
-msgstr "Слободна, отвореа и бесплатна навигација са приватношћу -<br/>Направљена од стране заједнице"
+msgstr "Слободна, отворена и бесплатна навигација са приватношћу -<br/>Направљена од стране заједнице"
 
 #. type: Yaml Front Matter Hash Value: extra about text
 #: content/about-us/index.md
@@ -478,7 +479,7 @@ msgstr "Издвојени медији"
 #: content/about-us/index.md
 #, no-wrap
 msgid "Unlock the freedom to easily navigate offline, with privacy-focused maps for drivers, hikers, and cyclists, powered by the community."
-msgstr "Откључајте слободу лаке офлајн навигације уз мапе које штите приватност, намењене возачима, пешацима и бициклистима, које покреће заједница."
+msgstr "Откључајте слободу лаке офлајн навигације уз мапе које штите приватност, намењене возачима, пешацима и бициклистима, које развија заједница."
 
 #. type: Yaml Front Matter Hash Value: extra vm items title
 #: content/about-us/index.md
@@ -678,13 +679,13 @@ msgstr "API"
 #: translations.yaml
 #, no-wrap
 msgid "Home"
-msgstr "Кућа"
+msgstr "Почетна"
 
 #. type: Hash Value: menu_media_coverage
 #: translations.yaml
 #, no-wrap
 msgid "Media Coverage"
-msgstr "Медијско извештавање"
+msgstr "Медији"
 
 #. type: Hash Value: menu_news
 #: translations.yaml

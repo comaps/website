@@ -43,13 +43,13 @@ msgstr "Community + Offene Karten"
 #: content/_index.md
 #, no-wrap
 msgid "CoMaps comes preinstalled on these operating systems as their default map app."
-msgstr ""
+msgstr "CoMaps ist auf diesen Betriebssystemen als Standard Karten App vorinstalliert."
 
 #. type: Yaml Front Matter Hash Value: extra preinstalls title
 #: content/_index.md
 #, no-wrap
 msgid "Trusted by these projects"
-msgstr ""
+msgstr "Diese Projekte vertrauen uns"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
@@ -172,13 +172,13 @@ msgstr "inv_title"
 #: content/_index.md
 #, no-wrap
 msgid "People like you are helping build the app by adding locations to <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> to create great maps together. The project is a fork of Organic Maps and Maps.Me, and driven by an open-source community."
-msgstr "Menschen wie du helfen bei der Entwicklung der App, indem sie Orte zu <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span> hinzufügen, Feedback zu Funktionen geben und mit Code auf <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> beitragen, um gemeinsam großartige Karten zu erstellen. Das Projekt ist ein Fork von Oranic Maps und Maps.Me; und wird von einer Open-Source-Community voran gebracht."
+msgstr "Menschen wie du helfen bei der Entwicklung der App, indem sie Orte zu <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span> hinzufügen, Feedback zu Funktionen geben und mit Code auf <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> beitragen, um gemeinsam großartige Karten zu erstellen. Das Projekt ist ein Fork von Organic Maps und Maps.Me; und wird von einer Open-Source-Community voran gebracht."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
 #, no-wrap
 msgid "Free for everyone, Made with love"
-msgstr "Frei für alle, aus Leidenschaft"
+msgstr "Frei für alle, mit Liebe gemacht"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md

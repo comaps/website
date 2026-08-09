@@ -43,13 +43,13 @@ msgstr "Community + Mappe aperte"
 #: content/_index.md
 #, no-wrap
 msgid "CoMaps comes preinstalled on these operating systems as their default map app."
-msgstr ""
+msgstr "CoMaps è preinstallato su questi sistemi operativi come app di mappe predefinita."
 
 #. type: Yaml Front Matter Hash Value: extra preinstalls title
 #: content/_index.md
 #, no-wrap
 msgid "Trusted by these projects"
-msgstr ""
+msgstr "Questi progetti si affidano a noi"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
@@ -424,7 +424,7 @@ msgstr "CoMaps è reso possibile dal lavoro delle comunità che aiutano a creare
 #: content/about-us/index.md
 #, no-wrap
 msgid "Powered by open data commons"
-msgstr ""
+msgstr "Supportato da dati aperti e collaborativi"
 
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md
@@ -472,7 +472,7 @@ msgstr "Vedi la piena lista di copertura dei media su CoMaps."
 #: content/about-us/index.md
 #, no-wrap
 msgid "Media Highlights"
-msgstr ""
+msgstr "Rassegna stampa"
 
 #. type: Yaml Front Matter Hash Value: extra vm items text
 #: content/about-us/index.md

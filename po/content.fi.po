@@ -43,13 +43,13 @@ msgstr "Yhteisö + Avoimet kartat"
 #: content/_index.md
 #, no-wrap
 msgid "CoMaps comes preinstalled on these operating systems as their default map app."
-msgstr ""
+msgstr "CoMaps on esiasennettu näissä käyttöjärjestelmissä oletusarvoiseksi karttasovellukseksi."
 
 #. type: Yaml Front Matter Hash Value: extra preinstalls title
 #: content/_index.md
 #, no-wrap
 msgid "Trusted by these projects"
-msgstr ""
+msgstr "Luotettu projektien toimesta"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
