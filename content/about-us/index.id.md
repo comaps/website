@@ -6,11 +6,12 @@ extra:
     text: "CoMaps adalah aplikasi navigasi yang menjaga privasi dan berfokus pada komunitas untuk para wisatawan dan petualang — baik pengemudi, pendaki, maupun pesepeda. CoMaps menawarkan navigasi yang menjaga privasi - tanpa identifikasi pengguna dan tanpa pengumpulan data. Fitur CoMaps dapat beroperasi tanpa koneksi internet aktif untuk navigasi offline di perkotaan atau lokasi terpencil yang tidak terjangkau sinyal seluler. CoMaps adalah proyek sumber terbuka yang memprioritaskan pengembangan komunitas."
     title: "Navigasi gratis dan terbuka yang menjaga privasi, dibangun oleh komunitas"
   data:
-    link_text: "Learn more about all of our open data sources"
     media_osm: /images/about-us/OSM.png
     media_wikipedia: /images/about-us/Wikidata_stamp.png
     text: "CoMaps dapat terwujud berkat kerja keras komunitas yang membantu membuat dan memelihara data terbuka yang mendukung aplikasi kami: Peta kami menggunakan data OpenStreetMap, yang dibuat dan dipelihara oleh ribuan kontributor dari seluruh dunia. Untuk menautkan dan menyediakan detail offline mengenai kota, tempat wisata, dan berbagai tempat menarik lainnya, kami mengandalkan artikel dan foto dari komunitas global Wikipedia, Wikidata, dan Wikimedia Commons."
     title: "Didukung oleh Open Data Commons"
+  data_link:
+    text: "Learn more about all of our open data sources"
   history:
     items:
       - text: "Aplikasi navigasi MapsWithMe dibuat (kemudian berganti nama menjadi Maps.me)."

@@ -6,11 +6,12 @@ extra:
     text: "CoMaps is a community-focused privacy navigation app for travelers - drivers, hikers, and cyclists. It offers navigation with privacy - no identifying people and no data collection. CoMaps features can operate without an active internet connection for offline navigation at urban or distant locations, where cellular service is not available. CoMaps is an open-source project, and prioritizes community development."
     title: "சமூகத்தால் கட்டமைக்கப்பட்ட தனியுரிமையுடன் கூடிய இலவச மற்றும் திறந்த வழிசெலுத்தல்"
   data:
-    link_text: "Learn more about all of our open data sources"
     media_osm: /images/about-us/OSM.png
     media_wikipedia: /images/about-us/Wikidata_stamp.png
     text: "CoMaps is made possible thanks to the labor of communities who help create and maintain the open data that powers our app: Our maps use OpenStreetMap data, made and maintained by thousands of contributors from all over the world. In order to link to, and provide offline details about cities, attractions and many other points-of-interest, we rely on the articles and photos of the global Wikipedia, Wikidata, and Wikimedia Commons communities."
     title: "Powered by open data commons"
+  data_link:
+    text: "Learn more about all of our open data sources"
   history:
     items:
       - text: "MapsWithMe வழிசெலுத்தல் பயன்பாடு உருவாக்கப்பட்டது (பின்னர் Maps.me என மறுபெயரிடப்பட்டது)."

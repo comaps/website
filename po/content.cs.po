@@ -6,7 +6,6 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"PO-Revision-Date: 2026-07-25 16:07+0000\n"
 "Last-Translator: Fjuro <fjuro@noreply.codeberg.org>\n"
 "Language-Team: Czech <https://translate.codeberg.org/projects/comaps/website/cs/>\n"
 "Language: cs\n"
@@ -426,6 +425,12 @@ msgstr "Aplikace CoMaps funguje díky práci komunit, které pomáhají vytvář
 #, no-wrap
 msgid "Powered by open data commons"
 msgstr "S využitím Open Data Commons"
+
+#. type: Yaml Front Matter Hash Value: extra data_link text
+#: content/about-us/index.md
+#, no-wrap
+msgid "Learn more about all of our open data sources"
+msgstr ""
 
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md

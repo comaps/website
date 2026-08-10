@@ -6,11 +6,12 @@ extra:
     text: "CoMaps er en fællesskabsorienteret navigationsapp for rejsende – bilister, vandrere og cyklister. Den tilbyder navigation med beskyttelse af privatlivets fred – ingen identifikation af personer og ingen dataindsamling. CoMaps-funktionerne fungerer uden en aktiv internetforbindelse, så der kan navigeres offline i byområder eller afsides egne, hvor der ikke er mobildækning. CoMaps er et open source-projekt, der prioriterer udvikling af fællesskab."
     title: "Fri og åben navigation med privatlivsbeskyttelse, udviklet af fællesskabet"
   data:
-    link_text: "Learn more about all of our open data sources"
     media_osm: /images/about-us/OSM.png
     media_wikipedia: /images/about-us/Wikidata_stamp.png
     text: "CoMaps er blevet til takket være indsatsen fra de fællesskaber, der er med til at skabe og vedligeholde de åbne data, som vores app bygger på: Vores kort bruger data fra OpenStreetMap, som er udarbejdet og vedligeholdt af tusindvis af bidragydere fra hele verden. For at kunne linke til og give offline-oplysninger om byer, seværdigheder og mange andre interessante steder benytter vi os af artikler og fotos fra de globale fællesskaber på Wikipedia, Wikidata og Wikimedia Commons."
     title: "Drevet af fælles åbne data"
+  data_link:
+    text: "Learn more about all of our open data sources"
   history:
     items:
       - text: "Navigationsappen MapsWithMe oprettes (senere omdøbt til Maps.me)."

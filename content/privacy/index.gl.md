@@ -3,7 +3,7 @@ title: Privacidade
 weight: 900
 ---
 
-En CoMaps respetamos a túa privacidade. CoMaps non ten xeito de identifcar
+En CoMaps respectamos a túa privacidade. CoMaps non ten xeito de identifcar
 persoas, incluír publicidade ou recoller datos persoais.
 
 CoMaps non te rastrexa.

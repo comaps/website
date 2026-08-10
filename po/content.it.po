@@ -426,6 +426,12 @@ msgstr "CoMaps è reso possibile dal lavoro delle comunità che aiutano a creare
 msgid "Powered by open data commons"
 msgstr "Supportato da dati aperti e collaborativi"
 
+#. type: Yaml Front Matter Hash Value: extra data_link text
+#: content/about-us/index.md
+#, no-wrap
+msgid "Learn more about all of our open data sources"
+msgstr ""
+
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md
 #, no-wrap

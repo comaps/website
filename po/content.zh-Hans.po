@@ -426,6 +426,12 @@ msgstr "CoMaps 的实现离不开众多社区的辛勤付出，正是他们协�
 msgid "Powered by open data commons"
 msgstr "由开放数据共享平台提供支持"
 
+#. type: Yaml Front Matter Hash Value: extra data_link text
+#: content/about-us/index.md
+#, no-wrap
+msgid "Learn more about all of our open data sources"
+msgstr ""
+
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md
 #, no-wrap

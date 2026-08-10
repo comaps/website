@@ -6,11 +6,12 @@ extra:
     text: "A CoMaps egy közösség- és adatvédelem-központú navigációs alkalmazás utazók – autósok, túrázók és kerékpárosok – számára. Adatvédelmet is biztosító navigációt kínál – nem azonosítja az embereket és nem gyűjt adatokat. A CoMaps funkciói aktív internetkapcsolat nélkül is működnek, így offline navigációra is alkalmas a városokban vagy az olyan távoli helyeken, ahol nincs mobilhálózati lefedettség. A CoMaps egy nyílt forráskódú projekt, amely a közösségi fejlesztést helyezi előtérbe."
     title: "Ingyenes és nyílt navigáció adatvédelemmel, a közösség által létrehozva"
   data:
-    link_text: "Learn more about all of our open data sources"
     media_osm: /images/about-us/OSM.png
     media_wikipedia: /images/about-us/Wikidata_stamp.png
     text: "A CoMaps működését azoknak a közösségeknek köszönhetjük, amelyek segítik az alkalmazásunk alapját képező nyílt adatok létrehozását és karbantartását: térképeink az OpenStreetMap adatait használják, amelyeket világszerte több ezer közreműködő állít össze és tart karban. A városokhoz, látnivalókhoz és számos egyéb nevezetességhez való hivatkozás, valamint az ezekről szóló offline információk biztosítása érdekében a globális Wikipédia-, Wikidata- és Wikimedia Commons-közösségek cikkeit és fényképeit használjuk."
     title: "Nyílt közadatokra építve"
+  data_link:
+    text: "Learn more about all of our open data sources"
   history:
     items:
       - text: "Létrejött a MapsWithMe navigációs alkalmazás (később Maps.me lett a neve)."

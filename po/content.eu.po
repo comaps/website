@@ -427,6 +427,12 @@ msgstr "CoMaps gure aplikazioak erabiltzen dituen datu irekiak sortzen eta mante
 msgid "Powered by open data commons"
 msgstr "Open Data Commons-ek bultzatuta"
 
+#. type: Yaml Front Matter Hash Value: extra data_link text
+#: content/about-us/index.md
+#, no-wrap
+msgid "Learn more about all of our open data sources"
+msgstr ""
+
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md
 #, no-wrap

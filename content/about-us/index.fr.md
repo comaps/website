@@ -6,11 +6,12 @@ extra:
     text: "CoMaps est une application de navigation respectueuse de la vie privée, axée sur la communauté, destinée aux voyageurs – automobilistes, randonneurs et cyclistes. Elle offre une navigation respectueuse de la vie privée : aucune identification des personnes et aucune collecte de données. Les fonctionnalités de CoMaps peuvent fonctionner sans connexion Internet active, permettant ainsi une navigation hors ligne en milieu urbain ou dans des zones reculées où le réseau mobile n'est pas disponible. CoMaps est un projet open source qui accorde la priorité au développement communautaire."
     title: "Navigation gratuite et ouverte respectant la vie privée, faite par la communauté"
   data:
-    link_text: "Learn more about all of our open data sources"
     media_osm: /images/about-us/OSM.png
     media_wikipedia: /images/about-us/Wikidata_stamp.png
     text: "CoMaps est rendu possible grâce au travail des communautés qui créent et maintiennent les données ouvertes qui alimentent notre application : notre carte utilise les données d'OpenStreetMap, faites et maintenues par des milliers de contributeurs autour du monde. De façon à mettre en lien et fournir des informations hors ligne sur les villes, attractions et nombreux autres points d'intérêt, nous nous appuyons sur les articles et photos des communautés mondiales de Wikipédia, Wikidata et Wikimedia Commons."
     title: "Basé sur des communs et des données ouvertes"
+  data_link:
+    text: "Learn more about all of our open data sources"
   history:
     items:
       - text: "Création de l'application de navigation MapsWithMe (plus tard renommée Maps.me)."

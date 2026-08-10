@@ -3,7 +3,7 @@ description: "Allibera el potencial de la navegació! Descobreix els mapes sense
 extra:
   app_verifier:
     description: "Per a verificar l'aplicació quan es descarregui com a APK o via Obtainium, podeu emprar aquesta empremta dactilar:"
-    title: "Verifying the Android app"
+    title: "Verificar l'aplicació d'Android"
   desktop_payment_methods_1: macOS
   desktop_payment_methods_2: Linux
   desktop_payment_title: Desktop

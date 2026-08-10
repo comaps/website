@@ -426,6 +426,12 @@ msgstr "Orodje CoMaps deluje zahvaljujoč prizadevanjem skupnosti, ki pomaga ust
 msgid "Powered by open data commons"
 msgstr "Osnovano na odprtih podatkih"
 
+#. type: Yaml Front Matter Hash Value: extra data_link text
+#: content/about-us/index.md
+#, no-wrap
+msgid "Learn more about all of our open data sources"
+msgstr ""
+
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md
 #, no-wrap

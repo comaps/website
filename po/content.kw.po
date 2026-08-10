@@ -426,6 +426,12 @@ msgstr "CoMaps yw possybyl meur ras dhe'n ober a gemenethow neb a weres ha gwith
 msgid "Powered by open data commons"
 msgstr "Gwrys galladow gans kemmynyon data rydh"
 
+#. type: Yaml Front Matter Hash Value: extra data_link text
+#: content/about-us/index.md
+#, no-wrap
+msgid "Learn more about all of our open data sources"
+msgstr ""
+
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md
 #, no-wrap

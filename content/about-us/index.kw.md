@@ -6,11 +6,12 @@ extra:
     text: "CoMaps yw app navigacyon fogellys war gemeneth rag tremenysi - lewyoryon, kerdhoryon, ha diwrosyoryon. Owth offra navigacyon gans privetter yw - owth aswon tus vyth ha kuntel data vyth. Nasyow CoMaps a yll oberi heb junyans kesrosweyth byw rag navigation dhywarlinen yn tylleryow trevel po pell, le may gonis klapkodh yw ankavadow. CoMaps yw ragdres rydh, ha ragwirhe displegyans kemeneth."
     title: "Navigacyon rydh hag ygor gans privetter, byldys gans an gemeneth"
   data:
-    link_text: "Learn more about all of our open data sources"
     media_osm: /images/about-us/OSM.png
     media_wikipedia: /images/about-us/Wikidata_stamp.png
     text: "CoMaps yw possybyl meur ras dhe'n ober a gemenethow neb a weres ha gwitha an data rydh y'gan app: Agan mappys devnydhya data OpenStreetMap, gwrys ha gwithys gans milyow a gevriysi a dhres oll an bys. Rag junya dhe, ha provia manylyon dhywarlinen a-dro dhe citys, leow ha moy poyntys-a-les, ni a fydhya war'n erthyglow ha skeusennow a'n kemenethow ollvysel Wikipedya, Wikidata, ha Wikimedia Commons."
     title: "Gwrys galladow gans kemmynyon data rydh"
+  data_link:
+    text: "Learn more about all of our open data sources"
   history:
     items:
       - text: "App navigacyon MapsWithMe gwrys (dashenwelys diwettha dhe Vaps.me)."

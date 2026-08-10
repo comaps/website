@@ -424,6 +424,12 @@ msgstr "CoMaps wordt mogelijk gemaakt dankzij de inzet van gemeenschappen die he
 msgid "Powered by open data commons"
 msgstr "Mogelijk gemaakt door open data commons"
 
+#. type: Yaml Front Matter Hash Value: extra data_link text
+#: content/about-us/index.md
+#, no-wrap
+msgid "Learn more about all of our open data sources"
+msgstr ""
+
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md
 #, no-wrap

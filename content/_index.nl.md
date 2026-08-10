@@ -7,28 +7,28 @@ extra:
   map:
     description: 'Community + Open kaarten'
   preinstalls:
-    description: 'CoMaps comes preinstalled on these operating systems as their default map app.'
-    title: 'Trusted by these projects'
+    description: 'CoMaps wordt vooraf op deze besturingssystemen geïnstalleerd als hun standaard kaartapp.'
+    title: 'Vertrouwd door deze projecten'
   services:
     items:
       - 
-        description: 'Plan en navigeer je reis in het buitenland met alleen gps, zonder mobiele data. Zoek plekken langs je route op afgelegen wandel- of fietspaden.'
+        description: 'Plan en navigeer je reis naar het buitenland met alleen GPS en zonder mobiele gegevens. Zoek routepunten op afgelegen wandelpaden of fietspaden. Navigeer met stapsgewijze aanwijzingen te voet, met de fiets of met de auto, inclusief gesproken meldingen.'
         highlight:
           icon: static/images/icons/home/wifi-off.svg
           text: 'Geen internet nodig'
         media:
           map: /images/sections/map-s-1.webp
           user: /images/sections/map-m-1.webp
-        title: 'Offline zoeken en routes plannen'
+        title: 'Offline zoeken en plannen van routes'
       - 
-        description: 'De app is ontworpen met oog voor privacy - identificeert geen personen, volgt je niet en verzamelt geen gegevens. CoMaps is ook gecontroleerd door <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-exodus"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/).'
+        description: 'Gebruik de outdoor-modus om wandelroutes, campings en watervoorraden te markeren. Zet de hoogtelijnen aan om je reis te plannen. Zie je onderweg een interessante bergtop? Gebruik de offline *Wikipedia*-artikelen om er meer over te leren!'
         highlight:
-          icon: static/images/icons/home/shield.svg
-          text: 'Privacy als standaard'
+          icon: static/images/icons/home/mappin-small.svg
+          text: 'Verken de natuur'
         media:
-          map: /images/sections/map-s-2.webp
-          user: /images/sections/map-m-2.webp
-        title: 'Geen dataverzameling'
+          map: /images/sections/map-s-5.webp
+          user: /images/sections/map-m-5.webp
+        title: 'Wandel met de informatie die je nodig hebt'
       - 
         description: 'Gebruikt weinig energie, zodat je batterij minder snel leegloopt dan bij andere navigatie-apps.'
         highlight:
@@ -38,6 +38,33 @@ extra:
           map: /images/sections/map-s-3.webp
           user: /images/sections/map-m-3.webp
         title: 'Bespaar je batterij'
+      - 
+        description: 'Gebruik de laag voor het openbaar vervoer om je metro- en lichtbaanreizen te plannen in een steeds grotere lijst van steden.'
+        highlight:
+          icon: static/images/icons/home/train-m.svg
+          text: 'Verken de stad'
+        media:
+          map: /images/sections/map-s-6.webp
+          user: /images/sections/map-m-6.webp
+        title: 'Rondkomen in de stad'
+      - 
+        description: 'De app is ontworpen met privacy in gedachten - het herkent geen personen, volgt je niet en verzamelt geen informatie. CoMaps is ook gecontroleerd door privacy-auditor <span class="text-icon"><svg viewbox="0 0 19 19"><use href="#icon-exodus"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/).'
+        highlight:
+          icon: static/images/icons/home/shield.svg
+          text: 'Privacy als standaard'
+        media:
+          map: /images/sections/map-s-2.webp
+          user: /images/sections/map-m-2.webp
+        title: 'Geen dataverzameling'
+      - 
+        description: 'CoMaps wordt aanbevolen door *[Switching Software](https://switching.software/replace/google-maps/)*, *[European & Open Source Alternatives](https://european-alternatives.cloud/en/browse?category=maps)*, *[Digital Independence Day](https://di.day/en/digital-switch-recipes/maps)* en *[Framastart](https://framastart.org/smartphone/)* als een ethisch, gebruiksvriendelijk en privacybewust alternatief voor commerciële kaarten.'
+        highlight:
+          icon: static/images/icons/home/route-arrows-up-icon.svg
+          text: 'Onafhankelijke kaarten'
+        media:
+          map: /images/sections/map-s-7.webp
+          user: /images/sections/map-m-7.webp
+        title: 'Een Echt Alternatief'
       - 
         cta:
           href: community/

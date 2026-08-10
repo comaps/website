@@ -6,11 +6,12 @@ extra:
     text: "CoMaps je orodje za potno usmerjanje, ki je osredotočeno na skupnost in namenjena popotnikom – voznikom, pohodnikom in kolesarjem. Omogoča zasebno usmerjanje – brez prepoznave oseb in zbiranja podatkov. Zmogljivosti CoMaps delujejo tudi brez spletne povezave za potno usmerjanje v mestnih ali odročnih krajih, kjer mobilni podatki niso na voljo. CoMaps je odprtokodni projekt, ki daje prednost razvoju v skupnosti."
     title: "Brezplačno in odprto usmerjanje, zasebno in narejeno s strani skupnosti"
   data:
-    link_text: "Learn more about all of our open data sources"
     media_osm: /images/about-us/OSM.png
     media_wikipedia: /images/about-us/Wikidata_stamp.png
     text: "Orodje CoMaps deluje zahvaljujoč prizadevanjem skupnosti, ki pomaga ustvarjati in vzdrževati odprte podatke, na katerih temelji naše orodje: naši zemljevidi uporabljajo podatke OpenStreetMap, ki jih ustvarjajo in vzdržujejo tisoči sodelavcev z vsega sveta. Da bi lahko prikazovali povezave in zagotavljali podatke za uporabo brez internetne povezave o mestih, znamenitostih in številnih drugih točkah zanimanja, se opiramo na članke in fotografije svetovnih skupnosti Wikipedije, Wikipodatkov in Wikimedijine zbirke."
     title: "Osnovano na odprtih podatkih"
+  data_link:
+    text: "Learn more about all of our open data sources"
   history:
     items:
       - text: "Ustvarjeno usmerjevalno orodje MapsWithMe (kasneje preimenovano v Maps.me)."

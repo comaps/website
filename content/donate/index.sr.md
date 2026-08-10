@@ -3,10 +3,10 @@ description: "Донирајмо и направимо боље мапе зај�
 extra:
   donate:
     info:
-      description: "Донирајте да би пројекат радио"
+      description: "Донирајте да би пројекат наставио да функционише"
       title: "Креиран с љубављу од стране ентузијаста волонтера"
     liberapay:
-      title: "Донирајте путем Liberapay"
+      title: "Донирајте путем Liberapay-а"
     open_collective:
       title: "Донирајте путем Open Collective-a"
     title: Донирајте

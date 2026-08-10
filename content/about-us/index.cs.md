@@ -6,11 +6,12 @@ extra:
     text: "CoMaps je komunitně zaměřená navigační aplikace pro cestovatele – řidiče, turisty a cyklisty – která dbá na ochranu soukromí. Nabízí navigaci s důrazem na soukromí – bez identifikace uživatelů a bez sběru dat. Funkce CoMaps lze používat i bez aktivního připojení k internetu, což umožňuje offline navigaci ve městech i na odlehlých místech, kde není dostupný mobilní signál. CoMaps je projekt s otevřeným zdrojovým kódem a klade důraz na konunitní vývoj."
     title: "Bezplatná a otevřená navigace se soukromím, vytvořená komunitou"
   data:
-    link_text: "Learn more about all of our open data sources"
     media_osm: /images/about-us/OSM.png
     media_wikipedia: /images/about-us/Wikidata_stamp.png
     text: "Aplikace CoMaps funguje díky práci komunit, které pomáhají vytvářet a spravovat otevřená data, na nichž je naše aplikace založena: Naše mapy využívají data z OpenStreetMap, která vytvářejí a spravují tisíce přispěvatelů z celého světa. Abychom mohli odkazovat na města, památky a mnoho dalších zajímavých míst a poskytovat o nich informace i v režimu offline, využíváme články a fotografie globálních komunit Wikipedie, Wikidat a Wikimedia Commons."
     title: "S využitím Open Data Commons"
+  data_link:
+    text: "Learn more about all of our open data sources"
   history:
     items:
       - text: "Vytvořena navigační aplikace MapsWithMe (později přejmenována na Maps.me)."

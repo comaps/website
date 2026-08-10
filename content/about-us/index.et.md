@@ -6,11 +6,12 @@ extra:
     text: "CoMaps on kogukonnale suunatud privaatne kaardirakendus reisijatele - autojuhtidele, matkajatele ja jalgratturitele. Tee juhatamine toimib privaatselt - rakendus ei tuvasta kasutajaid ega kogu nende kohta andmeid. CoMap töötab ilma aktiivse internetiühenduseta ja seega võimaldab tee juhatamist kohtades, kus mobiilsideteenus ei ole kättesaadav või asjatult kallis. CoMaps on avatud lähtekoodiga projekt, mis seab esikohale kogukonna arengu."
     title: "Vaba, avatud ja tasuta kaardirakendus, mis arvestab privaatsusega, loodud kogukonna poolt"
   data:
-    link_text: "Learn more about all of our open data sources"
     media_osm: /images/about-us/OSM.png
     media_wikipedia: /images/about-us/Wikidata_stamp.png
     text: "CoMaps on saanud teoks tänu kogukondadele, kes aitavad luua ja hooldada avaandmeid, millel meie rakendus põhineb: meie kaartidel kasutatakse OpenStreetMapi andmeid, mida loovad ja hooldavad tuhanded kaastöötajad üle kogu maailma. Linnade, vaatamisväärsuste ja paljude teiste huviväärsuste kohta viidete loomiseks ning nende kohta vallasrežiimis kasutatava teabe pakkumiseks toetume ülemaailmsete Vikipeedia, Wikidata ja Wikimedia Commonsi kogukondade artiklitele ja fotodele."
     title: "Aluseks on üldised avaandmed"
+  data_link:
+    text: "Learn more about all of our open data sources"
   history:
     items:
       - text: "MapsWithMe kaardirakendus on saadaval (hilisema nimega Maps.me)."

@@ -14,7 +14,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 2026.7.1\n"
-"PO-Revision-Date: 2026-07-30 11:07+0000\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -426,6 +425,12 @@ msgstr "CoMaps és possible gràcies a la labor de comunitats que ajuden a crear
 #, no-wrap
 msgid "Powered by open data commons"
 msgstr "Desenvolupat per Open Data Commons"
+
+#. type: Yaml Front Matter Hash Value: extra data_link text
+#: content/about-us/index.md
+#, no-wrap
+msgid "Learn more about all of our open data sources"
+msgstr ""
 
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md
