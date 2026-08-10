@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"PO-Revision-Date: 2026-07-22 10:07+0000\n"
+"PO-Revision-Date: 2026-08-10 08:26+0000\n"
 "Last-Translator: dobridabar <dobridabar@noreply.codeberg.org>\n"
 "Language-Team: Serbian <https://translate.codeberg.org/projects/comaps/website/sr/>\n"
 "Language: sr\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 2026.6.1\n"
+"X-Generator: Weblate 2026.8.1\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -54,10 +54,9 @@ msgstr "Ови пројекти су јој указали поверење"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
-#, fuzzy, no-wrap
-#| msgid "Plan and navigate your trip abroad with just GPS, no need for mobile data. Search waypoints while on distant hiking trails or bike paths."
+#, no-wrap
 msgid "Plan and navigate your trip abroad with just GPS, no need for mobile data. Search waypoints while on remote hiking trails or bike paths. Navigate with turn-by-turn instructions by foot, bike or car, including voice announcements."
-msgstr "Планирајте и крените се својим путовањем у иностранство само са GPS-ом, без потребе за мобилним подацима. Тражите успутне тачке док сте на удаљеном планинарењу."
+msgstr "Планирајте и крените се својим путовањем у иностранство само са GPS-ом, без потребе за мобилним подацима. Тражите успутне тачке док сте на удаљеним планинарским или бициклистичким стазама. Користите инструкције за навигацију за свако скретање док ходате, возите бицикл или ауто, укључујући и гласовне инструкције."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
@@ -67,28 +66,27 @@ msgstr "Не захтева интернет"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
-#, fuzzy, no-wrap
-#| msgid "Offline Search and Route"
+#, no-wrap
 msgid "Offline Search and Routing"
-msgstr "Офлајн претрага и руте"
+msgstr "Офлајн претрага и рутирање"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
 #, no-wrap
 msgid "Use the outdoor mode to highlight hiking trails, campsites, and water sources. Enable contour lines to plan your trip. Spot an interesting peak along the way? Use the offline *Wikipedia* articles to learn more about it!"
-msgstr ""
+msgstr "Користите стил \"на отвореном\" да бисте истакли планинарске стазе, места за камповање и изворе воде. Укључите изохипсе ради бољег планирања путовања. Приметили сте занимљив врх успут? Користите офлајн *Wikipedia* чланке да бисте сазнали више детаља о њему!"
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
 #, no-wrap
 msgid "Explore nature"
-msgstr ""
+msgstr "Истражујте природу"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
 #, no-wrap
 msgid "Hike with the Information you Need"
-msgstr ""
+msgstr "Планинарите са информацијама које су вам потребне"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
@@ -112,26 +110,25 @@ msgstr "Штеди батерију"
 #: content/_index.md
 #, no-wrap
 msgid "Use the public transport layer to plan your subway and light rail journeys in a growing list of cities."
-msgstr ""
+msgstr "Користите слој Метро, да бисте планирали путовање метроом и лаком железницом у све већем броју градова."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
 #, no-wrap
 msgid "Explore the city"
-msgstr ""
+msgstr "Истражујте град"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
 #, no-wrap
 msgid "Get around the City"
-msgstr ""
+msgstr "Крећите се по граду"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
-#, fuzzy, no-wrap
-#| msgid "The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information. CoMaps was also audited by <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-exodus\"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/)."
+#, no-wrap
 msgid "The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information. CoMaps was also audited by <span class=\"text-icon\"><svg viewbox=\"0 0 19 19\"><use href=\"#icon-exodus\"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/), a privacy auditor."
-msgstr "Апликација је дизајнирана имајући у виду приватност — не идентификује људе, не прати вас и не прикупља никакве информације. CoMaps је такође проверио <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-exodus\"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/)."
+msgstr "Апликација је дизајнирана имајући у виду приватност — не идентификује људе, не прати вас и не прикупља никакве информације. CoMaps је такође проверио <span class=\"text-icon\"><svg viewbox=\"0 0 19 19\"><use href=\"#icon-exodus\"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/), ревизор приватности."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
@@ -149,19 +146,19 @@ msgstr "Нема прикупљања података"
 #: content/_index.md
 #, no-wrap
 msgid "CoMaps is recommended by *[Switching Software](https://switching.software/replace/google-maps/)*, *[European & Open Source Alternatives](https://european-alternatives.cloud/en/browse?category=maps)*, *[Digital Independence Day](https://di.day/en/digital-switch-recipes/maps)* ,and *[Framastart](https://framastart.org/smartphone/)* as an ethical, easy-to-use and privacy-conscious alternative to commercial maps."
-msgstr ""
+msgstr "*CoMaps* је препоручен од стране сајтova *[Switching Software](https://switching.software/replace/google-maps/)*, *[European & Open Source Alternatives](https://european-alternatives.cloud/en/browse?category=maps)*, *[Digital Independence Day](https://di.day/en/digital-switch-recipes/maps)* , и *[Framastart](https://framastart.org/smartphone/)*, као етичка алтернатива комерцијалним апликацијама, која је једноставна за коришћење и која поштује приватност."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
 #, no-wrap
 msgid "Independent maps"
-msgstr ""
+msgstr "Назависне мапе"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
 #, no-wrap
 msgid "A True Alternative"
-msgstr ""
+msgstr "Истинска алтернатива"
 
 #. type: Yaml Front Matter Hash Value: extra services items cta text
 #: content/_index.md
@@ -173,7 +170,7 @@ msgstr "inv_title"
 #: content/_index.md
 #, no-wrap
 msgid "People like you are helping build the app by adding locations to <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> to create great maps together. The project is a fork of Organic Maps and Maps.Me, and driven by an open-source community."
-msgstr "Људи као што сте ви су помажу да се развија апликација додавањем локација на <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, давањем повратних информација о функцијама и писањем изворног кода путем <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span>-а, како бисмо заједно направили изузетне мапе. Овај пројекат наследник пројеката Organic Maps и Maps.Me и њиме управља заједница отвореног кода."
+msgstr "Људи као што сте ви су помажу да се развија апликација додавањем локација на <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, давањем повратних информација о функцијама и писањем изворног кода путем <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span>-а, како бисмо заједно направили изузетне мапе. Овај пројекат наследник пројеката *Organic Maps* и *Maps.Me* и њиме управља заједница отвореног кода."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
@@ -227,7 +224,7 @@ msgstr "Пријавите грешке, разговарајте о идеји 
 #: content/community/index.md
 #, no-wrap
 msgid "**Report** Bugs"
-msgstr "**Извештај** Грешке"
+msgstr "**Пријавите** грешке"
 
 #. type: Yaml Front Matter Hash Value: extra features description
 #: content/community/index.md
@@ -239,7 +236,7 @@ msgstr "Развијте нове функције, помозите у попр
 #: content/community/index.md
 #, no-wrap
 msgid "**Develop** Functionality"
-msgstr "**Развој** Функционалности"
+msgstr "**Развијајте** функционалности"
 
 #. type: Yaml Front Matter Hash Value: extra features description
 #: content/community/index.md
@@ -251,7 +248,7 @@ msgstr "Утичите на смер развоја производа"
 #: content/community/index.md
 #, no-wrap
 msgid "**Design** Interface"
-msgstr "**Дизајн** интерфејс"
+msgstr "**Дизајнирајте** интерфејс"
 
 #. type: Yaml Front Matter Hash Value: extra features description
 #: content/community/index.md
@@ -263,7 +260,7 @@ msgstr "Додајте преводе да бисте то учинили дос
 #: content/community/index.md
 #, no-wrap
 msgid "**Translate** Text"
-msgstr "**Преведите** Текст"
+msgstr "**Преведите** текст"
 
 #. type: Yaml Front Matter Hash Value: extra features description
 #: content/community/index.md
@@ -275,7 +272,7 @@ msgstr "Додајте информације о продавницама, за�
 #: content/community/index.md
 #, no-wrap
 msgid "**Add** Place Info"
-msgstr "**Додај** Информације о местима"
+msgstr "**Додајте** информације о местима"
 
 #. type: Yaml Front Matter Hash Value: extra features description
 #: content/community/index.md
@@ -419,7 +416,7 @@ msgstr "Слободна, отоврена и бесплатна навигац�
 #: content/about-us/index.md
 #, no-wrap
 msgid "CoMaps is made possible thanks to the labor of communities who help create and maintain the open data that powers our app: Our maps use OpenStreetMap data, made and maintained by thousands of contributors from all over the world. In order to link to, and provide offline details about cities, attractions and many other points-of-interest, we rely on the articles and photos of the global Wikipedia, Wikidata, and Wikimedia Commons communities."
-msgstr "CoMaps постоји захваљујући труду заједница које помажу у креирању и одржавању отворених података који покрећу нашу апликацију: Наше мапе користе податке OpenStreetMap-а, које креирају и одржавају хиљаде сарадника из целог света. Да бисмо повезали и обезбедили офлајн детаље о градовима, атракцијама и многим другим тачкама од интереса, ослањамо се на чланке и фотографије глобалних заједница Википедије, Wikidata-е и Wikimedia Commons-а."
+msgstr "*CoMaps* постоји захваљујући труду заједница које помажу у креирању и одржавању отворених података који покрећу нашу апликацију: Наше мапе користе податке *OpenStreetMap*-а, које креирају и одржавају хиљаде сарадника из целог света. Да бисмо повезали и обезбедили офлајн детаље о градовима, атракцијама и многим другим тачкама од интереса, ослањамо се на чланке и фотографије глобалних заједница Википедије, *Wikidata*-е и *Wikimedia Commons*-а."
 
 #. type: Yaml Front Matter Hash Value: extra data title
 #: content/about-us/index.md
@@ -431,7 +428,7 @@ msgstr "Покрећу га заједнице отворених податак
 #: content/about-us/index.md
 #, no-wrap
 msgid "MapsWithMe navigation app created (later renamed to Maps.me)."
-msgstr "Направљена је MapsWithMe апликација за навигацију (касније је преименована у Maps.me)."
+msgstr "Направљена је *MapsWithMe* апликација за навигацију (касније је преименована у *Maps.me*)."
 
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md
@@ -455,7 +452,7 @@ msgstr "Питања руковођења и бриге заједнице ни�
 #: content/about-us/index.md
 #, no-wrap
 msgid "The **CoMaps** community & non-profit project was founded by former Organic Maps contributors, based on the Organic Maps source code."
-msgstr "Заједница и непрофитни пројекат **CoMaps** основани су од стране дела бивших програмера Organic Maps-а, на основу изворног кода Organic Maps-а."
+msgstr "Заједница и непрофитни пројекат *CoMaps* основани су од стране дела бивших програмера *Organic Maps*-а, на основу изворног кода *Organic Maps*-а."
 
 #. type: Yaml Front Matter Hash Value: extra history title
 #: content/about-us/index.md
@@ -467,7 +464,7 @@ msgstr "Историја"
 #: content/about-us/index.md
 #, no-wrap
 msgid "See the full list of media coverage about CoMaps."
-msgstr "Погледајте комплетну листу медијског извјештавања о CoMaps-у."
+msgstr "Погледајте комплетну листу медијског извештавања о CoMaps-у."
 
 #. type: Yaml Front Matter Hash Value: extra media_highlights title
 #: content/about-us/index.md
@@ -596,7 +593,7 @@ msgstr "Осим ако то не захтева важећи закон или 
 #. type: Plain text
 #: content/terms/index.md
 msgid "Many libraries and 3rd party tools included into [CoMaps repository](https://codeberg.org/comaps/comaps) were developed by multiple people and organizations, and licensed in different ways.  Please refer to their LICENSE, COPYING or NOTICE files for terms of use."
-msgstr "Многе библиотеке и алатке треће стране укључене у [CoMaps repository](https://codeberg.org/comaps/comaps) развило је више људи и организација и лиценцирало их је на различите начине.  Молимо погледајте њихове датотеке ЛИЦЕНЦА, КОПИРАЊЕ или ОБАВЕШТЕЊЕ за услове коришћења."
+msgstr "Многе библиотеке и алатке трећих страна укључене у [*CoMaps* репозиторијум](https://codeberg.org/comaps/comaps) развило је више људи и организација и лиценцирало их је на различите начине.  Молимо погледајте њихове датотеке LICENSE, COPYING или NOTICE за услове коришћења."
 
 #. type: Plain text
 #: content/terms/index.md
