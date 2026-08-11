@@ -103,7 +103,7 @@ Below is a comprehensive list showing several engines and the languages they sup
 | Punjabi |   eSpeak |
 | Romanian |   Vocalizer, Ivona, Nuance, eSpeak, Sherpa |
 | Russian |   Vocalizer, Google, Acapela, Ivona, Yandex, RHVoice, eSpeak, Sherpa |
-| Serbian |   eSpeak, Sherpa |
+| Serbian |   RHVoice, eSpeak |
 | Shaanxi |   Vocalizer |
 | Shanghainese |   Vocalizer |
 | Sichuanese |   Vocalizer |
