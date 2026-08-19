@@ -5,7 +5,7 @@ extra:
     description: "Uygulama bağışlarınızla çalışıyor, yardımcı olun"
     title: "Bağış yapın"
   features:
-    - description: "Report bugs, discuss ideas, and propose features"
+    - description: "Hataları bildirin, fikirlerinizi paylaşın ve yeni özellikler önerin"
       icon: chats.svg
       link: https://codeberg.org/comaps/comaps/issues
       title: "**Hata** Bildir"

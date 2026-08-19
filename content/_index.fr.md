@@ -2,7 +2,7 @@
 description: 'Enrichissez votre voyage grâce à la communauté'
 extra:
   freedom:
-    description: 'Découvrez votre voyage, explorez le monde avec la vie privée et la communauté en tête.'
+    description: "Partez en voyage, naviguez dans le monde en mettant l'accent sur la confidentialité et la communauté."
     title: 'La liberté est ici'
   map:
     description: 'Communauté + Cartes Ouvertes'
@@ -19,7 +19,7 @@ extra:
         media:
           map: /images/sections/map-s-1.webp
           user: /images/sections/map-m-1.webp
-        title: "Recherche et calcul d'itinéraire hors ligne"
+        title: 'Recherche et itinéraire hors-ligne'
       - 
         description: "Utilisez le mode « Plein air » pour localiser les sentiers de randonnée, les emplacements de camping et les points d'eau. Activez les courbes de niveau pour planifier votre itinéraire. Vous repérez un sommet qui vous intéresse en chemin ? Consultez les articles *Wikipédia* hors ligne pour en savoir plus !"
         highlight:
@@ -48,7 +48,7 @@ extra:
           user: /images/sections/map-m-6.webp
         title: 'Se déplacer en ville'
       - 
-        description: "Cette application a été conçue dans le respect de la vie privée : elle n'identifie pas les utilisateurs, ne vous suit pas et ne collecte aucune information. CoMaps a également fait l'objet d'un audit par <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-exodus\"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/)."
+        description: "Cette application a été conçue dans le respect de votre vie privée : elle n'identifie pas les utilisateurs, ne vous piste pas et ne collecte aucune information. CoMaps a également été audité par <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-exodus\"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/)."
         highlight:
           icon: static/images/icons/home/shield.svg
           text: 'Privé par défaut'

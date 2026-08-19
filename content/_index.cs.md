@@ -7,12 +7,12 @@ extra:
   map:
     description: 'Komunita + Otevřené mapy'
   preinstalls:
-    description: 'CoMaps comes preinstalled on these operating systems as their default map app.'
-    title: 'Trusted by these projects'
+    description: 'CoMaps jsou předinstalované na těchto systémech jako výchozí mapová aplikace.'
+    title: 'Věří nám tyto projekty'
   services:
     items:
       - 
-        description: 'Naplánujte svou cestu a navigujte se na ní pouze s GPS, bez potřeby mobilních dat. Hledejte body zájmu na vzdálených túrách nebo cyklotrasách.'
+        description: 'Naplánujte svou cestu a navigujte se na ní pouze s GPS, bez potřeby mobilních dat. Hledejte body zájmu na odlehlých túrách nebo cyklotrasách. Navigujte se pomocí podrobných instrukcí pro chůzi, kolo nebo auto, včetně hlasových oznámení.'
         highlight:
           icon: static/images/icons/home/wifi-off.svg
           text: 'Není potřeba internet'
@@ -21,14 +21,14 @@ extra:
           user: /images/sections/map-m-1.webp
         title: 'Offline vyhledávání a trasování'
       - 
-        description: 'Aplikace je navržena s ohledem na soukromí – neidentifikuje osoby, nesleduje vás a neshromažďuje žádné informace. Aplikace CoMaps byla také prověřena službou <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-exodus"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/).'
+        description: 'Použijte turistický režim k zobrazení turistických tras, tábořišť a vodních zdrojů. Zapněte si vrstevnice pro naplánování svého výletu. Objevili jste po cestě zajímavý vrchol? Použijte offline články z *Wikipedie* a zjistěte si o něm více informací!'
         highlight:
-          icon: static/images/icons/home/shield.svg
-          text: 'Soukromí na prvním místě'
+          icon: static/images/icons/home/mappin-small.svg
+          text: 'Prozkoumat přírodu'
         media:
-          map: /images/sections/map-s-2.webp
-          user: /images/sections/map-m-2.webp
-        title: 'Žádný sběr dat'
+          map: /images/sections/map-s-5.webp
+          user: /images/sections/map-m-5.webp
+        title: 'Vyrazte na túru s potřebnými informacemi'
       - 
         description: 'Efektivně využívá baterii, nevybíjí ji jako jiné navigační aplikace.'
         highlight:
@@ -38,6 +38,33 @@ extra:
           map: /images/sections/map-s-3.webp
           user: /images/sections/map-m-3.webp
         title: 'Šetří vaší baterii'
+      - 
+        description: 'Použijte vrstvu veřejné dopravy pro naplánování tras pomocí metra a městské kolejové dopravy v rozrůstajícím se seznamu měst.'
+        highlight:
+          icon: static/images/icons/home/train-m.svg
+          text: 'Prozkoumejte město'
+        media:
+          map: /images/sections/map-s-6.webp
+          user: /images/sections/map-m-6.webp
+        title: 'Pohybujte se po městě'
+      - 
+        description: 'Aplikace je navržena s ohledem na soukromí – neidentifikuje osoby, nesleduje vás a neshromažďuje žádné informace. Aplikace CoMaps byla také prověřena službou <span class="text-icon"><svg viewbox="0 0 19 19"><use href="#icon-exodus"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/), auditorem v oblasti ochrany osobních údajů.'
+        highlight:
+          icon: static/images/icons/home/shield.svg
+          text: 'Soukromí na prvním místě'
+        media:
+          map: /images/sections/map-s-2.webp
+          user: /images/sections/map-m-2.webp
+        title: 'Žádný sběr dat'
+      - 
+        description: 'Aplikace CoMaps je doporučována stránkami *[Switching Software](https://switching.software/replace/google-maps/)*, *[European & Open Source Alternatives](https://european-alternatives.cloud/en/browse?category=maps)*, *[Digital Independence Day](https://di.day/en/digital-switch-recipes/maps)* a *[Framastart](https://framastart.org/smartphone/)* jako etická, snadná a na ochranu soukromí zaměřená alternativa ke komerčním mapám.'
+        highlight:
+          icon: static/images/icons/home/route-arrows-up-icon.svg
+          text: 'Nezávislé mapy'
+        media:
+          map: /images/sections/map-s-7.webp
+          user: /images/sections/map-m-7.webp
+        title: 'Opravdová alternativa'
       - 
         cta:
           href: community/

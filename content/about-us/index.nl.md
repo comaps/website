@@ -11,7 +11,7 @@ extra:
     text: "CoMaps wordt mogelijk gemaakt dankzij de inzet van gemeenschappen die helpen bij het creëren en onderhouden van de open data die onze app aandrijft: Onze kaarten maken gebruik van OpenStreetMap-gegevens, gemaakt en onderhouden door duizenden bijdragers van over de hele wereld. Om te linken naar en offline details te verstrekken over steden, attracties en vele andere bezienswaardigheden, vertrouwen we op de artikelen en foto's van de wereldwijde Wikipedia-, Wikidata- en Wikimedia Commons-gemeenschappen."
     title: "Mogelijk gemaakt door open data commons"
   data_link:
-    text: "Learn more about all of our open data sources"
+    text: "Lees meer over al onze open databronnen"
   history:
     items:
       - text: "De MapsWithMe navigatie-app is gemaakt (later hernoemd naar Maps.me)."

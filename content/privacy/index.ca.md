@@ -11,4 +11,4 @@ CoMaps no vos rastreja.
 Si teniu alguna pregunta o suggerència, per favor contacteu-nos a l'adreça
 legal@comaps.app
 
-Policy effective: 2025-05-01
+Política vigent des del 01-05-2025

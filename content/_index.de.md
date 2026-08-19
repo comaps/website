@@ -12,14 +12,14 @@ extra:
   services:
     items:
       - 
-        description: 'Plan and navigate your trip abroad with just GPS, no need for mobile data. Search waypoints while on remote hiking trails or bike paths. Navigate with turn-by-turn instructions by foot, bike or car, including voice announcements.'
+        description: 'Plane und navigiere auf deiner Reise im Ausland, nur mit GPS ohne mobilen Daten zu benötigen. Suche Wegpunkte auf abgelegenen Wander- oder Radwegen. Navigiere mit Schritt-für-Schritt zu Fuß, Rad oder Auto, inklusive Sprachanweisungen.'
         highlight:
           icon: static/images/icons/home/wifi-off.svg
           text: 'Funktioniert ohne Internetverbindung'
         media:
           map: /images/sections/map-s-1.webp
           user: /images/sections/map-m-1.webp
-        title: 'Offline Search and Routing'
+        title: 'Offline-Suche und Routenplanung'
       - 
         description: 'Benutze den Outdoormodus um Wanderwege, Campingplätze und Wasserquellen hervorzuheben. Aktiviere die Contourlinien um deine Route zu planen. Du siehst einen interessanten Gipfel unterwegs? Lese *Wikipedia*-Artikel offline um mehr darüber zu erfahren!'
         highlight:
@@ -48,7 +48,7 @@ extra:
           user: /images/sections/map-m-6.webp
         title: 'Finde deinen Weg in der Stadt'
       - 
-        description: 'The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information. CoMaps was also audited by <span class="text-icon"><svg viewbox="0 0 19 19"><use href="#icon-exodus"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/), a privacy auditor.'
+        description: 'Die App wurde unter Berücksichtigung des Datenschutzes entwickelt - sie identifiziert keine Personen, verfolgt dich nicht und sammelt keine Daten. CoMaps wurde außerdem von <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-exodus"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/de/reports/app.comaps.google/latest/), einem Datenschutzprüfer begutachtet.'
         highlight:
           icon: static/images/icons/home/shield.svg
           text: 'Schützt deine Privatsphäre'

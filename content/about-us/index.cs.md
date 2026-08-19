@@ -11,7 +11,7 @@ extra:
     text: "Aplikace CoMaps funguje díky práci komunit, které pomáhají vytvářet a spravovat otevřená data, na nichž je naše aplikace založena: Naše mapy využívají data z OpenStreetMap, která vytvářejí a spravují tisíce přispěvatelů z celého světa. Abychom mohli odkazovat na města, památky a mnoho dalších zajímavých míst a poskytovat o nich informace i v režimu offline, využíváme články a fotografie globálních komunit Wikipedie, Wikidat a Wikimedia Commons."
     title: "S využitím Open Data Commons"
   data_link:
-    text: "Learn more about all of our open data sources"
+    text: "Zjistěte více o všech našich zdrojích otevřených dat"
   history:
     items:
       - text: "Vytvořena navigační aplikace MapsWithMe (později přejmenována na Maps.me)."

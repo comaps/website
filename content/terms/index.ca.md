@@ -14,10 +14,11 @@ WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
 License for the specific language governing permissions and limitations
 under the License.
 
-Many libraries and 3rd party tools included into [CoMaps
-repository](https://codeberg.org/comaps/comaps) were developed by multiple
-people and organizations, and licensed in different ways. Please refer to
-their LICENSE, COPYING or NOTICE files for terms of use.
+Moltes biblioteques i eines de tercers incloses al [repositori de
+CoMaps](https://codeberg.org/comaps/comaps) han sigut desenvolupades per
+múltiples persones i organitzacions, i llicenciades de diferents
+maneres. Per a conéixer les condicions d'ús, consulta els fitxers LICENSE,
+COPYING o NOTICE de cada una.
 
 See
 [data/copyright.html](https://codeberg.org/comaps/comaps/src/branch/main/data/copyright.html)

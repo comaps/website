@@ -11,7 +11,7 @@ extra:
     text: "Orodje CoMaps deluje zahvaljujoč prizadevanjem skupnosti, ki pomaga ustvarjati in vzdrževati odprte podatke, na katerih temelji naše orodje: naši zemljevidi uporabljajo podatke OpenStreetMap, ki jih ustvarjajo in vzdržujejo tisoči sodelavcev z vsega sveta. Da bi lahko prikazovali povezave in zagotavljali podatke za uporabo brez internetne povezave o mestih, znamenitostih in številnih drugih točkah zanimanja, se opiramo na članke in fotografije svetovnih skupnosti Wikipedije, Wikipodatkov in Wikimedijine zbirke."
     title: "Osnovano na odprtih podatkih"
   data_link:
-    text: "Learn more about all of our open data sources"
+    text: "Izvedite več o vseh naših odprtih podatkovnih virih"
   history:
     items:
       - text: "Ustvarjeno usmerjevalno orodje MapsWithMe (kasneje preimenovano v Maps.me)."

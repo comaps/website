@@ -11,7 +11,7 @@ extra:
     text: "CoMaps es posible gracias al trabajo de las comunidades que ayudan a crear y mantener los datos abiertos que alimentan nuestra aplicación: nuestros mapas utilizan datos de OpenStreetMap, elaborados y mantenidos por miles de colaboradores de todo el mundo. Para incluir enlaces y ofrecer información sin conexión sobre ciudades, atracciones y muchos otros puntos de interés, nos basamos en los artículos y las fotos de las comunidades globales de Wikipedia, Wikidata y Wikimedia Commons."
     title: "Desarrollado por Open Data Commons"
   data_link:
-    text: "Learn more about all of our open data sources"
+    text: "Más información sobre todas nuestras fuentes de datos abiertos"
   history:
     items:
       - text: "Creada aplicación de navegación MapsWithMe (después renombrada a Maps.me)."

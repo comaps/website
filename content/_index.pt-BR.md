@@ -7,28 +7,28 @@ extra:
   map:
     description: 'Comunidade + Mapas Abertos'
   preinstalls:
-    description: 'CoMaps comes preinstalled on these operating systems as their default map app.'
-    title: 'Trusted by these projects'
+    description: 'CoMaps vem pré-instalado nestes sistemas operacionais como o app de mapas padrão.'
+    title: 'Confiado por estes projetos'
   services:
     items:
       - 
-        description: 'Planeje e navegue em sua viagem ao exterior apenas com GPS, sem necessidade de dados móveis. Busque pontos de referência enquanto você faz grandes trechos de trilha ou ciclismo.'
+        description: 'Plan and navigate your trip abroad with just GPS, no need for mobile data. Search waypoints while on remote hiking trails or bike paths. Navigate with turn-by-turn instructions by foot, bike or car, including voice announcements.'
         highlight:
           icon: static/images/icons/home/wifi-off.svg
           text: 'Não precisa de internet'
         media:
           map: /images/sections/map-s-1.webp
           user: /images/sections/map-m-1.webp
-        title: 'Busca e Roteamento Offline'
+        title: 'Offline Search and Routing'
       - 
-        description: 'O aplicativo foi projetado com foco na privacidade: não identifica pessoas, não rastreia você e não coleta nenhuma informação. O CoMaps também foi auditado por <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-exodus"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/).'
+        description: 'Use o modo Ar Livre para destacar trilhas, acampamentos e fontes de água. Ative as curvas de nível para planejar sua viagem. Avistou um pico interessante pelo caminho? Use os artigos offline da *Wikipédia* para saber mais sobre ele!'
         highlight:
-          icon: static/images/icons/home/shield.svg
-          text: 'Privacidade por padrão'
+          icon: static/images/icons/home/mappin-small.svg
+          text: 'Explore a natureza'
         media:
-          map: /images/sections/map-s-2.webp
-          user: /images/sections/map-m-2.webp
-        title: 'Sem Coleta de Dados'
+          map: /images/sections/map-s-5.webp
+          user: /images/sections/map-m-5.webp
+        title: 'Trilha Com as Informações Que Você Precisa'
       - 
         description: 'Uso eficiente da bateria, não consome tanta bateria quanto outros aplicativos de navegação.'
         highlight:
@@ -38,6 +38,33 @@ extra:
           map: /images/sections/map-s-3.webp
           user: /images/sections/map-m-3.webp
         title: 'Economiza Sua Bateria'
+      - 
+        description: 'Use a camada de transporte público para planejar suas viagens de metrô e VLT em cada vez mais cidades.'
+        highlight:
+          icon: static/images/icons/home/train-m.svg
+          text: 'Explore a cidade'
+        media:
+          map: /images/sections/map-s-6.webp
+          user: /images/sections/map-m-6.webp
+        title: 'Mova-se pela Cidade'
+      - 
+        description: 'The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information. CoMaps was also audited by <span class="text-icon"><svg viewbox="0 0 19 19"><use href="#icon-exodus"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/), a privacy auditor.'
+        highlight:
+          icon: static/images/icons/home/shield.svg
+          text: 'Privacidade por padrão'
+        media:
+          map: /images/sections/map-s-2.webp
+          user: /images/sections/map-m-2.webp
+        title: 'Sem Coleta de Dados'
+      - 
+        description: 'O CoMaps é recomendado pela *[Switching Software](https://switching.software/replace/google-maps/)*, *[European & Open Source Alternatives](https://european-alternatives.cloud/en/browse?category=maps)*, *[Digital Independence Day](https://di.day/en/digital-switch-recipes/maps)* e *[Framastart](https://framastart.org/smartphone/)* como uma alternativa ética, fácil de usar e que respeita a privacidade em relação aos mapas comerciais.'
+        highlight:
+          icon: static/images/icons/home/route-arrows-up-icon.svg
+          text: 'Mapas independentes'
+        media:
+          map: /images/sections/map-s-7.webp
+          user: /images/sections/map-m-7.webp
+        title: 'Uma Alternativa Real'
       - 
         cta:
           href: community/

@@ -11,7 +11,7 @@ extra:
     text: "CoMaps és possible gràcies a la labor de comunitats que ajuden a crear i mantindre les dades lliures que alimenten la nostra aplicació: Els nostres mapes usen dades d'OpenStreetMap, fet i mantingut per milers de contribuïdors arreu del món. Amb tal d'incloure enllaços i proveir detalls fora de línia sobre ciutats, atraccions i molts altres punts d'interés, ens recolzem en articles i fotografies de les comunitats globals de Viquipèdia, Wikidata i Wikimedia Commons."
     title: "Desenvolupat per Open Data Commons"
   data_link:
-    text: "Learn more about all of our open data sources"
+    text: "Aprén més sobre les nostres bases de dades obertes"
   history:
     items:
       - text: "Creació de l'aplicació de navegació MapsWithMe (posteriorment anomenada Maps.me)."

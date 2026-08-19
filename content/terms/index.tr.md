@@ -10,16 +10,17 @@ kullanılamaz.
 [Lisans metninin tamamını](https://www.apache.org/licenses/LICENSE-2.0)
 okuyun.
 
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
-WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
-License for the specific language governing permissions and limitations
-under the License.
+Yürürlükteki yasalarca zorunlu kılınmadıkça veya yazılı olarak
+kararlaştırılmadıkça, Lisans kapsamında dağıtılan yazılım, açık veya zımni
+her türlü GARANTİ VEYA KOŞUL OLMAKSIZIN “OLDUĞU GİBİ” TEMELİNDE
+dağıtılır. Lisans kapsamındaki izinleri ve sınırlamaları düzenleyen
+ayrıntılı hükümler için Lisans metnine bakınız.
 
-Many libraries and 3rd party tools included into [CoMaps
-repository](https://codeberg.org/comaps/comaps) were developed by multiple
-people and organizations, and licensed in different ways. Please refer to
-their LICENSE, COPYING or NOTICE files for terms of use.
+[CoMaps deposu](https://codeberg.org/comaps/comaps) içinde yer alan birçok
+kütüphane ve üçüncü taraf araç, çeşitli kişi ve kuruluşlar tarafından
+geliştirilmiş olup farklı lisans koşullarına tabidir. Kullanım koşulları
+hakkında bilgi almak için lütfen ilgili LICENSE, COPYING veya NOTICE
+dosyalarına bakınız.
 
 CoMaps uygulamasının bütün telif hakkı bildirilerinin bir listesi için
 [data/copyright.html](https://codeberg.org/comaps/comaps/src/branch/main/data/copyright.html)
