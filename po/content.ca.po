@@ -13,7 +13,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2026.7.1\n"
+"X-Generator: Weblate 2026.8.1\n"
+"PO-Revision-Date: 2026-08-10 17:26+0000\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -53,10 +54,9 @@ msgstr "Avalat per aquests projectes"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
-#, fuzzy, no-wrap
-#| msgid "Plan and navigate your trip abroad with just GPS, no need for mobile data. Search waypoints while on distant hiking trails or bike paths."
+#, no-wrap
 msgid "Plan and navigate your trip abroad with just GPS, no need for mobile data. Search waypoints while on remote hiking trails or bike paths. Navigate with turn-by-turn instructions by foot, bike or car, including voice announcements."
-msgstr "Planifica el teu viatge a l'estranger i navega només amb GPS, sense necessitat de dades mòbils. Cerca punts de referència durant una caminada remota o una ruta en bicicleta."
+msgstr "Planifica el teu viatge a l'estranger i navega només amb GPS, sense necessitat de dades mòbils. Cerca punts de referència durant una caminada remota o una ruta en bicicleta. Navega amb indicacions detallades gir a gir per a anar caminant, en bicicleta o en cotxe, amb instruccions de veu incloses."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
@@ -66,8 +66,7 @@ msgstr "No necessita internet"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
-#, fuzzy, no-wrap
-#| msgid "Offline Search and Route"
+#, no-wrap
 msgid "Offline Search and Routing"
 msgstr "Cerca i navegació sense connexió"
 
@@ -81,13 +80,13 @@ msgstr ""
 #: content/_index.md
 #, no-wrap
 msgid "Explore nature"
-msgstr ""
+msgstr "Explora la natura"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
 #, no-wrap
 msgid "Hike with the Information you Need"
-msgstr ""
+msgstr "Senderisme amb tota la informació que necessiteu"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
@@ -111,26 +110,25 @@ msgstr "Estalvia bateria"
 #: content/_index.md
 #, no-wrap
 msgid "Use the public transport layer to plan your subway and light rail journeys in a growing list of cities."
-msgstr ""
+msgstr "Empra la capa de transport públic per a organitzar els teus viatges en metro en cada volta més ciutats."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
 #, no-wrap
 msgid "Explore the city"
-msgstr ""
+msgstr "Explora la ciutat"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
 #, no-wrap
 msgid "Get around the City"
-msgstr ""
+msgstr "Desplaça't per la ciutat"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
-#, fuzzy, no-wrap
-#| msgid "The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information. CoMaps was also audited by <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-exodus\"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/)."
+#, no-wrap
 msgid "The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information. CoMaps was also audited by <span class=\"text-icon\"><svg viewbox=\"0 0 19 19\"><use href=\"#icon-exodus\"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/), a privacy auditor."
-msgstr "L'app està dissenyada amb la privacitat en ment - no identifica a gent, no et rastreja, i no recol·lecta cap informació. CoMaps també va ser auditada per <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-exodus\"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/)."
+msgstr "L'app està dissenyada amb la privacitat en ment - no identifica a gent, no et rastreja, i no recol·lecta cap informació. CoMaps també va ser auditada per <span class=\"text-icon\"><svg viewbox=\"0 0 19 19\"><use href=\"#icon-exodus\"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/), un auditor de privacitat."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
@@ -148,19 +146,19 @@ msgstr "Sense recol·lecció de dades"
 #: content/_index.md
 #, no-wrap
 msgid "CoMaps is recommended by *[Switching Software](https://switching.software/replace/google-maps/)*, *[European & Open Source Alternatives](https://european-alternatives.cloud/en/browse?category=maps)*, *[Digital Independence Day](https://di.day/en/digital-switch-recipes/maps)* ,and *[Framastart](https://framastart.org/smartphone/)* as an ethical, easy-to-use and privacy-conscious alternative to commercial maps."
-msgstr ""
+msgstr "Les plataformes *[Switching Software](https://switching.software/replace/google-maps/)*, *[European & Open Source Alternatives](https://european-alternatives.cloud/en/browse?category=maps)*, *[Digital Independence Day](https://di.day/en/digital-switch-recipes/maps)* i *[Framastart](https://framastart.org/smartphone/)* recomanen CoMaps per ser una alternativa ètica, intuïtiva i compromesa amb la privacitat en front a aplicacions comercials de mapes."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
 #, no-wrap
 msgid "Independent maps"
-msgstr ""
+msgstr "Mapes independents"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
 #, no-wrap
 msgid "A True Alternative"
-msgstr ""
+msgstr "Una vertadera alternativa"
 
 #. type: Yaml Front Matter Hash Value: extra services items cta text
 #: content/_index.md
@@ -430,7 +428,7 @@ msgstr "Desenvolupat per Open Data Commons"
 #: content/about-us/index.md
 #, no-wrap
 msgid "Learn more about all of our open data sources"
-msgstr ""
+msgstr "Aprén més sobre les nostres bases de dades obertes"
 
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md
@@ -575,7 +573,7 @@ msgstr "Si teniu alguna pregunta o suggerència, per favor contacteu-nos a l'adr
 #. type: Plain text
 #: content/privacy/index.md
 msgid "Policy effective: 2025-05-01"
-msgstr ""
+msgstr "Política vigent des del 01-05-2025"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/terms/index.md
@@ -601,7 +599,7 @@ msgstr ""
 #. type: Plain text
 #: content/terms/index.md
 msgid "Many libraries and 3rd party tools included into [CoMaps repository](https://codeberg.org/comaps/comaps) were developed by multiple people and organizations, and licensed in different ways.  Please refer to their LICENSE, COPYING or NOTICE files for terms of use."
-msgstr ""
+msgstr "Moltes biblioteques i eines de tercers incloses al [repositori de CoMaps](https://codeberg.org/comaps/comaps) han sigut desenvolupades per múltiples persones i organitzacions, i llicenciades de diferents maneres. Per a conéixer les condicions d'ús, consulta els fitxers LICENSE, COPYING o NOTICE de cada una."
 
 #. type: Plain text
 #: content/terms/index.md
@@ -690,7 +688,7 @@ msgstr "Inici"
 #: translations.yaml
 #, no-wrap
 msgid "Media Coverage"
-msgstr ""
+msgstr "Cobertura mediàtica"
 
 #. type: Hash Value: menu_news
 #: translations.yaml

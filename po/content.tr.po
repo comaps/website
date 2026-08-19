@@ -6,14 +6,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"Last-Translator: gigahertz <gigahertz@noreply.codeberg.org>\n"
+"Last-Translator: Hüseyin Fahri Uzun <ggnoredo@noreply.codeberg.org>\n"
 "Language-Team: Turkish <https://translate.codeberg.org/projects/comaps/website/tr/>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2026.6.1\n"
+"X-Generator: Weblate 2026.8.1\n"
+"PO-Revision-Date: 2026-08-11 00:39+0000\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -43,20 +44,19 @@ msgstr "Topluluk + Özgür Haritalar"
 #: content/_index.md
 #, no-wrap
 msgid "CoMaps comes preinstalled on these operating systems as their default map app."
-msgstr ""
+msgstr "CoMaps, bu işletim sistemlerinde varsayılan harita uygulaması olarak önceden yüklenmiş olarak gelir."
 
 #. type: Yaml Front Matter Hash Value: extra preinstalls title
 #: content/_index.md
 #, no-wrap
 msgid "Trusted by these projects"
-msgstr ""
+msgstr "Bu projeler tarafından güvenilen"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
-#, fuzzy, no-wrap
-#| msgid "Plan and navigate your trip abroad with just GPS, no need for mobile data. Search waypoints while on distant hiking trails or bike paths."
+#, no-wrap
 msgid "Plan and navigate your trip abroad with just GPS, no need for mobile data. Search waypoints while on remote hiking trails or bike paths. Navigate with turn-by-turn instructions by foot, bike or car, including voice announcements."
-msgstr "Mobil veriye ihtiyaç duymadan, sadece GPS ile yurt dışına seyahatinizi planlayın ve gezin. Doğadaki yürüyüş ve bisiklet patikalarındayken durma noktaları arayın."
+msgstr "Yurt dışı seyahatinizi sadece GPS ile planlayın ve yolunuzu bulun; mobil veriye gerek yok. Uzak yürüyüş parkurlarında veya bisiklet yollarında yol noktalarını arayın. Sesli uyarılar da dahil olmak üzere, yaya, bisiklet veya araba ile adım adım yol tarifleriyle yolunuzu bulun."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
@@ -66,28 +66,27 @@ msgstr "İnternet gerekmez"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
-#, fuzzy, no-wrap
-#| msgid "Offline Search and Route"
+#, no-wrap
 msgid "Offline Search and Routing"
-msgstr "Çevrimdışı arama ve rota"
+msgstr "Çevrimdışı Arama ve Rota"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
 #, no-wrap
 msgid "Use the outdoor mode to highlight hiking trails, campsites, and water sources. Enable contour lines to plan your trip. Spot an interesting peak along the way? Use the offline *Wikipedia* articles to learn more about it!"
-msgstr ""
+msgstr "Yürüyüş parkurlarını, kamp alanlarını ve su kaynaklarını görmek için açık hava modunu kullanın. Seyahatinizi planlamak için kontur çizgilerini etkinleştirin. Yol boyunca ilginç bir zirve mi gördünüz? Hakkında daha fazla bilgi edinmek için çevrimdışı *Wikipedia* makalelerini kullanın!"
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
 #, no-wrap
 msgid "Explore nature"
-msgstr ""
+msgstr "Doğayı keşfet"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
 #, no-wrap
 msgid "Hike with the Information you Need"
-msgstr ""
+msgstr "İhtiyacınız Olan Bilgilerle Yürüyüşe Çıkın"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
@@ -111,26 +110,25 @@ msgstr "Pilinizi kurtarın"
 #: content/_index.md
 #, no-wrap
 msgid "Use the public transport layer to plan your subway and light rail journeys in a growing list of cities."
-msgstr ""
+msgstr "Giderek genişleyen şehir listesinde metro ve hafif raylı sistem yolculuklarınızı planlamak için toplu taşıma katmanını kullanın."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
 #, no-wrap
 msgid "Explore the city"
-msgstr ""
+msgstr "Şehri keşfet"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
 #, no-wrap
 msgid "Get around the City"
-msgstr ""
+msgstr "Şehir içinde ulaşım"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
-#, fuzzy, no-wrap
-#| msgid "The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information. CoMaps was also audited by <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-exodus\"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/)."
+#, no-wrap
 msgid "The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information. CoMaps was also audited by <span class=\"text-icon\"><svg viewbox=\"0 0 19 19\"><use href=\"#icon-exodus\"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/), a privacy auditor."
-msgstr "Uygulama tasarlanırken mahremiyet ön plana alınmıştır. İnsanları tanımlamaz, takip etmez yada herhangi bir veri toplamaz. CoMaps ayrıca <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-exodus\"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/) tarafından denetlenmektedir."
+msgstr "Uygulama, gizlilik ön planda tutularak tasarlanmıştır — kullanıcıları tanımlamaz, sizi izlemez ve hiçbir bilgi toplamaz. CoMaps ayrıca, bir gizlilik denetçisi olan <span class=\"text-icon\"><svg viewbox=\"0 0 19 19\"><use href=\"#icon-exodus\"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/) tarafından denetlenmiştir."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
@@ -148,19 +146,19 @@ msgstr "Veri toplama yok"
 #: content/_index.md
 #, no-wrap
 msgid "CoMaps is recommended by *[Switching Software](https://switching.software/replace/google-maps/)*, *[European & Open Source Alternatives](https://european-alternatives.cloud/en/browse?category=maps)*, *[Digital Independence Day](https://di.day/en/digital-switch-recipes/maps)* ,and *[Framastart](https://framastart.org/smartphone/)* as an ethical, easy-to-use and privacy-conscious alternative to commercial maps."
-msgstr ""
+msgstr "CoMaps, *[Switching Software](https://switching.software/replace/google-maps/)*, *[Avrupa ve Açık Kaynak Alternatifleri](https://european-alternatives.cloud/en/browse?category=maps)*, *[Digital Independence Day](https://di.day/en/digital-switch-recipes/maps)* ve *[Framastart](https://framastart.org/smartphone/)* tarafından ticari haritalara etik, kullanımı kolay ve gizlilik odaklı bir alternatif olarak önerilmektedir."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
 #, no-wrap
 msgid "Independent maps"
-msgstr ""
+msgstr "Bağımsız haritalar"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
 #, no-wrap
 msgid "A True Alternative"
-msgstr ""
+msgstr "Gerçek Bir Alternatif"
 
 #. type: Yaml Front Matter Hash Value: extra services items cta text
 #: content/_index.md
@@ -188,10 +186,9 @@ msgstr "Özgür ve topluluk tarafından inşa edildi"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/_index.md
-#, fuzzy, no-wrap
-#| msgid "Hike, Bike, Drive Offline Navigate with Privacy"
+#, no-wrap
 msgid "Hike, Bike, Drive Offline – Navigate with Privacy"
-msgstr "Yürüşüş, Bisiklet, Çevrimdışı Sürüş Gizlilikle Gezinin"
+msgstr "Yürüyüş, Bisiklet, Araçla Seyahat – Çevrimdışı Gizlilikle Yön Bulun"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/news/_index.md
@@ -219,10 +216,9 @@ msgstr "Bağış yapın"
 
 #. type: Yaml Front Matter Hash Value: extra features description
 #: content/community/index.md
-#, fuzzy, no-wrap
-#| msgid "Report bugs, discuss idea, and propose features"
+#, no-wrap
 msgid "Report bugs, discuss ideas, and propose features"
-msgstr "Hata bildir, fikri tartış ve özellik öner"
+msgstr "Hataları bildirin, fikirlerinizi paylaşın ve yeni özellikler önerin"
 
 #. type: Yaml Front Matter Hash Value: extra features title
 #: content/community/index.md
@@ -328,10 +324,9 @@ msgstr "Open Collective ile bağış yap"
 
 #. type: Yaml Front Matter Hash Value: extra funding items text
 #: content/donate/index.md
-#, fuzzy, no-wrap
-#| msgid "We have to keep up fast servers, so anyone in the world can download free map data updates without delays. These maps data transfers make up large, and growing, amounts of data each month."
+#, no-wrap
 msgid "We have to keep up fast servers, to update the map files and for you to download them without delays. The maps data transfers make up large, and growing, amounts of data each month."
-msgstr "Dünyadaki herkesin ücretsiz harita verisi güncellemelerini gecikme olmadan indirebilmesi için hızlı sunuculara ihtiyacımız var. Aylık harita veri aktarım boyutu oldukça büyük ve bu rakam giderek artıyor."
+msgstr "Harita dosyalarını güncellemek ve sizin bunları gecikme yaşamadan indirebilmeniz için hızlı sunucularımızı çalışır durumda tutmamız gerekiyor. Harita verilerinin aktarımı, her ay büyük ve giderek artan miktarlarda veri oluşturuyor."
 
 #. type: Yaml Front Matter Hash Value: extra funding items title
 #: content/donate/index.md
@@ -371,17 +366,15 @@ msgstr "Finansman nasıl kullanılacak?"
 
 #. type: Yaml Front Matter Hash Value: extra info text
 #: content/donate/index.md
-#, fuzzy, no-wrap
-#| msgid "We rely on your donations to keep CoMaps open and free"
+#, no-wrap
 msgid "We rely on your donations to keep CoMaps free to use"
-msgstr "CoMaps'in açık ve ücretsiz kalmasını sağlamak için bağışlarınıza güveniyoruz"
+msgstr "CoMaps’ın ücretsiz olarak kullanılmaya devam edebilmesi için bağışlarınıza güveniyoruz"
 
 #. type: Yaml Front Matter Hash Value: extra info text
 #: content/donate/index.md
-#, fuzzy, no-wrap
-#| msgid "We are a few enthusiasts contributing in our free time. We love what we do, and we love our users"
+#, no-wrap
 msgid "We are a community contributing in our free time. We love what we do, and we love our users"
-msgstr "Boş zamanlarımızda katkıda bulunan birkaç meraklıdan oluşuyoruz. Yaptığımız işi, ve kullanıcılarımızı seviyoruz"
+msgstr "Boş zamanlarımızda katkıda bulunan bir topluluğuz. Yaptığımız işi seviyoruz ve kullanıcılarımızı seviyoruz"
 
 #. type: Yaml Front Matter Hash Value: extra info text
 #: content/donate/index.md
@@ -409,10 +402,9 @@ msgstr "Özgür, ücretsiz, açık kaynaklı ve mahremiyetli navigasyon -<br/>To
 
 #. type: Yaml Front Matter Hash Value: extra about text
 #: content/about-us/index.md
-#, fuzzy, no-wrap
-#| msgid "CoMaps is a community-focused privacy navigation app for travelers - drivers, hikers, and cyclists. It uses the crowd-sourced OpenStreetMap data with contributors from all over the globe. It offers navigation with privacy - no identifying people and no data collection. CoMaps features can operate without an active internet connection for offline navigation at urban or distant locations, where cellular service is not available. CoMaps is an open-source project, and prioritizes community development."
+#, no-wrap
 msgid "CoMaps is a community-focused privacy navigation app for travelers - drivers, hikers, and cyclists. It offers navigation with privacy - no identifying people and no data collection. CoMaps features can operate without an active internet connection for offline navigation at urban or distant locations, where cellular service is not available. CoMaps is an open-source project, and prioritizes community development."
-msgstr "CoMaps, seyahat edenler - sürücüler, dağcılar ve bisikletliler için topluluk odaklı bir gizlilik navigasyon uygulamasıdır. Tüm dünyadan katkıda bulunanların yer aldığı, topluluk tarafından oluşturulan OpenStreetMap verilerini kullanır. Gizlilik ile navigasyon sunar - kimlik bilgisi toplamaz ve veri toplamaz. CoMaps, hücresel hizmetin bulunmadığı kentsel veya uzak bölgelerde çevrimdışı navigasyon için aktif bir internet bağlantısı olmadan çalışabilir. CoMaps, açık kaynaklı bir projedir ve topluluk gelişimini önceliklendirir."
+msgstr "CoMaps, gezginler – sürücüler, yürüyüşçüler ve bisikletçiler – için tasarlanmış, topluluk odaklı bir gizlilik odaklı navigasyon uygulamasıdır. Kişilerin kimlik bilgilerini belirlemeden ve veri toplama yapmadan gizlilik odaklı navigasyon hizmeti sunar. CoMaps’ın özellikleri, mobil hizmetin bulunmadığı kentsel veya uzak bölgelerde çevrimdışı navigasyon için aktif bir internet bağlantısı olmadan da çalışabilir. CoMaps, açık kaynaklı bir projedir ve topluluk tarafından geliştirilmeye öncelik verir."
 
 #. type: Yaml Front Matter Hash Value: extra about title
 #: content/about-us/index.md
@@ -424,19 +416,19 @@ msgstr "Özgür, ücretsiz, açık kaynaklı ve mahremiyetli navigasyon. Toplulu
 #: content/about-us/index.md
 #, no-wrap
 msgid "CoMaps is made possible thanks to the labor of communities who help create and maintain the open data that powers our app: Our maps use OpenStreetMap data, made and maintained by thousands of contributors from all over the world. In order to link to, and provide offline details about cities, attractions and many other points-of-interest, we rely on the articles and photos of the global Wikipedia, Wikidata, and Wikimedia Commons communities."
-msgstr ""
+msgstr "CoMaps, uygulamamıza güç veren açık verilerin oluşturulmasına ve güncellenmesine katkıda bulunan toplulukların emekleri sayesinde hayata geçirilmiştir: Haritalarımız, dünyanın dört bir yanından binlerce katkıcı tarafından oluşturulan ve güncellenen OpenStreetMap verilerini kullanmaktadır. Şehirler, turistik yerler ve diğer birçok ilgi çekici nokta hakkında bağlantılar sağlamak ve çevrimdışı bilgiler sunmak amacıyla, küresel Wikipedia, Wikidata ve Wikimedia Commons topluluklarının makalelerine ve fotoğraflarına güveniyoruz."
 
 #. type: Yaml Front Matter Hash Value: extra data title
 #: content/about-us/index.md
 #, no-wrap
 msgid "Powered by open data commons"
-msgstr ""
+msgstr "Open Data Commons tarafından desteklenmektedir"
 
 #. type: Yaml Front Matter Hash Value: extra data_link text
 #: content/about-us/index.md
 #, no-wrap
 msgid "Learn more about all of our open data sources"
-msgstr ""
+msgstr "Tüm açık veri kaynaklarımız hakkında daha fazla bilgi edinin"
 
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md
@@ -536,10 +528,9 @@ msgstr "Android uygulamasını doğrulama"
 
 #. type: Yaml Front Matter Hash Value: extra releases title
 #: content/download/index.md
-#, fuzzy, no-wrap
-#| msgid "Releases"
+#, no-wrap
 msgid "Latest Releases"
-msgstr "Sürümler"
+msgstr "Son Sürümler"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/download/index.md
@@ -560,10 +551,9 @@ msgstr "API dökümanları [comaps.at/api](https://comaps.at/api)."
 
 #. type: Hash Value: menu_privacy
 #: content/privacy/index.md translations.yaml
-#, fuzzy, no-wrap
-#| msgid "Privacy-Centric"
+#, no-wrap
 msgid "Privacy"
-msgstr "Gizlilik-Odaklı"
+msgstr "Gizlilik"
 
 #. type: Plain text
 #: content/privacy/index.md
@@ -604,12 +594,12 @@ msgstr "[Lisans metninin tamamını](https://www.apache.org/licenses/LICENSE-2.0
 #. type: Plain text
 #: content/terms/index.md
 msgid "Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License."
-msgstr ""
+msgstr "Yürürlükteki yasalarca zorunlu kılınmadıkça veya yazılı olarak kararlaştırılmadıkça, Lisans kapsamında dağıtılan yazılım, açık veya zımni her türlü GARANTİ VEYA KOŞUL OLMAKSIZIN “OLDUĞU GİBİ” TEMELİNDE dağıtılır. Lisans kapsamındaki izinleri ve sınırlamaları düzenleyen ayrıntılı hükümler için Lisans metnine bakınız."
 
 #. type: Plain text
 #: content/terms/index.md
 msgid "Many libraries and 3rd party tools included into [CoMaps repository](https://codeberg.org/comaps/comaps) were developed by multiple people and organizations, and licensed in different ways.  Please refer to their LICENSE, COPYING or NOTICE files for terms of use."
-msgstr ""
+msgstr "[CoMaps deposu](https://codeberg.org/comaps/comaps) içinde yer alan birçok kütüphane ve üçüncü taraf araç, çeşitli kişi ve kuruluşlar tarafından geliştirilmiş olup farklı lisans koşullarına tabidir. Kullanım koşulları hakkında bilgi almak için lütfen ilgili LICENSE, COPYING veya NOTICE dosyalarına bakınız."
 
 #. type: Plain text
 #: content/terms/index.md
@@ -698,7 +688,7 @@ msgstr "Ev"
 #: translations.yaml
 #, no-wrap
 msgid "Media Coverage"
-msgstr ""
+msgstr "Medyada Yer Alan Haberler"
 
 #. type: Hash Value: menu_news
 #: translations.yaml

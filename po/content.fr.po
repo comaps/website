@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"Last-Translator: Mickael81 <mickael81@noreply.codeberg.org>\n"
+"Last-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>\n"
 "Language-Team: French <https://translate.codeberg.org/projects/comaps/website/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 2026.8.1\n"
-"PO-Revision-Date: 2026-08-10 08:26+0000\n"
+"PO-Revision-Date: 2026-08-10 20:26+0000\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -26,7 +26,7 @@ msgstr "Enrichissez votre voyage grâce à la communauté"
 #: content/_index.md
 #, no-wrap
 msgid "Discover your journey, navigate the world with privacy and community at the forefront."
-msgstr "Découvrez votre voyage, explorez le monde avec la vie privée et la communauté en tête."
+msgstr "Partez en voyage, naviguez dans le monde en mettant l'accent sur la confidentialité et la communauté."
 
 #. type: Yaml Front Matter Hash Value: extra freedom title
 #: content/_index.md
@@ -68,7 +68,7 @@ msgstr "Aucune connexion Internet requise"
 #: content/_index.md
 #, no-wrap
 msgid "Offline Search and Routing"
-msgstr "Recherche et calcul d'itinéraire hors ligne"
+msgstr "Recherche et itinéraire hors-ligne"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
@@ -128,7 +128,7 @@ msgstr "Se déplacer en ville"
 #: content/_index.md
 #, no-wrap
 msgid "The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information. CoMaps was also audited by <span class=\"text-icon\"><svg viewbox=\"0 0 19 19\"><use href=\"#icon-exodus\"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/), a privacy auditor."
-msgstr "Cette application a été conçue dans le respect de la vie privée : elle n'identifie pas les utilisateurs, ne vous suit pas et ne collecte aucune information. CoMaps a également fait l'objet d'un audit par <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-exodus\"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/)."
+msgstr "Cette application a été conçue dans le respect de votre vie privée : elle n'identifie pas les utilisateurs, ne vous piste pas et ne collecte aucune information. CoMaps a également été audité par <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-exodus\"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/)."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
@@ -428,7 +428,7 @@ msgstr "Basé sur des communs et des données ouvertes"
 #: content/about-us/index.md
 #, no-wrap
 msgid "Learn more about all of our open data sources"
-msgstr ""
+msgstr "Découvrez toutes nos sources de données ouvertes"
 
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md

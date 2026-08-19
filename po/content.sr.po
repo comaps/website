@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"PO-Revision-Date: 2026-08-10 08:26+0000\n"
+"PO-Revision-Date: 2026-08-11 11:26+0000\n"
 "Last-Translator: dobridabar <dobridabar@noreply.codeberg.org>\n"
 "Language-Team: Serbian <https://translate.codeberg.org/projects/comaps/website/sr/>\n"
 "Language: sr\n"
@@ -428,7 +428,7 @@ msgstr "Покрећу га заједнице отворених податак
 #: content/about-us/index.md
 #, no-wrap
 msgid "Learn more about all of our open data sources"
-msgstr ""
+msgstr "Сазнајте више о свим нашим изворима отворених података"
 
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md

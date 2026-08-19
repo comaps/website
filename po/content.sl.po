@@ -13,7 +13,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3;\n"
-"X-Generator: Weblate 5.16.2\n"
+"X-Generator: Weblate 2026.8.1\n"
+"PO-Revision-Date: 2026-08-12 17:26+0000\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -37,26 +38,25 @@ msgstr "Svoboda je tu"
 #: content/_index.md
 #, no-wrap
 msgid "Community + Open Maps"
-msgstr "Skupnost + Prosti zemljevidi"
+msgstr "Skupnost + Odprti zemljevidi"
 
 #. type: Yaml Front Matter Hash Value: extra preinstalls description
 #: content/_index.md
 #, no-wrap
 msgid "CoMaps comes preinstalled on these operating systems as their default map app."
-msgstr ""
+msgstr "CoMaps je na teh operacijskih sistemih prednameščen kot privzeto orodje za zemljevide."
 
 #. type: Yaml Front Matter Hash Value: extra preinstalls title
 #: content/_index.md
 #, no-wrap
 msgid "Trusted by these projects"
-msgstr ""
+msgstr "Ti projekti nam zaupajo"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
-#, fuzzy, no-wrap
-#| msgid "Plan and navigate your trip abroad with just GPS, no need for mobile data. Search waypoints while on distant hiking trails or bike paths."
+#, no-wrap
 msgid "Plan and navigate your trip abroad with just GPS, no need for mobile data. Search waypoints while on remote hiking trails or bike paths. Navigate with turn-by-turn instructions by foot, bike or car, including voice announcements."
-msgstr "Načrtujte in se usmerjajte na vašem potovanju v tujini samo z GPS-om, brez potrebe po mobilnih podatkih. Poiščite cilje potovanja na dolgih pohodih ali kolesarjenjih."
+msgstr "Načrtujte in se usmerjajte na svojem potovanju v tujini zgolj z GPS-om, brez potrebe po mobilnih podatkih. Iščite vmesne točke na odročnih pohodniških poteh ali kolesarskih stezah. Uporabljajte usmerjanje s podrobnimi navodili zavoj za zavojem, bodisi peš, s kolesom ali z avtomobilom, vključno z glasovnimi napotki."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
@@ -66,8 +66,7 @@ msgstr "Spletna povezava ni potrebna"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
-#, fuzzy, no-wrap
-#| msgid "Offline Search and Route"
+#, no-wrap
 msgid "Offline Search and Routing"
 msgstr "Iskanje in načrtovanje poti brez spletne povezave"
 
@@ -75,19 +74,19 @@ msgstr "Iskanje in načrtovanje poti brez spletne povezave"
 #: content/_index.md
 #, no-wrap
 msgid "Use the outdoor mode to highlight hiking trails, campsites, and water sources. Enable contour lines to plan your trip. Spot an interesting peak along the way? Use the offline *Wikipedia* articles to learn more about it!"
-msgstr ""
+msgstr "Uporabite način „na prostem“, da si ogledate pohodniške poti, taborne prostore in vodne izvire. Za načrtovanje svojega potovanja vklopite višinske plastnice. Ste na poti opazili zanimiv vrh? Uporabite članke iz *Wikipedije* v načinu brez povezave, da izveste več o njem!"
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
 #, no-wrap
 msgid "Explore nature"
-msgstr ""
+msgstr "Raziščite naravo"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
 #, no-wrap
 msgid "Hike with the Information you Need"
-msgstr ""
+msgstr "Odpravite se na pohod z vsemi potrebnimi podatki"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
@@ -111,26 +110,25 @@ msgstr "Prihrani vašo baterijo"
 #: content/_index.md
 #, no-wrap
 msgid "Use the public transport layer to plan your subway and light rail journeys in a growing list of cities."
-msgstr ""
+msgstr "Načrtujte potovanja s podzemno železnico in lahko železnico v vse večjem številu mest z uporabo plasti javnega prevoza."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
 #, no-wrap
 msgid "Explore the city"
-msgstr ""
+msgstr "Raziščite mesto"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
 #, no-wrap
 msgid "Get around the City"
-msgstr ""
+msgstr "Potujte po mestu"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
-#, fuzzy, no-wrap
-#| msgid "The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information. CoMaps was also audited by <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-exodus\"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/)."
+#, no-wrap
 msgid "The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information. CoMaps was also audited by <span class=\"text-icon\"><svg viewbox=\"0 0 19 19\"><use href=\"#icon-exodus\"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/), a privacy auditor."
-msgstr "To orodje je zasnovano z mislijo na zasebnost – ne prepoznava ljudi, ne sledi vam in ne zbira nobenih vaših podatkov. CoMaps je pregledal tudi <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-exodus\"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/)."
+msgstr "To orodje je zasnovano z mislijo na zasebnost – ne prepoznava ljudi, ne sledi vam in ne zbira nobenih vaših podatkov. CoMaps je pregledal tudi <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-exodus\"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/), ocenjevalec zasebnosti."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
@@ -148,19 +146,19 @@ msgstr "Brez zbiranja podatkov"
 #: content/_index.md
 #, no-wrap
 msgid "CoMaps is recommended by *[Switching Software](https://switching.software/replace/google-maps/)*, *[European & Open Source Alternatives](https://european-alternatives.cloud/en/browse?category=maps)*, *[Digital Independence Day](https://di.day/en/digital-switch-recipes/maps)* ,and *[Framastart](https://framastart.org/smartphone/)* as an ethical, easy-to-use and privacy-conscious alternative to commercial maps."
-msgstr ""
+msgstr "CoMaps priporočajo *[Switching Software](https://switching.software/replace/google-maps/)*, *[European & Open Source Alternatives](https://european-alternatives.cloud/en/browse?category=maps)*, *[Digital Independence Day](https://di.day/en/digital-switch-recipes/maps)* ter *[Framastart](https://framastart.org/smartphone/)* kot etična, enostavna za uporabo in zasebnostno ozaveščena zamenjava za tržne zemljevide."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
 #, no-wrap
 msgid "Independent maps"
-msgstr ""
+msgstr "Neodvisni zemljevidi"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
 #, no-wrap
 msgid "A True Alternative"
-msgstr ""
+msgstr "Resnična alternativa"
 
 #. type: Yaml Front Matter Hash Value: extra services items cta text
 #: content/_index.md
@@ -178,7 +176,7 @@ msgstr "Ljudje kot ste vi, pomagajo razvijati to orodje z dodajanjem krajev na <
 #: content/_index.md
 #, no-wrap
 msgid "Free for everyone, Made with love"
-msgstr "Brezplačno za vse, ustvarjeno s pozornostjo"
+msgstr "Prosto za uporabo za vse, ustvarjeno s pozornostjo"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
@@ -430,7 +428,7 @@ msgstr "Osnovano na odprtih podatkih"
 #: content/about-us/index.md
 #, no-wrap
 msgid "Learn more about all of our open data sources"
-msgstr ""
+msgstr "Izvedite več o vseh naših odprtih podatkovnih virih"
 
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md

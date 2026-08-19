@@ -13,7 +13,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2026.6.1\n"
+"X-Generator: Weblate 2026.8.1\n"
+"PO-Revision-Date: 2026-08-18 20:27+0000\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -53,10 +54,9 @@ msgstr "Luotettu projektien toimesta"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
-#, fuzzy, no-wrap
-#| msgid "Plan and navigate your trip abroad with just GPS, no need for mobile data. Search waypoints while on distant hiking trails or bike paths."
+#, no-wrap
 msgid "Plan and navigate your trip abroad with just GPS, no need for mobile data. Search waypoints while on remote hiking trails or bike paths. Navigate with turn-by-turn instructions by foot, bike or car, including voice announcements."
-msgstr "Suunnittele ja navigoi matkasi ulkomaille pelkällä GPS:llä ilman mobiilidatan käyttöä. Etsi reittipisteitä kaukaisilla vaelluksilla tai pyöräteillä."
+msgstr "Suunnittele ja navigoi matkasi ulkomaille pelkällä GPS:llä ilman mobiilidatan käyttöä. Etsi reittipisteitä kaukaisilla vaelluksilla tai pyöräteillä. Navigoi kääntymisohjeiden avulla kävellen, pyörällä tai autolla, mukaan lukien ääni-ilmoitukset."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
@@ -66,8 +66,7 @@ msgstr "Ilman verkkoyhteyttä"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
-#, fuzzy, no-wrap
-#| msgid "Offline Search and Route"
+#, no-wrap
 msgid "Offline Search and Routing"
 msgstr "Haku ja reititys ilman verkkoyhteyttä"
 
@@ -81,7 +80,7 @@ msgstr ""
 #: content/_index.md
 #, no-wrap
 msgid "Explore nature"
-msgstr ""
+msgstr "Tutki luontoa"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
@@ -117,13 +116,13 @@ msgstr ""
 #: content/_index.md
 #, no-wrap
 msgid "Explore the city"
-msgstr ""
+msgstr "Tutki kaupunkia"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
 #, no-wrap
 msgid "Get around the City"
-msgstr ""
+msgstr "Liiku kaupungilla"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
@@ -154,13 +153,13 @@ msgstr ""
 #: content/_index.md
 #, no-wrap
 msgid "Independent maps"
-msgstr ""
+msgstr "Itsenäiset kartat"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
 #, no-wrap
 msgid "A True Alternative"
-msgstr ""
+msgstr "Todellinen vaihtoehto"
 
 #. type: Yaml Front Matter Hash Value: extra services items cta text
 #: content/_index.md
@@ -430,7 +429,7 @@ msgstr ""
 #: content/about-us/index.md
 #, no-wrap
 msgid "Learn more about all of our open data sources"
-msgstr ""
+msgstr "Lue lisää kaikista avoimista datalähteistämme"
 
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md
