@@ -705,6 +705,12 @@ msgstr "Berriak"
 msgid "Source Code"
 msgstr "Iturburu kodea"
 
+#. type: Hash Value: menu_status
+#: translations.yaml
+#, no-wrap
+msgid "Service Status"
+msgstr ""
+
 #. type: Hash Value: more_title
 #: translations.yaml
 #, no-wrap

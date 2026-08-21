@@ -704,6 +704,12 @@ msgstr "Nyheder"
 msgid "Source Code"
 msgstr "Kildekode"
 
+#. type: Hash Value: menu_status
+#: translations.yaml
+#, no-wrap
+msgid "Service Status"
+msgstr ""
+
 #. type: Hash Value: more_title
 #: translations.yaml
 #, no-wrap

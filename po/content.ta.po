@@ -705,6 +705,12 @@ msgstr "செய்தி"
 msgid "Source Code"
 msgstr "மூலக் குறியீடு"
 
+#. type: Hash Value: menu_status
+#: translations.yaml
+#, no-wrap
+msgid "Service Status"
+msgstr ""
+
 #. type: Hash Value: more_title
 #: translations.yaml
 #, no-wrap

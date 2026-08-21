@@ -704,6 +704,12 @@ msgstr "Berita"
 msgid "Source Code"
 msgstr "Kode Sumber"
 
+#. type: Hash Value: menu_status
+#: translations.yaml
+#, no-wrap
+msgid "Service Status"
+msgstr ""
+
 #. type: Hash Value: more_title
 #: translations.yaml
 #, no-wrap

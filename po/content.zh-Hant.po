@@ -705,6 +705,12 @@ msgstr "新聞"
 msgid "Source Code"
 msgstr "原始碼"
 
+#. type: Hash Value: menu_status
+#: translations.yaml
+#, no-wrap
+msgid "Service Status"
+msgstr ""
+
 #. type: Hash Value: more_title
 #: translations.yaml
 #, no-wrap
