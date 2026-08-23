@@ -1,5 +1,9 @@
 {% extends 'base.html' %}
 
+{% macro author_with_username(name) %}
+{% if page.extra.authors_codeberg and page.extra.authors_codeberg is containing(name) %}<a href="https://codeberg.org/{{ page.extra.authors_codeberg[name] }}">{{ name }}</a>{% else %}{{ name }}{% endif %}
+{% endmacro author_with_username %}
+
 {% block content %}
 <br>
 <br>
@@ -16,7 +20,15 @@
             <span class="p-sm post-min__date-title">{{ resource.date | date(format='%B %e, %Y') }}</span>
           </div>
           <div class="post-min__date">
-            <span class="p-sm post-min__date-title">{% if page.extra.author %}{% if page.extra.author_username %}<a href="https://codeberg.org/{{ page.extra.author_username  }}">{% endif %}{{ page.extra.author  }}{% if page.extra.author_username %}</a>{% endif %}{% else %}The CoMaps Team{% endif %}</span>
+            {% if page.authors %}
+              {% set authors = [] %}
+              {% for author in page.authors %}
+                {% set_global authors = authors | concat(with=self::author_with_username(name=author) | trim) %}
+              {% endfor %}
+              <span class="p-sm post-min__date-title">{{ authors | join(sep=", ") | safe }}</span>
+            {% else %}{# old handling for authors defined in page.extra only #}
+              <span class="p-sm post-min__date-title">{% if page.extra.author %}{% if page.extra.author_username %}<a href="https://codeberg.org/{{ page.extra.author_username  }}">{% endif %}{{ page.extra.author  }}{% if page.extra.author_username %}</a>{% endif %}{% else %}The CoMaps Team{% endif %}</span> 
+            {% endif %}
           </div>
           <div class="post-min__date">
             <span class="p-sm post-min__date-title">
