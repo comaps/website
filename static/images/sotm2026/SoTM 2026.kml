@@ -1,0 +1,935 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+<Document>
+  <Style id="placemark-red">
+    <IconStyle>
+      <Icon>
+        <href>https://comaps.at/placemarks/placemark-red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-blue">
+    <IconStyle>
+      <Icon>
+        <href>https://comaps.at/placemarks/placemark-blue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-purple">
+    <IconStyle>
+      <Icon>
+        <href>https://comaps.at/placemarks/placemark-purple.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-yellow">
+    <IconStyle>
+      <Icon>
+        <href>https://comaps.at/placemarks/placemark-yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-pink">
+    <IconStyle>
+      <Icon>
+        <href>https://comaps.at/placemarks/placemark-pink.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-brown">
+    <IconStyle>
+      <Icon>
+        <href>https://comaps.at/placemarks/placemark-brown.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-green">
+    <IconStyle>
+      <Icon>
+        <href>https://comaps.at/placemarks/placemark-green.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-orange">
+    <IconStyle>
+      <Icon>
+        <href>https://comaps.at/placemarks/placemark-orange.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-deeppurple">
+    <IconStyle>
+      <Icon>
+        <href>https://comaps.at/placemarks/placemark-deeppurple.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-lightblue">
+    <IconStyle>
+      <Icon>
+        <href>https://comaps.at/placemarks/placemark-lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-cyan">
+    <IconStyle>
+      <Icon>
+        <href>https://comaps.at/placemarks/placemark-cyan.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-teal">
+    <IconStyle>
+      <Icon>
+        <href>https://comaps.at/placemarks/placemark-teal.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-lime">
+    <IconStyle>
+      <Icon>
+        <href>https://comaps.at/placemarks/placemark-lime.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-deeporange">
+    <IconStyle>
+      <Icon>
+        <href>https://comaps.at/placemarks/placemark-deeporange.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-gray">
+    <IconStyle>
+      <Icon>
+        <href>https://comaps.at/placemarks/placemark-gray.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-bluegray">
+    <IconStyle>
+      <Icon>
+        <href>https://comaps.at/placemarks/placemark-bluegray.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <name>SoTM 2026</name>
+  <visibility>1</visibility>
+  <ExtendedData xmlns:mwm="https://comaps.app">
+    <mwm:name>
+      <mwm:lang code="default">SoTM 2026</mwm:lang>
+    </mwm:name>
+    <mwm:annotation>
+    </mwm:annotation>
+    <mwm:description>
+    </mwm:description>
+    <mwm:lastModified>2026-08-25T22:31:36Z</mwm:lastModified>
+    <mwm:accessRules>Local</mwm:accessRules>
+  </ExtendedData>
+  <Placemark>
+    <name>Venue Parking (Wheelchair)</name>
+    <description>Private car park for wheelchair : ask for access at the interphone
+
+Other car parks are available on the streets, no difficulties to find a place nearby at this moment.</description>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>2.586401,48.840875,0</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://comaps.app">
+      <mwm:name>
+        <mwm:lang code="default">Venue Parking (Wheelchair)</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+        <mwm:lang code="default">Private car park for wheelchair : ask for access at the interphone
+
+Other car parks are available on the streets, no difficulties to find a place nearby at this moment.</mwm:lang>
+      </mwm:description>
+      <mwm:featureTypes>
+        <mwm:value>amenity-parking</mwm:value>
+      </mwm:featureTypes>
+      <mwm:customName>
+        <mwm:lang code="default">Venue Parking (Wheelchair)</mwm:lang>
+      </mwm:customName>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Cafeteria + Open Area</name>
+    <styleUrl>#placemark-cyan</styleUrl>
+    <Point><coordinates>2.587673,48.841349,0</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://comaps.app">
+      <mwm:name>
+        <mwm:lang code="default">Cafeteria + Open Area</mwm:lang>
+      </mwm:name>
+      <mwm:customName>
+        <mwm:lang code="default">Cafeteria + Open Area</mwm:lang>
+      </mwm:customName>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Chill Outdoor Area</name>
+    <styleUrl>#placemark-cyan</styleUrl>
+    <Point><coordinates>2.587618,48.84171,0</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://comaps.app">
+      <mwm:name>
+        <mwm:lang code="default">Chill Outdoor Area</mwm:lang>
+      </mwm:name>
+      <mwm:customName>
+        <mwm:lang code="default">Chill Outdoor Area</mwm:lang>
+      </mwm:customName>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Entrance</name>
+    <styleUrl>#placemark-cyan</styleUrl>
+    <Point><coordinates>2.587838,48.840726,0</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://comaps.app">
+      <mwm:name>
+        <mwm:lang code="default">Entrance</mwm:lang>
+      </mwm:name>
+      <mwm:customName>
+        <mwm:lang code="default">Entrance</mwm:lang>
+      </mwm:customName>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Guadeloupe (Caquot/Boulay)</name>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>2.590054,48.840991,0</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://comaps.app">
+      <mwm:name>
+        <mwm:lang code="default">Guadeloupe (Caquot/Boulay)</mwm:lang>
+      </mwm:name>
+      <mwm:customName>
+        <mwm:lang code="default">Guadeloupe (Caquot/Boulay)</mwm:lang>
+      </mwm:customName>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>La Réunion (Bienvenüe)</name>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>2.587189,48.842587,0</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://comaps.app">
+      <mwm:name>
+        <mwm:lang code="default">La Réunion (Bienvenüe)</mwm:lang>
+      </mwm:name>
+      <mwm:customName>
+        <mwm:lang code="default">La Réunion (Bienvenüe)</mwm:lang>
+      </mwm:customName>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Security</name>
+    <description>Security desk, Defibrillator</description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>2.58779,48.841392,0</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://comaps.app">
+      <mwm:name>
+        <mwm:lang code="default">Security</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+        <mwm:lang code="default">Security desk, Defibrillator</mwm:lang>
+      </mwm:description>
+      <mwm:customName>
+        <mwm:lang code="default">Security</mwm:lang>
+      </mwm:customName>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Tahiti (Blondel)</name>
+    <description>P012, Level 0</description>
+    <styleUrl>#placemark-lime</styleUrl>
+    <Point><coordinates>2.588713,48.84115,0</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://comaps.app">
+      <mwm:name>
+        <mwm:lang code="default">Tahiti (Blondel)</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+        <mwm:lang code="default">P012, Level 0</mwm:lang>
+      </mwm:description>
+      <mwm:customName>
+        <mwm:lang code="default">Tahiti (Blondel)</mwm:lang>
+      </mwm:customName>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Welcome Desk</name>
+    <description>Registration, Information, Lost and Found</description>
+    <styleUrl>#placemark-cyan</styleUrl>
+    <Point><coordinates>2.587736,48.840786,0</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://comaps.app">
+      <mwm:name>
+        <mwm:lang code="default">Welcome Desk</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+        <mwm:lang code="default">Registration, Information, Lost and Found</mwm:lang>
+      </mwm:description>
+      <mwm:customName>
+        <mwm:lang code="default">Welcome Desk</mwm:lang>
+      </mwm:customName>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Gare du Nord et Gare de l'Est</name>
+    <description>RER, train and TGV station</description>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>2.359657,48.879336,0</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://comaps.app">
+      <mwm:name>
+        <mwm:lang code="default">Gare du Nord et Gare de l'Est</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+        <mwm:lang code="default">RER, train and TGV station</mwm:lang>
+      </mwm:description>
+      <mwm:featureTypes>
+        <mwm:value>railway-station</mwm:value>
+      </mwm:featureTypes>
+      <mwm:customName>
+        <mwm:lang code="default">Gare du Nord et Gare de l'Est</mwm:lang>
+      </mwm:customName>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Corse (Picard)</name>
+    <description>Level -1</description>
+    <TimeStamp><when>2026-08-25T20:35:22Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>2.5873809,48.841215,0</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://comaps.app">
+      <mwm:name>
+        <mwm:lang code="default">Amphithéatre Picard</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+        <mwm:lang code="default">Level -1</mwm:lang>
+      </mwm:description>
+      <mwm:customName>
+        <mwm:lang code="default">Corse (Picard)</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>18</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Martinique (Cauchy)</name>
+    <description>Level -1</description>
+    <TimeStamp><when>2026-08-25T20:36:26Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>2.587692,48.84126,0</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://comaps.app">
+      <mwm:name>
+        <mwm:lang code="default">Amphithéatre Cauchy</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+        <mwm:lang code="default">Level -1</mwm:lang>
+      </mwm:description>
+      <mwm:customName>
+        <mwm:lang code="default">Martinique (Cauchy)</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>18</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Covered and Secured Bike Racks</name>
+    <TimeStamp><when>2026-08-25T20:37:27Z</when></TimeStamp>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>2.5879254,48.841458,0</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://comaps.app">
+      <mwm:name>
+        <mwm:lang code="default">Covered and Secured Bike Racks</mwm:lang>
+      </mwm:name>
+      <mwm:featureTypes>
+        <mwm:value>amenity-bicycle_parking-covered</mwm:value>
+        <mwm:value>building</mwm:value>
+        <mwm:value>fee-no</mwm:value>
+      </mwm:featureTypes>
+      <mwm:customName>
+        <mwm:lang code="default">Covered and Secured Bike Racks</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>18</mwm:scale>
+      <mwm:icon>BicycleParkingCovered</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Quiet Room (Oléron)</name>
+    <description>V002, Level 0</description>
+    <TimeStamp><when>2026-08-25T20:55:10Z</when></TimeStamp>
+    <styleUrl>#placemark-lime</styleUrl>
+    <Point><coordinates>2.5879847,48.841361,0</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://comaps.app">
+      <mwm:name>
+        <mwm:lang code="default">Carnot</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+        <mwm:lang code="default">V002, Level 0</mwm:lang>
+      </mwm:description>
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+        <mwm:value>building-has_parts</mwm:value>
+      </mwm:featureTypes>
+      <mwm:customName>
+        <mwm:lang code="default">Quiet Room (Oléron)</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>19</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ouessant (Méchain)</name>
+    <description>B005, Level 0</description>
+    <TimeStamp><when>2026-08-25T20:58:22Z</when></TimeStamp>
+    <styleUrl>#placemark-lime</styleUrl>
+    <Point><coordinates>2.5881896,48.840854,0</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://comaps.app">
+      <mwm:name>
+        <mwm:lang code="default">Pierre Méchain</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+        <mwm:lang code="default">B005, Level 0</mwm:lang>
+      </mwm:description>
+      <mwm:customName>
+        <mwm:lang code="default">Ouessant (Méchain)</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>19</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Porquerolles (Choisy)</name>
+    <description>B004, Level 0</description>
+    <TimeStamp><when>2026-08-25T20:59:04Z</when></TimeStamp>
+    <styleUrl>#placemark-lime</styleUrl>
+    <Point><coordinates>2.5880595,48.840849,0</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://comaps.app">
+      <mwm:name>
+        <mwm:lang code="default">Auguste Choisy</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+        <mwm:lang code="default">B004, Level 0</mwm:lang>
+      </mwm:description>
+      <mwm:customName>
+        <mwm:lang code="default">Porquerolles (Choisy)</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>19</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Open Area (booths and posters)</name>
+    <TimeStamp><when>2026-08-25T21:02:27Z</when></TimeStamp>
+    <styleUrl>#placemark-lightblue</styleUrl>
+    <Point><coordinates>2.587721,48.840915,0</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://comaps.app">
+      <mwm:name>
+        <mwm:lang code="default">Carnot</mwm:lang>
+      </mwm:name>
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+        <mwm:value>building-has_parts</mwm:value>
+      </mwm:featureTypes>
+      <mwm:customName>
+        <mwm:lang code="default">Open Area (booths and posters)</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>18</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Cafeteria</name>
+    <TimeStamp><when>2026-08-25T21:05:28Z</when></TimeStamp>
+    <styleUrl>#placemark-cyan</styleUrl>
+    <Point><coordinates>2.5874962,48.84226,0</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://comaps.app">
+      <mwm:name>
+        <mwm:lang code="default">MRS</mwm:lang>
+        <mwm:lang code="fr">MRS</mwm:lang>
+      </mwm:name>
+      <mwm:featureTypes>
+        <mwm:value>amenity-cafe</mwm:value>
+      </mwm:featureTypes>
+      <mwm:customName>
+        <mwm:lang code="default">Cafeteria</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>18</mwm:scale>
+      <mwm:icon>Cafe</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Restaurant</name>
+    <TimeStamp><when>2026-08-25T21:05:48Z</when></TimeStamp>
+    <styleUrl>#placemark-cyan</styleUrl>
+    <Point><coordinates>2.5872038,48.842279,0</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://comaps.app">
+      <mwm:name>
+        <mwm:lang code="default">Restaurant universitaire MRS</mwm:lang>
+      </mwm:name>
+      <mwm:featureTypes>
+        <mwm:value>amenity-fast_food</mwm:value>
+      </mwm:featureTypes>
+      <mwm:customName>
+        <mwm:lang code="default">Restaurant</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>18</mwm:scale>
+      <mwm:icon>FastFood</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Hôtel Ibis</name>
+    <description>Lower prices for SoTM attendees</description>
+    <TimeStamp><when>2026-08-25T21:09:07Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>2.5849079,48.842641,0</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://comaps.app">
+      <mwm:name>
+        <mwm:lang code="default">Ibis</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+        <mwm:lang code="default">Lower prices for SoTM attendees</mwm:lang>
+      </mwm:description>
+      <mwm:featureTypes>
+        <mwm:value>tourism-hotel</mwm:value>
+        <mwm:value>internet_access-wlan</mwm:value>
+        <mwm:value>wheelchair-yes</mwm:value>
+      </mwm:featureTypes>
+      <mwm:customName>
+        <mwm:lang code="default">Hôtel Ibis</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>18</mwm:scale>
+      <mwm:icon>Hotel</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Parking</name>
+    <description>Public car park, no fee
+Other car parks are available on the streets, no difficulties to find a place nearby at this moment.</description>
+    <TimeStamp><when>2026-08-25T21:09:57Z</when></TimeStamp>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>2.5871381,48.843072,0</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://comaps.app">
+      <mwm:name>
+        <mwm:lang code="default">Parking</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+        <mwm:lang code="default">Public car park, no fee
+Other car parks are available on the streets, no difficulties to find a place nearby at this moment.</mwm:lang>
+      </mwm:description>
+      <mwm:featureTypes>
+        <mwm:value>amenity-parking</mwm:value>
+        <mwm:value>fee-no</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Parking</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Noisy–Champs</name>
+    <description>"RER A" (local train from Paris to Disneyland resort)</description>
+    <TimeStamp><when>2026-08-25T21:12:47Z</when></TimeStamp>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>2.5818944,48.843065,0</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://comaps.app">
+      <mwm:name>
+        <mwm:lang code="default">Noisy–Champs — Nesles</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+        <mwm:lang code="default">"RER A" (local train from Paris to Disneyland resort)</mwm:lang>
+      </mwm:description>
+      <mwm:featureTypes>
+        <mwm:value>building-train_station</mwm:value>
+      </mwm:featureTypes>
+      <mwm:customName>
+        <mwm:lang code="default">Noisy–Champs</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>18</mwm:scale>
+      <mwm:icon>Transport</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>TGV Station Marne-la-Vallée Chessy</name>
+    <TimeStamp><when>2026-08-25T21:16:12Z</when></TimeStamp>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>2.7828334,48.870401,0</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://comaps.app">
+      <mwm:name>
+        <mwm:lang code="default">Marne-la-Vallée Chessy</mwm:lang>
+        <mwm:lang code="zh">马恩拉瓦莱-谢西</mwm:lang>
+      </mwm:name>
+      <mwm:featureTypes>
+        <mwm:value>railway-station</mwm:value>
+        <mwm:value>wheelchair-yes</mwm:value>
+      </mwm:featureTypes>
+      <mwm:customName>
+        <mwm:lang code="default">TGV Station Marne-la-Vallée Chessy</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>19</mwm:scale>
+      <mwm:icon>Transport</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Châtelet - Les Halles</name>
+    <description>Exit 5 :  Saint-Eustache</description>
+    <TimeStamp><when>2026-08-25T22:25:07Z</when></TimeStamp>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>2.3470442,48.861637,0</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://comaps.app">
+      <mwm:name>
+        <mwm:lang code="ar">شاتليه - لي هال</mwm:lang>
+        <mwm:lang code="default">Châtelet - Les Halles</mwm:lang>
+        <mwm:lang code="ko">샤틀레 - 레 알</mwm:lang>
+        <mwm:lang code="zh">沙特莱-大堂</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+        <mwm:lang code="default">Exit 5 :  Saint-Eustache</mwm:lang>
+      </mwm:description>
+      <mwm:featureTypes>
+        <mwm:value>railway-station</mwm:value>
+        <mwm:value>wheelchair-limited</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>19</mwm:scale>
+      <mwm:icon>Transport</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Social Event</name>
+    <description><![CDATA[Musée des Arts et Métiers<br/>
+<b>Saturday 29 evening.</b><br/>
+More information : <a href="https://2026.stateofthemap.org/programme/social_event/">https://2026.stateofthemap.org/programme/social_event/</a>
+]]></description>
+    <TimeStamp><when>2026-08-25T22:25:29Z</when></TimeStamp>
+    <styleUrl>#placemark-lime</styleUrl>
+    <Point><coordinates>2.3554127,48.866097,0</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://comaps.app">
+      <mwm:name>
+        <mwm:lang code="default">Social Event</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+        <mwm:lang code="default"><![CDATA[Musée des Arts et Métiers<br/>
+<b>Saturday 29 evening.</b><br/>
+More information : <a href="https://2026.stateofthemap.org/programme/social_event/">https://2026.stateofthemap.org/programme/social_event/</a>
+]]></mwm:lang>
+      </mwm:description>
+      <mwm:featureTypes>
+        <mwm:value>tourism-museum</mwm:value>
+        <mwm:value>fee-yes</mwm:value>
+        <mwm:value>wheelchair-yes</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>20</mwm:scale>
+      <mwm:icon>Museum</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Gare de Lyon</name>
+    <description>RER train and TGV station</description>
+    <TimeStamp><when>2026-08-25T22:25:44Z</when></TimeStamp>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>2.3737751,48.844684,0</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://comaps.app">
+      <mwm:name>
+        <mwm:lang code="alt_name">Paris - Gare de Lyon</mwm:lang>
+        <mwm:lang code="ar">محطة ليون</mwm:lang>
+        <mwm:lang code="default">Gare de Lyon</mwm:lang>
+        <mwm:lang code="ko">파리-가르 드 리옹</mwm:lang>
+        <mwm:lang code="ru">Лионский вокзал</mwm:lang>
+        <mwm:lang code="uk">Ліонський вокзал</mwm:lang>
+        <mwm:lang code="zh">里昂站</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+        <mwm:lang code="default">RER train and TGV station</mwm:lang>
+      </mwm:description>
+      <mwm:featureTypes>
+        <mwm:value>railway-station</mwm:value>
+        <mwm:value>amenity-shelter</mwm:value>
+        <mwm:value>amenity-bench</mwm:value>
+        <mwm:value>internet_access-wlan</mwm:value>
+        <mwm:value>wheelchair-yes</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>16</mwm:scale>
+      <mwm:icon>Transport</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Get Together</name>
+    <description><![CDATA[<b>Thursday 27 from 19:30.</b><br/>
+Ground Control<br/>
+Biergarten and food court <br/>
+At <a href="https://www.groundcontrolparis.com/le-lieu/manger-boire/">https://www.groundcontrolparis.com/le-lieu/manger-boire/</a><br/>
+81 Rue du Charolais<br/>
+Wheelchair Access at the back by the 87 Rue du Charolais]]></description>
+    <TimeStamp><when>2026-08-25T22:25:56Z</when></TimeStamp>
+    <styleUrl>#placemark-lime</styleUrl>
+    <Point><coordinates>2.3812974,48.843328,0</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://comaps.app">
+      <mwm:name>
+        <mwm:lang code="default">Get Together</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+        <mwm:lang code="default"><![CDATA[<b>Thursday 27 from 19:30.</b><br/>
+Ground Control<br/>
+Biergarten and food court <br/>
+At <a href="https://www.groundcontrolparis.com/le-lieu/manger-boire/">https://www.groundcontrolparis.com/le-lieu/manger-boire/</a><br/>
+81 Rue du Charolais<br/>
+Wheelchair Access at the back by the 87 Rue du Charolais]]></mwm:lang>
+      </mwm:description>
+      <mwm:featureTypes>
+        <mwm:value>amenity-food_court</mwm:value>
+        <mwm:value>wheelchair-no</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Food</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Nation (closed)</name>
+    <description>Station closed during the SotM</description>
+    <styleUrl>#placemark-red</styleUrl>
+    <TimeStamp><when>2026-08-25T22:26:10Z</when></TimeStamp>
+    <Point><coordinates>2.3958309,48.84827,0</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://comaps.app">
+      <mwm:name>
+        <mwm:lang code="default">Nation (closed)</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+        <mwm:lang code="default">Station closed during the SotM</mwm:lang>
+      </mwm:description>
+      <mwm:featureTypes>
+        <mwm:value>railway-station</mwm:value>
+        <mwm:value>wheelchair-yes</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>20</mwm:scale>
+      <mwm:icon>Transport</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Charles de Gaulle International Airport</name>
+    <TimeStamp><when>2026-08-25T22:28:49Z</when></TimeStamp>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>2.5625637,49.006901,0</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://comaps.app">
+      <mwm:name>
+        <mwm:lang code="ar">مطار باريس شارل دو غول</mwm:lang>
+        <mwm:lang code="da">Charles de Gaulle Airport</mwm:lang>
+        <mwm:lang code="de">Flughafen Paris-Charles-de-Gaulle</mwm:lang>
+        <mwm:lang code="default">Aéroport de Paris-Charles-de-Gaulle</mwm:lang>
+        <mwm:lang code="en">Charles de Gaulle International Airport</mwm:lang>
+        <mwm:lang code="fr">Aéroport de Paris-Charles-de-Gaulle</mwm:lang>
+        <mwm:lang code="hi">पैरिस चार्ल्स डि गॉल विमानक्षेत्र</mwm:lang>
+        <mwm:lang code="ja">パリ＝シャルル・ド・ゴール空港</mwm:lang>
+        <mwm:lang code="ko">샤를 드 골 공항</mwm:lang>
+        <mwm:lang code="pl">Port lotniczy Paryż-Roissy-Charles de Gaulle</mwm:lang>
+        <mwm:lang code="pt">Aeroporto de Paris - Charles de Gaulle</mwm:lang>
+        <mwm:lang code="ru">Международный аэропорт Париж — Шарль-де-Голль</mwm:lang>
+        <mwm:lang code="zh">巴黎夏尔·戴高乐机场</mwm:lang>
+      </mwm:name>
+      <mwm:featureTypes>
+        <mwm:value>aeroway-aerodrome-international</mwm:value>
+        <mwm:value>wheelchair-yes</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>11</mwm:scale>
+      <mwm:icon>Transport</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Paris–Orly Airport</name>
+    <TimeStamp><when>2026-08-25T22:30:00Z</when></TimeStamp>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>2.358795,48.730059,0</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://comaps.app">
+      <mwm:name>
+        <mwm:lang code="ar">مطار باريس أورلي</mwm:lang>
+        <mwm:lang code="default">Aéroport de Paris-Orly</mwm:lang>
+        <mwm:lang code="en">Paris–Orly Airport</mwm:lang>
+        <mwm:lang code="fr">Aéroport de Paris-Orly</mwm:lang>
+        <mwm:lang code="hi">पेरिस ओरली हवाई अड्डा</mwm:lang>
+        <mwm:lang code="ja">パリ＝オルリー空港</mwm:lang>
+        <mwm:lang code="pt">Aeroporto de Paris-Orly</mwm:lang>
+        <mwm:lang code="ru">Аэропорт Париж — Орли</mwm:lang>
+        <mwm:lang code="uk">Аеропорт Париж-Орлі</mwm:lang>
+        <mwm:lang code="zh">巴黎奥利机场</mwm:lang>
+      </mwm:name>
+      <mwm:featureTypes>
+        <mwm:value>aeroway-aerodrome-international</mwm:value>
+        <mwm:value>internet_access</mwm:value>
+        <mwm:value>wheelchair-yes</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>12</mwm:scale>
+      <mwm:icon>Transport</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Gare Montparnasse</name>
+    <description>RER train and TGV station</description>
+    <styleUrl>#placemark-blue</styleUrl>
+    <TimeStamp><when>2026-08-25T22:31:28Z</when></TimeStamp>
+    <Point><coordinates>2.319109,48.840062,0</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://comaps.app">
+      <mwm:name>
+        <mwm:lang code="alt_name"><![CDATA[Gare Montparnasse 1 & 2]]></mwm:lang>
+        <mwm:lang code="ar">محطة مونبارناس</mwm:lang>
+        <mwm:lang code="default">Gare Montparnasse</mwm:lang>
+        <mwm:lang code="zh">蒙帕纳斯站</mwm:lang>
+      </mwm:name>
+      <mwm:featureTypes>
+        <mwm:value>railway-station</mwm:value>
+        <mwm:value>internet_access-wlan</mwm:value>
+        <mwm:value>wheelchair-no</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>16</mwm:scale>
+      <mwm:icon>Transport</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Gare Saint-Lazare</name>
+    <description>RER train and TGV station</description>
+    <TimeStamp><when>2026-08-25T22:31:36Z</when></TimeStamp>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>2.3252379,48.876529,0</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://comaps.app">
+      <mwm:name>
+        <mwm:lang code="ar">محطة سان لازار</mwm:lang>
+        <mwm:lang code="be">Вакзал Сен-Лазар</mwm:lang>
+        <mwm:lang code="default">Paris-Saint-Lazare</mwm:lang>
+        <mwm:lang code="es">Estación de Paris Saint-Lazare</mwm:lang>
+        <mwm:lang code="eu">Paris-Saint Lazare geltokia</mwm:lang>
+        <mwm:lang code="fi">Saint Lazaren rautatieasema</mwm:lang>
+        <mwm:lang code="he">תחנת_סן_לאזאר</mwm:lang>
+        <mwm:lang code="ja">サン・ラザール駅</mwm:lang>
+        <mwm:lang code="ko">파리생라자르</mwm:lang>
+        <mwm:lang code="old_name">Embarcadère de l'Ouest;Gare de l'Ouest</mwm:lang>
+        <mwm:lang code="ru">Вокзал Сен-Лазар</mwm:lang>
+        <mwm:lang code="sv">Paris Saint-Lazare järnvägsstation</mwm:lang>
+        <mwm:lang code="uk">Вокзал Сен-Лазар</mwm:lang>
+        <mwm:lang code="zh">巴黎圣拉扎尔车站</mwm:lang>
+      </mwm:name>
+      <mwm:featureTypes>
+        <mwm:value>railway-station</mwm:value>
+        <mwm:value>internet_access-wlan</mwm:value>
+        <mwm:value>wheelchair-limited</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>16</mwm:scale>
+      <mwm:icon>Transport</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Transport</name>
+    <description>exit : 5 - Porte Saint-Eustache</description>
+    <Style><LineStyle>
+      <color>FFC76E00</color>
+      <width>5</width>
+    </LineStyle></Style>
+    <LineString><coordinates>2.34697,48.861648 2.345635,48.862897</coordinates></LineString>
+    <ExtendedData xmlns:mwm="https://comaps.app">
+      <mwm:name>
+        <mwm:lang code="default">Transport</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+        <mwm:lang code="default">exit : 5 - Porte Saint-Eustache</mwm:lang>
+      </mwm:description>
+      <mwm:localId>0</mwm:localId>
+      <mwm:additionalStyle>
+      </mwm:additionalStyle>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>7mn walk from train station</name>
+    <Style><LineStyle>
+      <color>FFC76E00</color>
+      <width>5</width>
+    </LineStyle></Style>
+    <LineString><coordinates>2.587726,48.840742 2.587717,48.840589 2.585065,48.840469 2.584968,48.840612 2.584732,48.840714 2.584536,48.840744 2.584164,48.841853 2.583965,48.842471 2.584023,48.842648 2.584009,48.842772 2.583788,48.842851 2.583521,48.842825 2.583434,48.842766 2.583249,48.842738 2.583197,48.842935 2.582985,48.842961 2.581995,48.842805 2.58198,48.842867</coordinates></LineString>
+    <ExtendedData xmlns:mwm="https://comaps.app">
+      <mwm:name>
+        <mwm:lang code="default">7mn walk from train station</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:localId>0</mwm:localId>
+      <mwm:additionalStyle>
+      </mwm:additionalStyle>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Access from station</name>
+    <description>10 to 15 minutes walk</description>
+    <Style><LineStyle>
+      <color>FFC76E00</color>
+      <width>5</width>
+    </LineStyle></Style>
+    <LineString><coordinates>2.345603,48.862933 2.34615,48.863243 2.355511,48.865357 2.355613,48.865678</coordinates></LineString>
+    <ExtendedData xmlns:mwm="https://comaps.app">
+      <mwm:name>
+        <mwm:lang code="default">Access from station</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+        <mwm:lang code="default">10 to 15 minutes walk</mwm:lang>
+      </mwm:description>
+      <mwm:localId>0</mwm:localId>
+      <mwm:additionalStyle>
+      </mwm:additionalStyle>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>RER A to Marne-la-Vallée Chessy (20min)</name>
+    <Style><LineStyle>
+      <color>FFC76E00</color>
+      <width>5</width>
+    </LineStyle></Style>
+    <LineString><coordinates>2.581959,48.843058 2.585199,48.843346 2.588396,48.84341 2.59361,48.842774 2.599189,48.84211 2.602043,48.842012 2.604425,48.842336 2.608287,48.843085 2.610819,48.843381 2.61642,48.843508 2.618694,48.843523 2.621033,48.843325 2.625368,48.8418 2.629595,48.840006 2.633758,48.839102 2.638392,48.838311 2.643478,48.838326 2.654378,48.839526 2.663412,48.840543 2.66912,48.841362 2.671738,48.841249 2.674398,48.840402 2.682638,48.836052 2.684784,48.835345 2.687702,48.834639 2.690213,48.834456 2.692788,48.834611 2.709804,48.836645 2.727592,48.838862 2.732517,48.839512 2.735875,48.840458 2.738471,48.841503 2.744029,48.844215 2.746818,48.845521 2.749591,48.846767 2.752488,48.847794 2.755541,48.848631 2.759505,48.849422 2.761484,48.849849 2.763394,48.850354 2.765653,48.851155 2.766699,48.851631 2.767632,48.852136 2.772559,48.8549 2.775518,48.856605 2.778779,48.858588 2.780099,48.860014 2.780689,48.861299 2.781043,48.862936 2.782202,48.869824</coordinates></LineString>
+    <ExtendedData xmlns:mwm="https://comaps.app">
+      <mwm:name>
+        <mwm:lang code="default">RER A to Marne-la-Vallée Chessy (20min)</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:localId>0</mwm:localId>
+      <mwm:additionalStyle>
+      </mwm:additionalStyle>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>RER A to Paris (20 minutes)</name>
+    <Style><LineStyle>
+      <color>FFC76E00</color>
+      <width>5</width>
+    </LineStyle></Style>
+    <LineString><coordinates>2.346817,48.861418 2.348545,48.85911 2.349463,48.857884 2.350766,48.856859 2.352587,48.855884 2.359475,48.853047 2.365676,48.849307 2.368732,48.847499 2.374447,48.843614 2.37728,48.842357 2.378953,48.842273 2.380327,48.842696 2.382322,48.843854 2.383148,48.844991 2.384634,48.847152 2.38619,48.848352 2.388609,48.84915 2.3912,48.849194 2.395961,48.848319 2.397713,48.847964 2.398593,48.847706 2.399327,48.847243 2.402256,48.845252 2.40386,48.844811 2.408085,48.844467 2.417395,48.843699 2.418457,48.84377 2.419948,48.8442 2.42144,48.844808 2.425066,48.846551 2.427598,48.847236 2.4291,48.847392 2.430548,48.847455 2.433649,48.847384 2.448626,48.846777 2.461222,48.844645 2.46399,48.843727 2.465937,48.843367 2.466924,48.843332 2.467912,48.843438 2.468716,48.843635 2.469424,48.843847 2.471087,48.844758 2.47451,48.846424 2.481934,48.850025 2.488988,48.854232 2.4927,48.856392 2.494696,48.857 2.496756,48.857451 2.499695,48.857508 2.50875,48.85635 2.510853,48.855884 2.512656,48.854868 2.51405,48.853413 2.51596,48.851211 2.518235,48.849771 2.522676,48.847554 2.524179,48.846636 2.526324,48.844701 2.527805,48.843261 2.529436,48.84199 2.531989,48.840945 2.534607,48.840705 2.547921,48.840804 2.557502,48.840874 2.56733,48.841241 2.572093,48.842174 2.582028,48.843106</coordinates></LineString>
+    <ExtendedData xmlns:mwm="https://comaps.app">
+      <mwm:name>
+        <mwm:lang code="default">RER A to Paris (20 minutes)</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:localId>0</mwm:localId>
+      <mwm:additionalStyle>
+      </mwm:additionalStyle>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+</Document>
+</kml>
