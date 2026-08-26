@@ -154,6 +154,7 @@ Other car parks are available on the streets, no difficulties to find a place ne
   <Placemark>
     <name>Cafeteria + Open Area</name>
     <styleUrl>#placemark-cyan</styleUrl>
+    <description><![CDATA[<a href="https://panoramax.openstreetmap.fr/#background=streets&#x26;focus=pic&#x26;map=17.62/48.841116/2.587757&#x26;pic=ce359347-e9ab-43d0-87a7-0d21ff5d4cb1&#x26;speed=250&#x26;xyz=340.00/0.00/30">View on Panoramax</a>]]></description>
     <Point><coordinates>2.587673,48.841349,0</coordinates></Point>
     <ExtendedData xmlns:mwm="https://comaps.app">
       <mwm:name>
@@ -168,6 +169,7 @@ Other car parks are available on the streets, no difficulties to find a place ne
   <Placemark>
     <name>Chill Outdoor Area</name>
     <styleUrl>#placemark-cyan</styleUrl>
+    <description><![CDATA[<a href="https://panoramax.openstreetmap.fr/#background=streets&#x26;focus=pic&#x26;map=16.38/48.841708/2.587656&#x26;pic=39e2cf46-23db-4d9b-97b0-3e2a12716e00&#x26;speed=250&#x26;xyz=62.00/0.00/30">View on Panoramax</a>]]></description>
     <Point><coordinates>2.587618,48.84171,0</coordinates></Point>
     <ExtendedData xmlns:mwm="https://comaps.app">
       <mwm:name>
@@ -182,6 +184,7 @@ Other car parks are available on the streets, no difficulties to find a place ne
   <Placemark>
     <name>Entrance</name>
     <styleUrl>#placemark-cyan</styleUrl>
+    <description><![CDATA[<a href="https://api.panoramax.xyz/fr/index?focus=pic&#x26;map=19.88/48.8405823/2.5875698&#x26;pic=49746999-9a6a-48ac-957e-78af341469c4&#x26;seq=f6b64bd3-0ab6-433d-ad34-c71883ab591b&#x26;speed=250&#x26;theme=age&#x26;users=default&#x26;xyz=26.91/0.27/0">View on Panoramax</a>]]></description>
     <Point><coordinates>2.587838,48.840726,0</coordinates></Point>
     <ExtendedData xmlns:mwm="https://comaps.app">
       <mwm:name>
@@ -196,6 +199,7 @@ Other car parks are available on the streets, no difficulties to find a place ne
   <Placemark>
     <name>Guadeloupe (Caquot/Boulay)</name>
     <styleUrl>#placemark-green</styleUrl>
+    <description><![CDATA[<a href="https://panoramax.openstreetmap.fr/#background=streets&#x26;focus=pic&#x26;map=17.57/48.840931/2.590046&#x26;pic=4e8de9a1-0a1e-4ab5-ab74-dec1e2550af6&#x26;speed=250&#x26;xyz=35.00/0.00/30">View on Panoramax (from bottom)</a><br/><a href="https://panoramax.openstreetmap.fr/#background=streets&#x26;focus=pic&#x26;map=17.57/48.841061/2.590107&#x26;pic=ade0b8be-4238-4dcd-a435-7d602d6d0141&#x26;speed=250&#x26;xyz=217.00/0.00/30">View on Panoramax (from audience)</a>]]></description>
     <Point><coordinates>2.590054,48.840991,0</coordinates></Point>
     <ExtendedData xmlns:mwm="https://comaps.app">
       <mwm:name>
@@ -210,6 +214,8 @@ Other car parks are available on the streets, no difficulties to find a place ne
   <Placemark>
     <name>La Réunion (Bienvenüe)</name>
     <styleUrl>#placemark-green</styleUrl>
+    <description><![CDATA[<a href="https://panoramax.openstreetmap.fr/#background=streets&#x26;focus=pic&#x26;map=17.21/48.84272/2.587638&#x26;pic=5d9a8cac-379b-4eb3-a774-f1f2695f2daa&#x26;speed=250&#x26;xyz=197.00/0.00/30">View on Panoramax (from bottom)</a><br/><a href="https://panoramax.openstreetmap.fr/#background=streets&#x26;focus=pic&#x26;map=17.21/48.842586/2.587601&#x26;pic=bd876556-0cfd-4e42-a3d5-9b765f55c701&#x26;speed=250&#x26;xyz=79.00/0.00/30">View on Panoramax (from audience)</a>]]>
+    </description>
     <Point><coordinates>2.587189,48.842587,0</coordinates></Point>
     <ExtendedData xmlns:mwm="https://comaps.app">
       <mwm:name>
@@ -248,12 +254,6 @@ Other car parks are available on the streets, no difficulties to find a place ne
       <mwm:name>
         <mwm:lang code="default">Tahiti (Blondel)</mwm:lang>
       </mwm:name>
-      <mwm:description>
-        <mwm:lang code="default">P012, Level 0</mwm:lang>
-      </mwm:description>
-      <mwm:customName>
-        <mwm:lang code="default">Tahiti (Blondel)</mwm:lang>
-      </mwm:customName>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
@@ -266,12 +266,6 @@ Other car parks are available on the streets, no difficulties to find a place ne
       <mwm:name>
         <mwm:lang code="default">Welcome Desk</mwm:lang>
       </mwm:name>
-      <mwm:description>
-        <mwm:lang code="default">Registration, Information, Lost and Found</mwm:lang>
-      </mwm:description>
-      <mwm:customName>
-        <mwm:lang code="default">Welcome Desk</mwm:lang>
-      </mwm:customName>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
@@ -297,8 +291,8 @@ Other car parks are available on the streets, no difficulties to find a place ne
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Corse (Picard)</name>
-    <description>Level -1</description>
+    <name>Corse (Picard) L-1</name>
+    <description><![CDATA[Level -1<br/><a href="https://panoramax.openstreetmap.fr/#background=streets&#x26;focus=pic&#x26;map=17.62/48.841095/2.587557&#x26;pic=5d6896fe-74de-47bc-8812-b42c0130d558&#x26;speed=250&#x26;xyz=60.00/0.00/30">View on Panoramax</a>]]></description>
     <TimeStamp><when>2026-08-25T20:35:22Z</when></TimeStamp>
     <styleUrl>#placemark-green</styleUrl>
     <Point><coordinates>2.5873809,48.841215,0</coordinates></Point>
@@ -306,19 +300,16 @@ Other car parks are available on the streets, no difficulties to find a place ne
       <mwm:name>
         <mwm:lang code="default">Amphithéatre Picard</mwm:lang>
       </mwm:name>
-      <mwm:description>
-        <mwm:lang code="default">Level -1</mwm:lang>
-      </mwm:description>
       <mwm:customName>
-        <mwm:lang code="default">Corse (Picard)</mwm:lang>
+        <mwm:lang code="default">Corse (Picard) L-1</mwm:lang>
       </mwm:customName>
       <mwm:scale>18</mwm:scale>
       <mwm:visibility>1</mwm:visibility>
     </ExtendedData>
   </Placemark>
   <Placemark>
-    <name>Martinique (Cauchy)</name>
-    <description>Level -1</description>
+    <name>Martinique (Cauchy) L-1</name>
+    <description><![CDATA[Level -1<br/><a href="https://panoramax.openstreetmap.fr/#background=streets&#x26;focus=pic&#x26;map=17.62/48.841132/2.587697&#x26;pic=ae23a947-c923-4c36-8643-766d0e8cbeca&#x26;speed=250&#x26;xyz=26.00/0.00/30">View on Panoramax (from audience)</a><br/><a href="https://panoramax.openstreetmap.fr/#background=streets&#x26;focus=pic&#x26;map=17.62/48.841182/2.587694&#x26;pic=f7ea3156-d9b2-4051-b331-6b8b03bc10a9&#x26;speed=250&#x26;xyz=208.00/0.00/30">View on Panoramax (from bottom)</a>]]></description>
     <TimeStamp><when>2026-08-25T20:36:26Z</when></TimeStamp>
     <styleUrl>#placemark-green</styleUrl>
     <Point><coordinates>2.587692,48.84126,0</coordinates></Point>
@@ -326,11 +317,8 @@ Other car parks are available on the streets, no difficulties to find a place ne
       <mwm:name>
         <mwm:lang code="default">Amphithéatre Cauchy</mwm:lang>
       </mwm:name>
-      <mwm:description>
-        <mwm:lang code="default">Level -1</mwm:lang>
-      </mwm:description>
       <mwm:customName>
-        <mwm:lang code="default">Martinique (Cauchy)</mwm:lang>
+        <mwm:lang code="default">Martinique (Cauchy) L-1</mwm:lang>
       </mwm:customName>
       <mwm:scale>18</mwm:scale>
       <mwm:visibility>1</mwm:visibility>
@@ -368,9 +356,6 @@ Other car parks are available on the streets, no difficulties to find a place ne
       <mwm:name>
         <mwm:lang code="default">Carnot</mwm:lang>
       </mwm:name>
-      <mwm:description>
-        <mwm:lang code="default">V002, Level 0</mwm:lang>
-      </mwm:description>
       <mwm:featureTypes>
         <mwm:value>building</mwm:value>
         <mwm:value>building-has_parts</mwm:value>
@@ -392,9 +377,6 @@ Other car parks are available on the streets, no difficulties to find a place ne
       <mwm:name>
         <mwm:lang code="default">Pierre Méchain</mwm:lang>
       </mwm:name>
-      <mwm:description>
-        <mwm:lang code="default">B005, Level 0</mwm:lang>
-      </mwm:description>
       <mwm:customName>
         <mwm:lang code="default">Ouessant (Méchain)</mwm:lang>
       </mwm:customName>
@@ -412,9 +394,6 @@ Other car parks are available on the streets, no difficulties to find a place ne
       <mwm:name>
         <mwm:lang code="default">Auguste Choisy</mwm:lang>
       </mwm:name>
-      <mwm:description>
-        <mwm:lang code="default">B004, Level 0</mwm:lang>
-      </mwm:description>
       <mwm:customName>
         <mwm:lang code="default">Porquerolles (Choisy)</mwm:lang>
       </mwm:customName>
@@ -426,6 +405,7 @@ Other car parks are available on the streets, no difficulties to find a place ne
     <name>Open Area (booths and posters)</name>
     <TimeStamp><when>2026-08-25T21:02:27Z</when></TimeStamp>
     <styleUrl>#placemark-lightblue</styleUrl>
+    <description><![CDATA[<a href="https://panoramax.openstreetmap.fr/#background=streets&#x26;focus=pic&#x26;map=17.69/48.84075/2.587591&#x26;pic=206285bd-93e8-4952-86f6-5d64cb376bce&#x26;speed=250&#x26;xyz=50.13/-1.04/30">View on Panoramax</a>]]></description>
     <Point><coordinates>2.587721,48.840915,0</coordinates></Point>
     <ExtendedData xmlns:mwm="https://comaps.app">
       <mwm:name>
@@ -447,6 +427,7 @@ Other car parks are available on the streets, no difficulties to find a place ne
     <TimeStamp><when>2026-08-25T21:05:28Z</when></TimeStamp>
     <styleUrl>#placemark-cyan</styleUrl>
     <Point><coordinates>2.5874962,48.84226,0</coordinates></Point>
+    <description><![CDATA[<a href="https://panoramax.openstreetmap.fr/#background=streets&#x26;focus=pic&#x26;map=17.23/48.842245/2.587629&#x26;pic=6d3fcc3a-736e-4388-9189-51702d881d0a&#x26;speed=250&#x26;xyz=253.00/0.00/30">View on Panoramax</a>]]></description>
     <ExtendedData xmlns:mwm="https://comaps.app">
       <mwm:name>
         <mwm:lang code="default">MRS</mwm:lang>
@@ -535,7 +516,8 @@ Other car parks are available on the streets, no difficulties to find a place ne
   </Placemark>
   <Placemark>
     <name>Noisy–Champs</name>
-    <description>"RER A" (local train from Paris to Disneyland resort)</description>
+    <description><![CDATA["RER A" (local train from Paris to Disneyland resort)<br/>
+  <a href="https://api.panoramax.xyz/#background=streets&#x26;focus=pic&#x26;map=17.21/48.843088/2.581632&#x26;pic=c5906f75-5095-41e3-b570-88f2fcfcea09&#x26;speed=250&#x26;xyz=0.00/0.00/30">View on Panoramax</a>]]></description>
     <TimeStamp><when>2026-08-25T21:12:47Z</when></TimeStamp>
     <styleUrl>#placemark-blue</styleUrl>
     <Point><coordinates>2.5818944,48.843065,0</coordinates></Point>
@@ -543,9 +525,6 @@ Other car parks are available on the streets, no difficulties to find a place ne
       <mwm:name>
         <mwm:lang code="default">Noisy–Champs — Nesles</mwm:lang>
       </mwm:name>
-      <mwm:description>
-        <mwm:lang code="default">"RER A" (local train from Paris to Disneyland resort)</mwm:lang>
-      </mwm:description>
       <mwm:featureTypes>
         <mwm:value>building-train_station</mwm:value>
       </mwm:featureTypes>
@@ -608,7 +587,8 @@ Other car parks are available on the streets, no difficulties to find a place ne
     <name>Social Event</name>
     <description><![CDATA[Musée des Arts et Métiers<br/>
 <b>Saturday 29 evening.</b><br/>
-More information : <a href="https://2026.stateofthemap.org/programme/social_event/">https://2026.stateofthemap.org/programme/social_event/</a>
+More information : <a href="https://2026.stateofthemap.org/programme/social_event/">https://2026.stateofthemap.org/programme/social_event/</a><br/>
+<a href="https://api.panoramax.xyz/fr/index?focus=pic&#x26;map=20.84/48.8656053/2.3556979&#x26;pic=985e1ed8-936c-4674-b55d-1971e800362f&#x26;seq=96ad6f2f-c9e7-4232-bd5b-73318c1388ca&#x26;speed=250&#x26;theme=age&#x26;users=default&#x26;xyz=329.82/-3.30/5">View on Panoramax</a>
 ]]></description>
     <TimeStamp><when>2026-08-25T22:25:29Z</when></TimeStamp>
     <styleUrl>#placemark-lime</styleUrl>
@@ -617,12 +597,6 @@ More information : <a href="https://2026.stateofthemap.org/programme/social_even
       <mwm:name>
         <mwm:lang code="default">Social Event</mwm:lang>
       </mwm:name>
-      <mwm:description>
-        <mwm:lang code="default"><![CDATA[Musée des Arts et Métiers<br/>
-<b>Saturday 29 evening.</b><br/>
-More information : <a href="https://2026.stateofthemap.org/programme/social_event/">https://2026.stateofthemap.org/programme/social_event/</a>
-]]></mwm:lang>
-      </mwm:description>
       <mwm:featureTypes>
         <mwm:value>tourism-museum</mwm:value>
         <mwm:value>fee-yes</mwm:value>
@@ -671,7 +645,8 @@ Ground Control<br/>
 Biergarten and food court <br/>
 At <a href="https://www.groundcontrolparis.com/le-lieu/manger-boire/">https://www.groundcontrolparis.com/le-lieu/manger-boire/</a><br/>
 81 Rue du Charolais<br/>
-Wheelchair Access at the back by the 87 Rue du Charolais]]></description>
+Wheelchair Access at the back by the 87 Rue du Charolais<br/>
+<a href="https://api.panoramax.xyz/en/index?s=fp;s2;pdb40529e-da36-4e33-ba0f-56cf09ba14cf;c219.43/6.99/10;m19.01/48.8440022/2.3818975;va;udefault">View on Panoramax</a>]]></description>
     <TimeStamp><when>2026-08-25T22:25:56Z</when></TimeStamp>
     <styleUrl>#placemark-lime</styleUrl>
     <Point><coordinates>2.3812974,48.843328,0</coordinates></Point>
@@ -679,14 +654,6 @@ Wheelchair Access at the back by the 87 Rue du Charolais]]></description>
       <mwm:name>
         <mwm:lang code="default">Get Together</mwm:lang>
       </mwm:name>
-      <mwm:description>
-        <mwm:lang code="default"><![CDATA[<b>Thursday 27 from 19:30.</b><br/>
-Ground Control<br/>
-Biergarten and food court <br/>
-At <a href="https://www.groundcontrolparis.com/le-lieu/manger-boire/">https://www.groundcontrolparis.com/le-lieu/manger-boire/</a><br/>
-81 Rue du Charolais<br/>
-Wheelchair Access at the back by the 87 Rue du Charolais]]></mwm:lang>
-      </mwm:description>
       <mwm:featureTypes>
         <mwm:value>amenity-food_court</mwm:value>
         <mwm:value>wheelchair-no</mwm:value>
