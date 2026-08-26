@@ -22,6 +22,7 @@ weight: 1000
 <a class="button btn-download button--main" href="../images/sotm2026/SoTM 2026.kml"><img src="../images/community/icons/MapPinLine.svg" style="height: 1em; fill: white" /> Download the customized SoTM 2026 KML</a>
 
 The KML is based on the [official SoTM uMap](https://umap.openstreetmap.fr/fr/map/sotm-2026-paris_1374311), customized for CoMaps.
+Please leave [feedback on our Codeberg issue](https://codeberg.org/comaps/comaps/issues/5086) for this test build!
 
 <section>
     <div class="container support-benefit__container">
