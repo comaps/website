@@ -1,7 +1,7 @@
 ---
 title: "How to use CoMaps: A beginner's guide in 2026"
 description:
-date: 2026-03-12T09:00:00-00:00
+date: 2026-08-09T09:00:00-00:00
 slug: "how-to-use-comaps-2026"
 taxonomies:
     category: ["Blog"]
