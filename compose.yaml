@@ -1,0 +1,9 @@
+services:
+  zola:
+    build:
+      context: .
+    volumes:
+      - "./:/srv:rw"
+    ports:
+      - "127.0.0.1:1111:1111"
+

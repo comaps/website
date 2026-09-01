@@ -10,9 +10,11 @@ This static [comaps.app](https://www.comaps.app/) website is built with [Zola](h
 
 ## Development
 
-- Download the latest zola for your operating system and set up the necessary path variable.
-
-- Run `zola serve` for a local preview or `zola build` to generate static site in the `public` folder.
+- To build the site, either:
+  - Download the latest zola for your operating system and set up the necessary path variable.
+  - Run `zola serve` for a local preview or `zola build` to generate static site in the `public` folder.
+- Or:
+  - Use the provided `compose.yaml` which uses Zola in a container, automatically mounts the local directory, and runs `zola serve`.
 
 - Run `npm i && npm run format` if you want to pretty-format the Markdown and SCSS files.
 
@@ -21,6 +23,10 @@ This static [comaps.app](https://www.comaps.app/) website is built with [Zola](h
 ### Content changes in `.md` files
 
 Only the **English** Markdown files should be edited directly. After changing text in a `.md` file, please run `./tools/i18n.sh` as described in [TRANSLATIONS.md](TRANSLATIONS.md) to propagate the english changes to all other languages.
+
+### Creating new posts
+
+New posts go in `/content/news`. There is a script at `tools/new-post.sh` to automatically create the correct directory structure and give you a template to edit.
 
 ### Creating redirects
 
