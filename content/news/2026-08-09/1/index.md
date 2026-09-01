@@ -90,7 +90,7 @@ You can't currently use the navigation feature without turning on your location 
 - Select somewhere on the map and tap `ROUTE TO`.
 - Select somewhere else on the map and tap `ROUTE FROM`.
 
-{{ image(src='route-from-location.avif' alt="The navigation starting options: routing from your current location." classes="max-w-40") }}
+{{ image(src='1-route-from-location.avif' alt="The navigation starting options: routing from your current location." classes="max-w-40") }}
 
 You won't be able to navigate this route in 2026, but here are some ways it could still be helpful:
 
