@@ -1,5 +1,9 @@
 @import "../variables/media";
 
+#volunteer-section {
+  scroll-margin-top: calc(var(--header-height) + 24rem);
+}
+
 .section-community {
   padding: 0;
   margin-bottom: 80px;
