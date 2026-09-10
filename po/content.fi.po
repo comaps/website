@@ -612,6 +612,12 @@ msgstr "Katso [data/copyright.html](https://codeberg.org/comaps/comaps/src/branc
 msgid "All"
 msgstr "Kaikki"
 
+#. type: Hash Value: banner_android
+#: translations.yaml
+#, no-wrap
+msgid "Android is becoming a closed down platform. Learn more!"
+msgstr ""
+
 #. type: Hash Value: button-download
 #: translations.yaml
 #, no-wrap

@@ -2,6 +2,7 @@
 
 
 .footer {
+    padding-bottom: 70px; // introduced for android banner
     background-color: var(--footer-bg);
     .container {display: flex; flex-direction: column;}
     &__description {

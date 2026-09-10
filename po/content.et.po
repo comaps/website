@@ -613,6 +613,12 @@ msgstr "CoMapsi rakendusega seotud autoriõiguste tervikliku loendi leiad meie l
 msgid "All"
 msgstr "Kõik"
 
+#. type: Hash Value: banner_android
+#: translations.yaml
+#, no-wrap
+msgid "Android is becoming a closed down platform. Learn more!"
+msgstr ""
+
 #. type: Hash Value: button-download
 #: translations.yaml
 #, no-wrap

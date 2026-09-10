@@ -1,0 +1,8 @@
+{% set langPathPrefix = '' %}
+{% if lang != config.default_language %}
+{% set langPathPrefix = '/' ~ lang %}
+{% endif %}
+
+<div class="banner-android">
+                <a href="https://keepandroidopen.org/{{lang}}">{{ trans(key='banner_android', lang=lang) }}</a>
+</div>

@@ -615,6 +615,12 @@ msgstr "CoMaps பயன்பாட்டிற்கான பதிப்ப�
 msgid "All"
 msgstr "அனைத்தும்"
 
+#. type: Hash Value: banner_android
+#: translations.yaml
+#, no-wrap
+msgid "Android is becoming a closed down platform. Learn more!"
+msgstr ""
+
 #. type: Hash Value: button-download
 #: translations.yaml
 #, no-wrap
