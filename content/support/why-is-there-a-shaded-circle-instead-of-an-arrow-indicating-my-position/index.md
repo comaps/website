@@ -2,7 +2,7 @@
 title: "Why is there a shaded circle instead of an arrow indicating my position?"
 description: "Frequently asked questions for CoMaps application"
 taxonomies:
-  support: ["GPS & Compass"]
+  supportcategory: ["GPS & Compass"]
 extra:
   tags: ["Android", "iPhone & iPad"]
   order: 40

@@ -1,8 +1,8 @@
 name: Create site preview
 
 env:
-  ZOLA_VERSION: 0.22.1
-  ZOLA_HASH: 0ca09aa40376aaa9ddfb512ff9ad963262ef95edb0d0f2d5ec6961b6f5cf22ef
+  ZOLA_VERSION: 0.23.5
+  ZOLA_HASH: f9b864c54fb8ef598ae34337d72a0e9f24e84a0b051657a7f231a3f2a3c02e34
   BASE_URL: https://${{ forgejo.event.repository.owner.username }}.preview.codeberg.page/${{ forgejo.event.repository.name }}@${{ forgejo.event.number }}
   COMMENT_URL: ${{ forgejo.event.repository.url }}/issues/${{ forgejo.event.number }}/comments
 

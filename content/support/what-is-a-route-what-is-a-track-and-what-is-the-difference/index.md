@@ -2,7 +2,7 @@
 title: "What is a route, what is a track, and what is the difference?"
 description: "Frequently asked questions for CoMaps application"
 taxonomies:
-  support: ["Favorites: Places & Tracks"]
+  supportcategory: ["Favorites: Places & Tracks"]
 extra:
   tags: ["Android", "iPhone & iPad"]
   order: 70

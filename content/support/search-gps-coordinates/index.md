@@ -2,7 +2,7 @@
 title: "Search GPS Coordinates"
 description: "Frequently asked questions for CoMaps application"
 taxonomies:
-  support: ["Search"]
+  supportcategory: ["Search"]
 extra:
   tags: ["Android", "iPhone & iPad"]
   order: 30

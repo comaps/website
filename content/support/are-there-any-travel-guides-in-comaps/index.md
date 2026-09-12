@@ -2,7 +2,7 @@
 title: "Are there any travel guides in CoMaps?"
 description: "Frequently asked questions for CoMaps application"
 taxonomies:
-  support: ["Favorites: Places & Tracks"]
+  supportcategory: ["Favorites: Places & Tracks"]
 extra:
   tags: ["Android", "iPhone & iPad"]
   order: 120

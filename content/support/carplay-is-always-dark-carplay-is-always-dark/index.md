@@ -2,7 +2,7 @@
 title: "CarPlay is always dark"
 description: "Frequently asked questions for CoMaps application"
 taxonomies:
-  support: ["Features"]
+  supportcategory: ["Features"]
 extra:
   tags: ["iPhone & iPad"]
   order: 10

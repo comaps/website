@@ -11,7 +11,7 @@ jobs:
     name: Publish to host
     container:
       env:
-        ZOLA_VERSION: 0.22.1
+        ZOLA_VERSION: 0.23.5
         SSHPASS: "${{secrets.SFTP_PASS}}"
         TMP_PATH: /home/dh_zzxxrk/website-upload-tmp
     steps:

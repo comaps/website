@@ -13,7 +13,7 @@ extra:
 
 CoMaps is an open-source navigation app that uses OpenStreetMap data as its map base. One of its key strengths is its ability to work entirely offline, either by downloading maps in advance or as you explore.
 
-{{ image(src="comaps-screenshot.png" classes="max-w-40" caption="Three screenshots show the different ways users can choose which maps to download.") }}
+{{ <image src="comaps-screenshot.png" classes="max-w-40" caption="Three screenshots show the different ways users can choose which maps to download."/> }}
 
 The app provides compressed and distilled packages of OpenStreetMap data, containing only the information needed for everyday navigation. This way, with just a few gigabytes, maps are always available offline and ready to be searched directly on the device.
 
@@ -114,11 +114,11 @@ Mem:         125.7G       39.4G        3.0G        1.9G       39.3G       40.3G
 
 This caused an immediate drop in disk usage, which fell from an average of 15 MB/s with peaks of 60 MB/s to a steady rate of about 5 MB/s with peaks of 10 MB/s (roughly one-third of the original), with the curve continuing to decline as the algorithm optimized the most frequently accessed files.
 
-{{ image(src="io-graph.png" classes="max-w-40" caption="A drop of 10MB/s in disk usage.") }}
+{{ <image src="io-graph.png" classes="max-w-40" caption="A drop of 10MB/s in disk usage."/> }}
 
 The beneficial effect of the additional RAM is even more evident in the I/O pressure graph, which shows the percentage of time "wasted" waiting for the disks to become available.
 
-{{ image(src="stall-graph.png" classes="max-w-40" caption="The drop in I/O pressure stall.") }}
+{{ <image src="stall-graph.png" classes="max-w-40" caption="The drop in I/O pressure stall."/> }}
 
 ## Who needs atime?
 

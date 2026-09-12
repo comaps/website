@@ -1,4 +1,4 @@
-FROM ghcr.io/getzola/zola:v0.22.1 AS zola
+FROM ghcr.io/getzola/zola:v0.23.5 AS zola
 
 WORKDIR /srv
 

@@ -1,4 +1,3 @@
-{% import "macros/macros.html" as macros %}
 {%- if page %}
 {%- set resource = page %}
 {%- set resource_title = resource.title %}
@@ -46,14 +45,16 @@
   <link rel="canonical" href="{{ config.base_url | safe }}{{ resource_path | safe }}">
 
   {%- set preview_image = 'images/sections/map-s-3.webp' -%}
+  {% if resource.extra %}
   {%- if resource.extra.preview_image -%}
   {%- set preview_image = resource.extra.preview_image -%}
   {%- elif resource.assets %}
   {%- set basename = resource.assets[0] | split(pat='/') | last %}
-  {%- if basename is ending_with('.jpg') or basename is ending_with('.jpeg') or basename is ending_with('.png') or basename is ending_with('.webp') %}
+  {%- if basename is ending_with(pat='.jpg') or basename is ending_with(pat='.jpeg') or basename is ending_with(pat='.png') or basename is ending_with(pat='.webp') %}
   {%- set preview_image = resource_path ~ basename -%}
+  {%- endif %}}
   {%- endif %}
-  {%- endif %}
+  {% endif %}
   <meta property="og:image" content="{{ get_url(path=preview_image) }}">
   <meta property="og:url" content="{{ current_url | safe }}">
   <meta property="og:type" content="website">
@@ -85,7 +86,7 @@
   <title>{{ resource_title }} | CoMaps</title>
 
   {%- if lang == config.default_language %}
-  {% include 'components/language_redirect.html' %}
+  {% include 'parts/language_redirect.html' %}
   {% endif -%}
 
   <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" /> -->

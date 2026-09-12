@@ -2,7 +2,7 @@
 title: "Does the app support tracking routes?"
 description: "Frequently asked questions for CoMaps application"
 taxonomies:
-  support: ["Favorites: Places & Tracks"]
+  supportcategory: ["Favorites: Places & Tracks"]
 extra:
   tags: ["Android", "iPhone & iPad"]
   order: 100

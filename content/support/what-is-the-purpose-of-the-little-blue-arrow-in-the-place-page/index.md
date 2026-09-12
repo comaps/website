@@ -2,13 +2,13 @@
 title: "What is the purpose of the little blue arrow in the place page?"
 description: "Frequently asked questions for CoMaps application"
 taxonomies:
-  support: ["Operating The Map"]
+  supportcategory: ["Operating The Map"]
 extra:
   tags: ["Android", "iPhone & iPad"]
   order: 150
 ---
 
-{{ image(src="image28.jpg" classes="max-w-50") }}
+{{ <image src="image28.jpg" classes="max-w-50"/> }}
 
 This arrow shows direction and straight-line distance from your location to the selected POI (Point Of Interest). Your location shall be enabled in order to see this blue arrow.
 

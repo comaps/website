@@ -2,7 +2,7 @@
 title: "How do I report a crash or bug?"
 description: "Frequently asked questions for CoMaps application"
 taxonomies:
-  support: ["Troubleshooting"]
+  supportcategory: ["Troubleshooting"]
 extra:
   tags: ["Android", "iPhone & iPad"]
   order: 60

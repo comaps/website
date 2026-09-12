@@ -1,3 +1,5 @@
+{% component table(classes) %}
 <div class="{{ classes }}">
     {{ body | markdown | safe }}
 </div>
+{% endcomponent table %}

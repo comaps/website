@@ -1,12 +1,12 @@
 {% extends 'base.html' %}
-{% import "macros/macros.html" as macros %}
 
 {% block meta_description %}
   <meta name="description" content="CoMaps - F.A.Q.">
 {% endblock %}
 
 {% block content %}
-{{ macros::showcase_inner(title=term.name, rss= "/category/" ~ term.slug~ "/rss.xml") }}
+{% set rss_feed = "/category/" ~ term.slug ~ "/rss.xml" %}
+{{ <showcase_inner title={term.name} rss={rss_feed}/> }}
 
 {# {{ config.title }} &middot; <a href="/tags">Tags</a> &middot; {{ term.name | capitalize }} #}
 <div class="container  main-news__nav">
@@ -20,7 +20,7 @@
 </div>
 <div class="container main-news__row">
     {% for page in paginator.pages | sort(attribute="date") | reverse %}
-        {{ macros::card_post(page=page) }}
+    {{ <card_post page={page} lang={lang}/> }}
     {% endfor %}
 </div>
 
@@ -41,7 +41,7 @@
   </ul> #}
 
 {% if paginator %}
-    {{ macros::pagination(base_url=term.permalink) }}
+{{ <pagination base_url={term.permalink} paginator={paginator}/> }}
 {% endif %}
 
 {% endblock %}

@@ -2,7 +2,7 @@
 title: "OSM Notes - I don't have time for editing"
 description: "Frequently asked questions for CoMaps application"
 taxonomies:
-  support: ["Map Editing"]
+  supportcategory: ["Map Editing"]
 extra:
   tags: ["Android", "iPhone & iPad"]
   order: 150

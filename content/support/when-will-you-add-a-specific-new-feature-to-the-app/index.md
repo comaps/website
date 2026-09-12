@@ -2,7 +2,7 @@
 title: "When will you add a specific new feature to the app?"
 description: "Frequently asked questions for CoMaps application"
 taxonomies:
-  support: ["Community Collaboration"]
+  supportcategory: ["Community Collaboration"]
 extra:
   tags: ["Android", "iPhone & iPad"]
   order: 40

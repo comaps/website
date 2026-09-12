@@ -13,7 +13,7 @@ feed_filenames = ["atom.xml", "rss.xml"]
 
 taxonomies = [
     # {name = "faq", feed = false},
-    {name = "support", feed = false},
+    {name = "supportcategory", feed = false, render = false},
     {name = "category", paginate_by = 50, feed = true},
     {name = "coverage_type", paginate_by = 50, feed = true},
 ]

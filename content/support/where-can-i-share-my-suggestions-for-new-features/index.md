@@ -2,7 +2,7 @@
 title: "Where can I share my suggestions for new features?"
 description: "Frequently asked questions for CoMaps application"
 taxonomies:
-  support: ["Community Collaboration"]
+  supportcategory: ["Community Collaboration"]
 extra:
   tags: ["Android", "iPhone & iPad"]
   order: 30

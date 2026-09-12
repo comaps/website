@@ -2,7 +2,7 @@
 title: "How do I enable logs and report bugs?"
 description: "Frequently asked questions for CoMaps application"
 taxonomies:
-  support: ["Troubleshooting"]
+  supportcategory: ["Troubleshooting"]
 extra:
   tags: ["Android"]
   order: 40

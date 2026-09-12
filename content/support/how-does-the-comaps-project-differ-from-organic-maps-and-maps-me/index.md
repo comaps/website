@@ -2,7 +2,7 @@
 title: "How does the CoMaps project differ from Organic Maps and Maps.Me?"
 description: "Frequently asked questions for CoMaps application"
 taxonomies:
-  support: ["About CoMaps"]
+  supportcategory: ["About CoMaps"]
 extra:
   tags: ["Android", "iPhone & iPad"]
   order: 40

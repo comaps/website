@@ -2,7 +2,7 @@
 title: "What does CoMaps do best?"
 description: "Frequently asked questions for CoMaps application"
 taxonomies:
-  support: ["About CoMaps"]
+  supportcategory: ["About CoMaps"]
 extra:
   tags: ["Android", "iPhone & iPad"]
   order: 10

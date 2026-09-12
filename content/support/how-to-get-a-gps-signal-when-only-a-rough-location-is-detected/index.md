@@ -2,7 +2,7 @@
 title: "How to get a GPS signal when only a rough location is detected?"
 description: "Frequently asked questions for CoMaps application"
 taxonomies:
-  support: ["GPS & Compass"]
+  supportcategory: ["GPS & Compass"]
 extra:
   tags: ["Android", "iPhone & iPad"]
   order: 10

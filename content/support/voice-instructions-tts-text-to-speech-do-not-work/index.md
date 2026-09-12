@@ -2,7 +2,7 @@
 title: "Voice instructions (TTS, Text-To-Speech) do not work"
 description: "Frequently asked questions for CoMaps application"
 taxonomies:
-  support: ["Text-To-Speech (TTS)"]
+  supportcategory: ["Text-To-Speech (TTS)"]
 extra:
   tags: ["Android", "iPhone & iPad"]
   order: 10

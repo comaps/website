@@ -1,0 +1,24 @@
+{% component pagination(base_url, paginator) %}
+{% if paginator.number_pagers > 1 %}
+    <div class="container pagination-holder">
+        <nav class="pagination">
+            <a class="previous{% if not paginator.previous %} disabled{% endif %}" href="{{ paginator.previous }}">
+                {{ load_data(path="static/images/icons/arrow.svg") | safe }}
+            </a>
+            {% if paginator.pages %}
+                {% for i in range(end = paginator.number_pagers, start = 0) %}
+                    <a class="{% if paginator.current_index == (i + 1) %}active{% endif %}" href="{{ base_url }}page/{{ i + 1 }}/">{{ i + 1 }}</a>
+                {% endfor %}
+            {% endif %}
+            <a class="next{% if not paginator.next %} disabled{% endif %}" href="{{ paginator.next }}">
+                {{ load_data(path="static/images/icons/arrow.svg") | safe }}
+            </a>
+        </nav>
+        {% if paginator.next %}
+            <a class="button--outlined next next-more" href="{{ paginator.next }}">
+                Show more
+            </a>
+        {% endif %}
+    </div>
+{% endif %}
+{% endcomponent pagination %}

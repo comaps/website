@@ -1,0 +1,47 @@
+{% component showcase_inner(title, desp="", donate=false, tax_section=false, tax_section_permalink="", rss="", lang='en') %}
+<svg class="hidden" viewBox="0 0 5 7" xmlns="http://www.w3.org/2000/svg">
+    <path id="sep" d="M4.18752 3.50002C4.18752 3.42809 4.16003 3.35609 4.10511 3.30117L1.29261 0.488674C1.18271 0.378775 1.00475 0.378775 0.894924 0.488674C0.785096 0.598572 0.785025 0.776533 0.894924 0.886361L3.50858 3.50002L0.894924 6.11367C0.785025 6.22357 0.785025 6.40153 0.894924 6.51136C1.00482 6.62119 1.18278 6.62126 1.29261 6.51136L4.10511 3.69886C4.16003 3.64395 4.18752 3.57195 4.18752 3.50002Z" />
+</svg>    
+<section class="showcase-inner">
+    <div class="container">
+        {# <div class="breadcrumb-container">
+            <a class="breadcrumb-path" href="/">Home</a>
+            {% if term %}
+                <span class="breadcrumb-separator"><svg viewBox="0 0 5 7"><use href="#sep"/></svg></span>
+                <a href="/{{ taxonomy.slug }}">{{ taxonomy.name | capitalize }}</a>
+                <span class="breadcrumb-separator"><svg viewBox="0 0 5 7"><use href="#sep"/></svg></span>
+                <span class="breadcrumb-path active">{{ term.name }}</span>
+            {% elif taxonomy %}
+                <span class="breadcrumb-separator"><svg viewBox="0 0 5 7"><use href="#sep"/></svg></span>
+                <span class="breadcrumb-path active">{{ taxonomy.name | capitalize }}</span>
+            {% else %}
+                {% set current = section | default(value=page) %}
+                {% for ancestor in current.ancestors %}
+                    {% if loop.first %}
+                        {% continue %}
+                    {% endif %}
+                    <span class="breadcrumb-separator"><svg viewBox="0 0 5 7"><use href="#sep"/></svg></span>
+                    {% set section = get_section(path=ancestor) %}
+                    <a class="breadcrumb-path" href="{{ section.permalink }}">{{ section.title }}</a>
+                {% endfor %}
+                {% if tax_section %}
+                    <span class="breadcrumb-separator"><svg viewBox="0 0 5 7"><use href="#sep"/></svg></span>
+                    <a class="breadcrumb-path" href="{{ tax_section_permalink }}">{{ title }}</a>
+                {% endif %}
+                <span class="breadcrumb-separator"><svg viewBox="0 0 5 7"><use href="#sep"/></svg></span>
+                <!-- <a class="breadcrumb-path active" href="{{ current.permalink }}">{{ current.title }}</a> -->
+                <span class="breadcrumb-path active">{{ current.title }}</span>
+            {% endif %}
+        </div> #}
+        <div class="si-header">
+            <h1 class="si-title">{{ title | safe }} {% if rss %} <a href='{{rss}}' class="news-rss">{{ load_data(path="static/images/icons/social/rss.svg") | safe }}</a> {% endif %} </h1>
+            {% if desp %}<div class="si-subtitle">{{ desp | markdown | safe }}</div>{% endif %}
+        </div>
+        {% if donate %}
+            <div class="si-action">
+                <a href="#donate" class="button button--main"> {{ trans(key='menu_donate', lang=lang) }}</a>
+            </div>
+        {% endif %}
+    </div>
+</section>
+{% endcomponent showcase_inner %}

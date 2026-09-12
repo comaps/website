@@ -9,7 +9,7 @@
                     {{ resource.description | markdown | safe }}
                 </div>
             {% endif %}
-            {{ macros::button_download(class="button--main") }}
+            {{ <button_download class="button--main" lang={lang} /> }}
         </div>
         <img class="hero__image" src="/images/sections/hero.webp" alt="{{ resource.title }}">
     </div>

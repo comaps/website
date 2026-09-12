@@ -1,10 +1,9 @@
 {% extends "base.html" %}
-{% import "macros/macros.html" as macros %}
 
 {%- block content %}
-{{ macros::showcase_inner(title=page.title) }}
+{{ <showcase_inner title={page.title}/> }}
 
-{% set categories = get_taxonomy_term(kind="category", term="Release") %}
+{% set categories = get_taxonomy_term(kind="category", term="Release", lang="en") %}
 
 <section class="section-device">
     <div class="container section-device__container">
@@ -116,8 +115,8 @@
     <div class="container ">
         <h2 class="section-device__release_title">{{page.extra.releases.title}}</h2>
         <div class="container main-news__row">
-            {% for i in categories.pages | slice(end=4)  %}
-                {{ macros::card_post(page=i) }}
+            {% for i in categories.pages[:4]  %}
+                {{ <card_post page={i} lang={lang}/> }}
             {% endfor %}
         </div>
     </div>

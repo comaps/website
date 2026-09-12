@@ -2,7 +2,7 @@
 title: "How can I edit the map in CoMaps?"
 description: "Frequently asked questions for CoMaps application"
 taxonomies:
-  support: ["Map Editing"]
+  supportcategory: ["Map Editing"]
 aliases:
   - support/editing-with-CoMaps
 extra:
@@ -24,8 +24,8 @@ As [OpenStreetMap(OSM)](https://wiki.openstreetmap.org/wiki/About_OpenStreetMap)
 		- Add additional information
 		- Save your changes and exit using the check arrow
 
-			{{ image(src="CoMaps-place_page.jpg" alt="Place Page" classes="max-w-20") }}
-			{{ image(src="CoMaps-editing_details.jpg" alt="Editing menu" classes="max-w-20") }}
+			{{ <image src="CoMaps-place_page.jpg" alt="Place Page" classes="max-w-20"/> }}
+			{{ <image src="CoMaps-editing_details.jpg" alt="Editing menu" classes="max-w-20"/> }}
 
 	- Add a place to the map
 		- burger icon -> *Add a place to the OpenStreetMap*
@@ -34,9 +34,9 @@ As [OpenStreetMap(OSM)](https://wiki.openstreetmap.org/wiki/About_OpenStreetMap)
 		- Add additional information like the name, opening hours, and website
 		- Save your changes and exit using the check arrow
 
-			{{ image(src="CoMaps-burger_menu.jpg" alt="Burger menu" classes="max-w-20") }}
-			{{ image(src="CoMaps-select_location.jpg" alt="Location selection" classes="max-w-20") }}
-			{{ image(src="CoMaps-select_category.jpg" alt="Category selection" classes="max-w-20") }}
-			{{ image(src="CoMaps-new_POI_on_map.jpg" alt="New POI is shown on the map" classes="max-w-20") }}
+			{{ <image src="CoMaps-burger_menu.jpg" alt="Burger menu" classes="max-w-20"/> }}
+			{{ <image src="CoMaps-select_location.jpg" alt="Location selection" classes="max-w-20"/> }}
+			{{ <image src="CoMaps-select_category.jpg" alt="Category selection" classes="max-w-20"/> }}
+			{{ <image src="CoMaps-new_POI_on_map.jpg" alt="New POI is shown on the map" classes="max-w-20"/> }}
 
 Note that the editor is designed as a simple POI editor and, therefore, limited to POIs. You can, e.g., not add roads, lakes, building outlines, etc. Moreover moving places to a new location is not possible. If you can't edit something with CoMaps, take a look at the [More advanced map editing](@/support/advanced-map-editing/index.md) page.

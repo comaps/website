@@ -1,5 +1,4 @@
 {% extends 'base.html' %}
-{% import "macros/macros.html" as macros %}
 
 {% block content %}
 {% if page.taxonomies and page.taxonomies.faq %}{# Show FAQ breadcrumbs #}
@@ -56,9 +55,10 @@
 
 {% if 'support' in page.taxonomies %}
     {% set page_support = get_section(path='support/_index.md') %}
-    {{ macros::showcase_inner(title=page_support.title, tax_section=true, tax_section_permalink=page_support.permalink) }}
+    {{ <showcase_inner title={page_support.title} tax_section={true} tax_section_permalink={page_support.permalink}/> }}
 {% else %}
-    {{ macros::showcase_inner(title=page.title, desp=page.description) }}
+    {% if page.description %} {% set desc = page.description %} {% else %} {% set desc= "" %} {% endif %}
+    {{ <showcase_inner title={page.title} desp={desc}/> }}
 {% endif %}
 <div class="container page-content{% if 'support' in page.taxonomies %} page-support-single{% endif %}">
     {% if 'support' in page.taxonomies %}
@@ -86,7 +86,7 @@
         </div>
 
         {% set tax_terms = get_taxonomy(kind="support") %}
-        {{ macros::search(list=tax_terms.items) }}
+        {{ <search list={tax_terms.items}/> }}
     {% endif %}
     {{ page.content | safe }}
 </div>

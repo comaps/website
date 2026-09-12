@@ -2,7 +2,7 @@
 title: "TTS Configuration Guide for Android"
 description: "Frequently asked questions for CoMaps application"
 taxonomies:
-  support: ["Text-To-Speech (TTS)"]
+  supportcategory: ["Text-To-Speech (TTS)"]
 extra:
   tags: ["Android"]
   order: 30

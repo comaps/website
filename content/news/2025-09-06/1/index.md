@@ -33,7 +33,7 @@ The main goals of this fork are to develop a community-driven, not-for-profit op
 
 Intrigued, I installed the first test release, created a [Codeberg](https://codeberg.org/) account, and joined the discussion. I was welcomed warmly by the highly motivated contributors, and I immediately appreciated the commitment to involve the community in all meaningful decisions. Only days after my first encounter, I was able to participate in the voting process to determine the main color scheme for the app. That was fun and felt meaningful. 
 
-{{ image(src="colors.jpg" classes="max-w-40") }}
+{{ <image src="colors.jpg" classes="max-w-40"/> }}
 
 Over the next weeks, I created my first issues for improvements, bugs, and feature requests in the main CoMaps-Repo and enjoyed the constructive discussion that evolved around them - how cool is that? I can get involved in the development of an app by providing feedback? That's pretty neat.
 
@@ -52,9 +52,9 @@ I will structure the design process into sections and share personal insights fo
 
 The first thing I did (after looking through the already posted ideas) was to rip out a sheet of paper from a notebook and scribble down my very first, truly rough concepts. I was just brainstorming ideas that played with the letters "C" and "M" from "CoMaps" and with symbols that I associated with the theme of "Maps" and "Navigation". 
 
-{{ image(src="Napkin-Scribbles.jpg" classes="max-w-40") }}
+{{ <image src="Napkin-Scribbles.jpg" classes="max-w-40"/> }}
 
-{{ image(src="Affinity-MockUps.png" classes="max-w-40") }}
+{{ <image src="Affinity-MockUps.png" classes="max-w-40"/> }}
 
 *My first sketches & drafts for the CoMaps-Logo - not pretty, but a solid start to get thinking*
 
@@ -67,7 +67,7 @@ The feedback I received on those early drafts led to more drafts exploring diffe
 
 In my mind, a "good" logo should somehow communicate those values, while staying simple, easy to read and recognize, and without relying (too much) on colours so that it can easily be used in many circumstances (e.g., monochrome without a background). So these became my personal "guiding principles" from now on, which resulted in a ton of new concepts. Can you tell that I spend a lot of my evenings on this? 
 
-{{ image(src="image-2-1.png" classes="max-w-40") }}
+{{ <image src="image-2-1.png" classes="max-w-40"/> }}
 
 Based on additional community feedback, I continued to experiment and add drafts to the discussion. At this "early" stage of finding a design, my philosophy has always been to "get ideas out" so that they can be talked about - it does not matter if they are "good" or pretty - as long as they are created, people will have opinions on them which they wouldn't if the concept did not exist. I find that this approach leads to more insights as it quickly irons out what resonates and what does not.
 
@@ -75,7 +75,7 @@ All of this happened [in this issue on Codeberg](https://codeberg.org/comaps/Gov
 
 In the end, the maintainers of the project organised a first community voting round (June 7, 2025) to narrow down the options to the most popular ones, for which I submitted the following designs:
 
-{{ image(src="submitted-images.png" classes="max-w-40") }}
+{{ <image src="submitted-images.png" classes="max-w-40"/> }}
 
 And it turned out, four of my propositions were chosen to advance to the next stage among some lovely ideas from other contributors! Which leads us to the next stage...
 

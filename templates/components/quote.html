@@ -1,4 +1,6 @@
+{% component quote(author, url="", date="",work="") %}
 <div class="blockquote-container">
 <blockquote{% if url %} cite="{{ url | safe }}"{% endif %}>{{ body }}</blockquote>
 <p>&mdash; {{ author }}{% if work %}, {% if url %}<a href="{{ url | safe}}">{% endif %}<cite>{{ work }}</cite>{% if url %}</a>{% endif %}{% endif %}{% if date %}, <span class="quote-date">{{ date }}</span>{% endif %}</p>
 </div>
+{% endcomponent quote %}

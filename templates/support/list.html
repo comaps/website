@@ -1,12 +1,11 @@
 {% extends 'base.html' %}
-{% import "macros/macros.html" as macros %}
 
 {% block meta_description %}
     <meta name="description" content="{{ trans(key='faq_content', lang=lang) }}">
 {% endblock %}
 
 {% block content %}
-{{ macros::showcase_inner(title=taxonomy.name | capitalize) }}
+{{ <showcase_inner title={taxonomy.name | capitalize}/> }}
 
 <section class="support-search">
     <div class="container">
@@ -47,7 +46,7 @@
             </div>
         {%- endfor -%}
 
-        {{ macros::search(list=terms) }}
+        {{ <search list={terms}/> }}
     </div>
 </section>
 

@@ -2,7 +2,7 @@
 title: "How to maximize the map (Hide the UI - User Interface)?"
 description: "Frequently asked questions for CoMaps application"
 taxonomies:
-  support: ["Operating The Map"]
+  supportcategory: ["Operating The Map"]
 extra:
   tags: ["Android", "iPhone & iPad"]
   order: 70

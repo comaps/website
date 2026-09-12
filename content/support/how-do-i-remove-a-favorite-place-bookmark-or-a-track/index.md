@@ -2,7 +2,7 @@
 title: "How do I remove a Favorite Place (bookmark) or a Track?"
 description: "Frequently asked questions for CoMaps application"
 taxonomies:
-  support: ["Favorites: Places & Tracks"]
+  supportcategory: ["Favorites: Places & Tracks"]
 extra:
   tags: ["Android", "iPhone & iPad"]
   order: 20
@@ -14,4 +14,4 @@ You can remove a bookmark or a track by opening the “Bookmark & tracks” list
 
 Additionally, to delete a bookmark you can also select it on the map and click on the “Delete” button of the place information panel:
 
-{{ image(src="image12.png" classes="max-w-50") }}
+{{ <image src="image12.png" classes="max-w-50"/> }}

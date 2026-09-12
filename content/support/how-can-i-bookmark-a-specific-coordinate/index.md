@@ -2,7 +2,7 @@
 title: "How can I bookmark a specific coordinate?"
 description: "Frequently asked questions for CoMaps application"
 taxonomies:
-  support: ["Operating The Map"]
+  supportcategory: ["Operating The Map"]
 extra:
   tags: ["Android", "iPhone & iPad"]
   order: 60

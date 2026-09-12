@@ -35,7 +35,7 @@ At the time of writing, this setting can be found in Settings > External
 Integrations > Navigation. Enabling it will enable it for all supported
 connected devices.
 
-{{ image(src="02-infinitime.jpg" classes="max-w-50" caption="The navigation app running on InfiniTime, with instructions from CoMaps") }}
+{{ <image src="02-infinitime.jpg" classes="max-w-50" caption="The navigation app running on InfiniTime, with instructions from CoMaps"/> }}
 
 ## OpenVitals
 
@@ -51,7 +51,7 @@ At the time of writing, you can find it under Settings > Activities > Comaps
 navigation guidance. Enabling it will give you the ability to show the route set in 
 CoMaps over your live activity. 
 
-{{ image(src="03-openvitals.png" classes="max-w-40" caption="CoMaps guidance within OpenVitals") }}
+{{ <image src="03-openvitals.png" classes="max-w-40" caption="CoMaps guidance within OpenVitals"/> }}
 
 ## Private by default
 

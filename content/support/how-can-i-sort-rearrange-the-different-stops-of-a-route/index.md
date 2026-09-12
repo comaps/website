@@ -2,7 +2,7 @@
 title: "How can I sort/rearrange the different stops of a route?"
 description: "Frequently asked questions for CoMaps application"
 taxonomies:
-  support: ["Route Planning & Navigation"]
+  supportcategory: ["Route Planning & Navigation"]
 extra:
   tags: ["Android", "iPhone & iPad"]
   order: 50

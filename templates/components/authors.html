@@ -1,0 +1,8 @@
+{% component author_with_username(page, name) %}
+{% if page.extra.authors_codeberg and page.extra.authors_codeberg is containing(pat=name) %}<a href="https://codeberg.org/{{ page.extra.authors_codeberg[name] }}">{{ name }}</a>{% else %}{{ name }}{% endif %}
+{% endcomponent author_with_username %}
+
+{% component authors(page) %}
+{% set authors = [<author_with_username page={page} name={author} /> | trim for author in page.authors] %}
+<span class="p-sm post-min__date-title">{{ authors | join(sep=", ") | safe }}</span>
+{% endcomponent authors %}

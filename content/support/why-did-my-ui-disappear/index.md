@@ -2,7 +2,7 @@
 title: "Why did my UI disappear?"
 description: "Frequently asked questions for CoMaps application"
 taxonomies:
-  support: ["Operating The Map"]
+  supportcategory: ["Operating The Map"]
 extra:
   tags: ["Android", "iPhone & iPad"]
   order: 30
@@ -15,5 +15,5 @@ If you have accidentally entered this mode, you can turn on the UI elements agai
 i.e. by keeping the map pressed for a bit.
 
 
-{{ image(src="hidden-ui.png" classes="max-w-40") }} 
-{{ image(src="revealed-ui.png" classes="max-w-40") }} 
+{{ <image src="hidden-ui.png" classes="max-w-40"/> }} 
+{{ <image src="revealed-ui.png" classes="max-w-40"/> }} 

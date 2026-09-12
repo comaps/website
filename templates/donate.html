@@ -1,8 +1,7 @@
 {% extends "base.html" %}
-{% import "macros/macros.html" as macros %}
 
 {%- block content %}
-{{ macros::showcase_inner(title=page.title, desp=page.description, donate=true) }}
+{{ <showcase_inner title={page.title} desp={page.description} donate={true} lang={lang} /> }}
 
 <section class="support-benefit">
     <div class="container support-benefit__container">

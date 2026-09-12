@@ -2,7 +2,7 @@
 title: "What is the difference between the different Android download sources?"
 description: "Frequently asked questions for CoMaps application"
 taxonomies:
-  support: ["App"]
+  supportcategory: ["App"]
 extra:
   tags: ["Android"]
   order: 30

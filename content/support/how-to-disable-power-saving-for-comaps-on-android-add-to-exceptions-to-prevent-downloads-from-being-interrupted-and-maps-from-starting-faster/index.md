@@ -2,7 +2,7 @@
 title: "How to disable Power Saving for CoMaps on Android (add to exceptions) to prevent downloads from being interrupted and maps from starting faster?"
 description: "Frequently asked questions for CoMaps application"
 taxonomies:
-  support: ["Features"]
+  supportcategory: ["Features"]
 extra:
   tags: ["Android", "iPhone & iPad"]
   order: 40

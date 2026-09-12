@@ -2,7 +2,7 @@
 title: "Deleting the app deletes ALL markers and tracks!"
 description: "Frequently asked questions for CoMaps application"
 taxonomies:
-  support: ["Features"]
+  supportcategory: ["Features"]
 extra:
   tags: ["Android", "iPhone & iPad"]
   order: 50

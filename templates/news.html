@@ -1,5 +1,4 @@
 {% extends 'base.html' %}
-{% import "macros/macros.html" as macros %}
 
 {% block meta %}
 {# TODO: For translated pages the following code generates: Function call 'get_section' failed, Section `` not found  #}
@@ -11,12 +10,13 @@
 {% endblock meta %}
 
 {% block content %}
-{{ macros::showcase_inner(title=resource.title, desp=resource.description, rss='/rss.xml') }}
+{% if resource.description %} {% set desc = resource.description %} {% else %} {% set desc= "" %} {% endif %}
+{{ <showcase_inner title={resource.title} desp={desc} rss='/rss.xml'/> }}
 
 <div class="container  main-news__nav">
     <div class="main-news__nav-row">
         <a class="button button--main" href="/news/">All</a>
-        {% set categories = get_taxonomy(kind="category") %}
+        {% set categories = get_taxonomy(kind="category",lang='en') %}
         {% for term in categories.items %}
             <a class="button button--line" href="{{ term.permalink }}">{{ term.name }}</a>
         {% endfor %}
@@ -24,7 +24,7 @@
 </div>
 <div class="container main-news__row">
     {# Iterate and use en sections by default and use localized versions only if they are present #}
-    {% set enNewsSectionTranslation = section.translations | filter(attribute='lang', value='en') | first %}
+    {% set enNewsSectionTranslation = section.translations | group_by(attribute='lang') | get(key="en") | first %}
     {% set enNewsSection = get_section(path=enNewsSectionTranslation.path) %}
 
     {# {% for sectionStr in enNewsSection.subsections | sort | reverse %}
@@ -36,7 +36,7 @@
                 {# set page = get_page(path=translatedPage.path) #}
             {# {% endif %}
 
-            {{ macros::card_post(page=page) }}
+            {{ <card_post page={page}/> }}
 
         {% endfor %}
     {% endfor %} #}
@@ -47,11 +47,11 @@
         {% set pages = section.pages %}
     {% endif %}
     {% for page in pages %}
-        {{ macros::card_post(page=page) }}
+    {{ <card_post page={page} lang={lang}/> }}
     {% endfor %}
 </div>
 {% if paginator %}
-    {{ macros::pagination(base_url=section.permalink) }}
+{{ <pagination base_url={section.permalink} paginator={paginator}/> }}
 {% endif %}
 
 {% include 'section/donate.html' %}

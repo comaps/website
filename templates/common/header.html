@@ -34,7 +34,7 @@
                 <a href="{{ get_url(path="about-us/", lang=lang) }}">{{ trans(key='menu_about_us', lang=lang) }}</a>
             </li>
              <div class="footer__lang">
-                {% include 'components/language_selector.html' %}
+                {% include 'parts/language_selector.html' %}
             </div>
 
         </ul>
@@ -96,7 +96,7 @@
     </div>
 
     <div class="header__btn">
-        {{ macros::button_download() }}
+        {{ <button_download lang={lang} /> }}
     </div>
     <div class="header__menu-btn">
         <div class="header__close-line"></div>

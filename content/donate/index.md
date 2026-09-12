@@ -5,7 +5,6 @@ template: donate.html
 weight: 10
 extra:
   service_title: Created with love by enthusiast volunteers
-  service_text:
   hero_description: Donate and create better maps together!
   info:
     - icon: static/images/icons/donate/icon01.svg

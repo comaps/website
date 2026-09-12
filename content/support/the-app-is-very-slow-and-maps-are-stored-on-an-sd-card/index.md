@@ -2,7 +2,7 @@
 title: "The app is very slow, and maps are stored on an SD card"
 description: "Frequently asked questions for CoMaps application"
 taxonomies:
-  support: ["Troubleshooting"]
+  supportcategory: ["Troubleshooting"]
 extra:
   tags: ["Android", "iPhone & iPad"]
   order: 20

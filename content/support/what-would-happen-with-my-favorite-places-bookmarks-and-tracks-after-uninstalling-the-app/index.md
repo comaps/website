@@ -2,7 +2,7 @@
 title: "What would happen with my Favorite Places (bookmarks) and tracks after uninstalling the app?"
 description: "Frequently asked questions for CoMaps application"
 taxonomies:
-  support: ["Favorites: Places & Tracks"]
+  supportcategory: ["Favorites: Places & Tracks"]
 extra:
   tags: ["Android", "iPhone & iPad"]
   order: 130

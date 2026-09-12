@@ -2,7 +2,7 @@
 title: "Who verifies or moderates the map edit changes?"
 description: "Frequently asked questions for CoMaps application"
 taxonomies:
-  support: ["Map Editing"]
+  supportcategory: ["Map Editing"]
 extra:
   tags: ["Android", "iPhone & iPad"]
   order: 300

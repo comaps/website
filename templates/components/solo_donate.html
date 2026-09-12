@@ -1,0 +1,18 @@
+{% component solo_donate(text,lang='en') %}
+<section class="section-donate">
+    <div class="container">
+        <div class="box-solo-donate">
+            <div class="sd-title">
+                {{ load_data(path="static/images/community/icons/heart.svg") | safe }}
+                <h2 class="sd-title-text">
+                    {{ trans(key='menu_donate', lang=lang) }}
+                </h2>
+            </div>
+            <div class="sd-text">
+                <div class="sd-desp">{{ text }}</div>
+                {% include 'parts/donate-button.html' %}
+            </div>
+        </div>
+    </div>
+</section>
+{% endcomponent solo_donate %}

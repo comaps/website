@@ -2,7 +2,7 @@
 title: "How do I start contributing?"
 description: "Frequently asked questions for CoMaps application"
 taxonomies:
-  support: ["Community Collaboration"]
+  supportcategory: ["Community Collaboration"]
 extra:
   tags: ["Android", "iPhone & iPad"]
   order: 30

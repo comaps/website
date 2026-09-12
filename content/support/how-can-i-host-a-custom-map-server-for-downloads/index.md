@@ -2,7 +2,7 @@
 title: "How can I host a custom map server for downloads?"
 description: "Frequently asked questions for CoMaps application"
 taxonomies:
-  support: ["Map Data"]
+  supportcategory: ["Map Data"]
 extra:
   tags: ["Android"]
   order: 65

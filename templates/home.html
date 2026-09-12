@@ -1,5 +1,4 @@
 {% extends 'base.html' %}
-{% import "macros/macros.html" as macros %}
 
 {% block content %}
 
@@ -62,7 +61,7 @@
         <p class="p single-section__description">
           {{ section.extra.freedom.description | safe }}
         </p>
-        {{ macros::button_download() }}
+        {{ <button_download/> }}
       </div>
       <div class="single-section__card">
         <img alt="img" class="single-section__img animation-item" src="/images/sections/singl-card-1.webp">

@@ -2,7 +2,7 @@
 title: "Why does the map rotate around my position?"
 description: "Frequently asked questions for CoMaps application"
 taxonomies:
-  support: ["GPS & Compass"]
+  supportcategory: ["GPS & Compass"]
 extra:
   tags: ["Android", "iPhone & iPad"]
   order: 20

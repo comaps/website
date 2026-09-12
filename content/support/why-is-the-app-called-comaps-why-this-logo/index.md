@@ -2,7 +2,7 @@
 title: "Why is the app called CoMaps? Why this logo?"
 description: "Frequently asked questions for CoMaps application"
 taxonomies:
-  support: ["About CoMaps"]
+  supportcategory: ["About CoMaps"]
 extra:
   tags: ["Android", "iPhone & iPad"]
   order: 90

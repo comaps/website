@@ -2,7 +2,7 @@
 title: "How do I buy or download guides?"
 description: "Frequently asked questions for CoMaps application"
 taxonomies:
-  support: ["Features"]
+  supportcategory: ["Features"]
 extra:
   tags: ["Android", "iPhone & iPad"]
   order: 60

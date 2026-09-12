@@ -4,7 +4,10 @@
 // there were no previous redirects or explicit language selections before (see language_seletor.html)
 if (null === window.localStorage.getItem('lang')) {
   // ["en", "ru", ...]
-    var pageTranslations = {{ resource | get(key="translations", default=[]) | map(attribute="lang") | sort | json_encode() | safe }};
+    {# IXVG was this below var pageTranslations = {{ resource | get(key="translations", default=[]) | map(attribute="lang") | sort | json_encode() | safe }}; #}
+  {% set languages = resource | get(key="translations", default=[]) %}
+  {% set lan_shortcodes = [ l['lang'] for l in languages] %}
+  var pageTranslations = {{ lan_shortcodes | json_encode() | safe }};
   var userPreferredLanguages = navigator.languages ? navigator.languages : [navigator.language];
   var candidateLanguages = [];
   outerLoop:

@@ -44,7 +44,7 @@ Beyond looking at OSM data, _CoMaps_ also has a (simple) OSM editor, that allows
 And as _CoMaps_ is an _offline-first_ app, it works well offline too:
 It will queue your edits & notes and keep them safe until you're back online, at which point the data is sent over to OSM.
 
-{{ image(src="2025-11-21-comaps.jpeg" classes="max-w-40") }}
+{{ <image src="2025-11-21-comaps.jpeg" classes="max-w-40"/> }}
 
 While this approach works well for many common POI, _CoMaps_ is by design limited to more common objects, to keep things simple.
 To be a bit more flexible, I also wanted to use _Every Door_, which is a more powerful OSM editor designed specifically for surveying.
@@ -57,7 +57,7 @@ The vector tiles are significantly smaller, so it's more feasible to have them a
 Secondly, the 7.x version of _Every Door_ also allows managing its offline-available data.
 One can now select areas for which both the OSM data itself and the raster/vector tiles (or even satellite images) should be stored offline. 
 
-{{ image(src="2025-11-21-everydoor.jpeg" classes="max-w-40") }}
+{{ <image src="2025-11-21-everydoor.jpeg" classes="max-w-40"/> }}
 
 Once downloaded, the background layer and OSM data are persistently stored, allowing browsing the corresponding regions in _Every Door_ without any connectivity.
 Unlike _CoMaps_, _Every Door_ does not automatically push changes back to OSM, instead it requires actively pressing the _Upload_-button.

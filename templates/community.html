@@ -1,8 +1,7 @@
 {% extends "base.html" %}
-{% import "macros/macros.html" as macros %}
 
 {%- block content %}
-{{ macros::showcase_inner(title=page.title, desp=page.description) }}
+{{ <showcase_inner title={page.title} desp={page.description}/> }}
 <section class="section-social">
     <h2 class="box-social__title">
         {{ trans(key='social_title', lang=lang) }}
@@ -33,6 +32,6 @@
     </div>
 </section>
 
-{{ macros::solo_donate(text=trans(key='donate-description', lang=lang)) }}
+{{ <solo_donate text={trans(key='donate-description', lang=lang)} lang={lang}/> }}
 {%- endblock content %}
 

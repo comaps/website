@@ -2,7 +2,7 @@
 title: "What happened to traffic data? Hotels from booking.com? Will they return?"
 description: "Frequently asked questions for CoMaps application"
 taxonomies:
-  support: ["Map Data"]
+  supportcategory: ["Map Data"]
 extra:
   tags: ["Android", "iPhone & iPad"]
   order: 100

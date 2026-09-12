@@ -2,7 +2,7 @@
 title: "How can I support the project?"
 description: "Frequently asked questions for CoMaps application"
 taxonomies:
-  support: ["About CoMaps"]
+  supportcategory: ["About CoMaps"]
 extra:
   tags: ["Android", "iPhone & iPad"]
   order: 80
@@ -10,7 +10,7 @@ extra:
 
 You can support by contributing to the project [Community](https://www.comaps.app/community) and by donating [Donate](https://www.comaps.app/donate)
 
-A few example of support:
+A few example of supportcategory:
 
 - report bugs
 - submit pull requests

@@ -2,7 +2,7 @@
 title: "Can I store the maps on an SD card?"
 description: "Frequently asked questions for CoMaps application"
 taxonomies:
-  support: ["Map Data"]
+  supportcategory: ["Map Data"]
 extra:
   tags: ["Android"]
   order: 40

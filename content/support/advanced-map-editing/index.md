@@ -2,7 +2,7 @@
 title: "How can I do more advanced map editing?"
 description: "Frequently asked questions for CoMaps application"
 taxonomies:
-  support: ["Map Editing"]
+  supportcategory: ["Map Editing"]
 extra:
   tags: ["Android", "iPhone & iPad"]
   order: 100
