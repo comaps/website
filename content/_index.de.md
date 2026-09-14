@@ -28,7 +28,7 @@ extra:
         media:
           map: /images/sections/map-s-5.webp
           user: /images/sections/map-m-5.webp
-        title: 'Wandere mit den Informationen die du brauchst'
+        title: 'Wandere mit den Informationen, die du brauchst'
       - 
         description: 'Effiziente Akkunutzung – verbraucht weniger Energie als andere Navigationsapps.'
         highlight:
@@ -39,14 +39,14 @@ extra:
           user: /images/sections/map-m-3.webp
         title: 'Schone deinen Akku'
       - 
-        description: 'Benutze die Öffentlicher Nahverkehr-Ansicht um deine Trips mit U- und S-Bahn in einer steigenden Anzahl an Städten zu planen.'
+        description: 'Benutze die Öffentliche-Verkehrsmittel-Ansicht, um deine Reise mit U- und S-Bahn in einer wachsenden Anzahl an Städten zu planen.'
         highlight:
           icon: static/images/icons/home/train-m.svg
           text: 'Entdecke die Stadt'
         media:
           map: /images/sections/map-s-6.webp
           user: /images/sections/map-m-6.webp
-        title: 'Finde deinen Weg in der Stadt'
+        title: 'Finde deinen Weg in der Stadt von A nach B'
       - 
         description: 'Die App wurde unter Berücksichtigung des Datenschutzes entwickelt - sie identifiziert keine Personen, verfolgt dich nicht und sammelt keine Daten. CoMaps wurde außerdem von <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-exodus"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/de/reports/app.comaps.google/latest/), einem Datenschutzprüfer begutachtet.'
         highlight:

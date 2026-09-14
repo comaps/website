@@ -12,14 +12,14 @@ extra:
   services:
     items:
       - 
-        description: 'Plan and navigate your trip abroad with just GPS, no need for mobile data. Search waypoints while on remote hiking trails or bike paths. Navigate with turn-by-turn instructions by foot, bike or car, including voice announcements.'
+        description: 'Planeje e navegue em sua viagem ao exterior apenas com GPS, sem necessidade de dados móveis. Busque pontos de referência em trilhas remotas caminhando ou em bicicleta. Navegue com instruções passo a passo a pé, de bicicleta ou de carro, incluindo anúncios de voz.'
         highlight:
           icon: static/images/icons/home/wifi-off.svg
           text: 'Não precisa de internet'
         media:
           map: /images/sections/map-s-1.webp
           user: /images/sections/map-m-1.webp
-        title: 'Offline Search and Routing'
+        title: 'Busca e Roteamento Offline'
       - 
         description: 'Use o modo Ar Livre para destacar trilhas, acampamentos e fontes de água. Ative as curvas de nível para planejar sua viagem. Avistou um pico interessante pelo caminho? Use os artigos offline da *Wikipédia* para saber mais sobre ele!'
         highlight:
@@ -48,7 +48,7 @@ extra:
           user: /images/sections/map-m-6.webp
         title: 'Mova-se pela Cidade'
       - 
-        description: 'The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information. CoMaps was also audited by <span class="text-icon"><svg viewbox="0 0 19 19"><use href="#icon-exodus"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/), a privacy auditor.'
+        description: 'O aplicativo foi projetado com foco na privacidade: não identifica pessoas, não rastreia você e não coleta nenhuma informação. O CoMaps também foi auditado por <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-exodus"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/), um auditor de privacidade.'
         highlight:
           icon: static/images/icons/home/shield.svg
           text: 'Privacidade por padrão'

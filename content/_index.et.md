@@ -1,5 +1,5 @@
 ---
-description: 'Võimalus leida oma teedel enamat - Ja see kõik kogukonna toel'
+description: 'Võimalus leida oma teedel enamat - ja see kõik toimeka kogukonna toel'
 extra:
   freedom:
     description: 'Leia oma tee ning liigu maailmas nii, et privaatsus ja kogukond on alati arvesse võetud.'
@@ -7,12 +7,12 @@ extra:
   map:
     description: 'Kogukond + Avatud kaardid'
   preinstalls:
-    description: 'CoMaps comes preinstalled on these operating systems as their default map app.'
-    title: 'Trusted by these projects'
+    description: 'CoMaps on nendes operatsioonisüsteemides saadaval eelpaigaldatud kaardirakendusena.'
+    title: 'Need projektid usaldavad meid'
   services:
     items:
       - 
-        description: 'Kavanda oma reisimist välismaal vaid GPS-iga, ilma mobiilset andmesidet kasutamata. Näita teed ja otsi teekonnapunkte liikvel olles, seda kasvõi ratta- ja matkaradadel.'
+        description: 'Kavanda oma reisimist välismaal vaid GPS-iga, ilma mobiilset andmesidet kasutamata. Näita teed ja otsi teekonnapunkte liikvel olles, seda kasvõi ratta- ja matkaradadel. Kasuta sammhaaval tee juhatamist jalutamisel, ratta- või autosõidul, seda ka hääljuhistena.'
         highlight:
           icon: static/images/icons/home/wifi-off.svg
           text: 'Internetiühendus pole vajalik'
@@ -21,14 +21,14 @@ extra:
           user: /images/sections/map-m-1.webp
         title: 'Otsing ja teekonna koostamine vallasrežiimis'
       - 
-        description: 'See rakendus on loodud privaatsuskesksena - ta ei tuvasta kasutajaid, ei jälgi nende tegevust ega kogu nende kohata andmeid. CoMaps on selles osas ka analüüsitud <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-exodus"></use></svg> [Exoduse](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/) poolt.'
+        description: 'Kasuta välirežiimi, et leida matkaradu, telkimispaiku ja veeallikaid. Lülita sisse samakõrgusjooned, et oma reisi planeerida. Leidsid teel huvitava mäetipu? Kasuta *Wikipedia* artikleid võrguühenduseta, et selle kohta rohkem teada saada!'
         highlight:
-          icon: static/images/icons/home/shield.svg
-          text: 'Vaikimisi privaatne'
+          icon: static/images/icons/home/mappin-small.svg
+          text: 'Uuri loodust'
         media:
-          map: /images/sections/map-s-2.webp
-          user: /images/sections/map-m-2.webp
-        title: 'Pole andmekogumist'
+          map: /images/sections/map-s-5.webp
+          user: /images/sections/map-m-5.webp
+        title: 'Matka nii, et kogu vajalik teave on sul kaasas'
       - 
         description: 'Erinevalt teistest sarnastest rakendustest kasutab CoMaps akut säästlikult.'
         highlight:
@@ -38,6 +38,33 @@ extra:
           map: /images/sections/map-s-3.webp
           user: /images/sections/map-m-3.webp
         title: 'Säästa nutiseadme akut'
+      - 
+        description: 'Kasuta ühistranspordi andmekihti ja kavanda oma metroo- ja linnalähirongide sõite aina suuremas arvus linnades.'
+        highlight:
+          icon: static/images/icons/home/train-m.svg
+          text: 'Uuri linna'
+        media:
+          map: /images/sections/map-s-6.webp
+          user: /images/sections/map-m-6.webp
+        title: 'Vaata linnas ringi'
+      - 
+        description: 'See rakendus on loodud privaatsuskesksena - ta ei tuvasta kasutajaid, ei jälgi nende tegevust ega kogu nende kohata andmeid. CoMaps on selles osas ka analüüsitud <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-exodus"></use></svg> [Exoduse](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/) poolt, mis on rakenduste privaatsust analüüsiv süsteem.'
+        highlight:
+          icon: static/images/icons/home/shield.svg
+          text: 'Vaikimisi privaatne'
+        media:
+          map: /images/sections/map-s-2.webp
+          user: /images/sections/map-m-2.webp
+        title: 'Pole andmekogumist'
+      - 
+        description: 'CoMapsi soovitavad *[Switching Software](https://switching.software/replace/google-maps/)*, *[European & Open Source Alternatives](https://european-alternatives.cloud/en/browse?category=maps)*, *[Digital Independence Day](https://di.day/en/digital-switch-recipes/maps)* ja *[Framastart](https://framastart.org/smartphone/)* eetilise, hõlpsalt kasutatava ja privaatsuskeskse alternatiivina kommertskaartidele.'
+        highlight:
+          icon: static/images/icons/home/route-arrows-up-icon.svg
+          text: 'Sõltumatud kaardid'
+        media:
+          map: /images/sections/map-s-7.webp
+          user: /images/sections/map-m-7.webp
+        title: 'Tegelik alternatiiv'
       - 
         cta:
           href: community/

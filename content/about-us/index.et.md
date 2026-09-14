@@ -1,5 +1,5 @@
 ---
-description: "Vaba, avatud ja tasuta kaardirakendus, mis arvestab privaatsusega -<br/>Loodud kogukonna poolt"
+description: "Vaba, avatud ja tasuta kaardirakendus, mis arvestab privaatsusega <br/>ja on loodud kogukonna poolt"
 extra:
   about:
     media: /images/about-us/about.png
@@ -11,14 +11,14 @@ extra:
     text: "CoMaps on saanud teoks tänu kogukondadele, kes aitavad luua ja hooldada avaandmeid, millel meie rakendus põhineb: meie kaartidel kasutatakse OpenStreetMapi andmeid, mida loovad ja hooldavad tuhanded kaastöötajad üle kogu maailma. Linnade, vaatamisväärsuste ja paljude teiste huviväärsuste kohta viidete loomiseks ning nende kohta vallasrežiimis kasutatava teabe pakkumiseks toetume ülemaailmsete Vikipeedia, Wikidata ja Wikimedia Commonsi kogukondade artiklitele ja fotodele."
     title: "Aluseks on üldised avaandmed"
   data_link:
-    text: "Learn more about all of our open data sources"
+    text: "Loe lisaks meie avatud lähtekoodiga andmeallikate kohta"
   history:
     items:
       - text: "MapsWithMe kaardirakendus on saadaval (hilisema nimega Maps.me)."
         year: 2011
       - text: "Maps.me lähtekood avaldatakse Apache 2.0 litsentsi alusel."
         year: 2015
-      - text: "Organic Mapsi projekt ja äriühing alustada tööd, rakendus põhineb Maps.Me lähtekoodil."
+      - text: "Tööd alustab Organic Mapsi projekt ja äriühing, rakendus põhineb Maps.Me lähtekoodil."
         year: 2021
       - text: "Organic Mapsi juhtkond ei arvesta kogukonna soovide ja küsimustega ning juhtimine pole avatud; Organic mapsi arendmine takerdub kuudeks."
         year: 2025

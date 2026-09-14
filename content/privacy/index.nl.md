@@ -7,7 +7,7 @@ Bij CoMaps respecteren we uw privacy. CoMaps heeft geen enkele vorm van
 identificatie van personen, reclame of het verzamelen van persoonlijke
 gegevens.
 
-CoMaps volgt u niet.
+CoMaps volgt je niet.
 
 Als u vragen of opmerkingen heeft, neem dan contact met ons op via
 legal@comaps.app

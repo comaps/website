@@ -13,7 +13,7 @@ extra:
   funding:
     items:
       - media: /images/donate/infrastructure.webp
-        text: "Et kes iganes maailmas saaks tasuta ja viivitusteta laadida alla vajalikke kaarte, haldame uuendusi kui selleks vajalikke servereid. Kkaardiandmete andmeedastusmahud moodustavad suure ja ainult kasvava osa meie andmeliiklusest."
+        text: "Et kes iganes maailmas saaks tasuta ja viivitusteta laadida alla vajalikke kaarte, haldame kaardiuuendusi, kui ka selleks vajalikke servereid. Kaardiandmete andmeedastusmahud moodustavad suure ja ainult kasvava osa meie andmeliiklusest."
         title: Taristu
       - media: /images/donate/support.webp
         text: "Kasutajatugi, veaparandused ja stabiilsem rakendus on meie prioriteedid. Nii arendussoovide kui veateadete loend kasvab iga päevaga ning nii App Store'is, kui Google Plays või e-posti teel laekunud kasutajatoe päringud vajavad pidevat vastamist."
@@ -29,7 +29,7 @@ extra:
     - icon: static/images/icons/donate/icon02.svg
       text: "Me oleme kogukond, kes vabast ajast veab seda projekti edasi. Meile meeldib see, mida me teeme ning loomulikult armastame oma kasutajaid"
     - icon: static/images/icons/donate/icon03.svg
-      text: "Sinu toel me arendame privaatsuskeskset kaardirakendust, mis on esimene eelistus sellel turul"
+      text: "Sinu toel me arendame privaatsuskeskset kaardirakendust, mis on ideaalne valik sellel turul"
   service_title: "Created with love by enthusiast volunteers"
 template: donate.html
 title: Anneta

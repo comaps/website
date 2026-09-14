@@ -11,7 +11,7 @@ extra:
     text: "CoMaps er blevet til takket være indsatsen fra de fællesskaber, der er med til at skabe og vedligeholde de åbne data, som vores app bygger på: Vores kort bruger data fra OpenStreetMap, som er udarbejdet og vedligeholdt af tusindvis af bidragydere fra hele verden. For at kunne linke til og give offline-oplysninger om byer, seværdigheder og mange andre interessante steder benytter vi os af artikler og fotos fra de globale fællesskaber på Wikipedia, Wikidata og Wikimedia Commons."
     title: "Drevet af fælles åbne data"
   data_link:
-    text: "Learn more about all of our open data sources"
+    text: "Læs mere om alle vores kilder til åbne data"
   history:
     items:
       - text: "Navigationsappen MapsWithMe oprettes (senere omdøbt til Maps.me)."
