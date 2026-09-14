@@ -14,12 +14,13 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 2026.8.1\n"
+"PO-Revision-Date: 2026-09-14 07:26+0000\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
 #, no-wrap
 msgid "Discover more of your journey - Powered by the community"
-msgstr "Võimalus leida oma teedel enamat - Ja see kõik kogukonna toel"
+msgstr "Võimalus leida oma teedel enamat - ja see kõik toimeka kogukonna toel"
 
 #. type: Yaml Front Matter Hash Value: extra freedom description
 #: content/_index.md
@@ -53,10 +54,9 @@ msgstr "Need projektid usaldavad meid"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
-#, fuzzy, no-wrap
-#| msgid "Plan and navigate your trip abroad with just GPS, no need for mobile data. Search waypoints while on distant hiking trails or bike paths."
+#, no-wrap
 msgid "Plan and navigate your trip abroad with just GPS, no need for mobile data. Search waypoints while on remote hiking trails or bike paths. Navigate with turn-by-turn instructions by foot, bike or car, including voice announcements."
-msgstr "Kavanda oma reisimist välismaal vaid GPS-iga, ilma mobiilset andmesidet kasutamata. Näita teed ja otsi teekonnapunkte liikvel olles, seda kasvõi ratta- ja matkaradadel."
+msgstr "Kavanda oma reisimist välismaal vaid GPS-iga, ilma mobiilset andmesidet kasutamata. Näita teed ja otsi teekonnapunkte liikvel olles, seda kasvõi ratta- ja matkaradadel. Kasuta sammhaaval tee juhatamist jalutamisel, ratta- või autosõidul, seda ka hääljuhistena."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
@@ -74,19 +74,19 @@ msgstr "Otsing ja teekonna koostamine vallasrežiimis"
 #: content/_index.md
 #, no-wrap
 msgid "Use the outdoor mode to highlight hiking trails, campsites, and water sources. Enable contour lines to plan your trip. Spot an interesting peak along the way? Use the offline *Wikipedia* articles to learn more about it!"
-msgstr ""
+msgstr "Kasuta välirežiimi, et leida matkaradu, telkimispaiku ja veeallikaid. Lülita sisse samakõrgusjooned, et oma reisi planeerida. Leidsid teel huvitava mäetipu? Kasuta *Wikipedia* artikleid võrguühenduseta, et selle kohta rohkem teada saada!"
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
 #, no-wrap
 msgid "Explore nature"
-msgstr ""
+msgstr "Uuri loodust"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
 #, no-wrap
 msgid "Hike with the Information you Need"
-msgstr ""
+msgstr "Matka nii, et kogu vajalik teave on sul kaasas"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
@@ -110,26 +110,25 @@ msgstr "Säästa nutiseadme akut"
 #: content/_index.md
 #, no-wrap
 msgid "Use the public transport layer to plan your subway and light rail journeys in a growing list of cities."
-msgstr ""
+msgstr "Kasuta ühistranspordi andmekihti ja kavanda oma metroo- ja linnalähirongide sõite aina suuremas arvus linnades."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
 #, no-wrap
 msgid "Explore the city"
-msgstr ""
+msgstr "Uuri linna"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
 #, no-wrap
 msgid "Get around the City"
-msgstr ""
+msgstr "Vaata linnas ringi"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
-#, fuzzy, no-wrap
-#| msgid "The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information. CoMaps was also audited by <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-exodus\"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/)."
+#, no-wrap
 msgid "The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information. CoMaps was also audited by <span class=\"text-icon\"><svg viewbox=\"0 0 19 19\"><use href=\"#icon-exodus\"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/), a privacy auditor."
-msgstr "See rakendus on loodud privaatsuskesksena - ta ei tuvasta kasutajaid, ei jälgi nende tegevust ega kogu nende kohata andmeid. CoMaps on selles osas ka analüüsitud <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-exodus\"></use></svg> [Exoduse](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/) poolt."
+msgstr "See rakendus on loodud privaatsuskesksena - ta ei tuvasta kasutajaid, ei jälgi nende tegevust ega kogu nende kohata andmeid. CoMaps on selles osas ka analüüsitud <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-exodus\"></use></svg> [Exoduse](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/) poolt, mis on rakenduste privaatsust analüüsiv süsteem."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
@@ -147,19 +146,19 @@ msgstr "Pole andmekogumist"
 #: content/_index.md
 #, no-wrap
 msgid "CoMaps is recommended by *[Switching Software](https://switching.software/replace/google-maps/)*, *[European & Open Source Alternatives](https://european-alternatives.cloud/en/browse?category=maps)*, *[Digital Independence Day](https://di.day/en/digital-switch-recipes/maps)* ,and *[Framastart](https://framastart.org/smartphone/)* as an ethical, easy-to-use and privacy-conscious alternative to commercial maps."
-msgstr ""
+msgstr "CoMapsi soovitavad *[Switching Software](https://switching.software/replace/google-maps/)*, *[European & Open Source Alternatives](https://european-alternatives.cloud/en/browse?category=maps)*, *[Digital Independence Day](https://di.day/en/digital-switch-recipes/maps)* ja *[Framastart](https://framastart.org/smartphone/)* eetilise, hõlpsalt kasutatava ja privaatsuskeskse alternatiivina kommertskaartidele."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
 #, no-wrap
 msgid "Independent maps"
-msgstr ""
+msgstr "Sõltumatud kaardid"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
 #, no-wrap
 msgid "A True Alternative"
-msgstr ""
+msgstr "Tegelik alternatiiv"
 
 #. type: Yaml Front Matter Hash Value: extra services items cta text
 #: content/_index.md
@@ -327,7 +326,7 @@ msgstr "Toeta Open Collective'i vahendusel"
 #: content/donate/index.md
 #, no-wrap
 msgid "We have to keep up fast servers, to update the map files and for you to download them without delays. The maps data transfers make up large, and growing, amounts of data each month."
-msgstr "Et kes iganes maailmas saaks tasuta ja viivitusteta laadida alla vajalikke kaarte, haldame uuendusi kui selleks vajalikke servereid. Kkaardiandmete andmeedastusmahud moodustavad suure ja ainult kasvava osa meie andmeliiklusest."
+msgstr "Et kes iganes maailmas saaks tasuta ja viivitusteta laadida alla vajalikke kaarte, haldame kaardiuuendusi, kui ka selleks vajalikke servereid. Kaardiandmete andmeedastusmahud moodustavad suure ja ainult kasvava osa meie andmeliiklusest."
 
 #. type: Yaml Front Matter Hash Value: extra funding items title
 #: content/donate/index.md
@@ -381,7 +380,7 @@ msgstr "Me oleme kogukond, kes vabast ajast veab seda projekti edasi. Meile meel
 #: content/donate/index.md
 #, no-wrap
 msgid "With your support, we are working toward privacy-focused map navigation that is the preferred choice on the market"
-msgstr "Sinu toel me arendame privaatsuskeskset kaardirakendust, mis on esimene eelistus sellel turul"
+msgstr "Sinu toel me arendame privaatsuskeskset kaardirakendust, mis on ideaalne valik sellel turul"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/support/_index.md
@@ -399,7 +398,7 @@ msgstr "Abiteave"
 #: content/about-us/index.md
 #, no-wrap
 msgid "Free and open navigation with privacy -<br/>Built by the community"
-msgstr "Vaba, avatud ja tasuta kaardirakendus, mis arvestab privaatsusega -<br/>Loodud kogukonna poolt"
+msgstr "Vaba, avatud ja tasuta kaardirakendus, mis arvestab privaatsusega <br/>ja on loodud kogukonna poolt"
 
 #. type: Yaml Front Matter Hash Value: extra about text
 #: content/about-us/index.md
@@ -429,7 +428,7 @@ msgstr "Aluseks on üldised avaandmed"
 #: content/about-us/index.md
 #, no-wrap
 msgid "Learn more about all of our open data sources"
-msgstr ""
+msgstr "Loe lisaks meie avatud lähtekoodiga andmeallikate kohta"
 
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md
@@ -447,7 +446,7 @@ msgstr "Maps.me lähtekood avaldatakse Apache 2.0 litsentsi alusel."
 #: content/about-us/index.md
 #, no-wrap
 msgid "The Organic Maps project & company were founded, based on the Maps.Me source code."
-msgstr "Organic Mapsi projekt ja äriühing alustada tööd, rakendus põhineb Maps.Me lähtekoodil."
+msgstr "Tööd alustab Organic Mapsi projekt ja äriühing, rakendus põhineb Maps.Me lähtekoodil."
 
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md
@@ -617,7 +616,7 @@ msgstr "Kõik"
 #: translations.yaml
 #, no-wrap
 msgid "Android is becoming a closed down platform. Learn more!"
-msgstr ""
+msgstr "Android on muutumas suletud platvormiks. Lisateavet loe siit!"
 
 #. type: Hash Value: button-download
 #: translations.yaml
@@ -713,7 +712,7 @@ msgstr "Lähtekood"
 #: translations.yaml
 #, no-wrap
 msgid "Service Status"
-msgstr ""
+msgstr "Teenuste olekud"
 
 #. type: Hash Value: more_title
 #: translations.yaml

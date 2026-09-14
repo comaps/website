@@ -14,6 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 2026.8.1\n"
+"PO-Revision-Date: 2026-09-13 06:26+0000\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -562,7 +563,7 @@ msgstr "Bij CoMaps respecteren we uw privacy. CoMaps heeft geen enkele vorm van 
 #. type: Plain text
 #: content/privacy/index.md
 msgid "CoMaps does not track you."
-msgstr "CoMaps volgt u niet."
+msgstr "CoMaps volgt je niet."
 
 #. type: Plain text
 #: content/privacy/index.md content/terms/index.md
@@ -615,7 +616,7 @@ msgstr "Alles"
 #: translations.yaml
 #, no-wrap
 msgid "Android is becoming a closed down platform. Learn more!"
-msgstr ""
+msgstr "Android wordt een gesloten platform. Meer hierover!"
 
 #. type: Hash Value: button-download
 #: translations.yaml
@@ -711,7 +712,7 @@ msgstr "Broncode"
 #: translations.yaml
 #, no-wrap
 msgid "Service Status"
-msgstr ""
+msgstr "Service-status"
 
 #. type: Hash Value: more_title
 #: translations.yaml
