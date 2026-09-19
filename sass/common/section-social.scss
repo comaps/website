@@ -1,12 +1,12 @@
 @import "../variables/media";
 
-.box-social__title {margin-bottom: 40rem; font-size: 36px; line-height: 1.2; font-weight: 300; text-align: center;
+.box-channels__title {margin-bottom: 40rem; font-size: 36px; line-height: 1.2; font-weight: 300; text-align: center;
     @media (max-width: $media-md) {
         margin-bottom: 24rem; font-size: 24px;
     }
 }
 
-.section-social {
+.section-channels {
     margin-bottom: 68px;
     margin-top: 48px;
     @media (max-width: $media-md) {

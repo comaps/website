@@ -2,14 +2,14 @@
 
 {%- block content %}
 {{ <showcase_inner title={page.title} desp={page.description}/> }}
-<section class="section-social">
-    <h2 class="box-social__title">
+<section class="section-channels">
+    <h2 class="box-channels__title">
         {{ trans(key='social_title', lang=lang) }}
     </h2>
     {% include 'section/social-icon.html' %}
 </section>
 <section class="section-community">
-    <h2 id="volunteer-section" class="box-social__title">{{ trans(key='inv_title', lang=lang) }}</h2>
+    <h2 id="volunteer-section" class="box-channels__title">{{ trans(key='inv_title', lang=lang) }}</h2>
     <div class="container section-community__container">
         {% if page.extra.features %}
         {% for feat in page.extra.features %}
