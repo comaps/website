@@ -11,7 +11,7 @@
                     <div class="support-benefit__icon">
                         {{ load_data(path=i.icon) | safe }}
                     </div>
-                    <p class="p-15 support-benefit__text">{{ i.text}}</p>
+                    <p class="p-15 support-benefit__text">{{ i.text| markdown(inline=True) | safe}}</p>
                 </div>
             {% endfor %}
         {% endif %}
@@ -38,7 +38,7 @@
                             </div>
                             <h2 class="h5 services-support__sub-title">{{ i.title }}</h2>
                         </div>
-                        <p class="p-card services-support__text">{{ i.text }}</p>
+                        <p class="p-card services-support__text">{{ i.text | markdown(inline=True) | safe }}</p>
                     </div>
                 </div>
             {% endfor %}
@@ -52,11 +52,11 @@
     <div class="line reviews__line"></div>
     <div class="container donate-services__row">
         <h2 class="h7 donate-services__title">{{ page.extra.donate.info.title }}</h2>
-        <p class="h1-sub donate-services__text">{{ page.extra.donate.info.description }}</p>
+        <p class="h1-sub donate-services__text">{{ page.extra.donate.info.description | markdown(inline=True) | safe  }}</p>
         <div class="donate-services__icons">
             <a href="https://opencollective.com/comaps/donate" target="_blank" class="button button--opencollective">
                 <img src="/images/opencollective.svg" alt="icon" width="50">
-                {{ page.extra.donate.open_collective.title | safe }}
+                {{ page.extra.donate.open_collective.title | markdown(inline=True) | safe }}
             </a>
             <a href="https://liberapay.com/CoMaps" target="_blank" class="button button--liberapay">
                 <img src="/images/donate/donat-service/icon04.png" alt="icon" width="50">

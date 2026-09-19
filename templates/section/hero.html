@@ -2,7 +2,7 @@
     <div class="container hero__container">
         <div class="hero__content">
             <h1 class="h1 hero__title">
-                {{ resource.title }}
+                {{ resource.title |  markdown(inline=True) | safe }}
             </h1>
             {% if resource.description %}
                 <div class="h1-sub hero__description">

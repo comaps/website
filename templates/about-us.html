@@ -15,7 +15,7 @@
                         </div>
                         <h3 class="h5 about-us__title">{{ i.title | safe }}</h3>
                     </div>
-                    <p class="p-card about-us__text">{{ i.text | safe }}</p>
+                    <p class="p-card about-us__text">{{ i.text | markdown(inline=True) | safe }}</p>
                 </div>
             </div>
         {% endfor %}
@@ -29,7 +29,7 @@
             <div class="free-open__img-row">
                 <img class="free-open__img" src="{{ page.extra.about.media }}" alt="{{ page.extra.about.title }}">
             </div>
-            <p class="p-15 free-open__text">{{ page.extra.about.text | safe }}</p>
+            <p class="p-15 free-open__text">{{ page.extra.about.text | markdown(inline=True) | safe }}</p>
         </div>
     </div>
 </section>
@@ -42,7 +42,7 @@
                 <img class="data-sources__img" src="{{ page.extra.data.media_osm }}" alt="the openstreetmap logo">
                 <img class="data-sources__img" src="{{ page.extra.data.media_wikipedia }}" alt="a powered-by-wikidata logo">
             </div>
-            <p class="p-15 data-sources__text">{{ page.extra.data.text | safe }}</p>
+            <p class="p-15 data-sources__text">{{ page.extra.data.text | markdown(inline=True) | safe }}</p>
             <p class="p-15 data-sources__text"><a href="/support/which-data-sources-does-comaps-use/">{{ page.extra.data_link.text | safe }}</a></p>
         </div>
     </div>
