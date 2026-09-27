@@ -7,28 +7,28 @@ extra:
   map:
     description: 'Bendruomenės pildomi atvirieji žemėlapiai'
   preinstalls:
-    description: 'CoMaps comes preinstalled on these operating systems as their default map app.'
-    title: 'Trusted by these projects'
+    description: '„CoMaps“ yra numatytoji žemėlapių programėlė šiose operacinėse sistemose.'
+    title: 'Mumis pasitiki šie projektai'
   services:
     items:
       - 
-        description: 'Planuokite maršrutus ir keliaukite užsienyje, naudodamiesi tik GPS, bet ne mobiliaisiais duomenimis. Ieškokite kelionės taškų tolimuose žygiavimo ir dviračių trasose.'
+        description: 'Plan and navigate your trip abroad with just GPS, no need for mobile data. Search waypoints while on remote hiking trails or bike paths. Navigate with turn-by-turn instructions by foot, bike or car, including voice announcements.'
         highlight:
           icon: static/images/icons/home/wifi-off.svg
           text: 'Internetas – nebūtinas'
         media:
           map: /images/sections/map-s-1.webp
           user: /images/sections/map-m-1.webp
-        title: 'Vietų paieška ir maršruto planavimas neprisijungus'
+        title: 'Offline Search and Routing'
       - 
-        description: 'Programėlė sukurta, teikiant prioritetą privatumui: ji neidentifikuoja asmenų, nestebi jūsų ir nerenka jokios informacijos. „CoMaps“ privatumo audito rezultatai pasiekiami <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-exodus"></use></svg> [„Exodus“](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/) platformoje.'
+        description: 'Naudokitės žygių pėsčiomis veiksena pėsčiųjų takams, stovyklavietėms ir vandens pasipildymo vietoms išryškinti. Įjunkite reljefo linijas savo žygiui planuoti patogiau. Sudomino pakeliui pamatyta viršūnė? Skaitykite *„Vikipedijos“* straipsnį apie ją neprisijungę!'
         highlight:
-          icon: static/images/icons/home/shield.svg
-          text: 'Privatumas be atskiro prašymo'
+          icon: static/images/icons/home/mappin-small.svg
+          text: 'Grožėkitės gamta'
         media:
-          map: /images/sections/map-s-2.webp
-          user: /images/sections/map-m-2.webp
-        title: 'Jokio duomenų rinkimo'
+          map: /images/sections/map-s-5.webp
+          user: /images/sections/map-m-5.webp
+        title: 'Žygiuokite, turėdami visą būtiną informaciją'
       - 
         description: 'Tausoja bateriją, neišsekina jos kaip kitos navigacijos programos.'
         highlight:
@@ -38,6 +38,33 @@ extra:
           map: /images/sections/map-s-3.webp
           user: /images/sections/map-m-3.webp
         title: 'Taupus baterijos naudojimas'
+      - 
+        description: 'Naudokitės viešojo transporto sluoksniu savo kelionei metro ir lengvaisiais traukiniais planuoti nuolat didėjančiame miestų skaičiuje.'
+        highlight:
+          icon: static/images/icons/home/train-m.svg
+          text: 'Pažinkite miestą'
+        media:
+          map: /images/sections/map-s-6.webp
+          user: /images/sections/map-m-6.webp
+        title: 'Keliaukite po miestą'
+      - 
+        description: 'The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information. CoMaps was also audited by <span class="text-icon"><svg viewbox="0 0 19 19"><use href="#icon-exodus"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/), a privacy auditor.'
+        highlight:
+          icon: static/images/icons/home/shield.svg
+          text: 'Privatumas be atskiro prašymo'
+        media:
+          map: /images/sections/map-s-2.webp
+          user: /images/sections/map-m-2.webp
+        title: 'Jokio duomenų rinkimo'
+      - 
+        description: '„CoMaps“ programėlę kaip etišką ir privatumą gerbiančią alternatyvą komercinėms žemėlapių programoms rekomenduoja *[„Switching Software“](https://switching.software/replace/google-maps/)*, *[„European & Open Source Alternatives“](https://european-alternatives.cloud/en/browse?category=maps)*, *[„Digital Independence Day“](https://di.day/en/digital-switch-recipes/maps)* ir *[„Framastart“](https://framastart.org/smartphone/)*.'
+        highlight:
+          icon: static/images/icons/home/route-arrows-up-icon.svg
+          text: 'Nepriklausomi žemėlapiai'
+        media:
+          map: /images/sections/map-s-7.webp
+          user: /images/sections/map-m-7.webp
+        title: 'Tikroji alternatyva'
       - 
         cta:
           href: community/

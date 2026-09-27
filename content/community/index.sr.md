@@ -21,7 +21,7 @@ extra:
       icon: Translate.svg
       link: https://codeberg.org/comaps/comaps/src/branch/main/docs/TRANSLATIONS.md
       title: "**Преведите** текст"
-    - description: "Додајте информације о продавницама, занимљивим местима, путевима и јавним превозом у OpenStreetMap"
+    - description: "Додајте информације о продавницама, занимљивим местима, путевима и јавном превозу у *OpenStreetMap*"
       icon: MapPinLine.svg
       link: /support/editing-with-CoMaps
       title: "**Додајте** информације о местима"

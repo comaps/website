@@ -20,10 +20,10 @@ extra:
         year: 2015
       - text: "Het Organic Maps-project en het bedrijf werden opgericht op basis van de Maps.me-broncode."
         year: 2021
-      - text: "Bestuurskwesties en zorgen van de gemeenschap die niet door de aandeelhouders van het bedrijf werden aangepakt, vertraagden de ontwikkeling van Organic Maps gedurende maanden."
+      - text: "Bestuurskwesties en zorgen van de community die niet door de aandeelhouders van het bedrijf werden aangepakt, vertraagden de ontwikkeling van Organic Maps gedurende maanden."
         year: 2025
       - highlight: true
-        text: "De **CoMaps** community & non-profitproject werden opgericht door voormalige bijdragers aan Organic Maps, gebaseerd op de Organic Maps-broncode."
+        text: "De **CoMaps**-community & non-profitproject werden opgericht door voormalige bijdragers aan Organic Maps, gebaseerd op de Organic Maps-broncode."
         year: 2025
     title: Geschiedenis
   media_highlights:
@@ -33,7 +33,7 @@ extra:
     items:
       - icon: /images/icons/about/mission.svg
         media: /images/about-us/mission.png
-        text: "Ontgrendel de vrijheid om eenvoudig offline te navigeren, met privacygerichte kaarten voor bestuurders, wandelaars en fietsers, ondersteund door de community."
+        text: "Ontgrendel de vrijheid om eenvoudig offline te navigeren, met privacygerichte kaarten voor bestuurders, wandelaars en fietsers, ontwikkeld door de community."
         title: Missie
       - icon: /images/icons/about/vision.svg
         media: /images/about-us/vision.png

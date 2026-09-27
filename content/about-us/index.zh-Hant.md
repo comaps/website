@@ -3,15 +3,15 @@ description: "隱私保護下的免費開放導航 -<br/>由社群共同營造"
 extra:
   about:
     media: /images/about-us/about.png
-    text: "CoMaps is a community-focused privacy navigation app for travelers - drivers, hikers, and cyclists. It offers navigation with privacy - no identifying people and no data collection. CoMaps features can operate without an active internet connection for offline navigation at urban or distant locations, where cellular service is not available. CoMaps is an open-source project, and prioritizes community development."
+    text: "CoMaps 是一個以社群為本的隱私導航應用，適用於旅行者⸺運轉手、背包客和單車族。本應用無法辨識使用者身份，也無法收集使用者資料⸺在整個導航過程中，您的隱私都會受到雙管齊下的保護。CoMaps 功能無需網路連線即可運作，以便在没有行動網路的城市或偏遠地區進行離線導航。CoMaps 是一個優先考慮社群發展的開源專案。"
     title: 隱私保護下的免費開放導航，由社群共同營造
   data:
     media_osm: /images/about-us/OSM.png
     media_wikipedia: /images/about-us/Wikidata_stamp.png
-    text: "CoMaps is made possible thanks to the labor of communities who help create and maintain the open data that powers our app: Our maps use OpenStreetMap data, made and maintained by thousands of contributors from all over the world. In order to link to, and provide offline details about cities, attractions and many other points-of-interest, we rely on the articles and photos of the global Wikipedia, Wikidata, and Wikimedia Commons communities."
-    title: "Powered by open data commons"
+    text: "因為社群盡力創造與維護 CoMaps 仰賴的開放資料，才讓 CoMaps 成為可能：我們的地圖使用由成千上萬分佈在世界各地的人貢獻的開放街圖資料。而為了各地城市的離線介紹、景點，以及各種類別的興趣點，我們仰賴具備全球性質計畫的維基百科、維基數據以及維基共享資源上頭的文章與圖片。"
+    title: 由開放資料公共資源驅動
   data_link:
-    text: "Learn more about all of our open data sources"
+    text: 瞭解更多開放資源的來源
   history:
     items:
       - text: "MapsWithMe 導航應用誕生（後來更名為 Maps.me）。"

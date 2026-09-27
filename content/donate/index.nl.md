@@ -27,7 +27,7 @@ extra:
     - icon: static/images/icons/donate/icon01.svg
       text: "Wij zijn afhankelijk van jouw donaties om CoMaps vrij in gebruik te houden"
     - icon: static/images/icons/donate/icon02.svg
-      text: "Wij zijn een gemeenschap die bijdragen in hun vrije tijd. We houden van wat we doen en van onze gebruikers"
+      text: "Wij zijn een community die bijdragen in hun vrije tijd. We houden van wat we doen en van onze gebruikers"
     - icon: static/images/icons/donate/icon03.svg
       text: "Met jouw steun werken we aan privacygerichte kaartnavigatie die de beste keuze op de markt is"
   service_title: "Created with love by enthusiast volunteers"

@@ -30,7 +30,7 @@ extra:
           user: /images/sections/map-m-5.webp
         title: 'Partez en randonnée avec toutes les informations dont vous avez besoin'
       - 
-        description: 'Utilise efficacement la batterie, ne la vide pas comme d’autres applications de navigation.'
+        description: "Elle utilise efficacement la batterie et ne la décharge pas autant que d'autres applications de navigation."
         highlight:
           icon: static/images/icons/home/battery.svg
           text: 'Utilisation optimisée de la batterie'
@@ -72,7 +72,7 @@ extra:
         description: 'Des personnes comme vous aident à créer l’application en ajoutant des lieux à <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-open-street-map"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, en donnant leur avis sur les fonctionnalités de l’application ou en contribuant au code du projet sur <span class="text-icon"><svg viewbox="0 0 4.233 4.233"> <use href="#icon-codeberg"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> afin de créer de belles cartes ensemble. Le projet est un fork d’Organic Maps et Maps.Me et est géré par une communauté open source.'
         highlight:
           icon: static/images/icons/home/heart.svg
-          text: 'Gratuit pour tous, fait avec amour'
+          text: 'Gratuit pour tous, créé avec amour'
         media:
           map: /images/sections/map-s-4.webp
           user: /images/sections/map-m-4.webp
