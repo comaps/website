@@ -6,14 +6,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"Last-Translator: mjog <mjog@noreply.codeberg.org>\n"
+"Last-Translator: eatham <eatham@noreply.codeberg.org>\n"
 "Language-Team: English (Australia) <https://translate.codeberg.org/projects/comaps/website/en_AU/>\n"
 "Language: en_AU\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2026.6.1\n"
+"X-Generator: Weblate 2026.9.1\n"
+"PO-Revision-Date: 2026-09-20 11:25+0000\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -103,7 +104,7 @@ msgstr "People like you are helping build the app by adding locations to <span c
 #: content/_index.md
 #, no-wrap
 msgid "Free for everyone, Made with love"
-msgstr "Free for everyone, Made with love"
+msgstr "Free for everyone, made with love"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
@@ -445,7 +446,7 @@ msgstr "Language"
 #: translations.yaml
 #, no-wrap
 msgid "CoMaps - F.A.Q."
-msgstr "CoMaps - F.A.Q."
+msgstr "CoMaps - FAQ."
 
 #. type: Hash Value: how_can_help
 #: translations.yaml

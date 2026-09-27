@@ -6,15 +6,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"Last-Translator: Stephan-P <stephan-p@noreply.codeberg.org>\n"
+"Last-Translator: Bovi887 <bovi887@noreply.codeberg.org>\n"
 "Language-Team: Dutch <https://translate.codeberg.org/projects/comaps/website/nl/>\n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2026.8.1\n"
-"PO-Revision-Date: 2026-09-13 06:26+0000\n"
+"X-Generator: Weblate 2026.9.1\n"
+"PO-Revision-Date: 2026-09-27 09:25+0000\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -44,7 +44,7 @@ msgstr "Community + Open kaarten"
 #: content/_index.md
 #, no-wrap
 msgid "CoMaps comes preinstalled on these operating systems as their default map app."
-msgstr "CoMaps wordt vooraf op deze besturingssystemen geïnstalleerd als hun standaard kaartapp."
+msgstr "CoMaps wordt vooraf op deze besturingssystemen geïnstalleerd als hun standaard kaartenapp."
 
 #. type: Yaml Front Matter Hash Value: extra preinstalls title
 #: content/_index.md
@@ -56,7 +56,7 @@ msgstr "Vertrouwd door deze projecten"
 #: content/_index.md
 #, no-wrap
 msgid "Plan and navigate your trip abroad with just GPS, no need for mobile data. Search waypoints while on remote hiking trails or bike paths. Navigate with turn-by-turn instructions by foot, bike or car, including voice announcements."
-msgstr "Plan en navigeer je reis naar het buitenland met alleen GPS en zonder mobiele gegevens. Zoek routepunten op afgelegen wandelpaden of fietspaden. Navigeer met stapsgewijze aanwijzingen te voet, met de fiets of met de auto, inclusief gesproken meldingen."
+msgstr "Plan en navigeer je reis naar het buitenland met alleen GPS en zonder mobiele gegevens. Zoek routepunten op afgelegen wandelpaden of fietspaden. Navigeer met stapsgewijze aanwijzingen te voet, met de fiets of met de auto, inclusief gesproken instructies."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
@@ -74,7 +74,7 @@ msgstr "Offline zoeken en plannen van routes"
 #: content/_index.md
 #, no-wrap
 msgid "Use the outdoor mode to highlight hiking trails, campsites, and water sources. Enable contour lines to plan your trip. Spot an interesting peak along the way? Use the offline *Wikipedia* articles to learn more about it!"
-msgstr "Gebruik de outdoor-modus om wandelroutes, campings en watervoorraden te markeren. Zet de hoogtelijnen aan om je reis te plannen. Zie je onderweg een interessante bergtop? Gebruik de offline *Wikipedia*-artikelen om er meer over te leren!"
+msgstr "Gebruik de outdoor-modus om wandelroutes, campings en waterbronnen te markeren. Zet de hoogtelijnen aan om je reis te plannen. Zie je onderweg een interessante bergtop? Gebruik de offline *Wikipedia*-artikelen om er meer over te leren!"
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
@@ -110,7 +110,7 @@ msgstr "Bespaar je batterij"
 #: content/_index.md
 #, no-wrap
 msgid "Use the public transport layer to plan your subway and light rail journeys in a growing list of cities."
-msgstr "Gebruik de laag voor het openbaar vervoer om je metro- en lichtbaanreizen te plannen in een steeds grotere lijst van steden."
+msgstr "Gebruik de openbaar vervoer-laag om je metro- en lightrailreizen te plannen in een steeds grotere lijst van steden."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
@@ -122,7 +122,7 @@ msgstr "Verken de stad"
 #: content/_index.md
 #, no-wrap
 msgid "Get around the City"
-msgstr "Rondkomen in de stad"
+msgstr "Vind je weg in de stad"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
@@ -158,7 +158,7 @@ msgstr "Onafhankelijke kaarten"
 #: content/_index.md
 #, no-wrap
 msgid "A True Alternative"
-msgstr "Een Echt Alternatief"
+msgstr "Een echt alternatief"
 
 #. type: Yaml Front Matter Hash Value: extra services items cta text
 #: content/_index.md
@@ -170,7 +170,7 @@ msgstr "inv_title"
 #: content/_index.md
 #, no-wrap
 msgid "People like you are helping build the app by adding locations to <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> to create great maps together. The project is a fork of Organic Maps and Maps.Me, and driven by an open-source community."
-msgstr "Mensen zoals jij helpen de app te bouwen door locaties toe te voegen aan <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, feedback te geven op functies en code bij te dragen op <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> om samen geweldige kaarten te maken. Het project is een afsplitsing van Organic Maps en Maps.Me, en wordt aangestuurd door een open-source community."
+msgstr "Mensen zoals jij helpen de app te bouwen door locaties toe te voegen aan <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, feedback te geven op functies en code bij te dragen op <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> om samen geweldige kaarten te maken. Het project is een afsplitsing van Organic Maps en Maps.Me en wordt aangestuurd door een open-source community."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
@@ -374,7 +374,7 @@ msgstr "Wij zijn afhankelijk van jouw donaties om CoMaps vrij in gebruik te houd
 #: content/donate/index.md
 #, no-wrap
 msgid "We are a community contributing in our free time. We love what we do, and we love our users"
-msgstr "Wij zijn een gemeenschap die bijdragen in hun vrije tijd. We houden van wat we doen en van onze gebruikers"
+msgstr "Wij zijn een community die bijdragen in hun vrije tijd. We houden van wat we doen en van onze gebruikers"
 
 #. type: Yaml Front Matter Hash Value: extra info text
 #: content/donate/index.md
@@ -452,13 +452,13 @@ msgstr "Het Organic Maps-project en het bedrijf werden opgericht op basis van de
 #: content/about-us/index.md
 #, no-wrap
 msgid "Governance issues and community concerns not addressed by company shareholders stalled the development of Organic Maps for months."
-msgstr "Bestuurskwesties en zorgen van de gemeenschap die niet door de aandeelhouders van het bedrijf werden aangepakt, vertraagden de ontwikkeling van Organic Maps gedurende maanden."
+msgstr "Bestuurskwesties en zorgen van de community die niet door de aandeelhouders van het bedrijf werden aangepakt, vertraagden de ontwikkeling van Organic Maps gedurende maanden."
 
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md
 #, no-wrap
 msgid "The **CoMaps** community & non-profit project was founded by former Organic Maps contributors, based on the Organic Maps source code."
-msgstr "De **CoMaps** community & non-profitproject werden opgericht door voormalige bijdragers aan Organic Maps, gebaseerd op de Organic Maps-broncode."
+msgstr "De **CoMaps**-community & non-profitproject werden opgericht door voormalige bijdragers aan Organic Maps, gebaseerd op de Organic Maps-broncode."
 
 #. type: Yaml Front Matter Hash Value: extra history title
 #: content/about-us/index.md
@@ -482,7 +482,7 @@ msgstr "Hoogtepunten in de media"
 #: content/about-us/index.md
 #, no-wrap
 msgid "Unlock the freedom to easily navigate offline, with privacy-focused maps for drivers, hikers, and cyclists, powered by the community."
-msgstr "Ontgrendel de vrijheid om eenvoudig offline te navigeren, met privacygerichte kaarten voor bestuurders, wandelaars en fietsers, ondersteund door de community."
+msgstr "Ontgrendel de vrijheid om eenvoudig offline te navigeren, met privacygerichte kaarten voor bestuurders, wandelaars en fietsers, ontwikkeld door de community."
 
 #. type: Yaml Front Matter Hash Value: extra vm items title
 #: content/about-us/index.md
@@ -558,7 +558,7 @@ msgstr "Privacy"
 #. type: Plain text
 #: content/privacy/index.md
 msgid "At CoMaps, we respect your privacy. CoMaps does not have any form of identification of people, advertising, or personal data collection."
-msgstr "Bij CoMaps respecteren we uw privacy. CoMaps heeft geen enkele vorm van identificatie van personen, reclame of het verzamelen van persoonlijke gegevens."
+msgstr "Bij CoMaps respecteren we jouw privacy. CoMaps heeft geen enkele vorm van identificatie van personen, reclame of verzameling van persoonlijke gegevens."
 
 #. type: Plain text
 #: content/privacy/index.md
@@ -568,7 +568,7 @@ msgstr "CoMaps volgt je niet."
 #. type: Plain text
 #: content/privacy/index.md content/terms/index.md
 msgid "If you have any questions or suggestions, please contact us at legal@comaps.app"
-msgstr "Als u vragen of opmerkingen heeft, neem dan contact met ons op via legal@comaps.app"
+msgstr "Als je vragen of opmerkingen hebt, neem dan contact met ons op via legal@comaps.app"
 
 #. type: Plain text
 #: content/privacy/index.md

@@ -13,7 +13,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 2026.8.1\n"
+"X-Generator: Weblate 2026.9.1\n"
+"PO-Revision-Date: 2026-09-18 08:25+0000\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -187,7 +188,7 @@ msgstr "Бесплатно и изграђено од стране заједн�
 #: content/_index.md
 #, no-wrap
 msgid "Hike, Bike, Drive Offline – Navigate with Privacy"
-msgstr "Пешачите, возите бицикл или ауто у <i>offline</i> режиму и уз приватност"
+msgstr "Пешачите, возите бицикл или ауто у *offline* режиму и уз приватност"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/news/_index.md
@@ -265,7 +266,7 @@ msgstr "**Преведите** текст"
 #: content/community/index.md
 #, no-wrap
 msgid "Add info about shops, points of interest, trails, and public transport to OpenStreetMap"
-msgstr "Додајте информације о продавницама, занимљивим местима, путевима и јавним превозом у OpenStreetMap"
+msgstr "Додајте информације о продавницама, занимљивим местима, путевима и јавном превозу у *OpenStreetMap*"
 
 #. type: Yaml Front Matter Hash Value: extra features title
 #: content/community/index.md
@@ -615,7 +616,7 @@ msgstr "Све"
 #: translations.yaml
 #, no-wrap
 msgid "Android is becoming a closed down platform. Learn more!"
-msgstr ""
+msgstr "Андроид постаје затворена платформа. Сазнајте више!"
 
 #. type: Hash Value: button-download
 #: translations.yaml
@@ -711,7 +712,7 @@ msgstr "Изворни кôд"
 #: translations.yaml
 #, no-wrap
 msgid "Service Status"
-msgstr ""
+msgstr "Статус сервиса"
 
 #. type: Hash Value: more_title
 #: translations.yaml

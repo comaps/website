@@ -13,7 +13,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.15.2\n"
+"X-Generator: Weblate 2026.8.1\n"
+"PO-Revision-Date: 2026-09-17 11:25+0000\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -43,20 +44,19 @@ msgstr "社群 + 開放地圖"
 #: content/_index.md
 #, no-wrap
 msgid "CoMaps comes preinstalled on these operating systems as their default map app."
-msgstr ""
+msgstr "CoMaps 在這些作業系統當中是預先安裝的預設地圖 app。"
 
 #. type: Yaml Front Matter Hash Value: extra preinstalls title
 #: content/_index.md
 #, no-wrap
 msgid "Trusted by these projects"
-msgstr ""
+msgstr "這些專案當中都信任"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
-#, fuzzy, no-wrap
-#| msgid "Plan and navigate your trip abroad with just GPS, no need for mobile data. Search waypoints while on distant hiking trails or bike paths."
+#, no-wrap
 msgid "Plan and navigate your trip abroad with just GPS, no need for mobile data. Search waypoints while on remote hiking trails or bike paths. Navigate with turn-by-turn instructions by foot, bike or car, including voice announcements."
-msgstr "只要 GPS 無需行動網路即可規劃和導航您的海外旅行，郊外遠足時仍可搜尋航點。"
+msgstr "只要 GPS 無需行動網路即可規劃和導航您的海外旅行，郊外偏遠地方遠足時仍可搜尋登山路徑或是單車道。步行、騎單車或是汽車，有包括語言指示的轉向導航指示。"
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
@@ -66,28 +66,27 @@ msgstr "不用網路"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
-#, fuzzy, no-wrap
-#| msgid "Offline Search and Route"
+#, no-wrap
 msgid "Offline Search and Routing"
-msgstr "離線搜尋與路線"
+msgstr "離線搜尋與導航"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
 #, no-wrap
 msgid "Use the outdoor mode to highlight hiking trails, campsites, and water sources. Enable contour lines to plan your trip. Spot an interesting peak along the way? Use the offline *Wikipedia* articles to learn more about it!"
-msgstr ""
+msgstr "使用戶外模式來強調登山路徑、露營地，以及水源。啟用等高線則能事先規畫旅程。沿途看到感興趣的山峰嗎？閱讀離線版*維基百科*條目來瞭解更多資訊！"
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
 #, no-wrap
 msgid "Explore nature"
-msgstr ""
+msgstr "探索大自然"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
 #, no-wrap
 msgid "Hike with the Information you Need"
-msgstr ""
+msgstr "登山的同時配備你需要的資訊"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
@@ -111,26 +110,25 @@ msgstr "節省電池電力"
 #: content/_index.md
 #, no-wrap
 msgid "Use the public transport layer to plan your subway and light rail journeys in a growing list of cities."
-msgstr ""
+msgstr "使用大眾運輸圖層來規畫你在多個城市當中的捷運或是輕軌旅程。"
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
 #, no-wrap
 msgid "Explore the city"
-msgstr ""
+msgstr "探索城市"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
 #, no-wrap
 msgid "Get around the City"
-msgstr ""
+msgstr "在城市當中移動"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
-#, fuzzy, no-wrap
-#| msgid "The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information. CoMaps was also audited by <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-exodus\"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/)."
+#, no-wrap
 msgid "The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information. CoMaps was also audited by <span class=\"text-icon\"><svg viewbox=\"0 0 19 19\"><use href=\"#icon-exodus\"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/), a privacy auditor."
-msgstr "這款 app 設計時就考量隱私 - 不會識別人，不會追蹤您，也不會收集任何資訊。CoMaps 也由 <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-exodus\"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/) 來監督。"
+msgstr "這款 app 設計時就考量隱私 - 不會識別人，不會追蹤您，也不會收集任何資訊。CoMaps 也由隱私權監察者 <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-exodus\"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/) 來監督。"
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
@@ -148,19 +146,19 @@ msgstr "不收集資料"
 #: content/_index.md
 #, no-wrap
 msgid "CoMaps is recommended by *[Switching Software](https://switching.software/replace/google-maps/)*, *[European & Open Source Alternatives](https://european-alternatives.cloud/en/browse?category=maps)*, *[Digital Independence Day](https://di.day/en/digital-switch-recipes/maps)* ,and *[Framastart](https://framastart.org/smartphone/)* as an ethical, easy-to-use and privacy-conscious alternative to commercial maps."
-msgstr ""
+msgstr "*[Switching Software](https://switching.software/replace/google-maps/)*、*[European & Open Source Alternatives](https://european-alternatives.cloud/en/browse?category=maps)*、*[Digital Independence Day](https://di.day/en/digital-switch-recipes/maps)*，以及*[Framastart](https://framastart.org/smartphone/)* 都推薦 CoMaps 相比商業地圖，是有道德的，容易使用，以及注重隱私的替代品。"
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
 #, no-wrap
 msgid "Independent maps"
-msgstr ""
+msgstr "獨立地圖"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
 #, no-wrap
 msgid "A True Alternative"
-msgstr ""
+msgstr "真正的替代品"
 
 #. type: Yaml Front Matter Hash Value: extra services items cta text
 #: content/_index.md
@@ -404,10 +402,9 @@ msgstr "隱私保護下的免費開放導航 -<br/>由社群共同營造"
 
 #. type: Yaml Front Matter Hash Value: extra about text
 #: content/about-us/index.md
-#, fuzzy, no-wrap
-#| msgid "CoMaps is a community-focused privacy navigation app for travelers - drivers, hikers, and cyclists. It uses the crowd-sourced OpenStreetMap data with contributors from all over the globe. It offers navigation with privacy - no identifying people and no data collection. CoMaps features can operate without an active internet connection for offline navigation at urban or distant locations, where cellular service is not available. CoMaps is an open-source project, and prioritizes community development."
+#, no-wrap
 msgid "CoMaps is a community-focused privacy navigation app for travelers - drivers, hikers, and cyclists. It offers navigation with privacy - no identifying people and no data collection. CoMaps features can operate without an active internet connection for offline navigation at urban or distant locations, where cellular service is not available. CoMaps is an open-source project, and prioritizes community development."
-msgstr "CoMaps 是一個以社群為本的隱私導航應用，適用於旅行者⸺運轉手、背包客和單車族。本應用使用眾包的 OpenStreetMap 資料，參與者來自世界各地。本應用無法辨識使用者身份，也無法收集使用者資料⸺在整個導航過程中，您的隱私都會受到雙管齊下的保護。CoMaps 功能無需網路連線即可運作，以便在没有行動網路的城市或偏遠地區進行離線導航。CoMaps 是一個優先考慮社群發展的開源專案。"
+msgstr "CoMaps 是一個以社群為本的隱私導航應用，適用於旅行者⸺運轉手、背包客和單車族。本應用無法辨識使用者身份，也無法收集使用者資料⸺在整個導航過程中，您的隱私都會受到雙管齊下的保護。CoMaps 功能無需網路連線即可運作，以便在没有行動網路的城市或偏遠地區進行離線導航。CoMaps 是一個優先考慮社群發展的開源專案。"
 
 #. type: Yaml Front Matter Hash Value: extra about title
 #: content/about-us/index.md
@@ -419,19 +416,19 @@ msgstr "隱私保護下的免費開放導航，由社群共同營造"
 #: content/about-us/index.md
 #, no-wrap
 msgid "CoMaps is made possible thanks to the labor of communities who help create and maintain the open data that powers our app: Our maps use OpenStreetMap data, made and maintained by thousands of contributors from all over the world. In order to link to, and provide offline details about cities, attractions and many other points-of-interest, we rely on the articles and photos of the global Wikipedia, Wikidata, and Wikimedia Commons communities."
-msgstr ""
+msgstr "因為社群盡力創造與維護 CoMaps 仰賴的開放資料，才讓 CoMaps 成為可能：我們的地圖使用由成千上萬分佈在世界各地的人貢獻的開放街圖資料。而為了各地城市的離線介紹、景點，以及各種類別的興趣點，我們仰賴具備全球性質計畫的維基百科、維基數據以及維基共享資源上頭的文章與圖片。"
 
 #. type: Yaml Front Matter Hash Value: extra data title
 #: content/about-us/index.md
 #, no-wrap
 msgid "Powered by open data commons"
-msgstr ""
+msgstr "由開放資料公共資源驅動"
 
 #. type: Yaml Front Matter Hash Value: extra data_link text
 #: content/about-us/index.md
 #, no-wrap
 msgid "Learn more about all of our open data sources"
-msgstr ""
+msgstr "瞭解更多開放資源的來源"
 
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md
@@ -619,7 +616,7 @@ msgstr "全部"
 #: translations.yaml
 #, no-wrap
 msgid "Android is becoming a closed down platform. Learn more!"
-msgstr ""
+msgstr "Android 已經變成越來越封閉的平台了，瞭解更多！"
 
 #. type: Hash Value: button-download
 #: translations.yaml
@@ -715,7 +712,7 @@ msgstr "原始碼"
 #: translations.yaml
 #, no-wrap
 msgid "Service Status"
-msgstr ""
+msgstr "服務狀態"
 
 #. type: Hash Value: more_title
 #: translations.yaml
