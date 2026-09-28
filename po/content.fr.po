@@ -14,6 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 2026.9.1\n"
+"PO-Revision-Date: 2026-09-28 08:27+0000\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -615,7 +616,7 @@ msgstr "Tout"
 #: translations.yaml
 #, no-wrap
 msgid "Android is becoming a closed down platform. Learn more!"
-msgstr "Android est en train de devenir une plateforme fermée. En savoir plus."
+msgstr "Android est en train de devenir une plateforme fermée. Pour en savoir plus !"
 
 #. type: Hash Value: button-download
 #: translations.yaml
