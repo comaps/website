@@ -14,6 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 2026.9.1\n"
+"PO-Revision-Date: 2026-09-29 08:27+0000\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -91,7 +92,7 @@ msgstr "Планинарите са информацијама које су в�
 #: content/_index.md
 #, no-wrap
 msgid "Efficiently uses the battery, doesn’t drain your battery like other navigation apps."
-msgstr "Ефикасно користи батерију, не празни батерију као друге навигационе апликације."
+msgstr "Ефикасно користи батерију, не празни је као друге апликације за навигацију."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
@@ -169,7 +170,7 @@ msgstr "inv_title"
 #: content/_index.md
 #, no-wrap
 msgid "People like you are helping build the app by adding locations to <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> to create great maps together. The project is a fork of Organic Maps and Maps.Me, and driven by an open-source community."
-msgstr "Људи као што сте ви су помажу да се развија апликација додавањем локација на <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, давањем повратних информација о функцијама и писањем изворног кода путем <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span>-а, како бисмо заједно направили изузетне мапе. Овај пројекат наследник пројеката *Organic Maps* и *Maps.Me* и њиме управља заједница отвореног кода."
+msgstr "Људи као што сте Bи помажу да се развија апликација додавањем локација на <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, давањем повратних информација о функцијама и писањем изворног кода путем <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span>-а, како бисмо заједно направили изузетне мапе. Овај пројекат наследник пројеката *Organic Maps* и *Maps.Me* и њиме управља заједница отвореног кода."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
@@ -199,19 +200,19 @@ msgstr "Вести и издања"
 #: content/community/index.md
 #, no-wrap
 msgid "CoMaps is created and maintained by people like you"
-msgstr "CoMaps стварају и одржавају људи попут вас"
+msgstr "*CoMaps* стварају и одржавају људи попут вас"
 
 #. type: Hash Value: donate-description
 #: content/community/index.md translations.yaml
 #, no-wrap
 msgid "The app runs on your donations, help improve it"
-msgstr "Апликација расте на вашим донацијама, помозите да се побољша"
+msgstr "Апликација расте са вашим донацијама, помозите да се побољша"
 
 #. type: Hash Value: menu_donate
 #: content/community/index.md content/donate/index.md translations.yaml
 #, no-wrap
 msgid "Donate"
-msgstr "Донирајте"
+msgstr "Донације"
 
 #. type: Yaml Front Matter Hash Value: extra features description
 #: content/community/index.md
@@ -403,7 +404,7 @@ msgstr "Слободна, отворена и бесплатна навигац�
 #: content/about-us/index.md
 #, no-wrap
 msgid "CoMaps is a community-focused privacy navigation app for travelers - drivers, hikers, and cyclists. It offers navigation with privacy - no identifying people and no data collection. CoMaps features can operate without an active internet connection for offline navigation at urban or distant locations, where cellular service is not available. CoMaps is an open-source project, and prioritizes community development."
-msgstr "CoMaps је апликација за навигацију усмерена на заједницу, намењена путницима – возачима, пешацима и бициклистима. Нуди навигацију уз потпуну приватност – без идентификације корисника и без прикупљања података. Функције CoMaps-а могу радити и без активне интернет везе, омогућавајући офлајн навигацију у градским или удаљеним подручјима где нема мобилног сигнала. CoMaps је пројекат отвореног кода и приоритет даје развоју вођеном од стране заједнице."
+msgstr "*CoMaps* је апликација за навигацију усмерена на заједницу, намењена путницима – возачима, пешацима и бициклистима. Нуди навигацију уз потпуну приватност – без идентификације корисника и без прикупљања података. Функције *CoMaps*-а могу радити и без активне интернет везе, омогућавајући офлајн навигацију у градским или удаљеним подручјима где нема мобилног сигнала. *CoMaps* је пројекат отвореног кода и приоритет даје развоју вођеном од стране заједнице."
 
 #. type: Yaml Front Matter Hash Value: extra about title
 #: content/about-us/index.md
@@ -439,7 +440,7 @@ msgstr "Направљена је *MapsWithMe* апликација за нав�
 #: content/about-us/index.md
 #, no-wrap
 msgid "Maps.me opened the source code under Apache 2.0 license."
-msgstr "Maps.me изворни код је објављен под Apache 2.0 лиценцом."
+msgstr "*Maps.me* изворни код је објављен под *Apache* 2.0 лиценцом."
 
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md
