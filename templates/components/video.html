@@ -1,0 +1,8 @@
+{% component video(src, alt='', caption='',classes='') %}
+{% if caption  %}<figure>{% endif %}
+<video controls {% if alt %} alt="{{ alt }}"{% endif %}{% if classes %} class="{{ classes }}"{% endif %}>
+    <source src="{{ src }}">
+</video>
+{% if caption %}<figcaption><small>{{ caption | markdown(inline=true) | safe }}</small></figcaption>
+</figure>{% endif %}
+{% endcomponent %}

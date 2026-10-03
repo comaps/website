@@ -105,22 +105,22 @@ a {
 
 // images shortcode
 .img-inline {margin-top: -4rem; max-height: 24rem; display: inline-block; vertical-align: middle;}
-img.max-w-50 {max-width: 50%;
+video.max-w-50, img.max-w-50 {max-width: 50%;
     @media (max-width: $media-sm) {
         max-width: 100%;
     }
 }
-img.max-w-40 { max-width: 40%;
+video.max-w-40,  img.max-w-40 { max-width: 40%;
     @media (max-width: $media-sm) {
         max-width: 100%;
     }
 }
-img.max-w-20 { max-width: 20%;
+video.max-w-20, img.max-w-20 { max-width: 20%;
     @media (max-width: $media-sm) {
         max-width: 100%;
     }
 }
-img.center {
+video.center, img.center {
     margin-right: auto;
     margin-left: auto;
 }
@@ -136,7 +136,7 @@ figure {
         max-width: 100%;
     }
 }
-figure img {
+figure img, figure video {
     display: block;
     margin-left: auto;
     margin-right: auto;
