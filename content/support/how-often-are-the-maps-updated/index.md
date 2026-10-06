@@ -8,6 +8,6 @@ extra:
   order: 30
 ---
 
-Before May 2026, maps were updated 1-2 times a month. Now, we hope to increase this to weekly.
+Before May 2026, maps were updated 1-2 times a month. Since then, we have changed the process though and map updates are no longer tied to app updates. 
 
-Map updates are now no longer tied to app updates. A basic recent map update will ship with each app update, but you'll also be able to Check for Updates in the download screen and get updated maps until the app version is too old for compatibility with new maps.
+As a result, we now release map updates roughly once a week. A basic recent map update will ship with each app update, but are also able to *Check for Updates* in the download screen and get updated maps until the app version is too old for compatibility with new maps.
