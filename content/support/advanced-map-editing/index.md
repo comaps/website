@@ -50,5 +50,5 @@ The OpenStreetMap database contains Objects like Nodes, Ways, Areas, and Relatio
 As this sounds more complicated than it is we will give an example:
 A Restaurant is e.g. mapped as a Node or Area with the Tag ``` amenity=restaurant```. Further Tags like ```cuisine=*``` or ```opening_hours=*``` can then be used for further details.
 
-> Note that the iD editor hides the internal data structure from the users to be more beginner-friendly. But for reading the wiki documentation, having a brief overview of the data structure can be helpful.
+Note that the iD editor hides the internal data structure from the users to be more beginner-friendly. But for reading the wiki documentation, having a brief overview of the data structure can be helpful.
 In the iD Editor, you can see the Tags that iD is hiding from you by expanding the *Tags* section in the *Edit feature* side panel.
