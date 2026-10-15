@@ -14,37 +14,45 @@ A major difference between the projects is how they are governed and run - CoMap
 
 Since the split in April 2025, CoMaps has developed a number of features:
 
-- Improved routing engine and more accurate arrival time estimation and support for conditional restrictions
-- Routing options: Can avoid paved or unpaved roads, as well as steps
-- More dense/detailed altitude contour lines for many regions
+- Mangrove user reviews and ratings for map objects (only on Android and Linux so far)
+- Weekly map updates without the need to update the app version first
+- Map enhancements
+  - reworked map colors for light and dark modes
+  - many new map object types
+  - road outlines for better legibility
+  - specific road number signs for many countries
+  - more detailed altitude contour lines for many regions
 - Customizable button on home screen
-- Improved built-in OpenStreetMap editor: 
-  - Improved editor and support for OSM Notes
+- Navigation
+  - improved routing and next turn instructions with more accurate arrival time estimates
+  - options to avoid paved or unpaved roads, as well as stairs
+  - turn-by-turn directions preview
+- On iOS:
+  - lane guidance and CarPlay Dashboard support
+  - new modes UI and transport-specific map styles
+- On Android:
+  - automatic backups for favorites (bookmarks, tracks)
+  - updated Material 3 UI
+	- search across all favourites lists
+  - charging station socket details and ability to add/edit these
+- Offline Wikipedia articles in more languages
+- Subway layer additions for many more cities around the world
+- Accessibility improvements, e.g. Android TalkBack support and custom larger map font size setting
+- Added map object details:
+  - Panoramax picture links
+  - Mastodon & Bluesky contacts
+  - population of localities
+  - organic options in e.g. clothing shops and restaurants
+  - charge amounts for facilities
+  - "last checked" date
+- Improved Right-to-Left languages support
+- Built-in OpenStreetMap editor enhancements:
+  - support for OSM Notes
   - add/update "last checked" date when adding/editing POI
   - option to mark businesses as vacant or disused
-  - more objects and POI can be added to OSM (e.g. addresses, vending machines, visitor centers, religion-specific places of worship)
-- Better visibility for many map objects, and enhanced map colors for light and dark modes
-- Improvements to search
-- Additional Points of Interest on the map
-- Removed semi-transparent background from Subway layer
-- Improved layouts for Right-to-Left languages
-- Added further languages for offline Wikipedia articles
-- Included country-specific road shields for more countries
-- Added more details to POI pages:
-  - Display the "last checked" date of POI
-  - Added Panoramax picture links where available
-  - Display population of localities
-  - Display number of rooms of venues
-  - Add links to Mastodon & Bluesky where available
-  - Display availability of organic options
-- On Android: 
-  - Automatic backups for favorites (bookmarks, tracks)
-  - Increased details about charging stations for electrical vehicles and ability to add/edit these
-  - Ability to use a custom map server.
-  - Improved UI and zoom handling during navigation 
-  - New Material 3 UI 
-- And many smaller updates
+  - more addable POIs (e.g. addresses, vending machines, visitor centers, religion-specific places of worship)
+- Translations to new languages
+- Ability to use a custom map server
 
-
-The [full list of updates is on Codeberg](https://codeberg.org/comaps/comaps/releases).
+...and many more improvements, check the [full per-release list of changes](https://codeberg.org/comaps/comaps/releases).
 
