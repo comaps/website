@@ -6,14 +6,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"Last-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>\n"
+"Last-Translator: mercator_proj <mercator_proj@noreply.codeberg.org>\n"
 "Language-Team: Romanian <https://translate.codeberg.org/projects/comaps/website/ro/>\n"
 "Language: ro\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < 20)) ? 1 : 2;\n"
-"X-Generator: Weblate 2026.7.1\n"
+"X-Generator: Weblate 2026.10.1\n"
+"PO-Revision-Date: 2026-10-11 21:27+0000\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -43,20 +44,19 @@ msgstr "Comunitate + Hărți Deschise"
 #: content/_index.md
 #, no-wrap
 msgid "CoMaps comes preinstalled on these operating systems as their default map app."
-msgstr "CoMaps vine preinstalată ca aplicația implicită pentru hărți pe aceste sisteme de operare."
+msgstr "CoMaps vine preinstalată ca aplicație implicită pentru hărți pe aceste sisteme de operare."
 
 #. type: Yaml Front Matter Hash Value: extra preinstalls title
 #: content/_index.md
 #, no-wrap
 msgid "Trusted by these projects"
-msgstr "Aceste proiecte au încredere"
+msgstr "Aceste proiecte au încredere în noi"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
 #, fuzzy, no-wrap
-#| msgid "Plan and navigate your trip abroad with just GPS, no need for mobile data. Search waypoints while on distant hiking trails or bike paths."
 msgid "Plan and navigate your trip abroad with just GPS, no need for mobile data. Search waypoints while on remote hiking trails or bike paths. Navigate with turn-by-turn instructions by foot, bike or car, including voice announcements."
-msgstr "Planifică-ți și navighează-ți călătoria în străinătate doar cu GPS-ul, fără să ai nevoie de date mobile. Caută puncte de reper chiar și pe trasee de drumeții îndepărtate sau piste de biciclete."
+msgstr "Planifică-ți și navighează-ți călătoria în străinătate doar cu GPS-ul, fără să ai nevoie de date mobile. Caută puncte de reper chiar și pe trasee de. drumeții îndepărtate sau piste de biciclete. Navighează cu instrucțiuni pas cu pas, pe jos, cu bicicleta sau cu mașina, cu alerte vocale incluse."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
@@ -73,15 +73,15 @@ msgstr "Căutare și Navigare Offline"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "Use the outdoor mode to highlight hiking trails, campsites, and water sources. Enable contour lines to plan your trip. Spot an interesting peak along the way? Use the offline *Wikipedia* articles to learn more about it!"
-msgstr ""
+msgstr "Folosește modul Afară pentru a evidenția trasee de drumeție, campinguri și surse de apă. Activează liniile de contur pentru a îți planifica drumul. Ai observat un vârf interesant pe drum? Folosește articolele *Wikipedia* offline pentru a afla mai multe despre el!"
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
 #, no-wrap
 msgid "Explore nature"
-msgstr ""
+msgstr "Explorează natura"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
@@ -117,7 +117,7 @@ msgstr ""
 #: content/_index.md
 #, no-wrap
 msgid "Explore the city"
-msgstr ""
+msgstr "Explorează orașul"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
@@ -146,21 +146,21 @@ msgstr "Fără colectare de date"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "CoMaps is recommended by *[Switching Software](https://switching.software/replace/google-maps/)*, *[European & Open Source Alternatives](https://european-alternatives.cloud/en/browse?category=maps)*, *[Digital Independence Day](https://di.day/en/digital-switch-recipes/maps)* ,and *[Framastart](https://framastart.org/smartphone/)* as an ethical, easy-to-use and privacy-conscious alternative to commercial maps."
-msgstr ""
+msgstr "CoMaps e recomandată de *[Switching Software](https://switching.software/replace/google-maps/)*, *[European & Open Source Alternatives](https://european-alternatives.cloud/en/browse?category=maps)*, *[Digital Independence Day](https://di.day/en/digital-switch-recipes/maps)* și *[Framastart](https://framastart.org/smartphone/)* ca alternativă etică, ușor de folosit și preocupată de confidențialitate la aplicațiile comerciale de hărți."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
 #, no-wrap
 msgid "Independent maps"
-msgstr ""
+msgstr "Hărți independente"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
 #, no-wrap
 msgid "A True Alternative"
-msgstr ""
+msgstr "O alternativă reală"
 
 #. type: Yaml Front Matter Hash Value: extra services items cta text
 #: content/_index.md
@@ -330,7 +330,7 @@ msgstr "Donează prin Open Collective"
 #, fuzzy, no-wrap
 #| msgid "We pay for fast servers, so anyone in the world can download free map data updates without delays. The maps data transfers are hundreds of terabytes monthly, and the amount is growing."
 msgid "We have to keep up fast servers, to update the map files and for you to download them without delays. The maps data transfers make up large, and growing, amounts of data each month."
-msgstr "Plătim pentru servere rapide, astfel încât oricine din lume să poată descărca actualizări gratuite ale datelor hărților fără întârzieri. Transferurile de date pentru hărți ajung la sute de terabytes pe lună, iar volumul este în continuă creștere."
+msgstr "Trebuie să menținem servere rapide pentru a putea actualiza fișierele cu hărți și pentru ca tu să le poți descărca fără întârzieri. Transferurile de date pentru hărți au un volum de date mare, crescând de la lună la lună."
 
 #. type: Yaml Front Matter Hash Value: extra funding items title
 #: content/donate/index.md
@@ -435,7 +435,7 @@ msgstr ""
 #: content/about-us/index.md
 #, no-wrap
 msgid "Learn more about all of our open data sources"
-msgstr ""
+msgstr "Află mai multe despre toate sursele noastre de date deschise"
 
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md
@@ -535,10 +535,9 @@ msgstr ""
 
 #. type: Yaml Front Matter Hash Value: extra releases title
 #: content/download/index.md
-#, fuzzy, no-wrap
-#| msgid "Releases"
+#, no-wrap
 msgid "Latest Releases"
-msgstr "Lansări"
+msgstr "Ultimele lansări"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/download/index.md
@@ -602,18 +601,20 @@ msgstr ""
 
 #. type: Plain text
 #: content/terms/index.md
+#, fuzzy
 msgid "Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License."
-msgstr ""
+msgstr "Cu excepția cazurilor necesare prin lege sau stabilite de comun acord în scris, programul distribuit prin această Licență este distribuit „CA ATARE”, FĂRĂ GARANȚII SAU CONDIȚII DE ORICE FEL, fie explicite sau implicite. Consultați Licența pentru termenii specifici ce reglemetează permisiunile și limitările aferente Licenței."
 
 #. type: Plain text
 #: content/terms/index.md
+#, fuzzy
 msgid "Many libraries and 3rd party tools included into [CoMaps repository](https://codeberg.org/comaps/comaps) were developed by multiple people and organizations, and licensed in different ways.  Please refer to their LICENSE, COPYING or NOTICE files for terms of use."
-msgstr ""
+msgstr "Multe biblioteci și instrumente terțe incluse în [repozitoriul CoMaps](https://codeberg.org/comaps/comaps) au fost dezvoltate de numeroase persoane și organizații și licențiate în dicerse moduri. Vă rugăm să le consultați fișierele LICENSE, COPYING sau NOTICE pentru termenii și condițiile de utilizare."
 
 #. type: Plain text
 #: content/terms/index.md
 msgid "See [data/copyright.html](https://codeberg.org/comaps/comaps/src/branch/main/data/copyright.html) file for a full list of copyright notices for the CoMaps application."
-msgstr ""
+msgstr "Consultați [data/copyright.html](https://codeberg.org/comaps/comaps/src/branch/main/data/copyright.html) pentru lista completă a avizelor privind drepturile de autor pentru aplicația CoMaps."
 
 #. type: Hash Value: all_title
 #: translations.yaml
@@ -625,7 +626,7 @@ msgstr "Toate"
 #: translations.yaml
 #, no-wrap
 msgid "Android is becoming a closed down platform. Learn more!"
-msgstr ""
+msgstr "Android devine o platformă închisă. Află mai multe!"
 
 #. type: Hash Value: button-download
 #: translations.yaml
@@ -721,7 +722,7 @@ msgstr "Cod sursă"
 #: translations.yaml
 #, no-wrap
 msgid "Service Status"
-msgstr ""
+msgstr "Starea serviciului"
 
 #. type: Hash Value: more_title
 #: translations.yaml

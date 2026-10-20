@@ -13,8 +13,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 2026.9.1\n"
-"PO-Revision-Date: 2026-09-29 13:27+0000\n"
+"X-Generator: Weblate 2026.10.1\n"
+"PO-Revision-Date: 2026-10-11 08:27+0000\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -56,7 +56,7 @@ msgstr "深受这些项目信赖"
 #: content/_index.md
 #, no-wrap
 msgid "Plan and navigate your trip abroad with just GPS, no need for mobile data. Search waypoints while on remote hiking trails or bike paths. Navigate with turn-by-turn instructions by foot, bike or car, including voice announcements."
-msgstr "仅凭 GPS 即可规划并导航您的出境行程，无需移动数据。 即使身处偏远的徒步小径或骑行绿道，也能轻松搜索途经点。无论步行、骑行还是驾车，均可享受带语音播报的逐向导航。"
+msgstr "无需移动数据，仅凭 GPS 即可规划并导航你的出境行程。无论是深入荒野徒步，还是在户外旷野骑行，都能轻松查找途经点。此外步行、骑行或驾车，均支持带语音播报的逐向导航。"
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
@@ -68,7 +68,7 @@ msgstr "无需网络"
 #: content/_index.md
 #, no-wrap
 msgid "Offline Search and Routing"
-msgstr "离线搜索与路线规划"
+msgstr "离线地图，随形导航"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
@@ -90,27 +90,27 @@ msgstr "信息在手，徒步无忧"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "Efficiently uses the battery, doesn’t drain your battery like other navigation apps."
-msgstr "电池优化，不会像其他导航应用那样耗电。"
+msgstr "高效利用电量，不像其他导航应用那样费电。"
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "Efficient battery use"
-msgstr "电池优化"
+msgstr "超低功耗"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "Save Your Battery"
-msgstr "节省电池电量"
+msgstr "高效省电，持久续航"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
 #, no-wrap
 msgid "Use the public transport layer to plan your subway and light rail journeys in a growing list of cities."
-msgstr ""
+msgstr "利用公共交通图层，规划你的轨道交通出行，覆盖城市持续增加。"
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
@@ -122,44 +122,43 @@ msgstr "探索城市"
 #: content/_index.md
 #, no-wrap
 msgid "Get around the City"
-msgstr ""
+msgstr "城市出行，尽在掌握"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
-#, fuzzy, no-wrap
-#| msgid "The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information. CoMaps was also audited by <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-exodus\"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/)."
+#, no-wrap
 msgid "The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information. CoMaps was also audited by <span class=\"text-icon\"><svg viewbox=\"0 0 19 19\"><use href=\"#icon-exodus\"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/), a privacy auditor."
-msgstr "该应用在设计上注重隐私保护——不识别用户身份、不跟踪行踪、也不收集任何信息。CoMaps还通过了<span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-exodus\"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/) 隐私组织的安全审计。"
+msgstr "隐私至上，从设计之初便贯彻到底——不识别用户，不追踪轨迹，不收集数据。CoMaps 还接受了隐私审计机构 <span class=\"text-icon\"><svg viewbox=\"0 0 19 19\"><use href=\"#icon-exodus\"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/) 的审计。"
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
 #, no-wrap
 msgid "Privacy by default"
-msgstr "默认尊重隐私"
+msgstr "隐私为先"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
 #, no-wrap
 msgid "No Data Collection"
-msgstr "不收集数据"
+msgstr "保护隐私，绝不收集"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
 #, no-wrap
 msgid "CoMaps is recommended by *[Switching Software](https://switching.software/replace/google-maps/)*, *[European & Open Source Alternatives](https://european-alternatives.cloud/en/browse?category=maps)*, *[Digital Independence Day](https://di.day/en/digital-switch-recipes/maps)* ,and *[Framastart](https://framastart.org/smartphone/)* as an ethical, easy-to-use and privacy-conscious alternative to commercial maps."
-msgstr ""
+msgstr "CoMaps 被*[Switching Software](https://switching.software/replace/google-maps/)*，*[European & Open Source Alternatives](https://european-alternatives.cloud/en/browse?category=maps)*，*[Digital Independence Day](https://di.day/en/digital-switch-recipes/maps)*，以及*[Framastart](https://framastart.org/smartphone/)*推荐为商业地图的替代方案：尊重用户、简单易用、注重隐私。"
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
 #, no-wrap
 msgid "Independent maps"
-msgstr ""
+msgstr "纯净地图"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
 #, no-wrap
 msgid "A True Alternative"
-msgstr ""
+msgstr "真正替代，不二之选"
 
 #. type: Yaml Front Matter Hash Value: extra services items cta text
 #: content/_index.md
@@ -189,13 +188,13 @@ msgstr "自由且社区共建"
 #: content/_index.md
 #, no-wrap
 msgid "Hike, Bike, Drive Offline – Navigate with Privacy"
-msgstr "离线远足、骑行、驾驶 – 隐私保护下的导航"
+msgstr "徒步、骑行、自驾，全程离线——隐私为先的导航"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/news/_index.md
 #, no-wrap
 msgid "News and Releases"
-msgstr "最新消息和推出"
+msgstr "最新动态"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/community/index.md
@@ -429,7 +428,7 @@ msgstr "由开放数据共享平台提供支持"
 #: content/about-us/index.md
 #, no-wrap
 msgid "Learn more about all of our open data sources"
-msgstr ""
+msgstr "进一步了解我们的开放数据源"
 
 #. type: Yaml Front Matter Hash Value: extra history items text
 #: content/about-us/index.md
@@ -507,7 +506,7 @@ msgstr "我们的愿景"
 #: content/about-us/index.md translations.yaml
 #, no-wrap
 msgid "About Us"
-msgstr "关于我们"
+msgstr "关于"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/download/index.md
@@ -617,7 +616,7 @@ msgstr "全部"
 #: translations.yaml
 #, no-wrap
 msgid "Android is becoming a closed down platform. Learn more!"
-msgstr ""
+msgstr "Android 正走向封闭，立即了解！"
 
 #. type: Hash Value: button-download
 #: translations.yaml
@@ -665,13 +664,13 @@ msgstr "添加周围环境信息，让地图更好地为所有人服务"
 #: translations.yaml
 #, no-wrap
 msgid "Add Place Info"
-msgstr "添加地点信息"
+msgstr "添加地点"
 
 #. type: Hash Value: inv_title
 #: translations.yaml
 #, no-wrap
 msgid "Get Involved"
-msgstr "参与我们"
+msgstr "参与共建"
 
 #. type: Hash Value: language
 #: translations.yaml
@@ -701,7 +700,7 @@ msgstr "媒体报道"
 #: translations.yaml
 #, no-wrap
 msgid "News"
-msgstr "新闻"
+msgstr "动态"
 
 #. type: Hash Value: menu_source_code
 #: translations.yaml
@@ -713,7 +712,7 @@ msgstr "源代码"
 #: translations.yaml
 #, no-wrap
 msgid "Service Status"
-msgstr ""
+msgstr "服务状态"
 
 #. type: Hash Value: more_title
 #: translations.yaml

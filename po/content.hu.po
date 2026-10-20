@@ -6,14 +6,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CoMaps Website 1.0\n"
-"Last-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>\n"
+"Last-Translator: Weicat <weicat@noreply.codeberg.org>\n"
 "Language-Team: Hungarian <https://translate.codeberg.org/projects/comaps/website/hu/>\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2026.5\n"
+"X-Generator: Weblate 2026.10.1\n"
+"PO-Revision-Date: 2026-10-20 09:27+0000\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -43,20 +44,19 @@ msgstr "Közösségi és nyílt hozzáférésű térképek"
 #: content/_index.md
 #, no-wrap
 msgid "CoMaps comes preinstalled on these operating systems as their default map app."
-msgstr ""
+msgstr "Ezeken az operációs rendszereken a CoMaps az alapértelmezett térkép."
 
 #. type: Yaml Front Matter Hash Value: extra preinstalls title
 #: content/_index.md
 #, no-wrap
 msgid "Trusted by these projects"
-msgstr ""
+msgstr "Projektek, amik bíznak bennünk"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
-#, fuzzy, no-wrap
-#| msgid "Plan and navigate your trip abroad with just GPS, no need for mobile data. Search waypoints while on distant hiking trails or bike paths."
+#, no-wrap
 msgid "Plan and navigate your trip abroad with just GPS, no need for mobile data. Search waypoints while on remote hiking trails or bike paths. Navigate with turn-by-turn instructions by foot, bike or car, including voice announcements."
-msgstr "Tervezze meg és navigálja külföldi utazását csak GPS segítségével, mobil adatforgalom nélkül. Keressen útvonalpontokat távoli túraútvonalakon vagy kerékpárutakon."
+msgstr "Tervezze meg és navigálja külföldi utazását csak GPS segítségével, mobil adatforgalom nélkül. Keressen útvonalpontokat távoli túraútvonalakon vagy kerékpárutakon. Navigáljon gyalog, kerékpárral vagy autóval, részletes, akár hangos utasítások alapján."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
@@ -66,8 +66,7 @@ msgstr "Nincs szükség internetkapcsolatra"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
-#, fuzzy, no-wrap
-#| msgid "Offline Search and Route"
+#, no-wrap
 msgid "Offline Search and Routing"
 msgstr "Internetkapcsolat nélküli keresés és útvonal tervezés"
 
@@ -75,19 +74,19 @@ msgstr "Internetkapcsolat nélküli keresés és útvonal tervezés"
 #: content/_index.md
 #, no-wrap
 msgid "Use the outdoor mode to highlight hiking trails, campsites, and water sources. Enable contour lines to plan your trip. Spot an interesting peak along the way? Use the offline *Wikipedia* articles to learn more about it!"
-msgstr ""
+msgstr "Túraútvonalak, kempinghelyek, és víznyerő helyek kiemeléséhez használja a szabadidő módot. A szintvonalak segítenek a túra megtervezésében. Menet közben meglát egy érdekes hegycsúcsot? Az offline *Wikipédia* elolvasásával sokat megtudhat róla!"
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
 #, no-wrap
 msgid "Explore nature"
-msgstr ""
+msgstr "Fedezze fel a természetet"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
 #, no-wrap
 msgid "Hike with the Information you Need"
-msgstr ""
+msgstr "Minden információ, ami egy túrához kell"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
@@ -111,26 +110,25 @@ msgstr "Kíméli az akkumulátort"
 #: content/_index.md
 #, no-wrap
 msgid "Use the public transport layer to plan your subway and light rail journeys in a growing list of cities."
-msgstr ""
+msgstr "Használja a tömegközlekedési nézetet, és tervezze meg útvonalát metróval és elővárosi vasúttal egyre több városban."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
 #, no-wrap
 msgid "Explore the city"
-msgstr ""
+msgstr "Fedezze fel a várost"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
 #, no-wrap
 msgid "Get around the City"
-msgstr ""
+msgstr "Közlekedjen egyszerűen a városban"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
-#, fuzzy, no-wrap
-#| msgid "The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information. CoMaps was also audited by <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-exodus\"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/)."
+#, no-wrap
 msgid "The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information. CoMaps was also audited by <span class=\"text-icon\"><svg viewbox=\"0 0 19 19\"><use href=\"#icon-exodus\"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/), a privacy auditor."
-msgstr "Az alkalmazás az adatvédelem szem előtt tartásával készült, nem azonosítja, nem követi az embereket, és nem gyűjt semmilyen információt. A CoMaps alkalmazást átvizsgálta az <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-exodus\"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/)."
+msgstr "Az alkalmazás az adatvédelem szem előtt tartásával készült, nem azonosítja, nem követi az embereket, és nem gyűjt semmilyen információt. A CoMaps alkalmazást átvizsgálta az <span class=\"text-icon\"><svg viewbox=\"0 0 19 19\"><use href=\"#icon-exodus\"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/) adatvédelmi ellenőr."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md

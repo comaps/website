@@ -13,7 +13,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2026.8.1\n"
+"X-Generator: Weblate 2026.9.1\n"
+"PO-Revision-Date: 2026-10-04 04:27+0000\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -325,7 +326,7 @@ msgstr "Donar vía Open Collective"
 #: content/donate/index.md
 #, no-wrap
 msgid "We have to keep up fast servers, to update the map files and for you to download them without delays. The maps data transfers make up large, and growing, amounts of data each month."
-msgstr "Pagamos por servidores veloces, para que cualquier persona del mundo pueda descargar gratis actualizaciones de mapas rápidamente. Las transferencias de datos de mapas son cientos de TB al mes, y la cantidad sigue creciendo."
+msgstr "Tenemos que mantener servidores rápidos para actualizar los archivos de mapas y para que puedas descargarlos sin retrasos. Las transferencias de datos de los mapas representan volúmenes grandes, y en constante crecimiento, cada mes."
 
 #. type: Yaml Front Matter Hash Value: extra funding items title
 #: content/donate/index.md
