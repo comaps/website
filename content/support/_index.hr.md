@@ -1,8 +1,8 @@
 ---
-description: "Need assistance? Search for answers to common questions. Get the support you need and connect with others in the community for help."
+description: "Trebaš pomoć? Potraži odgovore na uobičajena pitanja. Dobij potrebnu podršku i poveži se s drugima u zajednici za pomoć."
 extra:
   faq_title: FAQs
 template: support.html
-title: Help
+title: Pomoć
 weight: 10
 ---

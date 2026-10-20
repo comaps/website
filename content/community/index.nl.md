@@ -16,8 +16,8 @@ extra:
     - description: "Bepaal de koers van de productbeleving"
       icon: BezierCurve.svg
       link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md#ui-ux-map-styling-and-icons
-      title: "**Ontwerp** interface"
-    - description: "Voeg vertalingen toe om het toegankelijk te maken voor meer mensen wereldwijd"
+      title: "**Ontwerp** de interface"
+    - description: "Voeg vertalingen toe om de app toegankelijk te maken voor meer mensen wereldwijd"
       icon: Translate.svg
       link: https://codeberg.org/comaps/comaps/src/branch/main/docs/TRANSLATIONS.md
       title: "**Vertaal** tekst"

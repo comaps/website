@@ -16,7 +16,7 @@ extra:
         text: "We moeten snelle servers onderhouden om de kaartbestanden bij te werken en jou deze zonder vertragingen te laten downloaden. Deze overdrachten vormen elke maand grote en groeiende hoeveelheden gegevens."
         title: Infrastructuur
       - media: /images/donate/support.webp
-        text: "Gebruikerssupport, het oplossen van bugs en het verbeteren van de stabiliteit van de app hebben onze hoogste prioriteit. De lijst met verzoeken en bugs groeit dagelijks en er zijn veel vragen om te beantwoorden in de App Store, Google Play en via e-mail."
+        text: "Gebruikerssupport, het oplossen van bugs en het verbeteren van de stabiliteit van de app hebben onze hoogste prioriteit. De lijst met verzoeken en bugs groeit dagelijks en er zijn veel vragen om te beantwoorden in de App Store, Google Play en e-mail."
         title: Ondersteuning
       - media: /images/donate/developers.webp
         text: "Momenteel wordt alle ontwikkeling gedaan door vrijwilligers in hun vrije tijd. Voor de implementatie van grotere, ambitieuzere functies kunnen in de toekomst betaalde ontwikkelaars nodig zijn."

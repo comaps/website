@@ -7,12 +7,12 @@ extra:
   map:
     description: 'Zajednica + Otvorene karte'
   preinstalls:
-    description: 'CoMaps comes preinstalled on these operating systems as their default map app.'
-    title: 'Trusted by these projects'
+    description: 'CoMaps dolazi unaprijed instaliran na ovim operativnim sustavima kao njihova zadana aplikacija za karte.'
+    title: 'Ovi projekti imaju povjerenje'
   services:
     items:
       - 
-        description: 'Planirajte i upravljajte svojim putovanjem u inozemstvo samo pomoću GPS-a, bez potrebe za mobilnim podacima. Pretražujte točke interesa na udaljenim planinarskim ili biciklističkim stazama.'
+        description: 'Planiraj i upravljaj svojim putovanjem u inozemstvo samo pomoću GPS-a, bez potrebe za mobilnim podacima. Pretražuj točke interesa na udaljenim planinarskim ili biciklističkim stazama.'
         highlight:
           icon: static/images/icons/home/wifi-off.svg
           text: 'Nije potreban internet'
@@ -20,6 +20,33 @@ extra:
           map: /images/sections/map-s-1.webp
           user: /images/sections/map-m-1.webp
         title: 'Izvanmrežno pretraživanje i navigacija'
+      - 
+        description: 'Koristi način rada na otvorenom kako bi istaknuo pješačke staze, kampove i izvore vode. Omogući konturne linije za planiranje putovanja. Uoči zanimljiv vrh na putu? Koristi izvanmrežne članke *Wikipedije* da bi saznao više o tome!'
+        highlight:
+          icon: static/images/icons/home/mappin-small.svg
+          text: 'Istraži prirodu'
+        media:
+          map: /images/sections/map-s-5.webp
+          user: /images/sections/map-m-5.webp
+        title: 'Pješači s informacijama koje trebaš'
+      - 
+        description: 'Učinkovito koristi bateriju, ne troši je kao druge navigacijske aplikacije.'
+        highlight:
+          icon: static/images/icons/home/battery.svg
+          text: 'Učinkovito korištenje baterije'
+        media:
+          map: /images/sections/map-s-3.webp
+          user: /images/sections/map-m-3.webp
+        title: 'Štedite bateriju'
+      - 
+        description: 'Koristi sloj javnog prijevoza za planiranje putovanja podzemnom željeznicom i lakom željeznicom u sve većem popisu gradova.'
+        highlight:
+          icon: static/images/icons/home/train-m.svg
+          text: 'Istraži grad'
+        media:
+          map: /images/sections/map-s-6.webp
+          user: /images/sections/map-m-6.webp
+        title: 'Kreći se gradom'
       - 
         description: 'Aplikacija je dizajnirana imajući na umu privatnost - ne identificira ljude, ne prati vas i ne prikuplja nikakve podatke. CoMaps je također revidirao <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-exodus"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/).'
         highlight:
@@ -30,14 +57,14 @@ extra:
           user: /images/sections/map-m-2.webp
         title: 'Bez prikupljanja podataka'
       - 
-        description: 'Učinkovito koristi bateriju, ne troši je kao druge navigacijske aplikacije.'
+        description: 'CoMaps preporučuje *[Switching Software](https://switching.software/replace/google-maps/)*, *[European & Open Source Alternatives](https://european-alternatives.cloud/en/browse?category=maps)*, *[Digital Independence Day](https://di.day/en/digital-switch-recipes/maps)* , i *[Framastart](https://framastart.org/smartphone/)* kao etičku, jednostavnu za korištenje i svjesnu privatnosti alternativu komercijalnim kartama.'
         highlight:
-          icon: static/images/icons/home/battery.svg
-          text: 'Učinkovito korištenje baterije'
+          icon: static/images/icons/home/route-arrows-up-icon.svg
+          text: 'Nezavisne karte'
         media:
-          map: /images/sections/map-s-3.webp
-          user: /images/sections/map-m-3.webp
-        title: 'Štedite bateriju'
+          map: /images/sections/map-s-7.webp
+          user: /images/sections/map-m-7.webp
+        title: 'Prava alternativa'
       - 
         cta:
           href: community/

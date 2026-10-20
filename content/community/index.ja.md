@@ -5,23 +5,23 @@ extra:
     description: アプリはみんなの寄付により運営されています。アプリの改善に支援をお願いします
     title: 寄付する
   features:
-    - description: "Report bugs, discuss ideas, and propose features"
+    - description: バク報告、アイデアの議論、機能の提案
       icon: chats.svg
       link: https://codeberg.org/comaps/comaps/issues
       title: バグを**報告する**
-    - description: 新機能の開発、バグ修正の手助け、コードのレビュー
+    - description: 新機能の開発、バグ修正の手助け、コードのレビューを行います
       icon: CodeBlock.svg
       link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md#code-contributions
       title: 機能を**開発する**
     - description: アプリ体験の方向性を形作ります
       icon: BezierCurve.svg
       link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md#ui-ux-map-styling-and-icons
-      title: インターフェイスを**デザイン**
+      title: インターフェイスを**デザインする**
     - description: 翻訳の更新により、世界中の人々がアクセスできるようになります
       icon: Translate.svg
       link: https://codeberg.org/comaps/comaps/src/branch/main/docs/TRANSLATIONS.md
       title: テキストを**翻訳する**
-    - description: 店舗情報、地点、道路、公共交通をOpenStreetMapに追加します
+    - description: 店舗情報、場所、道路、公共交通をOpenStreetMapに追加します
       icon: MapPinLine.svg
       link: /support/editing-with-CoMaps
       title: 場所情報を**追加する**

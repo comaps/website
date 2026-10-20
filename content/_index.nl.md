@@ -12,7 +12,7 @@ extra:
   services:
     items:
       - 
-        description: 'Plan en navigeer je reis naar het buitenland met alleen GPS en zonder mobiele gegevens. Zoek routepunten op afgelegen wandelpaden of fietspaden. Navigeer met stapsgewijze aanwijzingen te voet, met de fiets of met de auto, inclusief gesproken instructies.'
+        description: 'Plan en navigeer je reis naar het buitenland met alleen GPS en zonder mobiele gegevens. Zoek routepunten op afgelegen wandelpaden of fietspaden. Navigeer met stapsgewijze aanwijzingen te voet, met de fiets of met de auto, inclusief gesproken aanwijzingen.'
         highlight:
           icon: static/images/icons/home/wifi-off.svg
           text: 'Geen internet nodig'
@@ -37,7 +37,7 @@ extra:
         media:
           map: /images/sections/map-s-3.webp
           user: /images/sections/map-m-3.webp
-        title: 'Bespaar je batterij'
+        title: 'Spaar je batterij'
       - 
         description: 'Gebruik de openbaar vervoer-laag om je metro- en lightrailreizen te plannen in een steeds grotere lijst van steden.'
         highlight:

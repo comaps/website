@@ -19,9 +19,10 @@ repository](https://codeberg.org/comaps/comaps) were developed by multiple
 people and organizations, and licensed in different ways. Please refer to
 their LICENSE, COPYING or NOTICE files for terms of use.
 
-See
+Consultați
 [data/copyright.html](https://codeberg.org/comaps/comaps/src/branch/main/data/copyright.html)
-file for a full list of copyright notices for the CoMaps application.
+pentru lista completă a avizelor privind drepturile de autor pentru
+aplicația CoMaps.
 
 If you have any questions or suggestions, please contact us at
 legal@comaps.app

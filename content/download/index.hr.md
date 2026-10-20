@@ -1,9 +1,9 @@
 ---
-description: "Unlock the potential of navigation! Discover offline maps, privacy-centric features, and a community-driven app"
+description: "Otključaj potencijal navigacije! Otkrij izvanmrežne karte, značajke usmjerene na privatnost i aplikaciju koju pokreće zajednica"
 extra:
   app_verifier:
-    description: "To verify the app when downloading it as an APK or via Obtainium you can use this fingerprint:"
-    title: "Verifying the Android app"
+    description: "Za provjeru aplikacije kada je preuzimaš kao APK ili putem Obtainiuma možeš koristiti ovaj otisak prsta:"
+    title: "Provjera Android aplikacije"
   desktop_payment_methods_1: macOS
   desktop_payment_methods_2: Linux
   desktop_payment_title: Desktop
@@ -18,8 +18,8 @@ extra:
   mobile_shop_name_4: AppGallery
   mobile_shop_name_5: Obtainium
   releases:
-    title: "Latest Releases"
+    title: "Novosti i izdanja"
 template: download.html
-title: "Download CoMaps"
+title: "Preuzmi CoMaps"
 weight: 10
 ---

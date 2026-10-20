@@ -9,7 +9,7 @@ extra:
       title: "Донирајте путем Liberapay-а"
     open_collective:
       title: "Донирајте путем Open Collective-a"
-    title: Донирајте
+    title: Донације
   funding:
     items:
       - media: /images/donate/infrastructure.webp
@@ -32,6 +32,6 @@ extra:
       text: "Уз вашу помоћ, радимо на апликацији за навигацију која је фокусирана на приватност и која би била природни избор на тржишту"
   service_title: "Created with love by enthusiast volunteers"
 template: donate.html
-title: Донирајте
+title: Донације
 weight: 10
 ---

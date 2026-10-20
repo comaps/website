@@ -30,7 +30,7 @@ extra:
           user: /images/sections/map-m-5.webp
         title: 'Планинарите са информацијама које су вам потребне'
       - 
-        description: 'Ефикасно користи батерију, не празни батерију као друге навигационе апликације.'
+        description: 'Ефикасно користи батерију, не празни је као друге апликације за навигацију.'
         highlight:
           icon: static/images/icons/home/battery.svg
           text: 'Ефикасна употреба батерије'
@@ -69,7 +69,7 @@ extra:
         cta:
           href: community/
           text: inv_title
-        description: 'Људи као што сте ви су помажу да се развија апликација додавањем локација на <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-open-street-map"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, давањем повратних информација о функцијама и писањем изворног кода путем <span class="text-icon"><svg viewbox="0 0 4.233 4.233"> <use href="#icon-codeberg"></use></svg> [Codeberg](https://codeberg.org/comaps)</span>-а, како бисмо заједно направили изузетне мапе. Овај пројекат наследник пројеката *Organic Maps* и *Maps.Me* и њиме управља заједница отвореног кода.'
+        description: 'Људи као што сте Bи помажу да се развија апликација додавањем локација на <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-open-street-map"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, давањем повратних информација о функцијама и писањем изворног кода путем <span class="text-icon"><svg viewbox="0 0 4.233 4.233"> <use href="#icon-codeberg"></use></svg> [Codeberg](https://codeberg.org/comaps)</span>-а, како бисмо заједно направили изузетне мапе. Овај пројекат наследник пројеката *Organic Maps* и *Maps.Me* и њиме управља заједница отвореног кода.'
         highlight:
           icon: static/images/icons/home/heart.svg
           text: 'Слободна за све, направљена с љубављу'

@@ -1,34 +1,34 @@
 ---
-description: 'Discover more of your journey - Powered by the community'
+description: 'あなたの旅を見つけましょう - コミュニティーの力で'
 extra:
   freedom:
     description: あなたの旅を発見し、プライバシーとコミュニティーを最優先に世界をナビゲートしましょう。
     title: 自由はここにあります
   map:
-    description: 'コミュニティー + オープンマップ'
+    description: 'コミュニティー ＋ オープンマップ'
   preinstalls:
-    description: 'CoMaps comes preinstalled on these operating systems as their default map app.'
-    title: 'Trusted by these projects'
+    description: CoMapsは次のオペレーティングシステムでデフォルトのマップアプリとしてプリインストールされています。
+    title: 信頼されたプロジェクト
   services:
     items:
       - 
-        description: 'Plan and navigate your trip abroad with just GPS, no need for mobile data. Search waypoints while on remote hiking trails or bike paths. Navigate with turn-by-turn instructions by foot, bike or car, including voice announcements.'
+        description: モバイルデータ通信なしで、GPSだけで海外旅行の計画とナビゲーションが可能です。人里離れたハイキングコースやサイクリングロードでもルートの経由地を検索できます。音声案内付きのターンバイターン方式のナビゲーションで、徒歩、自転車、車のルート案内を提供します。
         highlight:
           icon: static/images/icons/home/wifi-off.svg
           text: インターネットは不要です
         media:
           map: /images/sections/map-s-1.webp
           user: /images/sections/map-m-1.webp
-        title: 'Offline Search and Routing'
+        title: オフライン検索とルート案内
       - 
-        description: 'Use the outdoor mode to highlight hiking trails, campsites, and water sources. Enable contour lines to plan your trip. Spot an interesting peak along the way? Use the offline *Wikipedia* articles to learn more about it!'
+        description: アウトドアモードを使えば、ハイキングコース、キャンプ場、水源などをハイライトできます。等高線を表示して、旅の計画を立てましょう。道中で興味深い山頂を見つけた時は？オフラインの*Wikipedia*記事で詳しく調べてみましょう！
         highlight:
           icon: static/images/icons/home/mappin-small.svg
-          text: 'Explore nature'
+          text: 自然を探索しよう
         media:
           map: /images/sections/map-s-5.webp
           user: /images/sections/map-m-5.webp
-        title: 'Hike with the Information you Need'
+        title: 必要な情報を携えてハイキングしましょう
       - 
         description: バッテリーを効率よく使用し、他のナビゲーションアプリのようにバッテリーを消費しません。
         highlight:
@@ -39,16 +39,16 @@ extra:
           user: /images/sections/map-m-3.webp
         title: バッテリーの節約
       - 
-        description: 'Use the public transport layer to plan your subway and light rail journeys in a growing list of cities.'
+        description: 公共交通機関レイヤーを利用すると、地下鉄トライトレイルの旅を計画できます。対応都市は拡大中です。
         highlight:
           icon: static/images/icons/home/train-m.svg
-          text: 'Explore the city'
+          text: 街を探検しよう
         media:
           map: /images/sections/map-s-6.webp
           user: /images/sections/map-m-6.webp
-        title: 'Get around the City'
+        title: 都市を歩き回ろう
       - 
-        description: 'The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information. CoMaps was also audited by <span class="text-icon"><svg viewbox="0 0 19 19"><use href="#icon-exodus"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/), a privacy auditor.'
+        description: 'アプリはプライバシーを考慮して設計されています。つまり、個人を特定したり、ユーザーであるあなたを追跡したり、いかなる情報も収集したりすることはありません。CoMaps はプライバシー監査機関である<span class="text-icon"><svg viewbox="0 0 19 19"><use href="#icon-exodus"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/)による監査も受けています。'
         highlight:
           icon: static/images/icons/home/shield.svg
           text: デフォルトでプライバシーが守られます
@@ -57,19 +57,19 @@ extra:
           user: /images/sections/map-m-2.webp
         title: データ収集されません
       - 
-        description: 'CoMaps is recommended by *[Switching Software](https://switching.software/replace/google-maps/)*, *[European & Open Source Alternatives](https://european-alternatives.cloud/en/browse?category=maps)*, *[Digital Independence Day](https://di.day/en/digital-switch-recipes/maps)* ,and *[Framastart](https://framastart.org/smartphone/)* as an ethical, easy-to-use and privacy-conscious alternative to commercial maps.'
+        description: 'CoMapsは、*[Switching Software](https://switching.software/replace/google-maps/)*、*[European & Open Source Alternatives](https://european-alternatives.cloud/en/browse?category=maps)*、*[Digital Independence Day](https://di.day/en/digital-switch-recipes/maps)*、*[Framastart](https://framastart.org/smartphone/)*によって、商用地図に代わる倫理的で使いやすくプライバシーに配慮した代替の選択肢として推奨されています。'
         highlight:
           icon: static/images/icons/home/route-arrows-up-icon.svg
-          text: 'Independent maps'
+          text: 独立したマップ
         media:
           map: /images/sections/map-s-7.webp
           user: /images/sections/map-m-7.webp
-        title: 'A True Alternative'
+        title: 真の代替手段
       - 
         cta:
           href: community/
           text: inv_title
-        description: 'People like you are helping build the app by adding locations to <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-open-street-map"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on <span class="text-icon"><svg viewbox="0 0 4.233 4.233"> <use href="#icon-codeberg"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> to create great maps together. The project is a fork of Organic Maps and Maps.Me, and driven by an open-source community.'
+        description: 'あなたのような人々が、<span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-open-street-map"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>に場所を追加したり、機能についてフィードバックを提供したり、<span class="text-icon"><svg viewbox="0 0 4.233 4.233"><use href="#icon-codeberg"></use></svg> [Codeberg](https://codeberg.org/comaps)</span>にコードを提供したりすることで、アプリの開発に貢献しています。このプロジェクトはOrganic MapsとMaps.Meのフォークであり、オープンソースコミュニティによって運営されています。'
         highlight:
           icon: static/images/icons/home/heart.svg
           text: みんなが自由に利用可能、愛を込めて開発されています
@@ -79,5 +79,5 @@ extra:
         title: 自由があり、コミュニティーにより開発されています
 sort_by: weight
 template: home.html
-title: 'Hike, Bike, Drive Offline – Navigate with Privacy'
+title: 'ハイキング、サイクリング、ドライビングをオフラインで – プライバシーを守るナビゲーション'
 ---

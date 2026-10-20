@@ -13,21 +13,21 @@ extra:
   funding:
     items:
       - media: /images/donate/infrastructure.webp
-        text: "We have to keep up fast servers, to update the map files and for you to download them without delays. The maps data transfers make up large, and growing, amounts of data each month."
+        text: 高速なサーバーを維持し、地図ファイルを更新し、ユーザーのみんなが遅延なくデータをダウンロードできるようにする必要があります。地図データの転送量は毎月膨大で、しかも増加の一途をたどっています。
         title: 基盤設備
       - media: /images/donate/support.webp
         text: "ユーザーサポート、バグの修正、アプリの安定性は私たちの再優先事項です。リクエストとバグ報告のリストは日々増えており、App Store、Google Play、サポートメールで返答するべきサポートリクエストは多数あります。"
         title: サポート
       - media: /images/donate/developers.webp
-        text: "Currently, all development is done by volunteers with limited time. To implement larger, more ambitious features, paying developers might be necessary in the future."
+        text: 現在、すべての開発はボランティアによって限られた時間で行われています。大規模でより意欲的な機能を実装するためには、将来的に開発者への報酬が必要になるかもしれません。
         title: 開発者
     title: 資金はどのように利用されますか？
   hero_description: "Donate and create better maps together!"
   info:
     - icon: static/images/icons/donate/icon01.svg
-      text: "We rely on your donations to keep CoMaps free to use"
+      text: CoMapsを無料で利用できるようにするためには、あなたたちからの寄付が必要です
     - icon: static/images/icons/donate/icon02.svg
-      text: "We are a community contributing in our free time. We love what we do, and we love our users"
+      text: 私たちは、自由時間を使って貢献しているコミュニティです。私たちは自分たちの活動を愛し、ユーザーのみんなを愛しています
     - icon: static/images/icons/donate/icon03.svg
       text: あなたの支援により、市場で優先される選択である、プライバシーに注力したマップナビゲーションを開発しています
   service_title: "Created with love by enthusiast volunteers"

@@ -11,7 +11,7 @@ extra:
     text: "CoMaps 的实现离不开众多社区的辛勤付出，正是他们协助创建并维护了支撑我们应用的开放数据：我们的地图使用 OpenStreetMap 数据，这些数据由来自世界各地的数千名贡献者创建和维护。为了链接到城市、景点和许多其他兴趣点并提供离线详情，我们依赖于全球维基百科、维基数据和维基共享资源社区的文章和照片。"
     title: 由开放数据共享平台提供支持
   data_link:
-    text: "Learn more about all of our open data sources"
+    text: 进一步了解我们的开放数据源
   history:
     items:
       - text: "MapsWithMe 导航应用诞生（后更名为 Maps.me）。"
@@ -40,6 +40,6 @@ extra:
         text: 创造一个可以免费用地图导航、隐私默认是众人首选的世界。
         title: 我们的愿景
 template: about-us.html
-title: 关于我们
+title: 关于
 weight: 10
 ---

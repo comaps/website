@@ -13,7 +13,7 @@ extra:
   funding:
     items:
       - media: /images/donate/infrastructure.webp
-        text: "Pagamos por servidores veloces, para que cualquier persona del mundo pueda descargar gratis actualizaciones de mapas rápidamente. Las transferencias de datos de mapas son cientos de TB al mes, y la cantidad sigue creciendo."
+        text: "Tenemos que mantener servidores rápidos para actualizar los archivos de mapas y para que puedas descargarlos sin retrasos. Las transferencias de datos de los mapas representan volúmenes grandes, y en constante crecimiento, cada mes."
         title: Infraestructura
       - media: /images/donate/support.webp
         text: "El soporte al usuario, solucionar fallos, y mejorar la estabilidad de la aplicación son nuestras principales prioridades. La lista de solicitudes y los informes de fallos aumentan cada día, y hay muchas solicitudes de soporte a las que responder en la App Store, en Google Play, y en correos electrónicos de solicitud de ayuda."

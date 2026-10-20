@@ -13,10 +13,10 @@ extra:
       icon: CodeBlock.svg
       link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md#code-contributions
       title: "**Razvoj** funkcionalnosti"
-    - description: "Shape the direction of the product experience"
+    - description: "Oblikuj smjer doživljaja proizvoda"
       icon: BezierCurve.svg
       link: https://codeberg.org/comaps/comaps/src/branch/main/docs/CONTRIBUTING.md#ui-ux-map-styling-and-icons
-      title: "**Design** Interface"
+      title: "**Dizajn** Sučelje"
     - description: "Dodaj prevode da napraviš aplikaciju pristupno za više ljudi oko svijeta"
       icon: Translate.svg
       link: https://codeberg.org/comaps/comaps/src/branch/main/docs/TRANSLATIONS.md

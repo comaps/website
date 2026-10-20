@@ -2,8 +2,8 @@
 description: ナビゲーションのポテンシャルを開放しましょう！オフラインマップ、プライバシー中心の機能、コミュニティー駆動のアプリを発見してください
 extra:
   app_verifier:
-    description: "To verify the app when downloading it as an APK or via Obtainium you can use this fingerprint:"
-    title: "Verifying the Android app"
+    description: アプリをAPKファイル、またはObtainium経由でダウンロードする場合、アプリの検証にはこのフィンガープリントを使用できます。
+    title: Androidアプリの検証方法
   desktop_payment_methods_1: macOS
   desktop_payment_methods_2: Linux
   desktop_payment_title: Desktop
@@ -18,7 +18,7 @@ extra:
   mobile_shop_name_4: AppGallery
   mobile_shop_name_5: Obtainium
   releases:
-    title: "Latest Releases"
+    title: 最新リリース
 template: download.html
 title: CoMapsをダウンロードする
 weight: 10

@@ -14,7 +14,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 2026.9.1\n"
-"PO-Revision-Date: 2026-10-04 04:27+0000\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -566,13 +565,35 @@ msgid "CoMaps does not track you."
 msgstr "CoMaps no te rastrea."
 
 #. type: Plain text
+#: content/privacy/index.md
+msgid "If you send personal information to us, for example by emailing log files to support@comaps.app, the logs may contain GPS coordinates or bookmark data. You can always send the logs to yourself, edit them, and then send them in. Our support volunteers follow these procedures:"
+msgstr ""
+
+#. type: Bullet: '- '
+#: content/privacy/index.md
+msgid "We do our best to anonymize your data before sending it to developers or posting it on our Codeberg issues or in Zulip chats. For example we'll say \"ticket 305\" instead of your email address"
+msgstr ""
+
+#. type: Bullet: '- '
+#: content/privacy/index.md
+msgid "We'll try to filter out irrelevant log lines, so your entire travel route isn't passed along unless it's relevant."
+msgstr ""
+
+#. type: Bullet: '- '
+#: content/privacy/index.md
+msgid "We close inactive support requests after a week, and delete closed requests from our system after a year."
+msgstr ""
+
+#. type: Plain text
 #: content/privacy/index.md content/terms/index.md
 msgid "If you have any questions or suggestions, please contact us at legal@comaps.app"
 msgstr "Si tiene preguntas o sugerencias, póngase en contacto con nosotros en legal@organicmaps.app"
 
 #. type: Plain text
 #: content/privacy/index.md
-msgid "Policy effective: 2025-05-01"
+#, fuzzy
+#| msgid "Policy effective: 2025-05-01"
+msgid "Policy effective: 2026-09-19"
 msgstr "Política vigente desde el 2025-05-01"
 
 #. type: Yaml Front Matter Hash Value: title

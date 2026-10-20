@@ -1,27 +1,17 @@
 ---
-title: Terms
+title: 利用規約
 weight: 1000
 ---
 
-This app is licensed under the Apache License, Version 2.0 (the "License");
-This application cannot be used except in compliance with the License.
+このアプリはApache License, Version
+2.0（以下「ライセンス」といいます）に基づいてライセンスされています。このアプリケーションは、ライセンスに従う場合を除き、使用することはできません。
 
-Read [the full license text](https://www.apache.org/licenses/LICENSE-2.0).
+[ライセンス全文](https://www.apache.org/licenses/LICENSE-2.0)を読んでください。
 
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
-WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
-License for the specific language governing permissions and limitations
-under the License.
+適用される法律で義務付けられている場合、または書面で合意されている場合を除き、本ライセンスに基づいて配布されるソフトウェアは、明示的または黙示的を問わず、いかなる種類の保証または条件もなく、「現状有姿」で配布されます。本ライセンスに基づく許可および制限に関する具体的な条項については、本ライセンスを参照してください。
 
-Many libraries and 3rd party tools included into [CoMaps
-repository](https://codeberg.org/comaps/comaps) were developed by multiple
-people and organizations, and licensed in different ways. Please refer to
-their LICENSE, COPYING or NOTICE files for terms of use.
+[CoMapsリポジトリ](https://codeberg.org/comaps/comaps)に含まれる多くのライブラリやサードパーティツールは、複数の個人や組織によって開発され、ライセンスもそれぞれ異なります。使用条件については、LICENSE、COPYING、NOTICEファイルを参照してください。
 
-See
-[data/copyright.html](https://codeberg.org/comaps/comaps/src/branch/main/data/copyright.html)
-file for a full list of copyright notices for the CoMaps application.
+CoMapsアプリケーションの著作権表示の完全なリストについては、[data/copyright.html](https://codeberg.org/comaps/comaps/src/branch/main/data/copyright.html)ファイルを参照してください。
 
-If you have any questions or suggestions, please contact us at
-legal@comaps.app
+質問や提案がある場合は、法務用メールアドレス legal@comaps.app までご連絡ください
