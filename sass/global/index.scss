@@ -136,7 +136,7 @@ figure {
         max-width: 100%;
     }
 }
-figure img, figure video {
+figure img, figure video, figure blockquote {
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -192,13 +192,28 @@ blockquote::before, blockquote::after {
     position: absolute;
     font-size: 4em;
 }
-blockquote::before {
+/*
+ *TODO: we probably want to add our own mastodon embed component rather than
+ * copying the embed code from the website
+ */
+blockquote:not(.mastodon-embed)::before {
     content: "\201C";
     top: .25em;
     left: 3vw;
 }
-blockquote::after {
+blockquote:not(.mastodon-embed)::after {
     content: "\201D";
     bottom: .25em;
     right: 3vw;
+}
+.mastodon-embed-container {
+    margin: 0 auto 10px auto;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.mastodon-embed-container > blockquote {
+    /* instead of hand editing the embed code on each instance*/
+    flex-grow: 1;
 }
