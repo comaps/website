@@ -24,6 +24,8 @@ the user's privacy.
 
 ## Gadgetbridge
 
+{{ <image_fig src="02-infinitime.jpg" float={true} caption="The navigation app running on InfiniTime, with instructions from CoMaps"/> }}
+
 Gadgetbridge is a free and open-source Android app which allows you to use your
 smartwatches, headphones, and other Bluetooth devices without having to use your
 manufacturer's proprietary app. Starting with Gadgetbridge v0.93.0, you can now
@@ -34,8 +36,6 @@ turn-by-turn directions on their wrist in a fully FLOSS solution.
 At the time of writing, this setting can be found in Settings > External
 Integrations > Navigation. Enabling it will enable it for all supported
 connected devices.
-
-{{ <image src="02-infinitime.jpg" classes="max-w-50" caption="The navigation app running on InfiniTime, with instructions from CoMaps"/> }}
 
 ## OpenVitals
 
@@ -51,7 +51,7 @@ At the time of writing, you can find it under Settings > Activities > Comaps
 navigation guidance. Enabling it will give you the ability to show the route set in 
 CoMaps over your live activity. 
 
-{{ <image src="03-openvitals.png" classes="max-w-40" caption="CoMaps guidance within OpenVitals"/> }}
+{{ <image_fig src="03-openvitals.png" size="small" caption="CoMaps guidance within OpenVitals"/> }}
 
 ## Private by default
 

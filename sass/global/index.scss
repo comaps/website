@@ -126,33 +126,65 @@ video.center, img.center {
 }
 
 figure {
-    border: 2px solid #6669;
-    max-width: 75%;
-    margin-left: auto;
-    margin-right: auto;
-    padding: .5em 1em .5em 1em;
-    background-color: #5559;
+    width: fit-content;
+    max-width: 70%;
+    margin: 2em auto;
+    border: 1px solid var(--footer-sep);
+    background-color: var(--footer-bg);
+    border-radius: 10px;
     @media (max-width: $media-sm) {
-        max-width: 100%;
+        max-width: calc(100% - 2em);
+    }
+}
+figure.small {
+    max-width: 35%;
+    @media (max-width: $media-sm) {
+        max-width: 50%;
     }
 }
 figure img, figure video, figure blockquote {
     display: block;
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 1em;
+    width: auto;
+    height: auto;
+    max-width: 100%;
+    object-fit: contain;
+}
+figure img, figure video {
+    border-radius: 10px 10px 0 0;
 }
 figcaption {
-    padding: .5em 1em .5em 1em;
-    background-color: var(--body-bg);
-    border-left: 6px solid var(--common-green-02);
-    border-bottom: 3px solid rgba(0,0,0,.5);
+    min-width: 0;
+    text-align: center;
+    font-style: italic;
+    font-size: 0.85em;
+    padding: 0.5em;
+    overflow-wrap: break-word;
+}
+/* ignore float if on mobile */
+@media (min-width: $media-sm) {
+    figure.float {
+        float: right;
+        clear: right;
+        margin: unset;
+        margin-left: 2em;
+        max-width: 35%;
+        padding: unset;
+    }
+    figure.float img, figure.float video {
+        border: unset;
+        border-radius: 10px 10px 0 0;
+    }
+    figure.float > figcaption {
+        border-top: none;
+        text-align: left;
+    }
 }
 
 .news-content {
     h1, h2, h3, h4, h5, h6 {
         margin-top: 2em;
         margin-bottom: 0.5em;
+        clear: right;
     }
 
     p {

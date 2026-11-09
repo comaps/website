@@ -183,7 +183,7 @@ What often helps is breaking up your search query into different searches, start
 - City
 - Street address/place name
 
-{{ <image src='searching-for-73-fairchild-place-london-ontario.avif' alt="Breaking up your search into multiple searches can increase your chances of finding what you're looking for." caption="Breaking up your search into multiple searches can increase your chances of finding what you are looking for." classes="max-w-40"/> }}
+{{ <image_fig src='searching-for-73-fairchild-place-london-ontario.avif' alt="Breaking up your search into multiple searches can increase your chances of finding what you're looking for." caption="Breaking up your search into multiple searches can increase your chances of finding what you are looking for." /> }}
 
 Generally, avoid using a complete address in search: it might not find any results. Giving too many details could confuse CoMaps, and certain address features (like ZIP+4 in the US) may not be supported yet.
 

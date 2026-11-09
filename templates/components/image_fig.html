@@ -1,0 +1,6 @@
+{% component image_fig(src, caption, alt='', float=false, size='') %}
+<figure class="{{ size }} {% if float %}float{%endif%}">
+{{ <image src={src} alt={alt} /> }}
+<figcaption>{{ caption | markdown(inline=true) | safe }}</figcaption>
+</figure>
+{% endcomponent %}

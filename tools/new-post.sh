@@ -28,13 +28,34 @@ extra:
 
 Fill out the frontmatter above! Everything in extra is optional.
 
-Some useful shortcodes:
 
-{{ <image src="javi-and-rebecca-bikepackers.webp" classes="max-w-50" caption="Javi and Rebecca" alt="Javi and Rebecca"/> }}
 
-{% quote(author="Brandon" work="Tuta Blog" url="https://tuta.com/blog/google-maps-alternatives-foss" date="2026-01-07") %}
-CoMaps can be used offline with or without network connection, comes with no annoying ads, and it doesn’t drain your mobile’s battery (unlike Google Maps). It’s available on Google Play, F-droid, IzzyOnDroid, Obtainium or APK download for Android, and on the App store for iOS.
-{% end %}
+{#
+Here are some useful components:
+
+ IMAGES
+
+{{ <image src="javi-and-rebecca-bikepackers.webp" alt="Javi and Rebecca" classes="max-w-40" /> }}
+{{ <image_fig src="javi-and-rebecca-bikepackers.webp" caption="Javi and Rebecca" alt="Javi and Rebecca" /> }}
+{{ <image_fig src="javi-and-rebecca-bikepackers.webp" caption="Javi and Rebecca" alt="Javi and Rebecca" float={true} /> }}
+{{ <image_fig src="javi-and-rebecca-bikepackers.webp" caption="Javi and Rebecca" alt="Javi and Rebecca" size="small" /> }}
+
+
+ VIDEOS
+
+{{ <video src="anroid-auto-demo.webm" alt="A demonstration of Android Auto" classes="max-w-40" /> }}
+{{ <video_fig src="anroid-auto-demo.webm" alt="A demonstration of Android Auto" caption="A naviagtion session using Android Auto" /> }}
+{{ <video_fig src="anroid-auto-demo.webm" alt="A demonstration of Android Auto" caption="A naviagtion session using Android Auto" float={true} /> }}
+{{ <video_fig src="anroid-auto-demo.webm" alt="A demonstration of Android Auto" caption="A naviagtion session using Android Auto" size="small" /> }}
+
+
+ QUOTES
+
+{% <quote author="Javi" work="Tuta Blog" url="https://tuta.com/blog/google-maps-alternatives-foss" date="2026-01-07"> %}
+I have two main passions. The first one is outdoor sports like climbing, mountaineering, trail running, backcountry skiing, hiking, biking... just anything that gives me a feel of freedom and a connection to nature. I believe maintaining a physical and mental balance is crucial to enjoying a full and healthy life. The second one is the Free and Open Source technology, especially anything related to embedded systems and low-level programming.
+{% </quote> %}
+
+#}
 EOF
 }
 

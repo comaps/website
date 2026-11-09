@@ -14,7 +14,7 @@ extra:
 Javi is an outdoors enthusiast and a tech expert who's navigation app of choice is CoMaps. He's currently on a sabbatical from his regular job as an engineer, doing what many have only dreamed of doing: traveling the world!
 
 # Meet Javi: FOSS Advocate, Linux Volunteer, and Bikepacker
-{{ <image src="javi-and-rebecca-bikepackers.webp" alt="Javi and Rebecca" caption="Javi and Rebecca" classes="max-w-40"/> }}
+{{ <image_fig src="javi-and-rebecca-bikepackers.webp" alt="Javi and Rebecca" caption="Javi and Rebecca" /> }}
 
 Javi loves bikepacking and all things FOSS (free, open source software). So it makes sense to me that he would choose CoMaps as his navigation app!
 
@@ -29,7 +29,7 @@ I have two main passions. The first one is outdoor sports like climbing, mountai
 # Traveling the World: From Europe to Oceania!
 Right now he's in Oceania, but he didn't start there. Last year Javi and his girlfriend Rebecca planned to bikepack their way into Asia, starting from their home in the Austrian Alps. They had no specific destination in mind, and they've been through plenty of countries (and continents!) already.
 
-{{ <image src="cycling-mongolia-bulgan-olgii.webp" alt="Cycling through Mongolia" caption="Cycling through Mongolia" classes="max-w-40"/> }}
+{{ <image_fig src="cycling-mongolia-bulgan-olgii.webp" alt="Cycling through Mongolia" caption="Cycling through Mongolia" /> }}
 
 His long journey began on a train from Dornbirn, Austria to Trieste, Italy. From Trieste, he continued east, mostly traveling by bicycle, sometimes taking ferries, buses, trains, and (in rare cases) planes. He has crossed Italy, Slovenia, Croatia, Bosnia and Herzegovina, Montenegro, Albania, Greece, Turkey, Iraq, Iran, Tajikistan, Kyrgyzstan, Kazakhstan, Mongolia, China, and more.
 
@@ -43,7 +43,7 @@ I use CoMaps every single day of the trip, both for planning and also for offlin
 # Downloading Maps While Traveling the World
 The great thing about CoMaps being offline is you can download maps when you have Internet access, and then use it even when you don't.
 
-{{ <image src="wilderness-camping-while-traveling-the-world.webp" alt="Javi and Rebecca camp most nights." caption="Javi and Rebecca camp most nights." classes="max-w-40"/> }}
+{{ <image_fig src="wilderness-camping-while-traveling-the-world.webp" alt="Javi and Rebecca camp most nights." caption="Javi and Rebecca camp most nights." /> }}
 
 I asked Javi if he has any trouble downloading maps while he's traveling the world. He must be in a lot of remote areas most of the time, and he probably hasn't had cell service for most of his trip, so I wondered how that works. He said no, he almost never has any issues.
 
@@ -71,7 +71,7 @@ He also shared these battery saving tips for navigating without electricity for 
 # Follow Javi's Journey
 Check out his journey at [https://hackerbikepacker.com/](https://hackerbikepacker.com/). He accepts contributions as well if you would like to support him on his journey and so he can continue his work on Linux. In fact he takes a part of any contributions he recieves and passes them on to other FOSS projects, including OpenStreetMap, and CoMaps via [Open Collective](https://opencollective.com/comaps/)!
 
-{{ <image src="bikepacking-in-the-sunset.webp" alt="Javi riding ahead of Rebecca" caption="Javi riding ahead of Rebecca" classes="max-w-40"/> }}
+{{ <image_fig src="bikepacking-in-the-sunset.webp" alt="Javi riding ahead of Rebecca" caption="Javi riding ahead of Rebecca" /> }}
 
 # OpenStreetMap Volunteers Made This Trip Better
 As CoMaps users, Javi and Rebecca have been traveling using map data other people from around the world have

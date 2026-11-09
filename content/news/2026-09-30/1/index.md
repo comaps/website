@@ -22,17 +22,15 @@ This month has seen substantial progress in formalising our governance structure
 
 Since releasing the Mangrove reviews feature on Android, we've seen an additional ~1,000 reviews be made over the past month, which is 20% of the total number of reviews! [@mmakowski](https://codeberg.org/mmakowski) has been working on further refining the feature by showing reviews in search results, and adding a handy link to MapComplete to submit new ones. We hope this encourages even more users to add Mangrove reviews and help populate the dataset!
 
-
-{{ <image src="02-mangrove.png" classes="max-w-50" caption="Left: Review summary in search results; right: link to add a review via MapComplete in reviews page"/> }}
-
+{{ <image_fig src="02-mangrove.png" caption="Left: Review summary in search results; right: link to add a review via MapComplete in reviews page"/> }}
 
 [@hackintosh5](https://codeberg.org/hackintosh5) has been making substantial improvements to CoMaps for non-visual use. In case you missed it, it has been possible navigate points of interest on the map on Android using TalkBack since v2026.08.31-14, allowing users with visual impairments to "feel" their way around the map. They have also been working this month on porting this over to iOS, so VoiceOver users can benefit too. All this means CoMaps on Android (and soon, iOS) will be comparable to Apple Maps in terms of accessibility as a fully FLOSS alternative! 
 
-{{ <video src="03-talkback.webm" classes="max-w-50" caption="Demonstration of TalkBack navigation on the map itself"/> }}
+{{ <video_fig src="03-talkback.webm" size="small" caption="Demonstration of TalkBack navigation on the map itself"/> }}
 
 Attendees of this year's State of the Map may already be aware that [@zyphlar](https://codeberg.org/zyphlar) has been working hard on *indoor mapping* support in CoMaps. This has involved some major work on our rendering engine, but it means previously hard to read areas like train stations and shopping centres become a whole lot clearer. On a similar vein to Mangrove reviews, we hope that by supporting indoor maps, users are more motivated to map out indoor areas and contribute them back to OpenStreetMap! 
 
-{{ <image src="04-indoor.png" classes="max-w-50" caption="An indoor map of a building at Université Gustave Eiffel"/> }}
+{{ <image_fig src="04-indoor.png" size="small" caption="An indoor map of a building at Université Gustave Eiffel"/> }}
 
 ## Governance updates
 
@@ -43,9 +41,10 @@ There has additionally been progress in establishing a formal constitution for C
 
 ## Community news
 
+{{ <image_fig float={true} src="05-comaps-at-sotm.png" caption="CoMaps contributors Bastian and Diego presenting at State of the Map 2026. A recording of this talk is [available online](https://peertube.openstreetmap.fr/w/9DGz6jXc2wG93XohZweE8M)."/> }}
+
 In case you happened to miss all the noise about OpenStreetMap's State of the Map, a few contributors represented CoMaps at this year's edition. You can read more about it in Bastian and Diego's post [*CoMaps at State of the Map 2026*](https://www.comaps.app/news/2026-09-14/comaps-at-state-of-the-map-2026/).
 
-{{ <image src="05-comaps-at-sotm.png" classes="max-w-50" caption="CoMaps contributors Bastian and Diego presenting at State of the Map 2026. A recording of this talk is [available online](https://peertube.openstreetmap.fr/w/9DGz6jXc2wG93XohZweE8M)."/> }}
 
 ## New contributors
 

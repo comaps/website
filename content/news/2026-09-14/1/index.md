@@ -31,12 +31,12 @@ Beyond the [recording](https://peertube.openstreetmap.fr/w/9DGz6jXc2wG93XohZweE8
 *State of the Map* was also a great opportunity to exchange with others working on OSM-related projects, learning from each other and exploring how to work more closely together.
 For example, the folks behind [*Cartes.app*](https://cartes.app/) gave a talk about their online maps and, based on what we heard from each other, we now want to explore how to integrate each other's work more closely. To begin with, something we would like to determine is whether in the future users could be able to synchronize their bookmarks/favorites with the web version.
 
-{{ <image src="02_build.jpg" classes="max-w-50" caption="The CoMaps test build being offered to participants via a QR code."/> }}
+{{ <image_fig src="02_build.jpg" caption="The CoMaps test build being offered to participants via a QR code."/> }}
 
 We also used the opportunity of being surrounded by a large audience of OSM and map experts to get feedback on some new beta features that are in development, in particular for displaying indoor maps and including open reviews from *[Mangrove Reviews](https://mangrove.reviews/)*.
 For the former, the feedback was invaluable to further iterate and refine the feature, and the latter has already landed in the regular app release!   
 
-{{ <image src="03_stickers.jpg" classes="max-w-50" caption="We brought a large pile of stickers to share - which will also be available at future conferences!"/> }}
+{{ <image_fig src="03_stickers.jpg" caption="We brought a large pile of stickers to share - which will also be available at future conferences!"/> }}
 
 Overall, *State of a Map* was a brilliant experience for us personally and the project.
 

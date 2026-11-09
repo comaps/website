@@ -1,0 +1,6 @@
+{% component video_fig(src, caption, alt='', float=false, size='') %}
+<figure class="{{ size }} {% if float %}float{%endif%}">
+{{ <video src={src} alt={alt} /> }}
+<figcaption>{{ caption | markdown(inline=true) | safe }}</figcaption>
+</figure>
+{% endcomponent %}

@@ -52,34 +52,84 @@ redirect_to: "https://codeberg.org/comaps/comaps/releases"
 ---
 ```
 
-### Shortcodes
+### Components (formerly known as shortcodes)
 
-Shortcodes are little templates that can be embedded in your markdown pages. Here are some shortcodes that are currently available.
+Components are little templates that can be embedded in your markdown pages. Here are some components that are currently available.
 
 #### Image
 
-Use the image shortcode to add an image to your page.
-For example:
+Use the `image` or `image_fig` component to add an image to your page.
+
+##### `image`
+
+Add a image.
 
 ```
-{{ image(src="javi-and-rebecca-bikepackers.webp", alt="Javi and Rebecca", caption="Javi and Rebecca", classes="max-w-40") }}
+{{ <image src="javi-and-rebecca-bikepackers.webp" alt="Javi and Rebecca" classes="max-w-40" /> }}
 ```
 
 - `src` (required) is the file name of the image. It assumes the image is placed in the same folder as the markdown page.
 - `alt` (optional) is the alt tag you want to use for the image. Alt tags are always recommended to add for those who use screen readers.
-- `caption` (optional), when used, puts the image in a frame (`<figure>`) and adds a visible caption that describes what's in the image. Usually `alt` and `caption` use the same value, but not always.
-- `classes` (optional) any class names you want to assign to the image.
+- `classes` (optional) any class names you want to assign to the image. 
+
+##### `image_fig`
+
+Add an image with a caption.
+
+```
+{{ <image_fig src="javi-and-rebecca-bikepackers.webp" caption="Javi and Rebecca" alt="Javi and Rebecca" /> }}
+{{ <image_fig src="javi-and-rebecca-bikepackers.webp" caption="Javi and Rebecca" alt="Javi and Rebecca" float={true} /> }}
+{{ <image_fig src="javi-and-rebecca-bikepackers.webp" caption="Javi and Rebecca" alt="Javi and Rebecca" size="small" /> }}
+```
+
+- `src` (required) is the file name of the image. It assumes the image is placed in the same folder as the markdown page.
+- `caption` (required) the visible caption that describes what's in the image. 
+- `alt` (optional) is the alt tag you want to use for the image. Alt tags are always recommended to add for those who use screen readers. Usually `alt` and `caption` use the same value, but not always.
+- `float` (optional) if set, the figure will be on the right side of the page with the rest of the article reflowed around it.
+- `size` (optional) size of the figure, set to `small` for tall images or leave unset for regular size. Setting `float` implies `small` size.
+
+#### Video
+
+Use the `video` or `video_fig` component to add a video to your page.
+
+##### `video`
+
+Add a plain video.
+
+```
+{{ <video src="anroid-auto-demo.webm" alt="A demonstration of Android Auto" classes="max-w-40" /> }}
+```
+
+- `src` (required) is the file name of the video. It assumes the video is placed in the same folder as the markdown page.
+- `alt` (optional) is the alt tag you want to use for the video. Alt tags are always recommended to add for those who use screen readers.
+- `classes` (optional) any class names you want to assign to the video. 
+
+##### `video_fig`
+
+Add a video with a caption.
+
+```
+{{ <video_fig src="anroid-auto-demo.webm" alt="A demonstration of Android Auto" caption="A naviagtion session using Android Auto" /> }}
+{{ <video_fig src="anroid-auto-demo.webm" alt="A demonstration of Android Auto" caption="A naviagtion session using Android Auto" float={true} /> }}
+{{ <video_fig src="anroid-auto-demo.webm" alt="A demonstration of Android Auto" caption="A naviagtion session using Android Auto" size="small" /> }}
+```
+
+- `src` (required) is the file name of the video. It assumes the video is placed in the same folder as the markdown page.
+- `caption` (required) the visible caption that describes what's in the video. 
+- `alt` (optional) is the alt tag you want to use for the video. Alt tags are always recommended to add for those who use screen readers. Usually `alt` and `caption` use the same value, but not always.
+- `float` (optional) if set, the figure will be on the right side of the page with the rest of the article reflowed around it.
+- `size` (optional) size of the figure, set to `small` for tall videos or leave unset for regular size. Setting `float` implies `small` size.
 
 #### Quote
 Use the quote shortcode to add a blockquote to your page. For example:
 
 ```
-{% quote(author="Brandon" work="Tuta Blog" url="https://tuta.com/blog/google-maps-alternatives-foss" date="2026-01-07") %}
+{% <quote author="Brandon" work="Tuta Blog" url="https://tuta.com/blog/google-maps-alternatives-foss" date="2026-01-07"> %}
 CoMaps can be used offline with or without network connection, comes with no annoying ads, and it doesn’t drain your mobile’s battery (unlike Google Maps). It’s available on Google Play, F-droid, IzzyOnDroid, Obtainium or APK download for Android, and on the App store for iOS.
-{% end %}
+{% </quote> %}
 ```
 
-- The main quote goes between the `{% quote %}` block and the `{% end %}` block.
+- The main quote goes between the `{% <quote> %}` block and the `{% </quote> %}` block.
 - `author` (required) the person who made the statement you're quoting. In some cases this could be a group or a company.
 - `work` (optional) the name of the published work, like a book, website, etc, that the quote comes from. Think of it like the title in a citation.
 - `url` (optional) a link to read the quote from it's source, if online.
