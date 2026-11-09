@@ -15,6 +15,8 @@ Then go to the Download Maps menu, you can find it under _burger icon_ and then 
 {{ <image src="image34.png" alt="Main menu" classes="max-w-40"/> }}
 {{ <image src="image3.png" alt="Download maps" classes="max-w-40"/> }}
 
-In the Download Maps menu, first use the _Check for updates_ button. After that, you can download the latest map data using the _Update All_ button (When the button is not visible, then your map data is already up to date).
+In the Download Maps menu, first use the _Check for updates_ button. After that, you can download the latest map update using the _Update All_ button (When the button is not visible, then your map data is already up to date).
 
 {{ <image src="download-maps-menu.jpg" alt="Download Maps menu" classes="max-w-40"/> }}
+
+Map updates are usually about once a week, though being all-volunteer and continuously trying to improve sometimes it could be updated more or less frequently.
