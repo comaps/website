@@ -13,7 +13,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2026.8.1\n"
+"X-Generator: Weblate 2026.10.1\n"
+"PO-Revision-Date: 2026-11-10 13:27+0000\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -567,22 +568,22 @@ msgstr "CoMaps ei jälgi ega jälita sind."
 #. type: Plain text
 #: content/privacy/index.md
 msgid "If you send personal information to us, for example by emailing log files to support@comaps.app, the logs may contain GPS coordinates or bookmark data. You can always send the logs to yourself, edit them, and then send them in. Our support volunteers follow these procedures:"
-msgstr ""
+msgstr "Kui saadad meile isikuandmeid, näiteks saates logifailid e-postiga aadressile support@comaps.app, võivad need logid sisaldada GPS-koordinaate või järjehoidjaandmeid. Võid logid alati esmalt endale saata, neid muuta ja alles seejärel meile edastada. Meie vabatahtlikud tugitöötajad järgivad järgmisi protseduure:"
 
 #. type: Bullet: '- '
 #: content/privacy/index.md
 msgid "We do our best to anonymize your data before sending it to developers or posting it on our Codeberg issues or in Zulip chats. For example we'll say \"ticket 305\" instead of your email address"
-msgstr ""
+msgstr "Teeme oma parima, et muuta sinu andmed anonüümseks enne nende edastamist arendajatele või avaldamist meie veahalduse liideses Codebergis või Zulipi vestlustes. Näiteks kasutame sinu e-posti aadressi asemel väljendit „veahalduse kirje 305“"
 
 #. type: Bullet: '- '
 #: content/privacy/index.md
 msgid "We'll try to filter out irrelevant log lines, so your entire travel route isn't passed along unless it's relevant."
-msgstr ""
+msgstr "Me proovime eemaldada ebaolulised logiread, nii et kogu sinu reisimarsruuti ei edastata, välja arvatud juhul, kui see on asjakohane."
 
 #. type: Bullet: '- '
 #: content/privacy/index.md
 msgid "We close inactive support requests after a week, and delete closed requests from our system after a year."
-msgstr ""
+msgstr "Sulgeme mitteaktiivsed klienditoe päringud nädala möödudes ja kustutame suletud päringud süsteemist aasta möödudes."
 
 #. type: Plain text
 #: content/privacy/index.md content/terms/index.md
@@ -591,10 +592,8 @@ msgstr "Kui sul on küsimusi või ettepanekuid, siis palun kirjuta meile e-posti
 
 #. type: Plain text
 #: content/privacy/index.md
-#, fuzzy
-#| msgid "Policy effective: 2025-05-01"
 msgid "Policy effective: 2026-09-19"
-msgstr "Reeglid kehtivad alates: 2025-05-01"
+msgstr "Reeglid kehtivad alates: 2026-09-19"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/terms/index.md

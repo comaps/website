@@ -13,55 +13,56 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2026.9.1\n"
+"X-Generator: Weblate 2026.10.1\n"
+"PO-Revision-Date: 2026-11-11 14:27+0000\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
 #, no-wrap
 msgid "Discover more of your journey - Powered by the community"
-msgstr "Malkovru pli pri via vojaĝo - Subtenata per la komunumo"
+msgstr "Malkovru pli de via vojaĝo - Subtenata de la komunumo"
 
 #. type: Yaml Front Matter Hash Value: extra freedom description
 #: content/_index.md
 #, no-wrap
 msgid "Discover your journey, navigate the world with privacy and community at the forefront."
-msgstr "Malkovru vian vojaĝon, navigu la mondon kun privateco kaj komunumo ĉe la avangardo."
+msgstr "Malkovru vian vojaĝon, navigu la mondon kun privateco kaj komunumo ĉefloke."
 
 #. type: Yaml Front Matter Hash Value: extra freedom title
 #: content/_index.md
 #, no-wrap
 msgid "Freedom Is Here"
-msgstr "Libereco estas ĉi tie"
+msgstr "Jen libereco"
 
 #. type: Yaml Front Matter Hash Value: extra map description
 #: content/_index.md
 #, no-wrap
 msgid "Community + Open Maps"
-msgstr "Komunumo + Malfermitaj mapoj"
+msgstr "Komunumo + Liberaj mapoj"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
 #, no-wrap
 msgid "Plan and navigate your trip abroad with just GPS, no need for mobile data. Search waypoints while on distant hiking trails or bike paths."
-msgstr "Planu kaj navigu vian vojaĝon eksterlande nur per GPS, sen bezono de mobilaj datumoj. Serĉu vojpunktojn dum vi estas sur malproksimaj piedirvojoj aŭ biciklovojoj."
+msgstr "Planu kaj navigu vian vojaĝon eksterlande nur per GPS, sen bezono de poŝtelefonaj datumoj. Serĉu vojpunktojn dum vi estas sur foraj piedirvojoj aŭ biciklovojoj."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
 #, no-wrap
 msgid "No internet needed"
-msgstr "Neniu interreto bezonata"
+msgstr "Ne necesas interreto"
 
 #. type: Yaml Front Matter Hash Value: extra services items title
 #: content/_index.md
 #, no-wrap
 msgid "Offline Search and Route"
-msgstr "Senkonekta serĉo kaj itinero"
+msgstr "Senreta serĉo kaj itinero"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
 #, no-wrap
 msgid "The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information. CoMaps was also audited by <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-exodus\"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/)."
-msgstr "La aplikaĵo estas dezajnita kun privataĵo en menso - ne identigas homojn, ne sekvas vin, kaj ne kolektas ajnan informon. CoMaps ankaŭ estis kontrolita de <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-exodus\"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/)."
+msgstr "La apo estas projektita konsiderante privatecon — ĝi ne identigas homojn, ne spuras vin kaj ne kolektas ajnajn informojn. CoMaps ankaŭ estis reviziita de <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-exodus\"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/)."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
@@ -79,7 +80,7 @@ msgstr "Neniu datumkolekto"
 #: content/_index.md
 #, no-wrap
 msgid "Efficiently uses the battery, doesn’t drain your battery like other navigation apps."
-msgstr "Efike uzas la baterion, ne elĉerpas vian baterion kiel aliaj navigadaj aplikaĵoj."
+msgstr "Efike uzas la baterion kaj ne malplenigas ĝin kiel aliaj navigadaj apoj."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
@@ -91,7 +92,7 @@ msgstr "Efika uzo de baterio"
 #: content/_index.md
 #, no-wrap
 msgid "Save Your Battery"
-msgstr "Konservu vian baterion"
+msgstr "Ŝparu vian baterion"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md

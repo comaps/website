@@ -13,7 +13,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2026.9.1\n"
+"X-Generator: Weblate 2026.10.1\n"
+"PO-Revision-Date: 2026-11-10 20:40+0000\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -73,7 +74,7 @@ msgstr "Cerca i navegació sense connexió"
 #: content/_index.md
 #, no-wrap
 msgid "Use the outdoor mode to highlight hiking trails, campsites, and water sources. Enable contour lines to plan your trip. Spot an interesting peak along the way? Use the offline *Wikipedia* articles to learn more about it!"
-msgstr ""
+msgstr "Usa el mode a l'aire lliure per a destacar els senders, càmpings i punts d'aigua. Activa les corbes de nivell per a planificar la ruta. Et crida l'atenció un cim pel camí? Llig-ne els articles de la *Viquipèdia*, disponibles sense connexió, per a descobrir-ne més!"
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
@@ -85,7 +86,7 @@ msgstr "Explora la natura"
 #: content/_index.md
 #, no-wrap
 msgid "Hike with the Information you Need"
-msgstr "Senderisme amb tota la informació que necessiteu"
+msgstr "Senderisme amb tota la informació que necessites"
 
 #. type: Yaml Front Matter Hash Value: extra services items description
 #: content/_index.md
@@ -145,7 +146,7 @@ msgstr "Sense recol·lecció de dades"
 #: content/_index.md
 #, no-wrap
 msgid "CoMaps is recommended by *[Switching Software](https://switching.software/replace/google-maps/)*, *[European & Open Source Alternatives](https://european-alternatives.cloud/en/browse?category=maps)*, *[Digital Independence Day](https://di.day/en/digital-switch-recipes/maps)* ,and *[Framastart](https://framastart.org/smartphone/)* as an ethical, easy-to-use and privacy-conscious alternative to commercial maps."
-msgstr "Les plataformes *[Switching Software](https://switching.software/replace/google-maps/)*, *[European & Open Source Alternatives](https://european-alternatives.cloud/en/browse?category=maps)*, *[Digital Independence Day](https://di.day/en/digital-switch-recipes/maps)* i *[Framastart](https://framastart.org/smartphone/)* recomanen CoMaps per ser una alternativa ètica, intuïtiva i compromesa amb la privacitat en front a aplicacions comercials de mapes."
+msgstr "Les plataformes *[Switching Software](https://switching.software/replace/google-maps/)*, *[European & Open Source Alternatives](https://european-alternatives.cloud/en/browse?category=maps)*, *[Digital Independence Day](https://di.day/en/digital-switch-recipes/maps)* i *[Framastart](https://framastart.org/smartphone/)* recomanen CoMaps per ser una alternativa ètica, intuïtiva i compromesa amb la privacitat enfront d'aplicacions comercials de mapes."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
@@ -169,7 +170,7 @@ msgstr ""
 #: content/_index.md
 #, no-wrap
 msgid "People like you are helping build the app by adding locations to <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, giving feedback on features, and contributing code on <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> to create great maps together. The project is a fork of Organic Maps and Maps.Me, and driven by an open-source community."
-msgstr "Les persones com tu han ajudat a construir l'aplicació afegint llocs a <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, donant la seva opinió sobre funcionalitats, i contribuint amb codi a <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> per fer millors mapes entre tots. El projecte és una bifurcació de Organic Maps i Maps.me, i està dirigit per la comunitat de codi obert."
+msgstr "Les persones com tu han ajudat a construir l'aplicació afegint llocs a <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, donant la seva opinió sobre funcionalitats, i contribuint amb codi a <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> per fer millors mapes entre tots. El projecte és una bifurcació d'Organic Maps i Maps.me, i està dirigit per la comunitat de codi obert."
 
 #. type: Yaml Front Matter Hash Value: extra services items highlight text
 #: content/_index.md
@@ -529,7 +530,7 @@ msgstr "Verificar l'aplicació d'Android"
 #: content/download/index.md
 #, no-wrap
 msgid "Latest Releases"
-msgstr "Últimes Actualitzacions"
+msgstr "Últimes actualitzacions"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/download/index.md
@@ -567,22 +568,22 @@ msgstr "CoMaps no vos rastreja."
 #. type: Plain text
 #: content/privacy/index.md
 msgid "If you send personal information to us, for example by emailing log files to support@comaps.app, the logs may contain GPS coordinates or bookmark data. You can always send the logs to yourself, edit them, and then send them in. Our support volunteers follow these procedures:"
-msgstr ""
+msgstr "Si ens envies informació personal, per exemple fitxers de registre a l'adreça support@comaps.app, els registres podrien contindre coordenades GPS o dades de marcadors. Sempre pots enviar-te els registres a tu mateix, editar-los i, llavors, enviar-nos-els. Els nostres voluntaris de suport segueixen aquests procediments:"
 
 #. type: Bullet: '- '
 #: content/privacy/index.md
 msgid "We do our best to anonymize your data before sending it to developers or posting it on our Codeberg issues or in Zulip chats. For example we'll say \"ticket 305\" instead of your email address"
-msgstr ""
+msgstr "Donem el millor de nosaltres perquè les teves dades siguen anònimes abans d'enviar-les als desenvolupadors o penjar-les a les nostres incidències a Codeberg o en xats de Zulip. Per exemple, direm \"tiquet 305\" en comptes de la teva adreça electrònica"
 
 #. type: Bullet: '- '
 #: content/privacy/index.md
 msgid "We'll try to filter out irrelevant log lines, so your entire travel route isn't passed along unless it's relevant."
-msgstr ""
+msgstr "Tractarem de filtrar les línies irrellevants del registre perquè no es transmeta tota la teva ruta, llevat que siga rellevant."
 
 #. type: Bullet: '- '
 #: content/privacy/index.md
 msgid "We close inactive support requests after a week, and delete closed requests from our system after a year."
-msgstr ""
+msgstr "Tanquem les peticions de suport inactives després d'una setmana, i esborrem les peticions tancades del nostre sistema després d'un any."
 
 #. type: Plain text
 #: content/privacy/index.md content/terms/index.md
@@ -591,10 +592,8 @@ msgstr "Si teniu alguna pregunta o suggerència, per favor contacteu-nos a l'adr
 
 #. type: Plain text
 #: content/privacy/index.md
-#, fuzzy
-#| msgid "Policy effective: 2025-05-01"
 msgid "Policy effective: 2026-09-19"
-msgstr "Política vigent des del 01-05-2025"
+msgstr "Política vigent des del 19-09-2026"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/terms/index.md
@@ -605,7 +604,7 @@ msgstr "Termes"
 #. type: Plain text
 #: content/terms/index.md
 msgid "This app is licensed under the Apache License, Version 2.0 (the \"License\"); This application cannot be used except in compliance with the License."
-msgstr ""
+msgstr "Aquesta aplicació està disponible en virtut de la Llicència Apache, versió 2.0 (la \"Llicència\"); no es pot utilitzar aquesta aplicació excepte en compliment amb la Llicència."
 
 #. type: Plain text
 #: content/terms/index.md
@@ -615,7 +614,7 @@ msgstr "Llegiu [la llicència sencera](https://www.apache.org/licenses/LICENSE-2
 #. type: Plain text
 #: content/terms/index.md
 msgid "Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License."
-msgstr ""
+msgstr "Llevat que ho exigisca la legislació aplicable o s'acorde per escrit, el software distribuït sota la Llicència es distribueix \"TAL QUAL\", SENSE GARANTIES O CONDICIONS DE CAP TIPUS, tant expresses com implícites. Consulta la Llicència per a conèixer el llenguatge específic que regix els permisos i limitacions sota la Llicència."
 
 #. type: Plain text
 #: content/terms/index.md
@@ -625,7 +624,7 @@ msgstr "Moltes biblioteques i eines de tercers incloses al [repositori de CoMaps
 #. type: Plain text
 #: content/terms/index.md
 msgid "See [data/copyright.html](https://codeberg.org/comaps/comaps/src/branch/main/data/copyright.html) file for a full list of copyright notices for the CoMaps application."
-msgstr ""
+msgstr "Consulta [data/copyright.html](https://codeberg.org/comaps/comaps/src/branch/main/data/copyright.html) per a veure la llista completa d'avisos de drets d'autor de l'aplicació CoMaps."
 
 #. type: Hash Value: all_title
 #: translations.yaml
@@ -637,7 +636,7 @@ msgstr "Tot"
 #: translations.yaml
 #, no-wrap
 msgid "Android is becoming a closed down platform. Learn more!"
-msgstr "Android s'està convertint en una plataforma tancada. Coneixeu més!"
+msgstr "Android s'està convertint en una plataforma tancada. Coneix més!"
 
 #. type: Hash Value: button-download
 #: translations.yaml
@@ -691,7 +690,7 @@ msgstr "Afegeix informació dels llocs"
 #: translations.yaml
 #, no-wrap
 msgid "Get Involved"
-msgstr "Involucra't"
+msgstr "Involucra-t'hi"
 
 #. type: Hash Value: language
 #: translations.yaml
