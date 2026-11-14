@@ -26,14 +26,14 @@
         </a>
     {% endif %}
     <div class="line post-min__line"></div>
-    <div class="post-min__dates">
+    <div class="post-min__meta-mini">
         <div class="post-min__date">
             <time class="p-sm post-min__date-title" datetime="{{ page.date }}">
-                {{ page.date | date(format='%B %e, %Y') }}
+                {{ page.date | date(format='d MMMM y', locale=lang) }}
             </time>
             <!-- <span class="p-sm post-min__date-title">{{ page.date | date(format='%B %e, %Y') }}</span> -->
         </div>
-        <div class="post-min__date">
+        <div class="post-min__category">
             <span class="p-sm post-min__date-title">
                 {% for term in page.taxonomies.category %}{{ term }}{% endfor %}
             </span>

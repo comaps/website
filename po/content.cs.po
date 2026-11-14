@@ -741,6 +741,18 @@ msgstr "Stav služeb"
 msgid "More"
 msgstr "Více"
 
+#. type: Hash Value: no_translations_available
+#: translations.yaml
+#, no-wrap
+msgid "There are no translations available for this page"
+msgstr ""
+
+#. type: Hash Value: page_translations_available
+#: translations.yaml
+#, no-wrap
+msgid "This page has available translations"
+msgstr ""
+
 #. type: Hash Value: releases_title
 #: translations.yaml
 #, no-wrap

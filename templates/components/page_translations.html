@@ -1,0 +1,12 @@
+{% component page_translations(page) %}
+<script>
+function openLanguageMenu() {
+    document.getElementsByClassName('header__menu-btn')[0]?.click();
+    document.getElementById('lang-menu-trigger').checked = true;
+}
+</script>
+<div class="page-translations" onclick="openLanguageMenu()" title="{{ trans(key='page_translations_available') }}">
+{{ <lang_globe /> }}
+{{ page.translations | length  - 1}}
+</div>
+{% endcomponent %}

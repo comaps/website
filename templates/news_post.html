@@ -8,25 +8,32 @@
   <div class="container single-news__row">
     <div class="single-news__item">
       <div style="height: var(--spacer);"></div>
+      <div class="post-min__head">
       <h1 class="h1 post-min__title">{{ resource.title | safe }}</h1>
+      </div>
       <div class="line post-min__line"></div>
       <div class="post-min">
-        <div class="post-min__dates">
+        <div class="post-min__meta">
           <div class="post-min__date">
-            <span class="p-sm post-min__date-title">{{ resource.date | date(format='%B %e, %Y') }}</span>
+            <span class="p-sm">{{ resource.date | date(format='d MMMM y', locale=lang) }}</span>
           </div>
-          <div class="post-min__date">
+          <div class="post-min__authors">
             {% if page.authors %}
               {{ <authors page={page} /> }}
             {% else %}{# old handling for authors defined in page.extra only #}
-              <span class="p-sm post-min__date-title">{% if page.extra.author %}{% if page.extra.author_username %}<a href="https://codeberg.org/{{ page.extra.author_username  }}">{% endif %}{{ page.extra.author  }}{% if page.extra.author_username %}</a>{% endif %}{% else %}The CoMaps Team{% endif %}</span> 
+              <span class="p-sm">{% if page.extra.author %}{% if page.extra.author_username %}<a href="https://codeberg.org/{{ page.extra.author_username  }}">{% endif %}{{ page.extra.author  }}{% if page.extra.author_username %}</a>{% endif %}{% else %}The CoMaps Team{% endif %}</span>
             {% endif %}
           </div>
-          <div class="post-min__date">
-            <span class="p-sm post-min__date-title">
+          <div class="post-min__category">
+            <span class="p-sm">
                 {% for term in page.taxonomies.category %}{{ term }}{% endfor %}
             </span>
           </div>
+          {% if page.translations | length > 1 %}
+          <div class="post-min__translations">
+              {{ <page_translations page={page} /> }}
+          </div>
+          {% endif %}
         </div>
         <div style="height: calc(var(--spacer) / 2);"></div>
         <div class="post-min__content">

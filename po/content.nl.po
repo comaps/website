@@ -14,7 +14,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 2026.10.1\n"
-"PO-Revision-Date: 2026-11-10 09:27+0000\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -739,6 +738,18 @@ msgstr "Service-status"
 #, no-wrap
 msgid "More"
 msgstr "Meer"
+
+#. type: Hash Value: no_translations_available
+#: translations.yaml
+#, no-wrap
+msgid "There are no translations available for this page"
+msgstr ""
+
+#. type: Hash Value: page_translations_available
+#: translations.yaml
+#, no-wrap
+msgid "This page has available translations"
+msgstr ""
 
 #. type: Hash Value: releases_title
 #: translations.yaml

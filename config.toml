@@ -16,7 +16,7 @@ taxonomies = [
     {name = "supportcategory", feed = false},
     {name = "category", paginate_by = 50, feed = true},
     {name = "coverage_type", paginate_by = 50, feed = true},
-]
+] # when changing these you must duplicate the changes to the per-language taxonomies too
 
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = false
@@ -195,8 +195,16 @@ inv_info_title = "Add Place Info"
 inv_info_text = "Add info around you, and make the maps better for everyone"
 # android banner
 banner_android = "Android is becoming a closed down platform. Learn more!"
+# page translations
+page_translations_available = "This page has available translations"
+no_translations_available = "There are no translations available for this page"
 # Please sort all other translation sections and values in alphabetical order.
 [languages.de]
+taxonomies = [
+    {name = "supportcategory", feed = false},
+    {name = "category", paginate_by = 50, feed = true},
+    {name = "coverage_type", paginate_by = 50, feed = true},
+]
 [languages.de.translations]
 language = "Deutsch"
 const_lang = "Sprache"
@@ -227,7 +235,14 @@ inv_code_text = "Entwickle die weltweit genutzte App"
 inv_info_title = "Ortsinformationen hinzufügen"
 inv_info_text = "Füge Infos aus deiner Umgebung hinzu und verbessere die Karten für alle"
 banner_android = "Android entwickelt sich zu einer geschlossenen Plattform. Erfahre mehr!"
+page_translations_available = "This page has available translations"
+no_translations_available = "There are no translations available for this page"
 [languages.fr]
+taxonomies = [
+    {name = "supportcategory", feed = false},
+    {name = "category", paginate_by = 50, feed = true},
+    {name = "coverage_type", paginate_by = 50, feed = true},
+]
 [languages.fr.translations]
 language = "Français"
 const_lang = "Langue"
@@ -258,7 +273,14 @@ inv_code_text = "Construisez l’application utilisée par les gens autour du mo
 inv_info_title = "Ajoutez des infos sur les lieux"
 inv_info_text = "Ajoutez des infos autour de vous, et rendez les cartes meilleures pour tout le monde"
 banner_android = "Android est en train de devenir une plateforme fermée. Pour en savoir plus !"
+page_translations_available = "This page has available translations"
+no_translations_available = "There are no translations available for this page"
 [languages.it]
+taxonomies = [
+    {name = "supportcategory", feed = false},
+    {name = "category", paginate_by = 50, feed = true},
+    {name = "coverage_type", paginate_by = 50, feed = true},
+]
 [languages.it.translations]
 language = "Italiano"
 const_lang = "Lingua"
@@ -289,7 +311,14 @@ inv_code_text = "Costruisci l'applicazione utilizzata da persone in tutto il mon
 inv_info_title = "Aggiungi delle informazioni sui posti"
 inv_info_text = "Aggiungi delle informazioni intorno a te, e rendi le mappe migliori per tutti"
 banner_android = "Android is becoming a closed down platform. Learn more!"
+page_translations_available = "This page has available translations"
+no_translations_available = "There are no translations available for this page"
 [languages.cs]
+taxonomies = [
+    {name = "supportcategory", feed = false},
+    {name = "category", paginate_by = 50, feed = true},
+    {name = "coverage_type", paginate_by = 50, feed = true},
+]
 [languages.cs.translations]
 language = "Čeština"
 const_lang = "Jazyk"
@@ -320,6 +349,14 @@ inv_code_text = "Vytvářejte aplikaci používanou lidmi po celém světě"
 inv_info_title = "Přidávejte místa"
 inv_info_text = "Přidávejte informace kolem sebe a zlepšete tím mapy pro všechny ostatní"
 banner_android = "Ze systému Android se stává uzavřená platforma. Zjistěte více!"
+page_translations_available = "This page has available translations"
+no_translations_available = "There are no translations available for this page"
+[languages.pt]
+taxonomies = [
+    {name = "supportcategory", feed = false},
+    {name = "category", paginate_by = 50, feed = true},
+    {name = "coverage_type", paginate_by = 50, feed = true},
+]
 [languages.pt.translations]
 language = "Português"
 const_lang = "Idioma"
@@ -350,6 +387,14 @@ inv_code_text = "Ajude a construir a aplicação utilizada por pessoas de todos 
 inv_info_title = "Adicionar Informação sobre o Local"
 inv_info_text = "Adiciona informações sobre o mundo à tua volta e torna os mapas melhores para todos"
 banner_android = "Android is becoming a closed down platform. Learn more!"
+page_translations_available = "This page has available translations"
+no_translations_available = "There are no translations available for this page"
+[languages.pt-BR]
+taxonomies = [
+    {name = "supportcategory", feed = false},
+    {name = "category", paginate_by = 50, feed = true},
+    {name = "coverage_type", paginate_by = 50, feed = true},
+]
 [languages.pt-BR.translations]
 language = "Português (Brasil)"
 const_lang = "Idioma"
@@ -380,6 +425,14 @@ inv_code_text = "Construa o app usado por pessoas de todo o mundo"
 inv_info_title = "Adicione informações de locais"
 inv_info_text = "Adicione informações ao seu redor e torne os mapas melhores para todos"
 banner_android = "O Android está se tornando uma plataforma fechada. Saiba mais!"
+page_translations_available = "This page has available translations"
+no_translations_available = "There are no translations available for this page"
+[languages.es]
+taxonomies = [
+    {name = "supportcategory", feed = false},
+    {name = "category", paginate_by = 50, feed = true},
+    {name = "coverage_type", paginate_by = 50, feed = true},
+]
 [languages.es.translations]
 language = "Español"
 const_lang = "Idioma"
@@ -410,6 +463,14 @@ inv_code_text = "Construye la aplicación utilizada por gente de todo el mundo"
 inv_info_title = "Añade información de lugares"
 inv_info_text = "Añade información cerca de ti, y haz que los mapas sean mejores para todos"
 banner_android = "Android se está convirtiendo en un sistema cerrado. ¡Conoce más!"
+page_translations_available = "This page has available translations"
+no_translations_available = "There are no translations available for this page"
+[languages.hu]
+taxonomies = [
+    {name = "supportcategory", feed = false},
+    {name = "category", paginate_by = 50, feed = true},
+    {name = "coverage_type", paginate_by = 50, feed = true},
+]
 [languages.hu.translations]
 language = "Magyar"
 const_lang = "Nyelv"
@@ -440,6 +501,14 @@ inv_code_text = "Készítse Ön is az alkalmazást, amelyet az emberek világsze
 inv_info_title = "Helyinformációk hozzáadása"
 inv_info_text = "Adjon hozzá információkat a térképhez, és tegye jobbá mindenki számára"
 banner_android = "Android is becoming a closed down platform. Learn more!"
+page_translations_available = "This page has available translations"
+no_translations_available = "There are no translations available for this page"
+[languages.uk]
+taxonomies = [
+    {name = "supportcategory", feed = false},
+    {name = "category", paginate_by = 50, feed = true},
+    {name = "coverage_type", paginate_by = 50, feed = true},
+]
 [languages.uk.translations]
 language = "Українська"
 const_lang = "Мова"
@@ -470,6 +539,14 @@ inv_code_text = "Створюйте застосунок, яким корист�
 inv_info_title = "Додайте інформацію про місце"
 inv_info_text = "Додайте інформацію навколо себе і покращуйте карти для всіх"
 banner_android = "Android is becoming a closed down platform. Learn more!"
+page_translations_available = "This page has available translations"
+no_translations_available = "There are no translations available for this page"
+[languages.zh-Hans]
+taxonomies = [
+    {name = "supportcategory", feed = false},
+    {name = "category", paginate_by = 50, feed = true},
+    {name = "coverage_type", paginate_by = 50, feed = true},
+]
 [languages.zh-Hans.translations]
 language = "简体中文"
 const_lang = "语言"
@@ -500,6 +577,14 @@ inv_code_text = "共建世界各地都在使用的应用"
 inv_info_title = "添加地点"
 inv_info_text = "添加周围环境信息，让地图更好地为所有人服务"
 banner_android = "Android 正走向封闭，立即了解！"
+page_translations_available = "This page has available translations"
+no_translations_available = "There are no translations available for this page"
+[languages.ar]
+taxonomies = [
+    {name = "supportcategory", feed = false},
+    {name = "category", paginate_by = 50, feed = true},
+    {name = "coverage_type", paginate_by = 50, feed = true},
+]
 [languages.ar.translations]
 language = "العربية"
 const_lang = "لغة"
@@ -530,6 +615,14 @@ inv_code_text = "قم ببناء التطبيق الذي يستخدمه النا
 inv_info_title = "إضافة معلومات المكان"
 inv_info_text = "أضف معلومات من حولك، واجعل الخرائط أفضل للجميع"
 banner_android = "Android is becoming a closed down platform. Learn more!"
+page_translations_available = "This page has available translations"
+no_translations_available = "There are no translations available for this page"
+[languages.zh-Hant]
+taxonomies = [
+    {name = "supportcategory", feed = false},
+    {name = "category", paginate_by = 50, feed = true},
+    {name = "coverage_type", paginate_by = 50, feed = true},
+]
 [languages.zh-Hant.translations]
 language = "正體中文"
 const_lang = "語言"
@@ -560,6 +653,14 @@ inv_code_text = "共建世界各地都在使用的應用"
 inv_info_title = "新增位置資訊"
 inv_info_text = "新增周圍環境資訊，讓地圖更好地為所有人服務"
 banner_android = "Android 已經變成越來越封閉的平台了，瞭解更多！"
+page_translations_available = "This page has available translations"
+no_translations_available = "There are no translations available for this page"
+[languages.et]
+taxonomies = [
+    {name = "supportcategory", feed = false},
+    {name = "category", paginate_by = 50, feed = true},
+    {name = "coverage_type", paginate_by = 50, feed = true},
+]
 [languages.et.translations]
 language = "eesti keel"
 const_lang = "Keel"
@@ -590,6 +691,14 @@ inv_code_text = "Aita luua kaardirakendust, mille kasutajaid leidub kõikjal maa
 inv_info_title = "Lisa asukohateavet"
 inv_info_text = "Lisa teavet oma ümbruskonnast ja aita kõigi jaoks luua paremat kaarti"
 banner_android = "Android on muutumas suletud platvormiks. Lisateavet loe siit!"
+page_translations_available = "This page has available translations"
+no_translations_available = "There are no translations available for this page"
+[languages.fi]
+taxonomies = [
+    {name = "supportcategory", feed = false},
+    {name = "category", paginate_by = 50, feed = true},
+    {name = "coverage_type", paginate_by = 50, feed = true},
+]
 [languages.fi.translations]
 language = "Suomi"
 const_lang = "Kieli"
@@ -620,6 +729,14 @@ inv_code_text = "Rakenna sovellus käytettäväksi ympäri maailmaa"
 inv_info_title = "Lisää paikan tiedot"
 inv_info_text = "Lisää ympärilläsi olevia tietoja ja auta tekemään kartoista parempia kaikille"
 banner_android = "Android is becoming a closed down platform. Learn more!"
+page_translations_available = "This page has available translations"
+no_translations_available = "There are no translations available for this page"
+[languages.hr]
+taxonomies = [
+    {name = "supportcategory", feed = false},
+    {name = "category", paginate_by = 50, feed = true},
+    {name = "coverage_type", paginate_by = 50, feed = true},
+]
 [languages.hr.translations]
 language = "Hrvatski"
 const_lang = "Jezik"
@@ -650,6 +767,14 @@ inv_code_text = "Izradi aplikaciju koju koriste ljudi diljem svijeta"
 inv_info_title = "Dodaj informacije o mjestu"
 inv_info_text = "Dodaj informacije oko sebe i učini karte boljima za sve"
 banner_android = "Android postaje zatvorena platforma. Saznaj više!"
+page_translations_available = "This page has available translations"
+no_translations_available = "There are no translations available for this page"
+[languages.ca]
+taxonomies = [
+    {name = "supportcategory", feed = false},
+    {name = "category", paginate_by = 50, feed = true},
+    {name = "coverage_type", paginate_by = 50, feed = true},
+]
 [languages.ca.translations]
 language = "Català"
 const_lang = "Idioma"
@@ -680,6 +805,14 @@ inv_code_text = "Construeix l'aplicació utilitzada per gent arreu del món"
 inv_info_title = "Afegeix informació dels llocs"
 inv_info_text = "Afegeix informació del teu entorn, i fes que els mapes siguin millors per a tothom"
 banner_android = "Android s'està convertint en una plataforma tancada. Coneixeu més!"
+page_translations_available = "This page has available translations"
+no_translations_available = "There are no translations available for this page"
+[languages.nl]
+taxonomies = [
+    {name = "supportcategory", feed = false},
+    {name = "category", paginate_by = 50, feed = true},
+    {name = "coverage_type", paginate_by = 50, feed = true},
+]
 [languages.nl.translations]
 language = "Nederlands"
 const_lang = "Taal"
@@ -710,6 +843,14 @@ inv_code_text = "Bouw aan de app die wereldwijd wordt gebruikt"
 inv_info_title = "Voeg plaatsinfo toe"
 inv_info_text = "Voeg informatie in je omgeving toe en verbeter de kaarten voor iedereen"
 banner_android = "Android wordt een gesloten platform. Meer hierover!"
+page_translations_available = "This page has available translations"
+no_translations_available = "There are no translations available for this page"
+[languages.ru]
+taxonomies = [
+    {name = "supportcategory", feed = false},
+    {name = "category", paginate_by = 50, feed = true},
+    {name = "coverage_type", paginate_by = 50, feed = true},
+]
 [languages.ru.translations]
 language = "Русский"
 const_lang = "Язык"
@@ -740,6 +881,14 @@ inv_code_text = "Создайте приложение, которым поль�
 inv_info_title = "Добавьте информацию о местах"
 inv_info_text = "Добавьте информацию вокруг себя и сделайте карты лучше для всех"
 banner_android = "Android is becoming a closed down platform. Learn more!"
+page_translations_available = "This page has available translations"
+no_translations_available = "There are no translations available for this page"
+[languages.tr]
+taxonomies = [
+    {name = "supportcategory", feed = false},
+    {name = "category", paginate_by = 50, feed = true},
+    {name = "coverage_type", paginate_by = 50, feed = true},
+]
 [languages.tr.translations]
 language = "Türkçe"
 const_lang = "Dil"
@@ -770,6 +919,14 @@ inv_code_text = "Dünya çapındaki insanların kullandığı uygulamayı oluşt
 inv_info_title = "Yer Bilgisi Ekle"
 inv_info_text = "Çevrenizdeki bilgileri ekleyin ve haritaları herkes için daha iyi hale getirin"
 banner_android = "Android is becoming a closed down platform. Learn more!"
+page_translations_available = "This page has available translations"
+no_translations_available = "There are no translations available for this page"
+[languages.gl]
+taxonomies = [
+    {name = "supportcategory", feed = false},
+    {name = "category", paginate_by = 50, feed = true},
+    {name = "coverage_type", paginate_by = 50, feed = true},
+]
 [languages.gl.translations]
 language = "Galego"
 const_lang = "Idioma"
@@ -800,6 +957,14 @@ inv_code_text = "Constrúe a aplicación que usan as persoas en todo o mundo"
 inv_info_title = "Engade info de Lugares"
 inv_info_text = "Engade información preto de ti, e mellora os mapas para todas nós"
 banner_android = "Android is becoming a closed down platform. Learn more!"
+page_translations_available = "This page has available translations"
+no_translations_available = "There are no translations available for this page"
+[languages.gsw]
+taxonomies = [
+    {name = "supportcategory", feed = false},
+    {name = "category", paginate_by = 50, feed = true},
+    {name = "coverage_type", paginate_by = 50, feed = true},
+]
 [languages.gsw.translations]
 language = "Schwiizerdütsch"
 const_lang = "Spraach"
@@ -830,6 +995,14 @@ inv_code_text = "Entwickle die weltwiit gnutzti App"
 inv_info_title = "Ortsinformatione hinzuefüege"
 inv_info_text = "Füeg Infos us dinere Umgebig hinzue und verbesser d Charte für alli"
 banner_android = "Android is becoming a closed down platform. Learn more!"
+page_translations_available = "This page has available translations"
+no_translations_available = "There are no translations available for this page"
+[languages.pl]
+taxonomies = [
+    {name = "supportcategory", feed = false},
+    {name = "category", paginate_by = 50, feed = true},
+    {name = "coverage_type", paginate_by = 50, feed = true},
+]
 [languages.pl.translations]
 language = "Polski"
 const_lang = "Język"
@@ -860,6 +1033,14 @@ inv_code_text = "Twórz aplikację używaną przez ludzi na całym świecie"
 inv_info_title = "Dodaj informacje o miejscu"
 inv_info_text = "Dodawaj informacje wokół siebie i ulepszaj mapy dla wszystkich"
 banner_android = "Android is becoming a closed down platform. Learn more!"
+page_translations_available = "This page has available translations"
+no_translations_available = "There are no translations available for this page"
+[languages.eu]
+taxonomies = [
+    {name = "supportcategory", feed = false},
+    {name = "category", paginate_by = 50, feed = true},
+    {name = "coverage_type", paginate_by = 50, feed = true},
+]
 [languages.eu.translations]
 language = "Euskara"
 const_lang = "Hizkuntza"
@@ -890,6 +1071,14 @@ inv_code_text = "Sortu mundu osoko jendeak erabiltzen duen aplikazioa"
 inv_info_title = "Gehitu tokiko informazioa"
 inv_info_text = "Gehitu zure inguruko informazioa eta hobetu mapak denentzat"
 banner_android = "Android is becoming a closed down platform. Learn more!"
+page_translations_available = "This page has available translations"
+no_translations_available = "There are no translations available for this page"
+[languages.ro]
+taxonomies = [
+    {name = "supportcategory", feed = false},
+    {name = "category", paginate_by = 50, feed = true},
+    {name = "coverage_type", paginate_by = 50, feed = true},
+]
 [languages.ro.translations]
 language = "Română"
 const_lang = "Limbă"
@@ -920,6 +1109,14 @@ inv_code_text = "Construiește aplicația folosită de oameni din întreaga lume
 inv_info_title = "Adaugă informații despre loc"
 inv_info_text = "Adaugă informații despre împrejurimile tale și fă hărțile mai bune pentru toată lumea"
 banner_android = "Android devine o platformă închisă. Află mai multe!"
+page_translations_available = "This page has available translations"
+no_translations_available = "There are no translations available for this page"
+[languages.fa]
+taxonomies = [
+    {name = "supportcategory", feed = false},
+    {name = "category", paginate_by = 50, feed = true},
+    {name = "coverage_type", paginate_by = 50, feed = true},
+]
 [languages.fa.translations]
 language = "پارسی"
 const_lang = "زبان"
@@ -950,6 +1147,14 @@ inv_code_text = "­برنامه ای رو بساز که در سراسر دنیا
 inv_info_title = "اضافه کردن اطلاعات محل"
 inv_info_text = "اطلاعات اطراف خود را اضافه کنید و نقشه ها را برای همه بهتر کنید"
 banner_android = "Android is becoming a closed down platform. Learn more!"
+page_translations_available = "This page has available translations"
+no_translations_available = "There are no translations available for this page"
+[languages.sl]
+taxonomies = [
+    {name = "supportcategory", feed = false},
+    {name = "category", paginate_by = 50, feed = true},
+    {name = "coverage_type", paginate_by = 50, feed = true},
+]
 [languages.sl.translations]
 language = "Slovenščina"
 const_lang = "Jezik"
@@ -980,6 +1185,14 @@ inv_code_text = "Ustvari orodje, ki ga uporabljajo ljudje po vsem svetu"
 inv_info_title = "Dodaj podatke o kraju"
 inv_info_text = "Dodaj podatke o svoji okolici in naredi zemljevid boljši za vse"
 banner_android = "Android is becoming a closed down platform. Learn more!"
+page_translations_available = "This page has available translations"
+no_translations_available = "There are no translations available for this page"
+[languages.sr]
+taxonomies = [
+    {name = "supportcategory", feed = false},
+    {name = "category", paginate_by = 50, feed = true},
+    {name = "coverage_type", paginate_by = 50, feed = true},
+]
 [languages.sr.translations]
 language = "Српски"
 const_lang = "Jezik"
@@ -1010,6 +1223,14 @@ inv_code_text = "Направите апликацију коју користе
 inv_info_title = "Додајте информације о месту"
 inv_info_text = "Додајте информације о свом окружењу и учините мапе бољим за све"
 banner_android = "Андроид постаје затворена платформа. Сазнајте више!"
+page_translations_available = "This page has available translations"
+no_translations_available = "There are no translations available for this page"
+[languages.ta]
+taxonomies = [
+    {name = "supportcategory", feed = false},
+    {name = "category", paginate_by = 50, feed = true},
+    {name = "coverage_type", paginate_by = 50, feed = true},
+]
 [languages.ta.translations]
 language = "தமிழ்"
 const_lang = "மொழி"
@@ -1040,6 +1261,14 @@ inv_code_text = "உலகம் முழுவதும் உள்ளவர�
 inv_info_title = "இடத் தகவலைச் சேர்க்கவும்"
 inv_info_text = "உங்களைச் சுற்றியுள்ள தகவலைச் சேர்த்து, வரைபடங்களை அனைவருக்கும் சிறந்ததாக்குங்கள்"
 banner_android = "Android is becoming a closed down platform. Learn more!"
+page_translations_available = "This page has available translations"
+no_translations_available = "There are no translations available for this page"
+[languages.id]
+taxonomies = [
+    {name = "supportcategory", feed = false},
+    {name = "category", paginate_by = 50, feed = true},
+    {name = "coverage_type", paginate_by = 50, feed = true},
+]
 [languages.id.translations]
 language = "Bahasa Indonesia"
 const_lang = "Bahasa"
@@ -1070,6 +1299,14 @@ inv_code_text = "Bangun aplikasi yang digunakan di seluruh dunia"
 inv_info_title = "Tambah Info Lokasi"
 inv_info_text = "Tambahkan info di sekitarmu, dan jadikan peta lebih baik untuk semua orang"
 banner_android = "Android is becoming a closed down platform. Learn more!"
+page_translations_available = "This page has available translations"
+no_translations_available = "There are no translations available for this page"
+[languages.bn]
+taxonomies = [
+    {name = "supportcategory", feed = false},
+    {name = "category", paginate_by = 50, feed = true},
+    {name = "coverage_type", paginate_by = 50, feed = true},
+]
 [languages.bn.translations]
 language = "বাংলা"
 const_lang = "ভাষা"
@@ -1100,6 +1337,14 @@ inv_code_text = "বিশ্বজুড়ে মানুষ যে অ্য
 inv_info_title = "স্থানটির সম্পর্কে তথ্য যোগ করুন"
 inv_info_text = "আপনার চারপাশের তথ্য যোগ করুন, এবং সবার জন্য মানচিত্রগুলো আরও উন্নত করুন"
 banner_android = "Android is becoming a closed down platform. Learn more!"
+page_translations_available = "This page has available translations"
+no_translations_available = "There are no translations available for this page"
+[languages.lt]
+taxonomies = [
+    {name = "supportcategory", feed = false},
+    {name = "category", paginate_by = 50, feed = true},
+    {name = "coverage_type", paginate_by = 50, feed = true},
+]
 [languages.lt.translations]
 language = "Lietuvių"
 const_lang = "Kalba"
@@ -1130,7 +1375,14 @@ inv_code_text = "Kurkite programėlę, naudojamą visame pasaulyje"
 inv_info_title = "Pridėkite vietų duomenis"
 inv_info_text = "Pridėkite informaciją apie aplinkines vietas ir patobulinkite žemėlapius visiems"
 banner_android = "Android is becoming a closed down platform. Learn more!"
-
+page_translations_available = "This page has available translations"
+no_translations_available = "There are no translations available for this page"
+[languages.kw]
+taxonomies = [
+    {name = "supportcategory", feed = false},
+    {name = "category", paginate_by = 50, feed = true},
+    {name = "coverage_type", paginate_by = 50, feed = true},
+]
 [languages.kw.translations]
 language = "Kernewek"
 const_lang = "Yeth"
@@ -1161,7 +1413,14 @@ inv_code_text = "Byldya an app devnydhys gans tus dres oll an bys"
 inv_info_title = "Keworra Kedhlow Le"
 inv_info_text = "Keworra kedhlow a-dro dhis, ha gwellhe an vappys rag oll"
 banner_android = "Android is becoming a closed down platform. Learn more!"
-
+page_translations_available = "This page has available translations"
+no_translations_available = "There are no translations available for this page"
+[languages.da]
+taxonomies = [
+    {name = "supportcategory", feed = false},
+    {name = "category", paginate_by = 50, feed = true},
+    {name = "coverage_type", paginate_by = 50, feed = true},
+]
 [languages.da.translations]
 language = "Dansk"
 const_lang = "Sprog"
@@ -1192,7 +1451,14 @@ inv_code_text = "Byg den app, der bruges af mennesker over hele verden"
 inv_info_title = "Tilføj oplysninger om sted"
 inv_info_text = "Tilføj oplysninger om dit område, og gør kortene bedre for alle"
 banner_android = "Android er ved at blive en lukket platform. Læs mere!"
-
+page_translations_available = "This page has available translations"
+no_translations_available = "There are no translations available for this page"
+[languages.ja]
+taxonomies = [
+    {name = "supportcategory", feed = false},
+    {name = "category", paginate_by = 50, feed = true},
+    {name = "coverage_type", paginate_by = 50, feed = true},
+]
 [languages.ja.translations]
 language = "日本語"
 const_lang = "使用する言語"
@@ -1223,3 +1489,5 @@ inv_code_text = "世界中の人々により利用されているアプリを開
 inv_info_title = "場所の情報を追加する"
 inv_info_text = "あなたの身近な地域の情報を追加して、みんなのためにマップをより良いものにしましょう"
 banner_android = "Androidは閉鎖的なプラットフォームになりつつあります。詳細はこちらをご覧ください！"
+page_translations_available = "This page has available translations"
+no_translations_available = "There are no translations available for this page"

@@ -30,6 +30,13 @@ apt-get install po4a
 dnf install po4a
 ```
 
+**Arch Linux**:
+
+```
+pacman -S po4a 
+pacman -S --asdeps perl-syntax-keyword-try  # required for 'text' .po type
+```
+
 **macOS**:
 
 ```
@@ -42,7 +49,7 @@ brew install po4a
 
 - Add/edit source **English** Markdown files in the repo.
 - Refresh `.pot` and `.po` files when English is changed by running `./tools/i18n.sh`.
-- Push both updated content and refreshed `.pot`/`.po` files in the single PR to GitHub.
+- Push both updated content and refreshed `.pot`/`.po` files in the single PR to Codeberg.
 - Translation teams will be notified via Weblate when your PR is merged.
 - All new strings will be in English until localized (see the next step).
 
