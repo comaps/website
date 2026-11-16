@@ -5,6 +5,7 @@
     position: relative;
     color: var(--black-white);
     cursor: pointer;
+    user-select: none;
     input {
         display: none;
     }
@@ -16,7 +17,7 @@
         color: var(--common-white);
     }
     &__link {
-        padding: 6rem 10rem;
+        padding: 10rem 14rem;
         display: inline-block;
         border-radius: 6rem;
         color: var(--black-white);
@@ -31,23 +32,34 @@
     &__menu {
         display: none;
         position: absolute;
-        background-color: var(--white-black);
+        background-color: var(--footer-bg);
         top: calc(var(--header-height) - 10rem);
         right: 0;
         z-index: 100;
         color: var(--black-white);
-        padding: 16rem;
+        border: 1px solid var(--footer-sep);
+        padding: 8rem;
         border-radius: 8rem;
         flex-direction: column;
-        gap: 4rem 4rem;
-        grid-template-columns: repeat(3, 1fr);
+        grid-template-columns: repeat(3, auto);
         overflow: auto;
-        width: 480rem;
+        max-width: 480rem;
         @media (max-width: $media-md) {
             width: 100vw;
             right: auto;
             left: 50%;
             transform: translateX(-50%);
+        }
+    }
+    &__no-trans {
+        display: inline-block;
+        grid-column: 1 / span 3;
+        min-width: max-content;
+        font-style: italic;
+        padding: 6rem 10rem;
+        text-align: center;
+        @media (max-width: $media-md) {
+            width: 100%;
         }
     }
     &__trigger {
@@ -59,5 +71,59 @@
         &:checked ~ .lang-menu__label .lang-menu__arrow {
             transform: scaleY(-1);
         }
+    }
+    &__trigger {
+        &:checked ~ #overlay {
+            display: block;
+            animation: overlay-in 0.1s ease-out forwards;
+        }
+    }
+}
+
+div.page-translations {
+    display: flex;
+    gap: 0.3em;
+    align-items: center;
+    font-weight: 700;
+    cursor: pointer;
+    user-select: none;
+    color: var(--green-button);
+    padding: 5rem;
+    border-radius: 10px;
+
+    &:hover {
+        background-color: var(--common-green-hover);
+        color: white;
+    }
+}
+
+#overlay {
+    position: fixed;
+    display: none;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0,0,0,0.7);
+    z-index: -1;
+    cursor: pointer;
+}
+
+@keyframes overlay-in {
+    0% {
+        display: none;
+        opacity: 0;
+    }
+
+    1% {
+        display: block;
+        opacity: 0;
+    }
+
+    100% {
+        display: block;
+        opacity: 1;
     }
 }
