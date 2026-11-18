@@ -28,9 +28,11 @@ Since the split in April 2025, CoMaps has developed a number of features:
   - options to avoid paved or unpaved roads, as well as stairs
   - turn-by-turn directions preview
 - On iOS:
-  - lane guidance and CarPlay Dashboard support
+  - lane guidance, CarPlay improvements and Dashboard support
   - new modes UI and transport-specific map styles
 - On Android:
+  - Interactive route preview (press the preview button and then tap a step)
+  - Android Auto improvements
   - automatic backups for favorites (bookmarks, tracks)
   - updated Material 3 UI
 	- search across all favourites lists
@@ -41,10 +43,11 @@ Since the split in April 2025, CoMaps has developed a number of features:
 - Added map object details:
   - Panoramax picture links
   - Mastodon & Bluesky contacts
-  - population of localities
-  - organic options in e.g. clothing shops and restaurants
-  - charge amounts for facilities
-  - "last checked" date
+  - Population of localities
+  - Organic options in e.g. clothing shops and restaurants
+  - Clarifying Vegetarian/Vegan options
+  - Charge amounts for facilities
+  - "Last checked" date
 - Improved Right-to-Left languages support
 - Built-in OpenStreetMap editor enhancements:
   - support for OSM Notes
