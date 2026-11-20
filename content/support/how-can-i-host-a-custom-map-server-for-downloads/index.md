@@ -4,14 +4,14 @@ description: "Frequently asked questions for CoMaps application"
 taxonomies:
   supportcategory: ["Map Data"]
 extra:
-  tags: ["Android"]
+  tags: ["Android", "iPhone & iPad"]
   order: 65
 ---
 
 If you want to host your maps yourself, you so far need to use the same files CoMaps provides.
 There are different ways for downloading and serving the map files
 
-## Using community-tools
+## Using community tools
 
 Thanks to our community, there are currently two approaches designed to make downloading and serving CoMaps map files easier:
 
@@ -28,15 +28,20 @@ You can find a list of URLs with valid map files hosted by CoMaps here, under th
 
 For your map server to correctly serve the files, the file/folder structure needs to fit the one CoMaps uses.
 
-The file and folder structure underneath each base server URL should be like: `/maps/251209/US_New York_New York.mwm`
+Under normal operation, CoMaps queries a _meta server_ for any map updates, and downloads any new maps from a _map server_. When you set a custom server URL, you are setting the URL for both the _meta_ server and _map_ server.
+
+Your custom server must serve both the _meta_ information and _map data_. The file and folder structure underneath the base server URL for _map data_ should be like: `/maps/2026.06.28/261101/US_New York_New York.mwm`
 
 In other words:
 
 - `/maps` -- first folder underneath the base server URL
-  - `/251209` -- date code (YYMMDD) of the map version which will match the countries.txt shipped with your app and the "map data" date in the About menu
-    - `/US_New York_New York.mwm` -- the specific MWM map file(s) for the "countries" (map regions) desired. Note somewhat arbitrary use of underscores and spaces. The best thing to do here is to just copy our official files directly, examine your app's countries.txt file, or check the filenames in the [data/borders folder](https://codeberg.org/comaps/comaps/src/branch/main/data/borders) in the main CoMaps code repository, replacing `.poly` with `.mwm`
+  - `/2026.06.28` -- map series (YYYY.MM.DD), which is the MWM compatibility version built into every version of CoMaps
+    - `/261101` -- date code (YYMMDD) of the map version 
+      - `/US_New York_New York.mwm` -- the specific MWM map file(s) for the "countries" (map regions) desired. Note somewhat arbitrary use of underscores and spaces. The best thing to do here is to just copy our official files directly, examine your app's countries.txt file, or check the filenames in the [data/borders folder](https://codeberg.org/comaps/comaps/src/branch/main/data/borders) in the main CoMaps code repository, replacing `.poly` with `.mwm`
 
 Download the MWM files for the regions you care about using a web browser, or a tool like wget.
+
+For the meta information, you must have a file at `/meta/maps.json`. The contents of the file should follow the same format as the one in our **meta-php** repository: [maps.json](https://codeberg.org/comaps/meta-php/src/branch/main/maps.json). The meta file lists all map versions which are available for given _map series_, and is what instructs the app to know when there is a map update available.
 
 ## More help
 
