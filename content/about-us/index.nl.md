@@ -27,7 +27,7 @@ extra:
         year: 2025
     title: Geschiedenis
   media_highlights:
-    description: "Zie de volledige lijst met berichtgeving in de media over CoMaps."
+    description: "Zie de volledige lijst met mediaberichten over CoMaps."
     title: "Hoogtepunten in de media"
   vm:
     items:
@@ -37,7 +37,7 @@ extra:
         title: Missie
       - icon: /images/icons/about/vision.svg
         media: /images/about-us/vision.png
-        text: "Maak een wereld waarin navigatie met kaarten gratis is en privacy de standaard."
+        text: "Het maken van een wereld waarin navigatie met kaarten gratis is en privacy de standaard eerste keus is."
         title: Visie
 template: about-us.html
 title: "Over ons"

@@ -469,7 +469,7 @@ msgstr "Geschiedenis"
 #: content/about-us/index.md
 #, no-wrap
 msgid "See the full list of media coverage about CoMaps."
-msgstr "Zie de volledige lijst met berichtgeving in de media over CoMaps."
+msgstr "Zie de volledige lijst met mediaberichten over CoMaps."
 
 #. type: Yaml Front Matter Hash Value: extra media_highlights title
 #: content/about-us/index.md
@@ -493,7 +493,7 @@ msgstr "Missie"
 #: content/about-us/index.md
 #, no-wrap
 msgid "Create a world where navigating with maps is free, and privacy by default is the top choice on the planet."
-msgstr "Maak een wereld waarin navigatie met kaarten gratis is en privacy de standaard."
+msgstr "Het maken van een wereld waarin navigatie met kaarten gratis is en privacy de standaard eerste keus is."
 
 #. type: Yaml Front Matter Hash Value: extra vm items title
 #: content/about-us/index.md
@@ -567,12 +567,12 @@ msgstr "CoMaps volgt je niet."
 #. type: Plain text
 #: content/privacy/index.md
 msgid "If you send personal information to us, for example by emailing log files to support@comaps.app, the logs may contain GPS coordinates or bookmark data. You can always send the logs to yourself, edit them, and then send them in. Our support volunteers follow these procedures:"
-msgstr "Als je persoonlijke gegevens naar ons verzendt, bijvoorbeeld door logbestanden te e-mailen naar support@comaps.app, kunnen deze GPS-coördinaten of bladwijzergegevens bevatten. Je kunt de logboeken altijd eerst naar jezelf sturen, bewerken en vervolgens doorsturen. Onze supportvrijwilligers volgen deze procedures:"
+msgstr "Als je persoonlijke gegevens naar ons verzendt, bijvoorbeeld door logbestanden te e-mailen naar support@comaps.app, kunnen deze GPS-coördinaten of gegevens over favorieten bevatten. Je kunt de logboeken altijd eerst naar jezelf sturen, bewerken en vervolgens doorsturen. Onze supportvrijwilligers volgen deze procedures:"
 
 #. type: Bullet: '- '
 #: content/privacy/index.md
 msgid "We do our best to anonymize your data before sending it to developers or posting it on our Codeberg issues or in Zulip chats. For example we'll say \"ticket 305\" instead of your email address"
-msgstr "We doen ons best om jouw gegevens te anonimiseren voordat we deze naar ontwikkelaars sturen of op onze Codeberg-issues of in Zulip-chats plaatsen. We zeggen bijvoorbeeld \"ticket 305\" in plaats van jouw e-mailadres"
+msgstr "We doen ons best om jouw gegevens te anonimiseren voordat we deze naar ontwikkelaars sturen of op onze Codeberg-issues of in Zulip-chats plaatsen. We zeggen bijvoorbeeld \"ticket 305\" in plaats van jouw e-mailadres."
 
 #. type: Bullet: '- '
 #: content/privacy/index.md

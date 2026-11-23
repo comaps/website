@@ -24,4 +24,4 @@ them in. Our support volunteers follow these procedures:
 Falls du Fragen oder Vorschläge hast, kontaktiere uns bitte unter
 legal@comaps.app
 
-Policy effective: 2026-09-19
+Gültig seit: 19.09.2026

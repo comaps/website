@@ -8,20 +8,21 @@ identifikation af personer, reklame eller indsamling af personoplysninger.
 
 CoMaps sporer dig ikke.
 
-If you send personal information to us, for example by emailing log files to
-support@comaps.app, the logs may contain GPS coordinates or bookmark
-data. You can always send the logs to yourself, edit them, and then send
-them in. Our support volunteers follow these procedures:
+Hvis du sender personlig information til os, for eksempel ved at e-maile
+logfiler til support@comaps.app, logfilerne kan indeholde GPS-koordinater
+eller favoritdata. Du kan altid sende logfilerne til dig selv, ændre i dem,
+og så sende dem. Vores supportfrivillige følger disse procedurer:
 
-- We do our best to anonymize your data before sending it to developers or
-  posting it on our Codeberg issues or in Zulip chats. For example we'll say
-  "ticket 305" instead of your email address
-- We'll try to filter out irrelevant log lines, so your entire travel route
-  isn't passed along unless it's relevant.
-- We close inactive support requests after a week, and delete closed
-  requests from our system after a year.
+- Vi gør vorest bedste til at anonymisere dine data inden vi sender det til
+  vores udviklere eller sender det i vores Codeberg-issues eller
+  Zulip-chats. Vi siger for eksempel "ticket 305" i sted for din
+  e-mailadresse
+- Vi vil prøve at filtre ud irrelevamte loglinjer, så din samlede rejserute
+  ikke videregives, medmindre den er relevant.
+- Vi lukker inaktive supportanmodninger efter en uge og sletter lukkede
+  anmodninger fra vores system efter et år.
 
 Hvis du har spørgsmål eller forslag, er du velkommen til at kontakte os på
 legal@comaps.app
 
-Policy effective: 2026-09-19
+Politikken gældende fra: 19-09-2026

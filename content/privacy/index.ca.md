@@ -8,20 +8,22 @@ d'identificar la gent, anunciar, o recol·lectar-ne dades personals.
 
 CoMaps no vos rastreja.
 
-If you send personal information to us, for example by emailing log files to
-support@comaps.app, the logs may contain GPS coordinates or bookmark
-data. You can always send the logs to yourself, edit them, and then send
-them in. Our support volunteers follow these procedures:
+Si ens envies informació personal, per exemple fitxers de registre a
+l'adreça support@comaps.app, els registres podrien contindre coordenades GPS
+o dades de marcadors. Sempre pots enviar-te els registres a tu mateix,
+editar-los i, llavors, enviar-nos-els. Els nostres voluntaris de suport
+segueixen aquests procediments:
 
-- We do our best to anonymize your data before sending it to developers or
-  posting it on our Codeberg issues or in Zulip chats. For example we'll say
-  "ticket 305" instead of your email address
-- We'll try to filter out irrelevant log lines, so your entire travel route
-  isn't passed along unless it's relevant.
-- We close inactive support requests after a week, and delete closed
-  requests from our system after a year.
+- Donem el millor de nosaltres perquè les teves dades siguen anònimes abans
+  d'enviar-les als desenvolupadors o penjar-les a les nostres incidències a
+  Codeberg o en xats de Zulip. Per exemple, direm "tiquet 305" en comptes de
+  la teva adreça electrònica
+- Tractarem de filtrar les línies irrellevants del registre perquè no es
+  transmeta tota la teva ruta, llevat que siga rellevant.
+- Tanquem les peticions de suport inactives després d'una setmana, i
+  esborrem les peticions tancades del nostre sistema després d'un any.
 
 Si teniu alguna pregunta o suggerència, per favor contacteu-nos a l'adreça
 legal@comaps.app
 
-Policy effective: 2026-09-19
+Política vigent des del 19-09-2026

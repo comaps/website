@@ -9,20 +9,22 @@ gegevens.
 
 CoMaps volgt je niet.
 
-If you send personal information to us, for example by emailing log files to
-support@comaps.app, the logs may contain GPS coordinates or bookmark
-data. You can always send the logs to yourself, edit them, and then send
-them in. Our support volunteers follow these procedures:
+Als je persoonlijke gegevens naar ons verzendt, bijvoorbeeld door
+logbestanden te e-mailen naar support@comaps.app, kunnen deze
+GPS-coördinaten of gegevens over favorieten bevatten. Je kunt de logboeken
+altijd eerst naar jezelf sturen, bewerken en vervolgens doorsturen. Onze
+supportvrijwilligers volgen deze procedures:
 
-- We do our best to anonymize your data before sending it to developers or
-  posting it on our Codeberg issues or in Zulip chats. For example we'll say
-  "ticket 305" instead of your email address
-- We'll try to filter out irrelevant log lines, so your entire travel route
-  isn't passed along unless it's relevant.
-- We close inactive support requests after a week, and delete closed
-  requests from our system after a year.
+- We doen ons best om jouw gegevens te anonimiseren voordat we deze naar
+  ontwikkelaars sturen of op onze Codeberg-issues of in Zulip-chats
+  plaatsen. We zeggen bijvoorbeeld "ticket 305" in plaats van jouw
+  e-mailadres.
+- We zullen proberen irrelevante logregels eruit te filteren, zodat niet je
+  hele reisroute wordt doorgegeven, tenzij dat relevant is.
+- We sluiten inactieve ondersteuningsaanvragen na een week en verwijderen
+  gesloten verzoeken na een jaar uit ons systeem.
 
 Als je vragen of opmerkingen hebt, neem dan contact met ons op via
 legal@comaps.app
 
-Policy effective: 2026-09-19
+Beleid effectief: 19-09-2026

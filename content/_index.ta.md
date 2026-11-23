@@ -5,23 +5,50 @@ extra:
     description: 'உங்கள் பயணத்தைக் கண்டறியவும், தனியுரிமை மற்றும் சமூகத்தை முன்னணியில் கொண்டு உலகிற்கு செல்லவும்.'
     title: 'விடுதலை இங்கே உள்ளது'
   map:
-    description: 'சமூகம் + திறந்த வரைபடங்கள்'
+    description: 'சமூகத்தால் படைக்க மற்றும் திறமூலமான நிலப்படங்கள்'
   preinstalls:
     description: 'CoMaps comes preinstalled on these operating systems as their default map app.'
     title: 'Trusted by these projects'
   services:
     items:
       - 
-        description: 'மொபைல் டேட்டா தேவையில்லை, சிபிஎச் மூலம் உங்கள் வெளிநாட்டுப் பயணத்தைத் திட்டமிட்டு செல்லவும். தொலைதூர ஐக்கிங் பாதைகள் அல்லது பைக் பாதைகளில் செல்லும் போது வழிப் புள்ளிகளைத் தேடுங்கள்.'
+        description: 'Plan and navigate your trip abroad with just GPS, no need for mobile data. Search waypoints while on remote hiking trails or bike paths. Navigate with turn-by-turn instructions by foot, bike or car, including voice announcements.'
         highlight:
           icon: static/images/icons/home/wifi-off.svg
           text: 'இணையம் தேவையில்லை'
         media:
           map: /images/sections/map-s-1.webp
           user: /images/sections/map-m-1.webp
-        title: 'இணைப்பில்லாத தேடல் மற்றும் வழி'
+        title: 'Offline Search and Routing'
       - 
-        description: 'பயன்பாடு தனியுரிமையை மனதில் கொண்டு வடிவமைக்கப்பட்டுள்ளது - நபர்களை அடையாளம் காணாது, உங்களைக் கண்காணிக்காது மற்றும் எந்த தகவலையும் சேகரிக்காது. CoMaps <span class="text-icon"><svg viewBox="0 0 19 19"><use href="#icon-exodus"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/late) ஆல் தணிக்கை செய்யப்பட்டது.'
+        description: 'Use the outdoor mode to highlight hiking trails, campsites, and water sources. Enable contour lines to plan your trip. Spot an interesting peak along the way? Use the offline *Wikipedia* articles to learn more about it!'
+        highlight:
+          icon: static/images/icons/home/mappin-small.svg
+          text: 'Explore nature'
+        media:
+          map: /images/sections/map-s-5.webp
+          user: /images/sections/map-m-5.webp
+        title: 'Hike with the Information you Need'
+      - 
+        description: 'திறமையாக பயன்படுத்துகிறது, மற்ற வழிசெலுத்தல் செயலிகள் போல் உங்கள் மின்கலத்தை குடிக்காது.'
+        highlight:
+          icon: static/images/icons/home/battery.svg
+          text: 'திறமையான பேட்டரி பயன்பாடு'
+        media:
+          map: /images/sections/map-s-3.webp
+          user: /images/sections/map-m-3.webp
+        title: 'உங்கள் பேட்டரியைச் சேமிக்கவும்'
+      - 
+        description: 'Use the public transport layer to plan your subway and light rail journeys in a growing list of cities.'
+        highlight:
+          icon: static/images/icons/home/train-m.svg
+          text: 'Explore the city'
+        media:
+          map: /images/sections/map-s-6.webp
+          user: /images/sections/map-m-6.webp
+        title: 'Get around the City'
+      - 
+        description: 'The app is designed with privacy in mind - does not identify people, does not track you, and does not collect any information. CoMaps was also audited by <span class="text-icon"><svg viewbox="0 0 19 19"><use href="#icon-exodus"></use></svg> [Exodus](https://reports.exodus-privacy.eu.org/reports/app.comaps.google/latest/), a privacy auditor.'
         highlight:
           icon: static/images/icons/home/shield.svg
           text: 'இயல்பாக தனியுரிமை'
@@ -30,14 +57,14 @@ extra:
           user: /images/sections/map-m-2.webp
         title: 'தரவு சேகரிப்பு இல்லை'
       - 
-        description: 'பேட்டரியை திறமையாகப் பயன்படுத்துகிறது, மற்ற வழிசெலுத்தல் பயன்பாடுகளைப் போல உங்கள் பேட்டரியை வெளியேற்றாது.'
+        description: 'CoMaps is recommended by *[Switching Software](https://switching.software/replace/google-maps/)*, *[European & Open Source Alternatives](https://european-alternatives.cloud/en/browse?category=maps)*, *[Digital Independence Day](https://di.day/en/digital-switch-recipes/maps)* ,and *[Framastart](https://framastart.org/smartphone/)* as an ethical, easy-to-use and privacy-conscious alternative to commercial maps.'
         highlight:
-          icon: static/images/icons/home/battery.svg
-          text: 'திறமையான பேட்டரி பயன்பாடு'
+          icon: static/images/icons/home/route-arrows-up-icon.svg
+          text: 'Independent maps'
         media:
-          map: /images/sections/map-s-3.webp
-          user: /images/sections/map-m-3.webp
-        title: 'உங்கள் பேட்டரியைச் சேமிக்கவும்'
+          map: /images/sections/map-s-7.webp
+          user: /images/sections/map-m-7.webp
+        title: 'A True Alternative'
       - 
         cta:
           href: community/

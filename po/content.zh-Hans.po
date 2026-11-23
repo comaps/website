@@ -591,10 +591,8 @@ msgstr "如果您有任何疑问或建议，请联系我们：legal@comaps.app"
 
 #. type: Plain text
 #: content/privacy/index.md
-#, fuzzy
-#| msgid "Policy effective: 2025-05-01"
 msgid "Policy effective: 2026-09-19"
-msgstr "政策生效日期：2025年5月1日"
+msgstr "政策生效日期：2026年9月19日"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/terms/index.md

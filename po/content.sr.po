@@ -13,7 +13,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 2026.9.1\n"
+"X-Generator: Weblate 2026.10.1\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -567,22 +567,22 @@ msgstr "CoMaps вас не прати."
 #. type: Plain text
 #: content/privacy/index.md
 msgid "If you send personal information to us, for example by emailing log files to support@comaps.app, the logs may contain GPS coordinates or bookmark data. You can always send the logs to yourself, edit them, and then send them in. Our support volunteers follow these procedures:"
-msgstr ""
+msgstr "Ако нам пошаљете личне податке, на пример слањем лог фајлова путем имејла на адресу support@comaps.app, те датотеке могу садржати GPS координате или податке о обележеним локацијама. Увек можете прво послати лог фајлове себи, изменити их, а затим их послати нама. Наши волонтери у техничкој подршци придржавају се следећих процедура:"
 
 #. type: Bullet: '- '
 #: content/privacy/index.md
 msgid "We do our best to anonymize your data before sending it to developers or posting it on our Codeberg issues or in Zulip chats. For example we'll say \"ticket 305\" instead of your email address"
-msgstr ""
+msgstr "Трудимо се да анонимизујемо ваше податке пре него што их проследимо програмерима или објавимо у нашим пријавама проблема на платформи *Codeberg* или у *Zulip* препискама. На пример, уместо ваше имејл адресе користићемо ознаку „тикет 305”"
 
 #. type: Bullet: '- '
 #: content/privacy/index.md
 msgid "We'll try to filter out irrelevant log lines, so your entire travel route isn't passed along unless it's relevant."
-msgstr ""
+msgstr "Покушаћемо да уклонимо небитне редове из лог фајлова, како не бисмо прослеђивали целокупну вашу трасу путовања, осим ако је то неопходно за решавање проблема."
 
 #. type: Bullet: '- '
 #: content/privacy/index.md
 msgid "We close inactive support requests after a week, and delete closed requests from our system after a year."
-msgstr ""
+msgstr "Недељу дана након последње активности затварамо захтеве за техничку подршку, а затворене захтеве бришемо из нашег система након годину дана."
 
 #. type: Plain text
 #: content/privacy/index.md content/terms/index.md
@@ -591,10 +591,8 @@ msgstr "Ако имате било каквих питања или сугест
 
 #. type: Plain text
 #: content/privacy/index.md
-#, fuzzy
-#| msgid "Policy effective: 2025-05-01"
 msgid "Policy effective: 2026-09-19"
-msgstr "Политика ступа на снагу: 01-05-2025"
+msgstr "Правила важе од: 2026-09-19"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/terms/index.md

@@ -8,20 +8,22 @@ kasutajaid, ei kuva reklaami ega kogu isiklikke andmeid.
 
 CoMaps ei jälgi ega jälita sind.
 
-If you send personal information to us, for example by emailing log files to
-support@comaps.app, the logs may contain GPS coordinates or bookmark
-data. You can always send the logs to yourself, edit them, and then send
-them in. Our support volunteers follow these procedures:
+Kui saadad meile isikuandmeid, näiteks saates logifailid e-postiga
+aadressile support@comaps.app, võivad need logid sisaldada GPS-koordinaate
+või järjehoidjaandmeid. Võid logid alati esmalt endale saata, neid muuta ja
+alles seejärel meile edastada. Meie vabatahtlikud tugitöötajad järgivad
+järgmisi protseduure:
 
-- We do our best to anonymize your data before sending it to developers or
-  posting it on our Codeberg issues or in Zulip chats. For example we'll say
-  "ticket 305" instead of your email address
-- We'll try to filter out irrelevant log lines, so your entire travel route
-  isn't passed along unless it's relevant.
-- We close inactive support requests after a week, and delete closed
-  requests from our system after a year.
+- Teeme oma parima, et muuta sinu andmed anonüümseks enne nende edastamist
+  arendajatele või avaldamist meie veahalduse liideses Codebergis või Zulipi
+  vestlustes. Näiteks kasutame sinu e-posti aadressi asemel väljendit
+  „veahalduse kirje 305“
+- Me proovime eemaldada ebaolulised logiread, nii et kogu sinu
+  reisimarsruuti ei edastata, välja arvatud juhul, kui see on asjakohane.
+- Sulgeme mitteaktiivsed klienditoe päringud nädala möödudes ja kustutame
+  suletud päringud süsteemist aasta möödudes.
 
 Kui sul on küsimusi või ettepanekuid, siis palun kirjuta meile e-posti
 aadressil legal@comaps.app
 
-Policy effective: 2026-09-19
+Reeglid kehtivad alates: 2026-09-19

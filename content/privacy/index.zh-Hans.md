@@ -22,4 +22,4 @@ them in. Our support volunteers follow these procedures:
 
 如果您有任何疑问或建议，请联系我们：legal@comaps.app
 
-Policy effective: 2026-09-19
+政策生效日期：2026年9月19日

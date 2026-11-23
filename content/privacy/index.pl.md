@@ -1,12 +1,12 @@
 ---
-title: Privacy
+title: Prywatność
 weight: 900
 ---
 
-At CoMaps, we respect your privacy. CoMaps does not have any form of
-identification of people, advertising, or personal data collection.
+Jako CoMaps szanujemy twoją prywatność. CoMaps nie zawiera żadnej formy
+identyfikacji ludzi, reklam lub zbierania danych osobowych.
 
-CoMaps does not track you.
+CoMaps nie śledzi cię.
 
 If you send personal information to us, for example by emailing log files to
 support@comaps.app, the logs may contain GPS coordinates or bookmark
@@ -21,7 +21,7 @@ them in. Our support volunteers follow these procedures:
 - We close inactive support requests after a week, and delete closed
   requests from our system after a year.
 
-If you have any questions or suggestions, please contact us at
+Jeśli masz jakieś pytania lub sugestie, skontaktuj się z nami pod adresem
 legal@comaps.app
 
-Policy effective: 2026-09-19
+Wejście w życie polityki: 19.09.2025

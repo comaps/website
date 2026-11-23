@@ -21,14 +21,14 @@ extra:
           user: /images/sections/map-m-1.webp
         title: 'Cerca i navegació sense connexió'
       - 
-        description: 'Use the outdoor mode to highlight hiking trails, campsites, and water sources. Enable contour lines to plan your trip. Spot an interesting peak along the way? Use the offline *Wikipedia* articles to learn more about it!'
+        description: "Usa el mode a l'aire lliure per a destacar els senders, càmpings i punts d'aigua. Activa les corbes de nivell per a planificar la ruta. Et crida l'atenció un cim pel camí? Llig-ne els articles de la *Viquipèdia*, disponibles sense connexió, per a descobrir-ne més!"
         highlight:
           icon: static/images/icons/home/mappin-small.svg
           text: 'Explora la natura'
         media:
           map: /images/sections/map-s-5.webp
           user: /images/sections/map-m-5.webp
-        title: 'Senderisme amb tota la informació que necessiteu'
+        title: 'Senderisme amb tota la informació que necessites'
       - 
         description: 'Ús eficient de la bateria, no consumeix tanta bateria com altres aplicacions de navegació.'
         highlight:
@@ -57,7 +57,7 @@ extra:
           user: /images/sections/map-m-2.webp
         title: 'Sense recol·lecció de dades'
       - 
-        description: 'Les plataformes *[Switching Software](https://switching.software/replace/google-maps/)*, *[European & Open Source Alternatives](https://european-alternatives.cloud/en/browse?category=maps)*, *[Digital Independence Day](https://di.day/en/digital-switch-recipes/maps)* i *[Framastart](https://framastart.org/smartphone/)* recomanen CoMaps per ser una alternativa ètica, intuïtiva i compromesa amb la privacitat en front a aplicacions comercials de mapes.'
+        description: "Les plataformes *[Switching Software](https://switching.software/replace/google-maps/)*, *[European & Open Source Alternatives](https://european-alternatives.cloud/en/browse?category=maps)*, *[Digital Independence Day](https://di.day/en/digital-switch-recipes/maps)* i *[Framastart](https://framastart.org/smartphone/)* recomanen CoMaps per ser una alternativa ètica, intuïtiva i compromesa amb la privacitat enfront d'aplicacions comercials de mapes."
         highlight:
           icon: static/images/icons/home/route-arrows-up-icon.svg
           text: 'Mapes independents'
@@ -69,7 +69,7 @@ extra:
         cta:
           href: community/
           text: inv_title
-        description: "Les persones com tu han ajudat a construir l'aplicació afegint llocs a <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, donant la seva opinió sobre funcionalitats, i contribuint amb codi a <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> per fer millors mapes entre tots. El projecte és una bifurcació de Organic Maps i Maps.me, i està dirigit per la comunitat de codi obert."
+        description: "Les persones com tu han ajudat a construir l'aplicació afegint llocs a <span class=\"text-icon\"><svg viewBox=\"0 0 19 19\"><use href=\"#icon-open-street-map\"></use></svg> [OpenStreetMap](https://openstreetmap.org)</span>, donant la seva opinió sobre funcionalitats, i contribuint amb codi a <span class=\"text-icon\"><svg viewbox=\"0 0 4.233 4.233\"> <use href=\"#icon-codeberg\"></use></svg> [Codeberg](https://codeberg.org/comaps)</span> per fer millors mapes entre tots. El projecte és una bifurcació d'Organic Maps i Maps.me, i està dirigit per la comunitat de codi obert."
         highlight:
           icon: static/images/icons/home/heart.svg
           text: 'Gratuït per a tothom, fet amb amor'

@@ -13,7 +13,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 2026.9.1\n"
+"X-Generator: Weblate 2026.10.1\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.md
@@ -567,22 +567,22 @@ msgstr "CoMaps ne vous piste pas."
 #. type: Plain text
 #: content/privacy/index.md
 msgid "If you send personal information to us, for example by emailing log files to support@comaps.app, the logs may contain GPS coordinates or bookmark data. You can always send the logs to yourself, edit them, and then send them in. Our support volunteers follow these procedures:"
-msgstr ""
+msgstr "Si vous nous transmettez des informations personnelles, par exemple en envoyant des fichiers journaux par e-mail à l'adresse support@comaps.app, ces fichiers peuvent contenir des coordonnées GPS ou des données de signets. Vous pouvez toujours vous envoyer ces fichiers journaux, les modifier, puis nous les transmettre. Nos bénévoles du service d'assistance suivent les procédures suivantes :"
 
 #. type: Bullet: '- '
 #: content/privacy/index.md
 msgid "We do our best to anonymize your data before sending it to developers or posting it on our Codeberg issues or in Zulip chats. For example we'll say \"ticket 305\" instead of your email address"
-msgstr ""
+msgstr "Nous faisons tout notre possible pour anonymiser vos données avant de les transmettre aux développeurs ou de les publier dans nos tickets Codeberg ou dans les discussions Zulip. Par exemple, nous utiliserons l'expression « ticket 305 » au lieu de votre adresse e-mail."
 
 #. type: Bullet: '- '
 #: content/privacy/index.md
 msgid "We'll try to filter out irrelevant log lines, so your entire travel route isn't passed along unless it's relevant."
-msgstr ""
+msgstr "Nous essaierons de filtrer les lignes de journal non pertinentes, afin que l'intégralité de votre itinéraire ne soit pas transmise, sauf si cela s'avère pertinent."
 
 #. type: Bullet: '- '
 #: content/privacy/index.md
 msgid "We close inactive support requests after a week, and delete closed requests from our system after a year."
-msgstr ""
+msgstr "Nous clôturons les demandes d'assistance inactives au bout d'une semaine et supprimons les demandes clôturées de notre système au bout d'un an."
 
 #. type: Plain text
 #: content/privacy/index.md content/terms/index.md
@@ -591,10 +591,8 @@ msgstr "Pour toute question ou suggestion, veuillez nous contacter à legal@coma
 
 #. type: Plain text
 #: content/privacy/index.md
-#, fuzzy
-#| msgid "Policy effective: 2025-05-01"
 msgid "Policy effective: 2026-09-19"
-msgstr "Politique appliquée depuis le 01/05/2025"
+msgstr "Date d'entrée en vigueur de la politique : 19 septembre 2026"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/terms/index.md
