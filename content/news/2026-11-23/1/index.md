@@ -53,6 +53,7 @@ Our goal for V2 is to enhance the location sharing experience as much as possibl
 - Internationalization (including right to left language support in the interface)
 - Click on new locations
 - Displaying the address of the shared location
+
 We will definitely need help with translating soon, so please reach out if you would like to help with that.
 ## Beyond
 In the long term, we would like to grow comaps.at into a full fledged online web map with search and routing and the whole enchilada. In the meantime, we're focusing on features that will best complement the main CoMaps app.
