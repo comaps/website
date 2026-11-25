@@ -121,8 +121,8 @@ video.max-w-20, img.max-w-20 { max-width: 20%;
     }
 }
 video.center, img.center {
-    margin-right: auto;
-    margin-left: auto;
+	margin: 2em auto;
+	display: block;
 }
 
 figure {

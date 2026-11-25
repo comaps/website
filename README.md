@@ -11,7 +11,7 @@ This static [comaps.app](https://www.comaps.app/) website is built with [Zola](h
 ## Development
 
 - To build the site, either:
-  - Download the latest zola for your operating system and set up the necessary path variable.
+  - Download the latest [zola](https://www.getzola.org/) for your operating system and set up the necessary path variable.
   - Run `zola serve` for a local preview or `zola build` to generate static site in the `public` folder.
 - Or:
   - Use the provided `compose.yaml` which uses Zola in a container, automatically mounts the local directory, and runs `zola serve`.

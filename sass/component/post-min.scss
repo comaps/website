@@ -10,6 +10,12 @@
     list-style: disc;
     padding-left: 20px;
   }
+  
+  ol {
+    list-style-type: decimal;
+    padding-left: 20px;
+  }
+  
   &__row {
     display: grid;
     grid-template-columns: 1fr 1fr;
