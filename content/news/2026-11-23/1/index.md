@@ -45,7 +45,7 @@ So we set out to improve it and rewrote it from the ground up. A few days ago we
 {{ <image_fig src="desktop-dark-mode.png" caption="CoMaps Web as viewed on desktop and with dark mode enabled" alt="CoMaps Web as viewed on desktop and with dark mode enabled. The location displayed is Victory Caffe" /> }}
 
 Now you and your friend can both head to the restaurant without worrying about coordinates or which map app you each use. 
-FYI Victory Caffe is one of my favorite restaurants; here's the link: https://comaps.at/0jkXRrQtf5/Victory_Caffe 
+FYI Victory Caffe is one of my favorite restaurants; here's the link: [https://comaps.at/0jkXRrQtf5/Victory_Caffe](https://comaps.at/0jkXRrQtf5/Victory_Caffe) 
 Enjoy :)
 # The Future
 ## V2
